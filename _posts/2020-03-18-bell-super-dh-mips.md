@@ -2,7 +2,7 @@
 layout: post
 title:  "Donde comprar el casco Bell Super DH MIPS"
 date:   2020-03-18 17:00:00 +0200
-categories: mtb helmet bell dh
+categories: mtb helmet bell dh offers
 ---
 [![](https://1.bp.blogspot.com/-JqPORd_UJFE/XnJcxzMSPYI/AAAAAAAABMI/0CRDGc6OuIkTwSTn8IUr9y5exlgYjLqcgCLcBGAsYHQ/s200/bell-super-dh-mips-2019.jpg)](https://1.bp.blogspot.com/-JqPORd_UJFE/XnJcxzMSPYI/AAAAAAAABMI/0CRDGc6OuIkTwSTn8IUr9y5exlgYjLqcgCLcBGAsYHQ/s1600/bell-super-dh-mips-2019.jpg)
 
@@ -21,6 +21,4 @@ En alemania, buscando en [amazonde](https://www.amazon.de/Unisex-Erwachsene-SUP
 | BELL Unisex -Erwachsene Super Dh MIPS Fahrradhelm | amazonde | 217.17€ |
 | Bell Casco Super DH MIPS | bikecompde | 228.78€ |
 | Casco de descenso Bell Super DH MIPS | chainreaction | 246.99€ |
-| Casco Bell Super DH MIPS azul amarillo flúor | deporvillage | 247€
-
- |
+| Casco Bell Super DH MIPS azul amarillo flúor | deporvillage | 247€ |
