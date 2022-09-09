@@ -4,7 +4,7 @@ title:  "Take advantage of the price drop of SSD and upgrade your computer today
 date:   2012-07-10 17:00:00 +0200
 categories: smartshopping ssd computing
 ---
-**Want to upgrade your computer but can't afford a new one**? Or just simply don't want to have working computer getting dusty in a corner? You probably have already heard about SSD on high end laptops like [macbooks](https://whereshouldibuy.apphb.com/us/macbook), but you probably have also heard that they are pricey or at least until now.\
+**Want to upgrade your computer but can't afford a new one**? Or just simply don't want to have working computer getting dusty in a corner? You probably have already heard about SSD on high end laptops like [macbooks](https://wheretobuy.apphb.com/us/macbook), but you probably have also heard that they are pricey or at least until now.\
 First let's introduce the concept of *SSD* and later talk about its prices.
 
 ### SSD?
@@ -24,4 +24,4 @@ Here you have a graph showing the price evolution of the [Crucial CT128M4SSD2 12
 
 [![](https://3.bp.blogspot.com/-M3DPcY4IFAc/Vyhjlq4993I/AAAAAAAAAyg/q8MxYXemNtYh7c6Bk7SBNoab4errO3WXgCLcB/s400/ssd%2Bprice%2Bdrop.jpg)](https://3.bp.blogspot.com/-M3DPcY4IFAc/Vyhjlq4993I/AAAAAAAAAyg/q8MxYXemNtYh7c6Bk7SBNoab4errO3WXgCLcB/s1600/ssd%2Bprice%2Bdrop.jpg)
 
-**My recommendation is to buy a relatively small *SSD* for your *OS* and programs** that depend much on disk reading, **and have a [traditional hard disk](https://whereshouldibuy.apphb.com/us/hard%20disk%20drive) for store data**, then you will not need much space, [128GB](https://whereshouldibuy.apphb.com/us/ssd%20128gb) will be enough, and your pocket will not hurt much.
+**My recommendation is to buy a relatively small *SSD* for your *OS* and programs** that depend much on disk reading, **and have a [traditional hard disk](https://wheretobuy.apphb.com/us/hard%20disk%20drive) for store data**, then you will not need much space, [128GB](https://wheretobuy.apphb.com/us/ssd%20128gb) will be enough, and your pocket will not hurt much.
