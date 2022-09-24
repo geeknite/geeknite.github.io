@@ -2,7 +2,7 @@
 layout: post
 title:  "Benefits of mountain biking"
 date:   2019-11-15 17:00:00 +0200
-categories: mtb cycling
+tags: mtb cycling
 ---
 There are three important characteristics of mountain biking that make it a viable form of exercise and a healthy one. These are:
 

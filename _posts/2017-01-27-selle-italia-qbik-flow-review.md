@@ -2,7 +2,7 @@
 layout: post
 title:  "Selle Italia Q-bik Flow review"
 date:   2017-01-27 17:00:00 +0200
-categories: mtb sillín saddle selle-italia review
+tags: mtb sillín saddle selle-italia review
 ---
 [![](https://1.bp.blogspot.com/-GJAHvSZvv0s/WIuxl2lqn4I/AAAAAAAAA7U/gbmjqmkbrXI-Rf1hMihihWnxrr40NzR1QCLcB/s320/selle%2Bitalia%2Bq-bik%2Bflow.jpg)](http://www.putinyourbasket.com/es/q-bik)Tengo el sillín [Selle Italia Q-bik Flow](http://www.putinyourbasket.com/es/q-bik) desde 2011 cuando compré mi Canyon y lo llevé durante muchos kilómteros, sobretodo teniendo en cuenta lo que siempre me dijo mi tío aficionado al ciclismo, "**si te duele el culo es porque todavía no se te ha hecho el 'callo'**", al ir en MTB de una forma poco continuada, como ciclista de fin de semana principalmente, siempre he pensado que el problema era mío por tener no tener las suficientes horas de sillín como mi tío.
 

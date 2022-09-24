@@ -3,7 +3,7 @@ layout: post
 title:  "10 Recomendaciones para comprar en amazon desde España"
 date:   2013-01-24 17:00:00 +0200
 lastmod: 2022-09-24 9:00:00 +0200
-categories: amazon españa español europe smartshopping
+tags: amazon españa español europe smartshopping
 ---
 
 <a href='http://www.amazon.es/?_encoding=UTF8&tag={{ site.constants[0].amazon_es }}&linkCode=ur2&camp=3626&creative=24822'><img style="float: right;" src="https://3.bp.blogspot.com/-y7vepNFwf4I/UQF29es4s1I/AAAAAAAAAO4/Ri2PlmOohMA/s200/Amazon-logo%5B1%5D.jpg"></a>

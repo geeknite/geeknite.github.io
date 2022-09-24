@@ -2,7 +2,7 @@
 layout: post
 title:  "Where to buy Fox 34 Volume Spacers"
 date:   2020-03-16 17:00:00 +0200
-categories: mtb components fox offers
+tags: mtb components fox offers
 ---
 [](https://www.awin1.com/cread.php?awinmid=10467&awinaffid=364849&clickref=&p=https%3a%2f%2fwww.chainreactioncycles.com%2fes%2fes%2ffox-suspension-34-float-volume-spacer%2frp-prod195445)
 

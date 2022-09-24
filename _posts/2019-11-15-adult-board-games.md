@@ -2,7 +2,7 @@
 layout: post
 title:  "Adult board gaming"
 date:   2019-11-15 17:00:00 +0200
-categories: board-games gaming
+tags: board-games gaming
 ---
 Adult board games are fun and educational for children, and as such they are widely used in schools. It's hard to imagine how anyone could oppose allowing children to play board games in their homes without being accused of being anti-education.
 

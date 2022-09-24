@@ -2,7 +2,7 @@
 layout: post
 title:  "Take advantage of the price drop of SSD and upgrade your computer today!"
 date:   2012-07-10 17:00:00 +0200
-categories: smartshopping ssd computing
+tags: smartshopping ssd computing
 ---
 **Want to upgrade your computer but can't afford a new one**? Or just simply don't want to have working computer getting dusty in a corner? You probably have already heard about SSD on high end laptops like [macbooks](https://wheretobuy.apphb.com/us/macbook), but you probably have also heard that they are pricey or at least until now.\
 First let's introduce the concept of *SSD* and later talk about its prices.

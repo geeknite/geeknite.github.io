@@ -2,7 +2,7 @@
 layout: post
 title:  "Best hardtail MTB frames for the money"
 date:   2017-04-04 17:00:00 +0200
-categories: mtb frame roundup
+tags: mtb frame roundup
 ---
 You have an old bike sitting in the back of your garage, probably a classic XC bike, probably with good components or even maybe with a snapped frame. May be your neighbour or a friend have one that will gently give to you or even you are considering on getting an old bike to commute. If you are in any of these situations I will inspire you today to **rebuild a bike as a modern hardtail**.
 
