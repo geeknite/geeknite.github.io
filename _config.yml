@@ -34,9 +34,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections:
-  constants:
-    amazon_es: eltrastdelgam-21
+constants:
+  - amazon_es: "eltrastdelgam-21"
+  - amazon_com: "mkx-20"
+  - amazon_it: "ksx-21"
+  - amazon_uk: "kxl-21"
+  - amazon_fr: "krv-21"
+  - amazon_de: "kvl-21"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
