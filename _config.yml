@@ -19,19 +19,69 @@
 # in the templates via {{ site.myvariable }}.
 
 title: GeekNite
-email: your-email@example.com
+email: geeknit@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geeknite.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: "" # the favicon for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+# Copyright setting
+# You can use any html code, currently below placeholders are available:
+# * current year: {currentYear}
+# * author: {author} (Value is the same as site.author)
+# * copyright: (c) - ©
+# * copyleft: (cleft)
+# * sound recording copyright: (p) - ℗
+#
+# For example:
+#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
+#   "Copyright © 2017-2021 Foobar"
+#
+copyright: "geeknite (cleft) 2012-{currentYear}"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+   - index.html
+   - next-articles.markdown
+
+# Banner default settings
+# These banner settings are for global banner default, but you can also
+# config it by the front matter for one specific post
+banner:
+#   video: null             # Video banner source
+#   loop: true              # Video loop
+#   volume: 0               # Video volume (100% is 1.0)
+#   start_at: 0             # Video start time
+#   image: null             # Image banner source
+#   opacity: 1.0            # Banner opacity (100% is 1.0)
+#   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
+  height: "340px"         # Banner default height
+#   min_height: null        # Banner minimum height
+#   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
+#   subheading_style: null  # Custom subheading style (e.g. color: gold)
+
+# Pagination setting
+paginate: 10
+
+# If you want to generate website sitemap, you can set true
+sitemap: true
+
+# Page default value
+defaults:
+  home:
+    heading: "Geeknite"
+    subheading: ""
+#    banner: "Your image url"
+
 # Build settings
-theme: minima
-#remote_theme: PandaSekh/Jekyll-YAMT
+#theme: minima
+remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
