@@ -4,7 +4,8 @@ title:  "Donde comprar el casco Bell Super DH MIPS"
 date:   2020-03-18 17:00:00 +0200
 tags: mtb helmet bell dh offers
 ---
-[![](https://1.bp.blogspot.com/-JqPORd_UJFE/XnJcxzMSPYI/AAAAAAAABMI/0CRDGc6OuIkTwSTn8IUr9y5exlgYjLqcgCLcBGAsYHQ/s200/bell-super-dh-mips-2019.jpg)](https://1.bp.blogspot.com/-JqPORd_UJFE/XnJcxzMSPYI/AAAAAAAABMI/0CRDGc6OuIkTwSTn8IUr9y5exlgYjLqcgCLcBGAsYHQ/s1600/bell-super-dh-mips-2019.jpg)
+
+<a href='https://www.awin1.com/cread.php?awinmid=1857&awinaffid=364849&clickref=&p=https%3a%2f%2fwww.wiggle.es%2fcasco-bell-super-dh-mips%2f'><img style="float: right;" src="https://1.bp.blogspot.com/-JqPORd_UJFE/XnJcxzMSPYI/AAAAAAAABMI/0CRDGc6OuIkTwSTn8IUr9y5exlgYjLqcgCLcBGAsYHQ/s200/bell-super-dh-mips-2019.jpg"></a>
 
 El casco Bell Super DH es la evolución del Bell Super R3 para descenso, un casco de los más premium especialmente por su precio cercano a los 200€, que integra tecnología MIPS y mentón extraíble, seguramente es uno de los cascos más deseados en general. Su versión certificada para DH para los riders más agresivos es un casco apropiado para park y enduro agresivo, con un ajuste muy cómo y una ventilación excelente con canal de sudor.
 

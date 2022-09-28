@@ -22,4 +22,4 @@ I've got a different way of looking at the two different types of strength and e
 
 Strength is the physical capacity of the muscles to produce force. An example of that would be a boxer who can punch more punches or a gymnast who can do more jumps. Strength strength is the result of exercise or practice. And endurance strength is the result of practice.
 
-[![](https://1.bp.blogspot.com/-3C2v4JHzJk8/Xc6Ed4HR_II/AAAAAAAABKs/I1Zex8DuEScuT9POmyH-PXHLTqQr4nn7gCLcBGAsYHQ/s320/benefits%2Bof%2Bbiking.jpg)](https://mtbprogression.blogspot.com/)
+[![](https://1.bp.blogspot.com/-3C2v4JHzJk8/Xc6Ed4HR_II/AAAAAAAABKs/I1Zex8DuEScuT9POmyH-PXHLTqQr4nn7gCLcBGAsYHQ/s320/benefits%2Bof%2Bbiking.jpg)]

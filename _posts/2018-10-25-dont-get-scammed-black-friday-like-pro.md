@@ -4,7 +4,9 @@ title:  "Don't get scammed and prepare for Black Friday like a PRO"
 date:   2018-10-25 17:00:00 +0200
 tags: smartshopping black-friday
 ---
-[![](https://4.bp.blogspot.com/-P2RL3xd4TK0/W9Gh_q8vPGI/AAAAAAAABFk/JFEEOGcoG0gys52ua0bhloy1DKDY_7z7gCLcBGAs/s200/Black-Friday-tips.jpg)](https://4.bp.blogspot.com/-P2RL3xd4TK0/W9Gh_q8vPGI/AAAAAAAABFk/JFEEOGcoG0gys52ua0bhloy1DKDY_7z7gCLcBGAs/s1600/Black-Friday-tips.jpg)In a month the most consumerist week of the year will take place, yes it's Black Friday again, a US tradition that has been exported worldwide and, probably, gives us the best offers of the year just before the Christmas season.
+<img style="float: right;" src="https://4.bp.blogspot.com/-P2RL3xd4TK0/W9Gh_q8vPGI/AAAAAAAABFk/JFEEOGcoG0gys52ua0bhloy1DKDY_7z7gCLcBGAs/s200/Black-Friday-tips.jpg">
+
+In a month the most consumerist week of the year will take place, yes it's Black Friday again, a US tradition that has been exported worldwide and, probably, gives us the best offers of the year just before the Christmas season.
 
 **From the experience of our top buyers we will give you 5 tips on how to not getting scammed on Black Friday and get the most of it**:
 
