@@ -47,7 +47,7 @@ copyright: "geeknite (cleft) 2012-{currentYear}"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-   - index.html
+   - index.markdown
    - next-articles.markdown
 
 # not working height customization
@@ -62,7 +62,7 @@ header_pages:
 #   image: null             # Image banner source
 #   opacity: 1.0            # Banner opacity (100% is 1.0)
 #   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
-#   height: "340px"         # Banner default height
+#   height: "540px"         # Banner default height
 #   min_height: "250px"        # Banner minimum height
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
