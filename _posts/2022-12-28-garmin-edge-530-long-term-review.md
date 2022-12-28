@@ -5,7 +5,7 @@ date:   2022-12-28 17:00:00 +0200
 tags: mtb garmin review gps
 ---
 
-<a href='http://www.putinyourbasket.com/Garmin%20Edge%20500'><img style="float: right;" src="https://i.imgur.com/lOxfl7f.jpg?1"></a>
+<a href='http://www.putinyourbasket.com/Garmin%20Edge%20500'><img style="float: right;" src="https://i.imgur.com/lOxfl7fm.jpg?1"></a>
 A Garmin Edge 530 is a cycling computer that provides a range of features to help riders track and improve their performance on the bike.
 
 One of the standout features of the Edge 530 is its ability to track a variety of metrics, including distance, speed, power, and heart rate. This data can be viewed in real-time on the device's color touchscreen display, which is easy to read even in bright sunlight. The Edge 530 also includes GPS and GLONASS satellite connectivity, which allows it to accurately track your location and route while you ride.
