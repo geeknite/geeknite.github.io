@@ -6,7 +6,7 @@ tags: mtb garmin review gps
 ---
 
 
-<a href='http://www.putinyourbasket.com/Garmin%20Edge%20500'><img style="float: right;" src="https://4.bp.blogspot.com/-gbar16otqM4/WPJs-xUkY0I/AAAAAAAAA-Y/5hpxtIcn1aAorbCAqnSx0yEU9Pd-tSE0ACLcB/s320/garmin%2Bedge%2B500.jpg"></a>
+<a href='http://www.putinyourbasket.com/Garmin%20Edge%20500'><img style="float: right;" src="https://i.imgur.com/ZAlc9GQm.jpg"></a>
 
 First of all I want to make clear that my impression on the ***[Edge 520](http://www.putinyourbasket.com/us/Garmin%20Edge%20520)*** is taken from the many reviews out there, I am not lucky enough for *Garmin* to send me one to review, and, of course, my *[Edge 500](http://www.putinyourbasket.com/us/Garmin%20Edge%20500)* was bought with **my money**, I am not a renowned person in the bike world to get one for free as some do, I am just a **biking enthusiast** and this is just my impression of a product as a **humble biker**.
 
@@ -39,7 +39,7 @@ Edge 520: 8\
 **
 
 ### Connectivity
-<a href='http://www.putinyourbasket.com/us/garmin%20edge%20cover'><img style="float: right;" src="https://3.bp.blogspot.com/-egAXvGmQVJ8/WPJuncvi6KI/AAAAAAAAA-k/us0eWYULjpkcdg9UdS6p63WxW5r91bY9ACLcB/s320/garmin%2Bedge%2Bcover.jpg"></a>
+<a href='http://www.putinyourbasket.com/us/garmin%20edge%20cover'><img style="float: right;" src="https://i.imgur.com/XXJzySPm.jpg"></a>
 
 Of course connectivity possibilities have been much more improved, now being able to share through your mobile your ride information, with current social network addiction, many of us like to share our rides online as soon as possible. Until now, the *Edge 500*'s integration with services is good enough, due to these services improving and trying to make as easy as possible the user's experience, ***Strava* for example let you upload your ride in a couple of clicks**, also you can use *Garmin*'s service, **Garmin Connect**, and also you should check our [comparison of Strava vs Garmin Connect](http://reviews.putinyourbasket.com/2013/09/strava-vs-garmin-connect-review-of-best-track-analyzers.html). It's not instant but good enough for me. The connectivity with sensors and power meter remains the same, which was good enough. Perfect for use at home with your trainer, check our [Minoura B-60r review](http://reviews.putinyourbasket.com/2013/01/minoura-b60-r-magnetic-trainer-review-best-for-money.html), during winter.
 
@@ -97,7 +97,7 @@ The idea of this post was to give enough reasons to **stay with our *Edge 500*
 
 But don't get me wrong, **the Edge 520 is a great device**, so, my recommendations depend on your situation:
 
-- **If you are happy with your *Edge 500***: stick with it for a couple of years, at least, wait for other options and wait for how the *520* evolves.
+- **If you are happy with your *Edge 500***: stick with it for a couple of years, at least, wait for other options and wait for how the *520* evolves or the new. Or the newest [Garmin 530](/2022/12/28/garmin-edge-530-long-term-review.html)
 - **If you have it but you want to improve your experience**: get an Edge 800 or [the Edge 810 vs the new Edge 1000](http://reviews.putinyourbasket.com/2014/07/garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes.html).
 - **If you don't have any of them**: with my points at hand, decide which can be better for you. **Look for offers on the *Edge 500 *or price reductions** if it gets below 180€ or $200 for the complete package can be a good deal. If you want the Edge 520 it may be a good option too even considering the increased price tag, or you can check for other *GPS* devices of other brands, which I am preparing a new post to do a small comparison of some of them.
 

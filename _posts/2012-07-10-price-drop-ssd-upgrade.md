@@ -22,6 +22,6 @@ After this small introduction it shouldn't be a surprise that an *SSD* is the be
 
 Here you have a graph showing the price evolution of the [Crucial CT128M4SSD2 128GB M4 SSD on amazon.com](http://www.amazon.com/gp/product/B004W2JKZI/ref=as_li_ss_il?ie=UTF8&tag=mkx-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004W2JKZI):
 
-[![](https://3.bp.blogspot.com/-M3DPcY4IFAc/Vyhjlq4993I/AAAAAAAAAyg/q8MxYXemNtYh7c6Bk7SBNoab4errO3WXgCLcB/s400/ssd%2Bprice%2Bdrop.jpg)](https://3.bp.blogspot.com/-M3DPcY4IFAc/Vyhjlq4993I/AAAAAAAAAyg/q8MxYXemNtYh7c6Bk7SBNoab4errO3WXgCLcB/s1600/ssd%2Bprice%2Bdrop.jpg)
+![Price drop](https://i.imgur.com/l9u48IDm.jpg)
 
 **My recommendation is to buy a relatively small *SSD* for your *OS* and programs** that depend much on disk reading, **and have a [traditional hard disk](https://wheretobuy.apphb.com/us/hard%20disk%20drive) for store data**, then you will not need much space, [128GB](https://wheretobuy.apphb.com/us/ssd%20128gb) will be enough, and your pocket will not hurt much.
