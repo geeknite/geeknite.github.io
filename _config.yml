@@ -89,11 +89,11 @@ plugins:
 
 constants:
   - amazon_es: "eltrastdelgam-21"
-  - amazon_com: "mkx-20"
-  - amazon_it: "ksx-21"
-  - amazon_uk: "kxl-21"
-  - amazon_fr: "krv-21"
-  - amazon_de: "kvl-21"
+  - amazon_com: "gkx-20" #wasteland
+  - amazon_it: "gkx-21" #wasteland
+  - amazon_uk: "kxl-21" #amkioze
+  - amazon_fr: "krv-21" #amkioze
+  - amazon_de: "kvl-21" #amkioze
   - wsib: "https://"
 
 # Exclude from processing.
