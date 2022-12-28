@@ -5,7 +5,13 @@ date:   2020-03-16 17:00:00 +0200
 tags: mtb components fox offers
 ---
 
-If you are searching online for a Fox 34 volume spacer kit you won't find it easily, many stores don't even sell them online, or even will be difficult to find stock on some of them.
+Fork spacers are components that are used to adjust the distance between the upper and lower fork tubes on a suspension fork. They are typically made of metal or plastic and are inserted between the top of the lower fork tube and the bottom of the upper fork tube.
+
+Fork spacers are often used to fine-tune the fork's spring rate or to adjust the amount of travel (the distance the fork can compress). They can also be used to adjust the height of the front end of a bike, which can affect the bike's handling and the rider's position.
+
+In general, adding spacers will increase the spring rate of the fork and decrease the amount of travel, while removing spacers will have the opposite effect. It is important to follow the manufacturer's recommendations for the number and thickness of spacers that should be used with a particular fork. Using the wrong number or thickness of spacers can result in poor handling and potentially dangerous riding conditions.
+
+If you are searching online for a **Fox 34 volume spacer kit** you won't find it easily, many stores don't even sell them online, or even will be difficult to find stock on some of them.
 
 Here you can see a few online stores that sell them:
 
