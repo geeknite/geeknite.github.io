@@ -7,7 +7,7 @@ tags: strava garmin review gps
 
 <a href='{{ site.constants[0].wsib }}/garmin%20edge'><img style="float: right;" src="https://i.imgur.com/talvj6sm.jpg"></a>
 
-After getting [my Garmin Edge 500](/2013/01/garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500.html) I have been experimenting with many online services and applications to analyze the tracks that I recorded. After trying some windows applications all that I tried looked old and did not offer anything that other online and free services didn't offer.
+After getting [my Garmin Edge 500]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 -%}) I have been experimenting with many online services and applications to analyze the tracks that I recorded. After trying some windows applications all that I tried looked old and did not offer anything that other online and free services didn't offer.
 
 As a Garmin user, you will be first drawn to try [Garmin Connect]({{ site.constants[0].wsib }}/garmin%20connect), the Garmin online service, which lately is being improved because **other service are getting ahead of it**. This is also the place to get updates for your GPS device.\
 Good points:

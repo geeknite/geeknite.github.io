@@ -26,9 +26,9 @@ A plus size bike frame with boost axle, not compatible with 29 inch wheels but v
 
 [![](https://3.bp.blogspot.com/-MrMkRyfSwcY/WOOvYjmywVI/AAAAAAAAA9g/IxQTCzzX8M0N7j-6ojQ0p_OX7Zx7MF05gCLcB/s320/tr_main_frame_angle.jpg)](https://3.bp.blogspot.com/-MrMkRyfSwcY/WOOvYjmywVI/AAAAAAAAA9g/IxQTCzzX8M0N7j-6ojQ0p_OX7Zx7MF05gCLcB/s1600/tr_main_frame_angle.jpg)
 
-### [Ragley Marley (~230€)](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[http://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]])
+### [Ragley Marley (~230€)](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]])
 
-A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the year awards for its price and capabilities, now the 2017 frame with renewed colors is better than ever. Especially good for old bikes thanks to the old standard rear axle, even a good option with 26 inch wheels but get ready your [crank boots]({{ site.constants[0].wsib }}/crank%20boots). The same version with standard headtube can be found named as the [Ragley Piglet](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[http://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-piglet-2017/rp-prod145974/]]).
+A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the year awards for its price and capabilities, now the 2017 frame with renewed colors is better than ever. Especially good for old bikes thanks to the old standard rear axle, even a good option with 26 inch wheels but get ready your [crank boots]({{ site.constants[0].wsib }}/crank%20boots). The same version with standard headtube can be found named as the [Ragley Piglet](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-piglet-2017/rp-prod145974/]]).
 
 - Material: aluminum
 - Tapered: yes
@@ -37,7 +37,7 @@ A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the ye
 - Seat tube: 31.6mm stealth compatible
 - Weight: 2.1 kg (size 17")
 
-[](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[http://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]])
+[](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]])
 
 ### [Production Privee Shan]({{ site.constants[0].wsib }}/uk/Production%20Privee%20Shan) (~450€)
 

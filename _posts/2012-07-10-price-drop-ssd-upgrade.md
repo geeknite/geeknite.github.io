@@ -20,7 +20,7 @@ And one more warning, ***SSDs* don't make noise**, it will not give you a warnin
 
 After this small introduction it shouldn't be a surprise that an *SSD* is the best upgrade you can get for your computer and now is a great time to buy one, because the formerly-expensive drives have dropped dramatically in price over the past months this would be the perfect time to buy one. After last year's Thailand floods, prices got stuck for some time, but ***SSD* prices have continued dropping dramatically, many models being 65% cheaper than they were only a few months ago**, *SSDs* have never been more affordable and they can make breathe new life into your computer. If you've been waiting to do a step forward, now is a great time to make the change.
 
-Here you have a graph showing the price evolution of the [Crucial CT128M4SSD2 128GB M4 SSD on amazon.com](http://www.amazon.com/gp/product/B004W2JKZI/ref=as_li_ss_il?ie=UTF8&tag={{ site.constants[0].amazon_com }}&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004W2JKZI):
+Here you have a graph showing the price evolution of the [Crucial CT128M4SSD2 128GB M4 SSD on amazon.com](https://www.amazon.com/gp/product/B004W2JKZI/ref=as_li_ss_il?ie=UTF8&tag={{ site.constants[0].amazon_com }}&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004W2JKZI):
 
 ![Price drop](https://i.imgur.com/l9u48IDm.jpg)
 
