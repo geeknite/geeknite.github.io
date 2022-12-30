@@ -16,7 +16,6 @@ It seems that in the last weeks they are sending other discounts to key users, t
 Here you can see the current discount codes available, these codes should work for all regions but the quantities may change depending on exchange rates:
 
 <a href='http://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref='><img style="float: right;" src="https://i.imgur.com/9wi2CCmm.jpg"></a>
-[![]()]()
 
 - ~~**RSI32UT -**Save 10€ spending 60€, valid until 2018-09-17~~
 - ~~**AU84RNM**- Save 10€ spending 60€, valid until 2018-09-03~~
@@ -24,6 +23,6 @@ Here you can see the current discount codes available, these codes should work f
 - ~~**SUMMERSAVE**- New users, save 10€ spending 50€~~
 - ~~**SALE2018** - Clearance items, save 10€ spending 75€~~
 
-These are not percentage based discounts that I prefer, because you get a discount proportional to what you spend, for example a bike, but for buying components or equipment are good discounts so use them.
+These are not percentage based discounts which I prefer, because you get a discount proportional to what you spend, for example a bike, but for buying components or equipment are good discounts so use them.
 
 Good shopping!
