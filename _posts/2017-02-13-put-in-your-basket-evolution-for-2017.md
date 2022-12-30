@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Geeknite evolution for 2017"
-date:   2022-11-03 17:00:00 +0200
+date:   2017-02-13 17:00:00 +0200
 tags: blog retrospective anniversary
 ---
 

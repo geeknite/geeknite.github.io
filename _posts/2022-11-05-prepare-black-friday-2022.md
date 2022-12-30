@@ -11,7 +11,7 @@ During Black Friday, you don’t have to go to an “official” store to buy th
 
 This gives the opportunity to shop from the comfort of your home without rushes. You have the time to compare and check if the offers is good enough for you, or even find [the best deals on the internet]({{ site.constants[0].wsib }}).
 
-Most of the tips that we gave 3 years ago are still vigent, specially don't buy anything you won't use, ponder it's use and consider it's cost, for exemple consider how many hours will you use it, it's a good price per hour. This consideration will give some perspective and make you thing if it's a compulsive buy or not, if you think you will regret that buy don't do it.
+Most of the tips that we gave 3 years ago are still vigent, specially don't buy anything you won't use, **ponder it's use and consider it's cost**, for exemple consider how many hours will you use it, it's a good price per hour. This consideration will give some perspective and make you thing if it's a compulsive buy or not, if you think you will regret that buy don't do it.
 
 If even with these tips you feel that you need that special present for yourself don't doubt it, if you don't take care of yourself who will?
 
