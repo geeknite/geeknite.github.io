@@ -92,8 +92,8 @@ constants:
     amazon_com: "gkx-20" #wasteland
     amazon_it: "gkx-21" #wasteland
     amazon_uk: "kxl-21" #amkioze
-    amazon_fr: "{{ site.constants[0].amazon_fr }}" #amkioze
-    amazon_de: "{{ site.constants[0].amazon_de }}" #amkioze
+    amazon_fr: "krv-21" #amkioze
+    amazon_de: "kvl-21" #amkioze
     wsib: "https://whereshouldibuy.azurewebsites.net"
 
 # Exclude from processing.
