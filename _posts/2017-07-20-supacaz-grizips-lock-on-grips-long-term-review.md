@@ -34,5 +34,5 @@ After more than 1 year with them the only problem, apart from the holed end part
 **Alternatives:**
 
 - If you are in for lock on grips there are [cheaper alternatives]({{ site.constants[0].wsib }}/us/lock%20on%20grips)
-- If you are in for really gripy grips check the [Odi X-treme Lock on grips](https://mtboffers.blogspot.com/2016/06/odi-x-treme-lock-on-grips-long-term-review.html)
+- If you are in for really gripy grips check the [Odi X-treme Lock on grips]({%- post_url 2016-06-14-odi-x-treme-lock-on-grips-long-term-review -%})
 - If you are most interested in comfort without losing grip you can opt for [foam grips]({{ site.constants[0].wsib }}/us/foam%20grips)

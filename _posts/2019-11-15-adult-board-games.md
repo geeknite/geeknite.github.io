@@ -16,4 +16,4 @@ It's about doing the things you love to do, whether it's watching a film or play
 
 Thanks for reading and don't forget to follow us on Facebook and Twitter to stay updated with the latest news.
 
-[![](https://1.bp.blogspot.com/-lbGJJIm-lvE/Xc57dfsLkqI/AAAAAAAABKg/I_fexrqDIyEq0I9Obfm2iPL1UfcnkV7xQCLcBGAsYHQ/s320/adults%2Bboardgaming.jpeg)](https://havetoget.com/us/board%20games)
+[![adults gaming](https://i.imgur.com/Jm8ynpT.jpg)]({{ site.constants[0].wsib }}/us/board%20games)

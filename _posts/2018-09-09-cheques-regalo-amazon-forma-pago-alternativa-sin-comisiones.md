@@ -17,7 +17,7 @@ Por todo ello, estos últimos meses me planteé que alternativas había y gracia
 
 Otro factor importante es que para los que hagan ventas online como forma de negocio, los cheques regalo se acumulan en tu cuenta de amazon, por lo que en ningún momento te llega dinero real en tu cuenta bancaria, y aunque tampoco conozco los pormenores legales, es probable que no tengas que tributarlo.
 
-Recuerdo que hace tiempo que ya hacemos pagos y empezamos haciendo el pago de [una PS3 de segunda mano que tenía intención de comprar](https://curatedoffers.blogspot.com/2013/12/compro-ps3-de-segunda-mano-en-espana.html), y **nos pusimos de acuerdo en hacer el pago mediante un cheque regalo, de esta forma los 2 nos evitamos pagar más y cobrar menos evitando las comisiones de otros servicios**.
+Recuerdo que hace tiempo que ya hacemos pagos y empezamos haciendo el pago de [una PS3 de segunda mano que tenía intención de comprar]({%- post_url 2013-12-21-compro-ps3-de-segunda-mano-en-espana -%}), y **nos pusimos de acuerdo en hacer el pago mediante un cheque regalo, de esta forma los 2 nos evitamos pagar más y cobrar menos evitando las comisiones de otros servicios**.
 
 Si estás buscando algún producto puedes utilizar el servicio [Where Should I Buy?]({{ site.constants[0].wsib }}) que te permite hacer búsquedas rápidas entre los amazons y ebays de diferentes países para poder comparar precios rápidamente.
 

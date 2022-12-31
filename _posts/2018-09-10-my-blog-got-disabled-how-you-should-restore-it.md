@@ -2,17 +2,12 @@
 layout: post
 title: My blog got disabled. How you should restore it
 date: '2018-09-10T15:39:00.000+02:00'
-author: Fernando
 tags:
-- help
 - ramblings
-- spam
-- blog
 modified_time: '2018-09-10T15:39:04.399+02:00'
-thumbnail: https://2.bp.blogspot.com/-CHMH43bAWMU/UaOMiY4HuRI/AAAAAAAAAWg/5HZLN3h2y3U/s72-c/i-hate-spam%5B1%5D.jpg
 ---
 
-[![](https://2.bp.blogspot.com/-CHMH43bAWMU/UaOMiY4HuRI/AAAAAAAAAWg/5HZLN3h2y3U/s1600/i-hate-spam%5B1%5D.jpg)](https://www.putinyourbasket.com/us/spam)
+[![no spam](https://i.imgur.com/uPjzkRU.jpg)]
 
 **For almost a week this blog was disabled (on Blogger)**, maybe you did not notice if it's your first time here, but the Google robots marked it as a spam blog and then no one could access the blog, **it was deleted on my blogger account and could not restore it**. The only thing that I was able to do was to request a revision by a "human", as the process is automatized it has a probability of error, even it may be low. I did the request which, as stated by the request form information, should be done in a couple of working days. But as you may guess, this did not happen, as the days passed I thought that I should take some **action**, and of course _googled_ my problem which I found to be quite recurrent.  
 If your blog also has been disabled for being marked as a spam blog, you should have received an email with:  
@@ -42,7 +37,7 @@ If your blog has been disabled you should follow the next steps, which are the s
 In your question you should include **your blog's URL**, **the date you received notice of your blog disabling** and **the date you filed your initial review request**. If you need some inspiration in writing your request [here you can read mine and see how it was resolved.](https://productforums.google.com/forum/#!msg/blogger/35ozDAoNX7g/XniQntMG5_sJ)  
 9. If nothing has changed when you post your question, +Nitecruzr will respond your request, asking for your own review on what may be the problem with your blog, according to the blogger guidelines, and accepting in the most sincere way where you may have infringed the Blogger guidelines. If all seems ok your request will be forwarded to Blogger Support where they will do a **final evaluation which can not be appealed**.
 
-[![](https://1.bp.blogspot.com/-UTBb5BryYl0/UaOO1WsZjII/AAAAAAAAAWw/adXkLu3cPFA/s320/post-25-0-97460500-1357566236%5B1%5D.png)](https://1.bp.blogspot.com/-UTBb5BryYl0/UaOO1WsZjII/AAAAAAAAAWw/adXkLu3cPFA/s1600/post-25-0-97460500-1357566236%5B1%5D.png)
+[![garmin edge comparison](https://i.imgur.com/xNrkIWG.png)]
 
 After all these inconveniences our blog is online and working ok now, our thoughts are a little wary of what really happened with the spamming process and why it triggered right now. Our blog has only a good visited post which by chance is critic to a product, [our comparison between the Edge 500 and the new Edge 520]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 -%}), **that criticisms a new product that really does not offer any good improvement over an old product of the same company**.  
   
