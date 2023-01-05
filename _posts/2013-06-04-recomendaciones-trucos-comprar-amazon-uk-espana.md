@@ -9,6 +9,8 @@ tags:
 - spain
 - recomendaciones
 modified_time: '2018-09-30T20:44:47.752+02:00'
+redirect_from:
+    - /2013/06/recomendaciones-y-trucos-para-comprar-amazon--co-uk-espana.html
 ---
 
 Debido a [los cambios en la política de envíos de amazon.co.uk]({% post_url 2013-06-19-cancelacion-de-envio-gratuito-espana %}) para potenciar los amazons locales de los diferentes países europeos comprar en [amazon.co.uk](https://www.amazon.co.uk/?_encoding=UTF8&camp=1634&creative=19450&linkCode=ur2&tag={{ site.constants[0].amazon_uk }}) ya no es tan rentable para comprar desde España como lo era hasta ahora, por ello nuestra recomendación es usarlo sólo cuando realmente valga la pena teniendo muy en cuenta el cambio de moneda y los envíos.  
