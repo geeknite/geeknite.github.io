@@ -3,6 +3,8 @@ layout: post
 title:  "Where to buy Fox 34 Volume Spacers"
 date:   2020-03-16 17:00:00 +0200
 tags: mtb components fox offers
+redirect_from:
+    - /2020/03/where-to-buy-fox-34-volume-spacers.html
 ---
 
 Fork spacers are components that are used to adjust the distance between the upper and lower fork tubes on a suspension fork. They are typically made of metal or plastic and are inserted between the top of the lower fork tube and the bottom of the upper fork tube.

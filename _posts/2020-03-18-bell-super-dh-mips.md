@@ -3,6 +3,8 @@ layout: post
 title:  "Donde comprar el casco Bell Super DH MIPS"
 date:   2020-03-18 17:00:00 +0200
 tags: mtb helmet bell dh offers
+redirect_from:
+    - /2020/03/donde-comprar-casco-bell-super-dh-mips.html
 ---
 
 <a href='https://www.awin1.com/cread.php?awinmid=1857&awinaffid=364849&clickref=&p=https%3a%2f%2fwww.wiggle.es%2fcasco-bell-super-dh-mips%2f'><img style="float: right;" src="https://i.imgur.com/KwXLbGm.jpg"></a>
