@@ -5,7 +5,7 @@ date:   2013-01-24 17:00:00 +0200
 lastmod: 2022-09-24 9:00:00 +0200
 tags: amazon españa español europe smartshopping
 redirect_from:
-    - 2013/01/recomendaciones-para-comprar-en-amazon-des-de-espana.html
+    - /2013/01/recomendaciones-para-comprar-en-amazon-des-de-espana.html
 ---
 
 <a href='https://www.amazon.es/?_encoding=UTF8&tag={{ site.constants[0].amazon_es }}&linkCode=ur2&camp=3626&creative=24822'><img style="float: right;" src="https://3.bp.blogspot.com/-y7vepNFwf4I/UQF29es4s1I/AAAAAAAAAO4/Ri2PlmOohMA/s200/Amazon-logo%5B1%5D.jpg"></a>
