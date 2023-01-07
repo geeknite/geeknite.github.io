@@ -4,7 +4,7 @@ title:  "Best hardtail MTB frames for the money"
 date:   2017-04-04 17:00:00 +0200
 tags: mtb frame roundup
 ---
-You have an old bike sitting in the back of your garage, probably a classic XC bike, probably with good components or even maybe with a snapped frame. May be your neighbour or a friend have one that will gently give to you or even you are considering on getting an old bike to commute. If you are in any of these situations I will inspire you today to **rebuild a bike as a modern hardtail**.
+You have an old bike sitting in the back of your garage, probably a classic XC bike, probably with good components or even maybe with a snapped frame. May be your neighbour or a friend have one that will gently give to you or even you are considering on getting an old bike to commute. If you are in any of these situations I will inspire you today to **rebuild a bike as a modern hardtail**.
 
 **Having a modern hard hitting hardtail is a good way to practice your technique, get new skills and even have a commuter that does not suck**. If you already have the components is pretty easy to get a new frame that matches your components. If you only have a set of components you should check what you prefer or search first for components or think about which bike do you want.
 
@@ -16,7 +16,7 @@ Here is a list of our favorite hardtail frames in no significant order:
 
 ### Alpkit Sonder Transmitter (~230€)
 
-A plus size bike frame with boost axle, not compatible with 29 inch wheels but very modern geometry, a shame that the seat tube is a little high. If you want a plus bike that can't fit 29er wheels check our [definitive plus tire mountain bike list](/2017/02/the-definitive-plus-tire-mountain-bike-list.html). The same frame can be found on carbon for 800€.
+A plus size bike frame with boost axle, not compatible with 29 inch wheels but very modern geometry, a shame that the seat tube is a little high. If you want a plus bike that can't fit 29er wheels check our [definitive plus tire mountain bike list](/2017/02/the-definitive-plus-tire-mountain-bike-list.html). The same frame can be found on carbon for 800€.
 
 - Material: aluminum
 - Tapered: yes
@@ -24,11 +24,11 @@ A plus size bike frame with boost axle, not compatible with 29 inch wheels but v
 - Rear axle: 12x148
 - Seat tube: 31.6mm stealth compatible
 
-[![](https://3.bp.blogspot.com/-MrMkRyfSwcY/WOOvYjmywVI/AAAAAAAAA9g/IxQTCzzX8M0N7j-6ojQ0p_OX7Zx7MF05gCLcB/s320/tr_main_frame_angle.jpg)](https://3.bp.blogspot.com/-MrMkRyfSwcY/WOOvYjmywVI/AAAAAAAAA9g/IxQTCzzX8M0N7j-6ojQ0p_OX7Zx7MF05gCLcB/s1600/tr_main_frame_angle.jpg)
+[![sonder](https://3.bp.blogspot.com/-MrMkRyfSwcY/WOOvYjmywVI/AAAAAAAAA9g/IxQTCzzX8M0N7j-6ojQ0p_OX7Zx7MF05gCLcB/s320/tr_main_frame_angle.jpg)](https://3.bp.blogspot.com/-MrMkRyfSwcY/WOOvYjmywVI/AAAAAAAAA9g/IxQTCzzX8M0N7j-6ojQ0p_OX7Zx7MF05gCLcB/s1600/tr_main_frame_angle.jpg)
 
 ### [Ragley Marley (~230€)](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]])
 
-A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the year awards for its price and capabilities, now the 2017 frame with renewed colors is better than ever. Especially good for old bikes thanks to the old standard rear axle, even a good option with 26 inch wheels but get ready your [crank boots]({{ site.constants[0].wsib }}/crank%20boots). The same version with standard headtube can be found named as the [Ragley Piglet](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-piglet-2017/rp-prod145974/]]).
+A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the year awards for its price and capabilities, now the 2017 frame with renewed colors is better than ever. Especially good for old bikes thanks to the old standard rear axle, even a good option with 26 inch wheels but get ready your [crank boots]({{ site.constants[0].wsib }}/crank%20boots). The same version with standard headtube can be found named as the [Ragley Piglet](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-piglet-2017/rp-prod145974/]]).
 
 - Material: aluminum
 - Tapered: yes
@@ -39,7 +39,7 @@ A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the ye
 
 [](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]])
 
-### [Production Privee Shan]({{ site.constants[0].wsib }}/uk/Production%20Privee%20Shan) (~450€)
+### [Production Privee Shan]({{ site.constants[0].wsib }}/uk/Production%20Privee%20Shan) (~450€)
 
 Also a 27.5 modern geometry MTB, but this time in chromoly steel, Production Prive have emerged from Andorra with their innovative and quality bikes and the Shan is their hardtail exponent. Really slack and a tapered headtube, difficult to find in chromoly frames. Also they offer conversion kits to QR axle and 26 inch bikes.
 
@@ -50,9 +50,9 @@ Also a 27.5 modern geometry MTB, but this time in chromoly steel, Production Pri
 - Seat tube: 30.9mm stealth compatible
 - Weight: 2.6 kg (size M)
 
-[![](https://1.bp.blogspot.com/-ogWWt-hBYp8/WOOw1kKy4iI/AAAAAAAAA9o/5-0KL8GcCgo59UKDJjROr0Bz482ytbbggCLcB/s320/SHAN-27-Classic-630px-1.jpg)]({{ site.constants[0].wsib }}/uk/Production%20Privee%20Shan)
+[![pp shan](https://1.bp.blogspot.com/-ogWWt-hBYp8/WOOw1kKy4iI/AAAAAAAAA9o/5-0KL8GcCgo59UKDJjROr0Bz482ytbbggCLcB/s320/SHAN-27-Classic-630px-1.jpg)]({{ site.constants[0].wsib }}/uk/Production%20Privee%20Shan)
 
-### [Mondraker Vantage]({{ site.constants[0].wsib }}/uk/mondraker%20vantage) (~500€)
+### [Mondraker Vantage]({{ site.constants[0].wsib }}/uk/mondraker%20vantage) (~500€)
 
 The Mondraker hardtail frame, renown forward geometry, long and simple in a hardtail form. 27.5 wheels are recommended and also includes the tapered headset and a short 30mm stem which is good bang for money. Last year models can be found for a reduced price and all with the same geometry but the rear axle which changes to 12x142 for the 2017 model. Also a plus sized frame named Vantage RR+ can be found for the same price with 12x157 axle which is not the most seen in the plus market.
 
@@ -62,6 +62,6 @@ The Mondraker hardtail frame, renown forward geometry, long and simple in a hard
 - Rear axle: 12x142 (10x135 2016 model)
 - Seat tube: 31.6mm
 
-[![](https://2.bp.blogspot.com/-NjJYS-Xneg8/WOOxLsYw36I/AAAAAAAAA9s/Y02Ij4XdG9sPIUJHOyC-Mi2gE1Rb5hVsgCLcB/s320/mondraker%2Bvantage%2Bframe.jpg)]({{ site.constants[0].wsib }}/uk/mondraker%20vantage)
+[![mondraker vantage](https://2.bp.blogspot.com/-NjJYS-Xneg8/WOOxLsYw36I/AAAAAAAAA9s/Y02Ij4XdG9sPIUJHOyC-Mi2gE1Rb5hVsgCLcB/s320/mondraker%2Bvantage%2Bframe.jpg)]({{ site.constants[0].wsib }}/uk/mondraker%20vantage)
 
-These are some of the frames that we would exchange with any hardtail anyday, we have left behind many frames worth noting and many that we would love to test. Have you tried any that we should also feature in this article, please let us know in the comments or on [@sikkxo](https://twitter.com/sikkxo). Also worth checking our [definitive plus size tire MTB list](/2017/02/the-definitive-plus-tire-mountain-bike-list.html) for interesting boosted hardtails and full suspension bikes. Thanks for being there!
+These are some of the frames that we would exchange with any hardtail anyday, we have left behind many frames worth noting and many that we would love to test. Have you tried any that we should also feature in this article, please let us know in the comments or on [@sikkxo](https://twitter.com/sikkxo). Also worth checking our [definitive plus size tire MTB list](/2017/02/the-definitive-plus-tire-mountain-bike-list.html) for interesting boosted hardtails and full suspension bikes. Thanks for being there!

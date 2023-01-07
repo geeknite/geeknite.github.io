@@ -19,14 +19,14 @@ The function is this:
 
 Learn Windows PowerShell in a Month of Lunches](<https://www.amazon.com/dp/1617294160?tag>={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
 
-[ Buy Now](<https://www.amazon.com/dp/1617294160?tag>={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
+[ Buy Now](<https://www.amazon.com/dp/1617294160?tag>={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
 
 Edit
 -----
 
 I've found some problem in the second get-childitem for some dir-names with strange character, probably can be changed to some other cmdlet to know if the current dir is empty
 
-And remember to give any insight you consider appropiate. **Thanks!**
+And remember to give any insight you consider appropiate. **Thanks!**
 
 Guy Ellis post
 --------------
