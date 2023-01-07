@@ -5,6 +5,10 @@ date:   2018-09-02 17:00:00 +0200
 tags: amazon españa español europe smartshopping prime
 ---
 
+### Actualización
+
+[En 2023 actualizamos nuestra recomendación con los últimos cambios]({%- post_url 2023-01-01-vale-la-pena-ser-prime-amazon-2023 -%})
+
 <a href='https://www.amazon.es/amazonprime/ref=as_li_ss_tl?_encoding=UTF8&ref=nav_prime_try_btn&linkCode=sl1&tag={{ site.constants[0].amazon_es }}&linkId=1d2931e92394c7d0417ef5b550fb0121&language=es_ES'><img style="float: right;" src="https://i.imgur.com/NLMbbkE.jpg"></a>
 
 Hace un tiempo nos preguntábamos si [valía la pena hacerse, o seguir siendo, Prime en amazon.es](/2017/01/vale-la-pena-hacerse-premium-en-amazon-es.html), si recordamos nuestra recomendación final os sugerimos que aunque el gasto no es desorbitado por ahora el contenido extra no justifica hacerse Prime, teniendo en cuenta el precio de 19,90€ en ese momento, recordemos que subió des de los 15€ y se rumoreaba que subiría y así ha sido, **actualmente cuesta 36€**.
