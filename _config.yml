@@ -90,7 +90,7 @@ plugins:
   - jekyll-redirect-from
 
 constants:
-  - amazon_es: "{{ site.constants[0].amazon_es }}"
+  - amazon_es: "eltrastdelgam-21"
     amazon_com: "gkx-20" #wasteland
     amazon_it: "gkx-21" #wasteland
     amazon_uk: "kxl-21" #amkioze
