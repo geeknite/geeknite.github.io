@@ -39,9 +39,10 @@ Edge 520: 8\
 **
 
 ### Connectivity
+
 <a href='{{ site.constants[0].wsib }}/us/garmin%20edge%20cover'><img style="float: right;" src="https://i.imgur.com/XXJzySPm.jpg"></a>
 
-Of course connectivity possibilities have been much more improved, now being able to share through your mobile your ride information, with current social network addiction, many of us like to share our rides online as soon as possible. Until now, the *Edge 500*'s integration with services is good enough, due to these services improving and trying to make as easy as possible the user's experience, ***Strava* for example let you upload your ride in a couple of clicks**, also you can use *Garmin*'s service, **Garmin Connect**, and also you should check our [comparison of Strava vs Garmin Connect]({%- post_url 2013-09-30-strava-vs-garmin-connect-review-of-best-track-analyzers -%}). It's not instant but good enough for me. The connectivity with sensors and power meter remains the same, which was good enough. Perfect for use at home with your trainer, check our [Minoura B-60r review](/2013/01/minoura-b60-r-magnetic-trainer-review-best-for-money.html), during winter.
+Of course connectivity possibilities have been much more improved, now being able to share through your mobile your ride information, with current social network addiction, many of us like to share our rides online as soon as possible. Until now, the *Edge 500*'s integration with services is good enough, due to these services improving and trying to make as easy as possible the user's experience, ***Strava* for example let you upload your ride in a couple of clicks**, also you can use *Garmin*'s service, **Garmin Connect**, and also you should check our [comparison of Strava vs Garmin Connect]({%- post_url 2013-09-30-strava-vs-garmin-connect-review-of-best-track-analyzers -%}). It's not instant but good enough for me. The connectivity with sensors and power meter remains the same, which was good enough. Perfect for use at home with your trainer, check our [Minoura B-60r review]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%}), during winter.
 
 Edge 500: 7\
 Edge 520: 8\
@@ -91,14 +92,14 @@ Without considering the price:\
 **Edge 500: 7.6**\
 **Edge 520: 7.6**
 
-So, taking into account the price, **it** **is really hard to beat the *Edge 500***, the *Edge 520*'s improvements have its drawbacks, it really don't make it advance the *Edge 500*.
+So, taking into account the price, **it is really hard to beat the *Edge 500***, the *Edge 520*'s improvements have its drawbacks, it really don't make it advance the *Edge 500*.
 
 The idea of this post was to give enough reasons to **stay with our *Edge 500*** or, if you have not any of the two devices, to get a small idea of the changes between the two generations.
 
 But don't get me wrong, **the Edge 520 is a great device**, so, my recommendations depend on your situation:
 
-- **If you are happy with your *Edge 500***: stick with it for a couple of years, at least, wait for other options and wait for how the *520* evolves or the new. Or the newest [Garmin 530]({% post_url 2022-12-28-garmin-edge-530-long-term-review %})
-- **If you have it but you want to improve your experience**: get an Edge 800 or [the Edge 810 vs the new Edge 1000](/2014/07/garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes.html).
+- **If you are happy with your *Edge 500***: stick with it for a couple of years, at least, wait for other options and wait for how the *520* evolves or the new. Or the newest [Garmin 530]({% post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying %})
+- **If you have it but you want to improve your experience**: get an Edge 800 or [the Edge 810 vs the new Edge 1000]({%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%}).
 - **If you don't have any of them**: with my points at hand, decide which can be better for you. **Look for offers on the *Edge 500 *or price reductions** if it gets below 180€ or $200 for the complete package can be a good deal. If you want the Edge 520 it may be a good option too even considering the increased price tag, or you can check for other *GPS* devices of other brands, which I am preparing a new post to do a small comparison of some of them.
 
 You can compare easily the prices of the [Garmin Edge devices]({{ site.constants[0].wsib }}/garmin%20edge) on ebay and amazon with [#WhereToBuy]({{ site.constants[0].wsib }}/). **Big Thanks to all the readers and visitors!**

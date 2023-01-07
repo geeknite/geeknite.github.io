@@ -37,7 +37,7 @@ If your blog has been disabled you should follow the next steps, which are the s
 In your question you should include **your blog's URL**, **the date you received notice of your blog disabling** and **the date you filed your initial review request**. If you need some inspiration in writing your request [here you can read mine and see how it was resolved.](https://productforums.google.com/forum/#!msg/blogger/35ozDAoNX7g/XniQntMG5_sJ)  
 4. If nothing has changed when you post your question, +Nitecruzr will respond your request, asking for your own review on what may be the problem with your blog, according to the blogger guidelines, and accepting in the most sincere way where you may have infringed the Blogger guidelines. If all seems ok your request will be forwarded to Blogger Support where they will do a **final evaluation which can not be appealed**.
 
-<a href='post_url 2022-12-28-garmin-edge-530-long-term-review'><img style="float: right;" src="https://i.imgur.com/xNrkIWG.png"></a>
+<a href='post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying'><img style="float: right;" src="https://i.imgur.com/xNrkIWG.png"></a>
 
 After all these inconveniences our blog is online and working ok now, our thoughts are a little wary of what really happened with the spamming process and why it triggered right now. Our blog has only a good visited post which by chance is critic to a product, [our comparison between the Edge 500 and the new Edge 520]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 -%}), **that criticisms a new product that really does not offer any good improvement over an old product of the same company**.  
   
