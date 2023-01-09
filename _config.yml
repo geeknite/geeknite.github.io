@@ -88,6 +88,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 constants:
   - amazon_es: "eltrastdelgam-21"

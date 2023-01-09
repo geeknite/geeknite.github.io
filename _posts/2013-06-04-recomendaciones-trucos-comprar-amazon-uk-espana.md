@@ -8,7 +8,7 @@ tags:
 - amazon
 - spain
 - recomendaciones
-modified_time: '2018-09-30T20:44:47.752+02:00'
+last_modified_at: '2018-09-30T20:44:47.752+02:00'
 redirect_from:
     - /2013/06/recomendaciones-y-trucos-para-comprar-amazon--co-uk-espana.html
     - /2013/06/recomendaciones-y-trucos-para-comprar.html

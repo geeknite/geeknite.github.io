@@ -8,7 +8,7 @@ tags:
 - amazon
 - spain
 - europe
-modified_time: '2018-09-30T20:16:37.523+02:00'
+last_modified_at: '2018-09-30T20:16:37.523+02:00'
 ---
 
 Leo en Twitter que [amazon.co.uk](https://www.amazon.co.uk/ref=as_li_ss_tl?_encoding=UTF8&camp=1634&creative=19450&linkCode=ur2&tag={{ site.constants[0].amazon_uk }}) deja de enviar de forma gratuita a España, después la reacción inicial de incredulidad y [tras comprobar que así es](https://www.amazon.co.uk/gp/help/customer/display.html/?ie=UTF8&camp=1634&creative=19450&linkCode=ur2&nodeId=1204872&tag={{ site.constants[0].amazon_uk }}), quiero dar mi **humilde opinión** al respecto.  
