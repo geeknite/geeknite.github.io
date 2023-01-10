@@ -3,6 +3,7 @@ layout: post
 title:  "Cleaning a pc: recursive delete all empty folders with powershell help"
 date:   2014-09-15 17:00:00 +0200
 tags: powershell maintenance computing
+redirect_to: https://ferransalguero.github.io/blog/Powershell-recursive-deletion-script/
 ---
 
 ![critic thinking profile image](https://usercontent2.hubstatic.com/6420837_100.jpg "critic thinking profile image")
