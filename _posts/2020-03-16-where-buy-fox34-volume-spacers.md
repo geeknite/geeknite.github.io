@@ -27,5 +27,4 @@ Your second best option is to go on [ebay](https://rover.ebay.com/rover/1/1185-5
 
 [Bikeshop](https://www.bikeshop.es/espaciador-de-volumen-de-10-cc-para-horquilla-fox-racing-shox-34-float-lt-2016-234-04-950/135414.html) also has stock but even at higher price.
 
-
 If you are a store and sell them let us know, they are pretty hard to find!
