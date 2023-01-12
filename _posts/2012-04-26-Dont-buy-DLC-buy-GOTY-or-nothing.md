@@ -1,16 +1,15 @@
 ---
 layout: post
-title: 'Don't buy DLC, buy GOTY or nothing'
+title: Don't buy DLC, buy GOTY or nothing
 date: '2012-04-26T07:01:00.000+02:00'
 tags:
-- recommendations
-- fallout
 - gaming
-- xcom
+- goty
+- dlc
 last_modified_at: '2013-06-19T07:00:00.000+01:00'
 ---
 
-![How DLC would apply to culture?](https://i.imgur.com/32pFOtc.jpg "How DLC would apply to culture?")
+![How DLC would apply to culture?](https://i.imgur.com/32pFOtc.jpg)
 
 This is a message for video games companies, "**don't expect me buying any DLC**", I am not a big fan of the **hype of new releases**, generally in all circumstances, but in video games world we know that companies release games with a very adjusted development dates, so we often see that some new releases lack some stability, or if you prefer they **are plagued with bugs** due to low testing time.
 
