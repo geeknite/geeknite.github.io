@@ -18,7 +18,7 @@ A Garmin Edge 530 is a cycling computer that provides a range of features to hel
 
 4. Overall, the Garmin Edge 530 is a highly versatile and feature-rich cycling computer that is ideal for riders looking to track and improve their performance on the bike. Whether you are a professional racer or a casual rider, the Edge 530 has something to offer.
 
-In addition to the features I mentioned earlier, the Garmin Edge 530 also offers a number of other useful features for riders.
+**In addition to the features I mentioned earlier, the Garmin Edge 530 also offers a number of other useful features for riders.**
 
 5. For example, it includes turn-by-turn navigation with on-device route creation, which can be helpful for finding your way on unfamiliar roads or trails. It also includes a "Trendline" feature that uses data from millions of rides to help you find the best routes in your area.
 

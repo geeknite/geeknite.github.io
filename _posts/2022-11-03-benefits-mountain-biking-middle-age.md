@@ -13,13 +13,13 @@ As we saw a few years ago there are three key characteristics of mountain biking
 
 2. **Increased mobility and flexibility**. In addition to increasing mobility and flexibility, mountain biking can also help people with arthritis and aging to remain independent for longer periods of time.
 
-2. **Weight management**: Mountain biking can help with weight management by burning calories and increasing muscle mass. This can be especially beneficial for middle-aged individuals, who may be more prone to weight gain due to hormonal changes and a slower metabolism.
+3. **Weight management**: Mountain biking can help with weight management by burning calories and increasing muscle mass. This can be especially beneficial for middle-aged individuals, who may be more prone to weight gain due to hormonal changes and a slower metabolism.
 
-3. **Stress relief**: Mountain biking can be a great stress-reliever, as it allows individuals to clear their minds and escape the stresses of daily life. This can be especially important for middle-aged individuals, who may be dealing with additional stressors such as work, family responsibilities, and health concerns.
+4. **Stress relief**: Mountain biking can be a great stress-reliever, as it allows individuals to clear their minds and escape the stresses of daily life. This can be especially important for middle-aged individuals, who may be dealing with additional stressors such as work, family responsibilities, and health concerns.
 
-4. **Mental clarity**: Mountain biking can improve mental clarity and focus, as it requires concentration and decision-making skills. This can be especially beneficial for middle-aged individuals, who may be dealing with the challenges of midlife and the onset of age-related cognitive decline.
+5. **Mental clarity**: Mountain biking can improve mental clarity and focus, as it requires concentration and decision-making skills. This can be especially beneficial for middle-aged individuals, who may be dealing with the challenges of midlife and the onset of age-related cognitive decline.
 
-5. **Social connections**: Mountain biking can also be a social activity, allowing individuals to connect with others and spend time in nature. This can be especially important for middle-aged individuals, who may be looking for new ways to socialize and engage in activities that are meaningful to them.
+6. **Social connections**: Mountain biking can also be a social activity, allowing individuals to connect with others and spend time in nature. This can be especially important for middle-aged individuals, who may be looking for new ways to socialize and engage in activities that are meaningful to them.
 
 In addition to these benefits, mountain biking can also *improve overall physical fitness and flexibility, reduce the risk of injury and chronic pain, and improve bone density*.
 
