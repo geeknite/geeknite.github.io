@@ -13,6 +13,8 @@ This gives the opportunity to shop from the comfort of your home without rushes.
 
 Most of the tips that we gave 3 years ago are still vigent, specially don't buy anything you won't use, **ponder it's use and consider it's cost**, for exemple consider how many hours will you use it, it's a good price per hour. This consideration will give some perspective and make you thing if it's a compulsive buy or not, if you think you will regret that buy don't do it.
 
+Also if you are buying at amazon [consider if you really need to be Prime]({%- post_url 2023-01-01-vale-la-pena-ser-prime-amazon-2023 -%}).
+
 If even with these tips you feel that you need that special present for yourself don't doubt it, if you don't take care of yourself who will?
 
 Have a nice week and don't go crazy shopping!
