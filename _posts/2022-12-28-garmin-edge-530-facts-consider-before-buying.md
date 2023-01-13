@@ -22,9 +22,9 @@ A Garmin Edge 530 is a cycling computer that provides a range of features to hel
 
 5. For example, it includes turn-by-turn navigation with on-device route creation, which can be helpful for finding your way on unfamiliar roads or trails. It also includes a "Trendline" feature that uses data from millions of rides to help you find the best routes in your area.
 
-6. The Edge 530 also includes a "Strava Live Segments" feature, which allows you to compete against other riders on popular Strava segments in real-time. This can be a great way to add some extra motivation and competition to your rides.
+6. The Edge 530 also includes a "Strava Live Segments" feature, which allows you to compete against other riders on popular Strava segments in real-time. This can be a great way to add some extra motivation and competition to your rides. [You can check our article about Strava]({%- post_url 2013-09-30-strava-vs-garmin-connect-review-of-best-track-analyzers -%}).
 
-7. Another useful feature of the Edge 530 is its ability to connect to your smartphone via Bluetooth and display incoming calls, texts, and other notifications. This can be helpful if you want to stay connected while on the bike, without having to fumble around with your phone.
+7. Another useful feature of the Edge 530 is its ability to connect to your smartphone via Bluetooth and display incoming calls, texts, and other notifications. This can be helpful if you want to stay connected while on the bike, without having to fumble around with your phone and don't spend battery in case of an emergency.
 
 8. In terms of battery life, the Edge 530 is rated for up to 20 hours of use on a single charge, which should be more than enough for even the longest rides. It is also water-resistant, so you don't have to worry about getting caught in the rain.
 
@@ -34,6 +34,6 @@ A Garmin Edge 530 is a cycling computer that provides a range of features to hel
 
 12. Another potential criticism is that the Edge 530 is somewhat complex and may take some time to learn and set up. While the device does include detailed instructions and an easy-to-use interface, there is still a learning curve involved in getting the most out of all of its features. This may be intimidating for some riders who are not familiar with cycling computers.
 
-13. Finally, some users have reported issues with the accuracy of the GPS and other sensors on the [Edge 530]({{ site.constants[0].wsib }}/Garmin%20Edge%20530'). While these issues may not be widespread, they can be frustrating for riders who are relying on the device for precise data.
+13. Finally, some users have reported issues with the accuracy of the GPS and other sensors on the [Edge 530]({{ site.constants[0].wsib }}/Garmin%20Edge%20530). While these issues may not be widespread, they can be frustrating for riders who are relying on the device for precise data.
 
 Overall, the Garmin Edge 530 is a powerful and feature-rich cycling computer that is well-suited for serious riders who are looking to track and improve their performance. However, its high price point and potential issues with accuracy may be drawbacks for some users.
