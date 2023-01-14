@@ -3,6 +3,7 @@ layout: post
 title:  "Garmin Edge 530: 13 facts to consider before buying"
 date:   2022-12-28 17:00:00 +0200
 tags: mtb garmin review gps
+last_modified_at: '2023-01-14T08:12:26.004+01:00'
 redirect_from:
     - /2022/12/garmin-edge-530-long-term-review.html
 ---
@@ -34,3 +35,5 @@ Criticisms
 - **Complexity and learning curve**: The Edge 530 is somewhat complex and may take some time to learn and set up. While the device does include detailed instructions and an easy-to-use interface, there is still a learning curve involved in getting the most out of all of its features.
 
 Till we meet again, happy riding!
+
+![riding off](https://i.imgur.com/fOtDuKTm.png)
