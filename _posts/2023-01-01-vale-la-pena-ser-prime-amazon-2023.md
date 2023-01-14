@@ -9,7 +9,7 @@ Ya estamos en 2023 y recordando otros articulos en que ya nos planteábamos si [
 
 [En este enlace de amazon podréis ver todo lo que incluye la suscripción](<https://www.amazon.es/amazonprime?pf_rd_m=A1AT7YVPFBWXBL&pf_rd_s=merchandised-search-20&pf_rd_r=SPKR1F8DDF6EN7XBXBF7&pf_rd_t=101&pf_rd_p=22ebeddc-7676-4fb1-9838-af826ff3dc4a&pf_rd_i=22432986031&tag={{ site.constants[0].amazon_es }}>){: rel="nofollow"}, recordad que amazon aprovecha todo su universo de productos de los que dispone para hacer un paquete variado en comparación con otras plataformas. **Actualmente el precio es de 49,90€/año o de 4,99/mes.**
 
-## Para mi los puntos fuertes de la suscripción Prime son
+## Los puntos fuertes de la suscripción Prime son
 
 1. Entrega gratuita en un plazo de un día en la mayoría productos productos gestionados por amazon: esto puede ser muy conveniente para aquellos que hacen compras con frecuencia y valoran la rapidez y la comodidad de la entrega.
 
