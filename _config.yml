@@ -50,6 +50,7 @@ copyright: "geeknite (cleft) 2012-{currentYear}"
 header_pages:
    - index.markdown
    - next-articles.markdown
+   - about.markdown
 
 # not working height customization
 # Banner default settings
