@@ -3,6 +3,7 @@ layout: post
 title:  "Supacaz Grizips Lock on grips long term review"
 date:   2017-07-20 17:00:00 +0200
 tags: bike grips review supacaz components
+last_modified_at: '2021-05-16T16:36:50.219+02:00'
 ---
 
 <a href='{{ site.constants[0].wsib }}/Supacaz%20Grizips'><img style="float: right;" src="https://i.imgur.com/FLyxmiBm.jpg"></a>
@@ -36,3 +37,5 @@ After more than 1 year with them the only problem, apart from the holed end part
 - If you are in for lock on grips there are [cheaper alternatives]({{ site.constants[0].wsib }}/us/lock%20on%20grips)
 - If you are in for really gripy grips check the [Odi X-treme Lock on grips]({%- post_url 2016-06-14-odi-x-treme-lock-on-grips-long-term-review -%})
 - If you are most interested in comfort without losing grip you can opt for [foam grips]({{ site.constants[0].wsib }}/us/foam%20grips)
+
+**Update 2021-05-16**: After a lot of quite intensive use, the rubber has deteriorated, leaving a sticky material that is not pleasant to the touch. We can say that they have reached the end of their useful life.

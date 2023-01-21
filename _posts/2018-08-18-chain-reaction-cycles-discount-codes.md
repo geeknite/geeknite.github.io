@@ -5,7 +5,7 @@ date:   2018-08-18 17:00:00 +0200
 tags: mtb discount shopping
 ---
 
-[Chain Reaction Cycles](https://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref=) is one of our favorite MTB online stores, it offers good prices and a great selection of items, from MTB to road, even if we don't usually go on road they have good equipment that can be used for offroad. Also they offer free shipping on reaching a certain amount, variable depending on the country, for example 49€ buying from Spain.
+[Chain Reaction Cycles](https://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref=){: rel="nofollow"} is one of our favorite MTB online stores, it offers good prices and a great selection of items, from MTB to road, even if we don't usually go on road they have good equipment that can be used for offroad. Also they offer free shipping on reaching a certain amount, variable depending on the country, for example 49€ buying from Spain.
 
 Since they merged with Wiggle, another giant in the biking online shopping, they are changing some of their policies, especially with discounts and promo codes.
 
@@ -15,7 +15,7 @@ It seems that in the last weeks they are sending other discounts to key users, t
 
 Here you can see the current discount codes available, these codes should work for all regions but the quantities may change depending on exchange rates:
 
-<a href='https://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref='><img style="float: right;" src="https://i.imgur.com/9wi2CCmm.jpg"></a>
+<a rel="nofollow" href='https://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref='><img style="float: right;" src="https://i.imgur.com/9wi2CCmm.jpg"></a>
 
 - ~~**RSI32UT -**Save 10€ spending 60€, valid until 2018-09-17~~
 - ~~**AU84RNM**- Save 10€ spending 60€, valid until 2018-09-03~~
