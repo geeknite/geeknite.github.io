@@ -16,7 +16,7 @@ Here is a list of our favorite hardtail frames in no significant order:
 
 ### Alpkit Sonder Transmitter (~230€)
 
-A plus size bike frame with boost axle, not compatible with 29 inch wheels but very modern geometry, a shame that the seat tube is a little high. If you want a plus bike that can't fit 29er wheels check our [definitive plus tire mountain bike list](/2017/02/the-definitive-plus-tire-mountain-bike-list.html). The same frame can be found on carbon for 800€.
+A plus size bike frame with boost axle, not compatible with 29 inch wheels but very modern geometry, a shame that the seat tube is a little high. If you want a plus bike that can't fit 29er wheels check our [definitive plus tire mountain bike list]({%- post_url 2017-02-21-the-definitive-plus-tire-mountain-bike-list -%}). The same frame can be found on carbon for 800€.
 
 - Material: aluminum
 - Tapered: yes
@@ -26,9 +26,9 @@ A plus size bike frame with boost axle, not compatible with 29 inch wheels but v
 
 [![sonder](https://3.bp.blogspot.com/-MrMkRyfSwcY/WOOvYjmywVI/AAAAAAAAA9g/IxQTCzzX8M0N7j-6ojQ0p_OX7Zx7MF05gCLcB/s320/tr_main_frame_angle.jpg)](https://3.bp.blogspot.com/-MrMkRyfSwcY/WOOvYjmywVI/AAAAAAAAA9g/IxQTCzzX8M0N7j-6ojQ0p_OX7Zx7MF05gCLcB/s1600/tr_main_frame_angle.jpg)
 
-### [Ragley Marley (~230€)](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]])
+### [Ragley Marley (~230€)](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]]){: rel="nofollow"}
 
-A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the year awards for its price and capabilities, now the 2017 frame with renewed colors is better than ever. Especially good for old bikes thanks to the old standard rear axle, even a good option with 26 inch wheels but get ready your [crank boots]({{ site.constants[0].wsib }}/crank%20boots). The same version with standard headtube can be found named as the [Ragley Piglet](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-piglet-2017/rp-prod145974/]]).
+A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the year awards for its price and capabilities, now the 2017 frame with renewed colors is better than ever. Especially good for old bikes thanks to the old standard rear axle, even a good option with 26 inch wheels but get ready your [crank boots]({{ site.constants[0].wsib }}/crank%20boots). The same version with standard headtube can be found named as the [Ragley Piglet](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-piglet-2017/rp-prod145974/]]){: rel="nofollow"}.
 
 - Material: aluminum
 - Tapered: yes
@@ -64,4 +64,4 @@ The Mondraker hardtail frame, renown forward geometry, long and simple in a hard
 
 [![mondraker vantage](https://2.bp.blogspot.com/-NjJYS-Xneg8/WOOxLsYw36I/AAAAAAAAA9s/Y02Ij4XdG9sPIUJHOyC-Mi2gE1Rb5hVsgCLcB/s320/mondraker%2Bvantage%2Bframe.jpg)]({{ site.constants[0].wsib }}/uk/mondraker%20vantage)
 
-These are some of the frames that we would exchange with any hardtail anyday, we have left behind many frames worth noting and many that we would love to test. Have you tried any that we should also feature in this article, please let us know in the comments or on [@sikkxo](https://twitter.com/sikkxo). Also worth checking our [definitive plus size tire MTB list](/2017/02/the-definitive-plus-tire-mountain-bike-list.html) for interesting boosted hardtails and full suspension bikes. Thanks for being there!
+These are some of the frames that we would exchange with any hardtail anyday, we have left behind many frames worth noting and many that we would love to test. Have you tried any that we should also feature in this article, please let us know in the comments or on [@sikkxo](https://twitter.com/sikkxo). Also worth checking our [definitive plus size tire MTB list]({%- post_url 2017-02-21-the-definitive-plus-tire-mountain-bike-list -%}) for interesting boosted hardtails and full suspension bikes. Thanks for being there!

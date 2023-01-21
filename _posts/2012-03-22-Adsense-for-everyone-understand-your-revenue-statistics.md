@@ -10,18 +10,18 @@ last_modified_at: '2013-05-13T11:59:03.181+01:00'
 
 [![Example of indicators](https://i.imgur.com/teAzmHl.png)]({{ site.constants[0].wsib }}/Google AdSense)
 
-After [my question at hubpages](https://criticthinking.hubpages.com/question/162981/how-can-i-increase-my-rpm-in-adsense){: rel="nofollow"} I have been doing some research on the meaning of the **Adsense ****reports****.** When we enter at our **Adsense** page, assuming we have an account, we see our home tab with an overview were we can see some **concepts** that if we haven't researched or read about, we won't acknowledge.
+After [my question at hubpages](https://criticthinking.hubpages.com/question/162981/how-can-i-increase-my-rpm-in-adsense){: rel="nofollow"} I have been doing some research on the meaning of the **Adsense ****reports****.** When we enter at our **Adsense** page, assuming we have an account, we see our home tab with an overview were we can see some **concepts** that if we haven't researched or read about, we won't acknowledge.
 
-To start analyzing the **AdSense** reports and maximizing our revenue as most of the hubs claim first we should learn what these concepts mean.\
+To start analyzing the **AdSense** reports and maximizing our revenue as most of the hubs claim first we should learn what these concepts mean.\
 We can see that the most repeated indicators in the reports are:
 
 - **CTR**(**C**lick**T**hrough**R**ate)
-- **RPM**(**R**evenue **P**er thousand i**M**pressions)
-- **C****PC **(**C**ost**P**er**C**lick)
+- **RPM**(**R**evenue **P**er thousand i**M**pressions)
+- **C****PC **(**C**ost**P**er**C**lick)
 
 First of all we should distinguish that these indicators or concepts are merely statistical and are calculated with the revenue in our accounts, we must realize that the reports calculate averages on the results, so when we see the report by day the data of each column is averaged by each day.
 
-The purpose of this hub is understand the basic concepts and make as many people as possible conscious of some of the problems of the **Adsense** reports, as we may see some of them are inaccurate in its calculations and can lead to confusion.
+The purpose of this hub is understand the basic concepts and make as many people as possible conscious of some of the problems of the **Adsense** reports, as we may see some of them are inaccurate in its calculations and can lead to confusion.
 
 ![bid types in Adsense report](https://i.imgur.com/19HuBfU.png)
 
@@ -30,11 +30,11 @@ bid types in Adsense report
 Bid types
 ---------
 
-If we look at the report by ***Bid types*** there are only two ways of earning money, those are the only parameters that generate revenue. **Adsense** serves us an ad it does an auction which bid is more appropriate for us, as they state, and the result is one of this bidding types. We should see them in detail:
+If we look at the report by ***Bid types*** there are only two ways of earning money, those are the only parameters that generate revenue. **Adsense** serves us an ad it does an auction which bid is more appropriate for us, as they state, and the result is one of this bidding types. We should see them in detail:
 
 ### **CPC Bids**
 
-This is the standard bid and **Adsense** will serve mostly this type of bid. The revenue on these ads depends on the user clicking on it. The format of the ad can vary on text links, images or even animated ads in *Flash*.
+This is the standard bid and **Adsense** will serve mostly this type of bid. The revenue on these ads depends on the user clicking on it. The format of the ad can vary on text links, images or even animated ads in *Flash*.
 
 ### **CPM Bids**
 
@@ -55,12 +55,12 @@ Let's go with the statistics:
 
 ### **CTR (Click Through Rate)**
 
-AdSense *CTR (Click Through Rate)* is the number of the ad clicks divided by the number of page views.\
+AdSense *CTR (Click Through Rate)* is the number of the ad clicks divided by the number of page views.\
 *CTR = (Number of ad clicks* 100) / Number of page views\
-*If my blog has 10,000 page views in a month and 50 **AdSense** ad clicks then my CTR is 0,05%.\
+*If my blog has 10,000 page views in a month and 50 **AdSense** ad clicks then my CTR is 0,05%.\
 *CTR = (50 *100) / 10000 = 0,05%\
-*Higher CTR means that more **AdSense**ads have been clicked, so in the end means more earnings. So every **AdSense** publisher wants a higher CTR.\
-Also we must be cautious because some invalid clicks, as you may know if you read the **Adsense** terms, can be counted for the CTR, so as you can see some of these stats can be inaccurate.
+*Higher CTR means that more **AdSense**ads have been clicked, so in the end means more earnings. So every **AdSense** publisher wants a higher CTR.\
+Also we must be cautious because some invalid clicks, as you may know if you read the **Adsense** terms, can be counted for the CTR, so as you can see some of these stats can be inaccurate.
 
 ### **RPM (Revenue Per thousand iMpressions)**
 

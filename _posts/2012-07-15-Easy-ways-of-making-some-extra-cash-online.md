@@ -16,9 +16,9 @@ I have been trying for a few months different ways of making some extra money on
 - **Write for money**: Also if you are not a professional you can start writing for some content, like HubPages, as you may know these sites share their earnings with you, if you are not registered at HubPages you should try also Squidoo.
 - **Sell unnecessary or collectible items**: you can sell on eBay or Craigslist; you also can risk a little and buy bulk items and resell them individually or find sales and resell it for a little more, but it's not recommended many people state that requires a big involvement and time.
 - **Start your own blog**: If you have a hobby or want to talk about something you can create a blog and get some money through Adsense. You can I have some published post that can be interesting for beginners:
-  - If you are not using blogger you should[read this post to help you add Adsense to any blog that allows frames as Tumblr](https://hubpages.com/technology/Adsense-in-3-simple-steps-to-any-blog), you may need some basic HTML knowledge
-  - [Learn the basic Adsense statistics to maximize your revenue](https://hubpages.com/community/Adsense-for-everyone-understand-your-revenue-statistics)
-  - Do reviews of Amazon products you own and register at their affiliate program, where you can earn a small percentage of every parchase through your links, as for example [this site](http://amazon-top-deals.blogspot.com.es/) or [this one](http://putinyourbasket.blogspot.com/)
+  - If you are not using blogger you should[read this post to help you add Adsense to any blog that allows frames as Tumblr]({%- post_url 2013-05-16-Adsense-in-3-simple-steps-to-any-blog -%}), you may need some basic HTML knowledge
+  - [Learn the basic Adsense statistics to maximize your revenue]({%- post_url 2012-03-22-Adsense-for-everyone-understand-your-revenue-statistics -%})
+  - Do reviews of Amazon products you own and register at their affiliate program, where you can earn a small percentage of every parchase through your links
 - **Creating and selling online courses**: You can create an online course teaching others what you know and sell it on platforms such as Udemy or Coursera. This can be a great way to earn passive income over time.
 
 It's important to remember that making money online requires dedication and effort, and may not be suitable for everyone. It's also important to research and find legitimate opportunities, as there are many scams online.
