@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple's iPhone 5 meets expectations but does not shine above the Android rivals'
+title: "Apple's iPhone 5 meets expectations but does not shine above the Android rivals"
 date: '2012-09-13T03:00:00.000+02:00'
 tags:
 - apple
@@ -19,7 +19,7 @@ last_modified_at: '2013-03-21T13:51:25.500+01:00'
 
 The giant consumer electronics manufacturer that in 2010 popularized the tablet with their *iPad*, gave no clues as to whether they are planning a smaller version to compete with cheaper tablets of other companies like the *Google Nexus 7*, which soon I plan to post a review, or the recently announced *[Kindle Fire HD](https://www.amazon.com/gp/product/B008GGCAVM/?tag={{ site.constants[0].amazon_com }}){: rel="nofollow"}* presented by *Amazon*.
 
-On contrast of the *Nokia* presentation, ***Apple*'s stock price rose 1.4% on Wednesday**, reaching $669.79.
+On contrast of the *Nokia* presentation, **Apple's stock price rose 1.4% on Wednesday**, reaching $669.79.
 
 We also may be alert as it seems that *Samsung*, as a revenge for their pantent war, **wants to block** the *iPhone 5* as they own some of the patents about the *4G LTE* technology, we will see in the following days.
 
