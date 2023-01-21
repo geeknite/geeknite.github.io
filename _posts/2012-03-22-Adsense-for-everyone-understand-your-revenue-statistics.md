@@ -10,7 +10,7 @@ last_modified_at: '2013-05-13T11:59:03.181+01:00'
 
 [![Example of indicators](https://i.imgur.com/teAzmHl.png)]({{ site.constants[0].wsib }}/Google AdSense)
 
-After [my question at hubpages](https://criticthinking.hubpages.com/question/162981/how-can-i-increase-my-rpm-in-adsense){: rel="nofollow"} I have been doing some research on the meaning of the **Adsense ****reports****.** When we enter at our **Adsense** page, assuming we have an account, we see our home tab with an overview were we can see some **concepts** that if we haven't researched or read about, we won't acknowledge.
+It all started with the question: *How can I increase my RPM in Adsense?*, I saw that I did not understand what many of the terms are so I have been doing some research on the meaning of the **Adsense ****reports****.** When we enter at our **Adsense** page, assuming we have an account, we see our home tab with an overview were we can see some **concepts** that if we haven't researched or read about, we won't acknowledge.
 
 To start analyzing the **AdSense** reports and maximizing our revenue as most of the hubs claim first we should learn what these concepts mean.\
 We can see that the most repeated indicators in the reports are:
