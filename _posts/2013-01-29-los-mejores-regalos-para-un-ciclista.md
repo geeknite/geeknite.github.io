@@ -34,6 +34,7 @@ last_modified_at: '2017-07-13T16:14:50.780+02:00'
 
 * [Unos pantalones largos para la temporada de inviero](https://dx.com/p/cycling-bicycle-bike-riding-capri-pants-black-size-l-129255?Utm_rid=27581771&Utm_source=affiliate){: rel="nofollow"}, aunque no salgo mucho y por ello no quise comprar unos de marca en otra tienda, que encuentro que tienen precios desorbitados.
 * [Una mini-camara para grabar las bajadas por trialeras y subirlas a youtube](https://dx.com/p/300k-pixel-mini-camcorder-spy-camera-with-tf-card-slot-32022?Utm_rid=27581771&Utm_source=affiliate){: rel="nofollow"}, la verdad es que por el precio que tiene la mini-camara está más que bien, **aunque me ha durado dos días**.
+* Una action cam es mejor opción y [podéis ver una review aquí de un modelo asequible y que funciona muy bien]({%- post_url 2017-01-02-h9-action-cam-review-primeras-impresiones -%}).
 
 Me falta decidirme por una luz, espero poder hacer un _mini_ estudio con [las luces más interesantes en dx.com](https://dx.com/c/sports-outdoors-1699/cycling-1607/bike-light-1644?Utm_rid=27581771&Utm_source=affiliate){: rel="nofollow"} y colgarlo próximamente.  
   
