@@ -44,6 +44,6 @@ Por los problemas que he tenido no las compraría otra vez ya que la falta de al
 
 **Alternativas:**
 
-* Si lo que requieres es unas gafas para proteger principalmente con cristal intercambiable para tener todo el rango de posibilidades hay marcas como [BBB]({{ site.constants[0].wsib }}/es/gafas%20bbb) con una calidad/precio muy buenas
-* Si quieres simples [gafas transparentes](https://ad.zanox.com/ppc/?37368613C2015662025T&ULP=%5b%5bhttps://www.chainreactioncycles.com/es/es/gafas-de-sol-de-marco-completo-oneten/rp-prod132507%5d%5d){: rel="nofollow"} para proteger o rutas nocturnas
-* Si quieres unas gafas fotocromáticas de calidad sin que te importe el precio tienes las [Adidas Evil Eye Evo Vario]({{ site.constants[0].wsib }}/es/Adidas%20Evil%20Eye%20Evo%20VARIO) o las ya clásicas [Oakley Jawbone]({{ site.constants[0].wsib }}/es/Oakley%20jawbone)
+* Si lo que requieres es unas gafas para proteger principalmente con cristal intercambiable para tener todo el rango de posibilidades hay marcas como [BBB]({{ site.constants[0].wsib }}/es/gafas%20bbb) con una calidad/precio muy buenas.
+* Si quieres simples [gafas transparentes](https://ad.zanox.com/ppc/?37368613C2015662025T&ULP=%5b%5bhttps://www.chainreactioncycles.com/es/es/gafas-de-sol-de-marco-completo-oneten/rp-prod132507%5d%5d){: rel="nofollow"} para proteger o rutas nocturnas.
+* Si quieres unas gafas fotocromáticas de calidad sin que te importe el precio tienes las [Adidas Evil Eye Evo Vario]({{ site.constants[0].wsib }}/es/Adidas%20Evil%20Eye%20Evo%20VARIO) o las ya clásicas [Oakley Jawbone]({{ site.constants[0].wsib }}/es/Oakley%20jawbone).
