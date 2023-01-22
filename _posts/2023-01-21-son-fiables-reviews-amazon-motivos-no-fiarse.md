@@ -24,6 +24,8 @@ Hemos visto varias formas de hacerlo:
 
 Es importante tener en cuenta que, aunque estos motivos pueden hacer que las reseñas en Amazon no sean completamente fiables, todavía pueden ser útiles para obtener una idea general de la calidad de un producto. Sin embargo, es recomendable leer varias reseñas de diferentes fuentes y considerar tanto las opiniones positivas como negativas antes de tomar una decisión de compra.
 
+![we don't like fake reviews](https://i.imgur.com/OO8VYzAm.png)]
+
 ### Cómo detectar reviews falsas?
 
 Hay varias formas de detectar reseñas falsas en Amazon u otros sitios web de reseñas:
