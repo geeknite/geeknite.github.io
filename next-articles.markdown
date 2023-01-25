@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: about
 title: Next articles
 permalink: /next-articles/
+description: This is an always updated list of the articles and reviews we are currently working on, some may require more time some maybe will never see the light, if you are interested in any review please let us know through <geeknit@outlook.com>
 ---
 
 ### Next articles
