@@ -9,6 +9,8 @@ tags:
 last_modified_at: '2023-01-15T11:59:03.181+01:00'
 ---
 
+[![geknite money making cat](https://i.imgur.com/DA80Cljm.png){: style="float: right;"}]
+
 I have been trying for a few months different ways of making some extra money online, even I have not been much successful as many of them require a lot of involvement, but some require less involvement and are much more satisfying, here I want to enumerate my favorite ones and the ones that found out more effective:
 
 - **Online Surveys:** Participating in online surveys is a great way to make some extra cash. There are several reputable survey sites available, but if you're not from the US, you may have better luck searching for local survey sites.
