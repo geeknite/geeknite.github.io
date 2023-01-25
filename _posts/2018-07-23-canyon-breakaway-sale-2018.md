@@ -11,7 +11,8 @@ tags:
 - opinions
 last_modified_at: '2018-07-23T16:36:50.219+02:00'
 ---
-[![](https://3.bp.blogspot.com/-B54IYZd6tvE/W1XiZm9gBYI/AAAAAAAABDo/ILoNtPWpBm0ng0oeZ0aRkOjtFttbM3bIQCLcBGAs/s200/spectral%2Bal%2B7%2B2018.jpg)](https://www.canyon.com/en-es/specials/breakaway-sale/mtb-gravity/){: rel="nofollow"}
+[![](https://3.bp.blogspot.com/-B54IYZd6tvE/W1XiZm9gBYI/AAAAAAAABDo/ILoNtPWpBm0ng0oeZ0aRkOjtFttbM3bIQCLcBGAs/s200/spectral%2Bal%2B7%2B2018.jpg){: style="float: right;"}](https://www.canyon.com/en-es/specials/breakaway-sale/mtb-gravity/){: rel="nofollow"}
+
 Aprovechando el Tour de France, cada año Canyon aprovecha para hacer un poco de limpieza en sus almacenes con su [Breakaway Sale](https://www.canyon.com/en-es/specials/breakaway-sale/mtb-gravity/){: rel="nofollow"} ofreciendo descuentos interesantes. Aunque cada día hay una oferta de accesorios o componentes lo más interesante son las ofertas de las bicicletas del año.  
   
 Si repasamos el catálogo de ofertas, vemos como la mayoría de modelos son los que arrastramos de años anteriores, Neuron, Spectral y la rígida de carbono Exceed. En cambio sí que destaca la nueva Spectral con 3 modelos disponibles en oferta, para mi bolsillo **la Spectral 5.0 con montaje SLX por 2000€ o la Spectral AL 7.0 con montaje XT por 2500€, las 2 con Pike RC y Deluxe RT  me resultan muy interesantes**.  

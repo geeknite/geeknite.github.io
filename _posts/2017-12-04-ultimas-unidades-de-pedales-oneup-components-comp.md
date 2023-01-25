@@ -14,6 +14,7 @@ tags:
 - bikeshop
 last_modified_at: '2018-08-18T10:55:45.802+02:00'
 ---
+[![geeknite oneup pedals](https://1.bp.blogspot.com/-Xnlkftj4NNQ/WiVroV8oxXI/AAAAAAAABCI/Mtmervu3qL4E5O23Tr1TPAeT10iiVPvzQCLcBGAs/s320/OneUp-Components-Composite-Flat-Pedal-offers.jpg){: style="float: right;"}](https://www.alltricks.es/F-11931-pedales-plates/P-259430-oneup_pedals_composite_black?gclid=Cj0KCQiAgZTRBRDmARIsAJvVWAuAzyIkjhBvTA2cVU8DN0Y29sg_ldIzTpaWBFN_pREDstJpX8P5WZMaAv_6EALw_wcB#ectrans=1){: rel="nofollow"}
 
 Les pedales OneUp han creado una pequeña revolución, y es que en un mercado con tantos clones, hacer unos pedales modernos, resistentes y a un precio competitivo ha hecho levantar muchas miradas y es que por lo que tenemos visto se acaban muy rápido,[en tiendas como ChainReaction ya no están disponibles](https://www.awin1.com/awclick.php?gid=329899&mid=10467&awinaffid=364849&linkid=2100772&clickref=){: rel="nofollow"}.  
   
@@ -23,5 +24,3 @@ Aunque difíciles de encontrar **[en Alltricks están por 42.99€](https://www.
   
 Si queremos [la versión metálica la podemos encontrar por 105€ en bikeshop.es](https://www.bikeshop.es/pedales-one-up-aluminio/141494.html){: rel="nofollow"}, y que también empiezan a ser difíciles de encontrar pero por su elevado precio sólo los recomiendo a los más entusiastas. Pronto hablaremos de más opciones de padeles aunque no tan modernos ni visualmente atractivos pero sí teniendo en cuenta la relación calidad/precio.  
   
-
-[![](https://1.bp.blogspot.com/-Xnlkftj4NNQ/WiVroV8oxXI/AAAAAAAABCI/Mtmervu3qL4E5O23Tr1TPAeT10iiVPvzQCLcBGAs/s320/OneUp-Components-Composite-Flat-Pedal-offers.jpg)](https://www.alltricks.es/F-11931-pedales-plates/P-259430-oneup_pedals_composite_black?gclid=Cj0KCQiAgZTRBRDmARIsAJvVWAuAzyIkjhBvTA2cVU8DN0Y29sg_ldIzTpaWBFN_pREDstJpX8P5WZMaAv_6EALw_wcB#ectrans=1){: rel="nofollow"}

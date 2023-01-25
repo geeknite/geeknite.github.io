@@ -6,8 +6,6 @@ tags: powershell maintenance computing
 redirect_to: https://ferransalguero.github.io/blog/Powershell-recursive-deletion-script/
 ---
 
-![critic thinking profile image](https://usercontent2.hubstatic.com/6420837_100.jpg "critic thinking profile image")
-
 I've been using powershell to automatize some tedious tasks done through visual interface on windows, this is a powerful tool and I recommend everybody with some programmatic to check it out.
 
 The powershell is an advanced command line console, like the old MS-DOS or a terminal in Linux systems, but with improved option, so programmers and system administrators can use it more efficiently.
