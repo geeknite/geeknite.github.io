@@ -11,7 +11,7 @@ tags:
 - review
 - kids
 last_modified_at: '2017-07-13T10:42:45.529+02:00'
-discription: "Get our initial impressions on the Cruzee UltraLite 12" balance bike. We take a close look at the design, features, and performance of this popular balance bike for kids. Find out if the Cruzee UltraLite 12" is the right choice for your child's first bike."
+discription: Get our initial impressions on the Cruzee UltraLite 12" balance bike. We take a close look at the design, features, and performance of this popular balance bike for kids. Find out if the Cruzee UltraLite 12" is the right choice for your child's first bike.
 ---
 
 I was checking at the balance bike range available for my kid who does not have 2 years already, many balance bikes state that are recommended for at least 2 years old kids, but a few advertise that their bikes are**intended for kids of at least 18 months**. The [Cruzee balance bike]({{ site.constants[0].wsib }}/cruzee) was one of these models, and also stated that it is the lightest balance bike in the market.  
