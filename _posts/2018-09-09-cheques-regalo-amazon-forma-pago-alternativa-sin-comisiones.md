@@ -3,9 +3,10 @@ layout: post
 title:  "Cheques regalo de amazon como forma de pago alternativa sin comisiones"
 date:   2018-09-09 17:00:00 +0200
 tags: amazon españa español europe smartshopping
+description: "Exploramos la posibilidad de usar cheques regalo de Amazon como forma de pago alternativa sin comisiones. Aprende cómo comprar y usar cheques regalo, y cómo evitar problemas y comisiones al hacer compras en línea."
 ---
 
-<a href='https://www.amazon.es/cheques-regalo/b/ref=as_li_ss_tl?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&node=3564279031&tag={{ site.constants[0].amazon_es }}&linkId=1d2931e92394c7d0417ef5b550fb0121&language=es_ES'><img style="float: right;" src="https://i.imgur.com/AGT3i6om.jpg"></a>
+[![geeknite cheques regalo](https://i.imgur.com/AGT3i6om.jpg){: style="float: right;"}](https://www.amazon.es/cheques-regalo/b/ref=as_li_ss_tl?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&node=3564279031&tag={{ site.constants[0].amazon_es }}&linkId=1d2931e92394c7d0417ef5b550fb0121&language=es_ES){: rel="nofollow"}
 
 Los cheques regalo estan ideados para hacer hacer ragalos sin mojarse en qué producto comprar, ideales para pequeños regalos en nacimientos de los hijos de amigos para que los nuevos padres puedan comprar según necesidad. Pero a partir de aquí no tendemos a darles más uso que para regalos de este tipo.
 
@@ -13,7 +14,7 @@ Pero hoy en día nos encontramos con el boom de las compras online y gracias a e
 
 **Estos porcentajes tendrían cierto sentido hace 10 años,** pero hoy en día en que todas estas plataformas están automatizadas y el coste de servicios online se ha reducido en gran medida no deberían superar un pequeño coste fijo para transacciones menores a 500€ por ejemplo, y **dejar de ser un porcentaje**. Hay plataformas *modernas*, que ya plantean modelos así pero como acostumbra a pasar en España todavía falta para que esté disponible y nadie se atreve a llevar la contraria a entidades bancarias.
 
-Por todo ello, estos últimos meses me planteé que alternativas había y gracias a [amazon.es](https://www.amazon.es/?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&tag={{ site.constants[0].amazon_es }}), y a los amazons de los distintos países, **se me ocurrió aprovechar los cheques regalo como forma de pago**, que no tienen comisiones, y el único inconveniente es que obligan al que lo recibe a gastárselo en amazon, pero quien no tiene compras que hacer? Y cómo ya sabréis [en amazon podemos encontrar prácticamente de todo y además a buenos precios]({% post_url 2013-01-24-recomendaciones-comprar-amazon-espana %}).
+Por todo ello, estos últimos meses me planteé que alternativas había y gracias a [amazon.es](https://www.amazon.es/?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&tag={{ site.constants[0].amazon_es }}){: rel="nofollow"}, y a los amazons de los distintos países, **se me ocurrió aprovechar los cheques regalo como forma de pago**, que no tienen comisiones, y el único inconveniente es que obligan al que lo recibe a gastárselo en amazon, pero quien no tiene compras que hacer? Y cómo ya sabréis [en amazon podemos encontrar prácticamente de todo y además a buenos precios]({% post_url 2013-01-24-recomendaciones-comprar-amazon-espana %}).
 
 Otro factor importante es que para los que hagan ventas online como forma de negocio, los cheques regalo se acumulan en tu cuenta de amazon, por lo que en ningún momento te llega dinero real en tu cuenta bancaria, y aunque tampoco conozco los pormenores legales, es probable que no tengas que tributarlo.
 
