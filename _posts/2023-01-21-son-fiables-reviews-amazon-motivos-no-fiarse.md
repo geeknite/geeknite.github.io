@@ -6,6 +6,8 @@ tags: smartshopping amazon español recomendaciones
 description: "Descubre por qué no debes confiar ciegamente en las reseñas de Amazon. Te mostramos 10 motivos por los que las opiniones de los clientes en esta plataforma no siempre son fiables. Aprende a leer entre líneas y a buscar otras fuentes de información antes de tomar una decisión de compra."
 ---
 
+[![we don't like fake reviews](https://i.imgur.com/OO8VYzAm.png){: style="float: right;"}]({{ site.constants[0].wsib }})
+
 **La respuesta rápida es que NO**. Sigue leyendo y sabrás alguno de los trucos que usan vendedores para que no te engañen, incluso puedes sacarle algún partido.
 
 ### Como lo hacen para tener buenas puntuaciones?
@@ -25,7 +27,7 @@ Hemos visto varias formas de hacerlo:
 
 Es importante tener en cuenta que, aunque estos motivos pueden hacer que las reseñas en Amazon no sean completamente fiables, todavía pueden ser útiles para obtener una idea general de la calidad de un producto. Sin embargo, es recomendable leer varias reseñas de diferentes fuentes y considerar tanto las opiniones positivas como negativas antes de tomar una decisión de compra.
 
-![we don't like fake reviews](https://i.imgur.com/OO8VYzAm.png)]
+
 
 ### Cómo detectar reviews falsas?
 

@@ -14,6 +14,8 @@ Pero eso no es todo, al suscribirte a Prime te comprometes a hacer la mayoría d
 
 ¿Y el contenido de streaming? Bueno, no todo el contenido está disponible en todos los países, así que es posible que no puedas ver todo lo que quieres.
 
+[Y qué contaros de las opiniones la mayoría falseadas]({%- post_url 2023-01-21-son-fiables-reviews-amazon-motivos-no-fiarse -%}), más falsas que un euro de chocolate!
+
 Por último pero no menos importante, al suscribirse a Prime, estás compartiendo tus datos personales con Amazon, lo que significa que la compañía tiene acceso a tus hábitos de compra, preferencias y demografía. ¿Quieres que Amazon sepa más de ti de lo que tu pareja lo hace?
 
 En resumen, la suscripción Prime de Amazon.es es como una relación tóxica, te ofrece cosas bonitas pero luego te saca el dinero de tu bolsillo y te limita a solo una opción. Así que antes de suscribirte, asegúrate de [evaluar si realmente obtendrás suficiente valor a cambio de tu dinero]({%- post_url 2023-01-01-vale-la-pena-ser-prime-amazon-2023 -%}) y si estás dispuesto a asumir los riesgos y las limitaciones asociadas con la suscripción.
