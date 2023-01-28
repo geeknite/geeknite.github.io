@@ -17,8 +17,9 @@ last_modified_at: '2015-07-22T00:09:38.597+02:00'
 
 * [Rucksack Gelert Nebula 25lt.](https://www.amazon.co.uk/gp/product/B005GT4F4M/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B005GT4F4M&linkCode=as2&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}: A modest brand but a really good product, professional and comfortable, perfect for mountain biking or hiking.
 
-[![](https://ws.assoc-amazon.co.uk/widgets/q?_encoding=UTF8&ASIN=B005GT4F4M&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}](https://www.amazon.co.uk/gp/product/B005GT4F4M/ref=as_li_ss_il?ie=UTF8&camp=1634&creative=19450&creativeASIN=B005GT4F4M&linkCode=as2&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}*   Dimensions: W28 x D14 x H44 cm
+[![](https://ws.assoc-amazon.co.uk/widgets/q?_encoding=UTF8&ASIN=B005GT4F4M&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}](https://www.amazon.co.uk/gp/product/B005GT4F4M/ref=as_li_ss_il?ie=UTF8&camp=1634&creative=19450&creativeASIN=B005GT4F4M&linkCode=as2&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}
 
+* Dimensions: W28 x D14 x H44 cm
 * Features: Padded Cool Air Design back system
 * Lightweight padded shoulder straps
 * Sliding chest strap
@@ -44,11 +45,10 @@ last_modified_at: '2015-07-22T00:09:38.597+02:00'
 
 * [York Vinyl Fitbell Kit in a Case - 10 kg](https://www.amazon.co.uk/gp/product/B000N3T0UU/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000N3T0UU&linkCode=as2&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}: Good set of aerobic dumbbells, good vinyl touch, does not get dirty. Cheap and perfect for some home exercise.
 
-[![](https://ws.assoc-amazon.co.uk/widgets/q?_encoding=UTF8&ASIN=B000N3T0UU&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}](https://www.amazon.co.uk/gp/product/B000N3T0UU/ref=as_li_ss_il?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000N3T0UU&linkCode=as2&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}*   2 x 1.0kg
+[![](https://ws.assoc-amazon.co.uk/widgets/q?_encoding=UTF8&ASIN=B000N3T0UU&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}](https://www.amazon.co.uk/gp/product/B000N3T0UU/ref=as_li_ss_il?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000N3T0UU&linkCode=as2&tag={{ site.constants[0].amazon_uk }}){: rel="nofollow"}
 
+* 2 x 1.0kg
 * 2 x 1.5kg
 * 2 x 2.5kg
 
-![](https://www.assoc-amazon.co.uk/e/ir?t={{ site.constants[0].amazon_uk }}&l=as2&o=2&a=B004JU0JSA){: rel="nofollow"}  
-
-![](https://www.assoc-amazon.co.uk/e/ir?t={{ site.constants[0].amazon_uk }}&l=as2&o=2&a=B004GE61Z4)![](https://www.assoc-amazon.co.uk/e/ir?t={{ site.constants[0].amazon_uk }}&l=as2&o=2&a=B000N3T0UU){: rel="nofollow"}
+<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="https://rcm-uk.amazon.co.uk/e/cm?lt1=_top&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t={{ site.constants[0].amazon_uk }}&amp;o=2&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B005GT4F4M" style="height: 240px; width: 120px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="https://rcm-uk.amazon.co.uk/e/cm?lt1=_top&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t={{ site.constants[0].amazon_uk }}&amp;o=2&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B004GE61Z4" style="height: 240px; width: 120px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="https://rcm-uk.amazon.co.uk/e/cm?lt1=_top&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t={{ site.constants[0].amazon_uk }}&amp;o=2&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B004JU0JSA" style="height: 240px; width: 120px;"></iframe><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="https://rcm-uk.amazon.co.uk/e/cm?lt1=_top&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t={{ site.constants[0].amazon_uk }}&amp;o=2&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B000N3T0UU" style="height: 240px; width: 120px;"></iframe>
