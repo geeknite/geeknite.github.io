@@ -46,7 +46,7 @@ But if you are a professional or enthusiast and the $6/month is not a problem fo
 
 Remember that to use Strava and Garmin Connect you need a GPS device, we have written a couple of articles comparing some [Garmin Edge]({{ site.constants[0].wsib }}/garmin%20edge) models, the ones special for biking:
 
-- [Garmin Edge 1000 vs 810 review comparison. Top bike GPS with maps and routes](/2014/07/garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes.html)
+- [Garmin Edge 1000 vs 810 review comparison. Top bike GPS with maps and routes]( {%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%}))
 - [Garmin Edge 500 vs Edge 520 review comparison. Should I stay with the Edge 500?]({% post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 %})
 
 Also try [Motivate](https://motivate.apphb.com/) a free web app that integrates with Strava to get extra stats and features.

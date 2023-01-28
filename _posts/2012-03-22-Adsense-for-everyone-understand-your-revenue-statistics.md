@@ -71,7 +71,7 @@ You should not mistake it with the bid type, because this is just a statistic of
 
 ### **CPC (Cost Per Click)**
 
-The cost-per-click (CPC) is the average amount we earn each time a user clicks on his ad. As you may suppose, CPC is calculated by dividing the estimated earnings by the number of clicks received.\
+The cost-per-click (CPC) is the average amount we earn each time a user clicks on his ad. As you may suppose, CPC is calculated by dividing the estimated earnings by the number of clicks received.
 For example if your CPC is $0.26 then you need around 285 click to earn $100. As with CTR you should be careful with invalid links as it will be counted in this statistic.
 
 Conclusions

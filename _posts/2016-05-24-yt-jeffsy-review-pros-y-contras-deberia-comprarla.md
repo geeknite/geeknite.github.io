@@ -15,7 +15,7 @@ tags:
 last_modified_at: '2017-11-27T16:08:50.222+01:00'
 ---
 
-[![geeknite tries yt](https://3.bp.blogspot.com/-UHb-A9hVQCA/Vz-IsiZ9DqI/AAAAAAAAAyw/KS6YE7irg40NeBrxsKDDnEX2f34bFaB-ACLcB/s1600/yt_logo_header_01%255B1%255D.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/de/yt%20industries)Como uno de los grandes defensores del modelo _YT Capra_, como ya comentamos en [las mejores MTB según presupuesto (for the money)](/2016/03/las-mejores-mtb-segun-presupuesto-for-the-money.html), desde que _YT_ sacó su nuevo modelo de _trail Jeffsy_ han sido ya en diferentes ocasiones que me han preguntado por mi opinión. Las preguntas suelen ser si recomiendo tanto este modelo como la _Capra_, qué relación calidad/precio tiene este modelo y en definitiva si es la mejor bicicleta de trail del momento.  
+[![geeknite tries yt](https://3.bp.blogspot.com/-UHb-A9hVQCA/Vz-IsiZ9DqI/AAAAAAAAAyw/KS6YE7irg40NeBrxsKDDnEX2f34bFaB-ACLcB/s1600/yt_logo_header_01%255B1%255D.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/de/yt%20industries)Como uno de los grandes defensores del modelo _YT Capra_, como ya comentamos en [las mejores MTB según presupuesto (for the money)]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}), desde que _YT_ sacó su nuevo modelo de _trail Jeffsy_ han sido ya en diferentes ocasiones que me han preguntado por mi opinión. Las preguntas suelen ser si recomiendo tanto este modelo como la _Capra_, qué relación calidad/precio tiene este modelo y en definitiva si es la mejor bicicleta de trail del momento.  
 
 ###
 
@@ -63,7 +63,7 @@ Os preguntaréis, **si compro una 29" para que voy a querer cambiar a 27.5+**? E
 
 #### Alternativas
 
-* Si por el contrario quieres una bicicleta que se pueda alternar entre 27.5+, 27.5 o 29, te recomendamos que visites nuestra [lista definitiva de bicis plus (The definitive plus tire mountain bike list)](/2017/02/the-definitive-plus-tire-mountain-bike-list.html) para ver los modelos que lo permiten.
+* Si por el contrario quieres una bicicleta que se pueda alternar entre 27.5+, 27.5 o 29, te recomendamos que visites nuestra [lista definitiva de bicis plus (The definitive plus tire mountain bike list)]({%- post_url 2017-02-21-the-definitive-plus-tire-mountain-bike-list -%}) para ver los modelos que lo permiten.
 * Si buscas una bici de ruedas 27.5 y te gusta el estilo, componentes y diseño de la Jeffsy tienes la Jeffsy 27 disponible desde 2017.
 
   [![](https://4.bp.blogspot.com/-9DgrvU34KQg/V0RaNghM4NI/AAAAAAAAAzA/E7VP0FyjcI4-fWXu-TKl-xS7SZ3o38YdwCLcB/s1600/jeffsy.jpg)]({{ site.constants[0].wsib }}/us/yt%20industries)
