@@ -22,6 +22,8 @@ Here you can see the current discount codes available, these codes should work f
 - ~~**AU16TFK**- Save 10€ spending 60€, valid until 2018-08-20~~
 - ~~**SUMMERSAVE**- New users, save 10€ spending 50€~~
 - ~~**SALE2018** - Clearance items, save 10€ spending 75€~~
+- ~~**HOLIDAYSALE** - Save 15% on your entire purchase, valid until December 31st.~~
+- ~~**NEWYEAR** - Save 10€ spending 60€, valid until January 15th.~~
 
 These are not percentage based discounts which I prefer, because you get a discount proportional to what you spend, for example a bike, but for buying components or equipment are good discounts so use them.
 
