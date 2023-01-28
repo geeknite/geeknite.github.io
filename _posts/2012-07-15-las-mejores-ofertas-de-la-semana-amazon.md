@@ -6,7 +6,11 @@ tags:
 - amazon
 - spain
 - offers
+- mejores ofertas
+- español
 last_modified_at: '2015-10-21T21:01:57.813+02:00'
+redirect_from:
+- /2012/07/las-mejores-ofertas-de-la-semana-en.html
 ---
 
 Productos de primera a unos precios imbatibles, estos són los productos que he pedido esta semana:  
