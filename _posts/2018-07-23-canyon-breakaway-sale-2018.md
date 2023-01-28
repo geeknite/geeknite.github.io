@@ -15,7 +15,7 @@ last_modified_at: '2018-07-23T16:36:50.219+02:00'
 
 Aprovechando el Tour de France, cada año Canyon aprovecha para hacer un poco de limpieza en sus almacenes con su [Breakaway Sale](https://www.canyon.com/en-es/specials/breakaway-sale/mtb-gravity/){: rel="nofollow"} ofreciendo descuentos interesantes. Aunque cada día hay una oferta de accesorios o componentes lo más interesante son las ofertas de las bicicletas del año.  
   
-Si repasamos el catálogo de ofertas, vemos como la mayoría de modelos son los que arrastramos de años anteriores, Neuron, Spectral y la rígida de carbono Exceed. En cambio sí que destaca la nueva Spectral con 3 modelos disponibles en oferta, para mi bolsillo **la Spectral 5.0 con montaje SLX por 2000€ o la Spectral AL 7.0 con montaje XT por 2500€, las 2 con Pike RC y Deluxe RT  me resultan muy interesantes**.  
+Si repasamos el catálogo de ofertas, vemos como la mayoría de modelos son los que arrastramos de años anteriores, Neuron, Spectral y la rígida de carbono Exceed. En cambio sí que destaca la nueva Spectral con 3 modelos disponibles en oferta, para mi bolsillo **la Spectral 5.0 con montaje SLX por 2000€ o la Spectral AL 7.0 con montaje XT por 2500€, las 2 con Pike RC y Deluxe RT  me resultan muy interesantes**.  
   
 Para los amantes del XC la Exceed puede resultar más interesante, rígida de carbono con ruedas de 29 y pesos menores de 11kg, como por ejemplo la Exceed CF SL 6.0 por 1800€ con una Reba y cambio combinado SLX y XT. Para los más competitivos hay el modelo 7.0 con GX Eagle y SID WC y peso que ronda los 10kg tanto el modelo unisex como el orientado al público femenino las 2 sobre los 2500€.  
   

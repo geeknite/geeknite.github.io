@@ -21,7 +21,7 @@ Recently I started playing **[Fallout New Vegas Ultimate Edition]({{ site.consta
   
 I am sorry to hear a company, that was **responsible for great games**, being in problems for such a nimble decision as to depend on a subjective measure as it is a review. This hub can be seen as a measure of support Obsidian but also I want to be critic with the new Fallout games and also give some **ideas to improve the new chapters in the saga**.  
   
-As I was playing New Vegas I got a sensation similar to when as a teenager was playing [Fallout 2,]({{ site.constants[0].wsib }}/us/fallout%202) I thought back then that it was the same game as Fallout but the detail was much improved it was a mature game with much more to do than the original Fallout. The problem with Fallout New Vegas is the lack of possibilities to change the Fallout 3 original game-play, as many of the problems that I will expose can be also applied to Fallout 3.  
+As I was playing New Vegas I got a sensation similar to when as a teenager was playing [Fallout 2,]({{ site.constants[0].wsib }}/us/fallout%202) I thought back then that it was the same game as Fallout but the detail was much improved it was a mature game with much more to do than the original Fallout. The problem with Fallout New Vegas is the lack of possibilities to change the Fallout 3 original game-play, as many of the problems that I will expose can be also applied to Fallout 3.  
   
 ### Problems in the last chapters of the saga
 

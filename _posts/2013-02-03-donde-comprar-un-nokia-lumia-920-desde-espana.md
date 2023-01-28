@@ -22,7 +22,7 @@ Hace unos días un amigo mío se ha comprado en [amazon.es](https://www.amazon.e
 
 Ya desde un principio me dijo que no quería comprarlo en _Vodafone_, total **para comprarlo al mismo precio o casi y tener un contrato de 24 meses, más valía comprarlo libre y pasarse a una operadora virtual** que las tarifas son bastante más bajas. Y estoy totalmente de acuerdo con él.
 
-Aunque no me hizo caso y lo pidió sin pensárselo mucho, supongo porque tenía _el ansia_, [le dije que siguiera mis consejos para comprar en amazon desde España]({%- post_url 2013-01-24-recomendaciones-comprar-amazon-espana -%}) ya que se podía haber ahorrado algún dinerillo, no mucho pero algo, dado los precios de gama alta.
+Aunque no me hizo caso y lo pidió sin pensárselo mucho, supongo porque tenía _el ansia_, [le dije que siguiera mis consejos para comprar en amazon desde España]({%- post_url 2013-01-24-recomendaciones-comprar-amazon-espana -%}) ya que se podía haber ahorrado algún dinerillo, no mucho pero algo, dado los precios de gama alta.
 
 Total que he hecho yo el trabajo para los que estén pensando en comprárselo, os dejo esta tabla donde he puesto el precio final en cada uno de los amazon europeos dónde se puede comprar éste teléfono, utilizando [#WhereToBuy]({{ site.constants[0].wsib }}) se hace en un plis:
 
@@ -42,7 +42,7 @@ Total que he hecho yo el trabajo para los que estén pensando en comprárselo, o
 
 Si estáis pensando en comprar alguno de estos móviles y nuestro blog os ha sido útil podéis usar nuestros links para comprarlo o podéis probar [nuestra nueva aplicación para windows](https://wmhomepage.apphb.com/) para hacer un seguimiento de los precios y ver su evolución.
 
-Recordad que a des de siempre os recomendamos utilizar [#WhereToBuy]({{ site.constants[0].wsib }}) para comprar al mejor precio, para poder comparar precios de forma rápida.
+Recordad que a des de siempre os recomendamos utilizar [#WhereToBuy]({{ site.constants[0].wsib }}) para comprar al mejor precio, para poder comparar precios de forma rápida.
 
 Eso es todo, si compráis con mis enlaces os estaré eternamente agradecidos ;)\
 **Muchas gracias!**
