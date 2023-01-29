@@ -12,9 +12,9 @@ last_modified_at: '2021-05-16T16:36:50.219+02:00'
 
 Today we are writing about the [Supacaz Grizips]({{ site.constants[0].wsib }}/Supacaz%20Grizips) lock on grips with a **special edition** with a grip in neon purple and the other in neon orange. Their products are known for their flashing and retro colors and this special edition grips are no exception.
 
-The grizips feature the *Supacaz*starred logo and letters as the grip pattern, those grips are only one sided lock on collar, so the irritating moving end cap won't be necessary but in the other hand **these grips tend to rip on the bar end** if you fail to lean your bike in a secure surface and falls with the bar facing down. The one sided lock on collar is enough and only minimal torsion will be felt on really strong force.
+The grizips feature the *Supacaz* starred logo and letters as the grip pattern, those grips are only one sided lock on collar, so the irritating moving end cap won't be necessary but in the other hand **these grips tend to rip on the bar end** if you fail to lean your bike in a secure surface and falls with the bar facing down. The one sided lock on collar is enough and only minimal torsion will be felt on really strong force.
 
-Those are sized at 130mm and weight 115gr the pair, with bolts included. Also offered in many colors, this being the only with unmatched colors. The package includes 2 sets of collars detailed with the *Supacaz*logo, on black and chrome, to suit best your bike.
+Those are sized at 130mm and weight 115gr the pair, with bolts included. Also offered in many colors, this being the only with unmatched colors. The package includes 2 sets of collars detailed with the *Supacaz* logo, on black and chrome, to suit best your bike.
 
 Quality in this grips are something noted on the first touch, lifespan and grip are also noted, these are a good smart shopping option if you could find a good offer because they are usually pretty expensive at $20 RRP.
 
