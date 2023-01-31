@@ -4,7 +4,6 @@ title: 'The best controller for the Windows PC: another XBox 360 Controller revi
 date: '2014-05-24T19:49:00.000+02:00'
 author: Fernando
 tags:
-- english
 - europe
 - pc
 - uk
@@ -13,12 +12,12 @@ tags:
 - gaming
 - microsoft
 - xbox
-last_modified_at: '2017-07-07T23:42:14.384+02:00'
+last_modified_at: '2023-01-31T23:42:14.384+02:00'
 redi:
     - /2012/07/best-controller-pc-xbo360.html
 ---
 
-[![xbox controller](https://ecx.images-amazon.com/images/I/41MCvEECGXL._AA300_.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/xbox%20360%20controller)
+[![xbox controller](https://i.imgur.com/yT8W6H4m.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/xbox%20360%20controller)
 
 After some time without a controller for my PC I decided to get a Xbox 360 controller, as I already have an Xbox 360 and wanted a second controller too, decided to buy a Xbox 360 wireless controller for Windows, wanted also to give my opinion about it.  
   
@@ -35,5 +34,8 @@ The wireless version can not be used directly with your windows PC, you will nee
 Even after some years in the market it's yet a great controller and a fine recommendation for anyone to have to play games on their computer constantly and needs that edge over a keyboard to use on your PC.  
   
 Please share your love for the Xbox controller on all your social networks with this flattering article from **an Xbox fan like you.**  
-On the other side if you prefer to play with your keyboard and mouse, check our [Logitech G602 gamin mouse long term review]({%- post_url 2017-05-28-logitech-g602-long-term-review -%}).  
-  
+On the other side if you prefer to play with your keyboard and mouse, check our [Logitech G602 gamin mouse long term review]({%- post_url 2017-05-28-logitech-g602-long-term-review -%}).
+
+Even if you are a fan of Xbox check [our funny review of the PS5]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}).
+
+Until next time, farewell and happy gaming!
