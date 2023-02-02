@@ -14,6 +14,8 @@ Pero eso no es todo, al suscribirte a Prime te comprometes a hacer la mayoría d
 
 ¿Y el contenido de streaming? Bueno, no todo el contenido está disponible en todos los países, así que es posible que no puedas ver todo lo que quieres.
 
+A destacar lo mal que funciona la aplicación de Android de Amazon Music desde los últimos cambios, se cuelga, va lenta e incluso muchas veces ni música reproduce obligando a entrar por la web.
+
 [Y qué contaros de las opiniones la mayoría falseadas]({%- post_url 2023-01-21-son-fiables-reviews-amazon-motivos-no-fiarse -%}), más falsas que un euro de chocolate!
 
 Por último pero no menos importante, al suscribirse a Prime, estás compartiendo tus datos personales con Amazon, lo que significa que la compañía tiene acceso a tus hábitos de compra, preferencias y demografía. ¿Quieres que Amazon sepa más de ti de lo que tu pareja lo hace?

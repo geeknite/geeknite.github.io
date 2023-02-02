@@ -20,7 +20,7 @@ Ya estamos en 2023 y recordando otros articulos en que ya nos planteábamos si [
 
 ## Puntos a mejorar
 
-1. Amazon music ha cambiado su política para potenciar la suscripción unlimited, ahora con Prime no se permite qué canción escuchar, y nos hace escuchar en formato radio con canciones que su algoritmo categoriza como similares. Parecido a la versión Free del mismo amazon o de spotify con algunas mejoras.
+1. Amazon music ha cambiado su política para potenciar la suscripción unlimited, ahora con Prime no se permite qué canción escuchar, y nos hace escuchar en formato radio con canciones que su algoritmo categoriza como similares. Parecido a la versión Free del mismo amazon o de spotify con algunas mejoras. Incluso la aplicación Android con el cambio visual y de funcionamiento ya no funciona bien.
 
 2. Prime reading aunque parece una buena idea, el buscador de la web está limitado y dispone de muy pocos filtros para buscar, teniendo en cuenta la cantidad de información que dispone amazon (que además posee Goodreads) lo hace practicamente inusable.
 
@@ -29,3 +29,5 @@ Ya estamos en 2023 y recordando otros articulos en que ya nos planteábamos si [
 4. Ofertas flash, cupones, almacenamiento y otras ventajas parecen un relleno para justificar el precio de la suscripción.
 
 En resumen, si os interesa la entrega rápida y sin mínimo, actualmente está en 29€, y algunos de las ventajas, a por ello, pero si dudáis la mejor opción es no renovar la suscripción y ver si realmente la necesitáis, si no es el caso **"desconectad" de vuestra dependencia de amazon y veréis que también hay muchas tiendas especializadas con mejores precios.**
+
+[O si lo preferís podeis leer las verdades sobre amazon prime en este artículo]({%- post_url 2023-01-28-Critica-irreverente-amazon-prime -%}). Gracias por leernos!
