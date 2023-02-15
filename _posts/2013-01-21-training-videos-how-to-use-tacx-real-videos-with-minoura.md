@@ -10,6 +10,8 @@ tags:
 - gadgets
 - bike
 last_modified_at: '2017-07-13T16:13:55.341+02:00'
+description: Get motivated to train hard with Tacx real life videos. Learn how to use the Tacx Real Video Player and find out which trainers are compatible. Try out some of the most interesting Tacx videos available. Read on for more information.
+
 ---
 
 [![](https://ws.assoc-amazon.co.uk/widgets/q?_encoding=UTF8&ASIN=B006KV5GLG&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag={{ site.constants[0].amazon_uk }}){: style="float: right;"}]({{ site.constants[0].wsib }}/tacx%20videos)

@@ -7,6 +7,7 @@ tags: amazon españa español europe smartshopping
 redirect_from:
     - /2013/01/recomendaciones-para-comprar-en-amazon-des-de-espana.html
     - /2013/01/24/recomendaciones-comprar-amazon-espana.html
+description: "Descubre por qué Amazon es el destino de compras en línea definitivo. Sigue leyendo para obtener consejos sobre cómo comprar en Amazon España y cómo ahorrar tiempo"
 ---
 
 <a rel="nofollow" href='https://www.amazon.es/?_encoding=UTF8&tag={{ site.constants[0].amazon_es }}&linkCode=ur2&camp=3626&creative=24822'><img style="float: right;" src="https://3.bp.blogspot.com/-y7vepNFwf4I/UQF29es4s1I/AAAAAAAAAO4/Ri2PlmOohMA/s200/Amazon-logo%5B1%5D.jpg"></a>

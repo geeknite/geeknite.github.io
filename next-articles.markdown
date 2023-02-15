@@ -2,7 +2,7 @@
 layout: about
 title: Next articles
 permalink: /next-articles/
-description: This is an always updated list of the articles and reviews we are currently working on, some may require more time some maybe will never see the light, if you are interested in any review please let us know through <geeknit@outlook.com>
+description: Stay updated on our latest tech reviews! Check out our always-updated list of articles in the works, including the Lenovo ThinkPad L540, Vaude Jolly Comfort, and more.
 ---
 
 ### Next articles
