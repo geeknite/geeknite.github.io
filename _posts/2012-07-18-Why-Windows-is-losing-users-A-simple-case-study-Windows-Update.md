@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Windows is losing users. A simple case study: Windows Update
+title: "Why Windows is losing users. A simple case study: Windows Update"
 date: '2012-08-02T09:27:00.000+02:00'
 tags:
 - movies
