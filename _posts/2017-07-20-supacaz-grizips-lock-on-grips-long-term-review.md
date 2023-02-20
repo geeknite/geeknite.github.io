@@ -4,6 +4,7 @@ title:  "Supacaz Grizips Lock on grips long term review"
 date:   2017-07-20 17:00:00 +0200
 tags: bike grips review supacaz components
 last_modified_at: '2021-05-16T16:36:50.219+02:00'
+description: Discover Supacaz's popular California cycling accessories with our review of the neon purple and orange Supacaz Grizips lock-on grips
 ---
 
 <a href='{{ site.constants[0].wsib }}/Supacaz%20Grizips'><img style="float: right;" src="https://i.imgur.com/FLyxmiBm.jpg"></a>

@@ -3,7 +3,7 @@ layout: post
 title:  "Son fiables las reviews de amazon? 10 motivos para no fiarse"
 date:   2023-01-21 17:00:00 +0200
 tags: smartshopping amazon español recomendaciones
-description: "Descubre por qué no debes confiar ciegamente en las reseñas de Amazon. Te mostramos 10 motivos por los que las opiniones de los clientes en esta plataforma no siempre son fiables. Aprende a leer entre líneas y a buscar otras fuentes de información antes de tomar una decisión de compra."
+description: "No confíes en reseñas de Amazon. Mostramos 10 motivos por los que opiniones de clientes pueden ser inexactas. Aprende a leer entre líneas y buscar otras fuentes antes de comprar." 
 ---
 
 [![we don't like fake reviews](https://i.imgur.com/OO8VYzAm.png){: style="float: right;"}]({{ site.constants[0].wsib }})
