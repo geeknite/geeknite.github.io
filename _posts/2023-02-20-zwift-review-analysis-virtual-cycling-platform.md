@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Zwift Review: A Comprehensive Analysis of the Popular Virtual Cycling Platform"
-date: 2023-02-14 1:00:00 +0200
-tags: gaming mobile opinion game-pass steam-deck
+date: 2023-02-20 1:00:00 +0200
+tags: cycling virtual review
 description: "Explore Zwift, the immersive virtual cycling platform. Learn about its features, benefits, and drawbacks in our comprehensive review."
 ---
 [![riding a bike](https://i.imgur.com/GBg6PWet.png){: style="float: right;"}]({{ site.constants[0].wsib }}/zwift)
