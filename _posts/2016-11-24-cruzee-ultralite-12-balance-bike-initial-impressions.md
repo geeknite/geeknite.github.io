@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cruzee UltraLite 12" balance bike initial impressions
+title: "Cruzee UltraLite 12\" balance bike initial impressions"
 date: '2016-11-24T19:54:00.004+01:00'
 tags:
 - initial impression
