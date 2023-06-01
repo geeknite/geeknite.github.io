@@ -99,7 +99,7 @@ constants:
     amazon_uk: "kxl-21" #amkioze
     amazon_fr: "krv-21" #amkioze
     amazon_de: "kvl-21" #amkioze
-    wsib: "https://whereshouldibuy.azurewebsites.net"
+    wsib: "https://wsibclassic.azurewebsites.net"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
