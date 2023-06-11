@@ -7,6 +7,7 @@ tags:
 - recomendaciones
 - amazon
 - smartshopping
+- last_modified_at: '2013-06-11T12:00:00 +0200'
 ---
 
 [![Cheques regalo sin comisión](https://i.imgur.com/nO1TaAHm.jpg){: style="float: right;"}](https://www.amazon.es/Cheques-Regalo-Amazon-es-mail-Amazon/dp/B07SS5PFJK/?tag={{ site.constants[0].amazon_es }})
