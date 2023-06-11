@@ -10,8 +10,7 @@ tags:
 description: "Discover the iGPSPORT iGS630, a budget-friendly GPS bike computer with impressive features and a few drawbacks. Read our in-depth review now."
 ---
 
-[![iGPSPORT iGS630](https://m.media-amazon.com/images/I/61WFJB1eXfL._AC_SX679_.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/zwift)
-¡Qué alegría tener la oportunidad de hablar de [mi freidora de aire Cosori 5.5L!](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?c=ts&keywords=Cycling%2BComputers&qid=1679814661&refinements=p_89%3AiGPSPORT&rnid=2528832011&s=sporting-goods&sr=1-6&ts_id=3403321&th=1&linkCode=ll1&tag={{ site.constants[0].amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"}
+[![iGPSPORT iGS630](https://m.media-amazon.com/images/I/61WFJB1eXfL._AC_SX679_.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/iGPSPORT iGS630)
 
 Today I'm going to talk about a bike computer, the iGPSPORT iGS630, and my experience with it. So, let's get rolling!
 
