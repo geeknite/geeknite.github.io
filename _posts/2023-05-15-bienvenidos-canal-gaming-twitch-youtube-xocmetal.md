@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¡Bienvenidos a nuestro canal gaming de Twitch y Youtube @xocmetal!"
-date: 2023-04-30 17:00:00 +0200
+date: 2023-04-15 17:00:00 +0200
 tags:
 - videos
 - twitch
