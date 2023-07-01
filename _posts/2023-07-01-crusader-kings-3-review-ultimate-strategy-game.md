@@ -1,15 +1,14 @@
 ---
-Layout: post
-Title: "Crusader Kings III: The Ultimate Strategy Game That Will Transport You Back In Time"
-Date: 2023-07-01 08:00:00 +0200
-Tags:
+layout: post
+title: "Crusader Kings III: The Ultimate Strategy Game That Will Transport You Back In Time"
+date: 2023-07-01 08:00:00 +0200
+tags:
 - review
 - gaming
 - strategy
 - history
 - crusader kings III
-Description: "Discover [Crusader Kings III]({{ site.constants[0].steam }}/Crusader Kings III), the ultimate strategy game for history buffs. Read our in-depth review and find out why this game is a must-play for fans of the genre."
-Last_modified_at: '2023-06-11T12:00:00 +0200'
+description: "Discover Crusader Kings III, the ultimate strategy game for history buffs. Read our in-depth review and find out why this game is a must-play for fans of the genre."
 ---
 
 [![Crusader Kings III](https://i.imgur.com/o0ecFKRm.jpg){: style="float: right;"}]({{ site.constants[0].steam }}/Crusader Kings III)
