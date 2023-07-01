@@ -95,7 +95,7 @@ plugins:
 constants:
   - amazon_es: "eltrastdelgam-21"
     amazon_com: "gkx09-20" #amkioze
-    amazon_it: "gkx-21" #wasteland
+    amazon_it: "gkx09-21" #amkioze
     amazon_uk: "kxl-21" #amkioze
     amazon_fr: "krv-21" #amkioze
     amazon_de: "kvl-21" #amkioze
