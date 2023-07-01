@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Top 10 Racing Board Games"
-tags: board games, racing, entertainment
+tags:
+- board games
+- racing
+- entertainment
 date: 2023-06-15 08:00:00 +0800
 last_modified_at: '2023-06-26T12:00:00 +0200'
 ---

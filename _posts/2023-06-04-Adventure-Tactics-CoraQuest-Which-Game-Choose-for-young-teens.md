@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Adventure Tactics and CoraQuest - Which Game to Choose for young teens?
-tags: board games, adventure, tactical combat, card game
+tags:
+- board games
+- adventure
+- tactical combat
+- card game
 date: 2023-06-04 08:00:00 +0800
 last_modified_at: '2023-06-24T12:00:00 +0200'
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Elevate Your Style Game with Trapstar Clothing
 date: 2023-06-23 08:00:00 +0800
-tags: fashion, streetwear, Trapstar Clothing
+tags: fashion streetwear Trapstar Clothing
 ---
 
 [![Trapstar offers](https://i.imgur.com/hIgXfprm.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/trapstar)
