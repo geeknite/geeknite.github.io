@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Things to Look for in Next Prime Day: Great Deals on Bike Gadgets"
 date: 2023-07-04 10:00:00 +0200
 tags:
