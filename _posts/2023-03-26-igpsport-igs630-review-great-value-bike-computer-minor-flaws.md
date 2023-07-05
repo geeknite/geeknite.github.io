@@ -7,8 +7,9 @@ tags:
 - gadgets
 - cycling
 - igpsport
+- gps
 description: "Discover the iGPSPORT iGS630, a budget-friendly GPS bike computer with impressive features and a few drawbacks. Read our in-depth review now."
-last_modified_at: '2023-07-04T12:00:00 +0200'
+last_modified_at: '2023-07-06T12:00:00 +0200'
 ---
 
 [![iGPSPORT iGS630](https://m.media-amazon.com/images/I/61WFJB1eXfL._AC_SX679_.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/iGPSPORT iGS630)
@@ -63,5 +64,7 @@ One thing to note is that the screen isn't a touchscreen, and the buttons aren't
 At the time of writing this review, [the iGPSPORT iGS630 is priced at $199.99](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?c=ts&keywords=Cycling%2BComputers&qid=1679814661&refinements=p_89%3AiGPSPORT&rnid=2528832011&s=sporting-goods&sr=1-6&ts_id=3403321&th=1&linkCode=ll1&tag={{ site.constants[0].amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher. I would recommend purchasing a [separate mount]({{ site.constants[0].wsib }}/gps bike mount) for this, which should cost around $15 [check #WhereShouldIBuy to find good priced options]({{ site.constants[0].wsib }}/). Even with the extra mount, this is still an exceptional price for a full-color bike computer with so many features.
 
 [Also check for offers in our sister site]({{ {{ site.constants[0].wsib }}/iGPSPORT iGS630 }}). Also if you are interested in using it in a trainer would be interesting for you to [check our review of the Minoura B60-R]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%}) or even in virtual mode [check our review of zwift]({%- post_url 2023-02-20-zwift-review-analysis-virtual-cycling-platform -%}).
+
+[And our review of the latest Garmin Edge 540 which has also a solar version.]({%- post_url 2023-07-06-garmin-edge-540-review -%})
 
 Overall, this bike computer is a great option for those who want a GPS bike computer without breaking the bank. It gives you the functions of a unit that costs hundreds of dollars more.
