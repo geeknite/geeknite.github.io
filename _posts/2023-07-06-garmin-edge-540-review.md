@@ -23,6 +23,8 @@ The Edge 540 has some impressive features that make it stand out from other bike
 
 But wait, there's more! The Edge 540 also comes in a solar version, which has a transparent solar panel on the top of the device that can extend the battery life by up to 10%. That means you can ride for up to 22 hours in GPS mode, or up to 44 hours with the battery pack. The solar panel also works indoors, as long as there is some ambient light. How cool is that?
 
+{% include amazon.html asin="B0BT36VBGM" %}
+
 ## How does the Garmin Edge 540 compare to other bike computers?
 
 The Garmin Edge 540 is not the only bike computer on the market. There are other options that might suit your needs better, depending on your budget and preferences. Here are some of the main alternatives:
