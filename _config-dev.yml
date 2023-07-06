@@ -1,4 +1,4 @@
-remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+remote_theme             : "FerranSalguero/geeknite-theme"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -6,15 +6,15 @@ locale                   : "en-US"
 title                    : "GeekNite"
 email                    : geeknit@outlook.com
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
+subtitle                 : 
+name                     : &name "XOCMetal" # &name is a YAML anchor which can be *referenced later
 description              : &description "Get unbiased and informative reviews and opinions on the latest products, services, and trends."
 url                      : "https://geeknite.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/favicon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "GeekNite" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 paginate                 : 10
 words_per_minute         : 200
@@ -67,11 +67,11 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               : &twitter "xocmetal"
-facebook:
-  username               : &facebook "michaelrose"
-  app_id                 :
-  publisher              :
-og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+# facebook:
+#   username               : &facebook "michaelrose"
+#   app_id                 :
+#   publisher              :
+#og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -79,7 +79,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/mmistakes"
-    - "https://www.facebook.com/michaelrose"
+    # - "https://www.facebook.com/michaelrose"
 
 # Analytics
 analytics:
@@ -93,35 +93,32 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
+  bio              : #"Just another *boring*, *tattooed*, *time traveling*, *designer*."
   location         : "Barcelona"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://twitch.com/xocmetal"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/xocmetal"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "Twitch"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://twitter.com/xocmetal"
 
 
 # Site Footer
 footer:
   links:
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://twitch.com/xocmetal"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/xocmetal"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://twitter.com/xocmetal"
 
 
 # Reading Files
@@ -212,6 +209,8 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
@@ -266,7 +265,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:title:output_ext
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Europe/Madrid # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -330,13 +329,13 @@ compress_html:
 
 
 constants:
-  - amazon_es: "eltrastdelgam-21"
-    amazon_com: "gkx09-20" #amkioze
-    amazon_it: "gkx09-21" #amkioze
-    amazon_uk: "kxl-21" #amkioze
-    amazon_fr: "krv-21" #amkioze
-    amazon_de: "kvl-21" #amkioze
-    wsib: "https://www.foxxs.net"
+  amazon_es: "eltrastdelgam-21"
+  amazon_com: "gkx09-20" #amkioze
+  amazon_it: "gkx09-21" #amkioze
+  amazon_uk: "kxl-21" #amkioze
+  amazon_fr: "krv-21" #amkioze
+  amazon_de: "kvl-21" #amkioze
+  wsib: "https://www.foxxs.net"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
