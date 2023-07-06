@@ -1,4 +1,6 @@
 ---
+title: "Posts by Tag"
+permalink: /tags/
 layout: tags
-title: Tags
+author_profile: true
 ---
