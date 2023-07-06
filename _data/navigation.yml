@@ -91,10 +91,10 @@ docs:
         url: /terms/
 
 # sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
+top-posts:
+  - title: "Top posts"
     children:
-      - title: "Child Page A1"
+      - title: "Post 1"
         url: /
       - title: "Child Page A2"
         url: /
