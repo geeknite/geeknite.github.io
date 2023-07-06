@@ -3,15 +3,15 @@ layout: post
 title:  "Garmin Edge 530: 13 facts to consider before buying"
 date:   2022-12-28 17:00:00 +0200
 tags: mtb garmin review gps
-last_modified_at: '2023-01-14T08:12:26.004+01:00'
+last_modified_at: '2023-07-06T00:00:00+02:00'
 redirect_from:
     - /2022/12/garmin-edge-530-long-term-review.html
-description: "Explore 13 key facts to consider before buying the Garmin Edge 530 GPS cycling computer. We cover everything from design to features, performance, and compatibility. Learn about the pros and cons of this popular cycling computer and make an informed decision."
+description: "Garmin Edge 530: What You Should Know Before Buying" - Important facts and considerations to keep in mind when purchasing the Garmin Edge 530 cycling computer."
 ---
 
 <a href='{{ site.constants[0].wsib }}/Garmin%20Edge%20530'><img style="float: right;" src="https://i.imgur.com/lOxfl7fm.jpg?1"></a>
 
-The Garmin Edge 530 is a cycling computer that provides a range of features to help riders track and improve their performance on the bike.
+The Garmin Edge 530 is a cycling computer that provides a range of features to help riders track and improve their performance on the bike. [Check our review of the new a new Garmin Edge 540 now available.]({%- post_url 2023-07-06-garmin-edge-540-review -%})
 
 Key Features
 ------------

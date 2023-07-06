@@ -5,7 +5,8 @@ date:   2019-11-15 17:00:00 +0200
 tags: mtb cycling
 redirect_from:
     - /2019/11/benefits-of-mountain-biking.html
-description: "Explore the numerous health and wellness benefits of mountain biking. Learn how this outdoor activity can improve physical fitness, mental well-being, and overall quality of life. Whether you're a beginner or an experienced rider, discover how mountain biking can benefit you."
+description: "Benefits of Mountain Biking - Exploring the numerous benefits of engaging in mountain biking."
+last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
 <img style="float: right;" src="https://i.imgur.com/mBJvvdRm.jpg?1">

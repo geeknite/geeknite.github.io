@@ -18,7 +18,8 @@ tags:
 - best things to buy
 - training
 - action cam
-last_modified_at: '2017-07-13T16:14:50.780+02:00'
+description: "Los Mejores Regalos para un Ciclista - A curated list of the best gifts for cyclists."
+last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
 [![bike love](https://2.bp.blogspot.com/-S1uNiPAHGss/UQgXujAPRFI/AAAAAAAAAPQ/swoJ8y8jmuI/s200/4179753_300%5B1%5D.jpg "bike love"){: style="float: right;"}]({{ site.constants[0].wsib }}/es/regalo%20ciclista)

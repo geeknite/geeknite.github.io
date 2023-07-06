@@ -6,18 +6,16 @@ author: Fernando
 tags:
 - sports
 - offers
-- bought items
 - english
-- europe
 - gadgets
 - bike
 - turbo
 - cycletrainer
-- deporte
 - trainer
-- usa
-- amazon
-last_modified_at: '2017-02-21T16:33:00.661+01:00'
+- review
+- cycling
+last_modified_at: '2023-07-06T00:00:00+02:00'
+description: "Minoura B60-R Magnetic Trainer Review: Best for the Money - Review and evaluation of the Minoura B60-R magnetic trainer,highlighting its value for money."
 ---
 
 [![](https://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=B0040J7HAS&MarketPlace=US&ID=AsinImage&WS=1&tag={{ site.constants[0].amazon_com }}&ServiceVersion=20070822){: style="float: right;"}]({{ site.constants[0].wsib }}/minoura%20b60-r)![](https://www.assoc-amazon.com/e/ir?t={{ site.constants[0].amazon_com }}&l=as2&o=1&a=B0040J7HAS){: rel="nofollow"}

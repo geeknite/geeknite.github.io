@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Top 10 Features We Want to See in Fallout 5"
-description: "Discover the top 10 features that fans want to see in the upcoming Fallout 5 game. From improved graphics to new gameplay elements, find out what the community is asking for in the next installment of the popular post-apocalyptic RPG series."
+description: "Top Features We Want in Fallout 5 - A wishlist and discussion of desired features for the upcoming Fallout 5 game."
 date:   2023-01-22 17:00:00 +0200
 tags:
 - gaming
 - fallout
+last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
 [![fallout 5 concept](https://i.imgur.com/Zlh3HpLm.png){: style="float: right;"}]({{ site.constants[0].wsib }}/fallout 5)

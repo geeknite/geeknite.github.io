@@ -4,6 +4,7 @@ title:  "¿Vale la pena suscribirse a Amazon Prime? Una mirada irreverente, iró
 date: 2023-01-28 17:00:00 +0200
 tags: amazon españa español europe smartshopping prime
 description: "Descubre las ventajas e inconvenientes de la suscripción Amazon Prime en España. Una mirada crítica y irónica sobre la entrega gratuita, el contenido de streaming y el costo de la suscripción."
+last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
 [![angry cat no le gusta amazon prime](https://i.imgur.com/KipTeCcm.png){: style="float: right;"}]({{ site.constants[0].wsib }})

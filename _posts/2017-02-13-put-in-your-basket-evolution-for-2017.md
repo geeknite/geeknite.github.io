@@ -3,6 +3,8 @@ layout: post
 title:  "Geeknite evolution for 2017"
 date:   2017-02-13 17:00:00 +0200
 tags: blog retrospective anniversary
+description: "Evolution for 2017: Must-Have Products - A curated list of recommended products for the year 2017."
+last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
 <img style="float: right;" src="https://i.imgur.com/bLP0wdxm.png" />

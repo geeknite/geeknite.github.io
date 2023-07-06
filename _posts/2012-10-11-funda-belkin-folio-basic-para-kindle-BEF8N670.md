@@ -8,7 +8,8 @@ tags:
 - kindle
 - spain
 - funda
-last_modified_at: '2018-09-03T10:24:48.835+02:00'
+last_modified_at: '2023-07-06T00:00:00+02:00'
+description: "Funda Belkin Folio Basic para Kindle - Reseña y características - Una descripción general y evaluación de la funda Belkin Folio Basic para lectores electrónicos Kindle."
 ---
 
 Después de un tiempo tras comprar un **[Kindle]({{ site.constants[0].wsib }}/es/kindle)** , necesitaba una funda decente para llevarlo de aquí para allá. Las fundas de amazon son las más chulas pero el precio que tienen echan para atrás, tanto que por ejemplo una amiga se fabricó una funda con un plástico protector de embalaje, que bueno qué os voy a contar, ya os podéis imaginar que quedaba un poco _cutre_ la verdad.  

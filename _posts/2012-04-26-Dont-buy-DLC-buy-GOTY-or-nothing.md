@@ -6,7 +6,8 @@ tags:
 - gaming
 - goty
 - dlc
-last_modified_at: '2013-06-19T07:00:00.000+01:00'
+last_modified_at: '2023-07-06T00:00:00+02:00'
+description: "DLC vs. Game of the Year Edition: Which Should You Choose? - An insightful critique explaining why opting for Game of the Year editions is a better choice than purchasing DLCs."
 ---
 
 ![How DLC would apply to culture?](https://i.imgur.com/32pFOtc.jpg){: style="float: right;"}

@@ -3,6 +3,8 @@ layout: post
 title:  "Garmin Edge 500 vs Edge 520 review comparison. Should I stay with the Edge 500?"
 date:   2013-01-14 17:00:00 +0200
 tags: mtb garmin review gps
+description: "Garmin Edge 500 vs. Edge 510 Review: Stick with Edge 500 - A comparative analysis highlighting why sticking with the Garmin Edge 500 model is recommended."
+last_modified_at: '2023-07-06T00:00:00+01:00'
 ---
 
 
@@ -98,7 +100,7 @@ The idea of this post was to give enough reasons to **stay with our *Edge 500***
 
 But don't get me wrong, **the Edge 520 is a great device**, so, my recommendations depend on your situation:
 
-- **If you are happy with your *Edge 500***: stick with it for a couple of years, at least, wait for other options and wait for how the *520* evolves or the new. Or the newest [Garmin 530]({% post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying %})
+- **If you are happy with your *Edge 500***: stick with it for a couple of years, at least, wait for other options and wait for how the *520* evolves or the new. Or the newest [Garmin 530]({% post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying %}). Or even [the new and pricier Garmin Edge 540]({%- post_url 2023-07-06-garmin-edge-540-review -%})
 - **If you have it but you want to improve your experience**: get an Edge 800 or [the Edge 810 vs the new Edge 1000]({%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%}).
 - **If you don't have any of them**: with my points at hand, decide which can be better for you. **Look for offers on the *Edge 500 *or price reductions** if it gets below 180€ or $200 for the complete package can be a good deal. If you want the Edge 520 it may be a good option too even considering the increased price tag, or you can check for other *GPS* devices of other brands, which I am preparing a new post to do a small comparison of some of them.
 

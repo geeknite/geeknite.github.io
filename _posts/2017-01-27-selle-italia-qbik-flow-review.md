@@ -5,6 +5,8 @@ date:   2017-01-27 17:00:00 +0200
 tags: mtb sillín saddle selle-italia review
 redirect_from:
     - /2017/01/selle-italia-q-bik-flow-review.html
+last_modified_at: '2023-07-06T00:00:00+02:00'
+description: "Reseña a largo plazo de las gafas de sol Tifosi Seek - Una revisión y evaluación exhaustiva de las gafas de sol Tifosi Seek después de un uso prolongado."
 ---
 
 <a href='{{ site.constants[0].wsib }}/es/q-bik'><img style="float: right;" src="https://1.bp.blogspot.com/-GJAHvSZvv0s/WIuxl2lqn4I/AAAAAAAAA7U/gbmjqmkbrXI-Rf1hMihihWnxrr40NzR1QCLcB/s320/selle%2Bitalia%2Bq-bik%2Bflow.jpg"></a>

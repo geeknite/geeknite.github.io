@@ -3,8 +3,8 @@ layout: post
 title:  "Prepare for Black Friday in 2022"
 date:   2022-11-05 17:00:00 +0200
 tags: smartshopping black-friday
-last_modified_at: '2023-01-7T08:12:26.004+01:00'
-description: "Get ready for Black Friday 2022 with our expert tips and tricks. Learn how to plan ahead, find the best deals, and avoid common pitfalls. Whether you're looking for discounts on electronics, clothing, or home goods, our guide will help you make the most of the biggest shopping day of the year."
+last_modified_at: '2023-07-06T00:00:00+02:00'
+description: "How to Prepare for Black Friday 2022 - Tips and strategies to make the most of the Black Friday sales in 2022."
 ---
 
 We already talked a few years ago [how to prepare for Black Friday]({% post_url 2018-10-25-dont-get-scammed-black-friday-like-pro %}), but today in 2022 many things have changed and our ideas on shopping have changed as well.

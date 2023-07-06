@@ -10,7 +10,7 @@ tags:
 - eken h9
 - review
 - action cam
-last_modified_at: '2020-03-16T17:02:21.684+01:00'
+last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
 [![](https://4.bp.blogspot.com/-_nr1qgi9BWY/WGp1vjWTsJI/AAAAAAAAA6Y/1dPqrp4RM4U8-1VkWBPhxgCJ5K6MKVOzwCLcB/s200/h9%2Baction%2Bcam%2Band%2Bpackage.jpg){: style="float: right;"}](https://www.awin1.com/cread.php?awinmid=7655&awinaffid=364849&clickref=&p=https%3A%2F%2Fwww.gearbest.com%2Faction-cameras%2Fpp_362082.html){: rel="nofollow"}

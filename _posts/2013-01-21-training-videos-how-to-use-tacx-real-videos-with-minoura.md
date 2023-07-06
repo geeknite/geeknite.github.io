@@ -5,12 +5,13 @@ date: '2013-01-21T03:30:00.000+01:00'
 author: Fernando
 tags:
 - sports
-- cycletrainer
 - trainer
 - gadgets
 - bike
-last_modified_at: '2017-07-13T16:13:55.341+02:00'
-description: Get motivated to train hard with Tacx real life videos. Learn how to use the Tacx Real Video Player and find out which trainers are compatible. Try out some of the most interesting Tacx videos available. Read on for more information.
+- tacx
+- videos
+last_modified_at: '2023-07-06T00:00:00+02:00'
+description: "Training Videos: How to Use Tacx Real Videos with Minoura Trainers - A guide explaining how to effectively use Tacx Real Videos with Minoura trainers."
 
 ---
 

@@ -3,7 +3,8 @@ layout: post
 title:  "Son fiables las reviews de amazon? 10 motivos para no fiarse"
 date:   2023-01-21 17:00:00 +0200
 tags: smartshopping amazon español recomendaciones
-description: "No confíes en reseñas de Amazon. Mostramos 10 motivos por los que opiniones de clientes pueden ser inexactas. Aprende a leer entre líneas y buscar otras fuentes antes de comprar." 
+description: "No confíes en reseñas de Amazon. 10 motivos por los que opiniones de clientes pueden ser inexactas. Lee entre líneas y busca otras fuentes antes de comprar"
+last_modified_at: '2023-07-06T00:00:00+02:00' 
 ---
 
 [![we don't like fake reviews](https://i.imgur.com/OO8VYzAm.png){: style="float: right;"}]({{ site.constants[0].wsib }})
@@ -26,8 +27,6 @@ Hemos visto varias formas de hacerlo:
 10. **Comentarios de personas que recibieron descuentos**: Algunas personas pueden recibir descuentos a cambio de escribir una reseña positiva. Esto puede dar lugar a reseñas positivas sesgadas y poco objetivas, ya que la persona puede estar más interesada en obtener el descuento que en proporcionar una opinión honesta sobre el producto. Es posible que en algún producto que hayas recibido iba incluida alguna nota en que te pedían una review si estás satisfecho con el producto, pero otro caso común es que te ofrezcan algo si publicas una opinión con 5 estrellas.
 
 Es importante tener en cuenta que, aunque estos motivos pueden hacer que las reseñas en Amazon no sean completamente fiables, todavía pueden ser útiles para obtener una idea general de la calidad de un producto. Sin embargo, es recomendable leer varias reseñas de diferentes fuentes y considerar tanto las opiniones positivas como negativas antes de tomar una decisión de compra.
-
-
 
 ### Cómo detectar reviews falsas?
 

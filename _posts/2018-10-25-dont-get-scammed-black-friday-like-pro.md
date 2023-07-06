@@ -5,6 +5,8 @@ date:   2018-10-25 17:00:00 +0200
 tags: smartshopping black-friday
 redirect_from:
     - /2018/10/ont-get-scammed-prepare-black-friday-like-pro.html
+last_modified_at: '2023-07-06T00:00:00+02:00'
+description: "Don't Get Scammed on Black Friday Like a Pro - Tips and strategies to avoid scams and make the most of Black Friday deals."
 ---
 <img style="float: right;" src="https://i.imgur.com/UrhObsJ.jpg">
 

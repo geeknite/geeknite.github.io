@@ -12,7 +12,8 @@ tags:
 - bike
 - tire
 - specialized
-last_modified_at: '2017-12-04T16:18:34.773+01:00'
+description: "Cubierta Specialized Purgatory Control 2Bliss Ready 650bx3: Envío Gratis - An in-depth review of the Specialized Purgatory Control 2Bliss Ready 650bx3 tire, with free shipping."
+last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
 [![geeknite specialized purgatory](https://3.bp.blogspot.com/-x3SBWBT_meA/WiFFAx5VhwI/AAAAAAAABB4/ijLMnd2u1zM3UIqJrmxUge3xA2YQ4wOvACLcBGAs/s200/specialized%2Bpurgatory%2Bcontrol%2B2bliss%2Bplus%2Boffers.jpg){: style="float: right;"}](https://www.cyclestore.co.uk/specialized_purgatory_control_2bliss_ready_650b_x_3_0_tyre-ID_67244?nosto=frontpage-nosto-4)
