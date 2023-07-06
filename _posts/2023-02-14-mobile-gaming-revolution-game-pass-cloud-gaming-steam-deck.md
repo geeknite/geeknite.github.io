@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "The Mobile Gaming Revolution: How Game Pass, Cloud Gaming, and the Steam Deck are Changing the Game"
 date: 2023-02-14 1:00:00 +0200
 tags: gaming mobile opinion game-pass steam-deck

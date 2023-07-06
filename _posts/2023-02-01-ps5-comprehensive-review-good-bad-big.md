@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "The PS5: A Comprehensive Review of the Good, the Bad, and the Big"
 date: 2023-02-01 1:00:00 +0200
 tags: gaming PS5 review

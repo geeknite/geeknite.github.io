@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'Canyon Strive 2017 review: Pros y contras. Debería comprarla?'
 date: '2017-04-11T22:58:00.001+02:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Garmin Edge 530: 13 facts to consider before buying"
 date:   2022-12-28 17:00:00 +0200
 tags: mtb garmin review gps

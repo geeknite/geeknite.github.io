@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Portabidones laterales - Zefal Wiiz"
 date:   2018-10-02 17:00:00 +0200
 tags: español mtb review

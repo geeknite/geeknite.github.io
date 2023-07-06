@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "10 Recomendaciones para comprar en amazon desde España"
 date:   '2013-01-24 17:00:00 +0200'
 last_modified_at: '2023-07-06T00:00:00+02:00'

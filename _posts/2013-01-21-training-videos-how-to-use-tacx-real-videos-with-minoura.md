@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'Training videos: how to use Tacx real videos with a Minoura B60-R'
 date: '2013-01-21T03:30:00.000+01:00'
 author: Fernando

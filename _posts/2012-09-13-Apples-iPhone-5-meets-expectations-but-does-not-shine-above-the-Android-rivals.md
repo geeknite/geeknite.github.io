@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Apple's iPhone 5 meets expectations but does not shine above the Android rivals"
 date: '2012-09-13T03:00:00.000+02:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: My favourite bought items at amazon.co.uk
 date: '2012-07-15T20:11:00.000+02:00'
 tags:

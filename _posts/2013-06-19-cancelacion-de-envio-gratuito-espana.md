@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Cancelación de envío gratuito a España desde amazon.co.uk
 date: '2013-06-19T10:23:00.000+02:00'
 tags:

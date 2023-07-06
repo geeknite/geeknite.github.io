@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Son fiables las reviews de amazon? 10 motivos para no fiarse"
 date:   2023-01-21 17:00:00 +0200
 tags: smartshopping amazon español recomendaciones

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Change your MTB geometry with offset bushings"
 date:   2017-12-05 17:00:00 +0200
 tags: bike components shock review

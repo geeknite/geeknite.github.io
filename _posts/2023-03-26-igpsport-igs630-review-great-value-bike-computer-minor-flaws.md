@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "iGPSPORT iGS630: A Great Value GPS Bike Computer with Minor Flaws"
 date: 2023-03-25 17:00:00 +0200
 tags:

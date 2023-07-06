@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: H9 action cam review, primeras impresiones
 date: '2017-01-02T17:09:00.001+01:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Samsung 840 vs 840 Pro vs 830. A brief comparison
 date: '2013-01-31T20:03:00.000+01:00'
 author: Fernando

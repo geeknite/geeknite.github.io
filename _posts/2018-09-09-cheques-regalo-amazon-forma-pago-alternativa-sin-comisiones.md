@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Cheques regalo de amazon como forma de pago alternativa sin comisiones"
 date:   2018-09-09 17:00:00 +0200
 tags: amazon españa español europe smartshopping

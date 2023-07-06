@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Las mejores ofertas de la semana en amazon.es
 date: '2012-07-15T12:35:00.000+02:00'
 tags:

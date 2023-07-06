@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'YT Jeffsy review: Pros y contras. Debería comprarla?'
 date: '2016-05-24T15:53:00.003+02:00'
 tags:

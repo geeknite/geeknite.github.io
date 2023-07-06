@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Mi equipación favorita para MTB 2016. Ideas para regalos a ciclistas
 date: '2016-04-27T13:29:00.000+02:00'
 tags:

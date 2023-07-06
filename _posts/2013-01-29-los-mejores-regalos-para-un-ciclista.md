@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Los mejores regalos para un ciclista
 date: '2013-01-29T19:36:00.003+01:00'
 author: Fernando

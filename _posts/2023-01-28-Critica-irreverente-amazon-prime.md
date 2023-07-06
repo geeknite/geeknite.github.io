@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "¿Vale la pena suscribirse a Amazon Prime? Una mirada irreverente, irónica y crítica"
 date: 2023-01-28 17:00:00 +0200
 tags: amazon españa español europe smartshopping prime

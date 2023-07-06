@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Adsense explained for everyone: understand your revenue statistics"
 date: '2012-03-22T07:01:00.000+02:00'
 tags:

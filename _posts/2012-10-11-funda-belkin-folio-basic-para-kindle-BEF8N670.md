@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Funda Belkin Folio Basic para Kindle (BEF8N670/F8N670CWC00)
 date: '2012-10-11T00:31:00.000+02:00'
 tags:

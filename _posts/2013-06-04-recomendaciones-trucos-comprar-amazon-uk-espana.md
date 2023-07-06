@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Recomendaciones y trucos para comprar en amazon.co.uk desde España
 date: '2013-06-04T10:28:00.000+02:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Chain Reaction Cycles discount codes"
 date:   2018-08-18 17:00:00 +0200
 tags: mtb discount shopping

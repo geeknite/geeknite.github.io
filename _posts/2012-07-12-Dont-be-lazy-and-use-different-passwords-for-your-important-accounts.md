@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Don't be lazy and use different passwords for your important accounts
 date: '2013-01-31T20:03:00.000+01:00'
 tags:

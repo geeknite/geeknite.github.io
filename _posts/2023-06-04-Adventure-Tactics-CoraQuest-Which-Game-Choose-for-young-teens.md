@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Adventure Tactics and CoraQuest - Which Game to Choose for young teens?
 tags:
 - board games

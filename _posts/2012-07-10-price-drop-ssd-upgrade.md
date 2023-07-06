@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Take advantage of the price drop of SSD and upgrade your computer today!"
 date:   2012-07-10 17:00:00 +0200
 tags: smartshopping ssd computing

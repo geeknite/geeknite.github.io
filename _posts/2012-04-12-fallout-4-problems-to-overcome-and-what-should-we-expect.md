@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'Fallout 4: The problems to overcome and what should we expect'
 date: '2012-04-12T07:01:00.000+02:00'
 tags:

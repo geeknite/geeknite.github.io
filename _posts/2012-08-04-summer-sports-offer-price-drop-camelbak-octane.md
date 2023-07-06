@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'Summer of sports: something is moving on the sports department at amazon,
   should I get the Camelbak Octane?'
 date: '2012-08-04T03:00:00.000+02:00'

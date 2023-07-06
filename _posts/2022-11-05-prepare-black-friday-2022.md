@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Prepare for Black Friday in 2022"
 date:   2022-11-05 17:00:00 +0200
 tags: smartshopping black-friday

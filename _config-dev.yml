@@ -1,94 +1,333 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-title: GeekNite
-email: geeknit@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Get unbiased and informative reviews and opinions on the latest products, 
-  services, and trends.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://geeknite.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "/favicon.png" # the favicon for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
-permalink: /:year/:month/:title:output_ext
+# Site Settings
+locale                   : "en-US"
+title                    : "GeekNite"
+email                    : geeknit@outlook.com
+title_separator          : "-"
+subtitle                 : "A Jekyll theme"
+name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
+description              : &description "Get unbiased and informative reviews and opinions on the latest products, services, and trends."
+url                      : "https://geeknite.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : ""
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/favicon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
+paginate                 : 10
+words_per_minute         : 200
+comments:
+  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+reCaptcha:
+  siteKey                : # "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
+  secret                 : # "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
 
-# Copyright setting
-# You can use any html code, currently below placeholders are available:
-# * current year: {currentYear}
-# * author: {author} (Value is the same as site.author)
-# * copyright: (c) - ©
-# * copyleft: (cleft)
-# * sound recording copyright: (p) - ℗
-#
-# For example:
-#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
-#   "Copyright © 2017-2021 Foobar"
-#
-copyright: "geeknite (cleft) 2012-{currentYear}"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
-   - index.markdown
-   - next-articles.markdown
-   - about.markdown
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia
+algolia:
+  application_id         : K0L8N8TNXS # YOUR_APPLICATION_ID
+  index_name             : geeknite # YOUR_INDEX_NAME
+  search_only_api_key    : bd4b2f70060b82d6e35ce26b0793736d # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
+  files_to_exclude:
+    - _posts/2017-11-28-post-exclude-search.md
 
-# not working height customization
-# Banner default settings
-# These banner settings are for global banner default, but you can also
-# config it by the front matter for one specific post
-# banner:
-#   video: null             # Video banner source
-#   loop: true              # Video loop
-#   volume: 0               # Video volume (100% is 1.0)
-#   start_at: 0             # Video start time
-#   image: null             # Image banner source
-#   opacity: 1.0            # Banner opacity (100% is 1.0)
-#   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
-#   height: "540px"         # Banner default height
-#   min_height: "250px"        # Banner minimum height
-#   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-#   subheading_style: null  # Custom subheading style (e.g. color: gold)
+# SEO Related
+google_site_verification : "vG1WVNwZLdk8EWZVXbBJUWBFVQNjot5enIkGMlEi3Yk" # Replace this with your ID, or delete
+bing_site_verification   :
+naver_site_verification  :
+yandex_site_verification :
+baidu_site_verification  :
 
-# Pagination setting
-paginate: 10
+# Social Sharing
+twitter:
+  username               : &twitter "xocmetal"
+facebook:
+  username               : &facebook "michaelrose"
+  app_id                 :
+  publisher              :
+og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+# For specifying social profiles, used in _includes/seo.html
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/mmistakes"
+    - "https://www.facebook.com/michaelrose"
 
-# If you want to generate website sitemap, you can set true
-sitemap: true
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-HMRZWXRSJQ" # Replace this with your ID, or delete
+    anonymize_ip         : true
 
-# Page default value
+
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
+  location         : "Barcelona"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
 defaults:
-  home:
-    heading: "Geeknite"
-    subheading: "subheading"
-#    banner: "Your image url"
+  # - home:
+  #     heading: "Geeknite"
+  #     subheading: "subheading"
+      #    banner: "Your image url"
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
-# Build settings
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes"
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: Europe/Madrid # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-redirect-from
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
 
 constants:
   - amazon_es: "eltrastdelgam-21"
@@ -118,50 +357,3 @@ constants:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
-search_provider          : "lunr"
-lunr:
-  search_within_pages    : true
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    - https://twitter.com/
-    - https://github.com/
-
-
-# Analytics
-analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          :
-
-# Site Author
-author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  links:
-    - label: "Your Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"

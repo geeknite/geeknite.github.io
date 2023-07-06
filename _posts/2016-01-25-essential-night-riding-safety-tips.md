@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 7 Essential night riding safety tips
 date: '2016-01-25T13:09:00.000+01:00'
 tags:

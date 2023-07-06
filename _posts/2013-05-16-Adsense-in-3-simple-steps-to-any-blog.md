@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'How to create a site: Add Adsense in 3 simple steps to any blog or page that allows frames'
 date: '2013-05-16T13:41:00.000+01:00'
 tags:

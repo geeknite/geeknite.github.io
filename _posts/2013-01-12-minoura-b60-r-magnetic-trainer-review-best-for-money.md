@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Minoura B60-R magnetic trainer (3620091) review. The best for the money
 date: '2013-01-12T09:00:00.000+01:00'
 author: Fernando

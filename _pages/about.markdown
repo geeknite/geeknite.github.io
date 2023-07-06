@@ -1,5 +1,4 @@
 ---
-layout: post
 title: About
 permalink: /about/
 description: Welcome to our blog! We are excited to share our thoughts, insights, and experiences with you
@@ -13,7 +12,7 @@ We at {{ site.title }} don't get paid for our reviews. Our income comes from adv
 
 {{ site.title }} covers a wide range of reviews and useful articles in an **independent** way, from gadgets and sports equipment to computer hardware or video games, our humble website has grown to receive over 200 daily visits, with peaks of 1000 views.
 
-As {{ site.title }} is growing in reviewers, we need more and more products to review. We don't limit the products to review, so **if you are a brand or store and want to promote any item for us to review for free, we will be more than thankful**. Of course, we will return the item if you are willing to pay for the delivery expenses. Please contact <geeknite@outlook.es>, we do not accept payments for reviews, nor do we guarantee positive reviews.
+As {{ site.title }} is growing in reviewers, we need more and more products to review. We don't limit the products to review, so **if you are a brand or store and want to promote any item for us to review for free, we will be more than thankful**. Of course, we will return the item if you are willing to pay for the delivery expenses. Please contact <{{ site.email }}>, we do not accept payments for reviews, nor do we guarantee positive reviews.
 
 At {{ site.title }}, we specialize in budget-targeted reviews. As simple workers, we understand that not everyone can spend more than 2000€ on a bike. In sports, we would love to review any kind of gadget or equipment related to sports, especially any kind of mountain bike, from hardtail to full sussers, and even bike components like the new Yari fork, to test how they could improve a low-budget bike. In gaming, we would like to test how games perform with different types of hardware or peripherals, always keeping the budget user in mind.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Canyon Breakaway Sale 2018
 date: '2018-07-23T08:30:00.000+02:00'
 author: Fernando

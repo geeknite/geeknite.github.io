@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Últimas unidades de pedales OneUp Components Comp
 date: '2017-12-04T16:37:00.002+01:00'
 author: Fernando

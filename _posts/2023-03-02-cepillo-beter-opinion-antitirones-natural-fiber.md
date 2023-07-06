@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "El cepillo de pelo Beter: ¿el mejor amigo de tu melena?"
 date: 2023-03-02 17:00:00 +0200
 tags:

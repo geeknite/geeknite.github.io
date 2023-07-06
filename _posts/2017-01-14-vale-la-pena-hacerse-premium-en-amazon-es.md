@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Vale la pena hacerse premium en amazon.es?
 date: '2017-01-14T09:20:00.000+01:00'
 tags:

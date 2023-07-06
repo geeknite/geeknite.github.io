@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Nokia smartphones with Windows Phone 8: It will really be a change or a step close to the edge?"
 date: '2012-06-09T07:01:00.000+02:00'
 tags:

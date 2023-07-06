@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "The definitive plus tire mountain bike list"
 date: '2017-02-21T23:38:00.000+01:00'
 tags:

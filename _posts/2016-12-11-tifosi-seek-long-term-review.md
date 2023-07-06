@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Tifosi Seek long term review
 date: '2016-12-11T17:26:00.000+01:00'
 tags:

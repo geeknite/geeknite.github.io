@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Best hardtail MTB frames for the money"
 date:   2017-04-04 17:00:00 +0200
 tags: mtb frame roundup

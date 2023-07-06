@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Top 10 Racing Board Games"
 tags:
 - board games

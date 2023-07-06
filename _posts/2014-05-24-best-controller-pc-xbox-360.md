@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 'The best controller for the Windows PC: another XBox 360 Controller review'
 date: '2014-05-24T19:49:00.000+02:00'
 author: Fernando

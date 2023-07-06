@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Zwift Review: A Comprehensive Analysis of the Popular Virtual Cycling Platform"
 date: 2023-02-20 1:00:00 +0200
 tags: cycling virtual review

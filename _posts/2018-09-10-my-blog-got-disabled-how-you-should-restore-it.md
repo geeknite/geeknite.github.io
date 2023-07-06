@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: My blog got disabled. How you should restore it
 date: '2018-09-10T15:39:00.000+02:00'
 tags:

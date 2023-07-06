@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Las mejores MTB según presupuesto calidad/precio (for the money)
 date: '2016-03-24T16:29:00.000+01:00'
 tags:

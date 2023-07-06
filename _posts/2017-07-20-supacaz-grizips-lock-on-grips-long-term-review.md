@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Supacaz Grizips Lock on grips long term review"
 date:   2017-07-20 17:00:00 +0200
 tags: bike grips review supacaz components

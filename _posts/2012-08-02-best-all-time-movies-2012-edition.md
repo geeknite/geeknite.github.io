@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Best all-time movies. 2012 edition
 date: '2012-08-02T09:27:00.000+02:00'
 tags:

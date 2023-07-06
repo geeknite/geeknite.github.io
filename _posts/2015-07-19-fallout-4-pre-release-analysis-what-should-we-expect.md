@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Fallout 4, pre-release analysis, what should we expect
 date: '2015-07-19T21:23:00.000+02:00'
 author: Fernando

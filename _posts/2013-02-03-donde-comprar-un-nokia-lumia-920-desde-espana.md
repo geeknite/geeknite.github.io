@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Dónde comprar un Nokia Lumia 920 desde España
 date: '2013-02-03T12:00:00.000+01:00'
 author: Fernando

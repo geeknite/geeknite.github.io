@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Garmin Edge 500 vs Edge 520 review comparison. Should I stay with the Edge 500?"
 date:   2013-01-14 17:00:00 +0200
 tags: mtb garmin review gps

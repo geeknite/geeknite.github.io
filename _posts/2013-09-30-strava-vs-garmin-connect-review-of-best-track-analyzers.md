@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Strava vs Garmin Connect. A review of the best gps track analyzers"
 date:   2013-09-30 17:00:00 +0200
 tags: strava garmin review gps

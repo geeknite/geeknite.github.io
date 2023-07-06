@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "MTB Progression welcome"
 date:   2018-10-07 17:00:00 +0200
 tags: español mtb

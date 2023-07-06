@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Don't buy DLC, buy GOTY or nothing
 date: '2012-04-26T07:01:00.000+02:00'
 tags:
