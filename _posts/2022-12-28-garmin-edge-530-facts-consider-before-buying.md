@@ -6,7 +6,7 @@ tags: mtb garmin review gps
 last_modified_at: '2023-07-06T00:00:00+02:00'
 redirect_from:
     - /2022/12/garmin-edge-530-long-term-review.html
-description: "Garmin Edge 530: What You Should Know Before Buying" - Important facts and considerations to keep in mind when purchasing the Garmin Edge 530 cycling computer."
+description: "Garmin Edge 530: What You Should Know Before Buying - Important facts and considerations to keep in mind when purchasing the Garmin Edge 530 cycling computer."
 ---
 
 <a href='{{ site.constants[0].wsib }}/Garmin%20Edge%20530'><img style="float: right;" src="https://i.imgur.com/lOxfl7fm.jpg?1"></a>

@@ -14,7 +14,7 @@ tags:
 - support
 - cycling
 last_modified_at: '2023-07-06T00:00:00+02:00'
-description: "The Definitive Plus Tire Mountain Bike List" - An authoritative list of plus-sized tire options for mountain bikes."
+description: "The Definitive Plus Tire Mountain Bike List - An authoritative list of plus-sized tire options for mountain bikes."
 ---
 
 In the last post, we talked about [the evolution of our site]({%- post_url 2017-02-13-put-in-your-basket-evolution-for-2017 -%}), and what we are planning for this year, among a myriad of reviews, articles, tutorials, and video ideas. **We are looking into a pair of modern mountain bikes to do a long-term review**. In the last years, we have dived into the mountain bike world, which is huge and rewarding, and many things have changed. Some will say that bike companies are thinking about money, and it is true, but they are also moving it forward to improve it for all.
