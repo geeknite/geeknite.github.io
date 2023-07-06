@@ -9,7 +9,7 @@ redirect_from:
 description: "Garmin Edge 530: What You Should Know Before Buying - Important facts and considerations to keep in mind when purchasing the Garmin Edge 530 cycling computer."
 ---
 
-<a href='{{ site.constants[0].wsib }}/Garmin%20Edge%20530'><img style="float: right;" src="https://i.imgur.com/lOxfl7fm.jpg?1"></a>
+<a href='{{ site.constants.wsib }}/Garmin%20Edge%20530'><img style="float: right;" src="https://i.imgur.com/lOxfl7fm.jpg?1"></a>
 
 The Garmin Edge 530 is a cycling computer that provides a range of features to help riders track and improve their performance on the bike. [Check our review of the new a new Garmin Edge 540 now available.]({%- post_url 2023-07-06-garmin-edge-540-review -%})
 
