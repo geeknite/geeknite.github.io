@@ -78,7 +78,7 @@ sitemap: true
 defaults:
   home:
     heading: "Geeknite"
-    subheading: ""
+    subheading: "subheading"
 #    banner: "Your image url"
 
 # Build settings
@@ -118,3 +118,50 @@ constants:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : "lunr"
+lunr:
+  search_within_pages    : true
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - https://twitter.com/
+    - https://github.com/
+
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :
+
+# Site Author
+author:
+  name             : "Your Name"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  links:
+    - label: "Your Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-site.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
