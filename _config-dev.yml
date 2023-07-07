@@ -7,7 +7,7 @@ title                    : "GeekNite"
 email                    : geeknit@outlook.com
 title_separator          : "-"
 subtitle                 : 
-name                     : &name "XOCMetal" # &name is a YAML anchor which can be *referenced later
+name                     : # &name "XOCMetal" # &name is a YAML anchor which can be *referenced later
 description              : &description "Get unbiased and informative reviews and opinions on the latest products, services, and trends."
 url                      : "https://geeknite.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -91,9 +91,9 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  name             : Geeknite # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : #"Just another *boring*, *tattooed*, *time traveling*, *designer*."
+  bio              : "A small team of diverse people"
   location         : "Barcelona"
   links:
     - label: "Twitch"
