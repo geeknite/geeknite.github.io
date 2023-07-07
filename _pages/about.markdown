@@ -8,6 +8,8 @@ Welcome to our blog! We are excited to share our thoughts, insights, and experie
 
 ¡Bienvenidos a nuestro blog! Estamos emocionados de compartir nuestros pensamientos, insights y experiencias con ustedes. Nuestro blog abarca una amplia gama de temas, desde el desarrollo personal hasta los acontecimientos actuales, y esperamos proporcionar una perspectiva fresca sobre temas que les interesen. Ya sea que busque inspiración, información o simplemente una buena lectura, esperamos que encuentre algo de valor aquí. Gracias por visitarnos y esperamos que disfruten su visita.
 
+------------
+
 We at {{ site.title }} don't get paid for our reviews. Our income comes from advertising and affiliate links, and most of it goes to maintaining the website and buying new products to review. In most cases, there aren't enough products for all the reviewers to test, so most of us are reviewing items that we bought with our own money.
 
 {{ site.title }} covers a wide range of reviews and useful articles in an **independent** way, from gadgets and sports equipment to computer hardware or video games, our humble website has grown to receive over 200 daily visits, with peaks of 1000 views.
