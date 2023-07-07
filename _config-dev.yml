@@ -212,6 +212,8 @@ defaults:
       toc: true
       toc_sticky: true
       show_date: true
+      sidebar:
+        nav: "top-posts"
   # _pages
   - scope:
       path: "_pages"
