@@ -343,6 +343,7 @@ constants:
   amazon_fr: "krv-21" #amkioze
   amazon_de: "kvl-21" #amkioze
   wsib: "https://www.foxxs.net"
+  num_recent: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.

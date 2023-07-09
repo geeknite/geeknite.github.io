@@ -7,8 +7,7 @@ description: "Garmin Edge 500 vs. Edge 510 Review: Stick with Edge 500 - A compa
 last_modified_at: '2023-07-06T00:00:00+01:00'
 ---
 
-
-<a href='{{ site.constants.wsib }}/Garmin%20Edge%20500'><img style="float: right;" src="https://i.imgur.com/ZAlc9GQm.jpg"></a>
+[![Garmin edge 500](https://i.imgur.com/ZAlc9GQm.jpg){: .align-right}]({{ site.constants.wsib }}/garmin edge 500)
 
 First of all I want to make clear that my impression on the ***[Edge 520]({{ site.constants.wsib }}/us/Garmin%20Edge%20520)*** is taken from the many reviews out there, I am not lucky enough for *Garmin* to send me one to review, and, of course, my *[Edge 500]({{ site.constants.wsib }}/us/Garmin%20Edge%20500)* was bought with **my money**, I am not a renowned person in the bike world to get one for free as some do, I am just a **biking enthusiast** and this is just my impression of a product as a **humble biker**.
 
