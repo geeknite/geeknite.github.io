@@ -1,12 +1,12 @@
 ---
-layout: post
+
 title:  "Take advantage of the price drop of SSD and upgrade your computer today!"
 date:   2012-07-10 17:00:00 +0200
 tags: smartshopping ssd computing
 redirect_from:
     - /2012/07/upgrade-your-computer-buying-an-SSD-today.html
 ---
-**Want to upgrade your computer but can't afford a new one**? Or just simply don't want to have working computer getting dusty in a corner? You probably have already heard about SSD on high end laptops like [macbooks]({{ site.constants[0].wsib }}/us/macbook), but you probably have also heard that they are pricey or at least until now.\
+**Want to upgrade your computer but can't afford a new one**? Or just simply don't want to have working computer getting dusty in a corner? You probably have already heard about SSD on high end laptops like [macbooks]({{ site.constants.wsib }}/us/macbook), but you probably have also heard that they are pricey or at least until now.\
 First let's introduce the concept of *SSD* and later talk about its prices.
 
 ### SSD?
@@ -22,8 +22,8 @@ And one more warning, ***SSDs* don't make noise**, it will not give you a warnin
 
 After this small introduction it shouldn't be a surprise that an *SSD* is the best upgrade you can get for your computer and now is a great time to buy one, because the formerly-expensive drives have dropped dramatically in price over the past months this would be the perfect time to buy one. After last year's Thailand floods, prices got stuck for some time, but ***SSD* prices have continued dropping dramatically, many models being 65% cheaper than they were only a few months ago**, *SSDs* have never been more affordable and they can make breathe new life into your computer. If you've been waiting to do a step forward, now is a great time to make the change.
 
-Here you have a graph showing the price evolution of the [Crucial CT128M4SSD2 128GB M4 SSD on amazon.com](<https://www.amazon.com/gp/product/B004W2JKZI/ref=as_li_ss_il?ie=UTF8&tag={{ site.constants[0].amazon_com }}&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004W2JKZI>){: rel="nofollow"}:
+Here you have a graph showing the price evolution of the [Crucial CT128M4SSD2 128GB M4 SSD on amazon.com](<https://www.amazon.com/gp/product/B004W2JKZI/ref=as_li_ss_il?ie=UTF8&tag={{ site.constants.amazon_com }}&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004W2JKZI>){: rel="nofollow"}:
 
 ![Price drop](https://i.imgur.com/l9u48IDm.jpg)
 
-**My recommendation is to buy a relatively small *SSD* for your *OS* and programs** that depend much on disk reading, **and have a [traditional hard disk]({{ site.constants[0].wsib }}/us/hard%20disk%20drive) for store data**, then you will not need much space, [128GB]({{ site.constants[0].wsib }}/us/ssd%20128gb) will be enough, and your pocket will not hurt much.
+**My recommendation is to buy a relatively small *SSD* for your *OS* and programs** that depend much on disk reading, **and have a [traditional hard disk]({{ site.constants.wsib }}/us/hard%20disk%20drive) for store data**, then you will not need much space, [128GB]({{ site.constants.wsib }}/us/ssd%20128gb) will be enough, and your pocket will not hurt much.

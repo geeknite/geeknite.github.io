@@ -1,12 +1,12 @@
 ---
-layout: post
+
 title:  "MTB Progression welcome"
 date:   2018-10-07 17:00:00 +0200
 tags: español mtb
 description: "Descubre todo lo nuevo en nuestro blog de MTB (BTT). Ahora con más artículos de opinión y recomendaciones para progresar desde principiante a aficionado"
 ---
 
-<a href='{{ site.constants[0].wsib }}/mtb'><img style="float: right;" src="https://i.imgur.com/ccVJY3vm.jpg"></a>
+<a href='{{ site.constants.wsib }}/mtb'><img style="float: right;" src="https://i.imgur.com/ccVJY3vm.jpg"></a>
 
 Tras años dedicándonos a hablar sobre MTB (BTT) hemos empezado un pequeño cambio tanto estético como de ideas, sin dejar de lado los productos, reviews y ofertas queremos añadir más artículos de opinión y recomendaciones para progresar desde principiante a aficionado. Todo esto complementado con nuestro canal de Youtube en el que principalmente nos dedicamos a colgar ejercicios de nuestra progresión y un poco de *trail* y *pumptrack building*.
 

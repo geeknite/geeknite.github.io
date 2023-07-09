@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Benefits of mountain biking for the middle aged"
 date:   2022-11-03 17:00:00 +0200
 tags: mtb cycling health

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Portabidones laterales - Zefal Wiiz"
 date:   2018-10-02 17:00:00 +0200
 tags: español mtb review
@@ -7,7 +7,7 @@ description: "Portabidones Laterales Zefal Wiiz - Review and analysis of the Zef
 last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
-<a href='{{ site.constants[0].wsib }}/es/zefal%20wiiz'><img style="float: right;" src="https://i.imgur.com/tejFkXZm.jpg"></a>
+<a href='{{ site.constants.wsib }}/es/zefal%20wiiz'><img style="float: right;" src="https://i.imgur.com/tejFkXZm.jpg"></a>
 
 Las bicis de doble suspensión en muchos casos tienen un problema que enfurece a un gran número de aficionados y es que no permiten montar un bidón, muchos modelos más modernos se esfuerzan en diseñar su *linkage* de forma que sí sea posible viendo la *furia* de los aficionados.
 
@@ -19,7 +19,7 @@ Recientemente había visto el [portabidones lateral que venden en Decathlon](htt
 
 Zéfal es una marca francesa bastante conocida en el mundillo del ciclismo de carretera y con unos cuantos años de solera a sus espaldas. Quién no tiene una de sus bombas en las bicis *retro* de carretera de nuestros padres?
 
-Buscando en [amazon.es](https://www.amazon.es/?_encoding=UTF8&tag={{ site.constants[0].amazon_es }}&linkCode=ur2&camp=3626&creative=24822) tras ver el del Decathlon encontré este modelo [Zéfal Wiiz](https://www.amazon.es/Zefal-Wiiz-Portabid%C3%B3n-color-negro/dp/B002BWPKYQ?psc=1&SubscriptionId=AKIAIVFGR342ZRXZUMTA&tag={{ site.constants[0].amazon_es }}&linkCode=sp1&camp=2025&creative=165953&creativeASIN=B002BWPKYQ) y por ser una marca para mi reconocida me decidí a comprarlo, sobretodo teniendo en cuenta el precio de 3,5€. Lo malo es que es un producto plus y tendrás que gastar al menos 19€ sino no te lo envían, [ni aunque seas premium]({%- post_url 2018-09-02-vale-la-pena-ser-premium-amazon-es-2018 -%}).
+Buscando en [amazon.es](https://www.amazon.es/?_encoding=UTF8&tag={{ site.constants.amazon_es }}&linkCode=ur2&camp=3626&creative=24822) tras ver el del Decathlon encontré este modelo [Zéfal Wiiz](https://www.amazon.es/Zefal-Wiiz-Portabid%C3%B3n-color-negro/dp/B002BWPKYQ?psc=1&SubscriptionId=AKIAIVFGR342ZRXZUMTA&tag={{ site.constants.amazon_es }}&linkCode=sp1&camp=2025&creative=165953&creativeASIN=B002BWPKYQ) y por ser una marca para mi reconocida me decidí a comprarlo, sobretodo teniendo en cuenta el precio de 3,5€. Lo malo es que es un producto plus y tendrás que gastar al menos 19€ sino no te lo envían, [ni aunque seas premium]({%- post_url 2018-09-02-vale-la-pena-ser-premium-amazon-es-2018 -%}).
 
 Evidentemente es reversible y tiene un peso de 64gr., comparando con otro portabidón que tengo de la marca Elite que pesa sólo 34gr., siendo casi la mitad para los que buscan el mínimo peso seguramente no os parecerá la major opción, aunque podemos considerar que los más puristas del XC usan rígidas y no tienen problema para usar cualquier bidón.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Benefits of mountain biking"
 date:   2019-11-15 17:00:00 +0200
 tags: mtb cycling

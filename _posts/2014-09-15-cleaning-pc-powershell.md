@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Cleaning a pc: recursive delete all empty folders with powershell help"
 date:   2014-09-15 17:00:00 +0200
 tags: powershell maintenance computing
@@ -16,9 +16,9 @@ The function is this:
 
 ![Learn Windows PowerShell in a Month of Lunches](https://m.media-amazon.com/images/I/4184kkT4ELL._SL160_.jpg)
 
-Learn Windows PowerShell in a Month of Lunches](<https://www.amazon.com/dp/1617294160?tag>={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
+Learn Windows PowerShell in a Month of Lunches](<https://www.amazon.com/dp/1617294160?tag>={{ site.constants.amazon_com }}&linkCode=ogi&th=1&psc=1)
 
-[ Buy Now](<https://www.amazon.com/dp/1617294160?tag>={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
+[ Buy Now](<https://www.amazon.com/dp/1617294160?tag>={{ site.constants.amazon_com }}&linkCode=ogi&th=1&psc=1)
 
 Edit
 -----

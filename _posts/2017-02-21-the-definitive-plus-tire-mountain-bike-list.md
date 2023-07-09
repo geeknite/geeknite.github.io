@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "The definitive plus tire mountain bike list"
 date: '2017-02-21T23:38:00.000+01:00'
 tags:
@@ -32,35 +32,35 @@ Let's enumerate what are the requirements and what kind of bikes are we looking 
 - Of course, if we buy a 29er hardtail, then we will look for a full suspension 27.5+ bike to get 2 different wheelsets or the other way around.
 - A good move should be getting a lower *specced* bike (usually the hardtail) and one higher *specced* (usually the full suspension) so we can switch components and save some money, especially focusing on the suspension.
 - In the Category B, we include the cheapest bike that meets all requirements.
-- The Category A price is the price of a bike with an all-mountain-specific fork, at least a [Rockshox Yari]({{ site.constants[0].wsib }}/wtb%20ranger) or a Fox 34 Rhythm.
+- The Category A price is the price of a bike with an all-mountain-specific fork, at least a [Rockshox Yari]({{ site.constants.wsib }}/wtb%20ranger) or a Fox 34 Rhythm.
 
 ### Hardtails
 
 | Bike/Frame | Frame only | Cat B config | Cat A config | Wheels | Travel (mm) |
 |------------|------------|--------------|--------------|--------|--------------|
-| [Dartmoor Primal Plus]({{ site.constants[0].wsib }}/Dartmoor%20Primal%20Plus) | ~300€ |              |              |        | 140*        
+| [Dartmoor Primal Plus]({{ site.constants.wsib }}/Dartmoor%20Primal%20Plus) | ~300€ |              |              |        | 140*        
 
-| [Diamondback Mason Plus]({{ site.constants[0].wsib }}/Diamondback%20Mason%20Plus) |              | $1400        | $2300        | 27.5+  | 120          |
-| [Diamondback Rely Trail]({{ site.constants[0].wsib }}/Diamondback%20Rely%20Trail) |              | $1400        |              | 27.5+  | 120          |
-| [Sonder Frontier]({{ site.constants[0].wsib }}/Sonder%20Frontier)                 | 230€/£199/$250 | 1011€/£879/$1100 |              | 27.5+/29 | Rigid/100    |
-| [Specialized Fuse]({{ site.constants[0].wsib }}/Specialized%20Fuse)               |              | 850 €        | 4.000 €      | 27.5+  | 120          |
-| [Trek Stache]({{ site.constants[0].wsib }}/Trek%20Stache)                         |              | 1.800 €      | 3.500 €      | 29+    | 120          |
-| [Cotic SolarisMax]({{ site.constants[0].wsib }}/Cotic%20SolarisMax)               | £599       |              |              |        | 120*         |
-| [Specialized Ruze]({{ site.constants[0].wsib }}/Specialized%20Ruze)               |              | $1000        | $3100        |        | 100          |
-| [Kona Big Honzo]({{ site.constants[0].wsib }}/Kona%20Big%20Honzo)                 |              | *            | *            | 27.5+  | 120          |
-| [Norco Torrent]({{ site.constants[0].wsib }}/Norco%20Torrent)                     | $449       | $1649        |              | 27.5+  | 140          |
-| [Orbea Loki]({{ site.constants[0].wsib }}/Orbea%20Loki)                           |              | 1.299 €      | 1.999 €      | 27.5+  | 120          |
-| [Ragley Big Wig]({{ site.constants[0].wsib }}/Ragley%20Big%20Wig)                 |              |              | 1889€/£1750  | 29     | 130          |
+| [Diamondback Mason Plus]({{ site.constants.wsib }}/Diamondback%20Mason%20Plus) |              | $1400        | $2300        | 27.5+  | 120          |
+| [Diamondback Rely Trail]({{ site.constants.wsib }}/Diamondback%20Rely%20Trail) |              | $1400        |              | 27.5+  | 120          |
+| [Sonder Frontier]({{ site.constants.wsib }}/Sonder%20Frontier)                 | 230€/£199/$250 | 1011€/£879/$1100 |              | 27.5+/29 | Rigid/100    |
+| [Specialized Fuse]({{ site.constants.wsib }}/Specialized%20Fuse)               |              | 850 €        | 4.000 €      | 27.5+  | 120          |
+| [Trek Stache]({{ site.constants.wsib }}/Trek%20Stache)                         |              | 1.800 €      | 3.500 €      | 29+    | 120          |
+| [Cotic SolarisMax]({{ site.constants.wsib }}/Cotic%20SolarisMax)               | £599       |              |              |        | 120*         |
+| [Specialized Ruze]({{ site.constants.wsib }}/Specialized%20Ruze)               |              | $1000        | $3100        |        | 100          |
+| [Kona Big Honzo]({{ site.constants.wsib }}/Kona%20Big%20Honzo)                 |              | *            | *            | 27.5+  | 120          |
+| [Norco Torrent]({{ site.constants.wsib }}/Norco%20Torrent)                     | $449       | $1649        |              | 27.5+  | 140          |
+| [Orbea Loki]({{ site.constants.wsib }}/Orbea%20Loki)                           |              | 1.299 €      | 1.999 €      | 27.5+  | 120          |
+| [Ragley Big Wig]({{ site.constants.wsib }}/Ragley%20Big%20Wig)                 |              |              | 1889€/£1750  | 29     | 130          |
 
 ### Full Suspension
 
 | Bike/Frame                                                      | Frame only | Cat B config | Cat A config | Wheels | Travel (mm) |
 |-----------------------------------------------------------------|-------------|--------------|--------------|--------|--------------|
-| [Radon Slide+]({{ site.constants[0].wsib }}/Radon%20Slide)               |             |              | 2.600 €      | 27,5+  | 140          |
-| [Santa Cruz Hightower]({{ site.constants[0].wsib }}/Santa%20Cruz%20Hightower) |             |              | 4130€/£3599/$3599  | 29     | 140          |
-| [Santa Cruz Hightower]({{ site.constants[0].wsib }}/Santa%20Cruz%20Hightower) |             |              | 5100€/£4399/$4599  | 27,5+  | 150          |
-| [Specialized Rhyme]({{ site.constants[0].wsib }}/Specialized%20Rhyme)   |             | 2.799,90 €   | 3.999,90 €   | 27,5+  | 150          |
-| [Vitus Escarpe]({{ site.constants[0].wsib }}/Vitus%20Escarpe)             |             |              | 3229,99€/£2636,99 | 29     | 150          |
+| [Radon Slide+]({{ site.constants.wsib }}/Radon%20Slide)               |             |              | 2.600 €      | 27,5+  | 140          |
+| [Santa Cruz Hightower]({{ site.constants.wsib }}/Santa%20Cruz%20Hightower) |             |              | 4130€/£3599/$3599  | 29     | 140          |
+| [Santa Cruz Hightower]({{ site.constants.wsib }}/Santa%20Cruz%20Hightower) |             |              | 5100€/£4399/$4599  | 27,5+  | 150          |
+| [Specialized Rhyme]({{ site.constants.wsib }}/Specialized%20Rhyme)   |             | 2.799,90 €   | 3.999,90 €   | 27,5+  | 150          |
+| [Vitus Escarpe]({{ site.constants.wsib }}/Vitus%20Escarpe)             |             |              | 3229,99€/£2636,99 | 29     | 150          |
 
 Note: The table above lists full suspension bikes with their respective configurations, frame options, prices, wheel sizes, and travel in millimeters.
 

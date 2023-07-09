@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "¡Bienvenidos a nuestro canal gaming de Twitch y Youtube @xocmetal!"
 date: 2023-05-15 17:00:00 +0200
 tags:

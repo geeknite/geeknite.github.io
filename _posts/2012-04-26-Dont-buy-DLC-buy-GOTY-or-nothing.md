@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Don't buy DLC, buy GOTY or nothing
 date: '2012-04-26T07:01:00.000+02:00'
 tags:
@@ -56,4 +56,4 @@ In this video you can see a playthrough of the game, if you want to play you bet
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aSzKqgExLYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-As you may expect I voted 'No' in the poll and you did you buy any *DLC* in the last year? Do you feel the same about *DLC*and *GOTY*? [Click here and search for the best GOTY offers on the internet!]({{ site.constants[0].wsib }}/goty)
+As you may expect I voted 'No' in the poll and you did you buy any *DLC* in the last year? Do you feel the same about *DLC*and *GOTY*? [Click here and search for the best GOTY offers on the internet!]({{ site.constants.wsib }}/goty)

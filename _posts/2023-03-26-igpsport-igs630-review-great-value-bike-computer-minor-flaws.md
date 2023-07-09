@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "iGPSPORT iGS630: A Great Value GPS Bike Computer with Minor Flaws"
 date: 2023-03-25 17:00:00 +0200
 tags:
@@ -12,7 +12,7 @@ description: "Discover the iGPSPORT iGS630, a budget-friendly GPS bike computer 
 last_modified_at: '2023-07-06T12:00:00 +0200'
 ---
 
-[![iGPSPORT iGS630](https://m.media-amazon.com/images/I/61WFJB1eXfL._AC_SX679_.jpg){: style="float: right;"}]({{ site.constants[0].wsib }}/iGPSPORT iGS630)
+[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}/iGPSPORT iGS630)
 
 Today I'm going to talk about a bike computer, the iGPSPORT iGS630, and my experience with it. So, let's get rolling!
 
@@ -28,12 +28,7 @@ One of the things that I like the most about this computer is its many customiza
 
 Another thing to note is that the computer is fully compatible with Garmin mounts, which is great if you already have a Garmin mount installed on your bike.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{ site.constants[0].amazon_com }}&language=en_US&marketplace=amazon&region=US&placement=B09XX5FVHJ&asins=B09XX5FVHJ&linkId=e2944192652a539e2235e93b197f2bc4&show_border=false&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{ site.constants[0].amazon_uk }}&language=en_GB&marketplace=amazon&region=GB&placement=B09XX5FVHJ&asins=B09XX5FVHJ&linkId=8e46911618aa6585d566d30de9831efa&show_border=false&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{ site.constants[0].amazon_de }}&language=de_DE&marketplace=amazon&region=DE&placement=B09XX5FVHJ&asins=B09XX5FVHJ&linkId=93db1e98db32673248af289a3ec385f2&show_border=false&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{ site.constants[0].amazon_es }}&marketplace=amazon&region=ES&placement=B09XX5FVHJ&asins=B09XX5FVHJ&linkId=a3a141b54f2ae3dd847eb7b2de87d2b3&show_border=false&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{ site.constants[0].amazon_fr }}&marketplace=amazon&region=FR&placement=B09XX5FVHJ&asins=B09XX5FVHJ&linkId=a3a141b54f2ae3dd847eb7b2de87d2b3&show_border=false&link_opens_in_new_window=true"></iframe>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id={{ site.constants[0].amazon_it }}&marketplace=amazon&region=IT&placement=B09XX5FVHJ&asins=B09XX5FVHJ&linkId=a3a141b54f2ae3dd847eb7b2de87d2b3&show_border=false&link_opens_in_new_window=true"></iframe>
+{% include amazon.html asin="B09XX5FVHJ" %}
 
 ### Cons
 
@@ -61,9 +56,9 @@ All in all, I would definitely buy this bike computer again. It's accurate, affo
 
 One thing to note is that the screen isn't a touchscreen, and the buttons aren't as intuitive as you would hope. They take some getting used to, so I would strongly advise playing around with the device a lot before taking it out on a ride. It is also helpful to do a couple of short practice rides with it first.
 
-At the time of writing this review, [the iGPSPORT iGS630 is priced at $199.99](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?c=ts&keywords=Cycling%2BComputers&qid=1679814661&refinements=p_89%3AiGPSPORT&rnid=2528832011&s=sporting-goods&sr=1-6&ts_id=3403321&th=1&linkCode=ll1&tag={{ site.constants[0].amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher. I would recommend purchasing a [separate mount]({{ site.constants[0].wsib }}/gps bike mount) for this, which should cost around $15 [check #WhereShouldIBuy to find good priced options]({{ site.constants[0].wsib }}/). Even with the extra mount, this is still an exceptional price for a full-color bike computer with so many features.
+At the time of writing this review, [the iGPSPORT iGS630 is priced at $199.99](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?c=ts&keywords=Cycling%2BComputers&qid=1679814661&refinements=p_89%3AiGPSPORT&rnid=2528832011&s=sporting-goods&sr=1-6&ts_id=3403321&th=1&linkCode=ll1&tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher. I would recommend purchasing a [separate mount]({{ site.constants.wsib }}/gps bike mount) for this, which should cost around $15 [check #WhereShouldIBuy to find good priced options]({{ site.constants.wsib }}/). Even with the extra mount, this is still an exceptional price for a full-color bike computer with so many features.
 
-[Also check for offers in our sister site]({{ {{ site.constants[0].wsib }}/iGPSPORT iGS630 }}). Also if you are interested in using it in a trainer would be interesting for you to [check our review of the Minoura B60-R]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%}) or even in virtual mode [check our review of zwift]({%- post_url 2023-02-20-zwift-review-analysis-virtual-cycling-platform -%}).
+[Also check for offers in our sister site]({{ site.constants.wsib }}/iGPSPORT iGS630 }}). Also if you are interested in using it in a trainer would be interesting for you to [check our review of the Minoura B60-R]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%}) or even in virtual mode [check our review of zwift]({%- post_url 2023-02-20-zwift-review-analysis-virtual-cycling-platform -%}).
 
 [And our review of the latest Garmin Edge 540 which has also a solar version.]({%- post_url 2023-07-06-garmin-edge-540-review -%})
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Top 10 Features We Want to See in Fallout 5"
 description: "Top Features We Want in Fallout 5 - A wishlist and discussion of desired features for the upcoming Fallout 5 game."
 date:   2023-01-22 17:00:00 +0200
@@ -9,7 +9,7 @@ tags:
 last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
-[![fallout 5 concept](https://i.imgur.com/Zlh3HpLm.png){: style="float: right;"}]({{ site.constants[0].wsib }}/fallout 5)
+[![fallout 5 concept](https://i.imgur.com/Zlh3HpLm.png){: style="float: right;"}]({{ site.constants.wsib }}/fallout 5)
 
 Are you ready for the next chapter in the Fallout series? Fallout 5 promises to take the open-world gameplay of its predecessors to a whole new level. From improved graphics and visuals to a more dynamic open-world environment, and a more robust crafting system, this game is set to raise the bar for post-apocalyptic RPG's. [We already envision what Fallout 4 should have many years before it was released]({%- post_url 2012-04-12-fallout-4-problems-to-overcome-and-what-should-we-expect -%}), now join us as we take a look at the top 10 features that we believe should be included in Fallout 5 to make it the ultimate gaming experience.
 

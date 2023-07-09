@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Easy ways of making some extra cash online"
 date: '2012-07-15T07:01:00.000+02:00'
 tags:

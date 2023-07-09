@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Don't be lazy and use different passwords for your important accounts
 date: '2013-01-31T20:03:00.000+01:00'
 tags:
@@ -42,6 +42,6 @@ What can I do if I have an account on Yahoo Voices
 
 ![Hacking: The Art of Exploitation, 2nd Edition](https://m.media-amazon.com/images/I/61WRz4V+ADL._SL160_.jpg)
 
-Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.com/dp/1593271441?tag={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
+Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.com/dp/1593271441?tag={{ site.constants.amazon_com }}&linkCode=ogi&th=1&psc=1)
 
-[Buy Now](https://www.amazon.com/dp/1593271441?tag={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
+[Buy Now](https://www.amazon.com/dp/1593271441?tag={{ site.constants.amazon_com }}&linkCode=ogi&th=1&psc=1)

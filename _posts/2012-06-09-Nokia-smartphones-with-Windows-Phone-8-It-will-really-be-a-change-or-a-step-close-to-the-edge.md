@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Nokia smartphones with Windows Phone 8: It will really be a change or a step close to the edge?"
 date: '2012-06-09T07:01:00.000+02:00'
 tags:
@@ -25,9 +25,9 @@ For *Nokia* and Microsoft, the *Lumia 920* represents a great opportunity to gai
 
 ![Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black](https://m.media-amazon.com/images/I/4184wfU4i3L._SL500_.jpg)
 
-Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black](https://www.amazon.com/dp/B00KM10ITK?tag={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
+Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black](https://www.amazon.com/dp/B00KM10ITK?tag={{ site.constants.amazon_com }}&linkCode=ogi&th=1&psc=1)
 
-[ Buy Now](https://www.amazon.com/dp/B00KM10ITK?tag={{ site.constants[0].amazon_com }}&linkCode=ogi&th=1&psc=1)
+[ Buy Now](https://www.amazon.com/dp/B00KM10ITK?tag={{ site.constants.amazon_com }}&linkCode=ogi&th=1&psc=1)
 
 ![The frame where we can see the camera man on the caravan reflection](https://usercontent2.hubstatic.com/7123905_f496.jpg "The frame where we can see the camera man on the caravan reflection")
 

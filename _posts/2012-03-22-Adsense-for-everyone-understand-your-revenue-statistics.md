@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Adsense explained for everyone: understand your revenue statistics"
 date: '2012-03-22T07:01:00.000+02:00'
 tags:
@@ -8,7 +8,7 @@ tags:
 last_modified_at: '2013-05-13T11:59:03.181+01:00'
 ---
 
-[![Example of indicators](https://i.imgur.com/teAzmHl.png){: style="float: right;"}]({{ site.constants[0].wsib }}/Google AdSense)
+[![Example of indicators](https://i.imgur.com/teAzmHl.png){: style="float: right;"}]({{ site.constants.wsib }}/Google AdSense)
 
 It all started with the question: *How can I increase my RPM in Adsense?*, I saw that I did not understand what many of the terms are so I have been doing some research on the meaning of the **Adsense ****reports****.** When we enter at our **Adsense** page, assuming we have an account, we see our home tab with an overview were we can see some **concepts** that if we haven't researched or read about, we won't acknowledge.
 

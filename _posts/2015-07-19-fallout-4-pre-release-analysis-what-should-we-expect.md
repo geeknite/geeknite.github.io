@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Fallout 4, pre-release analysis, what should we expect
 date: '2015-07-19T21:23:00.000+02:00'
 author: Fernando
@@ -10,7 +10,7 @@ last_modified_at: '2016-05-14T20:44:16.199+02:00'
 thumbnail: https://2.bp.blogspot.com/-AoSWfRhQQxg/VaqXxSJW6GI/AAAAAAAAAnA/E4LFfuukKMY/s72-c/fallout-4-logo%255B1%255D.JPG
 ---
 
-<a class="image-link" href="{{ site.constants[0].wsib }}/us/fallout%204" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">
+<a class="image-link" href="{{ site.constants.wsib }}/us/fallout%204" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">
     <img border="0" height="165" src="https://2.bp.blogspot.com/-AoSWfRhQQxg/VaqXxSJW6GI/AAAAAAAAAnA/E4LFfuukKMY/s320/fallout-4-logo%255B1%255D.JPG" width="320" />
 </a>
 
@@ -37,7 +37,7 @@ But on the other hand also from the gameplay video there's a big difference when
 
 ### Pip-Boy
 
-We loved the real Pip-Boy from the [Fallout 4 Collector's Edition]({{ site.constants[0].wsib }}/us/Fallout%204%20-%20Pip-Boy%20Edition), but there are some major changes that we could see in the Microsoft gameplay conference. The most groundbraking change is that the skills tab has been removed and from the weapon crafting we can see that some combination depend on perks. I liked the challenge based perks from Fallout New Vegas, but it should have a better sorting and UI for them. Also we have to see how these perks are acquired, if only by level or by skill use like Skyrim. We will see if the traits are still there, one of the most unique features of the Fallout saga.  
+We loved the real Pip-Boy from the [Fallout 4 Collector's Edition]({{ site.constants.wsib }}/us/Fallout%204%20-%20Pip-Boy%20Edition), but there are some major changes that we could see in the Microsoft gameplay conference. The most groundbraking change is that the skills tab has been removed and from the weapon crafting we can see that some combination depend on perks. I liked the challenge based perks from Fallout New Vegas, but it should have a better sorting and UI for them. Also we have to see how these perks are acquired, if only by level or by skill use like Skyrim. We will see if the traits are still there, one of the most unique features of the Fallout saga.  
   
 One of my greatest complaint of my 2012 article was the inventory, I love RPG and I like'em to be the most realistic possible, of course, in a way that does not affects the gameplay, and a limited inventory would be a great step up in realism and game decisions. Many new games depend on a limited and realistic inventory, like MGS V that only lets you take 2 weapons and you can choose before mission, or in a Fallout could be a safe-house, the same goes for Far Cry 3 or 4. Also I loved the Last of Us limited usable weapons and accessing the inventory to change them was time consuming so you could not change in battle time, this system could be more applicable to a game like Fallout. Improvements in the food and thirst system would be necessary too. Also as a graphical feature weapon holster would be necessary.  
   

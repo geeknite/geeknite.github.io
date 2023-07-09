@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Prepare for Black Friday in 2022"
 date:   2022-11-05 17:00:00 +0200
 tags: smartshopping black-friday
@@ -11,7 +11,7 @@ We already talked a few years ago [how to prepare for Black Friday]({% post_url 
 
 During Black Friday, you don't have to go to an "official" store to buy the latest game or gadget. The internet has become a free store that allows you to purchase everything from the comfort of your home, wherever you are. Many stores are opting now for more days of offers, [amazon for example has around 10 days with offers](https://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&linkId=E3JCOPRWJFHIP2PV&tag=%7B%7B%20site.constants%5B0%5D.amazon_com%20%7D%7D&linkId=Z6HW7WG5Z73QGVTE){: rel="nofollow"}, but many people expect for the big deals on Friday, which we will see if there are many or not.
 
-This gives the opportunity to shop from the comfort of your home without rushes. You have the time to compare and check if the offers is good enough for you, or even find [the best deals on the internet]({{ site.constants[0].wsib }}).
+This gives the opportunity to shop from the comfort of your home without rushes. You have the time to compare and check if the offers is good enough for you, or even find [the best deals on the internet]({{ site.constants.wsib }}).
 
 Tips for Smart Shopping
 -----------------------
