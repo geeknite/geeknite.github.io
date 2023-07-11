@@ -336,7 +336,7 @@ compress_html:
 
 
 constants:
-  amazon_es: "eltrastdelgam-21"
+  amazon_es: "pkm022-21" #geeknite .es
   amazon_com: "gkx09-20" #amkioze
   amazon_it: "gkx09-21" #amkioze
   amazon_uk: "kxl-21" #amkioze
