@@ -1,5 +1,4 @@
 ---
-
 title: "Things to Look for in Next Prime Day: Great Deals on Bike Gadgets"
 date: 2023-07-04 10:00:00 +0200
 tags:
@@ -8,7 +7,8 @@ tags:
 - Cycling
 - Gadgets
 - Deals
-description: "Are you a cycling enthusiast looking for great deals on bike gadgets this Prime Day? Read on to discover what to look for and get ready to upgrade your cycling experience with amazing deals on the latest gadgets."
+last_modified_at: '2023-07-18T00:00:00+02:00'
+description: "Are you a cycling enthusiast looking for great deals this Prime Day? Read on to discover what to look for with amazing deals on the latest gadgets"
 ---
 
 [![Cycling deals](https://i.imgur.com/UmrVWy4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}/cycling)
