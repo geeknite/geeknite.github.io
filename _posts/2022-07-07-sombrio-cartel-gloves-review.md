@@ -5,6 +5,8 @@ description: "A funny and engaging review of the Sombrio Cartel Gloves, a high-q
 date: 2022-07-07
 ---
 
+[![Sombrio cartel gloves](https://i.imgur.com/Lqgv6Pzm.png){: .align-right}]({{ site.constants.wsib }}/Sombrio cartel gloves)
+
 If you're like me, you love mountain biking. You love the thrill of riding on rough terrain, the adrenaline of jumping over obstacles, the freedom of exploring new trails. But you also know that mountain biking can be hard on your hands. You need gloves that can protect your palms from blisters, your fingers from cuts and scrapes, and your knuckles from bruises. You also want gloves that fit well, feel comfortable, and look awesome.
 
 That's why I love the **Sombrio Cartel Gloves**. They are hands down (pun intended) the best gloves I've ever tried for mountain biking. And I've tried a lot. In this blog post, I'll tell you why I think these gloves are so great, and why you should get them too.
