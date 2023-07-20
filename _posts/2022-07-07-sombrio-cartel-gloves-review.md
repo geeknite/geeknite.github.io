@@ -3,6 +3,7 @@ title: "Why I love the Sombrio Cartel Gloves and you should too"
 tags: mountain biking, gloves, sombrio, review
 description: "A funny and engaging review of the Sombrio Cartel Gloves, a high-quality and cool alternative for mountain bikers who want to protect their hands and look good."
 date: 2022-07-07
+last_modified_at: '2023-07-20T00:00:00+02:00'
 ---
 
 [![Sombrio cartel gloves](https://i.imgur.com/Lqgv6Pzm.png){: .align-right}]({{ site.constants.wsib }}/Sombrio cartel gloves)
@@ -42,7 +43,6 @@ I've tried many other gloves for mountain biking, but none of them compare to th
 
 If you're interested in getting the Sombrio Cartel Gloves, you can find them online or in some local bike shops. Here are some links to help you:
 
-- Sombrio's official website: https://www.sombriocartel.com/
 - Foxxs.net, a shopping site for mountain biking gear: https://www.foxxs.net/sombrio-cartel-gloves
 - Geeknite, a blog for mountain biking enthusiasts: https://geeknite.github.io/2023/07/prime-day-bike-gadgets-accesories.html
 
