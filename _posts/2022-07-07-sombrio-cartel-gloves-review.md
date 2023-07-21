@@ -43,7 +43,7 @@ I've tried many other gloves for mountain biking, but none of them compare to th
 
 If you're interested in getting the Sombrio Cartel Gloves, you can find them online or in some local bike shops. Here are some links to help you:
 
-- Foxxs.net, a shopping site for mountain biking gear: https://www.foxxs.net/sombrio-cartel-gloves
+- Foxxs.net, a shopping site for mountain biking gear: {{ site.constants.wsib }}/sombrio-cartel-gloves
 - Geeknite, a blog for mountain biking enthusiasts: https://geeknite.github.io/2023/07/prime-day-bike-gadgets-accesories.html
 
 You can also check out some of my other blog posts on Geeknite, where I review and recommend other mountain biking products and accessories. Here are some of them:

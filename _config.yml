@@ -344,6 +344,8 @@ constants:
   amazon_de: "kvl-21" #amkioze
   wsib: "https://www.foxxs.net"
   num_recent: 5
+  youtube: {{ site.constants.youtube }}
+  twitch: {{ site.constants.twitch }}
 
 # Exclude from processing.
 # The following items will not be processed, by default.

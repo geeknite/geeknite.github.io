@@ -3,7 +3,7 @@ title: "Persona 5 Royal: A Whimsical Journey Through the Heart of Gaming"
 tags: [gaming, Persona 5 Royal, review, RPG, video games]
 description: "Dive into the captivating world of Persona 5 Royal a game that takes you on a rollercoaster of emotions, unparalleled gameplay, and a journey you won't forget"
 date: 2022-04-23
-last_modified_at: '2023-07-20T00:00:00+02:00'
+last_modified_at: '2023-07-21T00:00:00+02:00'
 ---
 
 Ahoy, fellow gamers! Today, we're setting sail on a hilarious adventure through the metaverse of Persona 5 Royal! Buckle up, as we embark on a journey filled with laughter, excitement, and plenty of *winks* for those who appreciate an awesome gaming experience.
@@ -44,13 +44,13 @@ The social simulation aspect of the game gives it an edge over its competitors, 
 
 ## **Twitch Live and YouTube Fun**
 
-For all those who love **turn-based gaming sessions**, we've got a treat for you! Join us on [XOCMetal's Twitch channel](https://www.twitch.tv/xocmetal) for some thrilling live streams that will keep you at the edge of your seat. Who knows, you might even catch them playing Persona 5 Royal and witnessing their hilarious reactions in real-time!
+For all those who love **turn-based gaming sessions**, we've got a treat for you! Join us on [XOCMetal's Twitch channel]({{ site.constants.twitch }}) for some thrilling live streams that will keep you at the edge of your seat. Who knows, you might even catch them playing Persona 5 Royal and witnessing their hilarious reactions in real-time!
 
-Can't get enough of XOCMetal's gaming adventures? Head over to [their YouTube channel](https://www.youtube.com/@xocmetal) for all the exciting videos, including an epic Persona 5 Royal playthrough that will leave you in stitches!
+Can't get enough of XOCMetal's gaming adventures? Head over to [their YouTube channel]({{ site.constants.youtube }}) for all the exciting videos, including an epic Persona 5 Royal playthrough that will leave you in stitches!
 
 ## **Gamer's Paradise: Foxxs.net**
 
-Now that we've piqued your interest in *Persona 5 Royal*, it's time to take action! Experience the magic of the game by getting your own copy from [Foxxs.net](https://www.foxxs.net/). They offer a **gamer's paradise** filled with fantastic deals on all the latest and greatest video games.
+Now that we've piqued your interest in *Persona 5 Royal*, it's time to take action! Experience the magic of the game by getting your own copy from [Foxxs.net]({{ site.constants.wsib }}/). They offer a **gamer's paradise** filled with fantastic deals on all the latest and greatest video games.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-
 title: "Garmin Edge 540: The Ultimate Bike Computer for Solar Power Lovers"
 tags: garmin, edge, solar, bike, computer, review, gps
 date: 2023-07-06 00:00:00 +0200
 description: A detailed and funny review of the new Garmin Edge 540 bike computer, comparing the normal and solar versions, and how they stack up against other alternatives.
+last_modified_at: '2023-07-21T00:00:00+02:00'
 ---
 
 [![Garmin edge 540](https://i.imgur.com/aSMZ6cxm.jpg){: .align-right}]({{ site.constants.wsib }}/garmin edge 540)
