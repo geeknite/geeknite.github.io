@@ -1,11 +1,13 @@
 ---
-
 title: My blog got disabled. How you should restore it
 date: '2018-09-10T15:39:00.000+02:00'
 tags:
 - ramblings
 - howto
-last_modified_at: '2018-09-10T15:39:04.399+02:00'
+- blogger
+- google
+- development
+last_modified_at: '2023-07-24T00:00:00+02:00'
 ---
 
 <a href='{{ site.constants.wsib }}/spam'><img style="float: right;" src="https://i.imgur.com/uPjzkRU.jpg"></a>
@@ -40,7 +42,7 @@ In your question you should include **your blog's URL**, **the date you received
 
 <a href='post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying'><img style="float: right;" src="https://i.imgur.com/xNrkIWG.png"></a>
 
-After all these inconveniences our blog is online and working ok now, our thoughts are a little wary of what really happened with the spamming process and why it triggered right now. Our blog has only a good visited post which by chance is critic to a product, [our comparison between the Edge 500 and the new Edge 520]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 -%}), **that criticisms a new product that really does not offer any good improvement over an old product of the same company**.  
+After all these inconveniences our blog is online and working ok now, our thoughts are a little wary of what really happened with the spamming process and why it triggered right now. Our blog has only a good visited post which by chance is critic to a product, [our comparison between the Edge 500 and the new Edge 520]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%}), **that criticisms a new product that really does not offer any good improvement over an old product of the same company**.  
   
 There are many people online that think that blogger disabling blogs may be caused for abuse of the _Flag Blog_ button, but as Blogger claims that just brings the blog to the attention of a human that reviews the content. Maybe that "human" thought that our blog contained too many links and product promotions, but as you can see **most of our product posts have a critic side**. All this happens because we can't afford a personalized host yet, until we can reach a small amount, **if you want to help us you can buy at amazon through our links and [contact page](/contact.html).**  
   

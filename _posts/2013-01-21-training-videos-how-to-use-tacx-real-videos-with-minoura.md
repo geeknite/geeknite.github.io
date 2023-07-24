@@ -1,8 +1,6 @@
 ---
-
 title: 'Training videos: how to use Tacx real videos with a Minoura B60-R'
 date: '2013-01-21T03:30:00.000+01:00'
-author: Fernando
 tags:
 - sports
 - trainer
@@ -10,8 +8,8 @@ tags:
 - bike
 - tacx
 - videos
-last_modified_at: '2023-07-06T00:00:00+02:00'
-description: "Training Videos: How to Use Tacx Real Videos with Minoura Trainers - A guide explaining how to effectively use Tacx Real Videos with Minoura trainers."
+last_modified_at: '2023-07-24T00:00:00+02:00'
+description: "Training Videos: How to Use Tacx Real Videos with Minoura Trainers - A guide explaining how to effectively use Tacx Real Videos with Minoura trainers"
 
 ---
 
@@ -31,4 +29,4 @@ I also want to try some other videos, I will be posting soon. Here you got some 
 <iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id={{ site.constants.amazon_uk }}&amp;marketplace=amazon&amp;region=GB&amp;placement=B0044CPQK4&amp;asins=B0044CPQK4&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" style="height: 240px; width: 120px;"></iframe>
 <iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=GB&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=keymuck07f-21&amp;marketplace=amazon&amp;region=GB&amp;placement=B004N9DJAC&amp;asins=B004N9DJAC&amp;linkId=&amp;show_border=true&amp;link_opens_in_new_window=true" style="height: 240px; width: 120px;"></iframe>
 
-And remember that you can configure [your Garmin Edge 500]( {%- post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 -%}) to see your speed deactivating the GPS when you are on your trainer, [mine a Minoura B60-R]( {%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%})
+And remember that you can configure [your Garmin Edge 500]( {%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%}) to see your speed deactivating the GPS when you are on your trainer, [mine a Minoura B60-R]( {%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%})

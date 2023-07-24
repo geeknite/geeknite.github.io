@@ -1,8 +1,6 @@
 ---
-
 title: Dónde comprar un Nokia Lumia 920 desde España
 date: '2013-02-03T12:00:00.000+01:00'
-author: Fernando
 tags:
 - español
 - nokia
@@ -12,8 +10,7 @@ tags:
 - spain
 - microsoft
 - deals
-last_modified_at: '2018-10-02T10:50:48.738+02:00'
-blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-3562168281576332729
+last_modified_at: '2023-07-24T00:00:00+02:00'
 ---
 
 [![](https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DAS0DSI&Format=_SL250_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag={{ site.constants.amazon_fr }}){: style="float: right;"}](https://www.amazon.fr/gp/product/B00DAS0DSI/ref=as_li_ss_il?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00DAS0DSI&linkCode=as2&tag={{ site.constants.amazon_fr }}){: rel="nofollow"} ![](https://ir-fr.amazon-adsystem.com/e/ir?t={{ site.constants.amazon_fr }}&l=as2&o=8&a=B00DAS0DSI)
@@ -24,7 +21,7 @@ Ya desde un principio me dijo que no quería comprarlo en _Vodafone_, total **pa
 
 Aunque no me hizo caso y lo pidió sin pensárselo mucho, supongo porque tenía _el ansia_, [le dije que siguiera mis consejos para comprar en amazon desde España]({%- post_url 2013-01-24-recomendaciones-comprar-amazon-espana -%}) ya que se podía haber ahorrado algún dinerillo, no mucho pero algo, dado los precios de gama alta.
 
-Total que he hecho yo el trabajo para los que estén pensando en comprárselo, os dejo esta tabla donde he puesto el precio final en cada uno de los amazon europeos dónde se puede comprar éste teléfono, utilizando [#WhereToBuy]({{ site.constants.wsib }}) se hace en un plis:
+Total que he hecho yo el trabajo para los que estén pensando en comprárselo, os dejo esta tabla donde he puesto el precio final en cada uno de los amazon europeos dónde se puede comprar éste teléfono, utilizando [{{ site.constants.wsibName }}]({{ site.constants.wsib }}) se hace en un plis:
 
 | | precio | envío | total | cambio | en € |
 | [amazon.com ($)](https://www.amazon.com/gp/product/B00A2V7BA4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A2V7BA4&linkCode=as2&tag={{ site.constants.amazon_com }}){: rel="nofollow"} | [449,99](https://www.amazon.com/gp/product/B00A2V7BA4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A2V7BA4&linkCode=as2&tag={{ site.constants.amazon_com }}){: rel="nofollow"} | [N/A](https://www.amazon.com/gp/product/B00A2V7BA4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A2V7BA4&linkCode=as2&tag={{ site.constants.amazon_com }}){: rel="nofollow"} |  | |  |
@@ -42,7 +39,7 @@ Total que he hecho yo el trabajo para los que estén pensando en comprárselo, o
 
 Si estáis pensando en comprar alguno de estos móviles y nuestro blog os ha sido útil podéis usar nuestros links para comprarlo o podéis probar [nuestra nueva aplicación para windows](https://wmhomepage.apphb.com/) para hacer un seguimiento de los precios y ver su evolución.
 
-Recordad que a des de siempre os recomendamos utilizar [#WhereToBuy]({{ site.constants.wsib }}) para comprar al mejor precio, para poder comparar precios de forma rápida.
+Recordad que a des de siempre os recomendamos utilizar [{{ site.constants.wsibName }}]({{ site.constants.wsib }}) para comprar al mejor precio, para poder comparar precios de forma rápida.
 
 Eso es todo, si compráis con mis enlaces os estaré eternamente agradecidos ;)\
 **Muchas gracias!**

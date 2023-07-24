@@ -1,6 +1,5 @@
 ---
-
-title: Mi equipación favorita para MTB 2016. Ideas para regalos a ciclistas
+title: Mi equipación favorita para MTB. Ideas para regalos a ciclistas
 date: '2016-04-27T13:29:00.000+02:00'
 tags:
 - español
@@ -12,8 +11,8 @@ tags:
 - recomendaciones
 - favourite
 - cycling
-last_modified_at: '2023-07-06T00:00:00+02:00'
-description: "Mi Equipación Favorita MTB 2016: Ideas Regalos Ciclistas - Personal recommendations and gift ideas for mountain biking enthusiasts, featuring the favorite gear of 2016."
+last_modified_at: '2023-07-24T00:00:00+02:00'
+description: "Mi Equipación Favorita MTB: Ideas Regalos Ciclistas - Personal recommendations and gift ideas for mountain biking enthusiasts, featuring the favorite gear of 2016"
 ---
 
 Ya son muchos años encima de la bici y desde hace poco intentando subsistir a partir de mi afición por el_MTB_**abriendo un pequeño_taller online_** todavía nos quedan muchas [bicicletas soñadas]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}). Desde hace años que el MTB se ha convertido en una especialidad cada vez más diferenciada de la bicicleta de carretera, cada vez vemos que la lycra se lleva menos, los cascos son cada vez más diferentes y los pantalones anchos con rodilleras son una necesidad. Y es que está claro que nos movemos en terrenos distintos, nuestras habilidades tienen que ser diferentes y como tal también nuestro equipo.  
@@ -34,7 +33,7 @@ Estas recomendaciones no son esponsorizadas ni publicidad encubierta, **todo el 
 
 * **Rodilleras**: Nunca he sido muy ferviente admirador de las rodilleras por lo poco cómodas que suelen ser para pedalear, pero desde que practico el enduro, a mi nivel, he tenido que pasar por el aro, aunque las [Fox Launch Pro]({{ site.constants.wsib }}/es/fox%20launch%20pro?c=es) encuentro que son muy buenas por resistencia, comodidad y precio, seguramente podemos encontrar opciones más ligeras para prácticas menos peligrosas como pueden ser estas [Nukeproof Enduro](https://ad.zanox.com/ppc/?37368613C2015662025T&ULP=[[https://www.chainreactioncycles.com/es/es/rodilleras-ligeras-nukeproof-critical-enduro/rp-prod132015]]){: rel="nofollow"} que ofrecen menos protección pero más comodidad.  
 
-* **GPS**: Desde que compré un [Garmin Edge 500]({{ site.constants.wsib }}/es/garmin%20edge%20500) para guardar y seguir rutas descargadas es difícil hacer deporte sin algún tipo de medición o sin subirlo a [Strava]( {%- post_url 2013-09-30-strava-vs-garmin-connect-review-of-best-track-analyzers -%})). Aunque ahora mi Garmin Edge ya está un poco viejete, y [no lo cambiaría por otro]( {%- post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 -%}) se nota el uso, culpa mía por usarlo en rutas de senderismo y llevarlo en la mano, hay opciones más modernas y mejoradas como el [Garmin Edge 520]({{ site.constants.wsib }}/es/garmin%20edge%20520) que estoy pensando en comprar. También tengo un [Garmin Forerunner 620]({{ site.constants.wsib }}/garmin%20forerunner%20620) que aunque no está pensado para ir en bici nos puede servir para salir del paso.  
+* **GPS**: Desde que compré un [Garmin Edge 500]({{ site.constants.wsib }}/es/garmin%20edge%20500) para guardar y seguir rutas descargadas es difícil hacer deporte sin algún tipo de medición o sin subirlo a [Strava]({%- post_url 2013-09-30-strava-vs-garmin-connect-review-of-best-track-analyzers -%}). Aunque ahora mi Garmin Edge ya está un poco viejete, y [no lo cambiaría por otro]( {%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%}) se nota el uso, culpa mía por usarlo en rutas de senderismo y llevarlo en la mano, hay opciones más modernas y mejoradas como el [Garmin Edge 520]({{ site.constants.wsib }}/es/garmin%20edge%20520) que estoy pensando en comprar. También tengo un [Garmin Forerunner 620]({{ site.constants.wsib }}/garmin%20forerunner%20620) que aunque no está pensado para ir en bici nos puede servir para salir del paso.  
 
 * **Mochila de hidratación**: Para rutas largas y en verano tener una mochila con sistema de hidratación es una necesidad, nos permite llevar más líquido y más protegido del sol, aunque no tenemos que descartar los bidones. Para las rutas largas o días en que tengo que llevar bastante equipo me encanta mi [Dakine AMP 24L]({{ site.constants.wsib }}/es/five%20ten) que incluye una bolsa [Hydrapak]({{ site.constants.wsib }}/es/Hydrapak), mis favoritas. Tiene multitud de bolsillos para organizar herramientas, protector de lluvia, sitio para colgar el casco y mucho espacio. Para rutas más cortas tengo una [Osprey Viper 9]({{ site.constants.wsib }}/Osprey%20viper) que ya recomendé en [mi equipo para correr]({%- post_url 2015-01-19-my-favourite-2015-running-gear-best-gifts-for-runners -%}), aunque muchas veces la utilizo sin bolsa de agua por la costumbre de llevar la mochila.  
 

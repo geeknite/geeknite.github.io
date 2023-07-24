@@ -1,13 +1,12 @@
 ---
-
 title:  "10 recomendaciones para comprar en Ebay desde España"
 date:   2016-01-20 17:00:00 +0200
 tags: ebay españa español europe smartshopping
-description: "Recomendaciones para comprar en eBay desde España - Consejos útiles y recomendaciones para compradores españoles que utilizan eBay."
-last_modified_at: '2023-07-06T00:00:00+02:00'
+description: "Recomendaciones para comprar en eBay desde España - Consejos útiles y recomendaciones para compradores españoles que utilizan eBay"
+last_modified_at: '2023-07-24T00:00:00+02:00'
 ---
 
-<a rel="nofollow" href='https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_ff3=1&pub=5575077854&toolid=10001&campid=5337456056&customid=&ipn=psmain&icep_vectorid=229501&kwid=902099&mtid=824&kw=lg'><img style="float: right;" src="https://i.imgur.com/uSjeFllm.jpg"></a>
+<a rel="nofollow" href='https://i.imgur.com/x30lbbLm.png'><img style="float: right;" src="https://i.imgur.com/uSjeFllm.jpg"></a>
 
 Para quien no conozca [***Ebay***](https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_ff3=1&pub=5575077854&toolid=10001&campid=5337456056&customid=&ipn=psmain&icep_vectorid=229501&kwid=902099&mtid=824&kw=lg){: rel="nofollow"}, es uno de los mercadillos online más grandes y conocidos del mundo, por lo que *Ebay* no vende directamente sino que sirve como aparador para que cualquiera pueda vender cualquier producto, de forma que como comprador tengas ciertas garantías proporcionadas por *Ebay* como responsable de los productos vendidos online. Cabe destacar que tras mi experiencia en compras online es una de mis tiendas favoritas donde encontrar cualquier cosa, sobretodo para pequeñas compras, como por ejemplo [cables]({{ site.constants.wsib }}/es/cables) o una [funda para móvil]({{ site.constants.wsib }}/es/funda%20movil), o también para compras importantes y que preferimos ahorrar con un producto de segunda mano a buen precio aprovechando una buena puja, por ejemplo cuando buscaba una [*PS3* de segunda mano](/2013/12/compro-ps3-de-segunda-mano-en-espana.html).
 
@@ -17,7 +16,7 @@ Os dejo una lista de recomendaciones que os puedo dar por mis experiencias compr
 
 1. Ebay funciona diferente a [amazon](https://www.amazon.es/?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&tag={{ site.constants.amazon_es }}){: rel="nofollow"} por lo que desde [*Ebay.es*](https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_ff3=1&pub=5575077854&toolid=10001&campid=5337456056&customid=&ipn=psmain&icep_vectorid=229501&kwid=902099&mtid=824&kw=lg){: rel="nofollow"} **podemos comprar productos de vendedores de todo el mundo**, por lo que desde *Ebay* mismo podemos filtrar los productos que busquemos según si queremos que el vendedor sea de España o pueda ser internacional. Recomendable comprar a vendedores de España sobretodo teniendo pensando en reclamaciones o devoluciones.
 
-2. A diferencia de amazon, en *Ebay* a veces perdemos la referencia de qué valor tiene un producto, sobretodo con los productos de segunda mano, para ello la mejor opción es tener a mano [#WhereToBuy]({{ site.constants.wsib }}/?c=es), una herramienta para **buscar y comparar precios rápidamente entre los diferentes amazon y *Ebay* de forma visual y sencilla**.
+2. A diferencia de amazon, en *Ebay* a veces perdemos la referencia de qué valor tiene un producto, sobretodo con los productos de segunda mano, para ello la mejor opción es tener a mano [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/?c=es), una herramienta para **buscar y comparar precios rápidamente entre los diferentes amazon y *Ebay* de forma visual y sencilla**.
 
 3. En *Ebay* hay que ir con cierto cuidado antes de pujar, ya que una vez has pujado te comprometes a comprar el producto si ganas la puja. Por ello es muy recomendable antes de pujar comprobar bien **los gastos de envío, la descripción del producto, los métodos de pago y si se aceptan devoluciones**. Recuerda que el pago es posterior a la puja o al compromiso de compra para un producto en venta directa (*comprar ya*) aunque hay unos días tope para realizar el pago, en los que si no se cumple el vendedor realizará una reclamación a *Ebay*.
 

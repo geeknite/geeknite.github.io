@@ -1,13 +1,13 @@
 ---
-
 title:  "Strava vs Garmin Connect. A review of the best gps track analyzers"
 date:   2013-09-30 17:00:00 +0200
 tags: strava garmin review gps
+last_modified_at: '2023-07-24T00:00:00+02:00'
 ---
 
 <a href='{{ site.constants.wsib }}/garmin%20edge'><img style="float: right;" src="https://i.imgur.com/talvj6sm.jpg"></a>
 
-After getting [my Garmin Edge 500]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 -%}) I have been experimenting with many online services and applications to analyze the tracks that I recorded. After trying some windows applications all that I tried looked old and did not offer anything that other online and free services didn't offer.
+After getting [my Garmin Edge 500]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%}) I have been experimenting with many online services and applications to analyze the tracks that I recorded. After trying some windows applications all that I tried looked old and did not offer anything that other online and free services didn't offer.
 
 As a Garmin user, you will be first drawn to try [Garmin Connect]({{ site.constants.wsib }}/garmin%20connect), the Garmin online service, which lately is being improved because **other service are getting ahead of it**. This is also the place to get updates for your GPS device.\
 Good points:
@@ -46,12 +46,12 @@ But if you are a professional or enthusiast and the $6/month is not a problem fo
 
 Remember that to use Strava and Garmin Connect you need a GPS device, we have written a couple of articles comparing some [Garmin Edge]({{ site.constants.wsib }}/garmin%20edge) models, the ones special for biking:
 
-- [Garmin Edge 1000 vs 810 review comparison. Top bike GPS with maps and routes]( {%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%}))
-- [Garmin Edge 500 vs Edge 520 review comparison. Should I stay with the Edge 500?]({% post_url 2013-01-14-garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500 %})
+- [Garmin Edge 1000 vs 810 review comparison. Top bike GPS with maps and routes]( {%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%})
+- [Garmin Edge 500 vs Edge 520 review comparison. Should I stay with the Edge 500?]({% post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 %})
 
 Also try [Motivate](https://motivate.apphb.com/) a free web app that integrates with Strava to get extra stats and features.
 
-Here you can check the prices of some of my favorite sports GPS or also compare prices on [#WhereToBuy]({{ site.constants.wsib }}/):
+Here you can check the prices of some of my favorite sports GPS or also compare prices on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/):
 
 If you found this post interesting or useful, please, share it on your social networks to make it useful for more people**.**\
 **Thanks for reading!**

@@ -1,5 +1,4 @@
 ---
-
 title: Minoura B60-R magnetic trainer (3620091) review. The best for the money
 date: '2013-01-12T09:00:00.000+01:00'
 author: Fernando
@@ -14,8 +13,8 @@ tags:
 - trainer
 - review
 - cycling
-last_modified_at: '2023-07-06T00:00:00+02:00'
-description: "Minoura B60-R Magnetic Trainer Review: Best for the Money - Review and evaluation of the Minoura B60-R magnetic trainer,highlighting its value for money."
+last_modified_at: '2023-07-24T00:00:00+02:00'
+description: "Minoura B60-R Magnetic Trainer Review: Best for the Money - Review and evaluation of the Minoura B60-R magnetic trainer,highlighting its value for money"
 ---
 
 [![](https://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL160_&ASIN=B0040J7HAS&MarketPlace=US&ID=AsinImage&WS=1&tag={{ site.constants.amazon_com }}&ServiceVersion=20070822){: style="float: right;"}]({{ site.constants.wsib }}/minoura%20b60-r)![](https://www.assoc-amazon.com/e/ir?t={{ site.constants.amazon_com }}&l=as2&o=1&a=B0040J7HAS){: rel="nofollow"}
@@ -71,5 +70,5 @@ If you are concerned about your training or as a recovery method without breakin
 * If you are in for non smart trainers there are many brands available with similar specs like [CycleOps]({{ site.constants.wsib }}/us/Cycleops),[Elite]({{ site.constants.wsib }}/us/elite%20indoor%20trainer)
 * If you are most interested in smart trainers with slope simulation and online competition like [Tacx trainers]({{ site.constants.wsib }}/us/tacx%20trainers)
 
-If you are considering buying any of these trainers on amazon consider doing it through our links or you can try [#WhereToBuy]({{ site.constants.wsib }}/) to find the best prices for this trainers comparing Amazon and Ebay.  
+If you are considering buying any of these trainers on amazon consider doing it through our links or you can try [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/) to find the best prices for this trainers comparing Amazon and Ebay.  
 **Thanks for reading!**  
