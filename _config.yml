@@ -91,7 +91,7 @@ analytics:
 
 # Site Author
 author:
-  name             : \#Foxxs # *name is a YAML reference pointing to the &anchor earlier
+  name             : "#Foxxs" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : #"A small team of diverse people"
   location         : # "Barcelona"
@@ -343,9 +343,11 @@ constants:
   amazon_fr: "krv-21" #amkioze
   amazon_de: "kvl-21" #amkioze
   wsib: "https://www.foxxs.net"
+  wsibName: "#Foxxs"
   num_recent: 5
   youtube: {{ site.constants.youtube }}
   twitch: {{ site.constants.twitch }}
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
