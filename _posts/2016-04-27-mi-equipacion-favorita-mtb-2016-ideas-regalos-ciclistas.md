@@ -12,7 +12,7 @@ tags:
 - favourite
 - cycling
 last_modified_at: '2023-07-24T00:00:00+02:00'
-description: "Mi Equipación Favorita MTB: Ideas Regalos Ciclistas - Personal recommendations and gift ideas for mountain biking enthusiasts, featuring the favorite gear of 2016"
+description: "Mi Equipación Favorita MTB: Ideas Regalos Ciclistas - Personal recommendations and gift ideas for mountain biking enthusiasts, featuring my favorite gear"
 ---
 
 Ya son muchos años encima de la bici y desde hace poco intentando subsistir a partir de mi afición por el_MTB_**abriendo un pequeño_taller online_** todavía nos quedan muchas [bicicletas soñadas]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}). Desde hace años que el MTB se ha convertido en una especialidad cada vez más diferenciada de la bicicleta de carretera, cada vez vemos que la lycra se lleva menos, los cascos son cada vez más diferentes y los pantalones anchos con rodilleras son una necesidad. Y es que está claro que nos movemos en terrenos distintos, nuestras habilidades tienen que ser diferentes y como tal también nuestro equipo.  

@@ -1,5 +1,4 @@
 ---
-
 title: H9 action cam review, primeras impresiones
 date: '2017-01-02T17:09:00.001+01:00'
 tags:
@@ -10,7 +9,8 @@ tags:
 - eken h9
 - review
 - action cam
-last_modified_at: '2023-07-06T00:00:00+02:00'
+last_modified_at: '2023-07-25T00:00:00+02:00'
+description: "Descubre la H9 Action Cam, una opción económica y funcional para grabar deportes y aventuras. Calidad aceptable a 1080p/60fps. Review completa"
 ---
 
 [![](https://4.bp.blogspot.com/-_nr1qgi9BWY/WGp1vjWTsJI/AAAAAAAAA6Y/1dPqrp4RM4U8-1VkWBPhxgCJ5K6MKVOzwCLcB/s200/h9%2Baction%2Bcam%2Band%2Bpackage.jpg){: style="float: right;"}](https://www.awin1.com/cread.php?awinmid=7655&awinaffid=364849&clickref=&p=https%3A%2F%2Fwww.gearbest.com%2Faction-cameras%2Fpp_362082.html){: rel="nofollow"}
