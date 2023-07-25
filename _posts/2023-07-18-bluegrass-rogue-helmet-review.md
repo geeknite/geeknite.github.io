@@ -65,6 +65,6 @@ The Bluegrass Rogue helmet is a stylish and functional enduro helmet that offers
 
 {% include amazon.html asin="B0B7559MYH" %}
 
-If you're interested in buying the Bluegrass Rogue helmet [check for offers at Foxxs.net]({{ site.constants.wsib }}/bluegrass rogue helmet), where you can get it at a discounted price as low of $50 (regular price $120) or at amazon with their [prime day offers]({%- post_url 2023-07-04-prime-day-bike-gadgets-accesories -%}). [Also there's a MIPS version which is pricier]({{ site.constants.wsib }}/bluegrass rogue helmet mips).
+If you're interested in buying the Bluegrass Rogue helmet [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}/bluegrass rogue helmet), where you can get it at a discounted price as low of $50 (regular price $120) or at amazon with their [prime day offers]({%- post_url 2023-07-04-prime-day-bike-gadgets-accesories -%}). [Also there's a MIPS version which is pricier]({{ site.constants.wsib }}/bluegrass rogue helmet mips).
 
 Happy cycling! 🚴‍♂️

@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Bike Computers: Garmin Edge 530 vs. iGPSPORT iGS630"
 tags: [bike, technology, gadgets, comparison]
-description: "A hilarious and engaging comparison of Garmin Edge 530 and iGPSPORT iGS630 bike computers! Price comparison provided by Foxxs.net"
+description: "A hilarious and engaging comparison of Garmin Edge 530 and iGPSPORT iGS630 bike computers! Price comparison provided by {{ site.constants.wsibName }}"
 date: "2023-07-24"
 ---
 
@@ -121,7 +121,7 @@ Now, let the battle begin! 🥊
 
 ---------
 
-*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](https://geeknite.github.io/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on Foxxs.net**](<https://www.foxxs.net/garmin> edge 530) *to compare prices.*
+*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on {{ site.constants.wsibName }}**](<{{ site.constants.wsib }}garmin> edge 530) *to compare prices.*
 
 *Happy riding, and may your bike adventures be filled with laughter and unforgettable moments!* 🚵‍♂️💨
 

@@ -1,7 +1,7 @@
 ---
 title: "Why I love the Sombrio Cartel Gloves and you should too"
 tags: mountain biking, gloves, sombrio, review
-description: "A funny and engaging review of the Sombrio Cartel Gloves, a high-quality and cool alternative for mountain bikers who want to protect their hands and look good."
+description: "A review of the Sombrio Cartel Gloves, a high-quality and cool alternative for mountain bikers who want to protect their hands and look good."
 date: 2022-07-07
 last_modified_at: '2023-07-20T00:00:00+02:00'
 ---
@@ -34,23 +34,14 @@ I love the Sombrio Cartel Gloves for many reasons. Here are some of them:
 
 I've tried many other gloves for mountain biking, but none of them compare to the Sombrio Cartel Gloves. Here are some examples:
 
-- Fox Ranger Gloves: These are popular gloves among mountain bikers, but I find them too thin and flimsy. They don't offer much protection or grip, and they wear out quickly.
-- Dakine Cross-X Gloves: These are decent gloves for downhill riding, but they are too heavy and hot for me. They also have a weird fit that makes them uncomfortable.
-- Giro DND Gloves: These are simple and minimalist gloves that work well for casual riding, but they lack features and style that I want in my gloves.
-- Troy Lee Designs Ace Gloves: These are stylish and colorful gloves that look good, but they are too expensive and not very durable. They also run small and tight, which makes them hard to put on and off.
+- [Fox Ranger Gloves]({{ site.constants.wsib }}/fox ranger gloves): These are popular gloves among mountain bikers, but I find them too thin and flimsy. They don't offer much protection or grip, and they wear out quickly.
+- [Dakine Cross-X Gloves]({{ site.constants.wsib }}/dakine cross gloves): These are decent gloves for downhill riding, but they are too heavy and hot for me. They also have a weird fit that makes them uncomfortable.
+- [Giro DND Gloves]({{ site.constants.wsib }}/giro dnd gloves): These are simple and minimalist gloves that work well for casual riding, but they lack features and style that I want in my gloves.
+- [Troy Lee Designs Ace Gloves]({{ site.constants.wsib }}/troy lee ace gloves): These are stylish and colorful gloves that look good, but they are too expensive and not very durable. They also run small and tight, which makes them hard to put on and off.
 
 ## Where can you get the Sombrio Cartel Gloves?
 
-If you're interested in getting the Sombrio Cartel Gloves, you can find them online or in some local bike shops. Here are some links to help you:
-
-- Foxxs.net, a shopping site for mountain biking gear: {{ site.constants.wsib }}/sombrio-cartel-gloves
-- Geeknite, a blog for mountain biking enthusiasts: https://geeknite.github.io/2023/07/prime-day-bike-gadgets-accesories.html
-
-You can also check out some of my other blog posts on Geeknite, where I review and recommend other mountain biking products and accessories. Here are some of them:
-
-- The best helmets for mountain biking: https://geeknite.github.io/2023/06/best-helmets-for-mountain-biking.html
-- The best pedals for mountain biking: https://geeknite.github.io/2023/05/best-pedals-for-mountain-biking.html
-- The best shoes for mountain biking: https://geeknite.github.io/2023/04/best-shoes-for-mountain-biking.html
+If you're interested in getting the Sombrio Cartel Gloves, you can find them online, check [{{ site.constants.wsibName }}, a offer finder site]({{ site.constants.wsib }}/sombrio cartel gloves) or in some local bike shops, they may be difficult to find on some regions but they are worth and considering they are a not one of the massive brands they usually can be found on offer.
 
 ## Conclusion
 

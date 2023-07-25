@@ -1,7 +1,6 @@
 ---
 title: "To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and Board Games"
-tags: [board games, card games, sleeves, humor]
-filename: to-sleeve-or-not-to-sleeve.md
+tags: [board games, card games, sleeves, humor, board gaming]
 description: "Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!"
 date: "2021-02-21"
 last_modified_at: '2023-07-21T00:00:00+02:00'
@@ -89,7 +88,7 @@ As promised, here are some links to other captivating board game reads:
 
 ## **And One Last Bonus Link**
 
-For all your card sleeve shopping needs, check out **[Foxxs.net]({{ site.constants.wsib }}/)** – a treasure trove of prices and choices that will leave your cards feeling snazzy!
+For all your card sleeve shopping needs, check out **[{{ site.constants.wsibName }}]({{ site.constants.wsib }}/)** – a treasure trove of prices and choices that will leave your cards feeling snazzy!
 
 There you have it, folks! The great debate of to sleeve or not to sleeve. Ultimately, the decision lies in your gaming heart. Whether you prefer the tactile pleasure of unsleeved cards or the comforting embrace of premium sleeves, what matters most is that you enjoy the game!
 
