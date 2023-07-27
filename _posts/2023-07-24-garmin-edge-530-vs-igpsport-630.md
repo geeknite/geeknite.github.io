@@ -109,9 +109,7 @@ Now, let the battle begin! 🥊
 
 🏆 **iGPSPORT iGS630!** 🏆
 
-*Hold on, before you rush to purchase your new iGS630, let
-
-'s not forget that both the Garmin Edge 530 and iGPSPORT iGS630 are fantastic bike computers in their own right. The Edge 530's advanced data analytics and top-notch navigation make it a dream come true for tech aficionados and explorers.*
+*Hold on, before you rush to purchase your new iGS630, let's not forget that both the Garmin Edge 530 and iGPSPORT iGS630 are fantastic bike computers in their own right. The Edge 530's advanced data analytics and top-notch navigation make it a dream come true for tech aficionados and explorers.*
 
 *On the other hand, the iGS630 wins our hearts with its simplicity, budget-friendly price, and reliability.*
 
@@ -121,7 +119,7 @@ Now, let the battle begin! 🥊
 
 ---------
 
-*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on {{ site.constants.wsibName }}**](<{{ site.constants.wsib }}garmin> edge 530) *to compare prices.*
+*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on {{ site.constants.wsibName }}**](<{{ site.constants.wsib }}/garmin edge 530>) *to compare prices.*
 
 *Happy riding, and may your bike adventures be filled with laughter and unforgettable moments!* 🚵‍♂️💨
 

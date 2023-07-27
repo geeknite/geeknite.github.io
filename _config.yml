@@ -345,8 +345,8 @@ constants:
   wsib: "https://www.foxxs.net"
   wsibName: "#Foxxs"
   num_recent: 5
-  youtube: {{ site.constants.youtube }}
-  twitch: {{ site.constants.twitch }}
+  youtube: https://www.youtube.com/@xocmetal
+  twitch: https://www.twitch.tv/xocmetal
 
 
 # Exclude from processing.
