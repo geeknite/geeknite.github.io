@@ -62,6 +62,6 @@ Shimano products are known for their ease of maintenance and serviceability, and
 
 The Shimano Ultegra R8000 Groupset is a game changer for cyclists. It offers a significant upgrade in performance, durability, and value for money. Whether you're a professional cyclist or a cycling enthusiast, this groupset is definitely worth considering. With its aerodynamic design, smooth gear shifting, and durable construction, it will enhance your cycling experience and help you achieve your performance goals.
 
-If you're interested in purchasing the Shimano Ultegra R8000 Groupset, [you can check it out here](https://example.com/shimano-ultegra-r8000). As always, we recommend buying from trusted online stores to ensure you get a genuine product.
+If you're interested in purchasing the Shimano Ultegra R8000 Groupset, [you can check it out here]({{ site.constants.wsib }}/shimano-ultegra-r8000). As always, we recommend buying from trusted online stores to ensure you get a genuine product.
 
 Happy cycling! 🚴‍♂️
