@@ -342,7 +342,7 @@ constants:
   amazon_uk: "kxl-21" #amkioze
   amazon_fr: "krv-21" #amkioze
   amazon_de: "kvl-21" #amkioze
-  wsib: "https://www.foxxs.net"
+  wsib: "https://wsibclassic.azurewebsites.net"
   wsibName: "#Foxxs"
   num_recent: 5
   youtube: https://www.youtube.com/@xocmetal
