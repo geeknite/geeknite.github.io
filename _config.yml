@@ -337,7 +337,7 @@ compress_html:
 
 constants:
   amazon_es: "kcl-21" #amkioze
-  amazon_com: "gkx09-20" #amkioze
+  amazon_com: "vp04a-20" #g83
   amazon_it: "gkx09-21" #amkioze
   amazon_uk: "kxl-21" #amkioze
   amazon_fr: "krv-21" #amkioze
