@@ -1,14 +1,15 @@
 ---
 title: "Sonny Angel Product Review: A Cute Collectible"
-date: "2025-03-08"
-layout: post
+date: "2024-12-20"
+tags: [review, toys, Sonny Angel]
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 ## Introduction
 
 Sonny Angel is a popular collectible toy brand that has captured the hearts of many with its adorable and whimsical designs. These small figurines, often dressed in thematic costumes, are known for their high-quality craftsmanship and attention to detail.
 
-![Sonny Angel](https://i.imgur.com/sonnyangel.jpg)
+[![Sonny Angel](https://i.imgur.com/xlsjD0rm.jpg)]({{ site.constants.wsib }}/sonny-angel)
 
 In this product review, we'll dive into the world of Sonny Angel, exploring its history, features, pros and cons, and why it has become a favorite among collectors. We'll also provide recommendations on where to buy Sonny Angel figurines and how to get the best deals.
 
@@ -50,12 +51,10 @@ One of the key features of Sonny Angel is its collectability. With limited editi
 
 Sonny Angel figurines can be purchased from various retailers and online stores. Here are some recommendations:
 
-- [Amazon](https://www.amazon.com/): Amazon offers a wide range of Sonny Angel figurines, including limited editions and series.
-- [eBay](https://www.ebay.com/): eBay is a great place to find rare and discontinued Sonny Angel figurines. Be sure to check seller ratings and reviews before purchasing.
-- [Official Sonny Angel Store](https://www.sonnyangel.com/): The official store offers the latest releases and exclusive figurines. While prices may be higher, you can be assured of authenticity.
+{% include amazon.html asin="B07QK3WDB" imageUrl="https://i.imgur.com/xlsjD0rs.jpg" %}
 
 ## Final Recommendation
 
 Sonny Angel figurines are a delightful addition to any collection. Their high-quality craftsmanship, adorable designs, and collectability make them a favorite among fans. Whether you are a seasoned collector or new to the world of Sonny Angel, these charming figurines are sure to bring joy and brighten your day.
 
-**Ready to start your collection? Check out the latest Sonny Angel figurines on [Amazon](https://www.amazon.com/) and [eBay](https://www.ebay.com/) today!**
+**Ready to start your collection? Check out the latest Sonny Angel figurines on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/sonny angel) today!**
