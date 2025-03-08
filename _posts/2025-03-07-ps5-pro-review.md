@@ -9,6 +9,7 @@ tags:
 - Review
 - Technology
 description: "Discover the groundbreaking features of the PS5 Pro in this comprehensive review. From enhanced performance to stunning graphics, find out why the PS5 Pro is the ultimate gaming console of 2025."
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 ## Introduction

@@ -3,7 +3,7 @@ title: "Battle of the Bike Computers: Garmin Edge 530 vs. iGPSPORT iGS630"
 tags: [bike, technology, gadgets, comparison]
 description: "A hilarious, engaging and clear comparison of Garmin Edge 530 and iGPSPORT iGS630 bike computers!"
 date: "2023-07-24"
-last_modified_at: '2024-07-07T00:00:00+02:00'
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 [![Garmin Edge 530 vs. iGPSPORT iGS630](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}]({{ site.constants.wsib }}/iGPSPORT iGS630)
