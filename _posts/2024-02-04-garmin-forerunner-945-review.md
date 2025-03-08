@@ -14,7 +14,7 @@ Hello, fellow tech enthusiasts!
 
 Today, we're going to dive into the world of sports tech with a comprehensive review of the Garmin Forerunner 945. This high-end multisport watch has been making waves in the athletic community, and we're here to break down why.
 
-[![Garmin Forerunner 945](https://i.imgur.com/4Fj2C76s.jpg){: .align-right}]({{ site.constants.wsib }}/garmin-forerunner-945)
+[![Garmin Forerunner 945](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}]({{ site.constants.wsib }}/garmin-forerunner-945)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ One of the standout features of the Forerunner 945 is its training load focus. T
 
 The Forerunner 945 also excels in the area of health monitoring. It includes a Pulse Ox sensor, which measures your body's oxygen absorption, a Body Battery energy monitor that helps optimize your workout schedules, and a menstrual cycle tracker.
 
-{% include amazon.html asin="B07QK3WDBS" %}
+{% include amazon.html asin="B07QK3WDBS" imageUrl="https://i.imgur.com/4Fj2C76s.jpg" %}
 
 ## Design
 
@@ -44,7 +44,7 @@ But what about the price? The Garmin Forerunner 945 is not cheap, but we believe
 
 In conclusion, the Garmin Forerunner 945 is a fantastic multisport watch that offers a wealth of features for serious athletes. It's a solid investment that can help you take your training to the next level.
 
-If you're interested in purchasing the Garmin Forerunner 945, you can do so through our affiliate link [here](https://www.amazon.com/gp/product/B07QK3WDBS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07QK3WDBS&linkCode=as2&tag={{ site.constants.amazon_com }}). Every purchase made through this link helps support our blog, so we can continue bringing you the latest in tech news and reviews.
+If you're interested in purchasing the Garmin Forerunner 945, you can do so through our affiliate link [here](https://www.amazon.com/gp/product/B07QK3WDBS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07QK3WDBS&linkCode=as2&tag={{ site.constants.amazon_com }}){: rel="nofollow"}. Every purchase made through this link helps support our blog, so we can continue bringing you the latest in tech news and reviews.
 
 Stay tuned for more exciting reviews and tech updates!
 
