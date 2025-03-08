@@ -2,12 +2,11 @@
 ---
 
 .page-content {
-    padding-top: 20px;
-  }
+  padding-top: 20px;
+}
 
 .post .post-header {
- 
-      margin-top: 20px;
+  margin-top: 20px;
 }
 
 .page-banner {
@@ -21,7 +20,23 @@
 .nav__items {
   ul li {
     list-style: square inside;
-    
+  }
+}
+
+.amazon-table {
+  border-collapse: collapse;
+
+  .amazon-cell {
+    border-right: 1px solid #ddd;
+    padding: 10px;
   }
 
+  .amazon-image {
+    width: 120px;
+    height: auto;
+  }
+
+  .amazon-link {
+    text-align: center;
+  }
 }
