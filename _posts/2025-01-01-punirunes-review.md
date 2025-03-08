@@ -4,11 +4,9 @@ date: 2025-01-01 00:00:00 +0200
 tags: [review, toys, virtual pet, Punirunes]
 ---
 
-# Introduction
-
 Welcome to our in-depth review of Punirunes, a unique and engaging Tamagotchi toy that has captured the hearts of many users worldwide. In this review, we will dive deep into the toy's features, interaction mechanics, design, sound, and overall experience. If you're considering giving Punirunes a try, this review will help you understand what to expect.
 
-[![Punirunes](https://i.imgur.com/k34Ep2Os.jpg)]({{ site.constants.wsib }}/punirunes)
+[![Punirunes](https://i.imgur.com/k34Ep2Os.jpg){: .align-right}]({{ site.constants.wsib }}/punirunes)
 
 ## Interaction
 

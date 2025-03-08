@@ -1,11 +1,11 @@
 ---
 title:  "10 Hilarious Tips for Shopping on Amazon Spain - English Edition"
 date:   '2024-01-15 10:00:00 +0200'
-last_modified_at: '2024-07-07T10:00:00+02:00'
+last_modified_at: '2025-03-08T10:00:00+02:00'
 tags: amazon spain english shopping humor
 description: "Discover why Amazon Spain is your go-to online shopping hub. Get tips on navigating Amazon Spain with a twist of humor and save time while you're at it."
 ---
-<a rel="nofollow" href='https://www.amazon.es/?_encoding=UTF8&tag={{ site.constants.amazon_es }}&linkCode=ur2&camp=3626&creative=24822'><img style="float: right;" src="https://3.bp.blogspot.com/-y7vepNFwf4I/UQF29es4s1I/AAAAAAAAAO4/Ri2PlmOohMA/s200/Amazon-logo%5B1%5D.jpg"></a>
+[![Amazon logo](https://3.bp.blogspot.com/-y7vepNFwf4I/UQF29es4s1I/AAAAAAAAAO4/Ri2PlmOohMA/s200/Amazon-logo%5B1%5D.jpg)](https://www.amazon.es/?_encoding=UTF8&tag={{ site.constants.amazon_es }}&linkCode=ur2&camp=3626&creative=24822){: rel="nofollow" style="float: right;"}
 
 For those who haven't been introduced to the world of [Amazon](https://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&linkId=E3JCOPRWJFHIP2PV&tag={{ site.constants.amazon_com }}&linkId=Z6HW7WG5Z73QGVTE){: rel="nofollow"}, it's basically the internet's giant shopping cart, originally from the US but with a local branch in Spain that's been around for a few years now. Known for its vast selection of books, Amazon now sells just about anything you can think of, often at prices that will make your wallet weep with joy. After years of online shopping, Amazon Spain has become my go-to store, offering top-notch customer service that has never let me down.
 
