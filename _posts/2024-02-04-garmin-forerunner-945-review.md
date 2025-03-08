@@ -6,7 +6,7 @@ tags:
 - Forerunner945
 - Sports
 - Review
-last_modified_at: '2024-07-17T10:00:00+02:00'
+last_modified_at: '2024-03-08T10:00:00+02:00'
 description: "Discover why the Garmin Forerunner 945 is the ultimate multisport watch for serious athletes. From advanced performance metrics to full-color maps, this review covers it all."
 ---
 
@@ -14,7 +14,7 @@ Hello, fellow tech enthusiasts!
 
 Today, we're going to dive into the world of sports tech with a comprehensive review of the Garmin Forerunner 945. This high-end multisport watch has been making waves in the athletic community, and we're here to break down why.
 
-[![Garmin Forerunner 945](https://i.imgur.com/Forerunner945.jpg)]({{ site.constants.wsib }}/garmin-forerunner-945)
+[![Garmin Forerunner 945](https://i.imgur.com/4Fj2C76s.jpg)]({{ site.constants.wsib }}/garmin-forerunner-945)
 
 ## Introduction
 
@@ -25,6 +25,8 @@ The Garmin Forerunner 945 is a powerhouse of features. It offers advanced perfor
 One of the standout features of the Forerunner 945 is its training load focus. This feature sorts your recent training history into different categories based on the structure and intensity of each workout. It's a great tool for athletes looking to balance their training and avoid over or underdoing it.
 
 The Forerunner 945 also excels in the area of health monitoring. It includes a Pulse Ox sensor, which measures your body's oxygen absorption, a Body Battery energy monitor that helps optimize your workout schedules, and a menstrual cycle tracker.
+
+{% include amazon.html asin="B07QK3WDBS" %}
 
 ## Design
 
