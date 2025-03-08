@@ -7,13 +7,14 @@ tags:
 - Sports
 - Review
 last_modified_at: '2024-07-17T10:00:00+02:00'
+description: "Discover why the Garmin Forerunner 945 is the ultimate multisport watch for serious athletes. From advanced performance metrics to full-color maps, this review covers it all."
 ---
 
 Hello, fellow tech enthusiasts!
 
 Today, we're going to dive into the world of sports tech with a comprehensive review of the Garmin Forerunner 945. This high-end multisport watch has been making waves in the athletic community, and we're here to break down why.
 
-![Garmin Forerunner 945](https://i.imgur.com/Forerunner945.jpg)
+[![Garmin Forerunner 945](https://i.imgur.com/Forerunner945.jpg)]({{ site.constants.wsib }}/garmin-forerunner-945)
 
 ## Introduction
 
