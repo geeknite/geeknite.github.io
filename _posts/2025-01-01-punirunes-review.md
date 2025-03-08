@@ -7,7 +7,7 @@ last_modified_at: '2025-03-08T10:00:00+02:00'
 
 Welcome to our in-depth review of Punirunes, a unique and engaging Tamagotchi toy that has captured the hearts of many users worldwide. In this review, we will dive deep into the toy's features, interaction mechanics, design, sound, and overall experience. If you're considering giving Punirunes a try, this review will help you understand what to expect.
 
-[![Punirunes](https://i.imgur.com/k34Ep2Om.jpg){: .align-right}]({{ site.constants.wsib }}/punirunes)
+[![Punirunes](https://i.imgur.com/arT7fdFm.jpg){: .align-right}]({{ site.constants.wsib }}/punirunes)
 
 ## Interaction
 
@@ -21,7 +21,7 @@ Punirunes offers a fresh take on the virtual pet genre, combining elements of st
 - **Frequent Updates**: The developers regularly update the toy with new content, levels, and features.
 - **Tactile Control**: The tactile controller adds a unique and immersive way to interact with the virtual pet.
 
-{% include amazon.html asin="B0CQN35CYM" imageUrl="https://i.imgur.com/k34Ep2Os.jpg" %}
+{% include amazon.html asin="B0CQN35CYM" imageUrl="https://i.imgur.com/arT7fdFs.jpg" %}
 
 ### Cons
 
