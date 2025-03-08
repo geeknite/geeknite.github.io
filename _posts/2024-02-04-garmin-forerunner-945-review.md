@@ -13,7 +13,7 @@ Hello, fellow tech enthusiasts!
 
 Today, we're going to dive into the world of sports tech with a comprehensive review of the Garmin Forerunner 945. This high-end multisport watch has been making waves in the athletic community, and we're here to break down why.
 
-![Garmin Forerunner 945](https://i.imgur.com/Forerunner945.jpg)
+[![Garmin Forerunner 945](https://i.imgur.com/Forerunner945.jpg)]({{ site.constants.wsib }}/garmin-forerunner-945)
 
 ## Introduction
 
