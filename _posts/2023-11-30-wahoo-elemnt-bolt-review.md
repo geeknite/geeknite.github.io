@@ -12,7 +12,7 @@ description: "Discover the Wahoo ELEMNT BOLT, a GPS bike computer that's changin
 last_modified_at: '2024-05-17T17:00:00 +0200'
 ---
 
-![Wahoo ELEMNT BOLT](https://i.imgur.com/4JZjzKSm.jpg)
+[![Wahoo ELEMNT BOLT](https://i.imgur.com/4JZjzKSm.jpg)]({{ site.constants.wsib }}/wahoo%20elemnt%20bolt)
 
 Today, we're exploring the [Wahoo ELEMNT BOLT]({{ site.constants.wsib }}/wahoo%20elemnt%20bolt), a GPS bike computer that's making waves in the cycling community. Let's see if it's worth the buzz!
 
