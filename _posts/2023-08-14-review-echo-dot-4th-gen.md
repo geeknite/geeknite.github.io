@@ -6,9 +6,9 @@ tags: [amazon, echo dot, alexa, smart home]
 last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
-[![Echo Dot (4th Gen)](https://images-na.ssl-images-amazon.com/images/I/61EXU8BuGZL._AC_SL1000_.jpg){: style="float: right;"}]({{ site.constants.wsib }}/echo dot)
+[![Echo Dot (4th Gen)](https://i.imgur.com/icJV3ENm.jpg){: style="float: right;"}]({{ site.constants.wsib }}/echo dot)
 
-Hey there, tech enthusiasts! Get ready to dive into the exciting world of the [Echo Dot (4th Gen)](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }}) from Amazon. This little smart speaker is about to blow your mind! 🚀
+Hey there, tech enthusiasts! Get ready to dive into the exciting world of the [Echo Dot (4th Gen)](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }}){: rel="nofollow"} from Amazon. This little smart speaker is about to blow your mind! 🚀
 
 ## Design and Features 🎨
 
@@ -35,9 +35,9 @@ Here are some more juicy details about the Echo Dot (4th Gen):
 
 Ready to bring the Echo Dot (4th Gen) home? Click on the links below to purchase it on Amazon:
 
-- [🛒 Buy Echo Dot (4th Gen) on Amazon](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }})
-- [🛒 Buy Echo Dot (4th Gen) - Charcoal](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }})
-- [🛒 Buy Echo Dot (4th Gen) - Glacier White](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }})
-- [🛒 Buy Echo Dot (4th Gen) - Twilight Blue](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }})
+- [🛒 Buy Echo Dot (4th Gen) on Amazon](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }}){: rel="nofollow"}
+- [🛒 Buy Echo Dot (4th Gen) - Charcoal](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }}){: rel="nofollow"}
+- [🛒 Buy Echo Dot (4th Gen) - Glacier White](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }}){: rel="nofollow"}
+- [🛒 Buy Echo Dot (4th Gen) - Twilight Blue](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }}){: rel="nofollow"}
 
 Thanks for joining us on this tech adventure! If you found this review helpful, consider supporting us by purchasing through our affiliate links. It's a win-win situation! 🎉🎁
