@@ -3,7 +3,7 @@ title: "Garmin Edge 530 vs. Garmin Edge 540: The Ultimate Showdown"
 tags: [cycling, technology, gadgets, comparison]
 description: "An in-depth comparison of the Garmin Edge 530 and the newer Garmin Edge 540, highlighting key differences and improvements."
 date: "2023-12-23"
-last_modified_at: '2024-07-07T00:00:00+02:00'
+last_modified_at: '2025-03-08T00:00:00+02:00'
 ---
 
 [![Garmin Edge 530 vs. Garmin Edge 540](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}]({{ site.constants.wsib }}/Garmin Edge 540)
@@ -62,7 +62,7 @@ Now, let the showdown begin! 🥊
 
 *Whether you're a competitive racer or a weekend explorer, the Garmin Edge 540 offers the latest technology to enhance your riding experience. However, the Edge 530 still stands as a reliable and feature-rich option for those who prefer its proven track record.*
 
-{% include amazon.html asin="B09XX5FVHJ" %}
+{% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aRyU7Xes.jpg" %}
 
 *Choose the Garmin Edge 540 for its cutting-edge features and improvements, or stick with the reliable Garmin Edge 530 for its proven performance and slightly lower price point. Either way, you're equipped for an incredible cycling adventure.*
 

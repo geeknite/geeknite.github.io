@@ -3,7 +3,7 @@ title: "Garmin Edge 540: The Ultimate Bike Computer for Solar Power Lovers"
 tags: garmin, edge, solar, bike, computer, review, gps
 date: 2023-07-06 00:00:00 +0200
 description: A detailed and funny review of the new Garmin Edge 540 bike computer, comparing the normal and solar versions, and how they stack up against other alternatives.
-last_modified_at: '2023-07-21T00:00:00+02:00'
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 [![Garmin edge 540](https://i.imgur.com/aSMZ6cxm.jpg){: .align-right}]({{ site.constants.wsib }}/garmin edge 540)
@@ -24,7 +24,7 @@ The Edge 540 has some impressive features that make it stand out from other bike
 
 But wait, there's more! The Edge 540 also comes in a solar version, which has a transparent solar panel on the top of the device that can extend the battery life by up to 10%. That means you can ride for up to 22 hours in GPS mode, or up to 44 hours with the battery pack. The solar panel also works indoors, as long as there is some ambient light. How cool is that?
 
-{% include amazon.html asin="B0BT36VBGM" %}
+{% include amazon.html asin="B0BT36VBGM" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ## How does the Garmin Edge 540 compare to other bike computers?
 

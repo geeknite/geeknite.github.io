@@ -1,5 +1,4 @@
 ---
-
 title: "Crusader Kings III: The Ultimate Strategy Game That Will Transport You Back In Time"
 date: 2023-07-01 08:00:00 +0200
 tags:
@@ -9,6 +8,7 @@ tags:
 - history
 - crusader kings III
 description: "Discover Crusader Kings III, the ultimate strategy game for history buffs. Read our in-depth review and find out why this game is a must-play"
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 [![Crusader Kings III](https://i.imgur.com/o0ecFKRm.jpg){: style="float: right;"}]({{ site.constants.wsib }}/Crusader Kings III)
@@ -39,7 +39,7 @@ One of the best things about [Crusader Kings III]( {{ site.constants.wsib }}/Cru
 
 The game also has a lot of replayability. With so many different factions to choose from and different paths to take, you can play through the game multiple times and have a unique experience each time.
 
-{% include amazon.html asin="B09F18WD9T" %}
+{% include amazon.html asin="B09F18WD9T" imageUrl="https://i.imgur.com/o0ecFKRs.jpg" %}
 
 ### Cons
 

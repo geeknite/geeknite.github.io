@@ -3,7 +3,7 @@ title: "Discovering the iGPSPORT IGS630: A Feature-Packed GPS Marvel"
 tags: GPS, Cycling, Training, Navigation, iGPSPORT
 description: "Explore the iGPSPORT IGS630 GPS - a cyclist's dream companion with versatile navigation and tailored training plans. Discover more now!"
 date: "2022-04-01"
-last_modified_at: '2023-07-25T00:00:00+02:00'
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 [![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}/iGPSPORT iGS630)
@@ -42,7 +42,7 @@ While I haven't fully exhausted the GPS's battery life yet, I can confidently sa
 
 In conclusion, the iGPSPORT IGS630 has exceeded my expectations in many ways. Its intuitive design, versatile navigation, and robust training capabilities make it a fantastic companion for any cycling adventure. Plus, the ability to plan routes and workouts through the app is a huge bonus, offering true independence.
 
-{% include amazon.html asin="B09XX5FVHJ" %}
+{% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/GTfhJ63s.jpg" %}
 
 I hope you enjoyed this exploration of the iGPSPORT IGS630 GPS. If you're interested in further enhancing your cycling experience, check out the related posts on [Geeknite](/) for more cycling gear reviews and tips. And if you're curious about the best deals for the iGPSPORT IGS630, head over to [{{ site.constants.wsibName }}]({{ site.constants.wsib }}) for a comprehensive price comparison. [Also check our long term review of the IGS630 after 1 year of using it]({%- post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws -%}) or [how it compares to one of the best GPS the Garmin Edge 530]({%- post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 -%}).
 

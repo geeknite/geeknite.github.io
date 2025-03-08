@@ -140,7 +140,7 @@ Now, let the battle begin! 🥊
 
 *So, whether you're a data-obsessed cyclist or an adventure-seeking biker, you can't go wrong with either of these fabulous bike computers.*
 
-{% include amazon.html asin="B09XX5FVHJ" %}
+{% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aRyU7Xes.jpg" %}
 
 ---------
 

@@ -4,7 +4,7 @@ tags: [enduro, helmets, bluegrass, rogue, review]
 filename: 2023-07-18-bluegrass-rogue-helmet-review.md
 description: "A detailed review of the Bluegrass Rogue helmet, a stylish and functional enduro helmet with unique features and good ventilation."
 date: 2023-07-18
-last_modified_at: '2023-07-20T00:00:00+02:00'
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 [![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}]({{ site.constants.wsib }}/Bluegrass Rogue)
@@ -63,7 +63,7 @@ The Bluegrass Rogue helmet is not the only enduro helmet on the market. There ar
 
 The Bluegrass Rogue helmet is a stylish and functional enduro helmet that offers a high level of comfort, ventilation, safety, and performance for mountain bikers who want to ride hard and have fun. It has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for enduro riders.
 
-{% include amazon.html asin="B0B7559MYH" %}
+{% include amazon.html asin="B0B7559MYH" imageUrl="https://i.imgur.com/uAe5ab5s.jpg" %}
 
 If you're interested in buying the Bluegrass Rogue helmet [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}/bluegrass rogue helmet), where you can get it at a discounted price as low of $50 (regular price $120) or at amazon with their [prime day offers]({%- post_url 2023-07-04-prime-day-bike-gadgets-accesories -%}). [Also there's a MIPS version which is pricier]({{ site.constants.wsib }}/bluegrass rogue helmet mips).
 

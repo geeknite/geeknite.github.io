@@ -12,15 +12,13 @@ description: "Discover the groundbreaking features of the PS5 Pro in this compre
 last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
-## Introduction
-
 The highly anticipated **PS5 Pro** is finally here, bringing next-level gaming experiences to enthusiasts worldwide. As an enhanced version of the PlayStation 5, the PS5 Pro promises improved performance, stunning visuals, and a host of new features to elevate your gaming experience. In this comprehensive review, we'll dive into the details of what makes the PS5 Pro a must-have for gamers in 2025.
 
 ## Design and Build
 
 The PS5 Pro boasts a sleek and modern design that is both stylish and functional. Its black and white color scheme, along with its futuristic curves, make it a standout piece in any entertainment setup. The console is slightly larger than the original PS5, allowing for better cooling and more powerful hardware.
 
-[![PS5 Pro](https://imgur.com/unan4KZ.jpg){: .align-right}]({{ site.constants.wsib }}/Ps5 pro)
+[![PS5 Pro](https://imgur.com/unan4KZm.jpg){: .align-right}]({{ site.constants.wsib }}/Ps5 pro)
 
 ### Key Features
 

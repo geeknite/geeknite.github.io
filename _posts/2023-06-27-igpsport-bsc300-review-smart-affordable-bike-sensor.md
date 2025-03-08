@@ -3,7 +3,7 @@ title: "iGPSPORT BSC300 Review: A Smart and Affordable Bike Sensor"
 tags: bike, sensor, review, igpsport, bsc300, gps
 description: "In this blog post, I review the iGPSPORT BSC300, a new bike sensor that can measure speed, cadence and power. I compare it to other alternatives and show you why it's a great choice for cyclists who want to improve their performance and track their data."
 date: 2023-06-27
-last_modified_at: '2023-07-25T00:00:00 +0200'
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 [![iGPSPORT BSC300](https://i.imgur.com/RdcQNVvm.png){: style="float: right;"}]({{ site.constants.wsib }}/iGPSPORT BSC300)
@@ -22,7 +22,7 @@ The iGPSPORT BSC300 comes with a mount that can be attached to your handlebar or
 
 The [iGPSPORT BSC300 costs around $150]({{ site.constants.wsib }}/igpsport bsc300), which is much cheaper than some of the other bike computers with similar features. It is also available in black or white colors.
 
-{% include amazon.html asin="B0C4KLCD4D" %}
+{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://i.imgur.com/RdcQNVvs.png" %}
 
 [![iGPSPORT BSC300](https://i.imgur.com/OoctZWAm.png){: style="float: right;"}]({{ site.constants.wsib }}/iGPSPORT BSC300)
 

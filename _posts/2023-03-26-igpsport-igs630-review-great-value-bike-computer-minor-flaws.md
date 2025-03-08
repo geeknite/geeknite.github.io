@@ -9,7 +9,7 @@ tags:
 - gps
 - biking
 description: "Discover the iGPSPORT iGS630, a budget-friendly GPS bike computer with impressive features and a few drawbacks. Read our in-depth review now."
-last_modified_at: '2023-07-25T12:00:00 +0200'
+last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
 [![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}/iGPSPORT iGS630)
@@ -28,7 +28,7 @@ One of the things that I like the most about this computer is its many customiza
 
 Another thing to note is that the computer is fully compatible with Garmin mounts, which is great if you already have a Garmin mount installed on your bike.
 
-{% include amazon.html asin="B09XX5FVHJ" %}
+{% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/GTfhJ63s.jpg" %}
 
 ### Cons
 

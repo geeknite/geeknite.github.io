@@ -8,7 +8,7 @@ tags:
 - Gadgets
 - Deals
 - biking
-last_modified_at: '2023-07-18T00:00:00+02:00'
+last_modified_at: '2025-03-08T10:00:00+02:00'
 description: "Are you a cycling enthusiast looking for great deals this Prime Day? Read on to discover what to look for with amazing deals on the latest gadgets"
 ---
 
@@ -26,7 +26,7 @@ If you're on a budget, the Wahoo Elemnt Bolt is a great option that offers a lot
 
 Consider the [iGPSPORT iGS630]({%- post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws -%}): A Great Value GPS Bike Computer with Minor Flaws or the [Garmin Edge 530]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%}).
 
-{% include amazon.html asin="B09XX5FVHJ" %}
+{% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/UmrVWy4s.jpg" %}
 
 **Bike Lights**
 
