@@ -44,7 +44,7 @@ It took me some time to figure out how to upload activities to Strava and downlo
 
 Now, let's talk about the screen. The iGPSPORT iGS630 has a big and readable display, which is a plus. However, the screen is not a touchscreen, and the buttons are not as intuitive as I would have liked. It takes a bit of getting used to, so I would advise playing around with the computer a lot before taking it out on a ride.
 
-The basic handlebar mount is a shame, especially since the device borders on a premium product. However, it is fully compatible with Garmin mounts, which is a plus. The device is also waterproof with an IPX7 rating, so it can handle wet and rainy conditions.
+The basic handlebar mount is a shame, especially since the device borders on a premium product. However, it is fully compatible with Garmin mounts, which is a plus. The device is also waterproof with an IPX7 rating, so it can handle wet and rainy conditions. I tested the device on a 28-mile bike ride using my Trek 920 bike, which has an "out-front" Bontrager Garmin-compatible computer mount. The data recorded by the iGS630 was comparable to the data recorded by my [Garmin Edge 530]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%}), which costs significantly more than the iGS630.
 
 ### iGPSPORT iGS630 Now Includes ClimbPro Feature with V1.30
 
