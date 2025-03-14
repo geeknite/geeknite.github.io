@@ -32,9 +32,7 @@ Another thing to note is that the computer is fully compatible with Garmin mount
 
 ### Cons
 
-However, I must admit that there are a few cons. For example, the instructions and online material are pretty limited, and it took me a while to figure out how to customize the different screens. Additionally, the app is only available in metric, which can be a bit annoying if you're used to using feet and miles. The instructions and online material are limited. It appears that this computer came out in Europe first, so there isn't much US/English material about it. I was able to get the computer set up in feet/miles, yet the app only uses the metric system. It would be useful if the app used could be converted to feet/miles. It would also be helpful if the 10 potential screens were available somewhere. It took me a while to figure out what the 10 screens were for my customization. The app has very good maps which is nice.
-
-But, overall, these are minor issues that didn't really affect my experience with the bike computer. And, let's be honest, who reads instructions anyway? We all like to figure things out on our own. The lack of comprehensive instruction material is only a minor issue.
+However, I must admit that there are a few cons. For example, the instructions and online material are pretty limited, and it took me a while to figure out how to customize the different screens. Additionally, the app is only available in metric, which can be a bit annoying if you're used to using feet and miles. The instructions and online material are limited. It appears that this computer came out in Europe first, so there isn't much US/English material about it. I was able to get the computer set up in feet/miles, yet the app only uses the metric system. It would be useful if the app used could be converted to feet/miles. It would also be helpful if the 10 potential screens were available somewhere.
 
 ### Not so good not so bad
 
@@ -63,3 +61,8 @@ At the time of writing this review, [the iGPSPORT iGS630 is priced at $199.99 at
 [Check our recent comparison with the Garmin Edge 530]({%- post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 -%}) or [our review of the latest Garmin Edge 540 which has also a solar version.]({%- post_url 2023-07-06-garmin-edge-540-review -%})
 
 Overall, this bike computer is a great option for those who want a GPS bike computer without breaking the bank. It gives you the functions of a unit that costs hundreds of dollars more.
+
+**Ready to elevate your biking experience with the iGPSPORT iGS630? Click the link below to get yours now and embark on your next cycling adventure!**
+
+[Buy iGPSPORT iGS630 on Amazon](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?c=ts&keywords=Cycling%2BComputers&qid=1679814661&refinements=p_89%3AiGPSPORT&rnid=2528832011&s=sporting-goods&sr=1-6&ts_id=3403321&th=1&linkCode=ll1&tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} 
+
