@@ -4,12 +4,11 @@ date: 2025-03-20 15:51:56 +0200
 tags:
 - review
 - racing
-games
+- games
 - board games
 - humor
+last_modified_at: '2025-03-29T15:51:56+02:00'
 ---
-
-# Review of HEAT: Pedal to the Metal - Racing Game Extravaganza
 
 ![Heat: Pedal to the Metal](https://i.imgur.com/heat.png){: style="float: right;"}
 
