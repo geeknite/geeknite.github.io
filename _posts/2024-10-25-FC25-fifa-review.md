@@ -7,7 +7,7 @@ description: "Dive into the hilarious and addictive world of FC25 (formerly FIFA
 
 Welcome to the world of **FC25** (formerly known as FIFA), where the grass is greener, the players are more beautiful, and the referee's decisions are more questionable than ever! Yes, EA Sports decided to rebrand the game, dropping the iconic FIFA name. Why? Probably because they wanted to save money on licensing fees—or maybe they just wanted to confuse us. Either way, it’s still the same game we love to hate (and hate to love). Strap in your shin guards and get ready for a hilarious yet informative review of the most popular football (or should I say soccer?) game on the planet.
 
-[![FC25 Logo](https://i.imgur.com/aHm1goAm.jpeg)]{: .align-right}]({{ site.constants.wsib }}/FC25)
+[![FC25 Logo](https://i.imgur.com/aHm1goAm.jpeg){: .align-right}]({{ site.constants.wsib }}/FC25)
 
 ---
 
@@ -21,7 +21,7 @@ FC25 is like that one friend who has their good days, bad days, and downright ug
 
 Ultimate Team is where FC25 shines—and where your free time goes to die. Building your dream team is addictive, but be prepared to spend more money on virtual packs than you would on actual football tickets. EA Sports knows this, and they’re not shy about it. Want that 99-rated Mbappé? Better start saving—or selling your furniture.
 
-![Ultimate Team](https://example.com/ultimate_team.jpg)
+[![Ultimate Team](https://i.imgur.com/EIEb9WGm.jpeg){: .align-right}]({{ site.constants.wsib }}/FC25)
 
 **Criticism Alert**: The microtransactions in Ultimate Team are as relentless as a high-press tactic. While you *can* grind your way to a decent team, the temptation to buy packs is always looming. It’s like EA is whispering, “Just one more pack… what’s the worst that could happen?” Spoiler: your wallet will cry.
 
@@ -71,7 +71,7 @@ A welcome addition to FC25 is the introduction of Women’s Ultimate Team. This 
 
 Crossplay has been expanded to include more modes, allowing players on different platforms to compete against each other. It’s a great feature—until you realize your friend on PC has mods that make their team unstoppable. (Looking at you, 150-rated Haaland.)
 
----
+<!-- ---
 
 ## Comparison with Other Football Games
 
@@ -81,12 +81,10 @@ While FC25 dominates in terms of licenses and presentation, eFootball offers a m
 ### [Football Manager 2025]({%- post_url 2024-11-10-football-manager-2025-review -%})
 If you’re more into strategy and less into button-mashing, Football Manager is the way to go. It’s a completely different experience but equally addictive.
 
----
+--- -->
 
 ## Final Recommendation
 
 FC25 is like that guilty pleasure you can’t get enough of. Sure, it has its flaws—like inconsistent gameplay, relentless microtransactions, and referees who seem to have a personal vendetta against you—but the highs are so high that you’ll keep coming back for more. Whether you’re a seasoned pro or a casual player, FC25 offers something for everyone. Just remember to take breaks, and maybe, you know, talk to real people once in a while.
 
 **Ready to dive into the addictive world of FC25? Grab your copy now and join the madness!**
-
-[Buy FC25 on Amazon](https://www.amazon.com/dp/B07XJ8C8F5?tag=geeknite)
