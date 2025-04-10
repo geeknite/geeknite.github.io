@@ -5,7 +5,7 @@ tags: ['board games', 'review', 'Flamme Rouge', 'expansions', 'racing games']
 description: 'A comprehensive and humorous review of Flamme Rouge: Grand Tour. Discover why this expansion is a must-have for every racing board game enthusiast!'
 ---
 
-![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}
+[![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}/flamme rouge grand tour)
 
 ## Introduction
 
@@ -106,9 +106,10 @@ Ready to embark on your own Grand Tour? Check out Flamme Rouge: Grand Tour and i
 
 {% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
-**Call to Action:** Don't miss out on the ultimate cycling adventure! Click [here](https://www.example.com) to get your copy of Flamme Rouge: Grand Tour now and receive an exclusive discount! Happy racing!
+**Call to Action:** Don't miss out on the ultimate cycling adventure! Click [here]({{ site.constants.wsib }}/flamme rouge grand tour) to get your copy of Flamme Rouge: Grand Tour now and receive an exclusive discount! Happy racing!
 
 ---
 For more reviews and board game recommendations, check out our previous posts:
+
 - [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%} )
 - [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
