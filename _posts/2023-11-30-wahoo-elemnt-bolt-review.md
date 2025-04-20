@@ -22,25 +22,31 @@ The Wahoo ELEMNT BOLT is more than just a bike computer; it's a comprehensive cy
 
 The Wahoo ELEMNT BOLT stands out for its user-friendly interface. It's easy to set up and navigate, making it a great choice for those new to GPS bike computers.
 
-The device also excels in terms of connectivity. It's compatible with both ANT+ and Bluetooth sensors, allowing you to connect it with a wide range of devices. Plus, it integrates seamlessly with popular cycling apps like Strava and Komoot.
+The device also excels in terms of connectivity. It's compatible with both ANT+ and Bluetooth sensors, allowing you to connect it with a wide range of devices. Plus, it integrates seamlessly with popular cycling apps like Strava and Komoot【4:1†source】.
 
-In addition to its connectivity, the Wahoo ELEMNT BOLT offers advanced performance metrics. It tracks your speed, distance, and elevation accurately, providing valuable insights for training and performance improvement.
+In addition to its connectivity, the Wahoo ELEMNT BOLT offers advanced performance metrics. It tracks your speed, distance, and elevation accurately, providing valuable insights for training and performance improvement【4:1†source】.
 
-Another notable feature is the device's aerodynamic design. The sleek and compact form factor reduces drag, making it ideal for cyclists who prioritize speed and efficiency.
+Another notable feature is the device's aerodynamic design. The sleek and compact form factor reduces drag, making it ideal for cyclists who prioritize speed and efficiency【4:1†source】.
 
 [Buy Wahoo ELEMNT BOLT]({{ site.constants.wsib }}/wahoo%20elemnt%20bolt)
 
 ## Cons
 
-While the Wahoo ELEMNT BOLT is packed with features, it lacks a color display. This can make the map view less intuitive compared to other devices on the market.
+While the Wahoo ELEMNT BOLT is packed with features, it lacks a color display. This can make the map view less intuitive compared to other devices on the market【4:1†source】.
 
-The device's battery life is also a bit short compared to its competitors. However, it's still sufficient for most rides. With up to 15 hours of battery life, the Wahoo ELEMNT BOLT can handle long-distance rides, but it may require charging for multi-day adventures.
+The device's battery life is also a bit short compared to its competitors. However, it's still sufficient for most rides. With up to 15 hours of battery life, the Wahoo ELEMNT BOLT can handle long-distance rides, but it may require charging for multi-day adventures【4:1†source】.
 
 ## Advanced Features
 
-Beyond its core functionalities, the Wahoo ELEMNT BOLT offers several advanced features that enhance the cycling experience. One such feature is the integration with smart trainers. By connecting the device to a compatible smart trainer, cyclists can simulate real-world routes, adjust resistance automatically, and engage in virtual training sessions.
+Beyond its core functionalities, the Wahoo ELEMNT BOLT offers several advanced features that enhance the cycling experience. One such feature is the integration with smart trainers. By connecting the device to a compatible smart trainer, cyclists can simulate real-world routes, adjust resistance automatically, and engage in virtual training sessions【4:1†source】.
 
 The Wahoo ELEMNT BOLT also supports third-party app integration, allowing users to customize their cycling experience further. From training plans and virtual challenges to personalized data analysis, the possibilities are endless.
+
+## Funny Bits & Remarkable Moments
+
+You know what's funnier than watching a cyclist get lost because they used their phone for navigation? A cyclist riding confidently with the Wahoo ELEMNT BOLT and still missing a turn. But fear not, this device has your back with its smart rerouting feature. You'll be back on track before anyone notices your little detour!
+
+Also, if you've ever wondered what it feels like to have your bike computer call you slow, the Wahoo ELEMNT BOLT's aerodynamic design will make you question your life choices every time it reduces drag and you still can't beat your best time.
 
 ### Comparing with Competitors
 
