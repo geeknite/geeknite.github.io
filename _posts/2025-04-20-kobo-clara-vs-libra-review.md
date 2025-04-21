@@ -92,7 +92,7 @@ The **Kobo Libra Colour** is the Clara’s bigger, bolder sibling. Featuring a 7
 
 Our detailed **Kobo Libra Colour** review after the initial release on how it builds on the strengths of the original Libra, adding a color display and stylus compatibility. While the original Libra excels in its crisp E Ink Carta HD display and ergonomic design, the Libra Colour takes it further with its vibrant color display and eco-friendly materials.
 
-### [Kindle Touch Update: Time to Finish a Chapter]({%- post_url 2013-05-17-updated-kindle-surprise-time-to-finish.html -%})
+### [Kindle Touch Update: Time to Finish a Chapter]({%- post_url 2013-05-17-updated-kindle-surprise-time-to-finish -%})
 
 The Kindle Touch introduced a groundbreaking feature: **ETA to complete a chapter or book**. While the Kobo Libra doesn’t have this exact feature, its intuitive interface and customizable reading experience make it a strong contender for readers who want a modern, feature-packed device. This is an old article but the Kindle is a reference point for e-readers.
 
