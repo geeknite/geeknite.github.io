@@ -28,7 +28,7 @@ El **Amazfit T-Rex Pro** es un reloj robusto diseñado para los aventureros. Con
 - La precisión del GPS puede variar en áreas densamente arboladas.
 - No tiene tantas funciones avanzadas como Garmin.
 
-[Encuentra el Amazfit T-Rex Pro en WSIB]({{ site.constants.wsib }}/search?q=Amazfit+T-Rex+Pro)  
+[Encuentra el Amazfit T-Rex Pro en {{site.constants.wsibname}}]({{ site.constants.wsib }}/Amazfit+T-Rex+Pro)  
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
@@ -48,7 +48,7 @@ El **Huawei Watch GT 3** combina estilo y funcionalidad. Con un diseño elegante
 - Limitaciones en la integración con aplicaciones de terceros.
 - Precio más alto que otros relojes chinos.
 
-[Encuentra el Huawei Watch GT 3 en WSIB]({{ site.constants.wsib }}/search?q=Huawei+Watch+GT+3)  
+[Encuentra el Huawei Watch GT 3 en {{site.constants.wsibname}}]({{ site.constants.wsib }}/Huawei+Watch+GT+3)  
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
@@ -68,7 +68,7 @@ El **Xiaomi Watch S1 Active** es un reloj versátil que ofrece una excelente rel
 - La precisión del GPS no es tan alta como la de Garmin.
 - La duración de la batería podría ser mejor.
 
-[Encuentra el Xiaomi Watch S1 Active en WSIB]({{ site.constants.wsib }}/search?q=Xiaomi+Watch+S1+Active)  
+[Encuentra el Xiaomi Watch S1 Active en {{site.constants.wsibname}}]({{ site.constants.wsib }}/Xiaomi+Watch+S1+Active)  
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
@@ -88,7 +88,7 @@ El **Coros Pace 2** es un reloj diseñado para corredores y triatletas. Con un p
 - Pantalla no tan vibrante como otros modelos.
 - Menos opciones de personalización.
 
-[Encuentra el Coros Pace 2 en WSIB]({{ site.constants.wsib }}/search?q=Coros+Pace+2)  
+[Encuentra el Coros Pace 2 en {{site.constants.wsibname}}]({{ site.constants.wsib }}/Coros+Pace+2)  
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
@@ -108,7 +108,7 @@ El **Garmin Forerunner 255** es el representante de Garmin en esta lista. Con fu
 - Precio elevado.
 - La interfaz puede ser intimidante para principiantes.
 
-[Encuentra el Garmin Forerunner 255 en WSIB]({{ site.constants.wsib }}/search?q=Garmin+Forerunner+255)  
+[Encuentra el Garmin Forerunner 255 en {{site.constants.wsibname}}]({{ site.constants.wsib }}/Garmin+Forerunner+255)  
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
@@ -129,7 +129,7 @@ El **Garmin Forerunner 255** es el representante de Garmin en esta lista. Con fu
 
 Si buscas un reloj GPS asequible y funcional, los relojes chinos como el **Amazfit T-Rex Pro** o el **Xiaomi Watch S1 Active** son opciones sólidas. Sin embargo, si eres un atleta serio que necesita precisión y funciones avanzadas, el **Garmin Forerunner 255** sigue siendo el rey indiscutible.
 
-**¿Listo para elegir tu próximo reloj GPS?** Explora las mejores ofertas en [WSIB]({{ site.constants.wsib }}).
+**¿Listo para elegir tu próximo reloj GPS?** Explora las mejores ofertas en [{{ site.constants.wsibname }}]({{ site.constants.wsib }}).
 
 ---
 
