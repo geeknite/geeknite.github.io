@@ -6,7 +6,7 @@ last_modified_at: '2025-04-21T10:00:00+02:00'
 description: "A detailed and humorous comparison of the Kobo Clara Colour and Kobo Libra Colour eReaders. Discover which one is the best fit for your reading needs!"
 ---
 
-![Kobo Clara vs Libra](https://i.imgur.com/ereader-war.jpg){: .align-right}
+![Kobo Clara vs Libra](https://i.imgur.com/EpCQi3gt.jpg){: .align-right}
 
 Greetings, fellow bookworms and tech enthusiasts! Today, we're diving into a detailed comparison between two titans of the eReader world: the **Kobo Clara Colour** and the **Kobo Libra Colour**. Get comfy with a cup of coffee, and let's embark on this tech-filled journey to find out which device will reign supreme! 📚
 
@@ -113,13 +113,13 @@ Let’s talk about some of the quirks that make the Kobo Clara Colour and Libra 
 So, is the Kobo Clara Colour or the Kobo Libra Colour worth it? The answer depends on what you’re looking for. If you want a budget-friendly, reliable eReader with color capabilities, the Clara Colour is your go-to. But if you’re willing to splurge on additional features, a larger screen, and stylus compatibility, the Libra Colour is your best bet.
 
 At the time of writing this review:
-- [The Kobo Clara Colour is priced at €149.99 on Amazon](https://www.amazon.com/dp/B07XX5FVHJ?tag={{ constants.amazon_com }}).
+- [The Kobo Clara Colour is priced at €149.99 on Amazon](https://www.amazon.com/dp/B0D1KWK8WY?tag={{ constants.amazon_com }}).
 - [The Kobo Libra Colour is priced at €219.99 on Amazon](https://www.amazon.com/dp/B09XX5FVHJ?tag={{ constants.amazon_com }}).
 
 Both are exceptional choices, but weigh your priorities carefully.
 
 **Ready to upgrade your reading experience? Get the Kobo Clara Colour or the Kobo Libra Colour now and dive into your next favorite book! 📚**
 
-{% include amazon.html asin="B07XX5FVHJ" imageUrl="https://i.imgur.com/ereader-war.jpg" %}
+{% include amazon.html asin="B0D1KWK8WY" imageUrl="https://i.imgur.com/EpCQi3gt.jpg" %}
 
 Happy reading! 📚💨

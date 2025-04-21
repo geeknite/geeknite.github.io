@@ -16,7 +16,7 @@ last_modified_at: '2025-04-21T10:00:00+02:00'
 
 The **iGPSPORT iGS800** is a premium bike computer that promises to be the ultimate companion for tech-savvy cyclists. With advanced features, a sleek design, and a vibrant display, it’s like having a personal coach and navigator on your handlebars.
 
-{% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
+{% include amazon.html asin="B0CYSNV1R8" imageUrl="https://i.imgur.com/nBSp1vhm.jpeg" %}
 
 ---
 
@@ -24,7 +24,7 @@ The **iGPSPORT iGS800** is a premium bike computer that promises to be the ultim
 
 The **BSC300T** is the underdog in this competition, offering a budget-friendly option without skimping on essential features. It’s compact, reliable, and perfect for cyclists who want a no-nonsense device.
 
-{% include amazon.html asin="B0BT36VBGM" imageUrl="https://i.imgur.com/aRyU7Xes.jpg" %}
+{% include amazon.html asin="B0DJP2WVS4" imageUrl="https://i.imgur.com/EP2rI0Fm.jpeg" %}
 
 ---
 
@@ -125,7 +125,7 @@ The **BSC300T** is the underdog in this competition, offering a budget-friendly 
 - You prefer a compact and lightweight design.
 - You don’t need advanced features for casual rides.
 
--------------
+---
 
 *Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on {{ site.constants.wsibName }}**](<{{ site.constants.wsib }}/garmin edge 530>) *to compare prices.*
 

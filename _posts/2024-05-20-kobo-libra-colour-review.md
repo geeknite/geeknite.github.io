@@ -6,7 +6,7 @@ description: "A hilarious and engaging review of the Kobo Libra eReader. Discove
 last_modified_at: '2025-04-21T10:00:00+02:00'
 ---
 
-![Kobo Libra](https://i.imgur.com/aSMZ6cxs.jpg)
+[![Kobo Libra](https://i.imgur.com/OfrZqlpm.jpg){: style='float: right;'}]({{ site.constants.wsib }}/kobo-libra)
 
 Welcome back, Geeknite readers! Today, we're diving into the world of e-readers with a detailed review of the **Kobo Libra**. Spoiler alert: it’s so good, you might just want to trade your paperbacks for pixels. With its sleek design, impressive features, and customizable reading experience, the Kobo Libra has captured the hearts of bookworms everywhere. But does it truly live up to its reputation? Let’s find out!
 
@@ -87,8 +87,8 @@ The Kobo Libra is a fantastic e-reader that offers a top-notch reading experienc
 
 **Ready to upgrade your reading experience? Get the Kobo Libra now and dive into a world of endless possibilities!**
 
-{% include amazon.html asin="B07XXFFSJJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
+{% include amazon.html asin="B0CZXX465Z" imageUrl="https://i.imgur.com/OfrZqlpm.jpg" %}
 
-[Check our new comparison with the **Kobo Clara Colour** and see how it stacks up against the competition!]({%- post_url 2025-04-20-kobo-clara-vs-libra-review -%})
+[Check our new comparison with the **Kobo Clara Colour** and see how it stacks up against the competition!]({%- post_url 2025-02-20-kobo-clara-vs-libra-review -%})
 
 Happy reading! 📚✨
