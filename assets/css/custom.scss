@@ -1,6 +1,10 @@
 ---
 ---
 
+.sidebar.sticky {
+  overflow: hidden !important;
+}
+
 .site-logo {
   img {
     border-radius: 5px;
