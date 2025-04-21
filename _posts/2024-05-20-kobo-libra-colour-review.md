@@ -51,7 +51,7 @@ The Kobo Libra is loaded with features that make it stand out from the competiti
 
 ## **Comparison with Other E-Readers**
 
-### [Kindle Touch Update: Time to Finish a Chapter]({%- post_url 2013-05-17-updated-kindle-surprise-time-to-finish.html -%})
+### [Kindle Touch Update: Time to Finish a Chapter]({%- post_url 2013-05-17-updated-kindle-surprise-time-to-finish -%})
 
 The Kindle Touch introduced a groundbreaking feature: **ETA to complete a chapter or book**. While the Kobo Libra doesn’t have this exact feature, its intuitive interface and customizable reading experience make it a strong contender for readers who want a modern, feature-packed device. This is an old article but the Kindle is a reference point for e-readers.
 
