@@ -71,6 +71,7 @@ A welcome addition to FC25 is the introduction of Women’s Ultimate Team. This 
 
 Crossplay has been expanded to include more modes, allowing players on different platforms to compete against each other. It’s a great feature—until you realize your friend on PC has mods that make their team unstoppable. (Looking at you, 150-rated Haaland.)
 
+ {% comment %}
 <!-- ---
 
 ## Comparison with Other Football Games
@@ -82,6 +83,8 @@ While FC25 dominates in terms of licenses and presentation, eFootball offers a m
 If you’re more into strategy and less into button-mashing, Football Manager is the way to go. It’s a completely different experience but equally addictive.
 
 --- -->
+{% endcomment %}
+
 
 ## Final Recommendation
 
