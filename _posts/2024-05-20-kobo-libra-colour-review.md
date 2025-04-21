@@ -51,14 +51,6 @@ The Kobo Libra is loaded with features that make it stand out from the competiti
 
 ## **Comparison with Other E-Readers**
 
-<!-- ### [Kindle Paperwhite]({%- post_url 2023-01-31-kindle-paperwhite-review -%})
-
-The Kindle Paperwhite is a strong competitor with its seamless integration into Amazon’s ecosystem. However, the Kobo Libra shines with its support for more file formats and library integration, making it ideal for readers who value flexibility.
-
-### [Nook GlowLight Plus]({%- post_url 2023-04-06-nook-glowlight-plus-review -%})
-
-The Nook GlowLight Plus offers a similar display and reading experience, but the Kobo Libra’s additional features, like ComfortLight PRO and physical buttons, make it a more appealing choice for avid readers. -->
-
 ### [Kindle Touch Update: Time to Finish a Chapter]({%- post_url 2013-05-17-updated-kindle-surprise-time-to-finish.html -%})
 
 The Kindle Touch introduced a groundbreaking feature: **ETA to complete a chapter or book**. While the Kobo Libra doesn’t have this exact feature, its intuitive interface and customizable reading experience make it a strong contender for readers who want a modern, feature-packed device. This is an old article but the Kindle is a reference point for e-readers.
