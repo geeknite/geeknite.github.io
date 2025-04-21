@@ -94,10 +94,8 @@ Para asegurarte de que tus zapatillas duren más tiempo, sigue estos consejos de
 
 Elegir las zapatillas adecuadas para el fútbol sala puede parecer una tarea monumental, pero con la información correcta, puedes tomar una decisión informada. Recuerda considerar la comodidad, el agarre, la durabilidad y el estilo. ¡Y no olvides cuidar bien tus zapatillas para que te acompañen en muchos partidos!
 
-**¡Haz clic aquí para comprar tus nuevas zapatillas de fútbol sala y conquistar la cancha como un verdadero profesional!** [Compra Zapatillas de Fútbol Sala]({{ site.constants.wsib }}/zapatillas-futbol-sala)
+<!-- **¡Haz clic aquí para comprar tus nuevas zapatillas de fútbol sala y conquistar la cancha como un verdadero profesional!** [Compra Zapatillas de Fútbol Sala]({{ site.constants.wsib }}/zapatillas-futbol-sala)
 
- {% comment %}
-**¿Buscas más recomendaciones?** No te pierdas nuestra guía sobre [equipamiento deportivo para 2025]({%- post_url 2025-01-15-equipamiento-deportivo-2025 -%}) o nuestra lista de [los mejores accesorios para fútbol sala]({%- post_url 2025-03-10-accesorios-futbol-sala -%}).
-{% endcomment %}
+**¿Buscas más recomendaciones?** No te pierdas nuestra guía sobre [equipamiento deportivo para 2025]({%- post_url 2025-01-15-equipamiento-deportivo-2025 -%}) o nuestra lista de [los mejores accesorios para fútbol sala]({%- post_url 2025-03-10-accesorios-futbol-sala -%}). -->
 
 ¡Nos vemos en la cancha!
