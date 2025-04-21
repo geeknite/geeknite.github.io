@@ -1,8 +1,9 @@
 ---
 title: "Kobo Clara vs Libra: Which eReader Will Rule Your Bookshelf?"
-summary: "An extensive and hilarious review of two of the most popular eReaders, the Kobo Clara and Libra. Find out which one deserves a spot in your reading arsenal!"
-date: 2025-04-20
+date: 2025-02-20
 tags: [ereaders, technology, gadgets, comparison]
+last_modified_at: '2025-04-21T10:00:00+02:00'
+description: "A detailed and humorous comparison of the Kobo Clara Colour and Kobo Libra Colour eReaders. Discover which one is the best fit for your reading needs!"
 ---
 
 ![Kobo Clara vs Libra](https://i.imgur.com/ereader-war.jpg){: .align-right}
