@@ -18,7 +18,7 @@ Antes del lanzamiento de Fallout 4, los fans tenían una lista de deseos y preoc
 
 #### Los Desafíos: Innovar sin alienar a los fans
 
-Bethesda enfrentó el difícil equilibrio de innovar mientras mantenía la esencia de la franquicia. Los fans querían un mundo más grande, mejores gráficos y una historia más profunda, pero sin perder el encanto postapocalíptico que define a Fallout. Si te interesa cómo otras franquicias han manejado este equilibrio, consulta nuestra [reseña de XCOM 2]({%- post_url 2016-02-05-xcom-2-review -%}).
+Bethesda enfrentó el difícil equilibrio de innovar mientras mantenía la esencia de la franquicia. Los fans querían un mundo más grande, mejores gráficos y una historia más profunda, pero sin perder el encanto postapocalíptico que define a Fallout. Si te interesa cómo otras franquicias han manejado este equilibrio, consulta nuestra [reseña de Persona 5 Royal]({%- post_url 2022-04-23-persona-5-royal-review -%}).
 
 #### Lo Bueno: Un mundo más grande y detallado
 
@@ -34,7 +34,7 @@ Ah, los bugs. Bethesda y los bugs son como el pan y la mantequilla: inseparables
 
 ### ¿Vale la pena en 2023?
 
-Con la llegada de juegos más modernos, Fallout 4 puede sentirse un poco anticuado. Sin embargo, sigue siendo una experiencia sólida, especialmente si aprovechas los mods de la comunidad. Si buscas algo más reciente, consulta nuestra [reseña de Starfield]({%- post_url 2023-09-06-starfield-review -%}).
+Con la llegada de juegos más modernos, Fallout 4 puede sentirse un poco anticuado. Sin embargo, sigue siendo una experiencia sólida, especialmente si aprovechas los mods de la comunidad. Si buscas algo más reciente, consulta nuestra [reseña de Crusader Kings III]({%- post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game -%}).
 
 {% include amazon.html asin="B09XX5FVHJ" %}
 
