@@ -5,7 +5,7 @@ description: "Join us for a rollercoaster ride through the latest Xiaomi gadgets
 tags: [Xiaomi, eBay, gadgets, reviews, shopping]
 ---
 
-![Xiaomi Gadgets](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}
+[![Xiaomi Gadgets](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}]({{ site.constants.wsib }}/xiaomi-gadgets)
 
 **Welcome, fellow tech enthusiasts!** If you thought eBay was just for second-hand goods and bargain hunters, think again. In 2025, it's the go-to place for some of the hottest Xiaomi gadgets. Grab your popcorn and get ready for a tour of the coolest tech you can buy right now. Spoiler alert: your wallet might cry, but your inner geek will thank you.
 

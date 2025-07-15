@@ -22,25 +22,25 @@ The Wahoo ELEMNT BOLT is more than just a bike computer; it's a comprehensive cy
 
 The Wahoo ELEMNT BOLT stands out for its user-friendly interface. It's easy to set up and navigate, making it a great choice for those new to GPS bike computers.
 
-The device also excels in terms of connectivity. It's compatible with both ANT+ and Bluetooth sensors, allowing you to connect it with a wide range of devices. Plus, it integrates seamlessly with popular cycling apps like Strava and Komoot【4:1†source】.
+The device also excels in terms of connectivity. It's compatible with both ANT+ and Bluetooth sensors, allowing you to connect it with a wide range of devices. Plus, it integrates seamlessly with popular cycling apps like Strava and Komoot.
 
-In addition to its connectivity, the Wahoo ELEMNT BOLT offers advanced performance metrics. It tracks your speed, distance, and elevation accurately, providing valuable insights for training and performance improvement【4:1†source】.
+In addition to its connectivity, the Wahoo ELEMNT BOLT offers advanced performance metrics. It tracks your speed, distance, and elevation accurately, providing valuable insights for training and performance improvement.
 
-Another notable feature is the device's aerodynamic design. The sleek and compact form factor reduces drag, making it ideal for cyclists who prioritize speed and efficiency【4:1†source】.
+Another notable feature is the device's aerodynamic design. The sleek and compact form factor reduces drag, making it ideal for cyclists who prioritize speed and efficiency.
 
 [Buy Wahoo ELEMNT BOLT]({{ site.constants.wsib }}/wahoo%20elemnt%20bolt)
 
 ## Cons
 
-While the Wahoo ELEMNT BOLT is packed with features, it lacks a color display. This can make the map view less intuitive compared to other devices on the market【4:1†source】.
+While the Wahoo ELEMNT BOLT is packed with features, it lacks a color display. This can make the map view less intuitive compared to other devices on the market.
 
-The device's battery life is also a bit short compared to its competitors. However, it's still sufficient for most rides. With up to 15 hours of battery life, the Wahoo ELEMNT BOLT can handle long-distance rides, but it may require charging for multi-day adventures【4:1†source】.
+The device's battery life is also a bit short compared to its competitors. However, it's still sufficient for most rides. With up to 15 hours of battery life, the Wahoo ELEMNT BOLT can handle long-distance rides, but it may require charging for multi-day adventures.
 
 ## Advanced Features
 
-Beyond its core functionalities, the Wahoo ELEMNT BOLT offers several advanced features that enhance the cycling experience. One such feature is the integration with smart trainers. By connecting the device to a compatible smart trainer, cyclists can simulate real-world routes, adjust resistance automatically, and engage in virtual training sessions【4:1†source】.
+Beyond its core functionalities, the Wahoo ELEMNT BOLT offers several advanced features that enhance the cycling experience. One such feature is the integration with smart trainers. By connecting the device to a compatible smart trainer, cyclists can simulate real-world routes, adjust resistance automatically, and engage in virtual training sessions.
 
-The Wahoo ELEMNT BOLT also supports third-party app integration, allowing users to customize their cycling experience further. From training plans and virtual challenges to personalized data analysis, the possibilities are endless【4:1†source】.
+The Wahoo ELEMNT BOLT also supports third-party app integration, allowing users to customize their cycling experience further. From training plans and virtual challenges to personalized data analysis, the possibilities are endless.
 
 ## Funny Bits & Remarkable Moments
 
@@ -54,7 +54,7 @@ Let's see how the Wahoo ELEMNT BOLT compares to its main competitors.
 
 ### Garmin Edge 530
 
-The Garmin Edge 530 is a top-tier alternative with advanced training features, better navigation, and a more polished app experience. However, it comes at a significantly higher price point. If you're serious about cycling and have the budget, it's worth considering. You can read more about it in our [Garmin Edge 530 review]({% post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying %})【4:0†source】【4:1†source】.
+The Garmin Edge 530 is a top-tier alternative with advanced training features, better navigation, and a more polished app experience. However, it comes at a significantly higher price point. If you're serious about cycling and have the budget, it's worth considering. You can read more about it in our [Garmin Edge 530 review]({% post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying %}).
 
 ### iGPSPORT iGS630
 
