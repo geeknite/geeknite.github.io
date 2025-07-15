@@ -104,13 +104,13 @@ Now, let the battle begin! 🥊
 
 ---------
 
-## **Connectivity: Staying in the Loop**
+## **Connectivity: Staying Connected**
 
-*Being connected is essential, even when you're miles away from civilization!*
+*Whether it's syncing your rides or receiving notifications, connectivity is key.*
 
-**Garmin Edge 530**: The Edge 530 comes with a plethora of connectivity options, allowing you to sync your data seamlessly and stay connected with other riders. You can even receive notifications from your phone, just in case someone's trying to reach you while you're conquering those hills.
+**Garmin Edge 530**: The Edge 530 offers excellent connectivity options, including Bluetooth, ANT+, and Wi-Fi. You won't miss out on your vital data uploads and can keep track of your progress effortlessly.
 
-**iGPSPORT iGS630**: The iGS630 might not have all the bells and whistles of the Edge 530, but it still offers reliable Bluetooth and ANT+ connectivity. You won't miss out on your vital data uploads and can keep track of your progress effortlessly.
+**iGPSPORT iGS630**: Though it offers Bluetooth and ANT+, the iGS630 lacks Wi-Fi connectivity.
 
 **Winner**: 🏆 Garmin Edge 530 - Connectivity king!
 

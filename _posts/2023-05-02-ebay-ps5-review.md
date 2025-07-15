@@ -1,8 +1,9 @@
 ---
 title: "The PS5: A Rollercoaster Ride of Gaming Excellence and Quirks"
-date: 2025-05-02
+date: 2023-05-02
 tags: gaming, PS5, review, ebay
 description: "Join us for a hilarious and comprehensive review of the PS5 available on eBay in 2025. From its impressive specs to the quirks that make you chuckle, we've got it all!"
+last_modified_at: '2025-05-02T17:30:20.5174695Z'
 ---
 
 [![PS5](https://i.imgur.com/hfOlYVsm.jpg){: .align-right}]({{ site.constants.wsib }}/ps5)

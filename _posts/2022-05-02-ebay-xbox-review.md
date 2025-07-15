@@ -1,14 +1,15 @@
 ---
 title: "Xbox Review: The Good, The Bad, and The Ugly"
-date: '2025-05-02T17:30:20.5174695Z'
+date: '2022-05-02T17:30:20.5174695Z'
 tags:
 - xbox
 - review
 - gaming
 - consoles
+last_modified_at: '2025-05-02T18:02:22.7534606Z'
 ---
 
-![Xbox](https://example.com/xbox.jpg){: .align-right}
+[![Xbox](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}]({{ site.constants.wsib }}/xbox)
 
 ## Introduction
 
@@ -52,6 +53,6 @@ The Xbox controllers are great, but the battery life? Not so much. Get ready to 
 
 Overall, the Xbox Series X is an excellent console. It offers fantastic performance, a vast game library, and backward compatibility. Sure, it has its downsides, but what console doesn't? If you're a dedicated gamer, this is a worthy investment.
 
-**Ready to level up your gaming experience? Get your Xbox Series X today! [Buy Now](https://www.amazon.com/dp/B08J5F3G18)**
+**Ready to level up your gaming experience? Get your Xbox Series X today! [Buy Now](https://www.amazon.com/dp/B08J5F3G18&tag={{ site.constants.amazon_com }})**
 
 Until next time, happy gaming!
