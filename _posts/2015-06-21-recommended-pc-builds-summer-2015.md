@@ -18,7 +18,7 @@ En 2015, construir un PC para gaming era un arte. Había que equilibrar potencia
 
 #### Lo Bueno: Configuraciones equilibradas
 
-Las builds recomendadas en 2015 ofrecían un equilibrio sólido entre precio y rendimiento. Desde opciones económicas para juegos casuales hasta configuraciones avanzadas para títulos AAA, había algo para todos. Si estás buscando algo más moderno, consulta nuestra [guía de PC gaming 2023]({%- post_url 2023-01-15-best-pc-builds-2023 -%}).
+Las builds recomendadas en 2015 ofrecían un equilibrio sólido entre precio y rendimiento. Desde opciones económicas para juegos casuales hasta configuraciones avanzadas para títulos AAA, había algo para todos. Si estás buscando algo más moderno, consulta nuestra [guía de PC gaming 2023]({{ site.constants.wsib }}/gaming).
 
 #### Lo Malo: La obsolescencia tecnológica
 
@@ -26,7 +26,7 @@ La tecnología avanza rápido, y lo que era impresionante en 2015 ahora apenas c
 
 #### Lo Feo: Los precios de las GPUs
 
-Incluso en 2015, las tarjetas gráficas eran caras. Y con la locura de las criptomonedas en los últimos años, los precios solo han empeorado. Si estás buscando una GPU asequible, buena suerte. O mejor aún, consulta nuestra [reseña de GPUs económicas]({%- post_url 2023-06-10-best-budget-gpus -%}).
+Incluso en 2015, las tarjetas gráficas eran caras. Y con la locura de las criptomonedas en los últimos años, los precios solo han empeorado. Si estás buscando una GPU asequible, buena suerte. O mejor aún, consulta nuestra [reseña de GPUs económicas]({{ site.constants.wsib }}/gpu).
 
 ### ¿Vale la pena en 2023?
 

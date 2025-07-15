@@ -1,5 +1,5 @@
 ---
-title: Preparando la llegada de GTA V: ¿El mejor juego de la década o solo humo?
+title: "Preparando la llegada de GTA V: ¿El mejor juego de la década o solo humo?"
 date: '2013-09-10T20:43:00.001+02:00'
 tags:
 - español
@@ -11,11 +11,10 @@ tags:
 - consolas
 last_modified_at: '2023-11-01T12:00:00+01:00'
 thumbnail: https://1.bp.blogspot.com/-v7OQL5CYxB0/Ui9oC9fT5MI/AAAAAAAAAbE/Y8pjLAaBR88/s72-c/GTA-V-big%5B1%5D.jpg
-blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-5570182951849907927
 description: "¿Es GTA V el mejor juego de la década o solo una promesa inflada? Descubre todo lo que necesitas saber antes de su lanzamiento."
 ---
 
-![GTA V](https://1.bp.blogspot.com/-v7OQL5CYxB0/Ui9oC9fT5MI/AAAAAAAAAbE/Y8pjLAaBR88/s320/GTA-V-big%5B1%5D.jpg)
+[![GTA V](https://1.bp.blogspot.com/-v7OQL5CYxB0/Ui9oC9fT5MI/AAAAAAAAAbE/Y8pjLAaBR88/s320/GTA-V-big%5B1%5D.jpg)]{: .align-right}]({{ site.constants.wsib }}/gta-v)
 
 ### ¿Estamos listos para GTA V o nos están vendiendo humo?
 
@@ -43,7 +42,7 @@ Si eres un fanático de la saga, probablemente ya lo tengas reservado. Pero si a
 - **Contras**:  
   - Exclusivo para consolas de la generación pasada (por ahora).  
   - El precio es alto, y no sabemos si realmente valdrá la pena.  
-  - ¿Recuerdas el hype de [Diablo 3]({%- post_url 2012-05-15-diablo-3-review -%})? Exacto, cuidado con las expectativas.
+  - ¿Recuerdas el hype de [Diablo 3]({%- post_url 2013-09-09-diablo-3-un-buen-juego-en-mal-momento -%})? Exacto, cuidado con las expectativas.
 
 ---
 

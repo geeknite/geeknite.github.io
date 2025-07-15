@@ -73,10 +73,10 @@ Crossplay has been expanded to include more modes, allowing players on different
 
 ## Comparison with Other Football Games
 
-### [eFootball 2025]({%- post_url 2024-09-15-efootball-2025-review -%})
+### [eFootball 2025]({{ site.constants.wsib }}/efootball-2025-review)
 While FC25 dominates in terms of licenses and presentation, eFootball offers a more budget-friendly alternative. However, its gameplay still feels a bit clunky compared to FC25’s polished mechanics.
 
-### [Football Manager 2025]({%- post_url 2024-11-10-football-manager-2025-review -%})
+### [Football Manager 2025]({{ site.constants.wsib }}/football-manager-2025-review)
 If you’re more into strategy and less into button-mashing, Football Manager is the way to go. It’s a completely different experience but equally addictive.
 
 ---

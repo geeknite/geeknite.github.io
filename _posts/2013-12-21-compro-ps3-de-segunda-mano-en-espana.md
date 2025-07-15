@@ -16,7 +16,7 @@ thumbnail: https://3.bp.blogspot.com/-Kuf2_RyxQqQ/UrXH8aVyFmI/AAAAAAAAAfc/zlqjyt
 description: "Buscando una PS3 de segunda mano en España. ¿Vale la pena en 2023 o es mejor invertir en algo más moderno?"
 ---
 
-![PS3 Segunda Mano](https://3.bp.blogspot.com/-Kuf2_RyxQqQ/UrXH8aVyFmI/AAAAAAAAAfc/zlqjyttH7Gk/s1600/consola-playstation-3-slim-320gb-sony-ps3-segunda-mano%5B1%5D.jpg)
+[![PS3 Segunda Mano](https://3.bp.blogspot.com/-Kuf2_RyxQqQ/UrXH8aVyFmI/AAAAAAAAAfc/zlqjyttH7Gk/s1600/consola-playstation-3-slim-320gb-sony-ps3-segunda-mano%5B1%5D.jpg){: .align-right}]({{ site.constants.wsib }}/ps3)
 
 ### [Cerrado] Compro PS3 de segunda mano en España
 
@@ -42,6 +42,6 @@ Con opciones como la PS5 y la Xbox Series X, invertir en una PS3 de segunda mano
 
 ### Conclusión: ¿Un clásico o un anacronismo?
 
-La PS3 fue una gran consola en su tiempo, pero en 2023, es difícil justificar su compra. Si estás buscando algo más moderno, consulta nuestra [guía de consolas actuales]({%- post_url 2023-01-15-best-modern-consoles -%}).
+La PS3 fue una gran consola en su tiempo, pero en 2023, es difícil justificar su compra. Si estás buscando algo más moderno, consulta nuestra [guía de consolas actuales]({{ site.constants.wsib }}/consola).
 
 **¿Qué opinas? ¿Vale la pena comprar una PS3 en 2023? Déjanos tu comentario abajo.**
