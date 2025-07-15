@@ -40,4 +40,4 @@ Aunque hay opciones como PCComponentes, opté por Amazon por su facilidad de com
 
 ### Conclusión: ¿Vale la pena?
 
-Por menos de 250€, logré un PC funcional y económico. Si estás buscando actualizar tu equipo sin gastar una fortuna, esta configuración es ideal. **Pro Tip:** Revisa nuestra [comparativa de SSDs Samsung]({%- post_url 2013-01-24-samsung-840-vs-840-pro-vs-830-comparison -%}) para mejorar aún más tu PC.
+Por menos de 250€, logré un PC funcional y económico. Si estás buscando actualizar tu equipo sin gastar una fortuna, esta configuración es ideal. **Pro Tip:** Revisa nuestra [comparativa de SSDs Samsung]({%- post_url 2013-01-31-samsung-840-vs-840-pro-vs-830-comparison -%}) para mejorar aún más tu PC.
