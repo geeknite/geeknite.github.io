@@ -28,7 +28,7 @@ Después de años de espera, *Grand Theft Auto V* finalmente llegó. Pero, ¿cum
 
 #### Lo Bueno: Un mundo vivo y detallado
 
-Rockstar ha creado un mundo abierto que se siente vivo. Desde las calles de Los Santos hasta las montañas de Blaine County, cada rincón está lleno de detalles. Si te gustan los mundos abiertos, también te interesará nuestra [reseña de Red Dead Redemption 2]({%- post_url 2018-10-26-red-dead-redemption-2-review -%}).
+Rockstar ha creado un mundo abierto que se siente vivo. Desde las calles de Los Santos hasta las montañas de Blaine County, cada rincón está lleno de detalles. Si te gustan los mundos abiertos, también te interesará nuestra reseña de Red Dead Redemption 2.
 
 #### Lo Malo: ¿Demasiado ambicioso?
 

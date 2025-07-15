@@ -25,7 +25,7 @@ Faltan menos de siete días para el lanzamiento de **Grand Theft Auto V**, y la 
 
 ### ¿Qué hace a GTA V tan especial?
 
-Rockstar ha demostrado ser una máquina de éxitos con títulos como [Red Dead Redemption]({%- post_url 2018-10-26-red-dead-redemption-2-review -%}) y [GTA IV]({%- post_url 2008-04-29-gta-iv-review -%}). Pero con GTA V, han prometido el cielo: un mundo abierto más grande que nunca, personajes inolvidables y la inclusión de **GTA Online**, que promete ser un juego dentro del juego.
+Rockstar ha demostrado ser una máquina de éxitos con títulos como Red Dead Redemption y GTA IV. Pero con GTA V, han prometido el cielo: un mundo abierto más grande que nunca, personajes inolvidables y la inclusión de **GTA Online**, que promete ser un juego dentro del juego.
 
 Sin embargo, no todo es perfecto. **¿Por qué solo PS3 y Xbox 360?** ¿Qué pasa con los jugadores de PC? ¿Y qué hay de las consolas de nueva generación? Parece que Rockstar está jugando a lo seguro, pero a costa de dejar a muchos jugadores fuera de la ecuación.
 
