@@ -1,5 +1,5 @@
 ---
-title: GoPro HERO4 Session y comparativa entre cámaras GoPro: ¿La mejor opción o una decepción?
+title: "GoPro HERO4 Session y comparativa entre cámaras GoPro: ¿La mejor opción o una decepción?"
 date: '2015-12-16T13:42:00.000+01:00'
 author: Fernando
 tags:
@@ -18,7 +18,7 @@ thumbnail: https://3.bp.blogspot.com/-oOKPmGjGSrI/VnFbJ9gu79I/AAAAAAAAAqs/9CFjs5
 blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-2039170604654188194
 ---
 
-![GoPro HERO4 Session](https://3.bp.blogspot.com/-oOKPmGjGSrI/VnFbJ9gu79I/AAAAAAAAAqs/9CFjs5c9UgM/s72-c/CHDHS-101_cyber2%255B1%255D.jpg)
+[![GoPro HERO4 Session](https://3.bp.blogspot.com/-oOKPmGjGSrI/VnFbJ9gu79I/AAAAAAAAAqs/9CFjs5c9UgM/s72-c/CHDHS-101_cyber2%255B1%255D.jpg)]{: .align-right}]({{ site.constants.wsib }}/gopro)
 
 ### Comparativa entre cámaras GoPro: ¿Realmente vale la pena?
 

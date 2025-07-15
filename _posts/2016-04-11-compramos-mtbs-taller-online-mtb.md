@@ -21,7 +21,7 @@ description: "Descubre cómo darle una segunda vida a tu MTB con nuestro taller 
 
 #### Lo Bueno: Una segunda oportunidad
 
-Nuestro servicio no solo se limita a comprar y vender bicicletas. También realizamos ajustes, mantenimientos y actualizaciones para que cada MTB esté lista para enfrentarse a cualquier sendero. Si estás buscando inspiración, consulta nuestra [guía de equipamiento para MTB en 2023]({%- post_url 2023-01-15-best-mtb-gear-2023 -%}).
+Nuestro servicio no solo se limita a comprar y vender bicicletas. También realizamos ajustes, mantenimientos y actualizaciones para que cada MTB esté lista para enfrentarse a cualquier sendero. Si estás buscando inspiración, consulta nuestra [guía de equipamiento para MTB en 2023]({{ site.constants.wsib }}/mtb-gear).
 
 #### Lo Malo: No todas las bicis califican
 
@@ -31,7 +31,7 @@ Seamos claros, no estamos interesados en bicicletas que parecen haber sobrevivid
 
 El mercado de bicicletas de segunda mano puede ser un campo minado. Desde precios inflados hasta componentes en mal estado, encontrar una buena oferta puede ser un desafío. Pero no te preocupes, nosotros nos encargamos de todo.
 
-![Canyon Nerve restaurada](https://3.bp.blogspot.com/-kgN-Zk3PtZc/Vwu9E3CEusI/AAAAAAAAAxw/8MYUKqaZcGIk8oKEz5qiJm6kGNjedPZSA/s320/custom%2Bnerve%2B2010%2Bputinyourbasket.jpg)
+[![Canyon Nerve restaurada](https://3.bp.blogspot.com/-kgN-Zk3PtZc/Vwu9E3CEusI/AAAAAAAAAxw/8MYUKqaZcGIk8oKEz5qiJm6kGNjedPZSA/s320/custom%2Bnerve%2B2010%2Bputinyourbasket.jpg){: .align-right}]({{ site.constants.wsib }}/mtb)
 
 ### Conclusión: ¿Vale la pena?
 

@@ -1,5 +1,5 @@
 ---
-title: Logitech G602 Long-Term Review: ¿El mejor ratón o un ladrillo caro?
+title: "Logitech G602 Long-Term Review: ¿El mejor ratón o un ladrillo caro?"
 date: '2017-05-28T19:13:00.000+02:00'
 tags:
 - español
@@ -12,11 +12,10 @@ tags:
 - mouse
 last_modified_at: '2023-11-01T12:00:00+01:00'
 thumbnail: https://4.bp.blogspot.com/-NCLSS_T7DHM/WSqB8gm4cTI/AAAAAAAAA_o/9gVHsJd9_fgHg5lrSn_flLy8hYFzkmJjQCEw/s72-c/logitech%2Bg602%2B%25282%2529.jpg
-blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-5729619729080891900
 description: "¿Es el Logitech G602 el mejor ratón inalámbrico o solo un ladrillo caro? Descúbrelo en nuestra review."
 ---
 
-![Logitech G602](https://4.bp.blogspot.com/-NCLSS_T7DHM/WSqB8gm4cTI/AAAAAAAAA_o/9gVHsJd9_fgHg5lrSn_flLy8hYFzkmJjQCEw/s320/logitech%2Bg602%2B%25282%2529.jpg)
+[![Logitech G602](https://4.bp.blogspot.com/-NCLSS_T7DHM/WSqB8gm4cTI/AAAAAAAAA_o/9gVHsJd9_fgHg5lrSn_flLy8hYFzkmJjQCEw/s320/logitech%2Bg602%2B%25282%2529.jpg){: .align-right}]({{ site.constants.wsib }}/logitech)
 
 ### ¿Es el Logitech G602 un ratón o un ladrillo con botones?
 
@@ -52,7 +51,7 @@ El G602 ofrece hasta **250 horas de batería** en modo rendimiento, lo cual es i
 
 ### ¿Deberías comprarlo?
 
-Si buscas un ratón inalámbrico para gaming que no te deje tirado en medio de una partida, el G602 es una opción sólida. Pero si prefieres algo más ligero o con un diseño más discreto, tal vez quieras considerar alternativas como el [Logitech MX Master]({%- post_url 2018-03-15-logitech-mx-master-review -%}) o incluso algo de [Razer]({%- post_url 2019-06-10-razer-deathadder-review -%}).
+Si buscas un ratón inalámbrico para gaming que no te deje tirado en medio de una partida, el G602 es una opción sólida. Pero si prefieres algo más ligero o con un diseño más discreto, tal vez quieras considerar alternativas como el [Logitech MX Master]({{ site.constants.wsib }}/logitech-mx-master) o incluso algo de [Razer]({{ site.constants.wsib }}/razer).
 
 **Conclusión:** El Logitech G602 es como un tanque: confiable, robusto, pero no para todos. Si puedes lidiar con su tamaño y peso, es una gran inversión. Si no, sigue buscando. ¡Gracias por leernos y no olvides compartir tu experiencia con este ratón en los comentarios!
 

@@ -11,7 +11,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Exploramos la Nintendo Switch: ¿Es realmente la consola híbrida definitiva o solo otra moda pasajera? Descubre sus pros, contras y si vale la pena en 2023."
 ---
 
-![Nintendo Switch](https://i.imgur.com/MNtDsawm.jpg){: .align-right}
+[![Nintendo Switch](https://i.imgur.com/MNtDsawm.jpg){: .align-right}{: .align-right}]({{ site.constants.wsib }}/nintendo-switch)
 
 ### Nintendo Switch: ¿La consola híbrida definitiva?
 
@@ -19,7 +19,7 @@ Cuando Nintendo lanzó la Switch, prometió revolucionar la forma en que jugamos
 
 #### Lo Bueno: Versatilidad y exclusivas
 
-La Switch brilla en su versatilidad. Puedes jugar en casa, en el tren o incluso en la fila del supermercado. Además, cuenta con exclusivas como *The Legend of Zelda: Breath of the Wild* y *Super Mario Odyssey*, que son razón suficiente para comprarla. Si eres fan de Zelda, no te pierdas nuestra [reseña de Tears of the Kingdom]({%- post_url 2023-05-12-zelda-tears-of-the-kingdom-review -%}).
+La Switch brilla en su versatilidad. Puedes jugar en casa, en el tren o incluso en la fila del supermercado. Además, cuenta con exclusivas como *The Legend of Zelda: Breath of the Wild* y *Super Mario Odyssey*, que son razón suficiente para comprarla. Si eres fan de Zelda, no te pierdas nuestra [reseña de Tears of the Kingdom]({{ site.constants.wsib }}/tears-of-the-kingdom).
 
 #### Lo Malo: Hardware desfasado
 
@@ -27,7 +27,7 @@ Aunque la Switch es innovadora, su hardware deja mucho que desear. Los gráficos
 
 #### Lo Feo: Los Joy-Con y sus problemas
 
-Ah, los Joy-Con. Son cómodos y funcionales, pero el infame "drift" sigue siendo un problema. ¿Por qué Nintendo no ha solucionado esto después de tantos años? Si estás buscando alternativas, consulta nuestra [guía de accesorios para Switch]({%- post_url 2023-01-15-best-switch-accessories -%}).
+Ah, los Joy-Con. Son cómodos y funcionales, pero el infame "drift" sigue siendo un problema. ¿Por qué Nintendo no ha solucionado esto después de tantos años? Si estás buscando alternativas, consulta nuestra [guía de accesorios para Switch]({{ site.constants.wsib }}/switch-accessories).
 
 ### ¿Vale la pena en 2023?
 

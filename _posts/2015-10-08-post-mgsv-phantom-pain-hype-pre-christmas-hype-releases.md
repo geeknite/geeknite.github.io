@@ -21,15 +21,15 @@ Uno de los lanzamientos más esperados es, sin duda, *Fallout 4*. Bethesda prome
 
 #### Star Wars Battlefront: ¿Un reboot o un cash grab?
 
-La saga clásica regresa con gráficos impresionantes que harán babear a cualquier fan de Star Wars. Pero, ¿es suficiente para justificar el precio? Si no eres fan de los juegos multijugador, probablemente este no sea para ti. Más detalles en nuestra [comparativa de shooters multijugador]({%- post_url 2016-03-15-best-multiplayer-shooters -%}).
+La saga clásica regresa con gráficos impresionantes que harán babear a cualquier fan de Star Wars. Pero, ¿es suficiente para justificar el precio? Si no eres fan de los juegos multijugador, probablemente este no sea para ti. Más detalles en nuestra [comparativa de shooters multijugador]({{ site.constants.wsib }}/multiplayer-shooters).
 
 #### Call of Duty: Black Ops III: ¿Innovación o más de lo mismo?
 
-Otro año, otro *Call of Duty*. Esta vez, con un modo multijugador renovado y gráficos mejorados. Pero seamos honestos, ¿alguien realmente juega estos juegos por la historia? Si buscas algo diferente, tal vez quieras echar un vistazo a nuestra [reseña de shooters alternativos]({%- post_url 2017-05-10-top-alternative-shooters -%}).
+Otro año, otro *Call of Duty*. Esta vez, con un modo multijugador renovado y gráficos mejorados. Pero seamos honestos, ¿alguien realmente juega estos juegos por la historia? Si buscas algo diferente, tal vez quieras echar un vistazo a nuestra [reseña de shooters alternativos]({{ site.constants.wsib }}/alternative-shooters).
 
 ### ¿Vale la pena en 2023?
 
-Con tantos lanzamientos nuevos cada año, es fácil olvidar los juegos de 2015. Sin embargo, algunos de estos títulos han resistido la prueba del tiempo y siguen siendo relevantes, especialmente si los encuentras en oferta. Si estás buscando algo más reciente, consulta nuestra [guía de juegos imprescindibles de 2023]({%- post_url 2023-01-15-best-games-2023 -%}).
+Con tantos lanzamientos nuevos cada año, es fácil olvidar los juegos de 2015. Sin embargo, algunos de estos títulos han resistido la prueba del tiempo y siguen siendo relevantes, especialmente si los encuentras en oferta. Si estás buscando algo más reciente, consulta nuestra [guía de juegos imprescindibles de 2023]({{ site.constants.wsib }}/gaming).
 
 {% include amazon.html asin="B09XX5FVHJ" %}
 

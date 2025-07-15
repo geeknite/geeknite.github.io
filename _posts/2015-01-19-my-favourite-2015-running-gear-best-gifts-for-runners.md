@@ -13,7 +13,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre el mejor equipo para correr en 2015. ¿Qué sigue siendo relevante hoy? ¡Te contamos todo con un toque de humor y crítica!"
 ---
 
-![Equipo para correr](https://4.bp.blogspot.com/-pY3bM_GJxjU/VLxKtiwOGUI/AAAAAAAAAks/BXntPmInvL4/s1600/opening-long-run-gear-ss%5B1%5D.jpg)
+[![Equipo para correr](https://4.bp.blogspot.com/-pY3bM_GJxjU/VLxKtiwOGUI/AAAAAAAAAks/BXntPmInvL4/s1600/opening-long-run-gear-ss%5B1%5D.jpg){: .align-right}]({{ site.constants.wsib }}/running-gear)
 
 ### Mi equipo favorito para correr en 2015: ¿Sigue siendo relevante?
 
@@ -21,7 +21,7 @@ En 2015, el mundo del running estaba lleno de promesas tecnológicas y gadgets q
 
 #### Lo Bueno: Tecnología que realmente ayuda
 
-Algunos gadgets como los relojes GPS y las zapatillas con amortiguación avanzada realmente marcaron la diferencia. Por ejemplo, el Garmin Forerunner 220 fue un favorito entre los corredores por su precisión y facilidad de uso. Si estás buscando algo más moderno, echa un vistazo a nuestra [reseña del Garmin Forerunner 955]({%- post_url 2023-06-10-garmin-forerunner-955-review -%}).
+Algunos gadgets como los relojes GPS y las zapatillas con amortiguación avanzada realmente marcaron la diferencia. Por ejemplo, el Garmin Forerunner 220 fue un favorito entre los corredores por su precisión y facilidad de uso. Si estás buscando algo más moderno, echa un vistazo a nuestra [reseña del Garmin Forerunner 955]({%- post_url 2024-02-04-garmin-forerunner-945-review -%}).
 
 #### Lo Malo: ¿Realmente necesitas todo esto?
 
@@ -29,7 +29,7 @@ No todo lo que brilla es oro. Muchas de las "innovaciones" de 2015 eran más un 
 
 #### Lo Feo: El precio de ser un runner "moderno"
 
-El equipo de running puede ser caro, y en 2015 no era diferente. Desde zapatillas que costaban más que un billete de avión hasta ropa que prometía hacerte más rápido (spoiler: no lo hacía), ser un runner moderno era un lujo. Si estás buscando opciones más económicas, consulta nuestra [guía de regalos para runners en 2023]({%- post_url 2023-01-15-best-gifts-for-runners-2023 -%}).
+El equipo de running puede ser caro, y en 2015 no era diferente. Desde zapatillas que costaban más que un billete de avión hasta ropa que prometía hacerte más rápido (spoiler: no lo hacía), ser un runner moderno era un lujo. Si estás buscando opciones más económicas, consulta nuestra [guía de regalos para runners en 2023]({%- post_url 2015-01-19-my-favourite-2015-running-gear-best-gifts-for-runners -%}).
 
 ### ¿Qué sigue siendo relevante en 2023?
 

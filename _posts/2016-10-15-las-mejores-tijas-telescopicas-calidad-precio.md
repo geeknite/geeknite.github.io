@@ -1,5 +1,5 @@
 ---
-title: Las mejores tijas telescópicas calidad/precio: ¿Inversión inteligente o dinero tirado?
+title: "Las mejores tijas telescópicas calidad/precio: ¿Inversión inteligente o dinero tirado?"
 date: '2016-10-15T22:19:00.000+02:00'
 author: Fernando
 tags:
@@ -13,7 +13,7 @@ thumbnail: https://4.bp.blogspot.com/-AcrzTVNFZ0k/V_otjKNtrqI/AAAAAAAAA28/yc_upg
 blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-6587183119908818704
 ---
 
-![KS Eten](https://4.bp.blogspot.com/-AcrzTVNFZ0k/V_otjKNtrqI/AAAAAAAAA28/yc_upg1AUVcojspmLGUVL7PIJQgAmEU6QCLcB/s72-c/ks%2Beten.jpg)
+[![KS Eten](https://4.bp.blogspot.com/-AcrzTVNFZ0k/V_otjKNtrqI/AAAAAAAAA28/yc_upg1AUVcojspmLGUVL7PIJQgAmEU6QCLcB/s72-c/ks%2Beten.jpg){: .align-right}]({{ site.constants.wsib }}/tijas)
 
 ### Introducción: ¿Por qué necesitas una tija telescópica?
 

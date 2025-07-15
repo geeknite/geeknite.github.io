@@ -12,7 +12,7 @@ thumbnail: https://3.bp.blogspot.com/-yaaE_1bG8Lk/VoudG31cfaI/AAAAAAAAAtE/ROrnVi
 description: "Descubre si la Nitefighter BT21 es la linterna que necesitas para tus aventuras nocturnas en bicicleta. ¿Vale la pena o es solo otra promesa vacía?"
 ---
 
-![Nitefighter BT21](https://3.bp.blogspot.com/-yaaE_1bG8Lk/VoudG31cfaI/AAAAAAAAAtE/ROrnVi3EP0g/s1600/Nitefighter%2BBT21%2Binitial%2Bimpressions%2B%25286%2529.jpg)
+[![Nitefighter BT21](https://3.bp.blogspot.com/-yaaE_1bG8Lk/VoudG31cfaI/AAAAAAAAAtE/ROrnVi3EP0g/s1600/Nitefighter%2BBT21%2Binitial%2Bimpressions%2B%25286%2529.jpg){: .align-right}]({{ site.constants.wsib }}/bike-lights)
 
 ### Nitefighter BT21: ¿Una luz en la oscuridad o un destello pasajero?
 
@@ -20,7 +20,7 @@ La Nitefighter BT21 llegó al mercado como una linterna compacta y potente dise�
 
 #### Lo Bueno: Compacta y potente
 
-La BT21 es sorprendentemente compacta para la cantidad de luz que emite. Con 1600 lúmenes, esta linterna puede convertir la noche en día, al menos en teoría. Además, su diseño robusto y resistente al agua la hace ideal para condiciones climáticas adversas. Si te gusta explorar rutas nocturnas, también te interesará nuestra [guía de equipamiento para MTB en 2023]({%- post_url 2023-01-15-best-mtb-gear-2023 -%}).
+La BT21 es sorprendentemente compacta para la cantidad de luz que emite. Con 1600 lúmenes, esta linterna puede convertir la noche en día, al menos en teoría. Además, su diseño robusto y resistente al agua la hace ideal para condiciones climáticas adversas. Si te gusta explorar rutas nocturnas, también te interesará nuestra [guía de equipamiento para MTB en 2023]({{ site.constants.wsib }}/mtb-gear).
 
 #### Lo Malo: ¿Dónde está la duración de la batería?
 
@@ -32,7 +32,7 @@ El precio de la BT21 no es precisamente amigable para el bolsillo, especialmente
 
 ### ¿Vale la pena en 2023?
 
-Con tantas opciones en el mercado, la Nitefighter BT21 sigue siendo una opción sólida para ciclistas que buscan una linterna compacta y potente. Sin embargo, su duración de batería y precio podrían ser un obstáculo para algunos. Si estás buscando algo más asequible, consulta nuestra [reseña de luces para bicicleta económicas]({%- post_url 2023-06-10-best-budget-bike-lights -%}).
+Con tantas opciones en el mercado, la Nitefighter BT21 sigue siendo una opción sólida para ciclistas que buscan una linterna compacta y potente. Sin embargo, su duración de batería y precio podrían ser un obstáculo para algunos. Si estás buscando algo más asequible, consulta nuestra [reseña de luces para bicicleta económicas]({{ site.constants.wsib }}/bike-lights).
 
 {% include amazon.html asin="B09XX5FVHJ" %}
 
