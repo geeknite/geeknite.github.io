@@ -40,7 +40,7 @@ Ah, GTA Online. Lo que prometía ser una experiencia revolucionaria terminó sie
 
 ### ¿Vale la pena en 2023?
 
-Con actualizaciones constantes y una comunidad activa, *GTA V* sigue siendo relevante. Sin embargo, si ya lo jugaste, probablemente estés esperando *GTA VI*. Mientras tanto, consulta nuestra [guía de juegos de mundo abierto imprescindibles]({%- post_url 2023-01-15-best-open-world-games-2023 -%}).
+Con actualizaciones constantes y una comunidad activa, *GTA V* sigue siendo relevante. Sin embargo, si ya lo jugaste, probablemente estés esperando *GTA VI*. Mientras tanto, consulta nuestra guía de juegos de mundo abierto imprescindibles.
 
 {% include amazon.html asin="B09XX5FVHJ" %}
 
