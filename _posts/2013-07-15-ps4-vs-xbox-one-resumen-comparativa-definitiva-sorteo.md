@@ -13,8 +13,6 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "PS4 vs Xbox One: La comparativa definitiva que necesitas leer antes de decidir. ¿Cuál es la mejor consola para ti? ¡Descúbrelo aquí!"
 ---
 
-![PS4 vs Xbox One](https://example.com/ps4-vs-xbox-one.jpg){: .align-right}
-
 ### PS4 vs Xbox One: ¿Cuál es la mejor consola?
 
 Desde su lanzamiento, la **PS4** y la **Xbox One** han estado en una batalla constante por el trono de las consolas. Pero, ¿realmente hay un ganador claro? Vamos a desglosarlo.

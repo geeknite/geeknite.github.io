@@ -1,15 +1,16 @@
 ---
 title: "Xbox One vs PS4: The Ultimate Showdown"
-date: '2023-11-04'
+date: '2013-07-20T20:00:00.000+02:00'
 tags:
 - gaming
 - xbox
 - ps4
 - review
 - consoles
+- english
+last_modified_at: '2023-11-01T12:00:00+01:00'
+description: "Xbox One vs PS4: The ultimate showdown between two gaming giants. Discover the specs, exclusive games, online services, and which console is right for you. Read our comprehensive review now!"
 ---
-
-![Xbox One vs PS4](https://example.com/xbox-vs-ps4.jpg){: .align-right}
 
 ## Xbox One vs PS4: The Ultimate Showdown
 
@@ -51,7 +52,7 @@ Both consoles offer online services, but with some key differences:
 
 ### Price and Value
 
-When initially released, the Xbox One was priced at $499, a steep $100 more than the PS4 which launched at $399. This was likely due to the inclusion of the Kinect sensor with every Xbox One. Over time, prices have fluctuated, and both consoles became much more affordable, often bundled with popular games【4:0†source】.
+When initially released, the Xbox One was priced at $499, a steep $100 more than the PS4 which launched at $399. This was likely due to the inclusion of the Kinect sensor with every Xbox One. Over time, prices have fluctuated, and both consoles became much more affordable, often bundled with popular games.
 
 ### Community and Ecosystem
 
@@ -64,4 +65,6 @@ If you're after raw power and exclusive games that tug at your heartstrings, the
 
 Still on the fence? Check out our [comprehensive review of the PS5]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}) and see how it stacks up against the new Xbox Series X.
 
-**Don't miss out!** Click [here](https://www.amazon.com/dp/B09XX5FVHJ) to grab your Xbox One or PS4 today! **Happy Gaming!**
+**Don't miss out!** Click [here]({{ site.constants.wsib }}/xbox-one) to grab your Xbox One or PS4 today! **Happy Gaming!**
+
+{% include amazon.html asin="B09XX5FVHJ" %}
