@@ -24,7 +24,7 @@ En 2013, buscar una PS3 de segunda mano parecía una buena idea. Pero, ¿sigue s
 
 #### Lo Bueno: Juegos clásicos a precios bajos
 
-La PS3 tiene un catálogo impresionante, desde *The Last of Us* hasta *Gran Turismo 6*. Si eres fan de los juegos retro, podría valer la pena. Consulta nuestra [guía de consolas retro]({%- post_url 2023-01-15-best-retro-consoles -%}).
+La PS3 tiene un catálogo impresionante, desde *The Last of Us* hasta *Gran Turismo 6*. Si eres fan de los juegos retro, podría valer la pena. Consulta nuestra guía de consolas retro.
 
 #### Lo Malo: Hardware anticuado
 
