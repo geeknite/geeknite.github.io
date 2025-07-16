@@ -30,7 +30,7 @@ Ah, el infame Error 37. El lanzamiento de Diablo 3 fue un desastre, con servidor
 
 ### ¿Vale la pena en 2023?
 
-Con la llegada de *Diablo 4*, es fácil olvidar a su predecesor. Sin embargo, Diablo 3 sigue siendo una experiencia sólida, especialmente si juegas con amigos. Además, los precios han bajado considerablemente, lo que lo convierte en una opción atractiva para los nuevos jugadores. Pero si buscas algo más moderno, echa un vistazo a nuestra [reseña de Diablo 4]({%- post_url 2023-06-15-diablo-4-review -%}).
+Con la llegada de *Diablo 4*, es fácil olvidar a su predecesor. Sin embargo, Diablo 3 sigue siendo una experiencia sólida, especialmente si juegas con amigos. Además, los precios han bajado considerablemente, lo que lo convierte en una opción atractiva para los nuevos jugadores. Pero si buscas algo más moderno, echa un vistazo a nuestra reseña de Diablo 4.
 
 {% include amazon.html asin="B09XX5FVHJ" %}
 

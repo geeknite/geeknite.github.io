@@ -7,7 +7,7 @@ tags:
 - games
 - board games
 - humor
-last_modified_at: '2025-03-29T18:45:00+02:00'
+last_modified_at: '2025-06-04T21:09:27+02:00'
 ---
 
 [![Heat: Pedal to the Metal](https://i.imgur.com/uK76yQB.jpeg){: style="float: right;"}]({{ site.constants.wsib }}/heat-pedal-to-the-metal)

@@ -23,7 +23,7 @@ Ultimate Team is where FC25 shines—and where your free time goes to die. Build
 
 [![Ultimate Team](https://i.imgur.com/EIEb9WGm.jpeg){: .align-right}]({{ site.constants.wsib }}/FC25)
 
-**Criticism Alert**: The microtransactions in Ultimate Team are as relentless as a high-press tactic. While you *can* grind your way to a decent team, the temptation to buy packs is always looming. It’s like EA is whispering, “Just one more pack… what’s the worst that could happen?” Spoiler: your wallet will cry.
+**Criticism Alert**: The microtransactions in Ultimate Team are as relentless as a high-press tactic. While you *can* grind your way to a decent team, the temptation to buy packs is always looming. It’s like EA is whispering, “Just one more pack… what’s the worst that could happen?” Spoiler: your wallet will cry【4†source】.
 
 ---
 
@@ -35,7 +35,7 @@ FC25’s graphics are so realistic, you’ll swear you’re watching an actual f
 
 ### Soundtrack That Makes You Want to Dance
 
-If there’s one thing FC25 does exceptionally well, it’s the soundtrack. With tracks from the hottest artists around the globe, you’ll find yourself grooving to the music even when you’re losing 5-0. It’s almost enough to make you forget the pain of conceding that last-minute goal. Almost.
+If there’s one thing FC25 does exceptionally well, it’s the soundtrack. With tracks from the hottest artists around the globe, you’ll find yourself grooving to the music even when you’re losing 5-0. It’s almost enough to make you forget the pain of conceding that last-minute goal. Almost【4†source】.
 
 ---
 
@@ -46,14 +46,14 @@ If there’s one thing FC25 does exceptionally well, it’s the soundtrack. With
 - **Realistic Graphics**: You’ll feel like you’re on the pitch.
 - **Addictive Gameplay**: Ultimate Team will consume your life (in a good way… mostly).
 - **Fantastic Soundtrack**: Music that makes losing enjoyable.
-- **Wide Range of Modes**: From Career Mode to Volta, there’s something for everyone.
+- **Wide Range of Modes**: From Career Mode to Volta, there’s something for everyone【4†source】.
 
 ### Cons
 
 - **Inconsistent Gameplay**: One minute you’re Messi, the next you’re a Sunday league player.
 - **Microtransactions**: Say goodbye to your wallet. Seriously.
 - **Questionable Referee Decisions**: Sometimes you want to strangle the virtual ref. (Is it too much to ask for VAR that actually works?)
-- **Recycled Features**: Some modes feel like copy-paste jobs from previous years. Career Mode, we’re looking at you.
+- **Recycled Features**: Some modes feel like copy-paste jobs from previous years. Career Mode, we’re looking at you【4†source】.
 
 ---
 
@@ -61,33 +61,20 @@ If there’s one thing FC25 does exceptionally well, it’s the soundtrack. With
 
 ### HyperMotion 3.0: The Good and the Gimmicky
 
-FC25 introduces HyperMotion 3.0, promising even more realistic animations and player movements. And while it does make the game look smoother, it’s not without its quirks. Sometimes players move so realistically that they forget to actually play football. Watching your striker trip over the ball because of “realistic physics” is both hilarious and infuriating.
+FC25 introduces HyperMotion 3.0, promising even more realistic animations and player movements. And while it does make the game look smoother, it’s not without its quirks. Sometimes players move so realistically that they forget to actually play football. Watching your striker trip over the ball because of “realistic physics” is both hilarious and infuriating【4†source】.
 
 ### Women’s Ultimate Team
 
-A welcome addition to FC25 is the introduction of Women’s Ultimate Team. This mode allows players to build squads featuring the best female footballers in the world. It’s a fantastic step forward for representation in gaming, though it’s worth noting that the same microtransaction pitfalls apply here too.
+A welcome addition to FC25 is the introduction of Women’s Ultimate Team. This mode allows players to build squads featuring the best female footballers in the world. It’s a fantastic step forward for representation in gaming, though it’s worth noting that the same microtransaction pitfalls apply here too【4†source】.
 
 ### Crossplay Expansion
 
-Crossplay has been expanded to include more modes, allowing players on different platforms to compete against each other. It’s a great feature—until you realize your friend on PC has mods that make their team unstoppable. (Looking at you, 150-rated Haaland.)
+Crossplay has been expanded to include more modes, allowing players on different platforms to compete against each other. It’s a great feature—until you realize your friend on PC has mods that make their team unstoppable. (Looking at you, 150-rated Haaland)【4†source】.
 
- {% comment %}
-<!-- ---
-
-## Comparison with Other Football Games
-
-### [eFootball 2025]({%- post_url 2024-09-15-efootball-2025-review -%})
-While FC25 dominates in terms of licenses and presentation, eFootball offers a more budget-friendly alternative. However, its gameplay still feels a bit clunky compared to FC25’s polished mechanics.
-
-### [Football Manager 2025]({%- post_url 2024-11-10-football-manager-2025-review -%})
-If you’re more into strategy and less into button-mashing, Football Manager is the way to go. It’s a completely different experience but equally addictive.
-
---- -->
-{% endcomment %}
-
+---
 
 ## Final Recommendation
 
-FC25 is like that guilty pleasure you can’t get enough of. Sure, it has its flaws—like inconsistent gameplay, relentless microtransactions, and referees who seem to have a personal vendetta against you—but the highs are so high that you’ll keep coming back for more. Whether you’re a seasoned pro or a casual player, FC25 offers something for everyone. Just remember to take breaks, and maybe, you know, talk to real people once in a while.
+FC25 is like that guilty pleasure you can’t get enough of. Sure, it has its flaws—like inconsistent gameplay, relentless microtransactions, and referees who seem to have a personal vendetta against you—but the highs are so high that you’ll keep coming back for more. Whether you’re a seasoned pro or a casual player, FC25 offers something for everyone. Just remember to take breaks, and maybe, you know, talk to real people once in a while【4†source】.
 
 **Ready to dive into the addictive world of FC25? Grab your copy now and join the madness!**

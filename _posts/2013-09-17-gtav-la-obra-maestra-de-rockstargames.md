@@ -28,7 +28,7 @@ Después de años de espera, *Grand Theft Auto V* finalmente llegó. Pero, ¿cum
 
 #### Lo Bueno: Un mundo vivo y detallado
 
-Rockstar ha creado un mundo abierto que se siente vivo. Desde las calles de Los Santos hasta las montañas de Blaine County, cada rincón está lleno de detalles. Si te gustan los mundos abiertos, también te interesará nuestra [reseña de Red Dead Redemption 2]({%- post_url 2018-10-26-red-dead-redemption-2-review -%}).
+Rockstar ha creado un mundo abierto que se siente vivo. Desde las calles de Los Santos hasta las montañas de Blaine County, cada rincón está lleno de detalles. Si te gustan los mundos abiertos, también te interesará nuestra reseña de Red Dead Redemption 2.
 
 #### Lo Malo: ¿Demasiado ambicioso?
 
@@ -40,7 +40,7 @@ Ah, GTA Online. Lo que prometía ser una experiencia revolucionaria terminó sie
 
 ### ¿Vale la pena en 2023?
 
-Con actualizaciones constantes y una comunidad activa, *GTA V* sigue siendo relevante. Sin embargo, si ya lo jugaste, probablemente estés esperando *GTA VI*. Mientras tanto, consulta nuestra [guía de juegos de mundo abierto imprescindibles]({%- post_url 2023-01-15-best-open-world-games-2023 -%}).
+Con actualizaciones constantes y una comunidad activa, *GTA V* sigue siendo relevante. Sin embargo, si ya lo jugaste, probablemente estés esperando *GTA VI*. Mientras tanto, consulta nuestra guía de juegos de mundo abierto imprescindibles.
 
 {% include amazon.html asin="B09XX5FVHJ" %}
 

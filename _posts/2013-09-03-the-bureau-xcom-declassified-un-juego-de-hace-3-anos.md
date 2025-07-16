@@ -23,7 +23,7 @@ En estas vacaciones tuve la oportunidad de probar *The Bureau: XCOM Declassified
 
 #### Lo Bueno: Una idea interesante
 
-El concepto de combinar acción con estrategia es atractivo. Las pequeñas batallas con alienígenas y la posibilidad de dar órdenes a tu escuadrón en tiempo ralentizado son puntos a favor. Pero, ¿es suficiente? Si buscas algo más profundo, consulta nuestra [reseña de XCOM 2]({%- post_url 2016-02-05-xcom-2-review -%}).
+El concepto de combinar acción con estrategia es atractivo. Las pequeñas batallas con alienígenas y la posibilidad de dar órdenes a tu escuadrón en tiempo ralentizado son puntos a favor. Pero, ¿es suficiente? Si buscas algo más profundo, consulta nuestra reseña de XCOM 2.
 
 #### Lo Malo: ¿Dónde está la profundidad?
 

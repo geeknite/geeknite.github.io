@@ -15,7 +15,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Exploramos las tendencias más emocionantes de las MTB 2017. ¿Qué innovaciones traerán marcas como Canyon, YT y Marin? ¡Descúbrelo aquí!"
 ---
 
-![Marin Hawk Hill](https://4.bp.blogspot.com/-Vy4nJmSNtCQ/V-7e-UB77QI/AAAAAAAAA14/v3ylqn59b5ESGbQ0f5ZLRCgqBwcgs89UACLcB/s640/2017-Marin-Hawk-Hill-full-suspension-mountain-bike.jpg)
+[![Marin Hawk Hill](https://4.bp.blogspot.com/-Vy4nJmSNtCQ/V-7e-UB77QI/AAAAAAAAA14/v3ylqn59b5ESGbQ0f5ZLRCgqBwcgs89UACLcB/s640/2017-Marin-Hawk-Hill-full-suspension-mountain-bike.jpg){: .align-right}]({{ site.constants.wsib }}/mtb)
 
 ### ¿Qué esperamos de las MTB 2017?
 
@@ -23,7 +23,7 @@ Tomando como base nuestro [análisis de las mejores MTB según presupuesto]({%- 
 
 #### Lo Bueno: Bicicletas de suspensión completa asequibles
 
-Las marcas están apostando por ofrecer bicicletas de suspensión completa a precios más accesibles. Modelos como el Marin Hawk Hill están diseñados para atraer a ciclistas que buscan calidad sin romper el banco. Si estás buscando algo más reciente, consulta nuestra [guía de MTB 2023]({%- post_url 2023-01-15-best-mtb-gear-2023 -%}).
+Las marcas están apostando por ofrecer bicicletas de suspensión completa a precios más accesibles. Modelos como el Marin Hawk Hill están diseñados para atraer a ciclistas que buscan calidad sin romper el banco. Si estás buscando algo más reciente, consulta nuestra [guía de MTB 2023]({{ site.constants.wsib }}/mtb-gear).
 
 #### Lo Malo: ¿Demasiadas opciones?
 

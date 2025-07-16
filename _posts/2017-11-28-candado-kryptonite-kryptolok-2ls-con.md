@@ -13,7 +13,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre si el candado Kryptonite Kryptolok 2LS es realmente seguro o solo una ilusión. ¿Vale la pena el precio? Spoiler: depende de cuánto te importe tu bicicleta."
 ---
 
-![Candado Kryptonite Kryptolok 2LS](https://1.bp.blogspot.com/-vp7WDvoCeCc/Wh1Txl3CrTI/AAAAAAAABBA/1Zt3a6jyObUwYJRCZ9eazueuNit5G7JMACLcBGAs/s200/kryptonite%2Bkryptoloc%2B2LS.jpg)
+[![Candado Kryptonite Kryptolok 2LS](https://1.bp.blogspot.com/-vp7WDvoCeCc/Wh1Txl3CrTI/AAAAAAAABBA/1Zt3a6jyObUwYJRCZ9eazueuNit5G7JMACLcBGAs/s200/kryptonite%2Bkryptoloc%2B2LS.jpg){: .align-right}]({{ site.constants.wsib }}/kryptonite)
 
 ### Candado Kryptonite Kryptolok 2LS: ¿Seguridad o solo apariencia?
 
@@ -21,7 +21,7 @@ El Kryptonite Kryptolok 2LS promete mantener tu bicicleta segura, pero ¿realmen
 
 #### Lo Bueno: Seguridad visual
 
-El Kryptolok 2LS no solo asegura tu bicicleta, sino que también actúa como un elemento disuasorio visual. Incluye un cable para asegurar la rueda delantera y el sillín, lo que lo hace más versátil que un candado tradicional. Si buscas más opciones, consulta nuestra [guía de candados para bicicletas]({%- post_url 2023-01-15-best-bike-locks -%}).
+El Kryptolok 2LS no solo asegura tu bicicleta, sino que también actúa como un elemento disuasorio visual. Incluye un cable para asegurar la rueda delantera y el sillín, lo que lo hace más versátil que un candado tradicional. Si buscas más opciones, consulta nuestra [guía de candados para bicicletas]({{ site.constants.wsib }}/bike+locks).
 
 #### Lo Malo: ¿Realmente es invulnerable?
 
