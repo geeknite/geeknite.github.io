@@ -9,7 +9,7 @@ last_modified_at: '2025-05-02T18:02:22.7534606Z'
 description: "A detailed and humorous review of Xbox in 2025. Are you still on team Xbox or is it time to switch?"
 ---
 
-[![Xbox Series X](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}]({{ site.constants.wsib }}/xbox-series-x)
+[![Xbox Series X](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}]({{ site.constants.wsib }}xbox-series-x)
 
 ### Xbox Review: Is It Still Worth It in 2025?
 

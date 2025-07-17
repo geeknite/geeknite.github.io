@@ -5,15 +5,15 @@ tags: strava garmin review gps
 last_modified_at: '2023-07-24T00:00:00+02:00'
 ---
 
-<a href='{{ site.constants.wsib }}/garmin%20edge'><img style="float: right;" src="https://i.imgur.com/talvj6sm.jpg"></a>
+<a href='{{ site.constants.wsib }}garmin%20edge'><img style="float: right;" src="https://i.imgur.com/talvj6sm.jpg"></a>
 
 After getting [my Garmin Edge 500]({%- post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 -%}) I have been experimenting with many online services and applications to analyze the tracks that I recorded. After trying some windows applications all that I tried looked old and did not offer anything that other online and free services didn't offer.
 
-As a Garmin user, you will be first drawn to try [Garmin Connect]({{ site.constants.wsib }}/garmin%20connect), the Garmin online service, which lately is being improved because **other service are getting ahead of it**. This is also the place to get updates for your GPS device.\
+As a Garmin user, you will be first drawn to try [Garmin Connect]({{ site.constants.wsib }}garmin%20connect), the Garmin online service, which lately is being improved because **other service are getting ahead of it**. This is also the place to get updates for your GPS device.\
 Good points:
 
 - A detailed track analysis of the data recorded by your GPS device.
-- Activities conversion to courses, and sending to your [Garmin sports gps]({{ site.constants.wsib }}/us/garmin%20gps%20sports).
+- Activities conversion to courses, and sending to your [Garmin sports gps]({{ site.constants.wsib }}garmin%20gps%20sports).
 - It has an interesting search for activities, that can be easily converted to courses.
 - Recently it has added training programs.
 - It is completely free.
@@ -21,11 +21,11 @@ Good points:
 Bad points:
 
 - It does not give you any extra information that can be useful for your training, you have to analyze the data that the track details give you.
-- Automated personal records for running don't work if you have a cycling Garmin, for example my [Edge 500]({{ site.constants.wsib }}/us/garmin%20edge).
+- Automated personal records for running don't work if you have a cycling Garmin, for example my [Edge 500]({{ site.constants.wsib }}garmin%20edge).
 - You can not export easily the training routines to your device.
 - Uninteresting social capabilities and lack of privacy, for example you can't define privacy zones and also **by default your activities are public**.
 - With Connect's revamp they are forcing you to use Garmin Sync, a service that runs on your PC background to upload and download activities and courses.\
-If you do a small research then you will find [Strava]({{ site.constants.wsib }}/strava) which is probably the service which is getting the most attention recently. They are doing a great work and are offering a service with too many good points that is difficult for a sports enthusiasts to ignore.\
+If you do a small research then you will find [Strava]({{ site.constants.wsib }}strava) which is probably the service which is getting the most attention recently. They are doing a great work and are offering a service with too many good points that is difficult for a sports enthusiasts to ignore.\
 Good points:
 
 - A detailed track analysis of the data recorded by your GPS device.
@@ -44,14 +44,14 @@ You can see that the two services can be complementary for someone, like me, tha
 
 But if you are a professional or enthusiast and the $6/month is not a problem for you I recommend to go premium at Strava, **they are getting more and more new features every day that other services can't keep up with**.
 
-Remember that to use Strava and Garmin Connect you need a GPS device, we have written a couple of articles comparing some [Garmin Edge]({{ site.constants.wsib }}/garmin%20edge) models, the ones special for biking:
+Remember that to use Strava and Garmin Connect you need a GPS device, we have written a couple of articles comparing some [Garmin Edge]({{ site.constants.wsib }}garmin%20edge) models, the ones special for biking:
 
 - [Garmin Edge 1000 vs 810 review comparison. Top bike GPS with maps and routes]( {%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%})
 - [Garmin Edge 500 vs Edge 520 review comparison. Should I stay with the Edge 500?]({% post_url 2013-01-14-garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500 %})
 
 Also try [Motivate](https://motivate.apphb.com/) a free web app that integrates with Strava to get extra stats and features.
 
-Here you can check the prices of some of my favorite sports GPS or also compare prices on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/):
+Here you can check the prices of some of my favorite sports GPS or also compare prices on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}):
 
 If you found this post interesting or useful, please, share it on your social networks to make it useful for more people**.**\
 **Thanks for reading!**

@@ -5,7 +5,7 @@ tags: [SRAM, Karoo, Bike Computer, Review, Cycling, Gadgets]
 description: "Explore the features, pros, cons, and funny quirks of the SRAM Hammerhead Karoo bike computer in this epic review."
 ---
 
-[![SRAM Hammerhead Karoo](https://i.imgur.com/6JDDmDgm.jpeg){: .align-right}]({{ site.constants.wsib }}/karoo)
+[![SRAM Hammerhead Karoo](https://i.imgur.com/6JDDmDgm.jpeg){: .align-right}]({{ site.constants.wsib }}karoo)
 
 Welcome back, fellow bike enthusiasts! Today, we're diving into the world of bike computers with the **SRAM Hammerhead Karoo**. This isn't just any bike computer—it's the ultimate companion for those who want to transform their cycling experience. But is it worth the hype (and the price)? Let's find out! So, grab your helmets, and let's get pedaling! 🚴‍♂️
 

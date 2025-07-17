@@ -6,9 +6,9 @@ description: A detailed and funny review of the new Garmin Edge 540 bike compute
 last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
-[![Garmin edge 540](https://i.imgur.com/aSMZ6cxm.jpg){: .align-right}]({{ site.constants.wsib }}/garmin edge 540)
+[![Garmin edge 540](https://i.imgur.com/aSMZ6cxm.jpg){: .align-right}]({{ site.constants.wsib }}garmin edge 540)
 
-If you're a cyclist who loves to explore new routes, track your performance, and never run out of battery, you might want to check out [the new Garmin Edge 540]({{ site.constants.wsib }}/garmin edge 540). This bike computer is the latest and greatest from Garmin, and it comes in two versions: normal and solar. In this blog post, I'll tell you everything you need to know about the Edge 540, how it compares to other bike computers, and why you should (or shouldn't) buy it.
+If you're a cyclist who loves to explore new routes, track your performance, and never run out of battery, you might want to check out [the new Garmin Edge 540]({{ site.constants.wsib }}garmin edge 540). This bike computer is the latest and greatest from Garmin, and it comes in two versions: normal and solar. In this blog post, I'll tell you everything you need to know about the Edge 540, how it compares to other bike computers, and why you should (or shouldn't) buy it.
 
 ## What is the Garmin Edge 540?
 
@@ -32,11 +32,11 @@ The Garmin Edge 540 is not the only bike computer on the market. There are other
 
 ### iGPSPORT IGS630
 
-The iGPSPORT IGS630 is a budget-friendly bike computer that offers many of the same features as the Edge 540, such as GPS navigation, Bluetooth and ANT+ connectivity, smartphone notifications, and incident detection. It has a slightly larger screen (2.8 inches), but a lower resolution (240x320 pixels). It also has a shorter battery life (up to 15 hours in GPS mode), and no solar option. The [iGPSPORT IGS630 can be found for $149.99 on {{ site.constants.wsibName }}]({{ site.constants.wsib }}/igpsport igs630), which is less than half the price of the Edge 540 ($399.99 for the normal version, $449.99 for the solar version). If you're looking for a cheap and reliable bike computer, the iGPSPORT IGS630 might be a good choice for you. [You can read my full review of it here]({%- post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws -%}).
+The iGPSPORT IGS630 is a budget-friendly bike computer that offers many of the same features as the Edge 540, such as GPS navigation, Bluetooth and ANT+ connectivity, smartphone notifications, and incident detection. It has a slightly larger screen (2.8 inches), but a lower resolution (240x320 pixels). It also has a shorter battery life (up to 15 hours in GPS mode), and no solar option. The [iGPSPORT IGS630 can be found for $149.99 on {{ site.constants.wsibName }}]({{ site.constants.wsib }}igpsport igs630), which is less than half the price of the Edge 540 ($399.99 for the normal version, $449.99 for the solar version). If you're looking for a cheap and reliable bike computer, the iGPSPORT IGS630 might be a good choice for you. [You can read my full review of it here]({%- post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws -%}).
 
 ### Garmin Edge 530
 
-The Garmin Edge 530 is the predecessor of the Edge 540, and it still holds up well as a high-end bike computer. It has almost all of the same features as the Edge 540, except for the solar panel and the Trailforks app. It also has a slightly smaller screen (2.3 inches), but a higher resolution (246x322 pixels). It has a similar battery life (up to 20 hours in GPS mode, up to 40 hours with the battery pack), and [you can find it for $299.99 on {{ site.constants.wsibName }}]({{ site.constants.wsib }}/garmin edge 530), which is $100 cheaper than the normal version of the Edge 540. If you don't care about solar power or trail maps, the Garmin Edge 530 might be a better value for you. [You can read my full review of it here]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%}).
+The Garmin Edge 530 is the predecessor of the Edge 540, and it still holds up well as a high-end bike computer. It has almost all of the same features as the Edge 540, except for the solar panel and the Trailforks app. It also has a slightly smaller screen (2.3 inches), but a higher resolution (246x322 pixels). It has a similar battery life (up to 20 hours in GPS mode, up to 40 hours with the battery pack), and [you can find it for $299.99 on {{ site.constants.wsibName }}]({{ site.constants.wsib }}garmin edge 530), which is $100 cheaper than the normal version of the Edge 540. If you don't care about solar power or trail maps, the Garmin Edge 530 might be a better value for you. [You can read my full review of it here]({%- post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying -%}).
 
 ### Wahoo ELEMNT ROAM
 
@@ -46,7 +46,7 @@ The Wahoo ELEMNT ROAM is another high-end bike computer that competes with the E
 - It has a smart navigation feature that automatically reroutes you if you go off course, or creates a new route for you based on your preferences.
 - It has a companion app that lets you customize your settings and data fields on your smartphone.
 
-[The Wahoo ELEMNT ROAM can be found $379.99 on {{ site.constants.wsibName }}]({{ site.constants.wsib }}/wahoo elemnt roam), which is $20 cheaper than the normal version of the Edge 540. If you prefer a simpler and more intuitive bike computer, the Wahoo ELEMNT ROAM might be a better fit for you.
+[The Wahoo ELEMNT ROAM can be found $379.99 on {{ site.constants.wsibName }}]({{ site.constants.wsib }}wahoo elemnt roam), which is $20 cheaper than the normal version of the Edge 540. If you prefer a simpler and more intuitive bike computer, the Wahoo ELEMNT ROAM might be a better fit for you.
 
 ## Should you buy the Garmin Edge 540?
 

@@ -12,7 +12,7 @@ description: "Discover the iGPSPORT iGS630, a budget-friendly GPS bike computer 
 last_modified_at: '2025-03-13T10:00:00+02:00'
 ---
 
-[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}/iGPSPORT iGS630)
+[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT iGS630)
 
 Today, we're diving into the world of budget-friendly bike computers with the **iGPSPORT iGS630**. It's affordable, packed with features, and... well, let's just say it has its quirks. If you're looking for a GPS bike computer that won't break the bank but might test your patience, this might be the one for you. Let's get rolling!
 
@@ -79,7 +79,7 @@ The BSC300 is a more affordable alternative within the iGPSPORT lineup. While it
 
 So, is the iGPSPORT iGS630 worth it? If you're looking for a budget-friendly GPS bike computer with solid features and can tolerate a few quirks, the answer is yes. It's accurate, affordable, and gets the job done. Just be prepared for a bit of a learning curve and some minor frustrations along the way.
 
-At the time of writing this review, [the iGPSPORT iGS630 is priced at $159.99 on Amazon](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher. I would recommend purchasing a [separate mount]({{ site.constants.wsib }}/gps bike mount) for this, which should cost around $15 [check {{ site.constants.wsibName }} to find good priced options]({{ site.constants.wsib }}/). Even with the extra mount, this is still an exceptional price for a full-color bike computer with so many features.
+At the time of writing this review, [the iGPSPORT iGS630 is priced at $159.99 on Amazon](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher. I would recommend purchasing a [separate mount]({{ site.constants.wsib }}gps bike mount) for this, which should cost around $15 [check {{ site.constants.wsibName }} to find good priced options]({{ site.constants.wsib }}). Even with the extra mount, this is still an exceptional price for a full-color bike computer with so many features.
 
 [Check our recent comparison with the Garmin Edge 530]({%- post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 -%}) or [our review of the latest Garmin Edge 540 which has also a solar version.]({%- post_url 2023-07-06-garmin-edge-540-review -%}).
 

@@ -15,7 +15,7 @@ tags:
 last_modified_at: '2017-11-27T13:12:26.004+01:00'
 ---
 
-[![geeknite tries canyon strive](https://1.bp.blogspot.com/-pPSjqVIEmN4/WO1CbZWnrlI/AAAAAAAAA-A/nJYJcGD6M9cp3pweyFL7d6_fFw5pGq9bQCLcB/s320/shapeshifter.jpg){: style="float: right;"}]({{ site.constants.wsib }}/de/canyon%20strive)
+[![geeknite tries canyon strive](https://1.bp.blogspot.com/-pPSjqVIEmN4/WO1CbZWnrlI/AAAAAAAAA-A/nJYJcGD6M9cp3pweyFL7d6_fFw5pGq9bQCLcB/s320/shapeshifter.jpg){: style="float: right;"}]({{ site.constants.wsib }}canyon%20strive)
 
 **_Canyon_** es una marca que se ha ganado un gran prestigio en los últimos años, gracias a su esponsorización de _equipos world tour_ en ciclismo de carretera y a sus grandes especificaciones por un precio de los más ajustados del mercado gracias a su **modelo de venta directa a cliente a través de internet**.  
   
@@ -73,4 +73,4 @@ En general para un modelo de estas características diría que sí, pero como he
 * Si buscas una bici de trail de 29" recupera nuestra [review de la YT Jeffsy]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%}) en ruedas de 29 o 27.5, una bici con una calidad/precio a la altura de Canyon y con un punto más moderno.
 * Si por el contrario quieres una bicicleta que se pueda alternar entre 27.5+, 27.5 o 29, te recomendamos que visites nuestra [lista definitiva de bicis plus (The definitive plus tire mountain bike list)]({%- post_url 2017-02-21-the-definitive-plus-tire-mountain-bike-list -%}) para ver los modelos que lo permiten.
 
-[![](https://1.bp.blogspot.com/-G2lrDGj1cgY/WO1DU9z7O6I/AAAAAAAAA-I/5uKB0s5G6qY4kIX0u_Z0qSwubWuaEXjwwCLcB/s640/canyon%2Bstrive%2B2017.jpg)]({{ site.constants.wsib }}/de/canyon%20strive)
+[![](https://1.bp.blogspot.com/-G2lrDGj1cgY/WO1DU9z7O6I/AAAAAAAAA-I/5uKB0s5G6qY4kIX0u_Z0qSwubWuaEXjwwCLcB/s640/canyon%2Bstrive%2B2017.jpg)]({{ site.constants.wsib }}canyon%20strive)

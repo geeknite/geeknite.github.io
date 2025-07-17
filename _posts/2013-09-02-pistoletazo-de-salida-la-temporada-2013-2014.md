@@ -29,7 +29,7 @@ El gaming sigue siendo una de nuestras grandes pasiones, aunque todavía hay qui
 
 #### Participación de los lectores
 
-Queremos escuchar tus ideas. Si tienes algo que compartir, estaremos encantados de publicarlo. Solo tienes que [contactarnos aquí](/p/support.html). Además, no olvides que seguimos desarrollando herramientas como el [Wishlist Manager](https://wmhomepage.apphb.com/) y nuestra página de comparación de precios, [#WhereToBuy]({{ site.constants.wsib }}/).
+Queremos escuchar tus ideas. Si tienes algo que compartir, estaremos encantados de publicarlo. Solo tienes que [contactarnos aquí](/p/support.html). Además, no olvides que seguimos desarrollando herramientas como el [Wishlist Manager](https://wmhomepage.apphb.com/) y nuestra página de comparación de precios, [#WhereToBuy]({{ site.constants.wsib }}).
 
 {% include amazon.html asin="B09XX5FVHJ" %}
 

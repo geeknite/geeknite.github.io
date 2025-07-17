@@ -6,7 +6,7 @@ description: "Join us for a hilarious and comprehensive review of the PS5 availa
 last_modified_at: '2025-05-02T17:30:20.5174695Z'
 ---
 
-[![PS5](https://i.imgur.com/hfOlYVsm.jpg){: .align-right}]({{ site.constants.wsib }}/ps5)
+[![PS5](https://i.imgur.com/hfOlYVsm.jpg){: .align-right}]({{ site.constants.wsib }}ps5)
 
 Welcome, fellow gamers and eBay enthusiasts! If you thought buying a PS5 in 2025 would be a walk in the park, think again. In this rollercoaster ride of a review, we dive into the nitty-gritty of the PS5, its quirks, and why buying one on eBay might just be your best bet.
 
@@ -52,6 +52,6 @@ So, you've decided to take the plunge and buy a PS5 on eBay. Here are some tips 
 
 The **PS5** is a phenomenal console that offers an unmatched gaming experience. Despite its size, price, and supply issues, it's worth every penny. And buying on eBay might just be the way to go if you're looking for competitive prices and deals.
 
-**Ready to buy a PS5? Check out the latest deals on eBay [here]({{ site.constants.wsib }}/ps5). Happy gaming!**
+**Ready to buy a PS5? Check out the latest deals on eBay [here]({{ site.constants.wsib }}ps5). Happy gaming!**
 
 Stay tuned for more reviews and tips from your geeky friends at Geeknite! 🚀

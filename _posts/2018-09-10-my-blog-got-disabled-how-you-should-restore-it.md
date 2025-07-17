@@ -10,7 +10,7 @@ tags:
 last_modified_at: '2023-07-24T00:00:00+02:00'
 ---
 
-<a href='{{ site.constants.wsib }}/spam'><img style="float: right;" src="https://i.imgur.com/uPjzkRU.jpg"></a>
+<a href='{{ site.constants.wsib }}spam'><img style="float: right;" src="https://i.imgur.com/uPjzkRU.jpg"></a>
 
 **For almost a week this blog was disabled (on Blogger)**, maybe you did not notice if it's your first time here, but the Google robots marked it as a spam blog and then no one could access the blog, **it was deleted on my blogger account and could not restore it**. The only thing that I was able to do was to request a revision by a "human", as the process is automatized it has a probability of error, even it may be low. I did the request which, as stated by the request form information, should be done in a couple of working days. But as you may guess, this did not happen, as the days passed I thought that I should take some **action**, and of course _googled_ my problem which I found to be quite recurrent.  
 If your blog also has been disabled for being marked as a spam blog, you should have received an email with:  

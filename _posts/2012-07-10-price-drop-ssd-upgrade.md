@@ -6,7 +6,7 @@ tags: smartshopping ssd computing
 redirect_from:
     - /2012/07/upgrade-your-computer-buying-an-SSD-today.html
 ---
-**Want to upgrade your computer but can't afford a new one**? Or just simply don't want to have working computer getting dusty in a corner? You probably have already heard about SSD on high end laptops like [macbooks]({{ site.constants.wsib }}/us/macbook), but you probably have also heard that they are pricey or at least until now.\
+**Want to upgrade your computer but can't afford a new one**? Or just simply don't want to have working computer getting dusty in a corner? You probably have already heard about SSD on high end laptops like [macbooks]({{ site.constants.wsib }}macbook), but you probably have also heard that they are pricey or at least until now.\
 First let's introduce the concept of *SSD* and later talk about its prices.
 
 ### SSD?
@@ -26,4 +26,4 @@ Here you have a graph showing the price evolution of the [Crucial CT128M4SSD2 12
 
 ![Price drop](https://i.imgur.com/l9u48IDm.jpg)
 
-**My recommendation is to buy a relatively small *SSD* for your *OS* and programs** that depend much on disk reading, **and have a [traditional hard disk]({{ site.constants.wsib }}/us/hard%20disk%20drive) for store data**, then you will not need much space, [128GB]({{ site.constants.wsib }}/us/ssd%20128gb) will be enough, and your pocket will not hurt much.
+**My recommendation is to buy a relatively small *SSD* for your *OS* and programs** that depend much on disk reading, **and have a [traditional hard disk]({{ site.constants.wsib }}hard%20disk%20drive) for store data**, then you will not need much space, [128GB]({{ site.constants.wsib }}ssd%20128gb) will be enough, and your pocket will not hurt much.

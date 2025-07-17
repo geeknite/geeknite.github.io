@@ -5,7 +5,7 @@ tags: ['board games', 'review', 'Flamme Rouge', 'expansions', 'racing games']
 description: 'A comprehensive and humorous review of Flamme Rouge: Grand Tour. Discover why this expansion is a must-have for every racing board game enthusiast!'
 ---
 
-[![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}/flamme rouge grand tour)
+[![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}flamme rouge grand tour)
 
 ## Introduction
 
@@ -84,15 +84,15 @@ One of the best aspects of Flamme Rouge is how it balances strategy with fun. Th
 
 ## Comparison with Other Racing Games
 
-### [Rallyman GT]({{ site.constants.wsib }}/rallyman-gt)
+### [Rallyman GT]({{ site.constants.wsib }}rallyman-gt)
 
 Rallyman GT focuses on rally racing with powerful sports cars and treacherous courses. It’s all about careful speed management and strategic decision-making, making it a great choice for those who enjoy a challenge.
 
-### [Formula D]({{ site.constants.wsib }}/formula-d)
+### [Formula D]({{ site.constants.wsib }}formula-d)
 
 Formula D simulates the high-stakes world of Formula 1 racing. It’s more about speed and dice-rolling, offering a different kind of excitement compared to Flamme Rouge’s card management system.
 
-### [Downforce]({{ site.constants.wsib }}/downforce)
+### [Downforce]({{ site.constants.wsib }}downforce)
 
 Downforce adds a betting element to the racing game genre. Players bid on cars and try to influence the race outcome, making it a blend of racing and gambling.
 
@@ -102,11 +102,11 @@ Downforce adds a betting element to the racing game genre. Players bid on cars a
 
 **Flamme Rouge: Grand Tour** is a must-have expansion for fans of the base game. It takes the already excellent Flamme Rouge and elevates it with a deeper, more engaging experience. Whether you're a solo player or enjoy competing with friends, this game offers hours of strategic fun.
 
-Ready to embark on your own Grand Tour? Check out Flamme Rouge: Grand Tour and its expansions on [Geeknite's Board Games Section]({{ site.constants.wsib }}/boardgames) and start your race to the top today! **Don’t wait, pedal to the medal and grab your copy now!**
+Ready to embark on your own Grand Tour? Check out Flamme Rouge: Grand Tour and its expansions on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and start your race to the top today! **Don’t wait, pedal to the medal and grab your copy now!**
 
 {% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
-**Call to Action:** Don't miss out on the ultimate cycling adventure! Click [here]({{ site.constants.wsib }}/flamme rouge grand tour) to get your copy of Flamme Rouge: Grand Tour now and receive an exclusive discount! Happy racing!
+**Call to Action:** Don't miss out on the ultimate cycling adventure! Click [here]({{ site.constants.wsib }}flamme rouge grand tour) to get your copy of Flamme Rouge: Grand Tour now and receive an exclusive discount! Happy racing!
 
 ---
 For more reviews and board game recommendations, check out our previous posts:

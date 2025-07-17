@@ -7,7 +7,7 @@ description: "Portabidones Laterales Zefal Wiiz - Review and analysis of the Zef
 last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
-<a href='{{ site.constants.wsib }}/es/zefal%20wiiz'><img style="float: right;" src="https://i.imgur.com/tejFkXZm.jpg"></a>
+<a href='{{ site.constants.wsib }}zefal%20wiiz'><img style="float: right;" src="https://i.imgur.com/tejFkXZm.jpg"></a>
 
 Las bicis de doble suspensión en muchos casos tienen un problema que enfurece a un gran número de aficionados y es que no permiten montar un bidón, muchos modelos más modernos se esfuerzan en diseñar su *linkage* de forma que sí sea posible viendo la *furia* de los aficionados.
 

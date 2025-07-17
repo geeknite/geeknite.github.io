@@ -20,4 +20,4 @@ It's about doing the things you love to do, whether it's watching a film or play
 
 Thanks for reading and don't forget to follow us on Facebook and Twitter to stay updated with the latest news.
 
-[![adults gaming](https://i.imgur.com/Jm8ynpT.jpg)]({{ site.constants.wsib }}/us/board%20games)
+[![adults gaming](https://i.imgur.com/Jm8ynpT.jpg)]({{ site.constants.wsib }}board%20games)

@@ -14,7 +14,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Exploramos las configuraciones basadas en GPUs Pascal de 2016. ¿Siguen siendo relevantes o es hora de actualizarse? Spoiler: probablemente lo segundo."
 ---
 
-[![NVIDIA Pascal GPU](https://4.bp.blogspot.com/-qUWXog0bRik/V7gHf-4ag6I/AAAAAAAAA1U/qiPairjcD0s_XHYH6FaD54MUkq2H39UBwCLcB/s200/NVIDIA-Pascal-GP100.jpg){: .align-right}]({{ site.constants.wsib }}/nvidia)
+[![NVIDIA Pascal GPU](https://4.bp.blogspot.com/-qUWXog0bRik/V7gHf-4ag6I/AAAAAAAAA1U/qiPairjcD0s_XHYH6FaD54MUkq2H39UBwCLcB/s200/NVIDIA-Pascal-GP100.jpg){: .align-right}]({{ site.constants.wsib }}nvidia)
 
 ### Recommended Pascal GPU Builds Summer 2016: ¿Aún valen la pena?
 
@@ -22,7 +22,7 @@ En 2016, las GPUs Pascal de NVIDIA eran la sensación del momento, prometiendo u
 
 #### Lo Bueno: Rendimiento sólido para su época
 
-Las GPUs Pascal, como la GTX 1060 y la GTX 1080, ofrecían un rendimiento impresionante para su tiempo. Eran ideales para juegos como *The Witcher 3* en configuraciones altas. Si buscas algo más moderno, consulta nuestra [guía de PC gaming 2023]({{ site.constants.wsib }}/gaming).
+Las GPUs Pascal, como la GTX 1060 y la GTX 1080, ofrecían un rendimiento impresionante para su tiempo. Eran ideales para juegos como *The Witcher 3* en configuraciones altas. Si buscas algo más moderno, consulta nuestra [guía de PC gaming 2023]({{ site.constants.wsib }}gaming).
 
 #### Lo Malo: Obsolescencia tecnológica
 
@@ -30,7 +30,7 @@ Aunque las GPUs Pascal fueron revolucionarias, ahora luchan por mantenerse al d�
 
 #### Lo Feo: Los precios de las GPUs
 
-Incluso en 2016, las GPUs no eran baratas. Y con la locura de las criptomonedas en los últimos años, los precios solo han empeorado. Si estás buscando una GPU asequible, consulta nuestra [reseña de GPUs económicas]({{ site.constants.wsib }}/gpu).
+Incluso en 2016, las GPUs no eran baratas. Y con la locura de las criptomonedas en los últimos años, los precios solo han empeorado. Si estás buscando una GPU asequible, consulta nuestra [reseña de GPUs económicas]({{ site.constants.wsib }}gpu).
 
 ### Configuraciones recomendadas en 2016
 

@@ -7,7 +7,7 @@ description: "Dive into the hilarious and addictive world of FC25 (formerly FIFA
 
 Welcome to the world of **FC25** (formerly known as FIFA), where the grass is greener, the players are more beautiful, and the referee's decisions are more questionable than ever! Yes, EA Sports decided to rebrand the game, dropping the iconic FIFA name. Why? Probably because they wanted to save money on licensing fees—or maybe they just wanted to confuse us. Either way, it’s still the same game we love to hate (and hate to love). Strap in your shin guards and get ready for a hilarious yet informative review of the most popular football (or should I say soccer?) game on the planet.
 
-[![FC25 Logo](https://i.imgur.com/aHm1goAm.jpeg){: .align-right}]({{ site.constants.wsib }}/FC25)
+[![FC25 Logo](https://i.imgur.com/aHm1goAm.jpeg){: .align-right}]({{ site.constants.wsib }}FC25)
 
 ---
 
@@ -21,7 +21,7 @@ FC25 is like that one friend who has their good days, bad days, and downright ug
 
 Ultimate Team is where FC25 shines—and where your free time goes to die. Building your dream team is addictive, but be prepared to spend more money on virtual packs than you would on actual football tickets. EA Sports knows this, and they’re not shy about it. Want that 99-rated Mbappé? Better start saving—or selling your furniture.
 
-[![Ultimate Team](https://i.imgur.com/EIEb9WGm.jpeg){: .align-right}]({{ site.constants.wsib }}/FC25)
+[![Ultimate Team](https://i.imgur.com/EIEb9WGm.jpeg){: .align-right}]({{ site.constants.wsib }}FC25)
 
 **Criticism Alert**: The microtransactions in Ultimate Team are as relentless as a high-press tactic. While you *can* grind your way to a decent team, the temptation to buy packs is always looming. It’s like EA is whispering, “Just one more pack… what’s the worst that could happen?” Spoiler: your wallet will cry【4†source】.
 

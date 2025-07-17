@@ -6,7 +6,7 @@ description: 'A humorous and insightful review of Mistborn: The Hero of Ages. Di
 last_modified_at: '2025-04-11T10:00:00+02:00'
 ---
 
-[![Mistborn 3](https://example.com/mistborn3.jpg){: .align-right}]({{ site.constants.wsib }}/mistborn3)
+[![Mistborn 3](https://example.com/mistborn3.jpg){: .align-right}]({{ site.constants.wsib }}mistborn3)
 
 ## Introduction
 
@@ -56,6 +56,6 @@ Yes, there is humor! Amidst the darkness and drama, Sanderson sprinkles moments 
 
 *Mistborn: The Hero of Ages* is a thrilling conclusion to an unforgettable trilogy. It's a masterclass in storytelling, with compelling characters, intricate plots, and deep themes that resonate long after you've turned the last page. If you're a fan of fantasy, this book is a must-read.
 
-**Bold Call-to-Action:** Don't miss out on experiencing the magic of Mistborn! Grab your copy of *The Hero of Ages* [here]({{ site.constants.wsib }}/mistborn 3) and join the adventure. And if you haven't read the first two books, what are you waiting for? Get them now and prepare for a wild ride!
+**Bold Call-to-Action:** Don't miss out on experiencing the magic of Mistborn! Grab your copy of *The Hero of Ages* [here]({{ site.constants.wsib }}mistborn 3) and join the adventure. And if you haven't read the first two books, what are you waiting for? Get them now and prepare for a wild ride!
 
 Happy reading, and may your metals always burn brightly!

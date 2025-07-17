@@ -10,7 +10,7 @@ tags:
 last_modified_at: '2025-06-04T21:09:27+02:00'
 ---
 
-[![Heat: Pedal to the Metal](https://i.imgur.com/uK76yQB.jpeg){: style="float: right;"}]({{ site.constants.wsib }}/heat-pedal-to-the-metal)
+[![Heat: Pedal to the Metal](https://i.imgur.com/uK76yQB.jpeg){: style="float: right;"}]({{ site.constants.wsib }}heat-pedal-to-the-metal)
 
 Are you ready to rev up your engines and dive into the thrilling world of 1960s racing? If so, then buckle up because we are about to take a wild ride with **HEAT: Pedal to the Metal** – a game that combines strategy, speed, and a sprinkle of chaos. Get ready, because this review will be as fast-paced and hilarious as the game itself!
 
@@ -18,7 +18,7 @@ Are you ready to rev up your engines and dive into the thrilling world of 1960s 
 
 ## The Basics
 
-[HEAT: Pedal to the Metal]({{ site.constants.wsib }}/heat-pedal-to-the-metal) is a racing board game designed by Asger Harding Granerud and Daniel Skjold Pedersen. The game takes you back to the golden era of motorsports, where managing the heat in your car engine and outmaneuvering your opponents are the keys to victory. With fast gameplay and expansions adding variety, HEAT is sure to keep you on the edge of your seat. It's ranked #1467 in the board game community, which means it's a game worth checking out.
+[HEAT: Pedal to the Metal]({{ site.constants.wsib }}heat-pedal-to-the-metal) is a racing board game designed by Asger Harding Granerud and Daniel Skjold Pedersen. The game takes you back to the golden era of motorsports, where managing the heat in your car engine and outmaneuvering your opponents are the keys to victory. With fast gameplay and expansions adding variety, HEAT is sure to keep you on the edge of your seat. It's ranked #1467 in the board game community, which means it's a game worth checking out.
 
 ---
 
@@ -98,7 +98,7 @@ HEAT: Pedal to the Metal is a fantastic racing game that offers a perfect blend 
 
 **Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The steep learning curve and punishing mechanics might deter some players, but for those willing to embrace the chaos, HEAT is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}/heat-pedal-to-the-metal) and get your copy of HEAT: Pedal to the Metal today. It’s time to put the pedal to the metal and race your way to victory!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}heat-pedal-to-the-metal) and get your copy of HEAT: Pedal to the Metal today. It’s time to put the pedal to the metal and race your way to victory!
 
 ---
 

@@ -14,7 +14,7 @@ thumbnail: https://1.bp.blogspot.com/-v7OQL5CYxB0/Ui9oC9fT5MI/AAAAAAAAAbE/Y8pjLA
 description: "¿Es GTA V el mejor juego de la década o solo una promesa inflada? Descubre todo lo que necesitas saber antes de su lanzamiento."
 ---
 
-[![GTA V](https://1.bp.blogspot.com/-v7OQL5CYxB0/Ui9oC9fT5MI/AAAAAAAAAbE/Y8pjLAaBR88/s320/GTA-V-big%5B1%5D.jpg)]{: .align-right}]({{ site.constants.wsib }}/gta-v)
+[![GTA V](https://1.bp.blogspot.com/-v7OQL5CYxB0/Ui9oC9fT5MI/AAAAAAAAAbE/Y8pjLAaBR88/s320/GTA-V-big%5B1%5D.jpg)]{: .align-right}]({{ site.constants.wsib }}gta-v)
 
 ### ¿Estamos listos para GTA V o nos están vendiendo humo?
 

@@ -13,7 +13,7 @@ LEGO has been a beloved brand for decades, inspiring creativity and imagination 
 
 ## LEGO Technic Bugatti Chiron
 
-[![LEGO Technic Bugatti Chiron](https://www.lego.com/cdn/cs/set/assets/blt6ca5ed5ff37d8f2d/42083_alt1.jpg){: .align-right}]({{ site.constants.wsib }}/lego-technic-bugatti-chiron)
+[![LEGO Technic Bugatti Chiron](https://www.lego.com/cdn/cs/set/assets/blt6ca5ed5ff37d8f2d/42083_alt1.jpg){: .align-right}]({{ site.constants.wsib }}lego-technic-bugatti-chiron)
 
 ### Overview
 
@@ -36,7 +36,7 @@ The LEGO Technic Bugatti Chiron is perfect for car enthusiasts and experienced b
 
 ## LEGO Star Wars Millennium Falcon
 
-[![LEGO Star Wars Millennium Falcon](https://www.lego.com/cdn/cs/set/assets/blte5be7a7b4c6763a6/75192_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}/lego-star-wars-millennium-falcon)
+[![LEGO Star Wars Millennium Falcon](https://www.lego.com/cdn/cs/set/assets/blte5be7a7b4c6763a6/75192_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-millennium-falcon)
 
 ### Overview
 
@@ -59,7 +59,7 @@ The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star
 
 ## LEGO Creator Expert Roller Coaster
 
-[![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}/lego-creator-expert-roller-coaster)
+[![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-creator-expert-roller-coaster)
 
 ### Overview
 
@@ -82,7 +82,7 @@ The LEGO Creator Expert Roller Coaster is ideal for those who enjoy both buildin
 
 ## LEGO Ideas Tree House
 
-[![LEGO Ideas Tree House](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/21318_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}/lego-ideas-tree-house)
+[![LEGO Ideas Tree House](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/21318_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-ideas-tree-house)
 
 ### Overview
 
@@ -107,4 +107,4 @@ The LEGO Ideas Tree House is perfect for those who appreciate nature and intrica
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/lgeo) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lgeo) and find the perfect addition to your collection today!**
