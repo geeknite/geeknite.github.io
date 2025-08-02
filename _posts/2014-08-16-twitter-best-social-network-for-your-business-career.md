@@ -12,7 +12,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Twitter: ¿Es realmente la mejor red social para tu carrera profesional o solo otra distracción más? Descubre nuestra crítica completa."
 ---
 
-[![Twitter](https://4.bp.blogspot.com/-kjQQ8kt9wj4/U-8GvTyZjvI/AAAAAAAAAjc/DakYrrbKAQU/s1600/8176361_f260%5B1%5D.jpg)]{: .align-right}]({{ site.constants.wsib }}/twitter)
+[![Twitter](https://4.bp.blogspot.com/-kjQQ8kt9wj4/U-8GvTyZjvI/AAAAAAAAAjc/DakYrrbKAQU/s1600/8176361_f260%5B1%5D.jpg)]{: .align-right}]({{ site.constants.wsib }}twitter)
 
 ### Twitter: ¿La mejor red social para tu carrera o solo ruido?
 
@@ -20,7 +20,7 @@ Twitter ha sido aclamado como una herramienta esencial para profesionales, pero 
 
 #### Lo Bueno: Información en tiempo real
 
-Twitter permite mantenerse al día con las últimas noticias y tendencias en tiempo real. Además, es una excelente herramienta para conectar con personas de tu industria. Si estás buscando consejos sobre productividad, consulta nuestra [guía de herramientas digitales]({{ site.constants.wsib }}/digital).
+Twitter permite mantenerse al día con las últimas noticias y tendencias en tiempo real. Además, es una excelente herramienta para conectar con personas de tu industria. Si estás buscando consejos sobre productividad, consulta nuestra [guía de herramientas digitales]({{ site.constants.wsib }}digital).
 
 #### Lo Malo: ¿Demasiado ruido?
 

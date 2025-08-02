@@ -16,7 +16,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre las mejores configuraciones Skylake para Navidad 2015. ¿Siguen siendo relevantes o es hora de actualizarse?"
 ---
 
-[![Intel Skylake](https://3.bp.blogspot.com/-kxARiTNSwxI/Vs60MJwdaoI/AAAAAAAAAuc/eOlmTnz4vKI/s200/intel-skylake-for-notebooks-will-come-in-october-487788-2%255B1%255D.jpg){: .align-right}]({{ site.constants.wsib }}/intel)
+[![Intel Skylake](https://3.bp.blogspot.com/-kxARiTNSwxI/Vs60MJwdaoI/AAAAAAAAAuc/eOlmTnz4vKI/s200/intel-skylake-for-notebooks-will-come-in-october-487788-2%255B1%255D.jpg){: .align-right}]({{ site.constants.wsib }}intel)
 
 ### Skylake Builds Navidad 2015: ¿Siguen siendo relevantes?
 
@@ -24,7 +24,7 @@ En 2015, Skylake era la palabra de moda en el mundo del hardware. Pero, ¿siguen
 
 #### Lo Bueno: Rendimiento sólido
 
-Las configuraciones Skylake ofrecían un rendimiento impresionante para su época. Desde opciones económicas hasta configuraciones premium, había algo para todos. Si estás buscando algo más moderno, consulta nuestra [guía de PC gaming 2023]({{ site.constants.wsib }}/gaming).
+Las configuraciones Skylake ofrecían un rendimiento impresionante para su época. Desde opciones económicas hasta configuraciones premium, había algo para todos. Si estás buscando algo más moderno, consulta nuestra [guía de PC gaming 2023]({{ site.constants.wsib }}gaming).
 
 #### Lo Malo: Obsolescencia tecnológica
 
@@ -32,7 +32,7 @@ La tecnología avanza rápido, y lo que era impresionante en 2015 ahora apenas c
 
 #### Lo Feo: Los precios de las GPUs
 
-Incluso en 2015, las tarjetas gráficas eran caras. Y con la locura de las criptomonedas en los últimos años, los precios solo han empeorado. Si estás buscando una GPU asequible, consulta nuestra [reseña de GPUs económicas]({{ site.constants.wsib }}/gpu).
+Incluso en 2015, las tarjetas gráficas eran caras. Y con la locura de las criptomonedas en los últimos años, los precios solo han empeorado. Si estás buscando una GPU asequible, consulta nuestra [reseña de GPUs económicas]({{ site.constants.wsib }}gpu).
 
 ### ¿Vale la pena en 2023?
 

@@ -15,7 +15,7 @@ The idea is to use a **frame** to show AdSense from another website so you can s
 
 2. Create a free page Searching in Google for a free hosting website service, you can use a page in for example a free blog service like Tumblr, where you can add simple web pages to your blog, this pages can be html so you can add anything, at least I tried with ads.
 
-3. Insert an iFrame in your Blog, this might be the hardest part since it requires some basic [HTML knowledge]({{ site.constants.wsib }}/html manual/). You should access the manual theme customization and select where you want to insert the ads. Then you have to insert the following code snippet:
+3. Insert an iFrame in your Blog, this might be the hardest part since it requires some basic [HTML knowledge]({{ site.constants.wsib }}html manual/). You should access the manual theme customization and select where you want to insert the ads. Then you have to insert the following code snippet:
 
         <div class="ads">
             <iframe src="http://youradaddres" width="600" height="100" scrolling="no" frameborder="0">

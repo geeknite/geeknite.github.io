@@ -15,7 +15,7 @@ thumbnail: https://4.bp.blogspot.com/-NCLSS_T7DHM/WSqB8gm4cTI/AAAAAAAAA_o/9gVHsJ
 description: "¿Es el Logitech G602 el mejor ratón inalámbrico o solo un ladrillo caro? Descúbrelo en nuestra review."
 ---
 
-[![Logitech G602](https://4.bp.blogspot.com/-NCLSS_T7DHM/WSqB8gm4cTI/AAAAAAAAA_o/9gVHsJd9_fgHg5lrSn_flLy8hYFzkmJjQCEw/s320/logitech%2Bg602%2B%25282%2529.jpg){: .align-right}]({{ site.constants.wsib }}/logitech)
+[![Logitech G602](https://4.bp.blogspot.com/-NCLSS_T7DHM/WSqB8gm4cTI/AAAAAAAAA_o/9gVHsJd9_fgHg5lrSn_flLy8hYFzkmJjQCEw/s320/logitech%2Bg602%2B%25282%2529.jpg){: .align-right}]({{ site.constants.wsib }}logitech)
 
 ### ¿Es el Logitech G602 un ratón o un ladrillo con botones?
 
@@ -51,7 +51,7 @@ El G602 ofrece hasta **250 horas de batería** en modo rendimiento, lo cual es i
 
 ### ¿Deberías comprarlo?
 
-Si buscas un ratón inalámbrico para gaming que no te deje tirado en medio de una partida, el G602 es una opción sólida. Pero si prefieres algo más ligero o con un diseño más discreto, tal vez quieras considerar alternativas como el [Logitech MX Master]({{ site.constants.wsib }}/logitech-mx-master) o incluso algo de [Razer]({{ site.constants.wsib }}/razer).
+Si buscas un ratón inalámbrico para gaming que no te deje tirado en medio de una partida, el G602 es una opción sólida. Pero si prefieres algo más ligero o con un diseño más discreto, tal vez quieras considerar alternativas como el [Logitech MX Master]({{ site.constants.wsib }}logitech-mx-master) o incluso algo de [Razer]({{ site.constants.wsib }}razer).
 
 **Conclusión:** El Logitech G602 es como un tanque: confiable, robusto, pero no para todos. Si puedes lidiar con su tamaño y peso, es una gran inversión. Si no, sigue buscando. ¡Gracias por leernos y no olvides compartir tu experiencia con este ratón en los comentarios!
 

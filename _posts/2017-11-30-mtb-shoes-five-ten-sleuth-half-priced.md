@@ -14,7 +14,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Exploramos las Five Ten Sleuth: ¿Son realmente una ganga a mitad de precio o solo otra decepción? Descubre nuestra crítica completa."
 ---
 
-[![Five Ten Sleuth](https://1.bp.blogspot.com/-nT2Qimzphm8/WiBhCW-EDaI/AAAAAAAABBk/HkW5ilXl3Mc4_IwbGC8WcLvtiQ5zvWMUwCLcBGAs/s320/five%2Bten%2Bsleuth%2Boffer.jpg){: .align-right}]({{ site.constants.wsib }}/five-ten-sleuth)
+[![Five Ten Sleuth](https://1.bp.blogspot.com/-nT2Qimzphm8/WiBhCW-EDaI/AAAAAAAABBk/HkW5ilXl3Mc4_IwbGC8WcLvtiQ5zvWMUwCLcBGAs/s320/five%2Bten%2Bsleuth%2Boffer.jpg){: .align-right}]({{ site.constants.wsib }}five-ten-sleuth)
 
 ### MTB Shoes Five Ten Sleuth: ¿Una ganga o una decepción?
 
@@ -22,7 +22,7 @@ Las Five Ten Sleuth prometen ser la combinación perfecta entre estilo y funcion
 
 #### Lo Bueno: Estilo y funcionalidad
 
-Estas zapatillas ofrecen un diseño casual inspirado en el skate, combinado con las suelas antideslizantes que han hecho famosas a las Five Ten. Son ideales para el ciclismo urbano y el dirt jumping. Si buscas algo más técnico, consulta nuestra [guía de zapatillas para MTB]({{ site.constants.wsib }}/mtb-shoes).
+Estas zapatillas ofrecen un diseño casual inspirado en el skate, combinado con las suelas antideslizantes que han hecho famosas a las Five Ten. Son ideales para el ciclismo urbano y el dirt jumping. Si buscas algo más técnico, consulta nuestra [guía de zapatillas para MTB]({{ site.constants.wsib }}mtb-shoes).
 
 #### Lo Malo: No son para todo tipo de clima
 

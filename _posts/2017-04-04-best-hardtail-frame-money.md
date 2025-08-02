@@ -30,7 +30,7 @@ A plus size bike frame with boost axle, not compatible with 29 inch wheels but v
 
 ### [Ragley Marley (~230€)](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]]){: rel="nofollow"}
 
-A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the year awards for its price and capabilities, now the 2017 frame with renewed colors is better than ever. Especially good for old bikes thanks to the old standard rear axle, even a good option with 26 inch wheels but get ready your [crank boots]({{ site.constants.wsib }}/crank%20boots). The same version with standard headtube can be found named as the [Ragley Piglet](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-piglet-2017/rp-prod145974/]]){: rel="nofollow"}.
+A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the year awards for its price and capabilities, now the 2017 frame with renewed colors is better than ever. Especially good for old bikes thanks to the old standard rear axle, even a good option with 26 inch wheels but get ready your [crank boots]({{ site.constants.wsib }}crank%20boots). The same version with standard headtube can be found named as the [Ragley Piglet](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-piglet-2017/rp-prod145974/]]){: rel="nofollow"}.
 
 - Material: aluminum
 - Tapered: yes
@@ -41,7 +41,7 @@ A 27.5 modern geometry MTB, the ragley won many of last years hardtail of the ye
 
 [](https://ad.zanox.com/ppc/?42106704C53515669&ULP=[[https://www.chainreactioncycles.com/es/es/cuadro-rigido-ragley-marley-2017/rp-prod145972/]])
 
-### [Production Privee Shan]({{ site.constants.wsib }}/uk/Production%20Privee%20Shan) (~450€)
+### [Production Privee Shan]({{ site.constants.wsib }}uk/Production%20Privee%20Shan) (~450€)
 
 Also a 27.5 modern geometry MTB, but this time in chromoly steel, Production Prive have emerged from Andorra with their innovative and quality bikes and the Shan is their hardtail exponent. Really slack and a tapered headtube, difficult to find in chromoly frames. Also they offer conversion kits to QR axle and 26 inch bikes.
 
@@ -52,9 +52,9 @@ Also a 27.5 modern geometry MTB, but this time in chromoly steel, Production Pri
 - Seat tube: 30.9mm stealth compatible
 - Weight: 2.6 kg (size M)
 
-[![pp shan](https://1.bp.blogspot.com/-ogWWt-hBYp8/WOOw1kKy4iI/AAAAAAAAA9o/5-0KL8GcCgo59UKDJjROr0Bz482ytbbggCLcB/s320/SHAN-27-Classic-630px-1.jpg)]({{ site.constants.wsib }}/uk/Production%20Privee%20Shan)
+[![pp shan](https://1.bp.blogspot.com/-ogWWt-hBYp8/WOOw1kKy4iI/AAAAAAAAA9o/5-0KL8GcCgo59UKDJjROr0Bz482ytbbggCLcB/s320/SHAN-27-Classic-630px-1.jpg)]({{ site.constants.wsib }}uk/Production%20Privee%20Shan)
 
-### [Mondraker Vantage]({{ site.constants.wsib }}/uk/mondraker%20vantage) (~500€)
+### [Mondraker Vantage]({{ site.constants.wsib }}uk/mondraker%20vantage) (~500€)
 
 The Mondraker hardtail frame, renown forward geometry, long and simple in a hardtail form. 27.5 wheels are recommended and also includes the tapered headset and a short 30mm stem which is good bang for money. Last year models can be found for a reduced price and all with the same geometry but the rear axle which changes to 12x142 for the 2017 model. Also a plus sized frame named Vantage RR+ can be found for the same price with 12x157 axle which is not the most seen in the plus market.
 
@@ -64,6 +64,6 @@ The Mondraker hardtail frame, renown forward geometry, long and simple in a hard
 - Rear axle: 12x142 (10x135 2016 model)
 - Seat tube: 31.6mm
 
-[![mondraker vantage](https://2.bp.blogspot.com/-NjJYS-Xneg8/WOOxLsYw36I/AAAAAAAAA9s/Y02Ij4XdG9sPIUJHOyC-Mi2gE1Rb5hVsgCLcB/s320/mondraker%2Bvantage%2Bframe.jpg)]({{ site.constants.wsib }}/uk/mondraker%20vantage)
+[![mondraker vantage](https://2.bp.blogspot.com/-NjJYS-Xneg8/WOOxLsYw36I/AAAAAAAAA9s/Y02Ij4XdG9sPIUJHOyC-Mi2gE1Rb5hVsgCLcB/s320/mondraker%2Bvantage%2Bframe.jpg)]({{ site.constants.wsib }}uk/mondraker%20vantage)
 
 These are some of the frames that we would exchange with any hardtail anyday, we have left behind many frames worth noting and many that we would love to test. Have you tried any that we should also feature in this article, please let us know in the comments or on [@sikkxo](https://twitter.com/sikkxo). Also worth checking our [definitive plus size tire MTB list]({%- post_url 2017-02-21-the-definitive-plus-tire-mountain-bike-list -%}) for interesting boosted hardtails and full suspension bikes. Thanks for being there!

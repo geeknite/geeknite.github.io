@@ -6,7 +6,7 @@ date: "2023-07-24"
 last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
-[![Garmin Edge 530 vs. iGPSPORT iGS630](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}]({{ site.constants.wsib }}/iGPSPORT iGS630)
+[![Garmin Edge 530 vs. iGPSPORT iGS630](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}]({{ site.constants.wsib }}iGPSPORT iGS630)
 
 *Hey there, fellow bike enthusiasts! Ready for a ride filled with laughter, data, and a touch of friendly rivalry? Today, we're putting two amazing bike computers head-to-head in the ultimate battle for the title of the best bike companion! Let's welcome the Garmin Edge 530 and the iGPSPORT iGS630 to the ring! 🚴*
 
@@ -159,7 +159,7 @@ Choose the Garmin Edge 530 if:
 
 -------------
 
-*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on {{ site.constants.wsibName }}**](<{{ site.constants.wsib }}/garmin edge 530>) *to compare prices.*
+*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on {{ site.constants.wsibName }}**](<{{ site.constants.wsib }}garmin edge 530>) *to compare prices.*
 
 *Happy riding, and may your bike adventures be filled with laughter and unforgettable moments!* 🚵‍♂️💨
 

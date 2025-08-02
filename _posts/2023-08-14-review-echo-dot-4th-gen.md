@@ -6,7 +6,7 @@ tags: [amazon, echo dot, alexa, smart home]
 last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
-[![Echo Dot (4th Gen)](https://i.imgur.com/icJV3ENm.jpg){: style="float: right;"}]({{ site.constants.wsib }}/echo dot)
+[![Echo Dot (4th Gen)](https://i.imgur.com/icJV3ENm.jpg){: style="float: right;"}]({{ site.constants.wsib }}echo dot)
 
 Hey there, tech enthusiasts! Get ready to dive into the exciting world of the [Echo Dot (4th Gen)](https://www.amazon.com/dp/B07XJ8C8F5?tag={{ site.constants.amazon_com }}){: rel="nofollow"} from Amazon. This little smart speaker is about to blow your mind! 🚀
 

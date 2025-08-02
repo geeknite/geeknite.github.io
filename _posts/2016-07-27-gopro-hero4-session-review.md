@@ -19,7 +19,7 @@ La GoPro Hero4 Session prometía ser la cámara de acción más compacta y vers�
 
 #### Lo Bueno: Compacta y resistente
 
-Con solo 74 gramos, la Hero4 Session es perfecta para ciclistas y aventureros que buscan una cámara ligera y resistente. Además, graba hasta 1440p a 30 fps con buena calidad de audio. Si buscas algo más reciente, consulta nuestra [guía de cámaras de acción 2023]({{ site.constants.wsib }}/action-cameras).
+Con solo 74 gramos, la Hero4 Session es perfecta para ciclistas y aventureros que buscan una cámara ligera y resistente. Además, graba hasta 1440p a 30 fps con buena calidad de audio. Si buscas algo más reciente, consulta nuestra [guía de cámaras de acción 2023]({{ site.constants.wsib }}action-cameras).
 
 #### Lo Malo: Batería no reemplazable
 
@@ -27,7 +27,7 @@ Aunque la duración de la batería es decente, el hecho de que no sea reemplazab
 
 #### Lo Feo: Precio y alternativas
 
-Aunque la Hero4 Session ofrece buena calidad, su precio puede ser difícil de justificar frente a alternativas más económicas como la [Xiaomi Yi]({{ site.constants.wsib }}/xiaomi-yi).
+Aunque la Hero4 Session ofrece buena calidad, su precio puede ser difícil de justificar frente a alternativas más económicas como la [Xiaomi Yi]({{ site.constants.wsib }}xiaomi-yi).
 
 ![GoPro Hero4 Session](https://1.bp.blogspot.com/-_JLSuWSROlg/V5iUPCaPkmI/AAAAAAAAA04/NKwsiiqvhC4JHP6cFQTV0jaFKjcH4-T4ACLcB/s200/hero4%2BSession.jpeg)
 

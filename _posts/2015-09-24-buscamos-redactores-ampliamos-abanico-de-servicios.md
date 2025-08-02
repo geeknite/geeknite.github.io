@@ -15,7 +15,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Ampliamos nuestro abanico de servicios y buscamos redactores apasionados. ¿Te unes a nuestra misión de contenido épico?"
 ---
 
-[![Colaboración](https://1.bp.blogspot.com/-IFCRdIcblEw/VgRpkejedsI/AAAAAAAAAp0/ybmB0FwaJYI/s320/blog-image-collaboration_copy%255B1%255D.jpg){: .align-right}]({{ site.constants.wsib }}/collaboration)
+[![Colaboración](https://1.bp.blogspot.com/-IFCRdIcblEw/VgRpkejedsI/AAAAAAAAAp0/ybmB0FwaJYI/s320/blog-image-collaboration_copy%255B1%255D.jpg){: .align-right}]({{ site.constants.wsib }}collaboration)
 
 ### Buscamos redactores: ¡Únete a nuestra misión de contenido épico!
 
@@ -27,7 +27,7 @@ Ofrecemos una plataforma para que compartas tus ideas y llegues a una audiencia 
 
 #### Lo Malo: Escribir no es fácil
 
-Seamos honestos, escribir contenido de calidad lleva tiempo y esfuerzo. Pero si estás dispuesto a aceptar el desafío, las recompensas pueden ser significativas. Consulta nuestra [guía de escritura efectiva]({{ site.constants.wsib }}/writing) para empezar.
+Seamos honestos, escribir contenido de calidad lleva tiempo y esfuerzo. Pero si estás dispuesto a aceptar el desafío, las recompensas pueden ser significativas. Consulta nuestra [guía de escritura efectiva]({{ site.constants.wsib }}writing) para empezar.
 
 #### Lo Feo: Competencia feroz
 

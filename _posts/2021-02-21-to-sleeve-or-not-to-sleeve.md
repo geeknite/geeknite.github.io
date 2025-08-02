@@ -6,7 +6,7 @@ date: "2021-02-21"
 last_modified_at: '2023-07-21T00:00:00+02:00'
 ---
 
-[![game sleeves](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}/sleeves)
+[![game sleeves](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}sleeves)
 
 *Disclaimer: If you're a board game aficionado who doesn't mind a little wear and tear on your cards, you might not find this post as entertaining as others. But hey, stick around, you never know what fun might await!*
 
@@ -88,7 +88,7 @@ As promised, here are some links to other captivating board game reads:
 
 ## **And One Last Bonus Link**
 
-For all your card sleeve shopping needs, check out **[{{ site.constants.wsibName }}]({{ site.constants.wsib }}/)** – a treasure trove of prices and choices that will leave your cards feeling snazzy!
+For all your card sleeve shopping needs, check out **[{{ site.constants.wsibName }}]({{ site.constants.wsib }})** – a treasure trove of prices and choices that will leave your cards feeling snazzy!
 
 There you have it, folks! The great debate of to sleeve or not to sleeve. Ultimately, the decision lies in your gaming heart. Whether you prefer the tactile pleasure of unsleeved cards or the comforting embrace of premium sleeves, what matters most is that you enjoy the game!
 

@@ -9,13 +9,13 @@ redirect_from:
     - /2013/01/garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500.html
 ---
 
-[![Garmin edge 500](https://i.imgur.com/ZAlc9GQm.jpg){: .align-right}]({{ site.constants.wsib }}/garmin edge 500)
+[![Garmin edge 500](https://i.imgur.com/ZAlc9GQm.jpg){: .align-right}]({{ site.constants.wsib }}garmin edge 500)
 
-First of all I want to make clear that my impression on the ***[Edge 520]({{ site.constants.wsib }}/us/Garmin%20Edge%20520)*** is taken from the many reviews out there, I am not lucky enough for *Garmin* to send me one to review, and, of course, my *[Edge 500]({{ site.constants.wsib }}/us/Garmin%20Edge%20500)* was bought with **my money**, I am not a renowned person in the bike world to get one for free as some do, I am just a **biking enthusiast** and this is just my impression of a product as a **humble biker**.
+First of all I want to make clear that my impression on the ***[Edge 520]({{ site.constants.wsib }}Garmin%20Edge%20520)*** is taken from the many reviews out there, I am not lucky enough for *Garmin* to send me one to review, and, of course, my *[Edge 500]({{ site.constants.wsib }}Garmin%20Edge%20500)* was bought with **my money**, I am not a renowned person in the bike world to get one for free as some do, I am just a **biking enthusiast** and this is just my impression of a product as a **humble biker**.
 
 In this post I want to share my point of view of how the*Edge 520* does not impress much on over the *Edge 500* owner and the reasons why **I will stay with my *Edge 500 *for the time being**. A device like this is perfect for not using your phone as a tracker, which probably has already a *GPS*,and also is a valid option, but as you may know its height accuracy is pretty bad. On the other hand the *Edge*series have a barometric altimeter which is perfect for this kind of tracking. Using an external *GPS tracker* is perfect for not overusing the battery of your phone and save it for emergencies.
 
-*Here you can check the current prices and offers of the best Garmin GPS for bikers, the [Edge 500]({{ site.constants.wsib }}/Edge%20500) (mine), the [Edge 510]({{ site.constants.wsib }}/us/Edge%20510), the new [Edge 520]({{ site.constants.wsib }}/us/Edge%20520), the [Edge 810]({{ site.constants.wsib }}/us/Edge%20810) and the [Edge 1000]({{ site.constants.wsib }}/us/Edge%201000) which are the top models from Garmin.*
+*Here you can check the current prices and offers of the best Garmin GPS for bikers, the [Edge 500]({{ site.constants.wsib }}Edge%20500) (mine), the [Edge 510]({{ site.constants.wsib }}Edge%20510), the new [Edge 520]({{ site.constants.wsib }}Edge%20520), the [Edge 810]({{ site.constants.wsib }}Edge%20810) and the [Edge 1000]({{ site.constants.wsib }}Edge%201000) which are the top models from Garmin.*
 
 ### Size
 
@@ -43,7 +43,7 @@ Edge 520: 8\
 
 ### Connectivity
 
-<a href='{{ site.constants.wsib }}/us/garmin%20edge%20cover'><img style="float: right;" src="https://i.imgur.com/XXJzySPm.jpg"></a>
+<a href='{{ site.constants.wsib }}garmin%20edge%20cover'><img style="float: right;" src="https://i.imgur.com/XXJzySPm.jpg"></a>
 
 Of course connectivity possibilities have been much more improved, now being able to share through your mobile your ride information, with current social network addiction, many of us like to share our rides online as soon as possible. Until now, the *Edge 500*'s integration with services is good enough, due to these services improving and trying to make as easy as possible the user's experience, ***Strava* for example let you upload your ride in a couple of clicks**, also you can use *Garmin*'s service, **Garmin Connect**, and also you should check our [comparison of Strava vs Garmin Connect]({%- post_url 2013-09-30-strava-vs-garmin-connect-review-of-best-track-analyzers -%}). It's not instant but good enough for me. The connectivity with sensors and power meter remains the same, which was good enough. Perfect for use at home with your trainer, check our [Minoura B-60r review]({%- post_url 2013-01-12-minoura-b60-r-magnetic-trainer-review-best-for-money -%}), during winter.
 
@@ -105,4 +105,4 @@ But don't get me wrong, **the Edge 520 is a great device**, so, my recommendatio
 - **If you have it but you want to improve your experience**: get an Edge 800 or [the Edge 810 vs the new Edge 1000]({%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%}).
 - **If you don't have any of them**: with my points at hand, decide which can be better for you. **Look for offers on the *Edge 500 *or price reductions** if it gets below 180€ or $200 for the complete package can be a good deal. If you want the Edge 520 it may be a good option too even considering the increased price tag, or you can check for other *GPS* devices of other brands, which I am preparing a new post to do a small comparison of some of them.
 
-You can compare easily the prices of the [Garmin Edge devices]({{ site.constants.wsib }}/garmin%20edge) on ebay and amazon with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/). **Big Thanks to all the readers and visitors!**
+You can compare easily the prices of the [Garmin Edge devices]({{ site.constants.wsib }}garmin%20edge) on ebay and amazon with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}). **Big Thanks to all the readers and visitors!**

@@ -7,7 +7,7 @@ last_modified_at: '2025-03-29T18:11:09+02:00'
 
 Welcome to our in-depth review of **Punirunes**, a Tamagotchi-inspired physical pet toy that has captured the hearts of many users worldwide. With its tactile button that simulates touching your virtual pet, Punirunes brings a nostalgic yet modern twist to the virtual pet genre. In this review, we’ll dive deep into its features, interaction mechanics, design, sound, and overall experience. If you’re considering giving Punirunes a try, this review will help you understand what to expect—and what to watch out for.
 
-[![Punirunes](https://i.imgur.com/arT7fdFm.jpg){: .align-right}]({{ site.constants.wsib }}/punirunes)
+[![Punirunes](https://i.imgur.com/arT7fdFm.jpg){: .align-right}]({{ site.constants.wsib }}punirunes)
 
 ---
 
@@ -61,6 +61,6 @@ Punirunes is a delightful virtual pet toy that offers a unique and engaging expe
 
 If you’re a fan of virtual pets or just looking for a fun and interactive toy, Punirunes is definitely worth checking out. Its charming design, rewarding growth system, and absence of pay-to-win mechanics make it a great choice for players of all ages.
 
-**Ready to embark on an adventure with Punirunes? Find the best prices online with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/punirunes).**
+**Ready to embark on an adventure with Punirunes? Find the best prices online with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}punirunes).**
 
 We highly recommend giving Punirunes a try. Purchase it today and embark on an adventure filled with love, care, and lots of cuddles!

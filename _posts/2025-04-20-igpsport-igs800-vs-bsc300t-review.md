@@ -127,7 +127,7 @@ The **BSC300T** is the underdog in this competition, offering a budget-friendly 
 
 ---
 
-*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on {{ site.constants.wsibName }}**](<{{ site.constants.wsib }}/garmin edge 530>) *to compare prices.*
+*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**Garmin Edge 530 on {{ site.constants.wsibName }}**](<{{ site.constants.wsib }}garmin edge 530>) *to compare prices.*
 
 *Happy riding, and may your bike adventures be filled with laughter and unforgettable moments!* 🚵‍♂️💨
 

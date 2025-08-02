@@ -7,7 +7,7 @@ description: "Explore the depths of Gloomhaven in this funny and detailed review
 last_modified_at: '2025-04-11T10:00:00+02:00'
 ---
 
-[![Gloomhaven](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}/gloomhaven)
+[![Gloomhaven](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}gloomhaven)
 
 ## Introduction
 
@@ -23,7 +23,7 @@ Gloomhaven is a cooperative, campaign-driven dungeon crawler board game. You and
 
 The game comes with 17 playable characters, each with unique abilities, and hundreds of monsters to battle. You get a gazillion cards, tokens, and tiles. Don't forget the rule book — it's thick enough to be used as a weapon against small intruders.
 
-[![Gloomhaven Components](https://i.imgur.com/6s4IJiPm.png){: style='float: right;'}]({{ site.constants.wsib }}/gloomhaven)
+[![Gloomhaven Components](https://i.imgur.com/6s4IJiPm.png){: style='float: right;'}]({{ site.constants.wsib }}gloomhaven)
 
 ## The Gameplay
 

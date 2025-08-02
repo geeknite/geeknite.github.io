@@ -5,7 +5,7 @@ description: "Join us for a rollercoaster ride through the latest Xiaomi gadgets
 tags: [Xiaomi, eBay, gadgets, reviews, shopping]
 ---
 
-[![Xiaomi Gadgets](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}]({{ site.constants.wsib }}/xiaomi-gadgets)
+[![Xiaomi Gadgets](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}]({{ site.constants.wsib }}xiaomi-gadgets)
 
 **Welcome, fellow tech enthusiasts!** If you thought eBay was just for second-hand goods and bargain hunters, think again. In 2025, it's the go-to place for some of the hottest Xiaomi gadgets. Grab your popcorn and get ready for a tour of the coolest tech you can buy right now. Spoiler alert: your wallet might cry, but your inner geek will thank you.
 
@@ -17,7 +17,7 @@ tags: [Xiaomi, eBay, gadgets, reviews, shopping]
 
 If you thought your phone was smart, the **Xiaomi Mi 12 Ultra** will make it look like a potato. With a **Snapdragon 1000 processor**, a **200MP camera**, and a battery that lasts longer than your average binge-watch session, this phone is the epitome of cutting-edge technology. And guess what? You can snag it on eBay for a fantastic price!
 
-[Search for Xiaomi Mi 12 Ultra on {{site.constants.wsibname}}]({{ site.constants.wsib }}/Xiaomi+Mi+12+Ultra)
+[Search for Xiaomi Mi 12 Ultra on {{site.constants.wsibname}}]({{ site.constants.wsib }}Xiaomi+Mi+12+Ultra)
 
 **Criticism**: While the Mi 12 Ultra is a beast in performance, its price tag might make you question your life choices. Also, good luck finding a case that matches its futuristic design.
 
@@ -27,7 +27,7 @@ If you thought your phone was smart, the **Xiaomi Mi 12 Ultra** will make it loo
 
 Imagine controlling your lights, thermostat, and even your coffee maker with just your voice. The **Xiaomi Smart Home Hub** makes this a reality. Integrated with AI, it learns your preferences and makes your home smarter than you ever imagined. Available on eBay at a price that will make you do a double-take.
 
-[Search for Xiaomi Smart Home Hub on {{site.constants.wsibname}}]({{ site.constants.wsib }}/Xiaomi+Smart+Home+Hub)
+[Search for Xiaomi Smart Home Hub on {{site.constants.wsibname}}]({{ site.constants.wsib }}Xiaomi+Smart+Home+Hub)
 
 **Criticism**: While the Smart Home Hub is impressive, its setup process can feel like solving a Rubik’s Cube blindfolded. And don’t even get us started on the occasional Wi-Fi tantrums.
 
@@ -37,7 +37,7 @@ Imagine controlling your lights, thermostat, and even your coffee maker with jus
 
 Tired of sitting in traffic? The **Xiaomi Electric Scooter Pro 4** is your solution. With a range of **60 miles on a single charge** and a top speed that will make you feel like you're flying, this scooter is both fun and functional. Get it on eBay and revolutionize your daily commute.
 
-[Search for Xiaomi Electric Scooter Pro 4 on {{site.constants.wsibname}}]({{ site.constants.wsib }}/Xiaomi+Electric+Scooter+Pro+4)
+[Search for Xiaomi Electric Scooter Pro 4 on {{site.constants.wsibname}}]({{ site.constants.wsib }}Xiaomi+Electric+Scooter+Pro+4)
 
 **Criticism**: While the scooter is a game-changer, its weight makes it less portable than you’d expect. Also, be prepared for envious stares from pedestrians.
 

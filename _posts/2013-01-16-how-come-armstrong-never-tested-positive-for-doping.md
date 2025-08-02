@@ -46,7 +46,7 @@ One of the boldest claims involves injecting saline to lower hematocrit levels b
 
 ### The Fallout: A Tarnished Legacy
 
-While Armstrong's actions disappointed many, his **LiveStrong Foundation** has undeniably helped countless cancer patients. If you'd like to support their cause, check out their [product line Livestrong]({{ site.constants.wsib }}/livestrong).
+While Armstrong's actions disappointed many, his **LiveStrong Foundation** has undeniably helped countless cancer patients. If you'd like to support their cause, check out their [product line Livestrong]({{ site.constants.wsib }}livestrong).
 
 ---
 

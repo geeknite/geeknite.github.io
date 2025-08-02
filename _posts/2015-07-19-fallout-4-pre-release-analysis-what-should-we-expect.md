@@ -11,7 +11,7 @@ thumbnail: https://2.bp.blogspot.com/-AoSWfRhQQxg/VaqXxSJW6GI/AAAAAAAAAnA/E4LFfu
 description: "Fallout 4: ¿Un mundo abierto revolucionario o solo más basura para recoger? Descubre nuestras expectativas y críticas en este análisis pre-lanzamiento."
 ---
 
-[![Fallout 4 Logo](https://2.bp.blogspot.com/-AoSWfRhQQxg/VaqXxSJW6GI/AAAAAAAAAnA/E4LFfuukKMY/s1600/fallout-4-logo%255B1%255D.JPG){: .align-right}]({{ site.constants.wsib }}/fallout-4)
+[![Fallout 4 Logo](https://2.bp.blogspot.com/-AoSWfRhQQxg/VaqXxSJW6GI/AAAAAAAAAnA/E4LFfuukKMY/s1600/fallout-4-logo%255B1%255D.JPG){: .align-right}]({{ site.constants.wsib }}fallout-4)
 
 ### Fallout 4: ¿Un mundo abierto revolucionario o solo más basura para recoger?
 
@@ -31,7 +31,7 @@ Ah, Bethesda y sus bugs. Es casi una tradición en sus juegos, pero eso no lo ha
 
 ### ¿Vale la pena en 2023?
 
-Con la llegada de juegos más modernos como *Starfield* y *Cyberpunk 2077* (después de sus múltiples parches, claro), Fallout 4 puede sentirse un poco anticuado. Sin embargo, sigue siendo una experiencia sólida para los fans de los RPG de mundo abierto. Además, los mods de la comunidad han mantenido el juego fresco y relevante. Si buscas algo más reciente, consulta nuestra [guía de RPGs imprescindibles de 2023]({{ site.constants.wsib }}/rpg).
+Con la llegada de juegos más modernos como *Starfield* y *Cyberpunk 2077* (después de sus múltiples parches, claro), Fallout 4 puede sentirse un poco anticuado. Sin embargo, sigue siendo una experiencia sólida para los fans de los RPG de mundo abierto. Además, los mods de la comunidad han mantenido el juego fresco y relevante. Si buscas algo más reciente, consulta nuestra [guía de RPGs imprescindibles de 2023]({{ site.constants.wsib }}rpg).
 
 {% include amazon.html asin="B09XX5FVHJ" %}
 

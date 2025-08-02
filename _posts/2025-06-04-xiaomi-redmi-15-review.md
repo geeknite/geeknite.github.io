@@ -5,7 +5,7 @@ tags: [Xiaomi, Redmi, smartphones, reviews, tech]
 description: "A deep dive into the Xiaomi Redmi 15. Is it the mid-range phone you need in 2025?"
 ---
 
-[![Xiaomi Redmi 15](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}]({{ site.constants.wsib }}/xiaomi-redmi-15)
+[![Xiaomi Redmi 15](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}]({{ site.constants.wsib }}xiaomi-redmi-15)
 
 **Hello Geeknite readers!** Today, we're tackling the latest contender in the mid-range smartphone arena, the Xiaomi Redmi 15. It's 2025, and Xiaomi is still busy churning out devices faster than a geek can say "upgrade." So, is the Redmi 15 the phone you need, or will it leave you regretting your life choices? Let's find out!
 
@@ -35,7 +35,7 @@ The Redmi 15 runs MIUI 14 based on Android 12. It's packed with features, though
 
 ## **Price and Availability**
 
-Priced at around $300, the Redmi 15 offers excellent value for money. It's available globally, and you can snag it on platforms like [eBay and Amazon]({{ site.constants.wsib }}/xiaomi-redmi-15).
+Priced at around $300, the Redmi 15 offers excellent value for money. It's available globally, and you can snag it on platforms like [eBay and Amazon]({{ site.constants.wsib }}xiaomi-redmi-15).
 
 ## **Conclusion**
 

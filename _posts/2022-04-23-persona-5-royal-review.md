@@ -50,7 +50,7 @@ Can't get enough of XOCMetal's gaming adventures? Head over to [their YouTube ch
 
 ## **Gamer's Paradise: {{ site.constants.wsibName }}**
 
-Now that we've piqued your interest in *Persona 5 Royal*, it's time to take action! Experience the magic of the game by getting your own copy from [{{ site.constants.wsibName }}]({{ site.constants.wsib }}/). They offer a **gamer's paradise** filled with fantastic deals on all the latest and greatest video games.
+Now that we've piqued your interest in *Persona 5 Royal*, it's time to take action! Experience the magic of the game by getting your own copy from [{{ site.constants.wsibName }}]({{ site.constants.wsib }}). They offer a **gamer's paradise** filled with fantastic deals on all the latest and greatest video games.
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 last_modified_at: '2025-05-02T18:02:22.7534606Z'
 ---
 
-[![Xbox](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}]({{ site.constants.wsib }}/xbox)
+[![Xbox](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}]({{ site.constants.wsib }}xbox)
 
 ## Introduction
 

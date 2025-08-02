@@ -5,7 +5,7 @@ tags: [Garmin, Edge 530, cycling, review]
 description: "An in-depth review of the Garmin Edge 530, covering features, pros, cons, and user experiences."
 ---
 
-[![Garmin Edge 530](https://i.imgur.com/lOxfl7fm.jpg){: .align-right}]({{ site.constants.wsib }}/garmin-edge-530)
+[![Garmin Edge 530](https://i.imgur.com/lOxfl7fm.jpg){: .align-right}]({{ site.constants.wsib }}garmin-edge-530)
 
 *Hello cycling enthusiasts! Today, we're diving deep into the world of the Garmin Edge 530. Is it worth the hype, or is it just another flashy gadget? Grab your helmets and let's find out! 🚴‍♂️*
 
@@ -62,4 +62,4 @@ The **Garmin Edge 530** is a feature-rich and reliable bike computer that offers
 
 *Until our next tech review, keep pedaling and exploring!*
 
-[![riding off](https://i.imgur.com/fOtDuKTm.png)]({{ site.constants.wsib }}/garmin-edge-530)
+[![riding off](https://i.imgur.com/fOtDuKTm.png)]({{ site.constants.wsib }}garmin-edge-530)

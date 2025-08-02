@@ -15,7 +15,7 @@ Los ODI X-Treme Lock-On Grips prometen ser la solución definitiva para los cicl
 
 #### Lo Bueno: Agarre y durabilidad
 
-Estos puños ofrecen un agarre excepcional, incluso con guantes o manos sudorosas. Además, su diseño de doble abrazadera asegura que no se muevan, incluso después de años de uso. Si buscas más opciones, consulta nuestra [guía de componentes para MTB]({{ site.constants.wsib }}/mtb-components).
+Estos puños ofrecen un agarre excepcional, incluso con guantes o manos sudorosas. Además, su diseño de doble abrazadera asegura que no se muevan, incluso después de años de uso. Si buscas más opciones, consulta nuestra [guía de componentes para MTB]({{ site.constants.wsib }}mtb-components).
 
 #### Lo Malo: No son baratos
 
