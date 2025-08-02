@@ -6,7 +6,7 @@ date: "2025-07-26"
 last_modified_at: '2025-07-26T10:00:00+02:00'
 ---
 
-![iGPSPORT BSC300 vs BSC300T](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}
+[![iGPSPORT BSC300 vs BSC300T](https://i.imgur.com/aRyU7Xem.jpg){: style="float: right;"}]({{ site.constants.wsib }}/igpsport-bsc300-vs-bsc300t)
 
 *Hey there, fellow bike enthusiasts! Ready for a ride filled with laughter, data, and a touch of friendly rivalry? Today, we're putting two amazing bike computers head-to-head in the ultimate battle for the title of the best bike companion! Let's welcome the iGPSPORT BSC300 and BSC300T to the ring! 🚴*
 
@@ -14,15 +14,17 @@ last_modified_at: '2025-07-26T10:00:00+02:00'
 
 ## *In the Left Corner: iGPSPORT BSC300*
 
+[![iGPSPORT BSC300](https://i.imgur.com/BSC300Image.jpg){: style="float: right;"}]({{ site.constants.wsib }}/igpsport-bsc300)
+
 The **iGPSPORT BSC300** is a compact and affordable bike computer that offers essential features for any cyclist. With a colour screen, GPS tracking, and long battery life, it's a great option for those who want a reliable device on a budget.
 
 ## *In the Right Corner: BSC300T*
 
+[![iGPSPORT BSC300T](https://i.imgur.com/BSC300TImage.jpg){: style="float: right;"}]({{ site.constants.wsib }}/igpsport-bsc300t)
+
 The **BSC300T** is the upgraded version, bringing additional features like more sensor compatibility and enhanced navigation capabilities. It's designed for cyclists who want a bit more from their device without breaking the bank.
 
-Now, let the battle begin! 🥊
-
----------
+---
 
 ## **Design and Display: Style on the Handlebars**
 
@@ -108,21 +110,27 @@ Now, let the battle begin! 🥊
 
 {% include amazon.html asin="B0C4KLCD4D" imageUrl="https://i.imgur.com/RdcQNVvs.png" %}
 
----------
+---
 
 Choose the BSC300 if:
-* You want a budget-friendly option.
-* You prefer simplicity and ease of use.
-* Long battery life is a priority.
+
+- You want a budget-friendly option.
+
+- You prefer simplicity and ease of use.
+
+- Long battery life is a priority.
 
 Choose the BSC300T if:
-* You need advanced metrics and navigation.
-* Sensor compatibility is important to you.
-* You're willing to invest a bit more for extra features.
 
----------
+- You need advanced metrics and navigation.
 
-*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**{{ site.constants.wsibName }}**](<{{ site.constants.wsib }}>).
+- Sensor compatibility is important to you.
+
+- You're willing to invest a bit more for extra features.
+
+---
+
+*Before we bid farewell, don't forget to check out some of the awesome content on* [**Geeknite**](/) *for more geeky bike-related goodness! And for the best deals on these bike computers, head over to* [**{{ site.constants.wsibName }}**]({{ site.constants.wsib }}).
 
 *Happy riding, and may your bike adventures be filled with laughter and unforgettable moments!* 🚵‍♂️💨
 

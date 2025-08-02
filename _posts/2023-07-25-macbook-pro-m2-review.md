@@ -1,12 +1,12 @@
 ---
 title: "MacBook Pro M2: The Ultimate Geek's Dream Machine"
-date: 2025-07-25
+date: 2023-07-25
 categories: [MacBook, Apple, Gadgets]
 tags: [MacBook Pro, M2, Apple, Review, Technology, Geek]
 description: "A comprehensive and humorous review of the MacBook Pro M2, exploring its features, performance, and why it's the ultimate geek's dream machine."
 ---
 
-![MacBook Pro M2](https://www.apple.com/v/macbook-pro-m2/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg)
+![MacBook Pro M2](https://www.apple.com/v/macbook-pro-m2/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-pro-m2)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Apple's latest iteration of its premium laptop series, the MacBook Pro M2, has h
 
 The MacBook Pro M2 boasts a sleek and elegant design that Apple is renowned for. The unibody aluminum chassis feels both premium and durable. It's lighter and thinner than its predecessors, making it a perfect companion for those who are always on the move.
 
-![MacBook Pro M2 Design](https://www.apple.com/v/macbook-pro-m2/a/images/overview/design__c2u6xn6rvs2u_large.jpg)
+![MacBook Pro M2 Design](https://www.apple.com/v/macbook-pro-m2/a/images/overview/design__c2u6xn6rvs2u_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-pro-m2-design)
 
 ### Ports and Connectivity
 
@@ -24,9 +24,9 @@ One of the most significant changes in the M2 model is the return of the much-lo
 
 ## Display and Audio
 
-The MacBook Pro M2 features a stunning 14-inch Liquid Retina XDR display with ProMotion technology. The colors are vibrant, the blacks are deep, and the brightness can rival the sun on a good day.
+![MacBook Pro M2 Display](https://www.apple.com/v/macbook-pro-m2/a/images/overview/display__e7k5zj7n0heq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-pro-m2-display)
 
-![MacBook Pro M2 Display](https://www.apple.com/v/macbook-pro-m2/a/images/overview/display__e7k5zj7n0heq_large.jpg)
+The MacBook Pro M2 features a stunning 14-inch Liquid Retina XDR display with ProMotion technology. The colors are vibrant, the blacks are deep, and the brightness can rival the sun on a good day.
 
 The audio quality is nothing short of impressive. With a six-speaker sound system and force-canceling woofers, it feels like having a mini home theater in your laptop. Whether you're watching the latest Marvel movie or jamming to your favorite tunes, the sound will blow you away.
 
@@ -34,9 +34,9 @@ The audio quality is nothing short of impressive. With a six-speaker sound syste
 
 ### Powered by M2 Chip
 
-The heart of the MacBook Pro M2 is its revolutionary M2 chip. With an 8-core CPU, 10-core GPU, and 16-core Neural Engine, this powerhouse is designed to handle everything you throw at it – from video editing and 3D rendering to running multiple virtual machines and playing the latest games.
+![M2 Chip](https://www.apple.com/v/macbook-pro-m2/a/images/overview/m2__e4e6lfmu0sey_large.jpg){: style="float: right;"}({{ site.constants.wsib }}m2-chip)
 
-![M2 Chip](https://www.apple.com/v/macbook-pro-m2/a/images/overview/m2__e4e6lfmu0sey_large.jpg)
+The heart of the MacBook Pro M2 is its revolutionary M2 chip. With an 8-core CPU, 10-core GPU, and 16-core Neural Engine, this powerhouse is designed to handle everything you throw at it – from video editing and 3D rendering to running multiple virtual machines and playing the latest games.
 
 ### Battery Life
 
@@ -44,17 +44,17 @@ Apple claims up to 17 hours of battery life on a single charge, and in our tests
 
 ## Keyboard and Trackpad
 
+![Magic Keyboard](https://www.apple.com/v/macbook-pro-m2/a/images/overview/keyboard__f5dhn0m5h16m_large.jpg){: style="float: right;"}({{ site.constants.wsib }}magic-keyboard)
+
 The Magic Keyboard is back and better than ever. With a refined scissor mechanism and perfect travel distance, typing on the MacBook Pro M2 feels like a dream. The large Force Touch trackpad is highly responsive and supports a plethora of gestures, making navigation a breeze.
 
-![Magic Keyboard](https://www.apple.com/v/macbook-pro-m2/a/images/overview/keyboard__f5dhn0m5h16m_large.jpg)
-
 ## Software and Features
+
+![macOS Monterey](https://www.apple.com/v/macbook-pro-m2/a/images/overview/macos__c1hwqr0tmcq6_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macos-monterey)
 
 ### macOS Monterey
 
 The MacBook Pro M2 comes with macOS Monterey, packed with new features like Universal Control, Focus mode, and redesigned Safari. The seamless integration between hardware and software is what makes the MacBook Pro stand out from the competition.
-
-![macOS Monterey](https://www.apple.com/v/macbook-pro-m2/a/images/overview/macos__c1hwqr0tmcq6_large.jpg)
 
 ### FaceTime and Webcam
 

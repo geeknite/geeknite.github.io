@@ -1,6 +1,6 @@
 ---
 title: "LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best"
-date: 2025-07-25
+date: 2023-07-25
 tags: [LEGO, Star Wars, Toys, Review]
 description: "Join us on an interstellar journey as we review the best LEGO Star Wars sets available. From the Millennium Falcon to the Death Star, find out which sets are worth your credits."
 ---
