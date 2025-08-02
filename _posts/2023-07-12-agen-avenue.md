@@ -10,7 +10,7 @@ tags: [travel, reviews, France, Agen Avenue]
 
 Agen Avenue, often referred to as the Champs-Élysées of its region, is a picturesque boulevard that captures the charm and essence of French culture in a way that few places can. Located in the heart of France, Agen Avenue is a must-visit for anyone looking to immerse themselves in the local atmosphere, enjoy fine dining, and explore unique shops.
 
-{% include figure image_path="https://example.com/agen_avenue.jpg" alt="Agen Avenue" %}
+[![Agen Avenue](https://all-andorra.com/wp-content/uploads/2023/12/Agen_tourism-min.png){: .align-right}]({{ site.constants.wsib }}agen-avenue)
 
 ## Historical Background
 
