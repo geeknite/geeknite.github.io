@@ -15,6 +15,7 @@ tags:
 last_modified_at: '2023-01-31T23:42:14.384+02:00'
 redi:
     - /2012/07/best-controller-pc-xbo360.html
+    - /2014/05/best-controller-pc-xbo360.html
 ---
 
 [![xbox controller](https://i.imgur.com/yT8W6H4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}xbox%20360%20controller)
