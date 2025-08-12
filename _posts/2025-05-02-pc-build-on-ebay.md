@@ -57,7 +57,7 @@ For RAM, go for **Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz**. It's fast
 
 ### Graphics Card: The Visuals
 
-The graphics card is where the magic happens. For a budget build, the **NVIDIA GeForce GTX 1660 Super** is a fantastic choice. It can handle most games and applications, making your PC ready for action.
+The graphics card is where the magic happens. For a budget build, the **NVIDIA GeForce GTX 1660 Super** is a fantastic choice. It can handle most games and applications, making your PC ready for action【4:0†source】【4:1†source】.
 
 ### Storage: The Warehouse
 
