@@ -14,7 +14,7 @@ tags:
 
 Welcome, fellow geeks, to the ultimate guide on building a PC using the magical realm of eBay. If you're tired of your ancient, snail-paced computer or just want to dive into the world of budget builds, you've come to the right place. Join me on this hilarious journey as we navigate through the twists and turns of eBay, uncovering treasures and avoiding traps like Indiana Jones at a yard sale.
 
-[![eBay Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png){: .align-right}]({{ site.constants.wsib }}ebay)
+![eBay Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png){: .align-right}({{ site.constants.wsib }}ebay)
 
 ## Why eBay?
 
@@ -45,7 +45,7 @@ Now that you're equipped with essential eBay tips, let's dive into the fun part 
 
 The CPU is like the brain of your PC, so you want it to be smart but not too expensive. I recommend the **AMD Ryzen 5 3600**. It's a six-core marvel that packs a punch without breaking the bank. Look for listings with good feedback and competitive prices.
 
-[![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}]({{ site.constants.wsib }}amd)
+![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}({{ site.constants.wsib }}amd)
 
 ### Motherboard: The Backbone
 
@@ -57,7 +57,7 @@ For RAM, go for **Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz**. It's fast
 
 ### Graphics Card: The Visuals
 
-The graphics card is where the magic happens. For a budget build, the **NVIDIA GeForce GTX 1660 Super** is a fantastic choice. It can handle most games and applications, making your PC ready for action【4:0†source】【4:1†source】.
+The graphics card is where the magic happens. For a budget build, the **NVIDIA GeForce GTX 1660 Super** is a fantastic choice. It can handle most games and applications, making your PC ready for action.
 
 ### Storage: The Warehouse
 
