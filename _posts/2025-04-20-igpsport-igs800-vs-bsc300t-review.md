@@ -28,7 +28,7 @@ The **iGPSPORT iGS800** is a premium bike computer that promises to be the ultim
 
 The **BSC300T** is the underdog in this competition, offering a budget-friendly option without skimping on essential features. It’s compact, reliable, and perfect for cyclists who want a no-nonsense device.
 
-{% include amazon.html asin="B0DJP2WVS4" imageUrl="https://i.imgur.com/EP2rI0Fm.jpeg" %}
+{% include amazon.html asin="B0DJP2WVS4" imageUrl="https://m.media-amazon.com/images/I/61w86GKGkKL._AC_SX425_.jpg" %}
 
 ---
 

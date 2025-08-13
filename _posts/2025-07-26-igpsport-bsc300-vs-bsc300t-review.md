@@ -122,7 +122,7 @@ The **BSC300T** is the upgraded version, bringing additional features like more 
 
 *So, whether you're a casual rider or a data-obsessed cyclist, you can't go wrong with either of these fabulous bike computers. Just set your expectations appropriately and enjoy the ride!*
 
-{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://i.imgur.com/RdcQNVvs.png" %}
+{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://m.media-amazon.com/images/I/61w86GKGkKL._AC_SX425_.jpg" %}
 
 ---
 
