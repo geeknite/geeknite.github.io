@@ -14,8 +14,6 @@ Are you looking for a new bike computer that can measure your speed, cadence, he
 
 ## What is the iGPSPORT BSC300T?
 
-![Cycling GPS Device](https://pixabay.com/get/g2556822f31ed203bb948f935d8b71e2a8f11d9345fe56c8bfb8ac924296f3cd476aece614ffbb2ad852a94bbe290d21f_1920.jpg){: style="float: left; max-width: 250px; margin-right: 15px;" alt="Cyclist using GPS bike computer on urban road"}
-
 The iGPSPORT BSC300T is a wireless bike computer that can connect to various sensors via Bluetooth or ANT+. It can measure your speed, cadence, heart rate, power, altitude, temperature, and more. It has a 2.4-inch color screen that is easy to read in any light condition, though I must admit it can be a bit challenging to see in extremely bright sunshine. It has a built-in GPS that can track your route and distance. It has a decent battery life of up to 20 hours. It has a waterproof rating of IPX7, which means it can withstand rain and splashes.
 
 The iGPSPORT BSC300T can also sync with your smartphone via the iGPSPORT app. You can customize your data fields, upload your rides to online platforms like Strava and Garmin Connect, and receive notifications for calls, messages, and social media. You can also download maps and routes from the app and follow them on the device. One thing I particularly love is how well it pairs with Garmin accessories - I've successfully connected my Garmin Varia radar, speed sensor, and cadence sensor without any issues.
