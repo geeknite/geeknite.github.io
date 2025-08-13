@@ -6,7 +6,7 @@ date: 2025-04-21
 last_modified_at: '2025-04-21T10:00:00+02:00'
 ---
 
-![iGPSPORT BSC300T](https://i.imgur.com/RdcQNVvm.png){: style="float: right;"}
+![iGPSPORT BSC300T](https://i.imgur.com/RdcQNVvm.png){: .align-right}
 
 Are you looking for a new bike computer that can measure your speed, cadence, heart rate, and more? Do you want a device that is easy to use, reliable, and compatible with your favorite apps like Strava and Garmin Connect? If so, you might be interested in the new iGPSPORT BSC300T, a wireless bike computer that offers a lot of features for a reasonable price.
 
@@ -22,7 +22,7 @@ The iGPSPORT BSC300T costs around $150, which is much cheaper than some of the o
 
 {% include amazon.html asin="B0C4KLCD4D" imageUrl="https://i.imgur.com/RdcQNVvs.png" %}
 
-![iGPSPORT BSC300T](https://i.imgur.com/OoctZWAm.png){: style="float: right;"}
+[![iGPSPORT BSC300T](https://i.imgur.com/OoctZWAm.png){: .align-right}]({{ site.constants.wsib }}iGPSPORT BSC300T)
 
 ## How does the iGPSPORT BSC300T compare to other bike computers?
 
@@ -52,6 +52,6 @@ As you can see, there are many factors to consider when choosing a bike computer
 
 The iGPSPORT BSC300T has everything you need to enjoy your rides and improve your performance. It is compatible with various sensors and apps, has a clear color screen, has a long battery life, and has a reasonable price. It might not have all the bells and whistles of some of the other bike computers, but it does its job well and does not disappoint.
 
----
+{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://i.imgur.com/RdcQNVvs.png" %}
 
-**Ready to upgrade your cycling experience?** [Check out the iGPSPORT BSC300T on Amazon](https://www.amazon.com/dp/B0C4KLCD4D) and join the ranks of satisfied cyclists today! 🚴‍♂️💨
+**Ready to take your cycling experience to the next level?** Get your iGPSPORT BSC300T today and start tracking your performance like a pro! [Click here to buy now!]({{ site.constants.wsib }}iGPSPORT BSC300T)
