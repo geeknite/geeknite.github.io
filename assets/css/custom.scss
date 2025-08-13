@@ -30,7 +30,17 @@
 .nav__items {
   ul li {
     list-style: square inside;
+
+    a {
+      display: unset !important;
+    }
   }
+}
+
+.author__avatar {
+  display: flex;
+  justify-content: center; /* centra horitzontalment */
+  align-items: center; /* centra verticalment */
 }
 
 .amazon-table {

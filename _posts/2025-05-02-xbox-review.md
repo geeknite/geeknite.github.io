@@ -11,8 +11,6 @@ description: "A detailed and humorous review of Xbox in 2025. Are you still on t
 
 [![Xbox Series X](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}]({{ site.constants.wsib }}xbox-series-x)
 
-### Xbox Review: Is It Still Worth It in 2025?
-
 Ah, the Xbox. The console that's been giving PlayStation a run for its money since the early 2000s. But here we are in 2025, and the gaming world has changed dramatically. So, is the Xbox still worth your hard-earned cash? Let's dive deep into the world of Xbox and find out.
 
 ---

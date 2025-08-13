@@ -91,7 +91,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "#Foxxs" # *name is a YAML reference pointing to the &anchor earlier
+  #name             : "#GeekNite" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "https://i.imgur.com/fFmJioNm.jpg"
   bio              : #"A small team of diverse people"
   location         : # "Barcelona"
@@ -338,7 +338,7 @@ compress_html:
 constants:
   amazon_es: "kcl-21" #amkioze
   amazon_com: "vp04a-20" #g83
-  amazon_it: "gkx09-21" #amkioze
+  amazon_it: "gkx09-21" #amkioze --> change
   amazon_uk: "kxl-21" #amkioze
   amazon_fr: "krv-21" #amkioze
   amazon_de: "kvl-21" #amkioze

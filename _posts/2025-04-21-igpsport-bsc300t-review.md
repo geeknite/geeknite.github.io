@@ -46,19 +46,19 @@ There are many bike computers on the market, but I will focus on three of the mo
 
 ### The iGPSPORT 630
 
-The iGPSPORT 630 is another wireless bike computer from iGPSPORT that costs around $199.99 [check for offers at Foxxs]({{ site.constants.wsib }}igpsport igs630). It's the big brother of the BCS300T, it has a larger screen than the BSC300T (3 inches) and more data fields (up to 15). It also has more navigation features, such as turn-by-turn directions, voice prompts, and offline maps. It has a slightly shorter battery life than the BSC300T (20 hours) and a lower waterproof rating (IPX6).
+The iGPSPORT 630 is another wireless bike computer from iGPSPORT that costs around $199.99 [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}igpsport igs630). It's the big brother of the BCS300T, it has a larger screen than the BSC300T (3 inches) and more data fields (up to 15). It also has more navigation features, such as turn-by-turn directions, voice prompts, and offline maps. It has a slightly shorter battery life than the BSC300T (20 hours) and a lower waterproof rating (IPX6).
 
 The iGPSPORT 630 is a good choice for cyclists who want a bigger screen and more navigation options. However, it is also more expensive and less durable than the BSC300T. For a comprehensive review, read our [detailed IGS630 analysis]({% post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws %}).
 
 ### The Garmin Edge 530
 
-The Garmin Edge 530 is a wireless bike computer from Garmin that costs around $299.99 [check for offers at Foxxs]({{ site.constants.wsib }}garmin edge 530). It has a similar screen size as the BSC300T (2.6 inches) but more data fields (up to 20). It also has more advanced features, such as performance metrics, training plans, safety alerts, incident detection, group tracking, ClimbPro, MTB dynamics, Trailforks integration, and more. It has a longer battery life than the BSC300T (up to 40 hours) and a higher waterproof rating (IPX7).
+The Garmin Edge 530 is a wireless bike computer from Garmin that costs around $299.99 [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}garmin edge 530). It has a similar screen size as the BSC300T (2.6 inches) but more data fields (up to 20). It also has more advanced features, such as performance metrics, training plans, safety alerts, incident detection, group tracking, ClimbPro, MTB dynamics, Trailforks integration, and more. It has a longer battery life than the BSC300T (up to 40 hours) and a higher waterproof rating (IPX7).
 
 The Garmin Edge 530 is a great choice for cyclists who want the most comprehensive and sophisticated bike computer. However, it is also much more expensive and complex than the BSC300T. Check out our [Garmin Edge 530 vs iGPSPORT 630 comparison]({% post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 %}) to see how these premium options stack up.
 
 ### The Garmin Edge 540
 
-The Garmin Edge 540 is a wireless bike computer from Garmin that costs around $399.99 [check for offers at Foxxs]({{ site.constants.wsib }}garmin edge 540). It has a larger screen than the BSC300T (3.5 inches) and more data fields (up to 24). It also has all the features of the Edge 530, plus a touchscreen, a barometric altimeter, a gyroscope, a magnetometer, and a light sensor. It has a similar battery life as the BSC300T (up to 24 hours) and a higher waterproof rating (IPX7).
+The Garmin Edge 540 is a wireless bike computer from Garmin that costs around $399.99 [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}garmin edge 540). It has a larger screen than the BSC300T (3.5 inches) and more data fields (up to 24). It also has all the features of the Edge 530, plus a touchscreen, a barometric altimeter, a gyroscope, a magnetometer, and a light sensor. It has a similar battery life as the BSC300T (up to 24 hours) and a higher waterproof rating (IPX7).
 
 The Garmin Edge 540 is the ultimate choice for cyclists who want the best of the best bike computer. However, it is also the most expensive and power-hungry than the BSC300T. For more details, see our [Edge 540 review]({% post_url 2023-07-06-garmin-edge-540-review %}) and [Edge 530 vs 540 comparison]({% post_url 2023-12-23-garmin-edge-530-vs-540-comparison %}).
 
