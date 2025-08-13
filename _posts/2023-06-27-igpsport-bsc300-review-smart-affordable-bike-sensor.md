@@ -6,7 +6,7 @@ date: 2023-06-27
 last_modified_at: '2025-08-13T10:00:00+02:00'
 ---
 
-[![iGPSPORT BSC300](https://i.imgur.com/RdcQNVvm.png){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT BSC300)
+[![iGPSPORT BSC300 Budget Bike Computer](https://pixabay.com/get/gdd524f2a75d9885ba38ad6854c1b64278fe348a78e69f3efaf94a6e6893cc80c4beafeb1b401f0807039b650c4f1ba29_1920.jpg){: style="float: right; max-width: 300px;" alt="Affordable bike computer for recreational cycling"}]({{ site.constants.wsib }}iGPSPORT BSC300)
 
 Are you looking for a new bike computer that can measure your speed, cadence, heart rate, and more? Do you want a device that is easy to use, reliable, and compatible with your favorite apps like Strava and Garmin Connect? If so, you might be interested in the new iGPSPORT BSC300, a wireless bike computer that offers a lot of features for a reasonable price.
 
@@ -24,7 +24,7 @@ The iGPSPORT BSC300 comes with a mount that can be attached to your handlebar or
 
 The [iGPSPORT BSC300 costs around $150]({{ site.constants.wsib }}igpsport bsc300), which is much cheaper than some of the other bike computers with similar features. It is also available in black or white colors.
 
-{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://i.imgur.com/RdcQNVvs.png" %}
+{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://m.media-amazon.com/images/I/61iiRnZ7ylL._UF894,1000_QL80_.jpg" %}
 
 [![iGPSPORT BSC300](https://i.imgur.com/OoctZWAm.png){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT BSC300)
 

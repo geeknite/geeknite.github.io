@@ -3,16 +3,18 @@ title: "iGPSPORT BSC300T Review: A Smart and Affordable Bike Sensor"
 tags: [bike, sensor, review, igpsport, bsc300t, gps]
 description: "In this blog post, I review the iGPSPORT BSC300T, a new bike sensor that can measure speed, cadence and power. I compare it to other alternatives and show you why it's a great choice for cyclists who want to improve their performance and track their data."
 date: 2025-04-21
-last_modified_at: '2025-08-12T10:00:00+02:00'
+last_modified_at: '2025-08-13T10:00:00+02:00'
 ---
 
-[![iGPSPORT BSC300T](https://i.imgur.com/RdcQNVvm.png){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT BSC300T)
+[![iGPSPORT BSC300T Bike Computer](https://m.media-amazon.com/images/I/61w86GKGkKL._AC_SX425_.jpg){: style="float: right; max-width: 300px;" alt="Modern bike computer mounted on bicycle handlebars"}]({{ site.constants.wsib }}iGPSPORT BSC300T)
 
 Are you looking for a new bike computer that can measure your speed, cadence, heart rate, and more? Do you want a device that is easy to use, reliable, and compatible with your favorite apps like Strava and Garmin Connect? If so, you might be interested in the new iGPSPORT BSC300T, a wireless bike computer that offers a lot of features for a reasonable price.
 
 *Looking for a quick comparison? Check out our [BSC300 vs BSC300T head-to-head battle]({% post_url 2025-07-26-igpsport-bsc300-vs-bsc300t-review %}) to see which one suits your needs better.*
 
 ## What is the iGPSPORT BSC300T?
+
+![Cycling GPS Device](https://pixabay.com/get/g2556822f31ed203bb948f935d8b71e2a8f11d9345fe56c8bfb8ac924296f3cd476aece614ffbb2ad852a94bbe290d21f_1920.jpg){: style="float: left; max-width: 250px; margin-right: 15px;" alt="Cyclist using GPS bike computer on urban road"}
 
 The iGPSPORT BSC300T is a wireless bike computer that can connect to various sensors via Bluetooth or ANT+. It can measure your speed, cadence, heart rate, power, altitude, temperature, and more. It has a 2.4-inch color screen that is easy to read in any light condition, though I must admit it can be a bit challenging to see in extremely bright sunshine. It has a built-in GPS that can track your route and distance. It has a decent battery life of up to 20 hours. It has a waterproof rating of IPX7, which means it can withstand rain and splashes.
 
@@ -22,11 +24,11 @@ The iGPSPORT BSC300T comes with a mount that can be attached to your handlebar o
 
 The iGPSPORT BSC300T costs around $150, which is much cheaper than some of the other bike computers with similar features. At this price point, it offers truly remarkable value - you get amazing software and functionality that would cost significantly more with other brands. It is also available in black or white colors.
 
-{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://i.imgur.com/RdcQNVvs.png" %}
-
-[![iGPSPORT BSC300T](https://i.imgur.com/OoctZWAm.png){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT BSC300T)
+{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://m.media-amazon.com/images/I/71rS8QyGNcL._AC_SL1500_.jpg" %}
 
 ## Real-World Performance: My Extended Experience
+
+![BSC300T Display Features](https://m.media-amazon.com/images/I/61w86GKGkKL._AC_SX425_.jpg){: style="float: right; max-width: 280px;" alt="BSC300T bike computer showing GPS display and metrics"}
 
 After using the BSC300T for several months, I can share some honest insights about its performance. The touchscreen interface is fantastic and makes navigation much more intuitive than button-only devices. The GPS mapping is very good overall, and I've been particularly impressed with how well it works with radar tail lamps - a feature that's become essential for my safety during rides.
 
