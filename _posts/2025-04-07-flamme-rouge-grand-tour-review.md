@@ -17,7 +17,7 @@ description: 'Complete Flamme Rouge Grand Tour review: multi-stage racing, new t
 last_modified_at: '2025-04-07T12:00:00+02:00'
 ---
 
-[![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}flamme rouge grand tour)
+[![Flamme Rouge Grand Tour](https://i.imgur.com/Wip9G6Pm.jpg){: style='float: right;'}]({{ site.constants.wsib }}flamme rouge grand tour)
 
 ## Introduction: The Evolution of Cycling Board Games
 
@@ -138,7 +138,7 @@ Downforce adds a betting element to the racing game genre. Players bid on cars a
 
 Ready to embark on your own Grand Tour? Check out Flamme Rouge: Grand Tour and its expansions on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and start your race to the top today! **Don’t wait, pedal to the medal and grab your copy now!**
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
+{% include amazon.html asin='B0DYK1KMZF' imageUrl='https://m.media-amazon.com/images/I/61giIwCUd3L._UF894,1000_QL80_.jpg' %}
 
 **Call to Action:** Don't miss out on the ultimate cycling adventure! Click [here]({{ site.constants.wsib }}flamme rouge grand tour) to get your copy of Flamme Rouge: Grand Tour now and receive an exclusive discount! Happy racing!
 
