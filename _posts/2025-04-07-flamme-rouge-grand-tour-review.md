@@ -6,8 +6,6 @@ description: 'Complete Flamme Rouge Grand Tour review: multi-stage racing, new t
 last_modified_at: '2025-08-14T12:00:00+02:00'
 ---
 
-[![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}flamme rouge grand tour)
-
 Before we explore the Grand Tour expansion's innovations, let's establish why the base game has earned its reputation. Flamme Rouge isn't just another racing game—it's a masterfully designed cycling simulation that captures the essence of professional bicycle racing. Unlike the high-speed thrills of Formula D or the rally challenges of Rallyman GT (both featured in our [top racing games guide]({%- post_url 2023-06-15-top-10-racing-board-games -%})), Flamme Rouge focuses on the unique dynamics of cycling: energy management, drafting strategies, and team coordination.
 
 Each player controls two riders—a versatile Rouleur and a sprint-specialist Sprinteur—using movement cards to navigate the peloton. The genius lies in the exhaustion mechanic: push too hard early, and you'll struggle in the final stages. This creates the same tactical dilemmas faced by real cyclists in events like the Tour de France.
