@@ -71,18 +71,18 @@ At approximately €129.99, the Kobo Clara is an affordable option that offers t
 
 ## **Comparison with Other eReaders**
 
-### [Kobo Libra Review: Is It Worth the Hype?]({%- post_url 2024-05-20-kobo-libra-colour-review -%})
+### [Kobo Libra Review: Is It Worth the Hype?]({{ site.baseurl }}{% post_url 2024-05-20-kobo-libra-colour-review %})
 
 Our detailed **Kobo Libra Colour** review covers how it builds on the strengths of its predecessors with a larger screen and added functionality. While the Clara is compact and budget-friendly, the Libra offers a premium experience for those who don’t mind splurging a bit.
 
-### [Kindle Touch Update: Time to Finish a Chapter]({%- post_url 2013-05-17-updated-kindle-surprise-time-to-finish -%})
+### [Kindle Touch Update: Time to Finish a Chapter]({{ site.baseurl }}{% post_url 2013-05-17-updated-kindle-surprise-time-to-finish %})
 
 The Kindle Touch introduced the **ETA to complete a chapter or book** feature, which was a groundbreaking update. While the Clara doesn’t have this exact feature, its intuitive interface and customizable reading experience make it a strong contender for readers who appreciate modern features.
 
 ### Related Comparisons and Reviews
 
-- [Kobo Clara vs Libra: The Ultimate eReader Showdown]({%- post_url 2025-02-20-kobo-clara-vs-libra-review -%})
-- [Kobo Libra Review: The Ultimate eReader for the Modern Bookworm]({%- post_url 2024-05-20-kobo-libra-colour-review -%})
+- [Kobo Clara vs Libra: The Ultimate eReader Showdown]({{ site.baseurl }}{% post_url 2025-02-20-kobo-clara-vs-libra-review %})
+- [Kobo Libra Review: The Ultimate eReader for the Modern Bookworm]({{ site.baseurl }}{% post_url 2024-05-20-kobo-libra-colour-review %})
 
 ---
 
