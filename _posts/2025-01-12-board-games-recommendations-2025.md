@@ -80,3 +80,8 @@ PitchCar takes the action off the board and onto a tabletop track, with players 
 ## Conclusion
 
 From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming. **Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
+
+For more gaming goodness, you might enjoy:
+
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})
