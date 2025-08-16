@@ -43,9 +43,9 @@ Now that you're equipped with essential eBay tips, let's dive into the fun part 
 
 ### CPU: The Brain of Your PC
 
-The CPU is like the brain of your PC, so you want it to be smart but not too expensive. I recommend the **Intel Core i5 14400F**. It's a six-core marvel that packs a punch without breaking the bank. Look for listings with good feedback and competitive prices.
+The CPU is like the brain of your PC, so you want it to be smart but not too expensive. I recommend the **Intel Core i5 14400F**. It's a fantastic mid-range option that offers great performance for gaming and productivity tasks without costing you an arm and a leg.
 
-![Intel Core i5 14400F](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Intel_Core_i5.svg/1920px-Intel_Core_i5.svg.png){: .align-right}
+[![Intel Core i5 14400F](https://example.com/intel-core-i5-14400f.jpg)]({{ site.constants.wsib }}intel-core-i5-14400f)
 
 ### Motherboard: The Backbone
 
@@ -91,7 +91,6 @@ Building a PC using eBay can be a thrilling and rewarding experience. With compe
 
 **Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
 
-**Ready to start building?** Check out the latest deals on eBay and embark on your PC-building journey today. Happy shopping, and may your new PC be faster than The Flash!
+**Ready to start building? Check out the latest deals on eBay and embark on your PC-building journey today. Happy shopping, and may your new PC be faster than The Flash!**
 
 Stay tuned for more tech reviews and shopping tips from your geeky friends at Geeknite! 🚀
-
