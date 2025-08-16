@@ -79,13 +79,4 @@ PitchCar takes the action off the board and onto a tabletop track, with players 
 
 ## Conclusion
 
-From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming.
-
-**Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
-
----
-For more reviews and board game recommendations, check out our previous posts:
-
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
-- [Flamme Rouge: Grand Tour - The Ultimate Expansion for Cycling Enthusiasts]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})
-- [Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})
+From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming. **Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
