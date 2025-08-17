@@ -13,6 +13,7 @@ tags:
 - bike
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Explora mi experiencia comprando luces para bicicleta en DealExtreme. ¿Son una ganga o una pérdida de dinero?"
+redirect_to: https://bikinggeek.github.io/2013/01/my-deal-extreme-experiment-buying-bike-light.html
 ---
 
 ### ¿Qué es DealExtreme y por qué me arriesgué?
