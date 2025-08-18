@@ -1,6 +1,6 @@
 ---
 title: 'Nemesis vs Alien: Fate of the Nostromo Review'
-date: '2025-08-15'
+date: '2024-06-15'
 tags: ['board games', 'Nemesis', 'Alien', 'review', 'funny']
 ---
 

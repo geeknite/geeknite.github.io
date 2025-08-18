@@ -1,12 +1,12 @@
 ---
 title: "Magene C606 Review: The Budget-Friendly Marvel"
-date: 2025-08-17
+date: 2025-05-17
 last_modified_at: "2025-08-17"
 tags: [Cycling, GPS, Gadgets, Review, Magene, Bike]
 description: "Dive into the detailed review of the Magene C606 - the budget-friendly GPS bike computer that's making waves!"
 ---
 
-![Magene C606](https://i.imgur.com/GTfhJ63s.jpg){: style="float: right;"}
+[![Magene C606](https://i.imgur.com/GTfhJ63s.jpg){: style="float: right;"}]({{ site.constants.wsib }}magene-c606)
 
 ## Introduction
 

@@ -1,10 +1,10 @@
 ---
 title: "Sniper Elite Board Game Review: Stealth and Strategy on Your Tabletop"
-date: "2025-08-16"
+date: "2024-01-16"
 tags: ["board games", "review", "sniper elite", "strategy games"]
 ---
 
-![Sniper Elite Board Game](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}
+[![Sniper Elite Board Game](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}sniper-elite-board-game)
 
 ## Introduction
 

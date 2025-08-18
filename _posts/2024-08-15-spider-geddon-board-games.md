@@ -1,6 +1,6 @@
 ---
 title: "Spider-Geddon: The Ultimate Board Game Review"
-date: 2025-08-15
+date: 2024-08-15
 categories: [board games, review, spider-geddon]
 tags: [Spider-Geddon, gaming, board games, review]
 description: "Embark on an epic journey of strategy and survival with Spider-Geddon board game. An in-depth review with humor and excitement!"

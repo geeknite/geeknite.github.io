@@ -21,6 +21,8 @@ One of the things I love about [CoraQuest]({{ site.constants.wsib }}coraquest) i
 
 However, the actual gameplay can sometimes feel a bit repetitive and unbalanced. There are some variations in the battles, but they mostly feel very same-y and also unbalanced. The beginning of the game was very hard and I defeated my last two scenarios on the first or second round - just too easy. But, hold on, there's a silver lining! There are expansions coming out that are supposed to (a) add more variety and (b) balance the game. For me, that can change this from a good game to a great game.
 
+[![adventure tactics](https://i.imgur.com/daqPDn2m.png){: style="float: right;"}]({{ site.constants.wsib }}adventure tactics)
+
 ## Adventure Tactics: The Strategic, Story-Driven Adventure
 
 Now, let's talk about [Adventure Tactics]({{ site.constants.wsib }}adventure tactics). This game allows you to customize your characters with different abilities and equipment, making each playthrough a unique experience. But what really sets it apart is the branching story system. Your choices will affect the outcome of the game, so it's like a choose-your-own-adventure book, but with more dice rolling. This makes for a game that is both strategic and immersive. It's perfect for those who enjoy tactical combat and character customization.

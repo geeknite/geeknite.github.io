@@ -1,6 +1,6 @@
 ---
-title: "¡Hola! Una guía completa para mejorar tu experiencia en Amazon"
-date: 2025-08-12 19:24:41 +0200
+title: "Guía completa para mejorar tu experiencia en Amazon"
+date: 2025-01-05 19:24:41 +0200
 tags:
 - español
 - recomendaciones

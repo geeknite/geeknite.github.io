@@ -1,6 +1,6 @@
 ---
 title: "Marvel United Multiverse Board Game Review"
-date: "2025-08-15"
+date: "2023-08-15"
 tags: ["board games", "Marvel", "Multiverse", "review"]
 description: "Dive into the Marvel United Multiverse with our hilarious and thorough review."
 ---

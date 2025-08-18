@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA GeForce RTX 4080 Review: The New Beast in Town"
-date: 2025-08-13
+date: 2023-09-13
 tags: [nvidia, graphics card, review, gaming, hardware]
 ---
 
@@ -8,7 +8,7 @@ tags: [nvidia, graphics card, review, gaming, hardware]
 
 Welcome, fellow geeks and gamers! Today, we are diving into the latest powerhouse from NVIDIA, the **GeForce RTX 4080**. Hold onto your RGB-lit chairs, because this review is going to be a wild ride through teraflops, ray tracing, and graphics wizardry. Spoiler alert: It’s epic.
 
-![NVIDIA RTX 4080](/assets/images/nvidia-rtx-4080.jpg)
+[![NVIDIA RTX 4080](/assets/images/nvidia-rtx-4080.jpg)]({{ site.constants.wsib }}nvidia-rtx-4080)
 
 ## The Specs: Numbers That Make Your Jaw Drop
 
