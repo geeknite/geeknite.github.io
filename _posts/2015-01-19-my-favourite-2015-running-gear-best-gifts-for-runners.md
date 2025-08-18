@@ -11,6 +11,7 @@ tags:
 - review
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre el mejor equipo para correr en 2015. ¿Qué sigue siendo relevante hoy? ¡Te contamos todo con un toque de humor y crítica!"
+redirect_to: https://bikinggeek.github.io/2015/01/my-favourite-2015-running-gear-best-gifts-for-runners.html
 ---
 
 [![Equipo para correr](https://4.bp.blogspot.com/-pY3bM_GJxjU/VLxKtiwOGUI/AAAAAAAAAks/BXntPmInvL4/s1600/opening-long-run-gear-ss%5B1%5D.jpg){: .align-right}]({{ site.constants.wsib }}running-gear)

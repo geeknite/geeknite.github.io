@@ -7,6 +7,7 @@ description: "Garmin Edge 500 vs. Edge 510 Review: Stick with Edge 500 - A compa
 last_modified_at: '2023-07-24T00:00:00+01:00'
 redirect_from:
     - /2013/01/garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500.html
+redirect_to: https://bikinggeek.github.io/2013/01/garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500.html
 ---
 
 [![Garmin edge 500](https://i.imgur.com/ZAlc9GQm.jpg){: .align-right}]({{ site.constants.wsib }}garmin edge 500)

@@ -13,7 +13,7 @@ tags:
 - cycling
 last_modified_at: '2023-07-23T22:06:13.286+02:00'
 thumbnail: https://4.bp.blogspot.com/-x_-htryz0Ys/U9qTZ7YZDmI/AAAAAAAAAjM/7_Jlw8im8sg/s72-c/7991426_f260%5B1%5D.jpg
-blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-3590926219336263191
+redirect_to: https://bikinggeek.github.io/2014/08/checklist-after-bike-accident.html
 ---
 
 ![Bike Accident Checklist](https://4.bp.blogspot.com/-x_-htryz0Ys/U9qTZ7YZDmI/AAAAAAAAAjM/7_Jlw8im8sg/s1600/7991426_f260%5B1%5D.jpg)

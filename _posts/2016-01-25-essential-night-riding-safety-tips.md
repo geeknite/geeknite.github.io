@@ -11,6 +11,7 @@ tags:
 - tips
 last_modified_at: '2017-11-27T16:11:22.029+01:00'
 description: "Riding at night requires extra precautions for safety. Tips for safer and comfier night rides, including lights, clothing, protection, and tech."
+redirect_to: https://bikinggeek.github.io/2016/01/essential-night-riding-safety-tips.html
 ---
 
 [![](https://3.bp.blogspot.com/-tsDZP6UgQ5A/VqYQQg8tD6I/AAAAAAAAAts/WMiDHLCCcxg/s1600/Essential%2Bnight%2Briding%2Bsafety%2Btips.jpg)]({{ site.constants.wsib }}bike%20light)

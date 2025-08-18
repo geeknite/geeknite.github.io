@@ -17,6 +17,7 @@ tags:
 - strava
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Garmin Edge 1000 vs 810: ¿Realmente necesitas gastar más o el Edge 810 sigue siendo la mejor opción? Descubre nuestra crítica completa."
+redirect_to: https://bikinggeek.github.io/2014/07/garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes.html
 ---
 
 ![Garmin Edge 1000](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IVEHE5Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=keymuck-20)
