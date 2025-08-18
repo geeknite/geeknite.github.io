@@ -4,6 +4,7 @@ tags: GPS, Cycling, Training, Navigation, iGPSPORT
 description: "Explore the iGPSPORT IGS630 GPS - a cyclist's dream companion with versatile navigation and tailored training plans. Discover more now!"
 date: "2022-04-01"
 last_modified_at: '2025-03-08T10:00:00+02:00'
+redirect_to: https://bikinggeek.github.io/2022/04/igpsport-igs630-first-impressions.html
 ---
 
 [![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT iGS630)

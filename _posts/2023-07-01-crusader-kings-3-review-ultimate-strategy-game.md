@@ -51,9 +51,9 @@ Another issue is the lack of multiplayer options. While there is a multiplayer m
 
 ## Conclusion
 
-Overall, [Crusader Kings III]( {{ site.constants.wsib }}/Crusader Kings III) is a must-play for fans of strategy games and history. Its depth, complexity, and historical accuracy make it one of the best strategy games on the market. While the game's steep learning curve may be a turn-off for some, those who stick with it will be rewarded with an incredibly rich and rewarding gaming experience. Whether you're a history buff or just a fan of strategy games, Crusader Kings III is definitely worth checking out. With its endless possibilities and intricate gameplay mechanics, it's a game that you can sink countless hours into.
+Overall, [Crusader Kings III]({{ site.constants.wsib }}Crusader Kings III) is a must-play for fans of strategy games and history. Its depth, complexity, and historical accuracy make it one of the best strategy games on the market. While the game's steep learning curve may be a turn-off for some, those who stick with it will be rewarded with an incredibly rich and rewarding gaming experience. Whether you're a history buff or just a fan of strategy games, Crusader Kings III is definitely worth checking out. With its endless possibilities and intricate...
 
-So, if you're looking for a game that will challenge you and keep you engaged for hours on end, then [Crusader Kings III]( {{ site.constants.wsib }}/Crusader Kings III) is definitely worth a try.
+So, if you're looking for a game that will challenge you and keep you engaged for hours on end, then [Crusader Kings III]({{ site.constants.wsib }}Crusader Kings III) is definitely worth a try.
 
 Check our Youtube channel for our latest Twitch streams about [Crusader Kings III]( {{ site.constants.wsib }}Crusader Kings III) or follow us on Twitch for live streams:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL13Kcs0RkE8f3FjawioR3g1nElGDTUIZ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

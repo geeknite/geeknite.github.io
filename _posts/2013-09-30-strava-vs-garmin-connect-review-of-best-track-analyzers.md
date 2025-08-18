@@ -3,6 +3,7 @@ title:  "Strava vs Garmin Connect. A review of the best gps track analyzers"
 date:   2013-09-30 17:00:00 +0200
 tags: strava garmin review gps
 last_modified_at: '2023-07-24T00:00:00+02:00'
+redirect_to: https://bikinggeek.github.io/2013/09/strava-vs-garmin-connect-review-of-best-track-analyzers.html
 ---
 
 <a href='{{ site.constants.wsib }}garmin%20edge'><img style="float: right;" src="https://i.imgur.com/talvj6sm.jpg"></a>

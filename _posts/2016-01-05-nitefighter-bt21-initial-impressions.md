@@ -10,6 +10,7 @@ tags:
 last_modified_at: '2023-11-01T12:00:00+01:00'
 thumbnail: https://3.bp.blogspot.com/-yaaE_1bG8Lk/VoudG31cfaI/AAAAAAAAAtE/ROrnVi3EP0g/s72-c/Nitefighter%2BBT21%2Binitial%2Bimpressions%2B%25286%2529.jpg
 description: "Descubre si la Nitefighter BT21 es la linterna que necesitas para tus aventuras nocturnas en bicicleta. ¿Vale la pena o es solo otra promesa vacía?"
+redirect_to: https://bikinggeek.github.io/2016/01/nitefighter-bt21-initial-impressions.html
 ---
 
 [![Nitefighter BT21](https://3.bp.blogspot.com/-yaaE_1bG8Lk/VoudG31cfaI/AAAAAAAAAtE/ROrnVi3EP0g/s1600/Nitefighter%2BBT21%2Binitial%2Bimpressions%2B%25286%2529.jpg){: .align-right}]({{ site.constants.wsib }}bike-lights)

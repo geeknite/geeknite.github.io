@@ -9,6 +9,7 @@ tags:
 - opinion
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Discover the shocking methods Lance Armstrong allegedly used to avoid testing positive for doping. A tale of deception and controversy."
+redirect_to: https://bikinggeek.github.io/2013/01/how-come-armstrong-never-tested-positive-for-doping.html
 ---
 
 ![Lance Armstrong](https://2.bp.blogspot.com/-0rty5QcbR9A/Vt1wHyqUj0I/AAAAAAAAAv4/CJmyv_hEASM/s1600/7580772_f260%255B1%255D.jpg)

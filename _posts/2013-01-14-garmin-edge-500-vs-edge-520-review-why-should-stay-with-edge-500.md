@@ -7,11 +7,14 @@ description: "Garmin Edge 500 vs. Edge 510 Review: Stick with Edge 500 - A compa
 last_modified_at: '2023-07-24T00:00:00+01:00'
 redirect_from:
     - /2013/01/garmin-edge-500-vs-edge-510-review-why-should-stay-with-edge-500.html
+redirect_to: https://bikinggeek.github.io/2013/01/garmin-edge-500-vs-edge-520-review-why-should-stay-with-edge-500.html
 ---
 
 [![Garmin edge 500](https://i.imgur.com/ZAlc9GQm.jpg){: .align-right}]({{ site.constants.wsib }}garmin edge 500)
 
 First of all I want to make clear that my impression on the ***[Edge 520]({{ site.constants.wsib }}Garmin%20Edge%20520)*** is taken from the many reviews out there, I am not lucky enough for *Garmin* to send me one to review, and, of course, my *[Edge 500]({{ site.constants.wsib }}Garmin%20Edge%20500)* was bought with **my money**, I am not a renowned person in the bike world to get one for free as some do, I am just a **biking enthusiast** and this is just my impression of a product as a **humble biker**.
+
+*Looking for modern alternatives? Check out our latest comparisons of the [Edge 530 vs 540]({% post_url 2023-12-23-garmin-edge-530-vs-540-comparison %}) or explore budget-friendly options like the [iGPSPORT BSC300T]({% post_url 2025-04-21-igpsport-bsc300t-review %}).*
 
 In this post I want to share my point of view of how the*Edge 520* does not impress much on over the *Edge 500* owner and the reasons why **I will stay with my *Edge 500 *for the time being**. A device like this is perfect for not using your phone as a tracker, which probably has already a *GPS*,and also is a valid option, but as you may know its height accuracy is pretty bad. On the other hand the *Edge*series have a barometric altimeter which is perfect for this kind of tracking. Using an external *GPS tracker* is perfect for not overusing the battery of your phone and save it for emergencies.
 
@@ -101,8 +104,14 @@ The idea of this post was to give enough reasons to **stay with our *Edge 500***
 
 But don't get me wrong, **the Edge 520 is a great device**, so, my recommendations depend on your situation:
 
-- **If you are happy with your *Edge 500***: stick with it for a couple of years, at least, wait for other options and wait for how the *520* evolves or the new. Or the newest [Garmin 530]({% post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying %}). Or even [the new and pricier Garmin Edge 540]({%- post_url 2023-07-06-garmin-edge-540-review -%})
-- **If you have it but you want to improve your experience**: get an Edge 800 or [the Edge 810 vs the new Edge 1000]({%- post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes -%}).
+- **If you are happy with your *Edge 500***: stick with it for a couple of years, at least, wait for other options and wait for how the *520* evolves or the new. Or the newest [Garmin 530]({% post_url 2022-12-28-garmin-edge-530-facts-consider-before-buying %}). Or even [the new and pricier Garmin Edge 540]({% post_url 2023-07-06-garmin-edge-540-review %})
+- **If you have it but you want to improve your experience**: get an Edge 800 or [the Edge 810 vs the new Edge 1000]({% post_url 2014-07-29-garmin-edge-1000-vs-810-high-end-bike-gps-maps-routes %}).
 - **If you don't have any of them**: with my points at hand, decide which can be better for you. **Look for offers on the *Edge 500 *or price reductions** if it gets below 180€ or $200 for the complete package can be a good deal. If you want the Edge 520 it may be a good option too even considering the increased price tag, or you can check for other *GPS* devices of other brands, which I am preparing a new post to do a small comparison of some of them.
+
+**Related Modern Comparisons:**
+
+- [Garmin Edge 530 vs 540: Latest Models Compared]({% post_url 2023-12-23-garmin-edge-530-vs-540-comparison %})
+- [Garmin Edge 530 vs iGPSPORT 630: Premium vs Budget]({% post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 %})
+- [iGPSPORT BSC300 vs BSC300T: Budget Alternatives]({% post_url 2025-07-26-igpsport-bsc300-vs-bsc300t-review %})
 
 You can compare easily the prices of the [Garmin Edge devices]({{ site.constants.wsib }}garmin%20edge) on ebay and amazon with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}). **Big Thanks to all the readers and visitors!**

@@ -13,6 +13,7 @@ tags:
 - alltricks
 - bikeshop
 last_modified_at: '2018-08-18T10:55:45.802+02:00'
+redirect_to: https://bikinggeek.github.io/2017/12/ultimas-unidades-de-pedales-oneup-components-comp.html
 ---
 [![geeknite oneup pedals](https://1.bp.blogspot.com/-Xnlkftj4NNQ/WiVroV8oxXI/AAAAAAAABCI/Mtmervu3qL4E5O23Tr1TPAeT10iiVPvzQCLcBGAs/s320/OneUp-Components-Composite-Flat-Pedal-offers.jpg){: style="float: right;"}](https://www.alltricks.es/F-11931-pedales-plates/P-259430-oneup_pedals_composite_black?gclid=Cj0KCQiAgZTRBRDmARIsAJvVWAuAzyIkjhBvTA2cVU8DN0Y29sg_ldIzTpaWBFN_pREDstJpX8P5WZMaAv_6EALw_wcB#ectrans=1){: rel="nofollow"}
 

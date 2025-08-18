@@ -15,6 +15,7 @@ tags:
 - running
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre dónde conseguir el Garmin Forerunner 220 en España. ¿Sigue siendo relevante en 2023 o es hora de actualizarse?"
+redirect_to: https://bikinggeek.github.io/2014/01/donde-conseguir-un-garmin-forerunner-220-espana.html
 ---
 
 [![Garmin Forerunner 220](https://ecx.images-amazon.com/images/I/71cr+D7lo8L._SL1500_.jpg){: .align-right}]({{ site.constants.wsib }}garmin-forerunner-220)

@@ -10,7 +10,7 @@ tags:
 - videos
 last_modified_at: '2023-07-24T00:00:00+02:00'
 description: "Training Videos: How to Use Tacx Real Videos with Minoura Trainers - A guide explaining how to effectively use Tacx Real Videos with Minoura trainers"
-
+redirect_to: https://bikinggeek.github.io/2013/01/training-videos-how-to-use-tacx-real-videos-with-minoura.html
 ---
 
 [![](https://ws.assoc-amazon.co.uk/widgets/q?_encoding=UTF8&ASIN=B006KV5GLG&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag={{ site.constants.amazon_uk }}){: style="float: right;"}]({{ site.constants.wsib }}tacx%20videos)

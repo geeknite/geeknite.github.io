@@ -4,6 +4,7 @@ title: "Zwift Review: A Comprehensive Analysis of the Popular Virtual Cycling Pl
 date: 2023-02-20 1:00:00 +0200
 tags: cycling virtual review
 description: "Explore Zwift, the immersive virtual cycling platform. Learn about its features, benefits, and drawbacks in our comprehensive review."
+redirect_to: https://bikinggeek.github.io/2023/02/zwift-review-analysis-virtual-cycling-platform.html
 ---
 [![riding a bike](https://i.imgur.com/GBg6PWet.png){: style="float: right;"}]({{ site.constants.wsib }}zwift)
 

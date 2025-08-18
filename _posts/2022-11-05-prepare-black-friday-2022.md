@@ -1,10 +1,10 @@
 ---
-
 title:  "Prepare for Black Friday in 2022"
 date:   2022-11-05 17:00:00 +0200
-tags: smartshopping black-friday
-last_modified_at: '2023-07-06T00:00:00+02:00'
-description: "How to Prepare for Black Friday 2022 - Tips and strategies to make the most of the Black Friday sales in 2022."
+tags: smartshopping black-friday deals amazon shopping
+last_modified_at: '2025-08-13T00:00:00+02:00'
+description: "Essential Black Friday 2022 preparation guide with smart shopping strategies, Amazon Prime considerations, and tips to avoid impulse purchases during the biggest sale season."
+excerpt: "Master Black Friday 2022 with our updated shopping strategies. Learn when to buy, how to avoid scams, and whether Amazon Prime is worth it for the deals."
 ---
 
 We already talked a few years ago [how to prepare for Black Friday]({% post_url 2018-10-25-dont-get-scammed-black-friday-like-pro %}), but today in 2022 many things have changed and our ideas on shopping have changed as well.

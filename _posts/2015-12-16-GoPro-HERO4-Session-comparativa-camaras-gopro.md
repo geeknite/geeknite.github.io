@@ -16,6 +16,7 @@ tags:
 last_modified_at: '2023-11-01T12:00:00.000+01:00'
 thumbnail: https://3.bp.blogspot.com/-oOKPmGjGSrI/VnFbJ9gu79I/AAAAAAAAAqs/9CFjs5c9UgM/s72-c/CHDHS-101_cyber2%255B1%255D.jpg
 blogger_id: tag:blogger.com,1999:blog-344607751786507434.post-2039170604654188194
+redirect_to: https://bikinggeek.github.io/2015/12/GoPro-HERO4-Session-comparativa-camaras-gopro.html
 ---
 
 [![GoPro HERO4 Session](https://3.bp.blogspot.com/-oOKPmGjGSrI/VnFbJ9gu79I/AAAAAAAAAqs/9CFjs5c9UgM/s72-c/CHDHS-101_cyber2%255B1%255D.jpg)]{: .align-right}]({{ site.constants.wsib }}gopro)

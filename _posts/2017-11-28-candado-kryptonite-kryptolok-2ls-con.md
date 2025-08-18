@@ -11,6 +11,7 @@ tags:
 - spain
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre si el candado Kryptonite Kryptolok 2LS es realmente seguro o solo una ilusión. ¿Vale la pena el precio? Spoiler: depende de cuánto te importe tu bicicleta."
+redirect_to: https://bikinggeek.github.io/2017/11/candado-kryptonite-kryptolok-2ls-con.html
 ---
 
 [![Candado Kryptonite Kryptolok 2LS](https://1.bp.blogspot.com/-vp7WDvoCeCc/Wh1Txl3CrTI/AAAAAAAABBA/1Zt3a6jyObUwYJRCZ9eazueuNit5G7JMACLcBGAs/s200/kryptonite%2Bkryptoloc%2B2LS.jpg){: .align-right}]({{ site.constants.wsib }}kryptonite)
