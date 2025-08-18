@@ -62,6 +62,6 @@ So, you've decided to take the plunge and buy a PS5 on eBay. Here are some tips 
 
 Despite its quirks and high price, the PS5 is a stellar console that delivers an unmatched gaming experience. If you can find one at a reasonable price on eBay, it's worth the investment.
 
-**Ready to take the plunge? Check out the latest PS5 deals on eBay and join the next-gen gaming revolution today!**
+**Ready to buy a PS5? Check out the latest deals [here]({{ site.constants.wsib }}ps5). Happy gaming!**
 
 Stay tuned for more reviews and gaming news from your favorite geeks at Geeknite! 🚀
