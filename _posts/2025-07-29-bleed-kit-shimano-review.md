@@ -8,6 +8,7 @@ tags:
 - Review
 last_modified_at: '2025-07-29T14:58:02+02:00'
 description: "Review of a budget-friendly third-party Shimano brake bleed kit from Amazon"
+redirect_to: https://bikinggeek.github.io/2025/07/bleed-kit-shimano-review.html
 ---
 
 [![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}shimano-bleed-kit)

@@ -4,6 +4,7 @@ tags: [bike, technology, gadgets, comparison]
 description: "A hilarious, engaging, and detailed comparison of iGPSPORT iGS800 and BSC300T bike computers. Find out which one is the ultimate cycling companion!"
 date: "2025-04-20"
 last_modified_at: '2025-04-21T10:00:00+02:00'
+redirect_to: https://bikinggeek.github.io/2025/04/igpsport-igs800-vs-bsc300t-review.html
 ---
 
 ![iGPSPORT iGS800 vs BSC300T](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}

@@ -13,6 +13,7 @@ tags:
 - ramblings
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Exploramos las tendencias más emocionantes de las MTB 2017. ¿Qué innovaciones traerán marcas como Canyon, YT y Marin? ¡Descúbrelo aquí!"
+redirect_to: https://bikinggeek.github.io/2016/10/what-are-we-expecting-for-2017-mtb-brands-lineup.html
 ---
 
 [![Marin Hawk Hill](https://4.bp.blogspot.com/-Vy4nJmSNtCQ/V-7e-UB77QI/AAAAAAAAA14/v3ylqn59b5ESGbQ0f5ZLRCgqBwcgs89UACLcB/s640/2017-Marin-Hawk-Hill-full-suspension-mountain-bike.jpg){: .align-right}]({{ site.constants.wsib }}mtb)

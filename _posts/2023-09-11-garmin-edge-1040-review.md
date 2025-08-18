@@ -4,6 +4,7 @@ date: "2023-09-11"
 tags: [Garmin, Cycling, Gadgets, Reviews]
 last_modified_at: '2024-05-24T00:00:00+02:00'
 description: "Discover the advanced features of the Garmin Edge 1040, a GPS bike computer designed for serious cyclists. Find out how it can enhance your cycling experience!"
+redirect_to: https://bikinggeek.github.io/2023/09/garmin-edge-1040-review.html
 ---
 
 [![Garmin Edge 1040](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif){: style="float: right;"}]({{ site.constants.wsib }}garmin edge 1040)

@@ -11,6 +11,7 @@ tags:
 - budget
 - XC
 last_modified_at: '2017-11-27T13:23:49.457+01:00'
+redirect_to: https://bikinggeek.github.io/2016/03/las-mejores-mtb-segun-presupuesto-for-the-money.html
 ---
 
 En este artículo quiero citar las bicicletas que me compraría sin pensarlo si tuviera disponible este dinero, por tanto son las que recomiendo a quien me pide mi humilde opinión. Si os fijáis casi todas pertenecen a marcas de venta directa por internet y no es que me no me gusten las marcas que se venden en tiendas pero**los precios por internet son imbatibles** y hoy nos fijamos en eso, también puedo decir que todas ellas las he podido probar, ni que fuera en circuitos de prueba cortos. Como dueño de un taller sé que es imposible sustituir el valor que nos da una tienda o un taller y si no te importa pagar un poco más te podemos recomendar una bicicleta que se adapte a tus necesidades y que disfrutes al máximo con ella.  

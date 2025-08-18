@@ -7,6 +7,7 @@ redirect_from:
     - /2019/11/benefits-of-mountain-biking.html
 description: "Benefits of Mountain Biking - Exploring the numerous benefits of engaging in mountain biking."
 last_modified_at: '2023-07-06T00:00:00+02:00'
+redirect_to: https://bikinggeek.github.io/2019/11/benefits-mountain-biking.html
 ---
 
 <img style="float: right;" src="https://i.imgur.com/mBJvvdRm.jpg?1">

@@ -5,6 +5,7 @@ date:   2018-10-02 17:00:00 +0200
 tags: español mtb review
 description: "Portabidones Laterales Zefal Wiiz - Review and analysis of the Zefal Wiiz side-entry bottle cage."
 last_modified_at: '2023-07-06T00:00:00+02:00'
+redirect_to: https://bikinggeek.github.io/2018/10/portabidones-laterales-zefal-wiiz.html
 ---
 
 <a href='{{ site.constants.wsib }}zefal%20wiiz'><img style="float: right;" src="https://i.imgur.com/tejFkXZm.jpg"></a>

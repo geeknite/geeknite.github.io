@@ -10,6 +10,7 @@ tags:
 - biking
 last_modified_at: '2025-08-13T10:00:00+02:00'
 description: "Are you a cycling enthusiast looking for great deals this Prime Day? Read on to discover what to look for with amazing deals on the latest gadgets"
+redirect_to: https://bikinggeek.github.io/2023/07/prime-day-bike-gadgets-accesories.html
 ---
 
 [![Cycling deals](https://i.imgur.com/UmrVWy4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}cycling)

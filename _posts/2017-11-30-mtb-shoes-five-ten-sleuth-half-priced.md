@@ -12,6 +12,7 @@ tags:
 - equipment
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Exploramos las Five Ten Sleuth: ¿Son realmente una ganga a mitad de precio o solo otra decepción? Descubre nuestra crítica completa."
+redirect_to: https://bikinggeek.github.io/2017/11/mtb-shoes-five-ten-sleuth-half-priced.html
 ---
 
 [![Five Ten Sleuth](https://1.bp.blogspot.com/-nT2Qimzphm8/WiBhCW-EDaI/AAAAAAAABBk/HkW5ilXl3Mc4_IwbGC8WcLvtiQ5zvWMUwCLcBGAs/s320/five%2Bten%2Bsleuth%2Boffer.jpg){: .align-right}]({{ site.constants.wsib }}five-ten-sleuth)

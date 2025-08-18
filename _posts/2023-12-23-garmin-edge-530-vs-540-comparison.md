@@ -4,6 +4,7 @@ tags: [cycling, technology, gadgets, comparison]
 description: "An in-depth comparison of the Garmin Edge 530 and the newer Garmin Edge 540, highlighting key differences and improvements."
 date: "2023-12-23"
 last_modified_at: '2025-03-08T00:00:00+02:00'
+redirect_to: https://bikinggeek.github.io/2023/12/garmin-edge-530-vs-540-comparison.html
 ---
 
 [![Garmin Edge 530 vs. Garmin Edge 540](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}]({{ site.constants.wsib }}Garmin Edge 540)

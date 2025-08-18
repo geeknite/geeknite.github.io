@@ -7,6 +7,7 @@ tags:
 - review
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre si los ODI X-Treme Lock-On Grips siguen siendo una buena opción después de años de uso. ¿Son realmente tan buenos como dicen?"
+redirect_to: https://bikinggeek.github.io/2016/06/odi-x-treme-lock-on-grips-long-term-review.html
 ---
 
 ### ODI X-Treme Lock-On Grips: ¿Valen la pena después de años de uso?

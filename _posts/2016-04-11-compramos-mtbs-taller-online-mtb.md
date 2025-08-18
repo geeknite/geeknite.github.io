@@ -13,6 +13,7 @@ tags:
 - spain
 last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre cómo darle una segunda vida a tu MTB con nuestro taller online. ¿Es realmente una buena idea? Spoiler: depende de cuánto la hayas maltratado."
+redirect_to: https://bikinggeek.github.io/2016/04/compramos-mtbs-taller-online-mtb.html
 ---
 
 ### Compramos MTBs: ¡Dale una segunda vida a tu bicicleta!

@@ -5,6 +5,7 @@ description: "Complete iGPSPORT BSC300 review: An affordable bike computer with 
 date: 2023-06-27
 last_modified_at: '2025-08-13T10:00:00+02:00'
 excerpt: "Discover the iGPSPORT BSC300 bike computer in our detailed review. Learn about real-world performance, battery life, GPS accuracy, and how it compares to Garmin Edge alternatives."
+redirect_to: https://bikinggeek.github.io/2023/06/igpsport-bsc300-review-smart-affordable-bike-sensor.html
 ---
 
 [![iGPSPORT BSC300 Budget Bike Computer](https://m.media-amazon.com/images/I/61iiRnZ7ylL._UF894,1000_QL80_.jpg){: style="float: right; max-width: 300px;" alt="Affordable bike computer for recreational cycling"}]({{ site.constants.wsib }}iGPSPORT BSC300)

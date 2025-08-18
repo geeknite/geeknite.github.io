@@ -18,6 +18,7 @@ tags:
 - action cam
 description: "Los Mejores Regalos para un Ciclista - A curated list of the best gifts for cyclists."
 last_modified_at: '2023-07-24T00:00:00+02:00'
+redirect_to: https://bikinggeek.github.io/2013/01/los-mejores-regalos-para-un-ciclista.html
 ---
 
 [![bike love](https://i.imgur.com/hgTBQY4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}regalo%20ciclista)

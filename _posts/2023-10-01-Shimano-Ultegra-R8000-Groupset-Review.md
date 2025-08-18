@@ -10,6 +10,7 @@ tags:
 - Review
 last_modified_at: '2024-05-12T00:00:00+02:00'
 description: "Discover why the new Shimano Ultegra R8000 Groupset is a game changer for cyclists. Read our in-depth review and find out if it's worth the investment."
+redirect_to: https://bikinggeek.github.io/2023/10/Shimano-Ultegra-R8000-Groupset-Review.html
 ---
 
 [![Shimano Ultegra R8000 Groupset](https://i.imgur.com/UmrVWy4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}shimano-ultegra-r8000)

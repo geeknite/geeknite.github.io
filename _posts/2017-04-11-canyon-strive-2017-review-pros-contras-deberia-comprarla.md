@@ -1,5 +1,4 @@
 ---
-
 title: 'Canyon Strive 2017 review: Pros y contras. Debería comprarla?'
 date: '2017-04-11T22:58:00.001+02:00'
 tags:
@@ -13,6 +12,7 @@ tags:
 - review
 - strive
 last_modified_at: '2017-11-27T13:12:26.004+01:00'
+redirect_to: https://bikinggeek.github.io/2017/04/canyon-strive-2017-review-pros-contras-deberia-comprarla.html
 ---
 
 [![geeknite tries canyon strive](https://1.bp.blogspot.com/-pPSjqVIEmN4/WO1CbZWnrlI/AAAAAAAAA-A/nJYJcGD6M9cp3pweyFL7d6_fFw5pGq9bQCLcB/s320/shapeshifter.jpg){: style="float: right;"}]({{ site.constants.wsib }}canyon%20strive)

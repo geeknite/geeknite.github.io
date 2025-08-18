@@ -10,6 +10,7 @@ tags:
 - biking
 description: "Discover the Wahoo ELEMNT BOLT, a GPS bike computer that's changing the game for cyclists. Check out our expanded and updated review."
 last_modified_at: '2025-06-13T20:46:45.9102692Z'
+redirect_to: https://bikinggeek.github.io/2023/11/wahoo-elemnt-bolt-review.html
 ---
 
 ![Wahoo ELEMNT BOLT](https://i.imgur.com/4JZjzKSm.jpg)

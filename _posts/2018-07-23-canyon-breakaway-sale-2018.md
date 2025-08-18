@@ -10,6 +10,7 @@ tags:
 - offers
 - opinions
 last_modified_at: '2018-07-23T16:36:50.219+02:00'
+redirect_to: https://bikinggeek.github.io/2018/07/canyon-breakaway-sale-2018.html
 ---
 [![](https://3.bp.blogspot.com/-B54IYZd6tvE/W1XiZm9gBYI/AAAAAAAABDo/ILoNtPWpBm0ng0oeZ0aRkOjtFttbM3bIQCLcBGAs/s200/spectral%2Bal%2B7%2B2018.jpg){: style="float: right;"}](https://www.canyon.com/en-es/specials/breakaway-sale/mtb-gravity/){: rel="nofollow"}
 
