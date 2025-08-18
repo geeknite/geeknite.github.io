@@ -30,7 +30,7 @@ Si planeas largas sesiones de juego, prepárate para llevar el cargador a todas 
 
 #### Lo Feo: ¿Realmente es para adultos?
 
-Nintendo insiste en que la 3DS es para todas las edades, pero la realidad es que la mayoría de los juegos están claramente dirigidos a un público más joven. Si buscas algo más "maduro", probablemente deberías mirar hacia la [Nintendo Switch]({%- post_url 2017-03-30-nintendo-switch-review -%}). Y si quieres algo aún más potente, echa un vistazo a nuestra [comparativa de consolas de nueva generación]({%- post_url 2013-07-15-ps4-vs-xbox-one-resumen-comparativa-definitiva-sorteo -%}).
+Nintendo insiste en que la 3DS es para todas las edades, pero la realidad es que la mayoría de los juegos están claramente dirigidos a un público más joven. Si buscas algo más "maduro", probablemente deberías mirar hacia la [Nintendo Switch]({%- post_url 2025-05-30-nintendo-switch-review -%}). Y si quieres algo aún más potente, echa un vistazo a nuestra [comparativa de consolas de nueva generación]({%- post_url 2013-07-15-ps4-vs-xbox-one-resumen-comparativa-definitiva-sorteo -%}).
 
 ### ¿Vale la pena en 2023?
 

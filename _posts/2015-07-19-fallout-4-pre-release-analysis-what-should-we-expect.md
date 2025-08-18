@@ -19,7 +19,7 @@ Cuando Bethesda anunció Fallout 4, las expectativas se dispararon. Prometieron 
 
 #### Lo Bueno: Un mundo abierto impresionante
 
-Bethesda sabe cómo construir mundos abiertos, y Fallout 4 no es la excepción. Desde los paisajes postapocalípticos hasta los pequeños detalles en cada esquina, el juego promete ser un festín visual. Si eres fanático de los juegos de mundo abierto, también te interesará nuestra [reseña de The Legend of Zelda: Breath of the Wild]({%- post_url 2017-03-30-nintendo-switch-review -%}).
+Bethesda sabe cómo construir mundos abiertos, y Fallout 4 no es la excepción. Desde los paisajes postapocalípticos hasta los pequeños detalles en cada esquina, el juego promete ser un festín visual. Si eres fanático de los juegos de mundo abierto, también te interesará nuestra [reseña de The Legend of Zelda: Breath of the Wild]({%- post_url 2025-05-30-nintendo-switch-review -%}).
 
 #### Lo Malo: ¿Demasiado reciclaje?
 

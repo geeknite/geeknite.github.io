@@ -43,6 +43,26 @@ Tired of sitting in traffic? The **Xiaomi Electric Scooter Pro 4** is your solut
 
 ---
 
+### 4. Xiaomi 8H Mattress - Sleep Like a Geek
+
+Hello Geeknite readers! Have you ever wondered if a mattress could be geeky? Well, Xiaomi thinks it can be. The **Xiaomi 8H mattress** arrives in a surprisingly compact box. It's like watching a Transformer unfold, but instead of a robot, you get a mattress. The design is sleek, with a minimalist aesthetic that Xiaomi is known for. The mattress is made from high-quality materials, including memory foam and natural latex, promising a comfortable and supportive sleep. Available on eBay at a price that won’t break your bank.
+
+[Search for Xiaomi 8H Mattress on {{site.constants.wsibname}}](https://www.ebay.com/sch/i.html?_nkw=Xiaomi+8H+Mattress)
+
+**Criticism**: While the Xiaomi 8H mattress is impressive, its initial chemical smell might be a turn-off. Also, it's firmer than some might prefer.
+
+---
+
+### 5. Xiaomi Redmi 15 - The Mid-Range Marvel
+
+Today, we're tackling the latest contender in the mid-range smartphone arena, the **Xiaomi Redmi 15**. It's 2025, and Xiaomi is still busy churning out devices faster than a geek can say "upgrade." With its sleek metal body and glass back, it feels premium in hand. Available in three colors—Midnight Black, Sky Blue, and Pearl White—there's a shade for everyone.
+
+[Search for Xiaomi Redmi 15 on {{site.constants.wsibname}}](https://www.ebay.com/sch/i.html?_nkw=Xiaomi+Redmi+15)
+
+**Criticism**: While the Redmi 15 is a solid mid-range phone, its software can feel a bit bloated at times.
+
+---
+
 ## **Why eBay?**
 
 You might be wondering, why buy these gadgets on eBay? Here are a few reasons:
@@ -65,20 +85,6 @@ Here are some pro tips to make your eBay shopping experience smooth and enjoyabl
 4. **Use eBay's Buyer Protection**: If something goes wrong with your purchase, eBay's Buyer Protection program can help you get your money back.
 
 **Bonus Tip**: If you’re bidding, set a maximum price and stick to it. Don’t let the thrill of the auction drain your bank account.
-
- {% comment %}
-<!-- ---
-
-## **Comparison with Other Platforms**
-
-### [Amazon vs eBay: Where Should You Buy Your Tech?]({%- post_url 2025-03-15-amazon-vs-ebay-tech-buying-guide -%})
-
-While Amazon offers convenience and fast shipping, eBay shines with its competitive pricing and global availability. For Xiaomi gadgets, eBay often has exclusive deals that are hard to beat.
-
-### [Top 5 Xiaomi Gadgets of 2025]({%- post_url 2025-04-01-top-5-xiaomi-gadgets -%})
-
-If you’re curious about other Xiaomi products worth buying, check out our list of the top 5 Xiaomi gadgets of 2025. Spoiler: the Mi 12 Ultra makes the cut. -->
-{% endcomment %}
 
 ---
 

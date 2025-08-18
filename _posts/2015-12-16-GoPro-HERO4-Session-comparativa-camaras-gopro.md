@@ -39,7 +39,7 @@ Si estás buscando una cámara de acción, probablemente hayas oído hablar de l
 
 #### ¿Es la HERO4 Session una cámara o un pisapapeles caro?
 
-Si bien la HERO4 Session tiene sus méritos, no podemos ignorar que otras cámaras de la misma línea ofrecen mucho más por un precio similar. Si estás considerando esta cámara, tal vez quieras echar un vistazo a nuestra [comparativa de cámaras de acción económicas]({%- post_url 2017-03-30-nintendo-switch-review -%}).
+Si bien la HERO4 Session tiene sus méritos, no podemos ignorar que otras cámaras de la misma línea ofrecen mucho más por un precio similar. Si estás considerando esta cámara, tal vez quieras echar un vistazo a nuestra [comparativa de cámaras de acción económicas]({%- post_url 2025-05-30-nintendo-switch-review -%}).
 
 ---
 
