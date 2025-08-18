@@ -11,7 +11,7 @@ description: "Explore the Nintendo Switch 2: Is it the next level in gaming or j
 last_modified_at: '2025-08-13T10:00:00+02:00'
 ---
 
-[![Nintendo Switch 2](https://i.imgur.com/MNtDsawm.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
+[![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
 
 ## Nintendo Switch 2: The Next Level in Gaming?
 
