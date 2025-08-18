@@ -1,23 +1,4 @@
 ---
-title: "HarmoThe producThe gameplayHarmonies features multiple scoring pathThe game successfully bridges the gap between casual and serious gaming, much like how [board gaming benefits adults]({%- post_url 2019-11-15-adult-board-games -%}) by providing both entertainment and mental stimulation. With its gorgeous artwork, solid production values, and satisfying puzzle elements, Harmonies earns its place among the best tile-placement games available.
-
-**Bottom Line**: Harmonies transforms the simple act of placing tiles into a beautiful, strategic experience that will leave you planning your next landscape long after the game ends. It's the rare game that looks as good on your shelf as it plays on your table.
-
-**Ready to create your perfect landscape?** Head over to [Geeknite's board game section]({{ site.constants.wsib }}harmonies-board-game) and discover Harmonies for yourself. Your gaming table (and your Instagram feed) will thank you!ate interesting decision points throughout the game. Players score points by placing animal and building tokens on specific terrain patterns, completing habitat objectives, and creating the largest connected areas of certain terrains. The scoring system rewards both immediate tactical decisions and long-term strategic planning.
-
-The game includes objective cards that provide additional scoring opportunities, similar to how [racing board games]({%- post_url 2023-06-15-top-10-racing-board-games -%}) often have multiple ways to achieve victory through different racing strategies. This variety ensures that no two games feel exactly the same, as players must adapt their strategies based on available objectives.
-
-**Scoring Alert**: Don't ignore the objective cards – they often provide the most efficient path to victory, but timing their completion can be tricky. Harmonies centers around building beautiful landscapes using colorful terrain tokens and landscape tiles. Each turn, players select landscape tiles from a central display, place them in their personal landscape, and then position wooden animal and building tokens to score points. The core mechanics are deceptively simple – place tiles, add tokens, score points – but the strategic depth emerges from spatial puzzles and resource management.
-
-Unlike the tactical combat focus we explored in games like [CoraQuest and Adventure Tactics for young teens]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}), Harmonies emphasizes peaceful building and pattern recognition. Players must carefully consider tile placement to create the right terrain types for their animal tokens while maximizing scoring opportunities.
-
-**Strategy Tip**: The key to success lies in planning your landscape layout early. Don't just randomly place tiles – think about where your animals will want to live!
-
-### The Scoring Systemquality in Harmonies rivals that of any premium board game we've reviewed. The double-layered player boards, colorful landscape tiles, and wooden animal tokens all feel substantial and well-made. The artwork by Johan Benvenuto is absolutely stunning – each landscape tile is a miniature work of art that captures the beauty of natural habitats. Unlike some games where components can feel flimsy (as we noted in our [Adventure Tactics vs CoraQuest comparison]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) regarding rulebook quality), Harmonies delivers premium components throughout.
-
-**Quality Alert**: The only minor complaint is that the landscape tiles can occasionally stick together when new, but this resolves quickly with play.
-
-### How to Play HarmoniesBoard Game Review: Strategic Tile Placement Meets Musical Theme"
 date: 2025-04-17 08:00:00 +0200
 tags: [board games, review, harmonies, strategy games, tile placement]
 description: "Comprehensive review of Harmonies board game by Libellud. Discover how this beautiful tile-placement strategy game combines nature themes with satisfying gameplay mechanics."
@@ -84,7 +65,7 @@ Harmonies is a delightful addition to any board game collection, offering beauti
 
 **Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The steep learning curve and punishing mechanics might deter some players, but for those willing to embrace the musical chaos, Harmonies is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}harmonies-board-game) and get your copy of Harmonies today. It’s time to create your masterpiece and win the musical battle!
+So what are you waiting for? Head over to [{{ site.constants.wsibname }}]({{ site.constants.wsib }}harmonies-board-game) and get your copy of Harmonies today. It’s time to create your masterpiece and win the musical battle!
 
 **Call to Action**: Ready to orchestrate your board game collection? Grab Harmonies and bring melody and strategy to your game nights! **Click [here]({{ site.constants.wsib }}harmonies-board-game) to get your copy now!**
 

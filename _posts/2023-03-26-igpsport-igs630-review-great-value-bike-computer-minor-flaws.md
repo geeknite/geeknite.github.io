@@ -10,6 +10,7 @@ tags:
 - biking
 description: "Discover the iGPSPORT iGS630, a budget-friendly GPS bike computer with impressive features and a few drawbacks. Read our updated in-depth review now."
 last_modified_at: '2025-03-13T10:00:00+02:00'
+redirect_to: https://bikinggeek.github.io/2023/03/igpsport-igs630-review-great-value-bike-computer-minor-flaws.html
 ---
 
 ![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}({{ site.constants.wsib }}iGPSPORT iGS630)

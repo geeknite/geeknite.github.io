@@ -52,7 +52,7 @@ Con la llegada de la **PS4** y la **Xbox One**, muchos esperábamos una revoluci
 
 Si ya tienes una PS3 o Xbox 360, no te estás perdiendo mucho. Pero si decides dar el salto, asegúrate de elegir sabiamente. Revisa nuestra [comparativa de la PS4 vs Xbox One]({%- post_url 2013-07-15-ps4-vs-xbox-one-resumen-comparativa-definitiva-sorteo -%}) para tomar una decisión informada.
 
-**Pro Tip:** Si estás pensando en una consola portátil, no te pierdas nuestra [review de la Nintendo Switch]({%- post_url 2017-03-30-nintendo-switch-review -%}). Quizás sea la opción más divertida y versátil.
+**Pro Tip:** Si estás pensando en una consola portátil, no te pierdas nuestra [review de la Nintendo Switch]({%- post_url 2025-05-30-nintendo-switch-review -%}). Quizás sea la opción más divertida y versátil.
 
 **¿Qué opinas? ¿Crees que esta generación ha cumplido con las expectativas? Déjanos tu comentario.**  
 {% include amazon.html asin="B09XX5FVHJ" %}
