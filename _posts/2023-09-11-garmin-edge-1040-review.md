@@ -1,6 +1,6 @@
 ---
 title: "Review: The New Garmin Edge 1050 - A Game Changer for Cyclists"
-date: "2025-08-18"
+date: "2023-09-11"
 tags: [Garmin, Cycling, Gadgets, Reviews]
 last_modified_at: '2025-08-18T14:10:17+02:00'
 description: "Discover the advanced features of the Garmin Edge 1050, a GPS bike computer designed for serious cyclists. Find out how it can enhance your cycling experience!"
