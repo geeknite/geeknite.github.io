@@ -9,7 +9,7 @@ date: 2023-06-15 08:00:00 +0800
 last_modified_at: '2023-06-26T12:00:00 +0200'
 ---
 
-[![racing board games](https://i.imgur.com/3zHcfgxm.jpg){: style="float: right;"}]({{ site.constants.wsib }}racing boardgames)
+[![racing board games](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]({{ site.constants.wsib }}racing boardgames)
 
 Are you a fan of racing games? Do you love the thrill of the race, the *adrenaline rush* as you speed towards the finish line? If so, then you're in luck! We've compiled a list of the **top 10 racing board games** according to BoardGameGeek rankings, so you can experience the excitement of the race from the comfort of your own home.
 

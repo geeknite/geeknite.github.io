@@ -8,7 +8,7 @@ redirect_from:
     - /2023/01/ps5-comprehensive-review-good-bad-big.html
 ---
 
-[![big bulky ps5](https://i.imgur.com/hfOlYVsm.jpg){: style="float: right;"}]({{ site.constants.wsib }}ps5)
+[![big bulky ps5](https://i.imgur.com/hfOlYVsm.jpg){: .align-right}]({{ site.constants.wsib }}ps5)
 The [PS5]({{ site.constants.wsib }}ps5) is the latest and greatest gaming console from Sony, and it's been making waves in the gaming world since its release. With its powerful hardware, lightning-fast load times, and beautiful graphics, it's easy to see why so many people are excited about the [PS5]({{ site.constants.wsib }}ps5). But let's be real, the [PS5]({{ site.constants.wsib }}ps5) is not without its flaws. Some years ago we compared the [PS4 with the Xbox One]({%- post_url 2013-07-15-ps4-vs-xbox-one-resumen-comparativa-definitiva-sorteo -%}) but now it's time for its successor.
 
 First of all, let's talk about the size. The [PS5]({{ site.constants.wsib }}ps5) is big. Like, really big. It's so big that you might need to call in an interior designer just to figure out where to put it in your living room. And it's heavy too, so don't even think about trying to pick it up with one hand. It's like trying to lift a sumo wrestler after a big meal.

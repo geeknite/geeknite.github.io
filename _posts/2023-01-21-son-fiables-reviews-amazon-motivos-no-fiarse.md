@@ -7,7 +7,7 @@ description: "No confíes en reseñas de Amazon. 10 motivos por los que opinione
 last_modified_at: '2023-07-06T00:00:00+02:00' 
 ---
 
-[![we don't like fake reviews](https://i.imgur.com/OO8VYzAm.png){: style="float: right;"}]({{ site.constants.wsib }})
+[![we don't like fake reviews](https://i.imgur.com/OO8VYzAm.png){: .align-right}]({{ site.constants.wsib }})
 
 **La respuesta rápida es que NO**. Sigue leyendo y sabrás alguno de los trucos que usan vendedores para que no te engañen, incluso puedes sacarle algún partido.
 

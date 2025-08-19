@@ -15,7 +15,7 @@ tags:
 last_modified_at: '2018-10-07T20:05:54.120+02:00'
 ---
 
-[![](https://4.bp.blogspot.com/-k-otKDD3b8Q/VuFRJGaDWaI/AAAAAAAAAwU/XDOadJk7Hko/s200/ssd.jpg){: style="float: right;"}]({{ site.constants.wsib }}samsung%20ssd)
+[![](https://4.bp.blogspot.com/-k-otKDD3b8Q/VuFRJGaDWaI/AAAAAAAAAwU/XDOadJk7Hko/s200/ssd.jpg){: .align-right}]({{ site.constants.wsib }}samsung%20ssd)
 [After our article where I encouraged everyone to buy an SSD to improve the performance of their PC]({%- post_url 2012-07-10-price-drop-ssd-upgrade -%}) a friend of mine asked me for some advice on which one to get, currently my best bet are the Samsung SSDs but with their new revision, the 840, I lost track of the models, so today I want to share this table where we can see the maximum transfer rates and the illustrative price at amazon at today's date.
 
  | | Max transfer rates in MB/s | Samsung SSD 840 (128GB) | Samsung SSD 840 (250GB) | Samsung SSD 840 Pro (128GB) | Samsung SSD 840 Pro (256GB) | Samsung SSD 830 (120GB) | Samsung SSD 830 (256GB) |

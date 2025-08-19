@@ -21,7 +21,7 @@ last_modified_at: '2023-07-24T00:00:00+02:00'
 redirect_to: https://bikinggeek.github.io/2013/01/los-mejores-regalos-para-un-ciclista.html
 ---
 
-[![bike love](https://i.imgur.com/hgTBQY4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}regalo%20ciclista)
+[![bike love](https://i.imgur.com/hgTBQY4m.jpg){: .align-right}]({{ site.constants.wsib }}regalo%20ciclista)
 
 Se empiezan a acercar las fechas de regalos de San Valentín y ahora que la cuesta de enero ya se acaba podemos preparar un buen regalo para nuestra pareja y si es un aficionad@ al ciclismo y si no sabsepas por dónde empezar, te dejo una lista de buenos productos, que como aficionado, he encontrado que són los mejores en sus respectivos apartados. Os dejo los links del producto en **amazon** si os interesa comprarlo, consultar precios u opinión de otros compradores. [Si os decidís a comprarlo en amazon leed antes estas recomendaciones]( {%- post_url 2013-01-24-recomendaciones-comprar-amazon-espana -%}).  
   

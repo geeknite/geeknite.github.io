@@ -9,7 +9,7 @@ tags:
 last_modified_at: '2023-01-15T11:59:03.181+01:00'
 ---
 
-[![geeknite money making cat](https://i.imgur.com/DA80Cljm.png){: style="float: right;"}]
+[![geeknite money making cat](https://i.imgur.com/DA80Cljm.png){: .align-right}]
 
 I have been trying for a few months different ways of making some extra money online, even I have not been much successful as many of them require a lot of involvement, but some require less involvement and are much more satisfying, here I want to enumerate my favorite ones and the ones that found out more effective:
 

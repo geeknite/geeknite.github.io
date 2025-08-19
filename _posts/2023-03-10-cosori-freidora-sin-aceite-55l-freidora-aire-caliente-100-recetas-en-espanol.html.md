@@ -11,7 +11,7 @@ description: "Descubre la COSORI Freidora sin Aceite 5.5 L con 100 recetas en es
 last_modified_at: '2025-03-08T10:00:00+02:00'
 ---
 
-[![COSORI Freidora sin Aceite 5.5 L](https://i.imgur.com/2WJEnq2tm.jpg){: style="float: right;"}]({{ site.constants.wsib }}zwift)
+[![COSORI Freidora sin Aceite 5.5 L](https://i.imgur.com/2WJEnq2tm.jpg){: .align-right}]({{ site.constants.wsib }}zwift)
 ¡Qué alegría tener la oportunidad de hablar de [mi freidora de aire Cosori 5.5L!](https://www.amazon.es/COSORI-Freidora-Caliente-Programas-Temporizador/dp/B07N8N6C85/?tag={{ site.constants.amazon_es }}){: rel="nofollow"}
 
 De verdad que desde que la compré, mi vida culinaria ha dado un giro de 180 grados. Antes de tenerla, todo lo que cocinaba se limitaba a lo que podía hacer en mi viejo horno, pero ahora, con esta maravilla, puedo freír, asar, dorar, gratinar, hornear y mucho más. ¡Es impresionante todo lo que se puede cocinar en ella!

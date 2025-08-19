@@ -9,7 +9,7 @@ last_modified_at: '2023-07-18T00:00:00+02:00'
 description: "DLC vs. Game of the Year Edition: Which Should You Choose? An insightful critique about opting for Game of the Year editions is a better choice than DLCs"
 ---
 
-![How DLC would apply to culture?](https://i.imgur.com/32pFOtc.jpg){: style="float: right;"}
+![How DLC would apply to culture?](https://i.imgur.com/32pFOtc.jpg){: .align-right}
 
 This is a message for video games companies, "**don't expect me buying any DLC**", I am not a big fan of the **hype of new releases**, generally in all circumstances, but in video games world we know that companies release games with a very adjusted development dates, so we often see that some new releases lack some stability, or if you prefer they **are plagued with bugs** due to low testing time.
 

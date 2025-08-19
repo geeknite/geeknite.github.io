@@ -7,7 +7,7 @@ description: "Cheques Regalo Amazon: Forma de Pago Alternativa sin Comisiones - 
 last_modified_at: '2023-07-06T00:00:00+02:00'
 ---
 
-[![geeknite cheques regalo](https://i.imgur.com/AGT3i6om.jpg){: style="float: right;"}](https://www.amazon.es/cheques-regalo/b/ref=as_li_ss_tl?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&node=3564279031&tag={{ site.constants.amazon_es }}&linkId=1d2931e92394c7d0417ef5b550fb0121&language=es_ES){: rel="nofollow"}
+[![geeknite cheques regalo](https://i.imgur.com/AGT3i6om.jpg){: .align-right}](https://www.amazon.es/cheques-regalo/b/ref=as_li_ss_tl?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&node=3564279031&tag={{ site.constants.amazon_es }}&linkId=1d2931e92394c7d0417ef5b550fb0121&language=es_ES){: rel="nofollow"}
 
 Los cheques regalo estan ideados para hacer hacer ragalos sin mojarse en qué producto comprar, ideales para pequeños regalos en nacimientos de los hijos de amigos para que los nuevos padres puedan comprar según necesidad. Pero a partir de aquí no tendemos a darles más uso que para regalos de este tipo.
 

@@ -5,7 +5,7 @@ tags: [Xiaomi, mattress, reviews, sleep, comfort]
 description: "Dive into the world of Xiaomi's 8H mattress. Does it offer the comfort and support you need for a good night's sleep? Let's find out!"
 ---
 
-[![Xiaomi 8H Mattress](https://i.imgur.com/4Fj2C76m.jpg){: style="float: right;"}]({{ site.constants.wsib }}xiaomi-8h-mattress)
+[![Xiaomi 8H Mattress](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}]({{ site.constants.wsib }}xiaomi-8h-mattress)
 
 Hello Geeknite readers! Have you ever wondered if a mattress could be geeky? Well, Xiaomi thinks it can be. Today, we're reviewing the Xiaomi 8H mattress. Is it the dream bed for tech enthusiasts, or just another overhyped product? Grab your pillow, and let's dive in!
 

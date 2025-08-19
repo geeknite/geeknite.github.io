@@ -9,7 +9,7 @@ date: 2023-06-04 08:00:00 +0800
 last_modified_at: '2023-08-13T10:53:26.6880991Z'
 ---
 
-[![coraquest offers](https://i.imgur.com/6s4IJiPm.png){: style="float: right;"}]({{ site.constants.wsib }}coraquest)
+[![coraquest offers](https://i.imgur.com/6s4IJiPm.png){: .align-right}]({{ site.constants.wsib }}coraquest)
 
 **Hey there, fellow adventurers!** Are you ready for some epic dungeon-crawling and tactical combat? Then you need to check out [Adventure Tactics]({{ site.constants.wsib }}adventure tactics) and [CoraQuest]({{ site.constants.wsib }}coraquest). These two games offer unique twists on the classic adventure board game genre that will keep you and your kids on the edge of your seat. We already discussed [why board gaming is good for adults]({%- post_url 2019-11-15-adult-board-games -%}), but today let’s focus on young teens.
 
@@ -21,7 +21,7 @@ One of the things I love about [CoraQuest]({{ site.constants.wsib }}coraquest) i
 
 However, the actual gameplay can sometimes feel a bit repetitive and unbalanced. There are some variations in the battles, but they mostly feel very same-y and also unbalanced. The beginning of the game was very hard and I defeated my last two scenarios on the first or second round - just too easy. But, hold on, there's a silver lining! There are expansions coming out that are supposed to (a) add more variety and (b) balance the game. For me, that can change this from a good game to a great game.
 
-[![adventure tactics](https://i.imgur.com/daqPDn2m.png){: style="float: right;"}]({{ site.constants.wsib }}adventure tactics)
+[![adventure tactics](https://i.imgur.com/daqPDn2m.png){: .align-right}]({{ site.constants.wsib }}adventure tactics)
 
 ## Adventure Tactics: The Strategic, Story-Driven Adventure
 

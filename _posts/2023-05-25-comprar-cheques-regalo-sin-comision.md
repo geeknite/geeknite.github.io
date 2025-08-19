@@ -9,7 +9,7 @@ tags:
 last_modified_at: '2023-06-11T12:00:00 +0200'
 ---
 
-[![Cheques regalo sin comisión](https://i.imgur.com/nO1TaAHm.jpg){: style="float: right;"}](https://www.amazon.es/Cheques-Regalo-Amazon-es-mail-Amazon/dp/B07SS5PFJK/?tag={{ site.constants.amazon_es }})
+[![Cheques regalo sin comisión](https://i.imgur.com/nO1TaAHm.jpg){: .align-right}](https://www.amazon.es/Cheques-Regalo-Amazon-es-mail-Amazon/dp/B07SS5PFJK/?tag={{ site.constants.amazon_es }})
 
 ¡Hola a todos! Hoy vamos a hablar de una forma divertida y eficiente de comprar cheques de Amazon sin comisión. Todos amamos Amazon, ¿verdad? Es ese lugar en línea donde puedes encontrar prácticamente cualquier cosa que necesites. Y si eres como yo, [probablemente te encanta aprovechar las ofertas y descuentos que ofrece]({%- post_url 2013-01-24-recomendaciones-comprar-amazon-espana -%}).
 

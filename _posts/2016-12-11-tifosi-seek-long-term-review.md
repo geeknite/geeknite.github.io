@@ -16,7 +16,7 @@ description: "Reseña a largo plazo de las gafas de sol Tifosi Seek - Una revisi
 redirect_to: https://bikinggeek.github.io/2016/12/tifosi-seek-long-term-review.html
 ---
 
-[![geeknite tifosi seek broken](https://3.bp.blogspot.com/-hMEvbsq_xxo/WE195sNH_VI/AAAAAAAAA58/tLOCrYda1ssv5yqe8Yh_z_XxRD18ZL6IwCLcB/s320/tifosi%2Bseek.jpg){: style="float: right;"}]({{ site.constants.wsib }}Tifosi%20Seek)
+[![geeknite tifosi seek broken](https://3.bp.blogspot.com/-hMEvbsq_xxo/WE195sNH_VI/AAAAAAAAA58/tLOCrYda1ssv5yqe8Yh_z_XxRD18ZL6IwCLcB/s320/tifosi%2Bseek.jpg){: .align-right}]({{ site.constants.wsib }}Tifosi%20Seek)
 
 Tifosi Optics es una empresa estadounidense reconocida en el sector de las gafas de sol deportivas, sus gafas se pueden encontrar en todo el mundo y **tienen una buena reputación de calidad**. Sus diseños suelen ser en general bastante aerodinámicos y ligeros por lo que acostumbraremos a ver sus gafas en ciclistas de carretera, de _cross country_ o hasta _runners_.  
   
