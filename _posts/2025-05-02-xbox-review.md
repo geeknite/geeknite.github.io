@@ -5,7 +5,7 @@ tags:
 - gaming
 - xbox
 - review
-last_modified_at: '2025-07-25T06:29:25.8440059Z'
+last_modified_at: '2025-08-20T17:36:17.4047915Z'
 description: "A detailed and humorous review of Xbox in 2025. Are you still on team Xbox or is it time to switch?"
 ---
 
@@ -21,12 +21,12 @@ Ah, the Xbox. The console that's been giving PlayStation a run for its money sin
 
 First things first, let's talk hardware. The Xbox Series X is an absolute beast. With specs that could make your gaming PC blush, it's got everything you need to run the latest and greatest games without breaking a sweat.
 
-| Feature | Xbox Series X |
+| Feature              | Xbox Series X                 |
 |----------------------|-------------------------------|
-| **CPU** | AMD Zen 2 8 cores |
-| **GPU** | 12 Teraflops |
-| **RAM** | 16GB GDDR6 |
-| **Storage** | 1TB NVMe SSD (expandable) |
+| **CPU**             | AMD Zen 2 8 cores            |
+| **GPU**             | 12 Teraflops                 |
+| **RAM**             | 16GB GDDR6                   |
+| **Storage**         | 1TB NVMe SSD (expandable)    |
 
 **The reality?** While the specs are impressive, the real question is: can it handle the heat of your mom's basement during an intense gaming session? That remains to be seen.
 
@@ -34,11 +34,11 @@ First things first, let's talk hardware. The Xbox Series X is an absolute beast.
 
 ### Exclusives: Who Has the Best Games?
 
-- **Xbox Series X**:
-  - *Halo Infinite*
-  - *Fable*
-  - *Forza Horizon 5*
-  - *Everwild*
+- **Xbox Series X**:  
+  - *Halo Infinite*  
+  - *Fable*  
+  - *Forza Horizon 5*  
+  - *Everwild*  
 
 **My opinion?** The exclusives are like that friend who always brings the best snacks to the party. They're fun, they're enticing, but sometimes you wonder if you should've just ordered a pizza instead.
 
