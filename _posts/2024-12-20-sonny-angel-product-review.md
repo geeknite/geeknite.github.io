@@ -9,7 +9,7 @@ last_modified_at: '2025-08-20T06:30:36.649638Z'
 
 Sonny Angel is a popular collectible toy brand that has captured the hearts of many with its adorable and whimsical designs. These small figurines, often dressed in thematic costumes, are known for their high-quality craftsmanship and attention to detail.
 
-![Sonny Angel](https://i.imgur.com/xlsjD0rm.jpg)
+[![Sonny Angel](https://i.imgur.com/xlsjD0rm.jpg)]({{ site.constants.wsib }}sonny-angel)
 
 In this product review, we'll dive into the world of Sonny Angel, exploring its history, features, pros and cons, and why it has become a favorite among collectors. We'll also provide recommendations on where to buy Sonny Angel figurines and how to get the best deals.
 

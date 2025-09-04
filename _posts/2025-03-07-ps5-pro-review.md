@@ -18,7 +18,7 @@ The highly anticipated **PS5 Pro** is finally here, bringing next-level gaming e
 
 The PS5 Pro boasts a sleek and modern design that is both stylish and functional. Its black and white color scheme, along with its futuristic curves, make it a standout piece in any entertainment setup. The console is slightly larger than the original PS5, allowing for better cooling and more powerful hardware.
 
-![PS5 Pro](https://imgur.com/unan4KZm.jpg){: .align-right}
+[![PS5 Pro](https://imgur.com/unan4KZm.jpg){: .align-right}]({{ site.constants.wsib }}Ps5 pro)
 
 ### Key Features
 
