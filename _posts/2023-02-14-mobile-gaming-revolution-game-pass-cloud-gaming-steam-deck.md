@@ -6,7 +6,7 @@ description: "Discover how Game Pass, cloud gaming, and the Steam Deck are revol
 last_modified_at: 2025-06-05 00:00:00 +0200
 ---
 
-[![game pass](https://i.imgur.com/bZKNF5dm.png){: style="float: right;"}]({{ site.constants.wsib }}gamepass)
+[![game pass](https://i.imgur.com/bZKNF5dm.png){: .align-right}]({{ site.constants.wsib }}gamepass)
 
 Gone are the days when gaming meant being tied to your console or PC. Today, gaming is truly mobile, with players able to access their favorite titles from anywhere in the world. But what's driving this shift towards mobile gaming? And how are innovations like [Game Pass]({{ site.constants.wsib }}gamepass), cloud gaming, and the [Steam Deck]({{ site.constants.wsib }}steam deck) changing the game? Let's take a closer look.
 

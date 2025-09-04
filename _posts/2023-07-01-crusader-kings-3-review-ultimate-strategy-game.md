@@ -11,7 +11,7 @@ description: "Discover Crusader Kings III, the ultimate strategy game for histor
 last_modified_at: '2025-07-26T07:25:56.9374742Z'
 ---
 
-[![Crusader Kings III](https://i.imgur.com/o0ecFKRm.jpg){: style="float: right;"}]({{ site.constants.wsib }}Crusader Kings III)
+[![Crusader Kings III](https://i.imgur.com/o0ecFKRm.jpg){: .align-right}]({{ site.constants.wsib }}Crusader Kings III)
 
 If you're a fan of strategy games and history, then [Crusader Kings III]( {{ site.constants.wsib }}Crusader Kings III) is the perfect game for you. Developed by Paradox Development Studio, the game takes you on a journey through medieval Europe, where you take on the role of a ruler trying to build a dynasty and expand their kingdom. With its intricate gameplay mechanics, rich historical context, and endless possibilities, [Crusader Kings III]( {{ site.constants.wsib }}Crusader Kings III) is a must-play for fans of the genre. [Crusader Kings III]( {{ site.constants.wsib }}Crusader Kings III) is a strategy game that transports you back in time to the medieval era. As a player, you will take on the role of a ruler of a dynasty, and it will be up to you to manage your kingdom, make alliances, and conquer territories. This game is for anyone who loves history, strategy, and role-playing games.
 

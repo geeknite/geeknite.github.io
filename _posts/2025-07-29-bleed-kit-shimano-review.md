@@ -11,7 +11,7 @@ description: "Review of a budget-friendly third-party Shimano brake bleed kit fr
 redirect_to: https://bikinggeek.github.io/2025/07/bleed-kit-shimano-review.html
 ---
 
-[![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}shimano-bleed-kit)
+[![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}shimano-bleed-kit)
 
 ## Introduction
 

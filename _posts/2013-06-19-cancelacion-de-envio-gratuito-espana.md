@@ -13,7 +13,7 @@ last_modified_at: '2018-09-30T20:16:37.523+02:00'
 
 Leo en Twitter que [amazon.co.uk](<https://www.amazon.co.uk/ref=as_li_ss_tl?_encoding=UTF8&camp=1634&creative=19450&linkCode=ur2&tag={{ site.constants.amazon_uk }}>) deja de enviar de forma gratuita a España, después la reacción inicial de incredulidad y [tras comprobar que así es](<https://www.amazon.co.uk/gp/help/customer/display.html/?ie=UTF8&camp=1634&creative=19450&linkCode=ur2&nodeId=1204872&tag={{ site.constants.amazon_uk }}>), quiero dar mi **humilde opinión** al respecto.  
   
-[![amazon-not-sending-to-spain](https://i.imgur.com/hdoRdo7.jpg){: style="float: right;"}](<https://www.amazon.co.uk/ref=as_li_ss_tl?_encoding=UTF8&camp=1634&creative=19450&linkCode=ur2&tag={{ site.constants.amazon_uk }}>)
+[![amazon-not-sending-to-spain](https://i.imgur.com/hdoRdo7.jpg){: .align-right}](<https://www.amazon.co.uk/ref=as_li_ss_tl?_encoding=UTF8&camp=1634&creative=19450&linkCode=ur2&tag={{ site.constants.amazon_uk }}>)
 
 Aunque el precio del envío puede ser negligible en según que caso, y [nos puede llegar a interesar por un cambio de divisa bajo]({% post_url 2013-06-04-recomendaciones-trucos-comprar-amazon-uk-espana %}) nos encontramos con **un movimiento de amazon para intentar potenciar sus otras sucursales europeas**, teniendo en cuenta que se ha retirado el envío gratuito para todos los países que disponen de un amazon local.  
   

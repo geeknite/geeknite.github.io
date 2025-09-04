@@ -7,7 +7,7 @@ last_modified_at: '2025-03-08T10:00:00+02:00'
 redirect_to: https://bikinggeek.github.io/2022/04/igpsport-igs630-first-impressions.html
 ---
 
-[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT iGS630)
+[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: .align-right}]({{ site.constants.wsib }}iGPSPORT iGS630)
 
 ## **Introduction**
 

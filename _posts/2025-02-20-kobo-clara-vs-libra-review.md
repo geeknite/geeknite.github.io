@@ -5,7 +5,7 @@ tags: [ereaders, technology, gadgets, comparison, funny]
 description: "An in-depth and humorous comparison of the Kobo Clara Colour and Kobo Libra Colour eReaders. Let's see which one reigns supreme!"
 ---
 
-[![Kobo Clara vs Libra](https://i.imgur.com/EpCQi3gt.jpg){: style="float: right;"}]({{ site.constants.wsib }}kobo-clara-vs-libra)
+[![Kobo Clara vs Libra](https://i.imgur.com/EpCQi3gt.jpg){: .align-right}]({{ site.constants.wsib }}kobo-clara-vs-libra)
 
 Greetings, fellow bookworms and tech enthusiasts! Today, we're diving into a detailed comparison between two titans of the eReader world: the **Kobo Clara Colour** and the **Kobo Libra Colour**. Get comfy with a cup of coffee, and let's embark on this tech-filled journey to find out which device will reign supreme! 📚
 

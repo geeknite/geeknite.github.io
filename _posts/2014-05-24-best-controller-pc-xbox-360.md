@@ -18,7 +18,7 @@ redi:
     - /2014/05/best-controller-pc-xbo360.html
 ---
 
-[![xbox controller](https://i.imgur.com/yT8W6H4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}xbox%20360%20controller)
+[![xbox controller](https://i.imgur.com/yT8W6H4m.jpg){: .align-right}]({{ site.constants.wsib }}xbox%20360%20controller)
 
 After some time without a controller for my PC I decided to get a Xbox 360 controller, as I already have an Xbox 360 and wanted a second controller too, decided to buy a Xbox 360 wireless controller for Windows, wanted also to give my opinion about it.  
   

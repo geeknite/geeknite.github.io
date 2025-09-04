@@ -9,7 +9,7 @@ tags:
 last_modified_at: '2013-03-21T13:51:25.500+01:00'
 ---
 
-![](https://usercontent1.hubstatic.com/7152116.png){: style="float: right;"}
+![](https://usercontent1.hubstatic.com/7152116.png){: .align-right}
 
 [Some days ago we could see how *Nokia* showed their next generation line up of smartphones, equipped with the new *Windows Phone 8*]({%- post_url 2012-06-09-Nokia-smartphones-with-Windows-Phone-8-It-will-really-be-a-change-or-a-step-close-to-the-edge -%}). And yesterday *Apple* presented the new version of their acclaimed phone, the **iPhone 5**. The main innovations are a larger screen and the addition of *4G* wireless technology. It is clear that the idea of this phone was to safeguard its lead over rivals like *Samsung* and *Google*, which some of their smartphones already have these functions.
 

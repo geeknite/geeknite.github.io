@@ -5,7 +5,7 @@ date: 2023-06-23 08:00:00 +0800
 tags: fashion streetwear Trapstar Clothing
 ---
 
-[![Trapstar offers](https://i.imgur.com/hIgXfprm.jpg){: style="float: right;"}]({{ site.constants.wsib }}trapstar)
+[![Trapstar offers](https://i.imgur.com/hIgXfprm.jpg){: .align-right}]({{ site.constants.wsib }}trapstar)
 
 Are you ready to take your fashion game to the next level? If so, you need to check out [**Trapstar Clothing**]({{ site.constants.wsib }}trapstar). **This streetwear brand has been killing the game since day one** and it's not hard to see why. With their *bold designs, graphic tees, and catchy slogans*, Trapstar is all about self-expression and showcasing your unique personality.
 

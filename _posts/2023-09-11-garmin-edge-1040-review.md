@@ -7,7 +7,7 @@ description: "Discover the advanced features of the Garmin Edge 1050, a GPS bike
 redirect_to: https://bikinggeek.github.io/2023/09/garmin-edge-1040-review.html
 ---
 
-![Garmin Edge 1050](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif){: style="float: right;"}
+![Garmin Edge 1050](https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif){: .align-right}
 
 Welcome back to our blog! Today, we're taking a deep dive into the world of cycling with the Garmin Edge 1050, a game-changing GPS bike computer that offers advanced features for serious cyclists.
 

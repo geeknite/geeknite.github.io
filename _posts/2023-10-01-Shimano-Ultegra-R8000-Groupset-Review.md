@@ -13,7 +13,7 @@ description: "Discover why the new Shimano Ultegra R8000 Groupset is a game chan
 redirect_to: https://bikinggeek.github.io/2023/10/Shimano-Ultegra-R8000-Groupset-Review.html
 ---
 
-[![Shimano Ultegra R8000 Groupset](https://i.imgur.com/UmrVWy4m.jpg){: style="float: right;"}]({{ site.constants.wsib }}shimano-ultegra-r8000)
+[![Shimano Ultegra R8000 Groupset](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}shimano-ultegra-r8000)
 
 ## Introduction
 
