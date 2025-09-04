@@ -1,11 +1,11 @@
 ---
 title: "Xbox Review: Is It Still Worth It in 2025?"
-date: '2025-05-02T18:02:22.7534606Z'
+date: '2025-05-02T18:32:35.2592592Z'
 tags:
 - gaming
 - xbox
 - review
-last_modified_at: '2025-07-25T06:29:25.8440059Z'
+last_modified_at: '2025-08-20T18:32:35.2592592Z'
 description: "A detailed and humorous review of Xbox in 2025. Are you still on team Xbox or is it time to switch?"
 ---
 
