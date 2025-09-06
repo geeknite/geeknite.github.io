@@ -53,7 +53,7 @@ One of the best parts of Marvel United: Multiverse is the diverse array of heroe
 
 ### Replayability
 
-With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers endless replayability. No two games are the same, ensuring you'll want to come back for more cosmic battles.
+With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers endless replayability. 
 
 **Expansion Alert**: Keep an eye out for expansions that introduce new heroes, villains, and missions. Your Marvel universe is about to get even bigger.
 
