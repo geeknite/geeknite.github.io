@@ -5,7 +5,7 @@ tags: ['board games', 'review', 'Marvel United', 'multiverse', 'superheroes']
 description: "A hilarious and detailed review of Marvel United: Multiverse Board Game. Find out why this game is a must-have for Marvel fans and board game enthusiasts!"
 ---
 
-[![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}](https://i.imgur.com/Jm8ynpT.jpg)
+[![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel united multiverse)
 
 ## Introduction
 
@@ -78,7 +78,7 @@ Marvel United: Multiverse is a fantastic addition to any board game collection, 
 
 **Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite](https://geeknite.com) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
 
 ---
 
