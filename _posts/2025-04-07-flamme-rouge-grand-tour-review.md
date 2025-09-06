@@ -19,14 +19,6 @@ last_modified_at: '2025-04-07T12:00:00+02:00'
 
 [![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}flamme rouge grand tour)
 
-## Introduction: The Evolution of Cycling Board Games
-
-Welcome, fellow board game enthusiasts! Today, we're diving deep into **Flamme Rouge: Grand Tour**, the expansion that has transformed an already excellent cycling game into a multi-stage epic. If you've been following our [comprehensive racing board games coverage]({%- post_url 2023-06-15-top-10-racing-board-games -%}), you'll know that Flamme Rouge ranks among the top cycling simulations available. This Grand Tour expansion takes everything we love about the base game and elevates it to new heights.
-
-As someone who's spent countless hours with racing board games—from the Formula 1 thrills of [Formula D to the strategic betting of Downforce]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})—I can confidently say that Grand Tour offers something uniquely compelling in the cycling simulation space.
-
----
-
 ## The Core Game
 
 Before we get into the nitty-gritty of the Grand Tour expansion, let’s take a quick refresher on what makes Flamme Rouge such a beloved game. Flamme Rouge is a fast-paced bicycle racing game where players control a team of two cyclists, a Rouleur and a Sprinteur, each with their unique deck of movement cards. The objective? To navigate the peloton, manage your energy, and cross the finish line first.
@@ -54,18 +46,12 @@ To add unpredictability that mirrors real cycling's challenges, Grand Tour intro
 One of Grand Tour's standout features is its diverse track collection. These aren't simple variations—each stage type demands different strategic approaches:
 
 - **Mountain Stages:** Steep climbs that punish aggressive early play but reward calculated risk-taking
-- **Sprint Stages:** Flat routes where positioning and timing become crucial  
+- **Sprint Stages:** Flat routes where positioning and timing become crucial
 - **Time Trial Stages:** Individual tests that add a solo racing element to the multiplayer experience
 
-**Strategic Insight:** Unlike the uniform challenge of base game tracks, Grand Tour's varied stages create natural rhythm changes that mirror real grand tours. Mountain specialists and sprinters each have their moments to shine—much like how different racing games in our collection serve different preferences, from the [tactical depth of HEAT: Pedal to the Metal]({%- post_url 2025-01-12-board-games-recommendations-2025 -%}) to the accessibility of Camel Up.
+**Strategic Insight:** Unlike the uniform challenge of base game tracks, Grand Tour's varied stages create natural rhythm changes that mirror real grand tours.
 
 ### Advanced Team Management Mechanics
-
-One of the highlights of the Grand Tour expansion is the addition of new tracks. These tracks are designed to simulate the grueling multi-stage races seen in real-life grand tours like the Tour de France. Each stage presents unique challenges, from steep climbs to treacherous descents, requiring players to adapt their strategies accordingly.
-
-**Criticism Alert:** While the new tracks add variety, some players might find the steep climbs a bit too punishing, especially if they’ve already exhausted their best movement cards. It’s like trying to climb a mountain with a flat tire—frustrating but memorable.
-
-### Team Management Excellence
 
 Grand Tour introduces sophisticated team management that goes beyond simple rider control. Players must now consider fatigue accumulation across multiple stages, recovery strategies between race days, and how different rider types complement each other throughout the tour.
 
