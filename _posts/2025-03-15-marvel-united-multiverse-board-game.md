@@ -5,7 +5,7 @@ tags: ['board games', 'review', 'Marvel United', 'multiverse', 'superheroes']
 description: "A hilarious and detailed review of Marvel United: Multiverse Board Game. Find out why this game is a must-have for Marvel fans and board game enthusiasts!"
 ---
 
-![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}
+[![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel united multiverse)
 
 ## Introduction
 
@@ -80,10 +80,10 @@ Marvel United: Multiverse is a fantastic addition to any board game collection, 
 
 So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
 
-## Linking You to More Gaming Adventures
+---
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
-- **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+### Other Superpowered Games to Check Out
 
-**Ready to unite and conquer? Click [here]({{ site.constants.wsib }}marvel-united-multiverse) to get your copy now and receive an exclusive discount! Happy adventuring!**
+If you love superhero board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+
+**Ready to embark on a cosmic adventure? Don’t miss out on the fun!**
