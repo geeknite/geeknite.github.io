@@ -1,7 +1,7 @@
 ---
 title: "Marvel United: Multiverse Board Game - A Superpowered Review"
 date: "2025-03-15"
-tags: ['board games', 'review', 'Marvel United', 'multiverse', 'superheroes']
+tags: ['board games', 'review', 'Marvel United', 'multiverse', 'superheroes', 'funny']
 description: "A hilarious and detailed review of Marvel United: Multiverse Board Game. Find out why this game is a must-have for Marvel fans and board game enthusiasts!"
 ---
 
@@ -9,7 +9,7 @@ description: "A hilarious and detailed review of Marvel United: Multiverse Board
 
 ## Introduction
 
-Welcome, true believers! Today, we're diving into the chaotic, superpowered world of **Marvel United: Multiverse Board Game**. If you're a fan of Marvel comics and love board games, this one promises an epic combination of both. Prepare for a cosmic adventure where superheroes clash with villains, and you might even get to save the universe (or destroy it, no judgment here).
+Welcome, true believers! Today, we're diving into the chaotic, superpowered world of **Marvel United: Multiverse Board Game**. If you're a fan of Marvel comics, love board games, and enjoy laughing at your friends’ failures, this one promises an epic combination of all three. Prepare for a cosmic adventure where superheroes clash with villains, and you might even get to save the universe—or destroy it, no judgment here.
 
 ## What is Marvel United: Multiverse?
 
@@ -22,7 +22,7 @@ In Marvel United: Multiverse, players work together to thwart the plans of a das
 ### Components
 
 The game comes with:
-- **Miniatures**: Beautifully crafted miniatures of your favorite Marvel characters. Seriously, they're so detailed you might want to display them proudly on your shelf.
+- **Miniatures**: Beautifully crafted miniatures of your favorite Marvel characters. Seriously, they're so detailed you might want to display them proudly on your shelf—or keep them away from your cat.
 - **Cards**: Each hero has a deck of cards representing their abilities, actions, and special powers.
 - **Game Board**: Various locations from the Marvel universe where battles and missions take place.
 - **Tokens and Markers**: Used to track progress, health, and various effects during the game.
@@ -68,9 +68,9 @@ With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers 
 
 ### Cons
 
-- **Complex Setup**: The initial setup can be time-consuming.
-- **Luck Factor**: Some elements of the game rely heavily on luck.
-- **Expansions Needed**: To keep the game fresh, expansions are almost a must.
+- **Complex Setup**: The initial setup can be time-consuming—seriously, you might want to schedule it like an epic Avengers movie marathon.
+- **Luck Factor**: Some elements of the game rely heavily on luck. If Lady Luck isn't on your side, you'll want to have a backup plan—or just blame Loki.
+- **Expansions Needed**: To keep the game fresh, expansions are almost a must. Prepare your wallet for battle.
 
 ## Final Thoughts
 
