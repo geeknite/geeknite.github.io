@@ -3,10 +3,10 @@ title: "Kobo Clara Review: The Compact eReader with Big Surprises"
 date: 2025-04-10
 tags: [ereaders, technology, gadgets, review, funny]
 description: "A hilarious and insightful review of the Kobo Clara eReader. Find out why this compact device packs a punch in the eReader world!"
-last_modified_at: '2025-07-10T16:26:24.7451927Z'
+last_modified_at: '2025-09-07T17:07:26.6726078Z'
 ---
 
-![Kobo Clara](https://i.imgur.com/EpCQi3gt.jpg){: .align-right}({{ site.constants.wsib }}kobo-clara)
+![Kobo Clara](https://i.imgur.com/EpCQi3gt.jpg){: style="float: right;"}({{ site.constants.wsib }}kobo-clara)
 
 Hello, fellow book enthusiasts and tech aficionados! Today, we're cracking open the digital spine of the **Kobo Clara**, the compact eReader that promises to deliver a big reading experience without breaking your back or your bank. So grab your reading glasses and let's dive into this tech tale! 📚🔍
 
@@ -105,6 +105,6 @@ At the time of writing this review:
 
 **Ready to enhance your reading experience?** Grab the Kobo Clara now and dive into your next literary adventure! 📚
 
-[![Kobo Clara](https://i.imgur.com/EpCQi3gt.jpg){: .align-right}]({{ site.constants.wsib }}kobo-clara)
+[![Kobo Clara](https://i.imgur.com/EpCQi3gt.jpg){: style="float: right;"}]({{ site.constants.wsib }}kobo-clara)
 
 Happy reading! 📚💨
