@@ -3,7 +3,7 @@ title: "To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and
 tags: [board games, card games, sleeves, humor, board gaming]
 description: "Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!"
 date: "2021-02-21"
-last_modified_at: '2023-07-21T00:00:00+02:00'
+last_modified_at: '2023-09-07T12:15:53.5163779Z'
 ---
 
 [![game sleeves](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}sleeves)
@@ -76,7 +76,7 @@ To sleeve or not to sleeve, that is the age-old question in the board gaming com
 
 ### **6. The Space-Conscious Player**
 
-Your board game shelf is full to the brim, and you need to squeeze every last card into your boxes. This is where snugged sleeves come to the rescue! They ensure that your cards fit perfectly without creating the chaos of oversized boxes and wasted space.
+Your board game shelf is full to the brim, and you need to squeeze every last card into your boxes. This is where snugged sleeves come to the rescue. They ensure that your cards fit perfectly without creating the chaos of oversized boxes and wasted space.
 
 ## Linking You to More Gaming Adventures
 
@@ -94,4 +94,5 @@ There you have it, folks! The great debate of to sleeve or not to sleeve. Ultima
 
 Remember, board gaming is about fun, camaraderie, and creating memories with loved ones. So, sleeve responsibly and let the gaming adventures begin!
 
-*May your rolls be ever in your favor and your cards forever protected!*
+**May your rolls be ever in your favor and your cards forever protected!**
+
