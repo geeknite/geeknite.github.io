@@ -1,7 +1,6 @@
 ---
 title: "Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders"
 tags: [enduro, helmets, bluegrass, rogue, review, mountain bike, safety, cycling gear]
-filename: 2023-07-18-bluegrass-rogue-helmet-review.md
 description: "Complete review of the Bluegrass Rogue enduro helmet: design, fit, ventilation, safety features and comparison with Bell Super 3R MIPS and other alternatives"
 date: 2023-07-18
 last_modified_at: '2025-08-13T10:00:00+02:00'
@@ -9,7 +8,7 @@ excerpt: "Detailed analysis of the Bluegrass Rogue helmet covering design, venti
 redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
 ---
 
-[![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}]({{ site.constants.wsib }}Bluegrass Rogue)
+![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}
 
 If you're looking for a new enduro helmet that combines style, comfort, and functionality, you might want to check out the **Bluegrass Rogue helmet**. This helmet has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for mountain bikers who want to ride hard and have fun.
 
@@ -29,7 +28,7 @@ The Bluegrass Rogue helmet also has some other design elements that enhance its 
 
 ## Fit
 
-The fit of the Bluegrass Rogue helmet is another aspect that makes it a great choice for enduro riders. This helmet has a **wide fit** that accommodates different head shapes and sizes. It also has an **adjustable retention system** that lets you dial in the perfect fit for your head. The retention system is adjustable between three positions in height, and it also has a dial at the back that tightens or loosens the fit around your head.
+The fit of the Bluegrass Rogue helmet is another aspect that makes it a great choice for enduro riders. It has an **adjustable retention system** that lets you dial in the perfect fit for your head. The retention system is adjustable between three positions in height, and it also has a dial at the back that tightens or loosens the fit around your head.
 
 The Bluegrass Rogue helmet also has a **comfortable fit** that feels snug and secure without being too tight or too loose. The helmet has a **lightweight shell** that weighs only 750 grams (size M), which makes it easy to wear for long periods of time. The helmet also has a **soft padding** that cushions your head and absorbs sweat. The padding is removable and washable, so you can keep it clean and fresh.
 
@@ -55,17 +54,7 @@ The performance of the Bluegrass Rogue helmet is another aspect that makes it a 
 
 The Bluegrass Rogue helmet performs well in **different terrains** and **different weather conditions**. Whether you're riding on smooth trails or rough tracks, on sunny days or rainy days, the Bluegrass Rogue helmet adapts to your needs and preferences. The helmet has a **versatile design** that works well with different types of eyewear, clothing, and accessories. The helmet also has a **stylish look** that complements your riding style and personality.
 
-The Bluegrass Rogue helmet also performs well in **different riding situations** and **different riding styles**. Whether you're riding casually or competitively, solo or with friends, fast or slow, the Bluegrass Rogue helmet supports your goals and ambitions. The helmet has a **functional design** that enhances your vision, ventilation, and protection. The helmet also has an **enthusiastic tone** that motivates you to ride harder and have more fun.
-
-## Comparison with Other Enduro Helmets
-
-The Bluegrass Rogue helmet is not the only enduro helmet on the market. There are other similar helmets that offer comparable features and benefits for enduro riders. Here are some of the other enduro helmets that you might want to consider:
-
-- [**Bell Super 3R MIPS**]({%- post_url 2020-03-18-bell-super-dh-mips -%}): This helmet is one of the most popular enduro helmets on the market. It has a removable chin guard that allows you to switch between full-face and half-shell modes. It also has a MIPS system that reduces rotational forces on your head in case of an angled impact. It costs $230.
-- **Fox Proframe MIPS**: This helmet is one of the lightest full-face enduro helmets on the market. It weighs only 750 grams (size M), which is the same as the Bluegrass Rogue helmet. It also has a MIPS system that reduces rotational forces on your head in case of an angled impact. It costs $250.
-- **Leatt DBX 4.0**: This helmet is one of the most ventilated full-face enduro helmets on the market. It has 22 vents that provide excellent airflow and cooling to your head. It also has a 360° Turbine Technology that reduces rotational forces on your head in case of an angled impact. It costs $230.
-
-For more insights on choosing the right gear for your riding style, check out our guide on [mountain bike selection based on budget]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}) or learn about [trail bike characteristics]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%}).
+The Bluegrass Rogue helmet also performs well in **different riding situations** and **different riding styles**. Whether you're riding casually or competitively, solo or with friends, fast or slow, the Bluegrass Rogue helmet supports your goals and ambitions.
 
 ## Conclusion
 
