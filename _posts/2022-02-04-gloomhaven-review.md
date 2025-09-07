@@ -4,7 +4,7 @@ date: 2022-02-04
 categories: [board games, review, gloomhaven]
 tags: [Gloomhaven, gaming, board games, review]
 description: "Explore the depths of Gloomhaven in this funny and detailed review. Find out why this game is a must-have for dungeon crawler enthusiasts."
-last_modified_at: '2025-04-11T10:00:00+02:00'
+last_modified_at: '2025-09-07T12:05:20.7918871Z'
 ---
 
 [![Gloomhaven](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}gloomhaven)
@@ -49,6 +49,16 @@ The storyline progresses as you complete scenarios. It's like reading a fantasy 
 
 There are numerous side missions and character-specific quests that add depth and replayability. Characters level up and evolve, which can lead to new abilities and items. Just be careful not to get too attached — characters can retire and leave the game.
 
+## Buttons & Bugs
+
+### The Button Conundrum
+
+Ah, the buttons! If you thought setting up the game was tricky, wait until you try to navigate the components with the game's myriad of buttons. You'll feel like you're trying to pilot a spaceship! The buttons can be a bit finicky and sometimes behave like they have a mind of their own. You might end up pressing the same button multiple times, hoping it works!
+
+### Bug Fixes
+
+Despite its complex mechanics and intricate setup, Gloomhaven has had its fair share of bugs. But fear not, brave adventurers! The developers have been diligent in fixing bugs and improving gameplay. Regular updates and patches have helped smoothen out the experience, making the dungeon crawling less of a literal bug hunt.
+
 ## Pros and Cons
 
 ### Pros
@@ -62,6 +72,8 @@ There are numerous side missions and character-specific quests that add depth an
 - **Complex Setup**: Be prepared to spend a good amount of time setting up each scenario.
 - **Lengthy Campaign**: Not for the faint-hearted or the commitment-phobic.
 - **Rule Overload**: The rule book is hefty. You might need a PhD in rule interpretation.
+- **Button Conundrum**: Navigating the components can be tricky with the game's myriad of buttons.
+- **Bug Fixes Required**: Regular updates and patches are necessary to smoothen out the gameplay experience.
 
 ## Final Thoughts
 
@@ -70,3 +82,11 @@ Gloomhaven is not just a board game; it’s an experience. If you’re ready to 
 **Ready to embark on an epic adventure? Grab your copy of Gloomhaven today and start your journey!**
 
 {% include amazon.html asin="B01L1FNMVO" imageUrl="https://i.imgur.com/BFG0Rye.jpg" %}
+
+## Linking You to More Gaming Adventures
+
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+
+**Ready to unite and conquer? Click [here]({{ site.constants.wsib }}marvel-united-multiverse) to get your copy now and receive an exclusive discount! Happy adventuring!**
