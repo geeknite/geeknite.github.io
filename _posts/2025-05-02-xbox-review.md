@@ -15,7 +15,7 @@ Ah, the Xbox. The console that's been giving PlayStation a run for its money sin
 
 ---
 
-## Hardware: A Beast or a Bust?
+### Hardware: A Beast or a Bust?
 
 First things first, let's talk hardware. The Xbox Series X is an absolute beast. With specs that could make your gaming PC blush, it's got everything you need to run the latest and greatest games without breaking a sweat.
 
@@ -30,7 +30,7 @@ First things first, let's talk hardware. The Xbox Series X is an absolute beast.
 
 ---
 
-## Exclusives: Who Has the Best Games?
+### Exclusives: Who Has the Best Games?
 
 - **Xbox Series X**:  
   - *Halo Infinite*  
@@ -42,7 +42,7 @@ First things first, let's talk hardware. The Xbox Series X is an absolute beast.
 
 ---
 
-## Online Services: Xbox Game Pass or Xbox Live Gold?
+### Online Services: Xbox Game Pass or Xbox Live Gold?
 
 Xbox has doubled down on their online services, offering Xbox Game Pass and Xbox Live Gold. Here's the breakdown:
 
@@ -53,7 +53,7 @@ Xbox has doubled down on their online services, offering Xbox Game Pass and Xbox
 
 ---
 
-## Community and Ecosystem: The Xbox Vibe
+### Community and Ecosystem: The Xbox Vibe
 
 The Xbox Series X isn't just about specs and services. It's also about the community and ecosystem. Xbox Game Pass and Xbox Live Gold create a robust environment for gamers to thrive in. And let's not forget about cross-platform play which allows you to team up with friends on PC. Plus, the Xbox Series X is backward compatible, so you can still enjoy your favorite classics from the Xbox One and Xbox 360 days.
 
@@ -61,7 +61,7 @@ The Xbox Series X isn't just about specs and services. It's also about the commu
 
 ---
 
-## Design: Sleek or Geek?
+### Design: Sleek or Geek?
 
 The Xbox Series X is often compared to a mini-fridge, but it's far more than a kitchen appliance. It's sleek, modern, and designed to fit right into any gaming setup. Just make sure you have a strong enough shelf to hold this beast.
 
@@ -69,7 +69,7 @@ The Xbox Series X is often compared to a mini-fridge, but it's far more than a k
 
 ---
 
-## Conclusion: Should You Buy an Xbox in 2025?
+### Conclusion: Should You Buy an Xbox in 2025?
 
 If you're searching for a powerful console with a plethora of games, the **Xbox Series X** is a solid choice. Its hardware is impressive, the exclusives are exciting, and the online services are top-notch. Plus, the Xbox community is as vibrant as ever.
 
