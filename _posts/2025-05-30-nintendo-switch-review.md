@@ -145,4 +145,6 @@ La Nintendo Switch es como ese amigo que siempre llega tarde pero trae pizza: no
 
 Con la llegada de la [Nintendo Switch 2]({%- post_url 2025-08-13-nintendo-switch-2-review -%}), la Switch original se ha convertido en una opción más asequible para quienes quieren entrar en el ecosistema Nintendo sin gastar una fortuna. Los exclusivos siguen siendo espectaculares, y la versatilidad híbrida sigue siendo única en el mercado.
 
-**¿Qué opinas? ¿La Switch sigue siendo relevante en 2025 o es hora de pasar a la Switch 2?**
+**¿Qué opinas? ¿La Switch sigue siendo relevante en 2025 o es hora de pasar a la Switch 2? Deja tu comentario abajo y participa en nuestro sorteo de tarjetas de regalo de Amazon!**
+
+{% include amazon.html asin="B09XX5FVHJ" %}
