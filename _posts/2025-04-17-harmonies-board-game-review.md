@@ -1,6 +1,7 @@
 ---
-date: 2025-04-17 08:00:00 +0200
-tags: [board games, review, harmonies, strategy games, tile placement]
+title: "Harmonies Board Game Review: A Symphony of Strategy and Beauty"
+date: '2025-04-17'
+tags: ['board games', 'review', 'harmonies', 'strategy games', 'tile placement']
 description: "Comprehensive review of Harmonies board game by Libellud. Discover how this beautiful tile-placement strategy game combines nature themes with satisfying gameplay mechanics."
 last_modified_at: '2025-08-18T10:00:00+02:00'
 ---
@@ -13,13 +14,13 @@ Welcome, fellow board game enthusiasts! Today, we dive into **Harmonies**, a stu
 
 **Harmonies** is a beautifully crafted tile-placement strategy game designed by Johan Benvenuto and published by Libellud. Unlike the high-speed action of games in our [ultimate racing games guide]({%- post_url 2025-01-12-board-games-recommendations-2025 -%}), Harmonies focuses on creating serene landscapes and natural habitats. The game accommodates 1-4 players and takes about 30-45 minutes to play, making it perfect for both casual and serious gaming sessions.
 
-### Components and Quality
+## Components and Quality
 
 Harmonies comes with a beautifully illustrated board, a set of music note tokens, player pieces shaped like musical instruments, and a deck of cards representing various musical elements. The artwork is stunning, and the component quality is top-notch – it's like holding a miniature orchestra in your hands.
 
 **Criticism Alert**: While the components are beautiful, the music note tokens can be a bit fiddly to handle during intense gameplay. And let's not forget the rulebook – it’s clear but might require a maestro to interpret some of the finer details.
 
-### Gameplay
+## Gameplay
 
 Harmonies is all about creating the perfect symphony. Players take turns placing music note tokens on the board to form melodies, harmonies, and chords. Each move requires strategic planning and a bit of luck. The goal is to score the most points by creating the most complex and beautiful musical arrangements.
 
@@ -57,7 +58,7 @@ One of Harmonies' greatest strengths is its accessibility paired with strategic 
 
 ## How Harmonies Compares to Other Strategy Games
 
-Harmonies occupies a unique niche in the board gaming landscape. While it shares the strategic tile placement of games like Azul or Cascadia, it differentiates itself with its nature theme and habitat-building focus. Unlike the intense competition found in our [racing board games collection]({%- post_url 2025-01-12-board-games-recommendations-2025 -%}), Harmonies offers a more meditative, peaceful gaming experience that still delivers satisfying strategic depth.
+Harmonies occupies a unique niche in the board gaming landscape. While it shares the strategic tile placement of games like Azul or Cascadia, it differentiates itself with its nature theme and habitat-building focus.
 
 ## Final Verdict
 
