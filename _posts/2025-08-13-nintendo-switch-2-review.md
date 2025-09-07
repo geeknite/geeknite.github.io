@@ -57,6 +57,19 @@ Ah, the infamous Joy-Con drift. It's still an issue, and it's about as annoying 
 
 The Switch 2 is not cheap. It's priced at $399, which is a bit steep for a console that's not as powerful as its competitors. But if you're a die-hard Nintendo fan, you might find it worth every penny.
 
+### The Pros and Cons
+
+#### Pros
+- 4K graphics
+- Enhanced portability
+- More storage
+- Exclusive titles
+
+#### Cons
+- Still underpowered compared to competitors
+- Joy-Con drift remains an issue
+- High price tag
+
 ### Should You Buy It?
 
 The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability. If you love gaming on-the-go and can't resist Nintendo's exclusive titles, it's definitely worth considering. But if you're looking for a powerhouse console with the latest technology, you might want to look elsewhere.
