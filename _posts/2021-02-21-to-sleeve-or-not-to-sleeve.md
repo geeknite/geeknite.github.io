@@ -3,7 +3,7 @@ title: "To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and
 tags: [board games, card games, sleeves, humor, board gaming]
 description: "Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!"
 date: "2021-02-21"
-last_modified_at: '2025-09-07T19:59:33.0332269Z'
+last_modified_at: '2023-07-21T00:00:00+02:00'
 ---
 
 [![game sleeves](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}sleeves)
@@ -30,13 +30,13 @@ Before you rush off to sleeve your entire collection, let's embark on a quirky j
 
 ### _*Cons of Sleeving Your Games*_
 
-1. **Cardzilla!**: Adding sleeves to your cards might transform them into oversized monsters that no longer fit into the game's original box. It's like trying to squeeze an elephant into a phone booth!
+1. **Cardzilla!**: Adding sleeves to your cards might transform them into oversized monsters that no longer fit into the game's original box or insert. It's like trying to squeeze an elephant into a phone booth!
 
 2. **Bank Breaker**: Premium sleeves may be exquisite, but they come at a cost – your hard-earned cash! Before you know it, you've spent more on sleeves than the games themselves.
 
 3. **Snug Life**: Snugging your most played games might sound like a great idea, but what about your less-played games? You'll end up with a mix of sleeve-clad and sleeveless games, like a half-dressed board game party.
 
-4. **Card Stuck-o-phobia**: Ever experienced the horror of shuffling sleeved cards for the first time? Suddenly, you become a card magician, attempting to bridge shuffle without launching cards across the room.
+4. **Card Stuck-o-phobia**: Ever experienced the horror of shuffling sleeved cards for the first time? Suddenly, you become a card magician, clumsily attempting to bridge shuffle without launching cards across the room.
 
 5. **The Great Divider**: Not all board game communities embrace sleeving. Some players consider it sacrilege, arguing that the tactile feel of unsleeved cards is part of the gaming experience. *To sleeve or not to sleeve, that is the question.*
 
