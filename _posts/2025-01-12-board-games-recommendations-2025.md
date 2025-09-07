@@ -77,43 +77,6 @@ PitchCar takes the action off the board and onto a tabletop track, with players 
 
 **Expansion Alert:** The Extension 1 and 2 expansions add new track pieces and obstacles, making the game even more challenging. Can you master the new tracks?
 
-## Cyclades: Insert Cyclades + All Expansions
-
-Cyclades is a fantastic mythological board game where players compete to build cities, recruit troops, and summon mythological creatures. With a beautiful map and strategic depth, it's a favorite among many board gamers.
-
-**Expansion Alert**: Cyclades has several expansions that add extra layers of strategy and excitement:
-
-### 1. Cyclades: Titans Expansion
-
-The Titans expansion introduces a new game mode and additional components. Players can now build Metropolises by combining four unique buildings: Port, Temple, Fortress, and University. Titans also allow players to build Titanships, adding a fresh layer of naval warfare.
-
-### 2. Cyclades: Hades Expansion
-
-The Hades expansion brings the underworld to the game. Players can summon powerful undead troops and heroes to change the tide of battle. This expansion adds a new strategic element, making it crucial for players to plan their moves carefully.
-
-### 3. Cyclades: Monuments Expansion
-
-This expansion adds various monuments that can be built, providing players with unique bonuses and advantages. It also introduces new strategies for players to explore.
-
-### 4. Cyclades: C3K - Creatures Crossover Cyclades/Kemet
-
-C3K is a crossover expansion that adds mythical creatures from the game Kemet to Cyclades. This expansion provides new creatures with special abilities that can be used to outwit opponents.
-
-### 5. Cyclades: Ancient World Expansion
-
-The Ancient World expansion brings even more mythological creatures and strategic options. Players can summon creatures like the Phoenix and the Kraken to fight for their cities.
-
 ## Conclusion
 
 From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming. **Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
-
-**Call to Action:** Don't miss out on the ultimate board gaming experience! Click [here]({{ site.constants.wsib }}cyclades) to get your copy of Cyclades and its expansions now and receive an exclusive discount! Happy gaming!
-
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
-
-**For more reviews and board game recommendations, check out our previous posts:**
-
-- [Flamme Rouge Grand Tour Review]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
-- [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
