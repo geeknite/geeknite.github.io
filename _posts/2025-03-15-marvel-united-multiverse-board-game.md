@@ -55,7 +55,9 @@ One of the best parts of Marvel United: Multiverse is the diverse array of heroe
 
 With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers endless replayability. No two games are the same, ensuring you'll want to come back for more cosmic battles.
 
-**Expansion Alert**: Keep an eye out for expansions that introduce new heroes, villains, and missions. Your Marvel universe is about to get even bigger.
+### Expansion Alert
+
+Keep an eye out for expansions that introduce new heroes, villains, and missions. Your Marvel universe is about to get even bigger.
 
 ## Pros and Cons
 
@@ -72,21 +74,6 @@ With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers 
 - **Luck Factor**: Some elements of the game rely heavily on luck.
 - **Expansions Needed**: To keep the game fresh, expansions are almost a must.
 
-## Additional Tips
-
-### Strategy Tips
-
-Here are some strategies to help you become the ultimate superhero team:
-
-1. **Know Your Hero**: Understand your hero's strengths and weaknesses. Use their abilities to your advantage.
-2. **Plan Together**: Communication is key. Plan your moves with your teammates to maximize effectiveness.
-3. **Keep an Eye on the Villain**: Don't get too carried away with side missions. Keep an eye on the villain's progress and adapt your strategy accordingly.
-4. **Utilize Locations**: Make use of the various locations on the board. Some offer bonuses or special effects that can turn the tide of battle.
-
-### Funny Anecdotes
-
-In one game, our Hulk player kept smashing everything in sight, including teammates' carefully laid plans. It was chaotic, hilarious, and somehow we still won.
-
 ## Final Thoughts
 
 Marvel United: Multiverse is a fantastic addition to any board game collection, especially for Marvel fans. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to saving the multiverse.
@@ -95,9 +82,7 @@ Marvel United: Multiverse is a fantastic addition to any board game collection, 
 
 So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
 
----
-
-### Other Superpowered Games to Check Out
+## Other Superpowered Games to Check Out
 
 If you love superhero board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
