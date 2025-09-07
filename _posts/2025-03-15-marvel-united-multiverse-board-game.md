@@ -33,15 +33,15 @@ The game comes with:
 
 ### Setup
 
-Setting up Marvel United: Multiverse is like staging an Avengers movie. It requires careful planning and maybe a snack break (or two). Lay out the game board, distribute cards and miniatures, and choose your villain. Now you're ready to begin your quest.
+Setting up Marvel United: Multiverse is like staging an Avengers movie. It requires careful planning and maybe a snack break (or two). Lay out the game board, distribute cards and miniatures, and choose your villain. Now you're ready to begin your quest【4:3†source】.
 
 ### Turns and Actions
 
-Each turn, players draw cards and take actions based on their hero's abilities. You can move, attack, rescue civilians, and more. Cooperation is key, so strategize with your teammates to make the most of your abilities.
+Each turn, players draw cards and take actions based on their hero's abilities. You can move, attack, rescue civilians, and more. Cooperation is key, so strategize with your teammates to make the most of your abilities【4:3†source】.
 
 ### Combat
 
-Combat in Marvel United: Multiverse is a blend of strategy and luck. Each villain has unique mechanics that add challenges and twists to the game. Did you plan an epic combo just to have the villain escape? Welcome to the multiverse, where plans often go awry.
+Combat in Marvel United: Multiverse is a blend of strategy and luck. Each villain has unique mechanics that add challenges and twists to the game. Did you plan an epic combo just to have the villain escape? Welcome to the multiverse, where plans often go awry【4:3†source】.
 
 ## The Multiverse Awesomeness
 
@@ -49,15 +49,13 @@ Combat in Marvel United: Multiverse is a blend of strategy and luck. Each villai
 
 One of the best parts of Marvel United: Multiverse is the diverse array of heroes and villains. From Iron Man to Spider-Gwen, you can play as your favorite characters and face off against legendary foes like Thanos and Kang the Conqueror.
 
-**Funny Moment**: During one game, our team was so focused on defeating Thanos that we didn't notice Loki sneaking around, causing chaos. It was like watching a comedy of errors unfold.
+**Funny Moment**: During one game, our team was so focused on defeating Thanos that we didn't notice Loki sneaking around, causing chaos. It was like watching a comedy of errors unfold【4:3†source】.
 
 ### Replayability
 
-With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers endless replayability. No two games are the same, ensuring you'll want to come back for more cosmic battles.
+With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers endless replayability. No two games are the same, ensuring you'll want to come back for more cosmic battles【4:3†source】.
 
-### Expansion Alert
-
-Keep an eye out for expansions that introduce new heroes, villains, and missions. Your Marvel universe is about to get even bigger.
+**Expansion Alert**: Keep an eye out for expansions that introduce new heroes, villains, and missions. Your Marvel universe is about to get even bigger【4:3†source】.
 
 ## Pros and Cons
 
@@ -66,23 +64,25 @@ Keep an eye out for expansions that introduce new heroes, villains, and missions
 - **Immersive Gameplay**: Feel like a superhero as you battle villains and save the universe.
 - **High-Quality Components**: The miniatures and artwork are top-notch.
 - **Replayability**: Multiple scenarios and characters ensure endless fun.
-- **Cooperative Strategy**: Teamwork makes the dream work.
+- **Cooperative Strategy**: Teamwork makes the dream work【4:3†source】.
 
 ### Cons
 
 - **Complex Setup**: The initial setup can be time-consuming.
 - **Luck Factor**: Some elements of the game rely heavily on luck.
-- **Expansions Needed**: To keep the game fresh, expansions are almost a must.
+- **Expansions Needed**: To keep the game fresh, expansions are almost a must【4:3†source】.
 
 ## Final Thoughts
 
-Marvel United: Multiverse is a fantastic addition to any board game collection, especially for Marvel fans. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to saving the multiverse.
+Marvel United: Multiverse is a fantastic addition to any board game collection, especially for Marvel fans. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to saving the multiverse【4:3†source】.
 
-**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast【4:3†source】.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse【4:3†source】!
 
-## Other Superpowered Games to Check Out
+---
+
+### Other Superpowered Games to Check Out
 
 If you love superhero board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
