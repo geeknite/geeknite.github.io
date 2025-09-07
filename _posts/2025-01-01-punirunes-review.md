@@ -47,17 +47,9 @@ In Punirunes, currency is earned primarily through mini-games. This currency can
 
 ## Criticism: Let’s Get Real
 
-While Punirunes is undeniably charming, it’s not without its flaws.
-
-### The Tactile Button
-
-The tactile button, while innovative, can sometimes feel unresponsive, especially during longer play sessions. It’s like your pet is saying, “Not now, human,” which can be frustrating when you’re trying to care for it.
-
-### Repetitive Mini-Games
+While Punirunes is undeniably charming, it’s not without its flaws. The tactile button, while innovative, can sometimes feel unresponsive, especially during longer play sessions. It’s like your pet is saying, “Not now, human,” which can be frustrating when you’re trying to care for it.
 
 The mini-games, while fun, can become repetitive over time. A bit more variety would go a long way in keeping players engaged. Additionally, the lack of events or achievements might make the game feel a bit limited for those looking for more structured goals.
-
-### Energy System
 
 And let’s not forget the energy system. While it’s not as restrictive as in some other games, it can still feel like a barrier during longer play sessions. Sometimes you just want to spend an hour pampering your pet without interruptions!
 
@@ -69,6 +61,6 @@ Punirunes is a delightful virtual pet toy that offers a unique and engaging expe
 
 If you’re a fan of virtual pets or just looking for a fun and interactive toy, Punirunes is definitely worth checking out. Its charming design, rewarding growth system, and absence of pay-to-win mechanics make it a great choice for players of all ages.
 
-**Ready to embark on an adventure with Punirunes? Find the best prices online with** [{{ site.constants.wsibName }}]({{ site.constants.wsib }}punirunes).
+**Ready to embark on an adventure with Punirunes? Find the best prices online with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}punirunes).**
 
 We highly recommend giving Punirunes a try.
