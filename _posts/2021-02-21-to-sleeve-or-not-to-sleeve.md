@@ -3,7 +3,7 @@ title: "To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and
 tags: [board games, card games, sleeves, humor, board gaming]
 description: "Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!"
 date: "2021-02-21"
-last_modified_at: '2023-09-07T00:00:00+02:00'
+last_modified_at: '2023-07-21T00:00:00+02:00'
 ---
 
 [![game sleeves](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}sleeves)
@@ -46,37 +46,37 @@ Fear not, dear reader! As with most things in life, there's a solution for every
 
 1. **Normal Sleeves**: The foot soldiers of card protection – affordable and abundant. Normal sleeves offer basic protection for those games you don't play as often or ones that come with insert trays and ample space. Grab these for your casual gaming sessions and save some coins for a rainy day!
 
-2. **Premium Sleeves**: The aristocrats of card protection – opulent, stylish, and, well, a tad extravagant. Reserve premium sleeves for your most beloved games, the ones you play more frequently and wish to preserve in all their splendor. They'll thank you for the fancy upgrade!【4:0†source】
+2. **Premium Sleeves**: The aristocrats of card protection – opulent, stylish, and, well, a tad extravagant. Reserve premium sleeves for your most beloved games, the ones you play more frequently and wish to preserve in all their splendor. They'll thank you for the fancy upgrade!
 
-3. **Snugged Sleeves**: The space-saving heroes – custom-fit for games with tight boxes and minimal inserts. Snugged sleeves ensure that your cards fit like a glove, without creating unnecessary bulk in the game box. Use these for games where space is at a premium!【4:1†source】
+3. **Snugged Sleeves**: The space-saving heroes – custom-fit for games with tight boxes and minimal inserts. Snugged sleeves ensure that your cards fit like a glove, without creating unnecessary bulk in the game box. Use these for games where space is at a premium!
 
 ## To Sleeve or Not to Sleeve: That is the Question
 
-Sleeving your games is not a decision to be taken lightly, for it will impact the very essence of your gaming experience. Some gamers view sleeves as a necessity, while others see them as an unnecessary luxury. To help you navigate this conundrum, let's break down the scenarios where sleeves shine and where they might not be the perfect fit.【4:2†source】
+Sleeving your games is not a decision to be taken lightly, for it will impact the very essence of your gaming experience. Some gamers view sleeves as a necessity, while others see them as an unnecessary luxury. To help you navigate this conundrum, let's break down the scenarios where sleeves shine and where they might not be the perfect fit.
 
 ### **1. The Hardcore Gamer's Dilemma**
 
-You're the type of gamer who treats board games like a sacred ritual. Your collection is an altar, and your games are cherished relics. In this case, sleeving might be a no-brainer. Protecting your games is essential to keep the gaming gods happy and ensure your cards remain pristine for generations to come.【4:3†source】
+You're the type of gamer who treats board games like a sacred ritual. Your collection is an altar, and your games are cherished relics. In this case, sleeving might be a no-brainer. Protecting your games is essential to keep the gaming gods happy and ensure your cards remain pristine for generations to come【4:0†source】【4:1†source】.
 
 ### **2. The Nonchalant Player's Take**
 
-On the opposite end of the spectrum, we have the casual player. Your board games have seen better days, and you're proud to display the battle scars and coffee stains as trophies of gaming memories. Sleeving might not be on your radar, and that's okay. Embrace the well-worn charm of your games and revel in the nostalgia they evoke.【4:4†source】
+On the opposite end of the spectrum, we have the casual player. Your board games have seen better days, and you're proud to display the battle scars and coffee stains as trophies of gaming memories. Sleeving might not be on your radar, and that's okay. Embrace the well-worn charm of your games and revel in the nostalgia they evoke【4:2†source】.
 
 ### **3. The Terrified Tidier**
 
-If you're the type of gamer who shudders at the sight of even a single bent corner, then sleeving is your savior. Gone are the days of sweaty palms ruining cards during intense gameplay. With sleeves, your cards are safe and sound, protected from clumsy hands and accidental spills.【4:1†source】
+If you're the type of gamer who shudders at the sight of even a single bent corner, then sleeving is your savior. Gone are the days of sweaty palms ruining cards during intense gameplay. With sleeves, your cards are safe and sound, protected from clumsy hands and accidental spills【4:2†source】.
 
 ### **4. The Fashionable Gamer**
 
-Let's be honest; sleeves add a touch of elegance to your games. Just like a tailored suit or a designer dress, premium sleeves make a statement. You take pride in your meticulously organized and visually stunning game collection, and sleeves are the final touch that ties everything together.【4:3†source】
+Let's be honest; sleeves add a touch of elegance to your games. Just like a tailored suit or a designer dress, premium sleeves make a statement. You take pride in your meticulously organized and visually stunning game collection, and sleeves are the final touch that ties everything together【4:2†source】.
 
 ### **5. The Unconvinced Traditionalist**
 
-To sleeve or not to sleeve, that is the age-old question in the board gaming community. Traditionalists argue that sleeving detracts from the tactile experience of handling unsleeved cards. They believe that the natural wear and tear add character to the game and make each set of cards unique.【4:5†source】
+To sleeve or not to sleeve, that is the age-old question in the board gaming community. Traditionalists argue that sleeving detracts from the tactile experience of handling unsleeved cards. They believe that the natural wear and tear add character to the game and make each set of cards unique【4:2†source】.
 
 ### **6. The Space-Conscious Player**
 
-Your board game shelf is full to the brim, and you need to squeeze every last card into your boxes. This is where snugged sleeves come to the rescue! They ensure that your cards fit perfectly without creating the chaos of oversized boxes and wasted space.【4:5†source】
+Your board game shelf is full to the brim, and you need to squeeze every last card into your boxes. This is where snugged sleeves come to the rescue! They ensure that your cards fit perfectly without creating the chaos of oversized boxes and wasted space.
 
 ## Linking You to More Gaming Adventures
 
@@ -90,8 +90,8 @@ As promised, here are some links to other captivating board game reads:
 
 For all your card sleeve shopping needs, check out **[{{ site.constants.wsibName }}]({{ site.constants.wsib }})** – a treasure trove of prices and choices that will leave your cards feeling snazzy!
 
-There you have it, folks! The great debate of to sleeve or not to sleeve. Ultimately, the decision lies in your gaming heart. Whether you prefer the tactile pleasure of unsleeved cards or the comforting embrace of premium sleeves, what matters most is that you enjoy the game!【4:0†source】
+There you have it, folks! The great debate of to sleeve or not to sleeve. Ultimately, the decision lies in your gaming heart. Whether you prefer the tactile pleasure of unsleeved cards or the comforting embrace of premium sleeves, what matters most is that you enjoy the game!
 
-Remember, board gaming is about fun, camaraderie, and creating memories with loved ones. So, sleeve responsibly and let the gaming adventures begin!【4:2†source】
+Remember, board gaming is about fun, camaraderie, and creating memories with loved ones. So, sleeve responsibly and let the gaming adventures begin!
 
 *May your rolls be ever in your favor and your cards forever protected!*
