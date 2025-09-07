@@ -11,7 +11,7 @@ tags:
 last_modified_at: '2023-06-20T12:00:00 +0200'
 ---
 
-¡Saludos, *jugadores entusiastas y curiosos* de todo el mundo! ¡Estamos emocionados de presentarles nuestro canal de Twitch **@xocmetal**, el destino definitivo para todos los fanáticos de los juegos por turnos y mucho más! Aquí es donde la *diversión, la emoción y la comunidad* se fusionan para crear una experiencia de transmisión única. Permítannos llevarlos a un viaje *inolvidable* a través de los mundos virtuales, desde el caos medieval de [**Crusader Kings III**]({%- post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game -%}) hasta las aventuras épicas de [**Persona 5R**]({%- post_url 2022-04-23-persona-5-royal-review -%}). ¡Y eso es solo el comienzo!
+¡Saludos, *jugadores entusiastas y curiosos* de todo el mundo! ¡Estamos emocionados de presentarles nuestro canal de Twitch **@xocmetal**, el destino definitivo para todos los fanáticos de los juegos por turnos y mucho más! Aquí es donde la *diversión, la emoción y la comunidad* se fusionan para crear una experiencia de transmisión única. Permítannos llevarlos a un viaje *inolvidable* a través de los mundos virtuales, desde el caos medieval de [**Crusader Kings III**]({% post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game %}) hasta las aventuras épicas de [**Persona 5R**]({% post_url 2022-04-23-persona-5-royal-review %}). ¡Y eso es solo el comienzo!
 
 <iframe src="https://player.twitch.tv/?channel=xocmetal&parent=geeknite.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
@@ -27,6 +27,9 @@ Pero eso no es todo lo que ofrecemos. Sabemos que algunos de ustedes pueden perd
 
 Y, por supuesto, una de las cosas más importantes que nos enorgullece es nuestra *comunidad*. Aquí en @xocmetal, todos son bienvenidos. Nos encanta interactuar con nuestra audiencia, conocer nuevos amigos y crear una comunidad unida de *jugadores entusiastas*. Nuestro chat en vivo es un espacio seguro y acogedor donde puedes compartir tus pensamientos, hacer preguntas y conocer a otros apasionados por los videojuegos. ¡Todos estamos aquí para disfrutar y *divertirnos juntos*!
 
-Así que, si estás buscando una experiencia de *transmisión de juegos por turnos emocionante, diversa y llena de risas*, ¡no busques más! Únete a nosotros en nuestro canal de Twitch @xocmetal y prepárate para sumergirte en mundos virtuales asombrosos, reír, emocionarte y formar parte de nuestra increíble comunidad. ¡Nos vemos en el chat!
+Así que, si estás buscando una experiencia de *transmisión de juegos por turnos emocionante, diversa y llena de risas*, ¡no busques más! Únete a nosotros en Twitch y YouTube, y sé parte de la comunidad de @xocmetal. **¡Haz clic [aquí]({{ site.constants.wsib }}xocmetal) para seguirnos y no perderte ni un momento de diversión!**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lqWrzNBBvY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Para más contenido, explora nuestras recomendaciones:
+
+- [**Crusader Kings III: The Ultimate Strategy Game**]({% post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game %})
+- [**Persona 5R Review**]({% post_url 2022-04-23-persona-5-royal-review %})
