@@ -1,36 +1,10 @@
 ---
-title: 'Agen Avenue Review: France Hidden Gem for Food & Shopping Enthusiasts' 
-date: '2023-07-12T10:00:00+02:00'
-last_modified_at: '2025-08-14T12:00:00+02:00'
-tags: [travel, reviews, France, Agen, shopping, dining, culture]
-description: "Discover Agen Avenue, France's best-kept secret! Our honest review covers the best restaurants, shops, and cultural spots. Plus insider tips for smart shopping."
+title: 'Agen Avenue: Your Ultimate Guide to a Hidden French Gem'
+date: '2023-07-12'
+tags: [travel, France, hidden gems, food, shopping, culture, entertainment]
 ---
 
-**Agen Avenue** might not be as famous as the Champs-Élysées, but trust me, after spending three days exploring this charming French boulevard, I can confidently say it's one of **France's best-kept secrets**. Located in the heart of the picturesque town of Agen, this avenue offers everything a travel enthusiast could want: incredible food, unique shopping, and that authentic French atmosphere you can't fake.
-
-*Spoiler alert*: If you're a foodie or love hunting for unique finds while traveling, keep reading—this place might just become your new favorite French destination.
-
-[![Agen Avenue France](https://all-andorra.com/wp-content/uploads/2023/12/Agen_tourism-min.png){: .align-right style="width: 300px;"}]({{ site.constants.wsib }}agen-avenue)
-
-## What Makes Agen Avenue Special? A Quick History Lesson
-
-**Agen Avenue** was established in the 18th century, originally designed as a residential area for wealthy merchants. What started as a quiet street quickly transformed into the commercial heart of Agen as artisans and traders set up shop along the boulevard. Today, it's a perfect blend of historical architecture and modern convenience—think classic French elegance meets contemporary shopping district.
-
-The avenue showcases a stunning mix of **classical and modern architectural styles** that'll have you reaching for your camera every few steps. But here's the kicker: unlike many tourist-heavy French destinations, Agen Avenue maintains that authentic local vibe where you're more likely to hear French conversations than English-speaking tourists.
-
-## The Food Scene: From Michelin Stars to Street Food Gold
-
-### Fine Dining That Won't Break the Bank
-
-Let's talk about the **culinary scene**—it's seriously impressive. From cozy neighborhood cafes to what locals claim are "almost Michelin-starred" restaurants, Agen Avenue serves up options for every taste and budget.
-
-**Le Gourmet de la Rue** caught my attention immediately with its innovative take on traditional French cuisine using local ingredients. Pro tip: if you're planning to visit, book ahead—this place fills up fast, especially during weekend evenings. The duck confit here rivals anything I've had in Paris, but at about 60% of the price.
-
-### Street Food Worth Writing Home About
-
-If you're more of a "grab and go" person (like me when I'm exploring), the avenue's **street food scene** is where it really shines. The famous **Agen Prunes**—yes, prunes can be exciting when done right—are a local specialty that actually taste incredible when prepared fresh. Think sweet, caramelized, and nothing like the dried prunes you're imagining.
-
-**Boulangerie du Coin** serves what might be the best croissants outside of Paris. I'm not exaggerating—I went back three mornings in a row. Their pain au chocolat at 1.50€ is a steal compared to similar quality in major French cities.
+![Agen Avenue](https://i.imgur.com/UrhObsJ.jpg){: style="float: right;"}
 
 *Shopping tip*: Speaking of finding great deals while traveling, if you're planning a European food tour, check out our [guide to smart shopping on Amazon Spain]({%- post_url 2024-01-15-tips-for-shopping-on-amazon-spain-eng-edition -%}) for travel essentials and food storage accessories that'll help you bring home those local delicacies.
 
