@@ -1,7 +1,7 @@
 ---
-title: 'Agen Avenue Review: France Hidden Gem for Food & Shopping Enthusiasts' 
+title: 'Agen Avenue Review: France Hidden Gem for Food & Shopping Enthusiasts'
 date: '2023-07-12T10:00:00+02:00'
-last_modified_at: '2025-08-14T12:00:00+02:00'
+last_modified_at: '2025-09-08T09:05:10+00:00'
 tags: [travel, reviews, France, Agen, shopping, dining, culture]
 description: "Discover Agen Avenue, France's best-kept secret! Our honest review covers the best restaurants, shops, and cultural spots. Plus insider tips for smart shopping."
 ---
@@ -10,7 +10,7 @@ description: "Discover Agen Avenue, France's best-kept secret! Our honest review
 
 *Spoiler alert*: If you're a foodie or love hunting for unique finds while traveling, keep reading—this place might just become your new favorite French destination.
 
-[![Agen Avenue France](https://all-andorra.com/wp-content/uploads/2023/12/Agen_tourism-min.png){: .align-right style="width: 300px;"}]({{ site.constants.wsib }}agen-avenue)
+[![Agen Avenue France](https://all-andorra.com/wp-content/uploads/2023/12/Agen_tourism-min.png){: .align-right style="width: 300px;"}](https://all-andorra.com/wp-content/uploads/2023/12/Agen_tourism-min.png)
 
 ## What Makes Agen Avenue Special? A Quick History Lesson
 
