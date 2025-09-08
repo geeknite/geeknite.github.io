@@ -5,7 +5,7 @@ tags: ['board games', 'review', 'Marvel United', 'multiverse', 'superheroes']
 description: "A hilarious and detailed review of Marvel United: Multiverse Board Game. Find out why this game is a must-have for Marvel fans and board game enthusiasts!"
 ---
 
-[![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel united multiverse)
+[![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel-united-multiverse)
 
 ## Introduction
 
@@ -53,9 +53,11 @@ One of the best parts of Marvel United: Multiverse is the diverse array of heroe
 
 ### Replayability
 
-With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers endless replayability. No two games are the same, ensuring you'll want to come back for more cosmic battles.
+With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers endless replayability.
 
-**Expansion Alert**: Keep an eye out for expansions that introduce new heroes, villains, and missions. Your Marvel universe is about to get even bigger.
+### Expansion Alert
+
+Keep an eye out for expansions that introduce new heroes, villains, and missions. Your Marvel universe is about to get even bigger.
 
 ## Pros and Cons
 
@@ -78,7 +80,7 @@ Marvel United: Multiverse is a fantastic addition to any board game collection, 
 
 **Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel-united-multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
 
 ---
 
