@@ -1,12 +1,12 @@
 ---
-title: "Kobo Libra Review: The Ultimate eReader for the Modern Bookworm"
-date: "2024-05-20"
+title: "A Place for All My Books - Anniversary Edition"
+date: "2025-09-08"
 tags: [kobo, e-reader, review, tech, gadgets, funny]
 description: "A hilarious and engaging review of the Kobo Libra eReader. Discover its features, quirks, and why it might just be the best eReader for you!"
-last_modified_at: '2025-04-21T10:00:00+02:00'
+last_modified_at: '2025-09-08T01:54:06.2865471Z'
 ---
 
-[![Kobo Libra](https://i.imgur.com/OfrZqlpm.jpg){: .align-right}]({{ site.constants.wsib }}kobo-libra)
+![Kobo Libra](https://i.imgur.com/OfrZqlpm.jpg){: style="float: right;"}({{ site.constants.wsib }}kobo-libra)
 
 Welcome back, Geeknite readers! Today, we're diving into the world of e-readers with a detailed review of the **Kobo Libra**. Spoiler alert: it’s so good, you might just want to trade your paperbacks for pixels. With its sleek design, impressive features, and customizable reading experience, the Kobo Libra has captured the hearts of bookworms everywhere. But does it truly live up to its reputation? Let’s find out!
 
@@ -95,3 +95,4 @@ The Kobo Libra is a fantastic e-reader that offers a top-notch reading experienc
 - [Kobo Clara Review: The Compact eReader with Big Surprises]({%- post_url 2025-04-10-kobo-clara-review -%})
 
 Happy reading! 📚✨
+
