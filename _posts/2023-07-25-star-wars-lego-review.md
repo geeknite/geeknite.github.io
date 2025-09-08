@@ -75,27 +75,27 @@ The LEGO Star Wars AT-AT Walker is a fantastic set for those who love the ground
 
 The LEGO Star Wars AT-AT Walker is perfect for fans of the epic ground battles in Star Wars. Its interactive features and detailed design make it a fun addition to any LEGO Star Wars collection. Just make sure your snow speeders are ready to trip it up!
 
-## LEGO Star Wars Infantry Support Platform (ISP)
-![LEGO Star Wars Infantry Support Platform](https://www.lego.com/cdn/cs/set/assets/blt5c9d8b68d76a1f0a/75365_alt1.jpg){: .align-right rel="nofollow"}
+## Star Wars Legión: Plataforma de Apoyo de Infantería
+![Star Wars Legión: Plataforma de Apoyo de Infantería](https://example.com/image.jpg){: .align-right rel="nofollow"}
 
 ### Overview
 
-For those of you who have always wanted to command your own mini army, the LEGO Star Wars Infantry Support Platform (ISP) is the set for you. This set includes a miniature version of the iconic support vehicle used by the Galactic Republic's clone troopers. It comes with multiple minifigures, including clone troopers and battle droids, allowing for epic battles right in your living room.
+The Star Wars Legión: Plataforma de Apoyo de Infantería is a must-have for any fan of ground-based Star Wars battles. This set includes detailed miniatures, terrain pieces, and customizable options to recreate epic battlefield scenarios from the Star Wars universe.
 
 ### Pros
 
-- Great for creating battle scenes
-- Includes multiple minifigures
-- Affordable compared to other large sets
+- Highly detailed miniatures
+- Customizable options for different battle scenarios
+- Adds depth to any Star Wars Legión collection
 
 ### Cons
 
-- Not as intricate as larger sets
-- Limited play features
+- Can be complex for beginners
+- Requires additional purchases for expansive battles
 
 ### Final Thoughts
 
-The LEGO Star Wars Infantry Support Platform is a great addition to any Star Wars LEGO collection, especially for those who love the Clone Wars era. It offers good value for its price and provides a fun way to recreate scenes from the series.
+For those who love the strategic and immersive aspects of Star Wars ground battles, the Star Wars Legión: Plataforma de Apoyo de Infantería is a fantastic addition. Its detailed miniatures and customizable options provide endless hours of strategic fun. Just be prepared to invest in additional sets to expand your battlefield.
 
 ## Conclusion
 
