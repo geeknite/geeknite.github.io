@@ -3,7 +3,7 @@ title: "To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and
 tags: [board games, card games, sleeves, humor, board gaming]
 description: "Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!"
 date: "2021-02-21"
-last_modified_at: '2023-07-21T00:00:00+02:00'
+last_modified_at: '2025-09-08T17:43:31.6918282Z'
 ---
 
 [![game sleeves](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}sleeves)
@@ -38,7 +38,7 @@ Before you rush off to sleeve your entire collection, let's embark on a quirky j
 
 4. **Card Stuck-o-phobia**: Ever experienced the horror of shuffling sleeved cards for the first time? Suddenly, you become a card magician, clumsily attempting to bridge shuffle without launching cards across the room.
 
-5. **The Great Divider**: Not all board game communities embrace sleeving. Some players consider it sacrilege, arguing that the tactile feel of unsleeved cards is part of the gaming experience. *To sleeve or not to sleeve, that is the question.*
+5. **The Great Divider**: Not all board game communities embrace sleeving. Some players consider it sacrilege, arguing that the tactile feel of unsleeved cards is part of the gaming experience. *To sleeve or not to sleeve, that is the question.*【4:0†source】
 
 ## A Sleeve for Every Occasion
 
@@ -56,7 +56,7 @@ Sleeving your games is not a decision to be taken lightly, for it will impact th
 
 ### **1. The Hardcore Gamer's Dilemma**
 
-You're the type of gamer who treats board games like a sacred ritual. Your collection is an altar, and your games are cherished relics. In this case, sleeving might be a no-brainer. Protecting your games is essential to keep the gaming gods happy and ensure your cards remain pristine for generations to come.
+You're the type of gamer who treats board games like a sacred ritual. Your collection is an altar, and your games are cherished relics. In this case, sleeving might be a no-brainer. Protecting your games is essential to keep the gaming gods happy and ensure your cards remain pristine for generations to come.【4:1†source】
 
 ### **2. The Nonchalant Player's Take**
 
@@ -72,11 +72,11 @@ Let's be honest; sleeves add a touch of elegance to your games. Just like a tail
 
 ### **5. The Unconvinced Traditionalist**
 
-To sleeve or not to sleeve, that is the age-old question in the board gaming community. Traditionalists argue that sleeving detracts from the tactile experience of handling unsleeved cards. They believe that the natural wear and tear add character to the game and make each set of cards unique.
+To sleeve or not to sleeve, that is the age-old question in the board gaming community. Traditionalists argue that sleeving detracts from the tactile experience of handling unsleeved cards. They believe that the natural wear and tear add character to the game and make each set of cards unique.【4:2†source】
 
 ### **6. The Space-Conscious Player**
 
-Your board game shelf is full to the brim, and you need to squeeze every last card into your boxes. This is where snugged sleeves come to the rescue! They ensure that your cards fit perfectly without creating the chaos of oversized boxes and wasted space.
+Your board game shelf is full to the brim, and you need to squeeze every last card into your boxes. This is where snugged sleeves come to the rescue! They ensure that your cards fit perfectly without creating the chaos of oversized boxes and wasted space.【4:3†source】
 
 ## Linking You to More Gaming Adventures
 
