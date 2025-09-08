@@ -9,8 +9,6 @@ Welcome to our in-depth review of **Punirunes**, a Tamagotchi-inspired physical 
 
 [![Punirunes](https://i.imgur.com/arT7fdFm.jpg){: .align-right}]({{ site.constants.wsib }}punirunes)
 
----
-
 ## Interaction
 
 Punirunes offers a fresh take on the virtual pet genre, combining elements of strategy, adventure, and role-playing. Users interact with their virtual pet using a tactile button, solving tasks and playing mini-games to earn currency and care for their pet. The tactile button is a standout feature, simulating the sensation of physically petting your virtual companion. It’s oddly satisfying—until you realize you’ve been poking a plastic toy for 20 minutes straight. But hey, your pet loves it, so who’s judging?
@@ -35,9 +33,15 @@ In Punirunes, currency is earned primarily through mini-games. This currency can
 
 ---
 
-## Design and Sound
+## Pros and Cons
 
-Punirunes features a charming design with adorable graphics and animations. The characters are cute enough to make even the grumpiest player smile. The sound effects and background music are pleasant without being overbearing, creating an immersive experience that keeps you coming back.
+### Pros
+
+- **Engaging Tasks**: The tasks and mini-games in Punirunes are well-designed, offering a good balance of difficulty and enjoyment.
+- **Unique Mechanics**: The tactile button adds a physical dimension to the gameplay, making interactions feel more immersive.
+- **Pet Growth**: Watching your pet grow and evolve adds a layer of excitement and replayability.
+- **No Pay-to-Win**: The absence of in-app purchases ensures a fair and enjoyable experience for all players.
+- **Charming Design**: The graphics and animations are adorable, making it hard not to fall in love with your virtual pet.
 
 ---
 
