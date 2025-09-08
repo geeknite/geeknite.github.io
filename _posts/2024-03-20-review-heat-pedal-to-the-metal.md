@@ -10,7 +10,7 @@ tags:
 last_modified_at: '2025-06-04T21:09:27+02:00'
 ---
 
-[![Heat: Pedal to the Metal](https://i.imgur.com/uK76yQB.jpeg){: .align-right}]({{ site.constants.wsib }}heat-pedal-to-the-metal)
+[![Heat: Pedal to the Metal](https://i.imgur.com/uK76yQB.jpeg){: style="float: right;"}]({{ site.constants.wsib }}heat-pedal-to-the-metal)
 
 Are you ready to rev up your engines and dive into the thrilling world of 1960s racing? If so, then buckle up because we are about to take a wild ride with **HEAT: Pedal to the Metal** – a game that combines strategy, speed, and a sprinkle of chaos. Get ready, because this review will be as fast-paced and hilarious as the game itself!
 
