@@ -36,7 +36,7 @@ First things first, let's talk hardware. The Xbox Series X is an absolute beast.
   - *Halo Infinite*  
   - *Fable*  
   - *Forza Horizon 5*  
-  - *Everwild*  
+  - *Everwild*
 
 **My opinion?** The exclusives are like that friend who always brings the best snacks to the party. They're fun, they're enticing, but sometimes you wonder if you should've just ordered a pizza instead.
 
@@ -73,8 +73,9 @@ The Xbox Series X is often compared to a mini-fridge, but it's far more than a k
 
 If you're searching for a powerful console with a plethora of games, the **Xbox Series X** is a solid choice. Its hardware is impressive, the exclusives are exciting, and the online services are top-notch. Plus, the Xbox community is as vibrant as ever.
 
-But if you're still on the fence, take a gander at our [review of the PS5]({% post_url 2023-02-01-ps5-comprehensive-review-good-bad-big %}) to see how it stacks up against the competition.
+But if you're still on the fence, take a gander at our [review of the PS5]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}) to see how it stacks up against the competition.
 
-**Don't miss out!** Click [here]({{ site.constants.wsib }}xbox-series-x) to grab your Xbox Series X today! **Happy Gaming!**
-
+**What do you think? Leave us your comment and participate in our Amazon gift card giveaway!**
 {% include amazon.html asin="B09XX5FVHJ" %}
+
+**Bold Call-to-Action:** If you're ready to jump into the world of Xbox, don't wait! Grab your Xbox Series X today and start your gaming adventure!
