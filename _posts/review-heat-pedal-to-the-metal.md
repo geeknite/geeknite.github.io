@@ -44,33 +44,33 @@ At the beginning of the game, players choose their cars and set up the track. Ea
 
 As the race progresses, players accumulate heat tokens based on their actions. These tokens can be used to boost your speed but beware – too much heat and your engine might blow! The heat management mechanic adds a layer of strategy to the game, forcing players to think ahead and plan their moves carefully.
 
-**Criticism Alert**: The heat mechanic is brilliant, but it can feel punishing for new players who don’t fully grasp the balance between speed and safety. Expect a few “Why did my car explode?!” moments in your first game【4:0†source】.
+**Criticism Alert**: The heat mechanic is brilliant, but it can feel punishing for new players who don’t fully grasp the balance between speed and safety. Expect a few “Why did my car explode?!” moments in your first game .
 
 ---
 
 ## Special Abilities and Expansions
 
-HEAT: Pedal to the Metal includes various special abilities that can be activated using cards. These abilities range from extra speed boosts to defensive maneuvers, adding depth to the gameplay. Additionally, the game offers expansions that introduce new tracks, cars, and mechanics, ensuring that no two races are ever the same.
+HEAT: Pedal to the Metal includes various special abilities that can be activated using cards. These abilities range from extra speed boosts to defensive maneuvers, adding depth to the gameplay. Additionally, the game offers expansions that introduce new tracks, cars, and mechanics, ensuring that no two races are ever the same .
 
 ### Expansion Alert: Heavy Rain
 
 The **Heavy Rain** expansion introduces weather mechanics that add a whole new layer of complexity to the game. Rain-soaked tracks reduce grip, making it harder to navigate sharp turns and increasing the risk of spinning out. Players must adapt their strategies to account for slippery conditions, which can turn even the simplest straightaway into a nerve-wracking challenge.
 
-**Funny Moment**: During one game, a player underestimated the rain and tried to take a corner at full speed. The result? A spectacular spinout that sent their car flying off the track. Lesson learned: respect the weather【4:0†source】!
+**Funny Moment**: During one game, a player underestimated the rain and tried to take a corner at full speed. The result? A spectacular spinout that sent their car flying off the track. Lesson learned: respect the weather!
 
 ### Expansion Alert: Tunnel Vision
 
-The **Tunnel Vision** expansion brings narrow, high-speed tunnels into the mix. These sections of the track force players to make quick decisions, as there’s little room for error. The expansion also introduces new cards that allow for daring overtakes and risky maneuvers, making every race even more intense.
+The **Tunnel Vision** expansion brings narrow, high-speed tunnels into the mix. These sections of the track force players to make quick decisions, as there’s little room for error. The expansion also introduces new cards that allow for daring overtakes and risky maneuvers, making every race even more intense .
 
-**Criticism Alert**: While Tunnel Vision adds excitement, it can feel a bit chaotic for players who prefer a more controlled racing experience. Expect plenty of “I didn’t see that coming!” moments【4:0†source】.
+**Criticism Alert**: While Tunnel Vision adds excitement, it can feel a bit chaotic for players who prefer a more controlled racing experience. Expect plenty of “I didn’t see that coming!” moments .
 
 ---
 
 ## Humor and Hilarity
 
-One of the standout features of HEAT: Pedal to the Metal is its ability to create hilarious moments. Picture this: Your opponent is leading the race, but suddenly their engine overheats, and their car spins out of control, leaving you free to zoom past them. The game is filled with such unexpected twists, making every race a laugh-out-loud experience【4:0†source】.
+One of the standout features of HEAT: Pedal to the Metal is its ability to create hilarious moments. Picture this: Your opponent is leading the race, but suddenly their engine overheats, and their car spins out of control, leaving you free to zoom past them. The game is filled with such unexpected twists, making every race a laugh-out-loud experience .
 
-**Funny Moment**: During one game, a player tried to take a shortcut by boosting their speed on a straightaway—only to realize they didn’t have enough cards to slow down for the next turn. The result? A spectacular crash that had everyone at the table in stitches【4:0†source】.
+**Funny Moment**: During one game, a player tried to take a shortcut by boosting their speed on a straightaway—only to realize they didn’t have enough cards to slow down for the next turn. The result? A spectacular crash that had everyone at the table in stitches .
 
 ---
 
@@ -88,15 +88,15 @@ One of the standout features of HEAT: Pedal to the Metal is its ability to creat
 
 - **Steep Learning Curve**: New players might struggle with the heat mechanic and card management.
 - **Fiddly Components**: The heat tokens can be tricky to handle during fast-paced gameplay.
-- **Punishing for Mistakes**: One bad decision can ruin your entire race, which might frustrate some players【4:0†source】.
+- **Punishing for Mistakes**: One bad decision can ruin your entire race, which might frustrate some players .
 
 ---
 
 ## Final Thoughts
 
-HEAT: Pedal to the Metal is a fantastic racing game that offers a perfect blend of strategy, speed, and hilarity. Whether you're a hardcore board gamer or just looking for a fun way to spend an evening with friends, HEAT is sure to deliver. With its beautiful components, engaging gameplay, and endless replayability, it's a must-have for any game night.
+HEAT: Pedal to the Metal is a fantastic racing game that offers a perfect blend of strategy, speed, and hilarity. Whether you're a hardcore board gamer or just looking for a fun way to spend an evening with friends, HEAT is sure to deliver. With its beautiful components, engaging gameplay, and endless replayability, it's a must-have for any game night .
 
-**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The steep learning curve and punishing mechanics might deter some players, but for those willing to embrace the chaos, HEAT is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The steep learning curve and punishing mechanics might deter some players, but for those willing to embrace the chaos, HEAT is an absolute blast. 
 
 So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}heat-pedal-to-the-metal) and get your copy of HEAT: Pedal to the Metal today. It’s time to put the pedal to the metal and race your way to victory!
 
