@@ -78,12 +78,14 @@ Marvel United: Multiverse is a fantastic addition to any board game collection, 
 
 **Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
+**Ready to assemble your team and save the multiverse?** Grab your copy of Marvel United: Multiverse today and start your epic adventure!
 
----
+{% include amazon.html asin="B08XYZ1234" imageUrl="https://i.imgur.com/3zHcfgxm.jpg" %}
 
-### Other Superpowered Games to Check Out
+## Linking You to More Gaming Adventures
 
-If you love superhero board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
-**Ready to embark on a cosmic adventure? Don’t miss out on the fun!**
+**Ready to unite and conquer? Click [here]({{ site.constants.wsib }}marvel-united-multiverse) to get your copy now and receive an exclusive discount! Happy adventuring!**
