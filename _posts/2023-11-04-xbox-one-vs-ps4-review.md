@@ -65,6 +65,8 @@ If you're after raw power and exclusive games that tug at your heartstrings, the
 
 Still on the fence? Check out our [comprehensive review of the PS5]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}) and see how it stacks up against the new Xbox Series X.
 
+![Xbox One](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}
+
 **Don't miss out!** Click [here]({{ site.constants.wsib }}xbox-one) to grab your Xbox One or PS4 today! **Happy Gaming!**
 
 {% include amazon.html asin="B09XX5FVHJ" %}
