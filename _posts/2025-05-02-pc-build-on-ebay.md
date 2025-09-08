@@ -45,7 +45,7 @@ Now that you're equipped with essential eBay tips, let's dive into the fun part 
 
 The CPU is like the brain of your PC, so you want it to be smart but not too expensive. I recommend the **AMD Ryzen 5 3600**. It's a six-core marvel that packs a punch without breaking the bank. Look for listings with good feedback and competitive prices.
 
-[![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}](https://www.amd.com)
+[![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}]({{ site.constants.wsib }}amd)
 
 ### Motherboard: The Backbone
 
