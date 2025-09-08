@@ -5,7 +5,6 @@ tags: [amazon, españa, español, europe, smartshopping, prime]
 description: "Descubre las ventajas e inconvenientes de la suscripción Prime en España. Una mirada crítica y irónica sobre la entrega gratuita y el coste de la suscripción"
 last_modified_at: '2023-07-24T00:00:00+02:00'
 ---
-
 [![angry cat no le gusta amazon prime](https://i.imgur.com/KipTeCcm.png){: style="float: right;"}]({{ site.constants.wsib }})
 
 ¡La suscripción Prime de Amazon.es es como una relación con un ricachón! Te ofrece un montón de regalos costosos, como entrega gratuita en un día y acceso a contenido de streaming, pero luego te deja con una factura de tarjeta de crédito que te dejará sin aliento. Y no, no todos los productos están disponibles para entrega en un día, así que no te ilusiones con eso.
