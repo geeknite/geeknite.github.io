@@ -103,31 +103,29 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
-## LEGO-77047 Bunnie's Outdoor Activities
-
-[![LEGO-77047 Bunnie's Outdoor Activities](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/77047_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-77047-bunnies-outdoor-activities)
+## LEGO-41756 Pista de Esquí y Cafetería
 
 ### Overview
 
-LEGO-77047 Bunnie's Outdoor Activities is a quirky and adorable set that brings the charm of outdoor play to life. With over 500 pieces, this set features a variety of playful characters, accessories, and even a miniature garden scene.
+The LEGO-41756 Pista de Esquí y Cafetería set brings the winter wonderland experience to your home. With detailed snowy slopes and a cozy cafeteria, this set features over 1,200 pieces. It includes various minifigures equipped with skis and snowboards, as well as accessories like hot chocolate mugs and snow-covered trees.
 
 ### Pros
 
-- Adorable and whimsical design
-- Perfect for younger builders
-- Encourages imaginative play
+- Realistic winter scenery
+- Interactive and fun for play
+- Includes a variety of minifigures and accessories
 
 ### Cons
 
-- Limited complexity for advanced builders
-- Some pieces may be small and easily lost
+- Moderate difficulty in building
+- Some pieces might be fragile
 
 ### Final Thoughts
 
-LEGO-77047 Bunnie's Outdoor Activities is a delightful set for younger builders and those who enjoy playful, imaginative scenes. Its charming design and variety of accessories make it a fun addition to any LEGO collection.
+The LEGO-41756 Pista de Esquí y Cafetería is a perfect set for those who love winter sports and cozy settings. Its detailed design and interactive elements make it a charming addition to any LEGO collection.
 
 ## Conclusion
 
-LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
+LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster and the winter wonderland of the Pista de Esquí y Cafetería, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lego) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/lego) and find the perfect addition to your collection today!**
