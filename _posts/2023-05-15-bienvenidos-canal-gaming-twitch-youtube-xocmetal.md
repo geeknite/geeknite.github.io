@@ -30,3 +30,7 @@ Y, por supuesto, una de las cosas más importantes que nos enorgullece es nuestr
 Así que, si estás buscando una experiencia de *transmisión de juegos por turnos emocionante, diversa y llena de risas*, ¡no busques más! Únete a nosotros en nuestro canal de Twitch @xocmetal y prepárate para sumergirte en mundos virtuales asombrosos, reír, emocionarte y formar parte de nuestra increíble comunidad. ¡Nos vemos en el chat!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lqWrzNBBvY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Ready to level up your gaming experience? Follow us on Twitch @xocmetal and subscribe to our YouTube channel [here](https://www.youtube.com/@xocmetal) for more fun, laughs, and epic adventures!**
+
+Stay tuned for more geeky goodness and thrilling game streams from your friends at Geeknite! 🚀
