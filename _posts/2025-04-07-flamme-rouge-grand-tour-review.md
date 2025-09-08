@@ -1,30 +1,17 @@
 ---
-title: 'Flamme Rouge Grand Tour Review: The Ultimate Cycling Expansion'
-date: '2025-04-07'
-tags: ['board games', 'review', 'Flamme Rouge', 'expansions', 'racing games', 'cycling games', 'strategy games']
-description: 'Complete Flamme Rouge Grand Tour review: multi-stage racing, new tracks, and strategic depth. Is this cycling board game expansion worth buying in 2025?'
-last_modified_at: '2025-08-14T12:00:00+02:00'
+title: "Flamme Rouge Grand Tour Review: The Ultimate Cycling Experience"
+date: 2025-04-07
+tags: [Flamme Rouge, Grand Tour, board games, cycling, strategy games, review]
+description: "Dive into the strategic and thrilling world of Flamme Rouge: Grand Tour. Explore new mechanics, challenges, and why it's a must-have for board game enthusiasts."
 ---
 
-[![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}flamme rouge grand tour)
+Welcome, fellow board game geeks, to the ultimate review of **Flamme Rouge: Grand Tour**! If you thought regular Flamme Rouge had you pedaling hard, wait until you experience the multi-stage madness of the Grand Tour expansion. Get ready for steep climbs, daring descents, and enough strategic depth to make a chess match look like tic-tac-toe.
 
-## Introduction: The Evolution of Cycling Board Games
-
-Welcome, fellow board game enthusiasts! Today, we're diving deep into **Flamme Rouge: Grand Tour**, the expansion that has transformed an already excellent cycling game into a multi-stage epic. If you've been following our [comprehensive racing board games coverage]({%- post_url 2023-06-15-top-10-racing-board-games -%}), you'll know that Flamme Rouge ranks among the top cycling simulations available. This Grand Tour expansion takes everything we love about the base game and elevates it to new heights.
-
-As someone who's spent countless hours with racing board games—from the Formula 1 thrills of [Formula D to the strategic betting of Downforce]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})—I can confidently say that Grand Tour offers something uniquely compelling in the cycling simulation space.
+![Flamme Rouge Grand Tour](https://i.imgur.com/aHm1goAm.jpeg){: .align-right}
 
 ---
 
-## The Core Game
-
-Before we get into the nitty-gritty of the Grand Tour expansion, let’s take a quick refresher on what makes Flamme Rouge such a beloved game. Flamme Rouge is a fast-paced bicycle racing game where players control a team of two cyclists, a Rouleur and a Sprinteur, each with their unique deck of movement cards. The objective is to navigate a cycling course and finish first, but beware—the exhaustion mechanic ensures that those who push too hard too soon will struggle in the final stages. It's all about balance, strategy, and timing.
-
-**Pro Tip:** Energy management in Flamme Rouge mirrors real cycling strategy—always save something for the final sprint, because there's nothing worse than watching opponents surge past while you're stuck with exhaustion cards.
-
-## Grand Tour Features
-
-Let’s talk about the new features that the Grand Tour expansion brings to the table.
+## New Mechanics and Features
 
 ### Advanced Team Management Mechanics
 
@@ -103,14 +90,4 @@ Downforce adds a betting element to the racing game genre. Players bid on cars a
 
 **Flamme Rouge: Grand Tour** is a must-have expansion for fans of the base game. It takes the already excellent Flamme Rouge and elevates it with a deeper, more engaging experience. Whether you're a solo player or enjoy competing with friends, this game offers hours of strategic fun.
 
-Ready to embark on your own Grand Tour? Check out Flamme Rouge: Grand Tour and its expansions on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and start your race to the top today! **Don’t wait, pedal to the medal and grab your copy now!**
-
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
-
-**Call to Action:** Don't miss out on the ultimate cycling adventure! Click [here]({{ site.constants.wsib }}flamme rouge grand tour) to get your copy of Flamme Rouge: Grand Tour now and receive an exclusive discount! Happy racing!
-
----
-For more reviews and board game recommendations, check out our previous posts:
-
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%} )
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+Ready to embark on your own Grand Tour? **Buy Flamme Rouge: Grand Tour** now and pedal your way to victory!
