@@ -55,18 +55,18 @@ El **Huawei Watch GT 3** combina estilo y funcionalidad. Con un diseño elegante
 
 ## **3. Xiaomi Watch S1 Active**
 
-El **Xiaomi Watch S1 Active** es un reloj versátil que ofrece una excelente relación calidad-precio. Con una batería que dura hasta 12 días y funciones avanzadas como monitoreo de frecuencia cardíaca y seguimiento de sueño, este reloj es ideal para quienes buscan un dispositivo para el día a día.
+El **Xiaomi Watch S1 Active** es un reloj versátil que ofrece una excelente relación calidad-precio. Con funciones avanzadas como VO2 max, carga de entrenamiento y mapas detallados, este reloj es el sueño de cualquier atleta serio.
 
 ![Xiaomi Watch S1 Active](https://i.imgur.com/XiaomiWatchS1Active.jpg)
 
 **Pros:**
+- Funciones avanzadas de salud y fitness.
+- Buena duración de batería.
 - Precio competitivo.
-- Buenas funciones de salud.
-- Diseño atractivo.
 
 **Contras:**
-- La precisión del GPS no es tan buena como la de Garmin.
-- Algunas funciones avanzadas pueden estar limitadas.
+- La precisión del GPS podría ser mejor.
+- No tiene la misma cantidad de funciones avanzadas que Garmin.
 
 [Encuentra el Xiaomi Watch S1 Active en {{site.constants.wsibname}}]({{ site.constants.wsib }}Xiaomi+Watch+S1+Active)  
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
@@ -75,18 +75,18 @@ El **Xiaomi Watch S1 Active** es un reloj versátil que ofrece una excelente rel
 
 ## **4. Coros Pace 2**
 
-El **Coros Pace 2** es perfecto para atletas serios que buscan un reloj liviano y preciso. Con una batería que dura hasta 20 días y funciones avanzadas como VO2 max, este reloj es ideal para quienes buscan un dispositivo de alta calidad.
+El **Coros Pace 2** es conocido por su ligereza y durabilidad. Este reloj es ideal para corredores y triatletas que buscan un dispositivo confiable y preciso.
 
 ![Coros Pace 2](https://i.imgur.com/CorosPace2.jpg)
 
 **Pros:**
-- Duración de batería excepcional.
+- Ligero y cómodo.
+- Excelente duración de batería.
 - Funciones avanzadas de entrenamiento.
-- Diseño ligero.
 
 **Contras:**
+- La interfaz puede ser un poco complicada para algunos usuarios.
 - Precio moderado.
-- La interfaz puede ser menos intuitiva que la de Garmin.
 
 [Encuentra el Coros Pace 2 en {{site.constants.wsibname}}]({{ site.constants.wsib }}Coros+Pace+2)  
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
@@ -95,7 +95,7 @@ El **Coros Pace 2** es perfecto para atletas serios que buscan un reloj liviano 
 
 ## **5. Garmin Forerunner 255**
 
-El **Garmin Forerunner 255** es el rey indiscutible de los relojes GPS. Con funciones avanzadas como VO2 max, carga de entrenamiento y mapas detallados, este reloj es el sueño de cualquier atleta serio.
+El **Garmin Forerunner 255** es un reloj de gama alta que ofrece una precisión insuperable y funciones avanzadas de entrenamiento. Este reloj es ideal para atletas serios que buscan llevar su entrenamiento al siguiente nivel.
 
 ![Garmin Forerunner 255](https://i.imgur.com/GarminForerunner255.jpg)
 
