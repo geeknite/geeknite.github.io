@@ -1,16 +1,12 @@
-markdown
 ---
 title: "Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders"
 tags: [enduro, helmets, bluegrass, rogue, review, mountain bike, safety, cycling gear]
-filename: 2023-07-18-bluegrass-rogue-helmet-review.md
-description: "Complete review of the Bluegrass Rogue enduro helmet: design, fit, ventilation, safety features and comparison with Bell Super 3R MIPS and other alternatives"
 date: 2023-07-18
 last_modified_at: '2025-08-13T10:00:00+02:00'
-excerpt: "Detailed analysis of the Bluegrass Rogue helmet covering design, ventilation, safety certifications and value compared to other enduro helmets"
-redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
+
 ---
 
-[![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}]({{ site.constants.wsib }}Bluegrass Rogue)
+![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}
 
 If you're looking for a new enduro helmet that combines style, comfort, and functionality, you might want to check out the **Bluegrass Rogue helmet**. This helmet has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for mountain bikers who want to ride hard and have fun.
 
