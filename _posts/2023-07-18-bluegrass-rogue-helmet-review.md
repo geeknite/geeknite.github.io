@@ -1,12 +1,15 @@
 ---
 title: "Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders"
 tags: [enduro, helmets, bluegrass, rogue, review, mountain bike, safety, cycling gear]
+filename: 2023-07-18-bluegrass-rogue-helmet-review.md
+description: "Complete review of the Bluegrass Rogue enduro helmet: design, fit, ventilation, safety features and comparison with Bell Super 3R MIPS and other alternatives"
 date: 2023-07-18
 last_modified_at: '2025-08-13T10:00:00+02:00'
-
+excerpt: "Detailed analysis of the Bluegrass Rogue helmet covering design, ventilation, safety certifications and value compared to other enduro helmets"
+redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
 ---
 
-![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}
+[![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}]({{ site.constants.wsib }}Bluegrass Rogue)
 
 If you're looking for a new enduro helmet that combines style, comfort, and functionality, you might want to check out the **Bluegrass Rogue helmet**. This helmet has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for mountain bikers who want to ride hard and have fun.
 
@@ -18,7 +21,7 @@ Before diving into the specifics of the Bluegrass Rogue, it's important to under
 
 ## Design
 
-The first thing you'll notice about the Bluegrass Rogue helmet is its design. This helmet has a sleek and modern shape that looks good on any rider. It comes in wide range of different colors, mine in Off-White, something like a grayish with garnet lid. The helmet has a matte finish that gives it a classy and elegant look.
+The first thing you'll notice about the Bluegrass Rogue helmet is its design. This helmet has a sleek and modern shape that looks good on any rider. It comes in a wide range of different colors, mine in Off-White, something like a grayish with a garnet lid. The helmet has a matte finish that gives it a classy and elegant look.
 
 The helmet also has some unique features that make it stand out from other enduro helmets. One of these features is the **visor cutouts** that allow riders to stow eyewear safely in the visor. This is a very handy feature for riders who like to switch between glasses and goggles during their rides. The visor is also adjustable in angle, so you can fine-tune it to your preference.
 
