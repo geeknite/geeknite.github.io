@@ -3,14 +3,14 @@ title: 'Agen Avenue Review: France Hidden Gem for Food & Shopping Enthusiasts'
 date: '2023-07-12T10:00:00+02:00'
 last_modified_at: '2025-08-14T12:00:00+02:00'
 tags: [travel, reviews, France, Agen, shopping, dining, culture]
-description: 'Discover Agen Avenue, France's best-kept secret! Our honest review covers the best restaurants, shops, and cultural spots. Plus insider tips for smart shopping.'
+description: "Discover Agen Avenue, France's best-kept secret! Our honest review covers the best restaurants, shops, and cultural spots. Plus insider tips for smart shopping."
 ---
 
 **Agen Avenue** might not be as famous as the Champs-Élysées, but trust me, after spending three days exploring this charming French boulevard, I can confidently say it's one of **France's best-kept secrets**. Located in the heart of the picturesque town of Agen, this avenue offers everything a travel enthusiast could want: incredible food, unique shopping, and that authentic French atmosphere you can't fake.
 
 *Spoiler alert*: If you're a foodie or love hunting for unique finds while traveling, keep reading—this place might just become your new favorite French destination.
 
-![Agen Avenue France](https://all-andorra.com/wp-content/uploads/2023/12/Agen_tourism-min.png){: .align-right style='width: 300px;'}]
+[![Agen Avenue France](https://all-andorra.com/wp-content/uploads/2023/12/Agen_tourism-min.png){: .align-right style="width: 300px;"}]({{ site.constants.wsib }}agen-avenue)
 
 ## What Makes Agen Avenue Special? A Quick History Lesson
 
@@ -22,13 +22,13 @@ The avenue showcases a stunning mix of **classical and modern architectural styl
 
 ### Fine Dining That Won't Break the Bank
 
-Let's talk about the **culinary scene**—it's seriously impressive. From cozy neighborhood cafes to what locals claim are 'almost Michelin-starred' restaurants, Agen Avenue serves up options for every taste and budget.
+Let's talk about the **culinary scene**—it's seriously impressive. From cozy neighborhood cafes to what locals claim are "almost Michelin-starred" restaurants, Agen Avenue serves up options for every taste and budget.
 
 **Le Gourmet de la Rue** caught my attention immediately with its innovative take on traditional French cuisine using local ingredients. Pro tip: if you're planning to visit, book ahead—this place fills up fast, especially during weekend evenings. The duck confit here rivals anything I've had in Paris, but at about 60% of the price.
 
 ### Street Food Worth Writing Home About
 
-If you're more of a 'grab and go' person (like me when I'm exploring), the avenue's **street food scene** is where it really shines. The famous **Agen Prunes**—yes, prunes can be exciting when done right—are a local specialty that actually taste incredible when prepared fresh. Think sweet, caramelized, and nothing like the dried prunes you're imagining.
+If you're more of a "grab and go" person (like me when I'm exploring), the avenue's **street food scene** is where it really shines. The famous **Agen Prunes**—yes, prunes can be exciting when done right—are a local specialty that actually taste incredible when prepared fresh. Think sweet, caramelized, and nothing like the dried prunes you're imagining.
 
 **Boulangerie du Coin** serves what might be the best croissants outside of Paris. I'm not exaggerating—I went back three mornings in a row. Their pain au chocolat at 1.50€ is a steal compared to similar quality in major French cities.
 
@@ -124,7 +124,8 @@ The hostel's location puts you within a 5-minute walk of the avenue's main attra
 
 **Recommended duration**: 2-3 days gives you enough time to experience the avenue's rhythm without feeling rushed.
 
+For more travel and smart shopping tips that'll enhance your European adventures, don't miss our [comprehensive guide to shopping smartly across European Amazon sites]({%- post_url 2024-01-15-tips-for-shopping-on-amazon-spain-eng-edition -%})—perfect for picking up travel essentials or shipping souvenirs home.
 
----
+**Ready to discover your own French hidden gem?** Agen Avenue is waiting, and trust me, it won't disappoint.
 
-**Don't miss out!** Check out our [guide to smart shopping on Amazon Spain]({%- post_url 2024-01-15-tips-for-shopping-on-amazon-spain-eng-edition -%}) and enhance your travel experience with top travel essentials and food storage accessories.
+*Have you discovered any hidden gems during your travels? Share your experiences in the comments—we love hearing about authentic local discoveries that don't appear in every travel guide!*
