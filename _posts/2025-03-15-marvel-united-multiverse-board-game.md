@@ -80,6 +80,8 @@ Marvel United: Multiverse is a fantastic addition to any board game collection, 
 
 So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
 
+---
+
 ### Other Superpowered Games to Check Out
 
 If you love superhero board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
