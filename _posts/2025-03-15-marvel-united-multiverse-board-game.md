@@ -1,89 +1,80 @@
 ---
-title: "Marvel United: Multiverse Board Game - A Superpowered Review"
-date: "2025-03-15"
-tags: ['board games', 'review', 'Marvel United', 'multiverse', 'superheroes']
-description: "A hilarious and detailed review of Marvel United: Multiverse Board Game. Find out why this game is a must-have for Marvel fans and board game enthusiasts!"
+title: "Marvel Legends Series 2022 Marvel's Controller BAF Review"
+date: "2025-09-08"
+tags: ['figurines', 'Marvel Legends', 'review', 'Controller BAF', 'superheroes']
+description: "A hilarious and detailed review of the Marvel Legends Series 2022 Marvel's Controller BAF figurine. Find out why this collectible is a must-have for Marvel fans!"
 ---
 
-![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}
+[![Marvel Legends Controller BAF](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel-legends-controller-baf)
 
 ## Introduction
 
-Welcome, true believers! Today, we're diving into the chaotic, superpowered world of **Marvel United: Multiverse Board Game**. If you're a fan of Marvel comics and love board games, this one promises an epic combination of both. Prepare for a cosmic adventure where superheroes clash with villains, and you might even get to save the universe (or destroy it, no judgment here).
+Welcome, true believers! Today, we're diving into the world of Marvel collectibles with a detailed review of **Marvel Legends Series 2022 Marvel's Controller BAF**. If you're a fan of Marvel comics and love collectible figurines, this one promises an epic combination of both. Prepare for a cosmic adventure on your shelf!
 
-## What is Marvel United: Multiverse?
+## What is Marvel Legends Series 2022 Marvel's Controller BAF?
 
-Marvel United: Multiverse is a cooperative board game where players take on the roles of iconic Marvel superheroes from across the multiverse. With stunning artwork, cool miniatures, and a plethora of villains to battle, this game offers an immersive experience that will keep you engaged for hours.
+The Marvel Legends Series 2022 Marvel's Controller BAF (Build-A-Figure) is a collectible action figure set that allows you to assemble the mighty Controller, a supervillain from the Marvel Universe. Each figurine in the series comes with a piece of the Controller, encouraging collectors to complete the set.
 
 ### The Basics
 
-In Marvel United: Multiverse, players work together to thwart the plans of a dastardly villain. Each player controls a unique superhero, each with special abilities and cards. The goal is to complete missions, defeat the villain, and save the multiverse from impending doom.
+In the Marvel Legends Series, each figure boasts incredible detail and articulation, making them perfect for display or action-packed play. The 2022 series includes characters like Iron Man, Thor, and Spider-Man, all contributing to the assembly of the Controller.
 
 ### Components
 
-The game comes with:
-- **Miniatures**: Beautifully crafted miniatures of your favorite Marvel characters. Seriously, they're so detailed you might want to display them proudly on your shelf.
-- **Cards**: Each hero has a deck of cards representing their abilities, actions, and special powers.
-- **Game Board**: Various locations from the Marvel universe where battles and missions take place.
-- **Tokens and Markers**: Used to track progress, health, and various effects during the game.
+The Marvel Legends Series 2022 Marvel's Controller BAF comes with:
+- **Detailed Figurines**: High-quality figurines of iconic Marvel characters, each with multiple points of articulation.
+- **Controller Pieces**: Each figure includes a piece of the Controller, motivating you to complete the series.
+- **Accessories**: Various accessories related to each character, such as weapons and gear.
 
-**Pro Tip**: Don't let your cat near the miniatures. Those claws are the real supervillains.
+**Pro Tip**: Don't let your cat near these figurines. Those claws are the real supervillains.
 
-## How to Play
+## How to Assemble the Controller
 
 ### Setup
 
-Setting up Marvel United: Multiverse is like staging an Avengers movie. It requires careful planning and maybe a snack break (or two). Lay out the game board, distribute cards and miniatures, and choose your villain. Now you're ready to begin your quest.
+Assembling the Controller from the Marvel Legends Series is like staging an epic Marvel movie battle. Lay out all the figurines, keep track of the Controller pieces, and start assembling. Make sure you've got enough snacks, as this might take a while.
 
 ### Turns and Actions
 
-Each turn, players draw cards and take actions based on their hero's abilities. You can move, attack, rescue civilians, and more. Cooperation is key, so strategize with your teammates to make the most of your abilities.
+Each figure in the series brings their own unique accessories and articulation. You can pose them in dynamic action stances or recreate your favorite comic scenes. Cooperation with fellow collectors might be needed to complete the Controller.
 
 ### Combat
 
-Combat in Marvel United: Multiverse is a blend of strategy and luck. Each villain has unique mechanics that add challenges and twists to the game. Did you plan an epic combo just to have the villain escape? Welcome to the multiverse, where plans often go awry.
+While these figurines won't engage in actual combat, the thrill of assembling the Controller piece by piece is akin to strategizing in the Marvel Universe. Did you plan an epic display just to have your cat knock it over? Welcome to the world of collectible figurines.
 
-## The Multiverse Awesomeness
+## The Collector's Awesomeness
 
 ### Heroes and Villains
 
-One of the best parts of Marvel United: Multiverse is the diverse array of heroes and villains. From Iron Man to Spider-Gwen, you can play as your favorite characters and face off against legendary foes like Thanos and Kang the Conqueror.
+One of the best parts of the Marvel Legends Series 2022 is the diverse array of heroes and villains. From Iron Man to Spider-Gwen, the detail in each figurine is impeccable, making them a worthy addition to any collection.
 
-**Funny Moment**: During one game, our team was so focused on defeating Thanos that we didn't notice Loki sneaking around, causing chaos. It was like watching a comedy of errors unfold.
+**Funny Moment**: During one unboxing session, our excitement was so high that we accidentally mixed up pieces, ending up with Spider-Man's head on Thor's body. It was like a comedy of errors unfold.
 
 ### Replayability
 
-With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers endless replayability. No two games are the same, ensuring you'll want to come back for more cosmic battles.
-
-**Expansion Alert**: Keep an eye out for expansions that introduce new heroes, villains, and missions. Your Marvel universe is about to get even bigger.
+Collecting and posing these figurines offers endless replayability. No two displays are the same, ensuring you'll want to come back for more creative setups. Keep an eye out for future expansions that introduce new characters and accessories.
 
 ## Pros and Cons
 
 ### Pros
 
-- **Immersive Gameplay**: Feel like a superhero as you battle villains and save the universe.
-- **High-Quality Components**: The miniatures and artwork are top-notch.
-- **Replayability**: Multiple scenarios and characters ensure endless fun.
-- **Cooperative Strategy**: Teamwork makes the dream work.
+- **High-Quality Craftsmanship**: Feel like you're holding a piece of the Marvel Universe with these detailed figurines.
+- **Replayability**: Multiple characters and accessories ensure endless fun.
+- **Collectability**: Completing the Controller BAF provides a satisfying sense of accomplishment.
+- **Diverse Characters**: A wide range of heroes and villains from the Marvel Universe.
 
 ### Cons
 
-- **Complex Setup**: The initial setup can be time-consuming.
-- **Luck Factor**: Some elements of the game rely heavily on luck.
-- **Expansions Needed**: To keep the game fresh, expansions are almost a must.
+- **Complex Assembly**: The initial assembly can be time-consuming and requires careful tracking of pieces.
+- **Cost**: Collecting all figurines to complete the Controller can be pricey.
+- **Space**: Displaying the entire series requires ample shelf space.
 
 ## Final Thoughts
 
-Marvel United: Multiverse is a fantastic addition to any board game collection, especially for Marvel fans. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to saving the multiverse.
+Marvel Legends Series 2022 Marvel's Controller BAF is a fantastic addition to any Marvel fan's collection. Its high-quality craftsmanship, diverse characters, and replayability make it a must-have. Just remember, patience and strategy are key to assembling the Controller.
 
-**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast.
+**Criticism Reminder**: While collecting these figurines is incredibly fun, it’s not without its flaws. The assembly can be time-consuming, and completing the series can be expensive. But for those willing to embrace the challenge, Marvel Legends Series 2022 is an absolute blast.
 
-**Ready to embark on a cosmic adventure? Don’t miss out on the fun!**
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel-legends-controller-baf) and get your Marvel Legends Series 2022 Marvel's Controller BAF today. It’s time to assemble your collection and save the multiverse!
 
----
-
-### Other Superpowered Games to Check Out
-
-If you love superhero board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
-
-**Ready to unite and conquer? Click [here]({{ site.constants.wsib }}marvel-united-multiverse) to get your copy now and receive an exclusive discount! Happy adventuring!**
+**Bold Call-to-Action:** Ready to start your collection? Click [here]({{ site.constants.wsib }}marvel-legends-controller-baf) to get your Marvel Legends Series 2022 now and receive an exclusive discount! Happy collecting!
