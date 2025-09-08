@@ -57,77 +57,32 @@ The LEGO Star Wars Millennium Falcon is an iconic set that appeals to both Star 
 
 The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements.
 
-## LEGO Creator Expert Roller Coaster
+## LEGO City Passenger Train
 
-[![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-creator-expert-roller-coaster)
-
-### Overview
-
-The LEGO Creator Expert Roller Coaster is a fun and interactive set that brings the excitement of an amusement park to your home. With over 4,120 pieces, this set features a fully functional roller coaster with a chain-lift system, multiple cars, and a variety of minifigures to enhance the experience.
-
-### Pros
-
-- Interactive and fun to play with
-- Detailed and realistic design
-- Great for display and play
-
-### Cons
-
-- Complex and time-consuming to build
-- Some pieces may be fragile
-
-### Final Thoughts
-
-The LEGO Creator Expert Roller Coaster is ideal for those who enjoy both building and playing with their creations. Its intricate design and functionality provide hours of entertainment, making it a fantastic addition to any LEGO collection.
-
-## LEGO Ideas Tree House
-
-[![LEGO Ideas Tree House](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/21318_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-ideas-tree-house)
+[![LEGO City Passenger Train](https://www.lego.com/cdn/cs/set/assets/blt7b5e8b4cd0e5e0b1/60197_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-city-passenger-train)
 
 ### Overview
 
-The LEGO Ideas Tree House is a beautiful and environmentally conscious set that features over 3,000 pieces. This set includes a detailed treehouse with interchangeable leaf colors, a variety of minifigures, and numerous accessories to create a cozy, nature-inspired scene.
+All aboard! The LEGO City Passenger Train is here to take you on a journey through your living room... and possibly under the couch. This set features over 677 pieces and is designed for builders of all ages. The train comes with a motorized engine, passenger cars, and a full track layout that you can customize to your heart's content. Plus, it includes minifigures like the train conductor and passengers, so you can create your own rail adventures.
 
 ### Pros
 
-- Stunning and unique design
-- Environmentally friendly materials
-- Great for display
+- Motorized train with remote control
+- Easy to build and operate
+- Customizable track layout
+- Includes fun minifigures and accessories
 
 ### Cons
 
-- Leaves can be challenging to attach
-- Limited play features
+- Requires batteries (not included)
+- Limited to the provided track pieces
 
 ### Final Thoughts
 
-The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
-
-## LEGO-42622 Campamento de Aventura: Área de Acampada
-
-![LEGO-42622 Campamento de Aventura](https://www.lego.com/cdn/cs/set/assets/blt4c5e2a2d4b4e4d5/42622_alt1.jpg){: .align-right rel="nofollow"}
-
-### Overview
-
-The LEGO-42622 Campamento de Aventura is a delightful set for those who love the great outdoors. With various pieces including a tent, campfire, and wildlife, this set brings the magic of camping into your living room. Whether you're setting up the tent, arranging the campfire, or spotting the wildlife, this set offers a fantastic outdoor experience.
-
-### Pros
-
-- Engaging and interactive
-- Detailed and realistic designs
-- Great for imaginative play
-
-### Cons
-
-- Some pieces can be fragile
-- Slightly complex for younger builders
-
-### Final Thoughts
-
-The LEGO-42622 Campamento de Aventura is perfect for outdoor enthusiasts and those who love imaginative play. Its detailed and interactive elements provide hours of fun and creativity. Just remember to watch out for the LEGO bears – they're not as cuddly as you think!
+The LEGO City Passenger Train is a fantastic set for both kids and adults who love trains or just want to take their LEGO city to the next level. With its motorized engine and customizable track, it offers hours of playtime and creativity. Just make sure you have enough AAA batteries to keep the train running smoothly!
 
 ## Conclusion
 
-LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
+LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive City Passenger Train, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/lego-sets) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lego) and find the perfect addition to your collection today!**
