@@ -28,7 +28,7 @@ El **Amazfit T-Rex Pro** es un reloj robusto diseñado para los aventureros. Con
 - La precisión del GPS puede variar en áreas densamente arboladas.
 - No tiene tantas funciones avanzadas como Garmin.
 
-[Encuentra el Amazfit T-Rex Pro en {{site.constants.wsibname}}]({{ site.constants.wsib }}Amazfit+T-Rex+Pro)  
+[Encuentra el Amazfit T-Rex Pro en {{site.constants.wsibname}}]({{ site.constants.wsib }}Amazfit+T-Rex+Pro)
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
@@ -48,54 +48,54 @@ El **Huawei Watch GT 3** combina estilo y funcionalidad. Con un diseño elegante
 - Limitaciones en la integración con aplicaciones de terceros.
 - Precio más alto que otros relojes chinos.
 
-[Encuentra el Huawei Watch GT 3 en {{site.constants.wsibname}}]({{ site.constants.wsib }}Huawei+Watch+GT+3)  
+[Encuentra el Huawei Watch GT 3 en {{site.constants.wsibname}}]({{ site.constants.wsib }}Huawei+Watch+GT+3)
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
 
 ## **3. Xiaomi Watch S1 Active**
 
-El **Xiaomi Watch S1 Active** es un reloj versátil que ofrece una excelente relación calidad-precio. Con funciones avanzadas como VO2 max, carga de entrenamiento y mapas detallados, este reloj es el sueño de cualquier atleta serio.
+El **Xiaomi Watch S1 Active** es un reloj versátil que ofrece una excelente relación calidad-precio. Con funciones como monitoreo de frecuencia cardíaca, GPS integrado y una duración de batería de hasta 12 días, es una opción sólida para deportistas y aficionados.
 
 ![Xiaomi Watch S1 Active](https://i.imgur.com/XiaomiWatchS1Active.jpg)
 
 **Pros:**
-- Funciones avanzadas de salud y fitness.
-- Buena duración de batería.
+- Duración de batería decente.
+- Buena integración con aplicaciones de fitness.
 - Precio competitivo.
 
 **Contras:**
-- La precisión del GPS podría ser mejor.
-- No tiene la misma cantidad de funciones avanzadas que Garmin.
+- Precisión del GPS moderada.
+- Menos funciones avanzadas comparadas con Garmin.
 
-[Encuentra el Xiaomi Watch S1 Active en {{site.constants.wsibname}}]({{ site.constants.wsib }}Xiaomi+Watch+S1+Active)  
+[Encuentra el Xiaomi Watch S1 Active en {{site.constants.wsibname}}]({{ site.constants.wsib }}Xiaomi+Watch+S1+Active)
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
 
 ## **4. Coros Pace 2**
 
-El **Coros Pace 2** es conocido por su ligereza y durabilidad. Este reloj es ideal para corredores y triatletas que buscan un dispositivo confiable y preciso.
+El **Coros Pace 2** es conocido por su impresionante duración de batería y su precisión en el seguimiento del rendimiento deportivo. Ideal para corredores y triatletas, este reloj ofrece métricas avanzadas como VO2 max y carga de entrenamiento.
 
 ![Coros Pace 2](https://i.imgur.com/CorosPace2.jpg)
 
 **Pros:**
+- Duración de batería excepcional.
+- Precisión del GPS excelente.
 - Ligero y cómodo.
-- Excelente duración de batería.
-- Funciones avanzadas de entrenamiento.
 
 **Contras:**
-- La interfaz puede ser un poco complicada para algunos usuarios.
-- Precio moderado.
+- Menos conocido que otras marcas.
+- Interfaz puede ser complicada para nuevos usuarios.
 
-[Encuentra el Coros Pace 2 en {{site.constants.wsibname}}]({{ site.constants.wsib }}Coros+Pace+2)  
+[Encuentra el Coros Pace 2 en {{site.constants.wsibname}}]({{ site.constants.wsib }}Coros+Pace+2)
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
 
 ## **5. Garmin Forerunner 255**
 
-El **Garmin Forerunner 255** es un reloj de gama alta que ofrece una precisión insuperable y funciones avanzadas de entrenamiento. Este reloj es ideal para atletas serios que buscan llevar su entrenamiento al siguiente nivel.
+El **Garmin Forerunner 255** es el reloj perfecto para atletas serios. Con funciones avanzadas como VO2 max, carga de entrenamiento y mapas detallados, este reloj es el sueño de cualquier atleta serio.
 
 ![Garmin Forerunner 255](https://i.imgur.com/GarminForerunner255.jpg)
 
@@ -108,7 +108,7 @@ El **Garmin Forerunner 255** es un reloj de gama alta que ofrece una precisión 
 - Precio elevado.
 - La interfaz puede ser intimidante para principiantes.
 
-[Encuentra el Garmin Forerunner 255 en {{site.constants.wsibname}}]({{ site.constants.wsib }}Garmin+Forerunner+255)  
+[Encuentra el Garmin Forerunner 255 en {{site.constants.wsibname}}]({{ site.constants.wsib }}Garmin+Forerunner+255)
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/aSMZ6cxs.jpg" %}
 
 ---
