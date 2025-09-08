@@ -42,23 +42,27 @@ Amazon a menudo ofrece promociones especiales en las que puedes obtener cheques 
 
 Una forma divertida y social de adquirir cheques de Amazon sin comisión es intercambiando tarjetas de regalo con amigos y familiares. Si tienes una tarjeta de regalo que no necesitas, pero alguien que conoces tiene una de Amazon, pueden intercambiarlas y ambos se beneficiarán.
 
-## Usa Amazon Prime de manera inteligente
+---
+
+## Consejos para mejorar tu experiencia de compra en Amazon
+
+### 1. **Usa Amazon Prime de manera inteligente**
 
 Amazon Prime es una suscripción que ofrece una variedad de beneficios, incluyendo entrega gratuita en un día y acceso a contenido de streaming. Si estás considerando suscribirte, asegúrate de [evaluar si realmente obtendrás suficiente valor a cambio de tu dinero]({%- post_url 2023-01-01-vale-la-pena-ser-prime-amazon-2023 -%}).
 
-### Explora las reseñas de los productos
+### 2. **Explora las reseñas de los productos**
 
 Las reseñas de los productos pueden ser una herramienta valiosa para tomar decisiones de compra informadas. Pero ojo, no todas las reseñas son fiables. Aprende a [distinguir las opiniones falsas]({%- post_url 2023-01-21-son-fiables-reviews-amazon-motivos-no-fiarse -%}) y a utilizarlas para tu beneficio.
 
-### Aprovecha las ofertas flash y descuentos exclusivos
+### 3. **Aprovecha las ofertas flash y descuentos exclusivos**
 
 Amazon ofrece regularmente ofertas flash y descuentos exclusivos para los miembros Prime. Mantente atento a estas ofertas para obtener los mejores precios en tus productos favoritos.
 
-### Utiliza herramientas de comparación de precios
+### 4. **Utiliza herramientas de comparación de precios**
 
 Antes de realizar una compra, utiliza herramientas de comparación de precios como [Where Should I Buy?]({{ site.constants.wsib }}). Esta herramienta te ayudará a encontrar el mejor precio y a comparar entre diferentes vendedores.
 
-### Agrupa tus entregas
+### 5. **Agrupa tus entregas**
 
 Si haces varias compras, intenta agrupar las entregas para recibir todos los productos en un solo envío. Esto no solo es más conveniente, sino que también es más ecológico.
 
