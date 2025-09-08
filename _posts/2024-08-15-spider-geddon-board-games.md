@@ -75,6 +75,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({{ site.constants.wsib }}adventure-tactics-coraquest-which-game-choose-for-young-teens) or [why adults should also board game]({{ site.constants.wsib }}adult-board-games).
+If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
 
-**Ready to face the spider apocalypse?** Don’t miss out on the fun!
+**Ready to join the battle?** Click [here](https://example.com) to grab your copy of Spider-Geddon or Alien: Fate of the Nostromo today! Don't miss out on these epic space adventures. **Happy gaming, and watch out for those chestbursters!**
