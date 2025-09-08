@@ -63,28 +63,19 @@ Thunder Alley allows players to control a team of race cars, positioning them st
 
 Camel Up is a lighthearted racing game where players bet on which camel will win a race around the track. It's great for anyone looking for an easy yet exciting game. And remember, camels may be slow, but they sure know how to make a race interesting!
 
-**Expansion Alert:** The Supercup expansion adds new betting options and track sections, making the game even more unpredictable. Who will be the ultimate camel champion?
-
 ### 9. [Snow Tails]({{ site.constants.wsib }}snow-tails)
 
-Snow Tails has players race dogsleds through a winter wonderland, managing their speed and making strategic decisions. It offers a unique racing experience. Just watch out for those snowdrifts - they can be a real sled-stopper!
-
-**Expansion Alert:** The Mush! Mush! expansion adds new tracks and challenges, making the race even more exciting. Are you ready to brave the cold?
+Snow Tails lets players race dogsleds through a winter wonderland, where careful speed management and strategic decisions are key to winning. The game includes various track layouts with unique challenges and obstacles. With a ranking of #1111, Snow Tails is a unique racing game sure to keep you entertained for hours.
 
 ### 10. [PitchCar]({{ site.constants.wsib }}pitchcar)
 
-PitchCar takes the action off the board and onto a tabletop track, with players flicking their cars around hairpin turns and long straightaways. It's both physical and strategic. Just don't flick too hard - you might send your car flying off the table!
+PitchCar takes the racing action off the board and onto a tabletop track, where players flick their cars around hairpin turns and long straightaways. It's a game that's both physical and strategic, offering a fun and unique racing experience.
 
-**Expansion Alert:** The Extension 1 and 2 expansions add new track pieces and obstacles, making the game even more challenging. Can you master the new tracks?
+Ready to add some racing thrills to your board game collection? Check out these games and let the races begin!
 
-## Conclusion
+For more reviews and board game recommendations, check out our previous posts:
 
-From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming. **Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
+- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Flamme Rouge: Grand Tour Review]({%- post_url 2024-04-07-flamme-rouge-grand-tour-review -%})
 
-## Linking You to More Gaming Adventures
-
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
-- **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
-
-**Ready to unite and conquer? Click [here]({{ site.constants.wsib }}marvel-united-multiverse) to get your copy now and receive an exclusive discount! Happy adventuring!**
+**Call to Action:** Don't miss out on these fantastic racing games! Head over to Geeknite's Board Games Section and get your copy today! Happy racing!
