@@ -75,8 +75,9 @@ Here are some pro tips to make your eBay shopping experience smooth and enjoyabl
 4. **Use eBay's Buyer Protection**: If something goes wrong with your purchase, eBay's Buyer Protection program can help you get your money back.
 
 **Bonus Tip**: If you’re bidding, set a maximum price and stick to it. Don’t let the thrill of the auction drain your bank account.
-
----
+ 
+{% comment %}
+<!-- ---
 
 ## **Comparison with Other Platforms**
 
@@ -86,7 +87,8 @@ While Amazon offers convenience and fast shipping, eBay shines with its competit
 
 ### [Top 5 Xiaomi Gadgets of 2025]({%- post_url 2025-04-01-top-5-xiaomi-gadgets -%})
 
-If you’re curious about other Xiaomi products worth buying, check out our list of the top 5 Xiaomi gadgets of 2025. Spoiler: the Mi 12 Ultra makes the cut.
+If you’re curious about other Xiaomi products worth buying, check out our list of the top 5 Xiaomi gadgets of 2025. Spoiler: the Mi 12 Ultra makes the cut. -->
+{% endcomment %}
 
 ---
 
