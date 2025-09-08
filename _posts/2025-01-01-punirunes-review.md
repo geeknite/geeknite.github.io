@@ -7,7 +7,7 @@ last_modified_at: '2025-03-29T18:11:09+02:00'
 
 Welcome to our in-depth review of **Punirunes**, a Tamagotchi-inspired physical pet toy that has captured the hearts of many users worldwide. With its tactile button that simulates touching your virtual pet, Punirunes brings a nostalgic yet modern twist to the virtual pet genre. In this review, we’ll dive deep into its features, interaction mechanics, design, sound, and overall experience. If you’re considering giving Punirunes a try, this review will help you understand what to expect—and what to watch out for.
 
-![Punirunes](https://i.imgur.com/arT7fdFm.jpg){: .align-right}
+[![Punirunes](https://i.imgur.com/arT7fdFm.jpg){: .align-right}]({{ site.constants.wsib }}punirunes)
 
 ---
 
@@ -35,13 +35,9 @@ In Punirunes, currency is earned primarily through mini-games. This currency can
 
 ---
 
-## Pros
+## Design and Sound
 
-- **Engaging Tasks**: The tasks and mini-games in Punirunes are well-designed, offering a good balance of difficulty and enjoyment.
-- **Unique Mechanics**: The tactile button adds a physical dimension to the gameplay, making interactions feel more immersive.
-- **Pet Growth**: Watching your pet grow and evolve adds a layer of excitement and replayability.
-- **No Pay-to-Win**: The absence of in-app purchases ensures a fair and enjoyable experience for all players.
-- **Charming Design**: The graphics and animations are adorable, making it hard not to fall in love with your virtual pet.
+Punirunes features a charming design with adorable graphics and animations. The characters are cute enough to make even the grumpiest player smile. The sound effects and background music are pleasant without being overbearing, creating an immersive experience that keeps you coming back.
 
 ---
 
@@ -63,4 +59,4 @@ If you’re a fan of virtual pets or just looking for a fun and interactive toy,
 
 **Ready to embark on an adventure with Punirunes? Find the best prices online with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}punirunes).**
 
-We highly recommend giving Punirunes a try.
+We highly recommend giving Punirunes a try. Purchase it today and embark on an adventure filled with love, care, and lots of cuddles!
