@@ -75,6 +75,28 @@ The LEGO Star Wars AT-AT Walker is a fantastic set for those who love the ground
 
 The LEGO Star Wars AT-AT Walker is perfect for fans of the epic ground battles in Star Wars. Its interactive features and detailed design make it a fun addition to any LEGO Star Wars collection. Just make sure your snow speeders are ready to trip it up!
 
+## LEGO Star Wars Infantry Support Platform (ISP)
+![LEGO Star Wars Infantry Support Platform](https://www.lego.com/cdn/cs/set/assets/blt5c9d8b68d76a1f0a/75365_alt1.jpg){: .align-right rel="nofollow"}
+
+### Overview
+
+For those of you who have always wanted to command your own mini army, the LEGO Star Wars Infantry Support Platform (ISP) is the set for you. This set includes a miniature version of the iconic support vehicle used by the Galactic Republic's clone troopers. It comes with multiple minifigures, including clone troopers and battle droids, allowing for epic battles right in your living room.
+
+### Pros
+
+- Great for creating battle scenes
+- Includes multiple minifigures
+- Affordable compared to other large sets
+
+### Cons
+
+- Not as intricate as larger sets
+- Limited play features
+
+### Final Thoughts
+
+The LEGO Star Wars Infantry Support Platform is a great addition to any Star Wars LEGO collection, especially for those who love the Clone Wars era. It offers good value for its price and provides a fun way to recreate scenes from the series.
+
 ## Conclusion
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of Star Wars sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Millennium Falcon to the interactive Death Star, each set offers something unique and special.
