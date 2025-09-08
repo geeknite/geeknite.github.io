@@ -49,7 +49,7 @@ Combat in Marvel United: Multiverse is a blend of strategy and luck. Each villai
 
 One of the best parts of Marvel United: Multiverse is the diverse array of heroes and villains. From Iron Man to Spider-Gwen, you can play as your favorite characters and face off against legendary foes like Thanos and Kang the Conqueror.
 
-**Funny Moment**: During one game, our team was so focused on defeating Thanos that we didn't notice Loki sneaking around, causing chaos. It was like watching a comedy of errors unfold.
+**Funny Moment**: During one game, our team was so focused on defeating Thanos that we didn't notice Loki sneaking around, causing chaos. It was like watching a comedy of errors unfold【4:5†source】.
 
 ### Replayability
 
@@ -76,7 +76,7 @@ With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers 
 
 Marvel United: Multiverse is a fantastic addition to any board game collection, especially for Marvel fans. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to saving the multiverse.
 
-**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast【4:5†source】.
 
 So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
 
