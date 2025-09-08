@@ -7,7 +7,7 @@ tags:
 - games
 - board games
 - humor
-last_modified_at: '2025-09-08T19:44:44.2636164Z'
+last_modified_at: '2025-09-08T19:50:05.9633942Z'
 ---
 
 [![Heat: Pedal to the Metal](https://i.imgur.com/uK76yQB.jpeg){: style="float: right;"}]({{ site.constants.wsib }}heat-pedal-to-the-metal)
@@ -98,7 +98,7 @@ HEAT: Pedal to the Metal is a fantastic racing game that offers a perfect blend 
 
 **Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The steep learning curve and punishing mechanics might deter some players, but for those willing to embrace the chaos, HEAT is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}heat-pedal-to-the-metal) and get your copy of HEAT: Pedal to the Metal today. It’s time to put the pedal to the metal and race your way to victory!
+**Rev up your engines and don’t miss out on the fun! Head over to [Geeknite]({{ site.constants.wsib }}heat-pedal-to-the-metal) and get your copy of HEAT: Pedal to the Metal today. It’s time to put the pedal to the metal and race your way to victory!**
 
 ---
 
