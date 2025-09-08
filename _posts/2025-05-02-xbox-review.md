@@ -36,7 +36,7 @@ First things first, let's talk hardware. The Xbox Series X is an absolute beast.
   - *Halo Infinite*  
   - *Fable*  
   - *Forza Horizon 5*  
-  - *Everwild*
+  - *Everwild*  
 
 **My opinion?** The exclusives are like that friend who always brings the best snacks to the party. They're fun, they're enticing, but sometimes you wonder if you should've just ordered a pizza instead.
 
