@@ -5,11 +5,11 @@ tags:
 - gaming
 - xbox
 - review
-last_modified_at: '2025-09-08T17:38:04.7626246Z'
+last_modified_at: '2025-08-20T18:32:35.2592592Z'
 description: "A detailed and humorous review of Xbox in 2025. Are you still on team Xbox or is it time to switch?"
 ---
 
-[![Xbox Series X](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}]({{ site.constants.wsib }}xbox-series-x)
+![Xbox Series X](https://m.media-amazon.com/images/I/61nq7mC0tHL.jpg){: .align-right}
 
 Ah, the Xbox. The console that's been giving PlayStation a run for its money since the early 2000s. But here we are in 2025, and the gaming world has changed dramatically. So, is the Xbox still worth your hard-earned cash? Let's dive deep into the world of Xbox and find out.
 
@@ -69,14 +69,6 @@ The Xbox Series X is often compared to a mini-fridge, but it's far more than a k
 
 ---
 
-### Xbox 360 Games: Blast from the Past
-
-Remember the good old days of the Xbox 360? When life was simpler, and you didn't need a mortgage to buy a graphics card? Well, those days aren't gone! The Xbox Series X is backward compatible, allowing you to indulge in nostalgia with your favorite Xbox 360 games.
-
-**Hot tip:** Check out eBay for deals on Xbox 360 games discs only. Free postage is a nice bonus【4:3†source】.
-
----
-
 ### Conclusion: Should You Buy an Xbox in 2025?
 
 If you're searching for a powerful console with a plethora of games, the **Xbox Series X** is a solid choice. Its hardware is impressive, the exclusives are exciting, and the online services are top-notch. Plus, the Xbox community is as vibrant as ever.
@@ -87,3 +79,5 @@ But if you're still on the fence, take a gander at our [review of the PS5]({%- p
 {% include amazon.html asin="B09XX5FVHJ" %}
 
 **Bold Call-to-Action:** If you're ready to jump into the world of Xbox, don't wait! Grab your Xbox Series X today and start your gaming adventure!
+
+Visible: 0% - 100%
