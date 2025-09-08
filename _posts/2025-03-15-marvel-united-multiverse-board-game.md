@@ -76,9 +76,7 @@ With multiple heroes, villains, and scenarios, Marvel United: Multiverse offers 
 
 Marvel United: Multiverse is a fantastic addition to any board game collection, especially for Marvel fans. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to saving the multiverse.
 
-**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Marvel United: Multiverse is an absolute blast.
-
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}marvel united multiverse) and get your copy of Marvel United: Multiverse today. It’s time to assemble your team and save the multiverse! 
 
 ---
 
