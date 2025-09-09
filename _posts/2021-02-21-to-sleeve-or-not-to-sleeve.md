@@ -1,8 +1,8 @@
 ---
-title: "To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and Board Games"
+title: 'To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and Board Games'
 tags: [board games, card games, sleeves, humor, board gaming]
-description: "Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!"
-date: "2021-02-21"
+description: 'Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!'
+date: '2021-02-21'
 last_modified_at: '2023-07-21T00:00:00+02:00'
 ---
 
@@ -16,7 +16,7 @@ Before you rush off to sleeve your entire collection, let's embark on a quirky j
 
 ## The Sleeve Conundrum
 
-### *Pros of Sleeving Your Games*
+### _*Pros of Sleeving Your Games*_
 
 1. **Shield against Destruction**: If your gaming sessions resemble an intense battle royale, then sleeves are your allies. They safeguard your cards from the dreaded enemies of wear, tear, and unfortunate drink spills.
 
@@ -28,13 +28,13 @@ Before you rush off to sleeve your entire collection, let's embark on a quirky j
 
 5. **Cheap Therapy**: Sleeving your cards can be oddly therapeutic. It's a zen activity that can help you unwind from the stresses of life and enter a state of gaming serenity.
 
-### *Cons of Sleeving Your Games*
+### _*Cons of Sleeving Your Games*_
 
 1. **Cardzilla!**: Adding sleeves to your cards might transform them into oversized monsters that no longer fit into the game's original box or insert. It's like trying to squeeze an elephant into a phone booth!
 
 2. **Bank Breaker**: Premium sleeves may be exquisite, but they come at a cost – your hard-earned cash! Before you know it, you've spent more on sleeves than the games themselves.
 
-3. **Snug Life**: Snugging your most played games might sound like a great idea, but what about your less-played games? You'll end up with a mix of sleeve-clad and sleeveless games, like a half-dressed board game party. 【4†source】
+3. **Snug Life**: Snugging your most played games might sound like a great idea, but what about your less-played games? You'll end up with a mix of sleeve-clad and sleeveless games, like a half-dressed board game party.
 
 4. **Card Stuck-o-phobia**: Ever experienced the horror of shuffling sleeved cards for the first time? Suddenly, you become a card magician, clumsily attempting to bridge shuffle without launching cards across the room.
 
@@ -56,7 +56,7 @@ Sleeving your games is not a decision to be taken lightly, for it will impact th
 
 ### **1. The Hardcore Gamer's Dilemma**
 
-You're the type of gamer who treats board games like a sacred ritual. Your collection is an altar, and your games are cherished relics. In this case, sleeving might be a no-brainer. Protecting your games is essential to keep the gaming gods happy and ensure your cards remain pristine for generations to come.
+You're the type of gamer who treats board games like a sacred ritual. In this case, sleeving might be a no-brainer. Protecting your games is essential to keep the gaming gods happy and ensure your cards remain pristine for generations to come.
 
 ### **2. The Nonchalant Player's Take**
 
