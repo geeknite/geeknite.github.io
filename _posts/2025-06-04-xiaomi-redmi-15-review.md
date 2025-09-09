@@ -21,10 +21,6 @@ The Redmi 15 sports a 6.7-inch AMOLED display with a resolution of 2400x1080 pix
 
 Under the hood, the Redmi 15 is powered by the Snapdragon 780G processor, coupled with up to 8GB of RAM. Multitasking is a breeze, and you can run multiple apps without feeling like you're operating a potato. Gaming performance is decent, though don't expect to run the latest AAA titles on max settings.
 
-### **Gaming Performance**
-
-In gaming benchmarks, the Redmi 15 holds its own against the competition. Titles like Cyberpunk 2077 and Call of Duty: Warzone run smoothly, with frame rates consistently hitting the sweet spot for 1080p and 1440p gaming. However, let's not kid ourselves—you're not going to hit 240 FPS in ultra settings without a beefy GPU to back it up.
-
 ## **Camera**
 
 Xiaomi has equipped the Redmi 15 with a triple camera setup: a 64MP main sensor, an 8MP ultra-wide lens, and a 5MP macro shooter. It's no DSLR, but it takes solid photos. The night mode works well enough to capture those late-night pizza runs without too much grain. Selfies are handled by a 20MP front camera that does a decent job of making you look Instagram-ready.
