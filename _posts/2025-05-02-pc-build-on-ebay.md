@@ -61,7 +61,7 @@ The graphics card is where the magic happens. For a budget build, the **NVIDIA G
 
 ### Storage: The Warehouse
 
-For storage, it's all about speed. Grab a **Samsung 970 EVO 500GB NVMe SSD** for lightning-fast boot times and data transfer. Your PC will thank you.
+For storage, it's all about speed. Grab a **Samsung 970 EVO 500GB NVMe SSD** for lightning-fast boot times and data transfer. Your PC will thank you【4:0†source】.
 
 ### Power Supply: The Juice
 
