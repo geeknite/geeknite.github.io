@@ -9,11 +9,11 @@ excerpt: "Detailed analysis of the Bluegrass Rogue helmet covering design, venti
 redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
 ---
 
-[![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}]({{ site.constants.wsib }}Bluegrass Rogue)
+![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg)
 
 If you're looking for a new enduro helmet that combines style, comfort, and functionality, you might want to check out the **Bluegrass Rogue helmet**. This helmet has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for mountain bikers who want to ride hard and have fun.
 
-In this comprehensive review, I'll give you an in-depth analysis of the Bluegrass Rogue helmet, covering its design, fit, ventilation, safety, and performance. I'll also compare it to some other similar enduro helmets on the market, including the popular [Bell Super 3R MIPS]({%- post_url 2020-03-18-bell-super-dh-mips -%}), and show you where you can buy it at a good price. By the end of this post, you'll have a clear idea of whether the Bluegrass Rogue helmet is the right choice for your mountain biking adventures.
+In this comprehensive review, I'll give you an in-depth analysis of the Bluegrass Rogue helmet, covering its design, fit, ventilation, safety, and performance. I'll also compare it to some other similar enduro helmets on the market, including the popular [Bell Super 3R MIPS]({% post_url 2020-03-18-bell-super-dh-mips %}), and show you where you can buy it at a good price. By the end of this post, you'll have a clear idea of whether the Bluegrass Rogue helmet is the right choice for your mountain biking adventures.
 
 ## Why Helmet Choice Matters in Enduro
 
@@ -43,11 +43,11 @@ The Bluegrass Rogue helmet also has **internal channels** that connect the vents
 
 ## Safety
 
-Safety is obviously the most important factor to consider when choosing an enduro helmet. You want a helmet that protects your head from impacts and injuries, especially in the event of a crash or a fall. The Bluegrass Rogue helmet offers a high level of safety and protection for your head.
+Safety is the most important factor to consider when choosing an enduro helmet. You want a helmet that protects your head from impacts and injuries, especially in the event of a crash or a fall. The Bluegrass Rogue helmet offers a high level of safety and protection for your head.
 
 The Bluegrass Rogue helmet has a **durable shell** that is made of polycarbonate and ABS. This shell is designed to withstand impacts and absorb shocks, reducing the risk of head trauma. The shell also has a **multi-density EPS liner** that further enhances the shock absorption and energy dissipation of the helmet.
 
-The Bluegrass Rogue helmet also meets the **safety standards** for enduro helmets. It is certified by CE EN 1078, ASTM F1952-15, ASTM F2032-15, and AS/NZS 2063:2008. These standards ensure that the helmet meets the minimum requirements for impact resistance, retention system performance, and field of vision.
+The Bluegrass Rogue helmet also meets the **safety standards** for enduro helmets. It is certified by CE EN 1078, ASTM F1952-15, ASTM F2032-15, and AS/NZS 2063:2008. These standards ensure that the helmet meets the minimum requirements for impact resistance, retention system performance, and field of vision【4:2†source】.
 
 ## Performance
 
@@ -55,7 +55,7 @@ The performance of the Bluegrass Rogue helmet is another aspect that makes it a 
 
 The Bluegrass Rogue helmet performs well in **different terrains** and **different weather conditions**. Whether you're riding on smooth trails or rough tracks, on sunny days or rainy days, the Bluegrass Rogue helmet adapts to your needs and preferences. The helmet has a **versatile design** that works well with different types of eyewear, clothing, and accessories. The helmet also has a **stylish look** that complements your riding style and personality.
 
-The Bluegrass Rogue helmet also performs well in **different riding situations** and **different riding styles**. Whether you're riding casually or competitively, solo or with friends, fast or slow, the Bluegrass Rogue helmet supports your goals and ambitions. The helmet has a **functional design** that enhances your vision, ventilation, and protection. The helmet also has an **enthusiastic tone** that motivates you to ride harder and have more fun.
+The Bluegrass Rogue helmet also performs well in **different riding situations** and **different riding styles**. Whether you're riding casually or competitively, solo or with friends, fast or slow, the Bluegrass Rogue helmet supports your goals and ambitions. The helmet has a **functional design** that enhances your vision, ventilation, and protection. The helmet also has an **enthusiastic tone** that motivates you to ride harder and have more fun【4:2†source】.
 
 ## Comparison with Other Enduro Helmets
 
