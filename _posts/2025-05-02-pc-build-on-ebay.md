@@ -45,7 +45,7 @@ Now that you're equipped with essential eBay tips, let's dive into the fun part 
 
 The CPU is like the brain of your PC, so you want it to be smart but not too expensive. I recommend the **AMD Ryzen 5 3600**. It's a six-core marvel that packs a punch without breaking the bank. Look for listings with good feedback and competitive prices.
 
-[![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}]({{ site.constants.wsib }}amd)
+![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}({{ site.constants.wsib }}amd)
 
 ### Motherboard: The Backbone
 
@@ -61,7 +61,7 @@ The graphics card is where the magic happens. For a budget build, the **NVIDIA G
 
 ### Storage: The Warehouse
 
-For storage, it's all about speed. Grab a **Samsung 970 EVO 500GB NVMe SSD** for lightning-fast boot times and data transfer. Your PC will thank you【4:0†source】.
+For storage, it's all about speed. Grab a **Samsung 970 EVO 500GB NVMe SSD** for lightning-fast boot times and data transfer. Your PC will thank you.
 
 ### Power Supply: The Juice
 
@@ -70,6 +70,10 @@ You need a reliable power supply to keep your components juiced up. The **Corsai
 ### Case: The Armor
 
 Finally, you'll need a case to house all your precious components. The **NZXT H510** is sleek, stylish, and has great airflow. Plus, it looks like it was designed by Tony Stark himself.
+
+### ASRock Z97 Anniversary
+
+If you're nostalgic or on a strict budget, consider the **ASRock Z97 Anniversary** motherboard. It’s an oldie but a goodie, and often found at a steal on eBay. Perfect for those retro builds or if you want to make your PC feel like it's celebrating its own birthday every year【4:0†source】.
 
 ## Putting It All Together
 
@@ -80,7 +84,7 @@ Congratulations! You've gathered all your components from eBay and are ready to 
 3. **Insert the CPU**: Carefully insert the CPU into the motherboard socket. Don't force it – the pins are delicate.
 4. **Install the RAM**: Insert the RAM sticks into the designated slots on the motherboard. You'll hear a satisfying click.
 5. **Mount the Graphics Card**: Insert the graphics card into the PCIe slot and secure it with screws.
-6. **Connect Storage**: Attach the SSD to the motherboard and secure it in the drive bay【4:0†source】.
+6. **Connect Storage**: Attach the SSD to the motherboard and secure it in the drive bay.
 7. **Connect Power Supply**: Install the power supply in the case and connect it to the motherboard, CPU, and graphics card.
 8. **Cable Management**: Tidy up the cables for optimal airflow and aesthetics. Use zip ties if necessary.
 9. **Power On**: Close the case, plug in your monitor, keyboard, and mouse, and power on your PC. If everything lights up, you've done it!
