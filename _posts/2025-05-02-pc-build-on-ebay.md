@@ -61,7 +61,7 @@ The graphics card is where the magic happens. For a budget build, the **NVIDIA G
 
 ### Storage: The Warehouse
 
-For storage, it's all about speed. Grab a **Samsung 970 EVO 500GB NVMe SSD** for lightning-fast boot times and data transfer. Your PC will thank you.
+For storage, it's all about speed. Grab a **Samsung 850 EVO 250GB SSD** for lightning-fast boot times and data transfer. Your PC will thank you.
 
 ### Power Supply: The Juice
 
@@ -91,4 +91,4 @@ Building a PC using eBay can be a thrilling and rewarding experience. With compe
 
 **Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
 
-**Ready to start building your dream PC on eBay? [Shop now](https://www.ebay.com/sch/i.html?_nkw=pc+components&tag={{ site.constants.ebay_com }}) and let the adventure begin!**
+**Ready to start building?** Check out the latest deals on eBay and get your geek on!
