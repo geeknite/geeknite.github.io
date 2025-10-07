@@ -45,11 +45,11 @@ Now that you're equipped with essential eBay tips, let's dive into the fun part 
 
 The CPU is like the brain of your PC, so you want it to be smart but not too expensive. I recommend the **AMD Ryzen 5 3600**. It's a six-core marvel that packs a punch without breaking the bank. Look for listings with good feedback and competitive prices.
 
-![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}({{ site.constants.wsib }}amd)
+[![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}]({{ site.constants.wsib }}amd)
 
 ### Motherboard: The Backbone
 
-Next up, the motherboard. You need a sturdy backbone for your PC. The **MSI B450 TOMAHAWK MAX** is a great choice. It's reliable, has all the necessary features, and won't cost you an arm and a leg.
+If you're looking for a reliable and affordable motherboard, consider the **ASRock H81M-HDS**. It's a sturdy motherboard perfect for budget builds, providing just enough features without sending your wallet into exile.
 
 ### RAM: The Memory
 
@@ -70,10 +70,6 @@ You need a reliable power supply to keep your components juiced up. The **Corsai
 ### Case: The Armor
 
 Finally, you'll need a case to house all your precious components. The **NZXT H510** is sleek, stylish, and has great airflow. Plus, it looks like it was designed by Tony Stark himself.
-
-### ASRock Z97 Anniversary
-
-If you're nostalgic or on a strict budget, consider the **ASRock Z97 Anniversary** motherboard. It’s an oldie but a goodie, and often found at a steal on eBay. Perfect for those retro builds or if you want to make your PC feel like it's celebrating its own birthday every year【4:0†source】.
 
 ## Putting It All Together
 
