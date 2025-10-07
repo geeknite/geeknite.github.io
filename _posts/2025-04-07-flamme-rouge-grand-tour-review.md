@@ -29,13 +29,7 @@ As someone who's spent countless hours with racing board games—from the Formul
 
 ## The Core Game
 
-Before we get into the nitty-gritty of the Grand Tour expansion, let’s take a quick refresher on what makes Flamme Rouge such a beloved game. Flamme Rouge is a fast-paced bicycle racing game where players control a team of two cyclists, a Rouleur and a Sprinteur, each with their unique deck of movement cards. The objective? To navigate the peloton, manage your energy, and cross the finish line first.
-
-The game’s elegant mechanics and strategic depth make it a hit among both casual gamers and hardcore strategists. The base game itself has received rave reviews and is ranked #448 on BoardGameGeek.
-
-**Pro Tip:** Always save some energy for the final sprint. Trust me, there’s nothing worse than running out of steam right before the finish line.
-
----
+Before we get into the nitty-gritty of the Grand Tour expansion, let’s take a quick refresher on what makes Flamme Rouge such a beloved game. Flamme Rouge is a fast-paced bicycle racing game where players control a team of two cyclists, a Rouleur and a Sprinteur, each with their unique deck of movement cards. The objective?
 
 ## Grand Tour Expansion: Multi-Stage Racing Excellence
 
@@ -63,7 +57,7 @@ One of Grand Tour's standout features is its diverse track collection. These are
 
 One of the highlights of the Grand Tour expansion is the addition of new tracks. These tracks are designed to simulate the grueling multi-stage races seen in real-life grand tours like the Tour de France. Each stage presents unique challenges, from steep climbs to treacherous descents, requiring players to adapt their strategies accordingly.
 
-**Criticism Alert:** While the new tracks add variety, some players might find the steep climbs a bit too punishing, especially if they’ve already exhausted their best movement cards. It’s like trying to climb a mountain with a flat tire—frustrating but memorable.
+**Criticism Alert:** While the new tracks add variety, some players might find the steep climbs a bit too punishing, especially if they’ve already exhausted their best movement cards. It’s like trying to climb a mountain with a flat tire—frustrating but memorable【17†source】.
 
 ### Team Management Excellence
 
@@ -77,7 +71,7 @@ This creates the same strategic depth we see in professional cycling, where team
 
 To spice things up, Grand Tour introduces event cards that can change the course of the race. From sudden weather changes to unexpected obstacles, these cards ensure that no two races are ever the same. Adaptability and quick thinking are key to navigating these surprises.
 
-**Pro Tip:** Always expect the unexpected. That sunny day on the track? It might just turn into a torrential downpour, leaving your cyclists slipping and sliding like they’re on an ice rink.
+**Pro Tip:** Always expect the unexpected. That sunny day on the track? It might just turn into a torrential downpour, leaving your cyclists slipping and sliding like they’re on an ice rink【18†source】.
 
 ---
 
@@ -87,7 +81,7 @@ Playing Flamme Rouge: Grand Tour feels like a whole new adventure. The multi-sta
 
 ### Solo Play
 
-If you’re a lone wolf, Flamme Rouge offers a challenging solo mode where you can compete against a virtual opponent. But let’s be real, the true fun of Flamme Rouge comes when you’re screaming at your friends to “Hurry up and play your card already!”
+If you’re a lone wolf, Flamme Rouge offers a challenging solo mode where you can compete against a virtual opponent. But let’s be real, the true fun of Flamme Rouge comes when you’re screaming at your friends to “Hurry up and play your card already!”【18†source】.
 
 ### Multiplayer Mayhem
 
@@ -97,7 +91,7 @@ Flamme Rouge truly shines in a multiplayer setting. Whether it’s a game night 
 
 ## Expansions and Compatibility
 
-Flamme Rouge: Grand Tour is fully compatible with the previous expansions, **Peloton** and **Meteo**. This means you can mix and match elements from all expansions to create your ultimate cycling experience.
+Flamme Rouge: Grand Tour is fully compatible with the previous expansions, **Peloton** and **Meteo**. This means you can mix and match elements from all expansions to create your ultimate cycling experience.【17†source】
 
 - **Peloton**: Introduces new riders and tactics, allowing up to six players to join the race. It also adds more strategic depth with new rider abilities.
 - **Meteo**: Adds weather conditions like rain and wind, which can dramatically change the outcome of a stage. Want to add a rainstorm to your Grand Tour? Go for it!
@@ -136,14 +130,6 @@ Downforce adds a betting element to the racing game genre. Players bid on cars a
 
 **Flamme Rouge: Grand Tour** is a must-have expansion for fans of the base game. It takes the already excellent Flamme Rouge and elevates it with a deeper, more engaging experience. Whether you're a solo player or enjoy competing with friends, this game offers hours of strategic fun.
 
-Ready to embark on your own Grand Tour? Check out Flamme Rouge: Grand Tour and its expansions on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and start your race to the top today! **Don’t wait, pedal to the medal and grab your copy now!**
+Ready to embark on your own Grand Tour? Check out [Flamme Rouge Grand Tour]({{ site.constants.wsib }}flamme-rouge-grand-tour) on Geeknite and start planning your ultimate cycling adventure today!
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
-
-**Call to Action:** Don't miss out on the ultimate cycling adventure! Click [here]({{ site.constants.wsib }}flamme rouge grand tour) to get your copy of Flamme Rouge: Grand Tour now and receive an exclusive discount! Happy racing!
-
----
-For more reviews and board game recommendations, check out our previous posts:
-
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%} )
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+**Bold Call-to-Action:** Grab your copy of Flamme Rouge Grand Tour now and pedal your way to victory!
