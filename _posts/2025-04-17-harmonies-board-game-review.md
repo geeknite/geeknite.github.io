@@ -1,15 +1,19 @@
 ---
-date: 2025-04-17 08:00:00 +0200
-tags: [board games, review, harmonies, strategy games, tile placement]
-description: "Comprehensive review of Harmonies board game by Libellud. Discover how this beautiful tile-placement strategy game combines nature themes with satisfying gameplay mechanics."
+title: "Harmonies: A Symphony of Nature and Strategy"
+date: 2025-04-17
+categories: [board games, review, harmonies]
+tags: [harmonies, gaming, board games, strategy]
+description: "Dive into the enchanting world of Harmonies, a nature-themed tile-placement strategy game that combines beautiful artwork and engaging gameplay."
 last_modified_at: '2025-08-18T10:00:00+02:00'
 ---
+
+[![Harmonies Board Game](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}harmonies-board-game)
+
+## Introduction
 
 Welcome, fellow board game enthusiasts! Today, we dive into **Harmonies**, a stunning tile-placement strategy game from Libellud that promises to bring natural beauty and strategic depth to your gaming nights. If you've enjoyed games like our [top racing board games recommendations]({%- post_url 2023-06-15-top-10-racing-board-games -%}), you'll appreciate how Harmonies offers a completely different but equally satisfying gaming experience. So, grab your nature tokens, prepare your landscape tiles, and let's explore this harmonious world!
 
 ## What Is Harmonies?
-
-[![Harmonies Board Game](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}harmonies-board-game)
 
 **Harmonies** is a beautifully crafted tile-placement strategy game designed by Johan Benvenuto and published by Libellud. Unlike the high-speed action of games in our [ultimate racing games guide]({%- post_url 2025-01-12-board-games-recommendations-2025 -%}), Harmonies focuses on creating serene landscapes and natural habitats. The game accommodates 1-4 players and takes about 30-45 minutes to play, making it perfect for both casual and serious gaming sessions.
 
@@ -42,7 +46,7 @@ One of Harmonies' greatest strengths is its accessibility paired with strategic 
 ### Pros
 
 - **Beautiful Artwork and Components**: The visual design is absolutely stunning, with artwork that rivals any coffee table book
-- **Accessible Yet Strategic**: Easy to learn but offers meaningful decisions that keep experienced gamers engaged  
+- **Accessible Yet Strategic**: Easy to learn but offers meaningful decisions that keep experienced gamers engaged
 - **Excellent Solo Mode**: The solo variant provides a satisfying puzzle experience for single players
 - **High Replayability**: Variable tile draws and objective cards ensure no two games are identical
 - **Perfect Gateway Game**: Ideal for introducing new players to modern board game mechanics
