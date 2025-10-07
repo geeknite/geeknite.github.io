@@ -51,3 +51,5 @@ The Sombrio Cartel Gloves are my favorite gloves for mountain biking. They prote
 If you have any questions or comments about these gloves, or if you want to share your own experience with them, feel free to leave a comment below. I'd love to hear from you.
 
 Thanks for reading, and happy riding!
+
+**Ready to upgrade your mountain biking gear? Grab a pair of Sombrio Cartel Gloves today and ride like a superhero!**
