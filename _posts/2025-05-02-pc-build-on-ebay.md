@@ -49,7 +49,7 @@ The CPU is like the brain of your PC, so you want it to be smart but not too exp
 
 ### Motherboard: The Backbone
 
-If you're looking for a reliable and affordable motherboard, consider the **ASRock H81M-HDS**. It's a sturdy motherboard perfect for budget builds, providing just enough features without sending your wallet into exile.
+Next up, the motherboard. You need a sturdy backbone for your PC. The **MSI B450 TOMAHAWK MAX** is a great choice. It's reliable, has all the necessary features, and won't cost you an arm and a leg.
 
 ### RAM: The Memory
 
@@ -91,6 +91,4 @@ Building a PC using eBay can be a thrilling and rewarding experience. With compe
 
 **Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
 
-**Ready to start building?** Check out the latest deals on eBay and embark on your PC-building journey today. Happy shopping, and may your new PC be faster than The Flash!
-
-Stay tuned for more tech reviews and shopping tips from your geeky friends at Geeknite! 🚀
+**Ready to start building your dream PC on eBay? [Shop now](https://www.ebay.com/sch/i.html?_nkw=pc+components&tag={{ site.constants.ebay_com }}) and let the adventure begin!**
