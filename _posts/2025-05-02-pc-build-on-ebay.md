@@ -1,15 +1,30 @@
 ---
-title: "Building a Gaming PC on eBay: Tips and Tricks"
-date: 2025-05-02
-tags: [gaming, PC, eBay, hardware, build]
-description: "A guide to building your gaming PC with components found on eBay."
+title: "Building a PC on eBay: A Geek's Guide to Bargains and Shenanigans"
+date: '2025-05-02T19:12:00.000+02:00'
+tags:
+- ebay
+- pc build
+- hardware
+- budget
+- funny
+- guide
 ---
 
 ## Introduction
 
-Looking to build a gaming PC without breaking the bank? eBay is your treasure trove for budget-friendly components. Whether you're upgrading your rig or starting from scratch, we've got the tips and tricks to help you score the best deals and avoid pitfalls. Grab your screwdriver and let's dive into the world of eBay PC building!
+Welcome, fellow geeks, to the ultimate guide on building a PC using the magical realm of eBay. If you're tired of your ancient, snail-paced computer or just want to dive into the world of budget builds, you've come to the right place. Join me on this hilarious journey as we navigate through the twists and turns of eBay, uncovering treasures and avoiding traps like Indiana Jones at a yard sale.
 
-![Building PC on eBay](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}
+[![eBay Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png){: .align-right}]({{ site.constants.wsib }}ebay)
+
+## Why eBay?
+
+You might be wondering, why build a PC using eBay? Here's why:
+
+1. **Competitive Prices**: eBay often has deals that are harder to find elsewhere. Plus, with bidding options, you might score an even better deal (if you're lucky and don't get outbid by a mysterious stranger).
+2. **Seller Ratings**: eBay's rating system ensures that you can buy from trusted sellers. Check their feedback before making a purchase. If it looks shady, run faster than Sonic the Hedgehog.
+3. **Global Availability**: Can't find a particular component in your country? eBay's global marketplace has got you covered.
+
+**Pro Tip**: Always double-check shipping costs and estimated delivery times. You don't want to wait three months for your shiny new gadget to arrive or pay a shipping fee that rivals the price of the item itself.
 
 ## Tips for Buying on eBay
 
@@ -30,54 +45,62 @@ Now that you're equipped with essential eBay tips, let's dive into the fun part 
 
 The CPU is like the brain of your PC, so you want it to be smart but not too expensive. I recommend the **AMD Ryzen 5 3600**. It's a six-core marvel that packs a punch without breaking the bank. Look for listings with good feedback and competitive prices.
 
-[![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}]({{ site.constants.wsib }}amd)
+[![AMD Ryzen 5 3600](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/AMD_Ryzen_Logo.svg/2560px-AMD_Ryzen_Logo.svg.png){: .align-right}]({{ site.constants.wsib }}amd-ryzen-5-3600)
+
+### GPU: The Graphics Powerhouse
+
+Next up, the GPU. If you're a gamer or into graphic design, you'll need a powerful GPU. The **NVIDIA GeForce GTX 1660 Super** is a fantastic option. It won't cost you an arm and a leg, and it handles most games and tasks with ease.
+
+[![NVIDIA GeForce GTX 1660 Super](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Nvidia_logo.svg/2560px-Nvidia_logo.svg.png){: .align-right}]({{ site.constants.wsib }}nvidia-geforce-gtx-1660-super)
+
+### RAM: Memory That Matters
+
+For RAM, aim for at least 16GB to ensure smooth multitasking. Consider the **Corsair Vengeance LPX** series. It's reliable, speedy, and reasonably priced.
+
+[![Corsair Vengeance LPX](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Corsair_logo.svg/2560px-Corsair_logo.svg.png){: .align-right}]({{ site.constants.wsib }}corsair-vengeance-lpx)
+
+### Storage: Speed and Capacity
+
+Opt for an SSD for your primary storage. The **Samsung 970 EVO** is a top choice, offering fast read/write speeds. Pair it with a larger HDD for additional storage space.
+
+[![Samsung 970 EVO](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_logo.svg/2560px-Samsung_logo.svg.png){: .align-right}]({{ site.constants.wsib }}samsung-970-evo)
 
 ### Motherboard: The Backbone
 
-Next up, the motherboard. You need a sturdy backbone for your PC. The **MSI B450 TOMAHAWK MAX** is a great choice. It's reliable, has all the necessary features, and won't cost you an arm and a leg.
+Choose a motherboard that supports your CPU and GPU. The **MSI B450 Tomahawk** is a solid option with excellent build quality and features.
 
-### RAM: The Memory
+[![MSI B450 Tomahawk](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MSI_logo.svg/2560px-MSI_logo.svg.png){: .align-right}]({{ site.constants.wsib }}msi-b450-tomahawk)
 
-For RAM, go for **Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz**. It's fast, it's furious, and it's ready to handle anything you throw at it (except your ex's text messages).
+### Case: The Enclosure
 
-### Graphics Card: The Visuals
+Select a case that suits your style and allows for good airflow. The **NZXT H510** is sleek, spacious, and affordable.
 
-The graphics card is where the magic happens. For a budget build, the **ASUS GeForce GTX 1070 8GB Dual-Fan** is a fantastic choice. This beast can handle most modern games and applications, making your PC ready for action.
+[![NZXT H510](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/NZXT_logo.svg/2560px-NZXT_logo.svg.png){: .align-right}]({{ site.constants.wsib }}nzxt-h510)
 
-![ASUS GeForce GTX 1070](https://i.imgur.com/ASUS-GTX-1070.jpg){: .align-right}
+### Power Supply: Energy Provider
 
-### Storage: The Warehouse
+Ensure you have a reliable power supply. The **EVGA SuperNOVA 650 G3** is an excellent choice, providing stable power to your components.
 
-For storage, it's all about speed. Grab a **Samsung 970 EVO 500GB NVMe SSD** for lightning-fast boot times and data transfer. Your PC will thank you.
+[![EVGA SuperNOVA 650 G3](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/EVGA_logo.svg/2560px-EVGA_logo.svg.png){: .align-right}]({{ site.constants.wsib }}evga-supernova-650-g3)
 
-### Power Supply: The Juice
+## Building Your PC
 
-You need a reliable power supply to keep your components juiced up. The **Corsair CX550M** is a solid option that won't let you down.
+With your components selected, it's time to build your PC. Follow these steps:
 
-### Case: The Armor
+1. **Prepare Your Workspace**: Clean your workspace and gather tools like screwdrivers.
+2. **Install the CPU**: Place the CPU into the motherboard socket and secure it.
+3. **Install RAM**: Insert RAM sticks into the motherboard slots.
+4. **Mount the Motherboard**: Secure the motherboard inside the PC case.
+5. **Install GPU**: Insert the GPU into the PCIe slot.
+6. **Connect Storage**: Attach SSD and HDD to the appropriate slots.
+7. **Power Supply**: Install the power supply and connect cables.
+8. **Cable Management**: Neatly arrange cables for optimal airflow.
+9. **Boot Up**: Power on the PC and install your operating system.
 
-Finally, you'll need a case to house all your precious components. The **NZXT H510** is sleek, stylish, and has great airflow. Plus, it looks like it was designed by Tony Stark himself.
+## Wrapping Up
 
-## Putting It All Together
+Congratulations! You've successfully built your PC using eBay components. Enjoy your new powerful machine and revel in the glory of your tech-savvy skills.
 
-Congratulations! You've gathered all your components from eBay and are ready to build your PC. Here's a quick step-by-step guide:
+**Ready to embark on your PC building adventure? Check out the latest deals on eBay [with {{ site.constants.wsibName }}]({{ site.constants.wsib }}). Happy building!**
 
-1. **Prepare Your Workspace**: Clear a space, lay out your components, and grab your tools. If your desk looks like a tornado hit it, take a moment to tidy up.
-2. **Install the Motherboard**: Place the motherboard in the case and secure it with screws. Make sure it fits snugly.
-3. **Insert the CPU**: Carefully insert the CPU into the motherboard socket. Don't force it – the pins are delicate.
-4. **Install the RAM**: Insert the RAM sticks into the designated slots on the motherboard. You'll hear a satisfying click.
-5. **Mount the Graphics Card**: Insert the graphics card into the PCIe slot and secure it with screws.
-6. **Connect Storage**: Attach the SSD to the motherboard and secure it in the drive bay.
-7. **Connect Power Supply**: Install the power supply in the case and connect it to the motherboard, CPU, and graphics card.
-8. **Cable Management**: Tidy up the cables for optimal airflow and aesthetics. Use zip ties if necessary.
-9. **Power On**: Close the case, plug in your monitor, keyboard, and mouse, and power on your PC. If everything lights up, you've done it!
-
-## Conclusion
-
-Building a PC using eBay can be a thrilling and rewarding experience. With competitive prices, trusted sellers, and global availability, eBay is a treasure trove for budget-conscious geeks. Follow our tips, choose your components wisely, and embark on the adventure of building your dream PC.
-
-**Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
-
-**Ready to start building?** [Shop the best deals on eBay now!](https://www.ebay.com/sch/i.html?_nkw=pc+components)
-
-Stay tuned for more tech reviews and geeky goodness from Geeknite! 🚀
+**Affiliate Disclosure**: Some of the links in this post are affiliate links.
