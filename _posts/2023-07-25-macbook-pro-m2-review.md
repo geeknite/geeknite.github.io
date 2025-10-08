@@ -81,3 +81,6 @@ The MacBook Pro M2 is a remarkable piece of technology that sets a new standard 
 
 **Ready to upgrade to the MacBook Pro M2? [Find the best deals here](https://www.apple.com/shop/buy-mac/macbook-pro)!**
 
+**Affiliate Disclosure:** Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
+
+Stay tuned for more tech reviews and geeky goodness from your friends at Geeknite! 🚀
