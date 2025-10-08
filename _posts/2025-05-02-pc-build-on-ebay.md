@@ -1,30 +1,15 @@
 ---
-title: "Building a PC on eBay: A Geek's Guide to Bargains and Shenanigans"
-date: '2025-05-02T19:12:00.000+02:00'
-tags:
-- ebay
-- pc build
-- hardware
-- budget
-- funny
-- guide
+title: "Building a Gaming PC on eBay: Tips and Tricks"
+date: 2025-05-02
+tags: [gaming, PC, eBay, hardware, build]
+description: "A guide to building your gaming PC with components found on eBay."
 ---
 
 ## Introduction
 
-Welcome, fellow geeks, to the ultimate guide on building a PC using the magical realm of eBay. If you're tired of your ancient, snail-paced computer or just want to dive into the world of budget builds, you've come to the right place. Join me on this hilarious journey as we navigate through the twists and turns of eBay, uncovering treasures and avoiding traps like Indiana Jones at a yard sale.
+Looking to build a gaming PC without breaking the bank? eBay is your treasure trove for budget-friendly components. Whether you're upgrading your rig or starting from scratch, we've got the tips and tricks to help you score the best deals and avoid pitfalls. Grab your screwdriver and let's dive into the world of eBay PC building!
 
-![eBay Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png){: .align-right}[eBay](https://www.ebay.com)
-
-## Why eBay?
-
-You might be wondering, why build a PC using eBay? Here's why:
-
-1. **Competitive Prices**: eBay often has deals that are harder to find elsewhere. Plus, with bidding options, you might score an even better deal (if you're lucky and don't get outbid by a mysterious stranger).
-2. **Seller Ratings**: eBay's rating system ensures that you can buy from trusted sellers. Check their feedback before making a purchase. If it looks shady, run faster than Sonic the Hedgehog.
-3. **Global Availability**: Can't find a particular component in your country? eBay's global marketplace has got you covered.
-
-**Pro Tip**: Always double-check shipping costs and estimated delivery times. You don't want to wait three months for your shiny new gadget to arrive or pay a shipping fee that rivals the price of the item itself.
+![Building PC on eBay](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}
 
 ## Tips for Buying on eBay
 
@@ -45,7 +30,7 @@ Now that you're equipped with essential eBay tips, let's dive into the fun part 
 
 The CPU is like the brain of your PC, so you want it to be smart but not too expensive. I recommend the **AMD Ryzen 5 3600**. It's a six-core marvel that packs a punch without breaking the bank. Look for listings with good feedback and competitive prices.
 
-[![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600)
+[![AMD Ryzen 5 3600](https://www.amd.com/system/files/styles/992px/private/2021-03/ryzen-5-3600.jpg){: .align-right}]({{ site.constants.wsib }}amd)
 
 ### Motherboard: The Backbone
 
@@ -57,7 +42,9 @@ For RAM, go for **Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz**. It's fast
 
 ### Graphics Card: The Visuals
 
-The graphics card is where the magic happens. For a budget build, the **NVIDIA GeForce GTX 1660 Super** is a fantastic choice. It can handle most games and applications, making your PC ready for action.
+The graphics card is where the magic happens. For a budget build, the **ASUS GeForce GTX 1070 8GB Dual-Fan** is a fantastic choice. This beast can handle most modern games and applications, making your PC ready for action.
+
+![ASUS GeForce GTX 1070](https://i.imgur.com/ASUS-GTX-1070.jpg){: .align-right}
 
 ### Storage: The Warehouse
 
@@ -91,6 +78,6 @@ Building a PC using eBay can be a thrilling and rewarding experience. With compe
 
 **Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
 
-**Ready to start building?** Check out the latest deals on eBay and embark on your PC-building journey today. Happy shopping, and may your new PC be faster than The Flash!
+**Ready to start building?** [Shop the best deals on eBay now!](https://www.ebay.com/sch/i.html?_nkw=pc+components)
 
-Stay tuned for more tech reviews and shopping tips from your geeky friends at Geeknite! 🚀
+Stay tuned for more tech reviews and geeky goodness from Geeknite! 🚀
