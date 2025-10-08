@@ -13,7 +13,7 @@ description: 'Discover the top racing board games of 2025 with this comprehensiv
 
 Welcome, fellow board game enthusiasts, to the ultimate guide to the best racing board games available in 2025! Whether you're a seasoned player or a newbie just starting your collection, this review will provide you with all the information you need to make an informed decision. And trust me, by the end of this review, you'll be ready to splurge on some amazing games!
 
-![Board Games](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}
+[![Board Games](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}boardgames)
 
 ## Top Racing Board Games
 
@@ -77,12 +77,8 @@ PitchCar takes the action off the board and onto a tabletop track, with players 
 
 **Expansion Alert:** The Extension 1 and 2 expansions add new track pieces and obstacles, making the game even more challenging. Can you master the new tracks?
 
-### Special Mention: Bomb Busters Expansion Pack
-
-Now, let’s talk about the **Bomb Busters Expansion Pack**. This pack brings to your racing games a twist that you wouldn’t expect. Imagine racing and suddenly having to deal with bombs dropping on the track. Yes, it’s as chaotic and hilarious as it sounds!
-
-**Expansion Alert:** With this pack, you get new tracks with varying bomb drop points, as well as special cards that allow players to deploy bombs on their opponents. This adds a whole new layer of strategy and unpredictability to the game. Are you ready to face the explosive challenge and still come out on top?
-
 ## Conclusion
 
-From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming. **Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
+From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming.
+
+**Ready to start your board game adventure?** Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!
