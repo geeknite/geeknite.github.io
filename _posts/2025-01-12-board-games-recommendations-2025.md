@@ -13,7 +13,7 @@ description: 'Discover the top racing board games of 2025 with this comprehensiv
 
 Welcome, fellow board game enthusiasts, to the ultimate guide to the best racing board games available in 2025! Whether you're a seasoned player or a newbie just starting your collection, this review will provide you with all the information you need to make an informed decision. And trust me, by the end of this review, you'll be ready to splurge on some amazing games!
 
-[![Board Games](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}boardgames)
+![Board Games](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}
 
 ## Top Racing Board Games
 
@@ -41,48 +41,48 @@ Formula D is a game that simulates the high-stakes world of Formula 1 racing. Ea
 
 **Expansion Alert:** Check out the various track expansions for Formula D, which add new challenges and excitement to your races. From the streets of Monaco to the treacherous corners of Singapore, there's always a new track to master.
 
-### 5. [Thunder Road Vendetta]({{ site.constants.wsib }}thunder-road-vendetta)
+### 5. [Downforce]({{ site.constants.wsib }}downforce)
+
+Downforce is a racing game with a twist - players must not only race their cars but also bid on the ones they think will win. It's a race to the finish line and the bank. Just remember, betting on yourself is only cool if you actually win!
+
+**Expansion Alert:** The Danger Circuit expansion adds two new tracks and new rules, making the game even more thrilling. Will you take the risk and come out on top?
+
+### 6. [Thunder Road Vendetta]({{ site.constants.wsib }}thunder-road-vendetta)
 
 Thunder Road Vendetta combines racing with survival in a post-apocalyptic world. It's sure to keep you entertained for hours. Just watch out for those road warriors - they play dirty! This game is my sixth favorite for its unique blend of racing and survival elements.
 
 **Expansion Alert:** The Road Warriors expansion adds new vehicles and challenges, making the game even more chaotic. Are you ready to survive the apocalypse?
 
-### 6. [Thunder Alley]({{ site.constants.wsib }}thunder-alley)
+### 7. [Thunder Alley]({{ site.constants.wsib }}thunder-alley)
 
 Thunder Alley allows players to control a team of race cars, positioning them strategically to outmaneuver opponents. It's sure to keep you coming back for more. Just don't forget to pit stop - even race cars need a break!
 
 **Expansion Alert:** The Expansion Tracks add new circuits and challenges, keeping the game fresh and exciting. Will you dominate the new tracks?
 
-### 7. [Camel Up]({{ site.constants.wsib }}camel-up)
+### 8. [Camel Up]({{ site.constants.wsib }}camel-up)
 
 Camel Up is a lighthearted racing game where players bet on which camel will win a race around the track. It's great for anyone looking for an easy yet exciting game. And remember, camels may be slow, but they sure know how to make a race interesting!
 
 **Expansion Alert:** The Supercup expansion adds new betting options and track sections, making the game even more unpredictable. Who will be the ultimate camel champion?
 
-### 8. [Snow Tails]({{ site.constants.wsib }}snow-tails)
+### 9. [Snow Tails]({{ site.constants.wsib }}snow-tails)
 
 Snow Tails has players race dogsleds through a winter wonderland, managing their speed and making strategic decisions. It offers a unique racing experience. Just watch out for those snowdrifts - they can be a real sled-stopper!
 
 **Expansion Alert:** The Mush! Mush! expansion adds new tracks and challenges, making the race even more exciting. Are you ready to brave the cold?
 
-### 9. [PitchCar]({{ site.constants.wsib }}pitchcar)
+### 10. [PitchCar]({{ site.constants.wsib }}pitchcar)
 
 PitchCar takes the action off the board and onto a tabletop track, with players flicking their cars around hairpin turns and long straightaways. It's both physical and strategic. Just don't flick too hard - you might send your car flying off the table!
 
 **Expansion Alert:** The Extension 1 and 2 expansions add new track pieces and obstacles, making the game even more challenging. Can you master the new tracks?
 
-### 10. [Downforce]({{ site.constants.wsib }}downforce)
+### Special Mention: Bomb Busters Expansion Pack
 
-Downforce is a game that combines racing with betting, where players bid on cars and try to influence the race outcome. It's a blend of strategic racing and gambling that keeps you on the edge of your seat.
+Now, let’s talk about the **Bomb Busters Expansion Pack**. This pack brings to your racing games a twist that you wouldn’t expect. Imagine racing and suddenly having to deal with bombs dropping on the track. Yes, it’s as chaotic and hilarious as it sounds!
 
-**Expansion Alert:** The Danger Circuit expansion adds two new tracks and new rules, making the game even more thrilling. Will you take the risk and come out on top?
+**Expansion Alert:** With this pack, you get new tracks with varying bomb drop points, as well as special cards that allow players to deploy bombs on their opponents. This adds a whole new layer of strategy and unpredictability to the game. Are you ready to face the explosive challenge and still come out on top?
 
 ## Conclusion
 
 From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming. **Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
-
-For more reviews and board game recommendations, check out our previous posts:
-
-- [Flamme Rouge Grand Tour Review: The Ultimate Cycling Expansion]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})
-- [HEAT: Pedal to the Metal Review]({%- post_url 2024-03-20-review-heat-pedal-to-the-metal -%})
-- [Marvel United Multiverse Board Game Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
