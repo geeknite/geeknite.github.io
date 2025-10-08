@@ -3,7 +3,7 @@ title: "To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and
 tags: [board games, card games, sleeves, humor, board gaming]
 description: "Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!"
 date: "2021-02-21"
-last_modified_at: '2023-07-21T00:00:00+02:00'
+last_modified_at: '2025-10-08T09:34:32.5094531Z'
 ---
 
 [![game sleeves](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}sleeves)
