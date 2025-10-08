@@ -1,91 +1,80 @@
 ---
-title: 'Azul: Plan B Games Review - A Colorful Strategy Extravaganza'
-date: '2025-04-17'
-tags: ['review', 'board games', 'Azul', 'Plan B Games', 'strategy games']
-description: 'Dive into our hilarious and detailed review of Azul by Plan B Games. Discover why this 2018 hit remains a fan favorite in the board gaming community.'
+title: "Azul: Stained Glass of Sintra - A Mosaic Masterpiece"
+date: "2025-10-08"
+tags: ['board games', 'review', 'Azul', 'strategy', 'tile placement']
+description: "A detailed and entertaining review of Azul: Stained Glass of Sintra, the colorful tile-laying board game that adds a new layer of strategy to the beloved Azul series."
 ---
+
+[![Azul: Stained Glass of Sintra](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}azul-stained-glass-of-sintra)
 
 ## Introduction
 
-Welcome, fellow board game enthusiasts! Today, we're diving into the vibrant and strategic world of **Azul** by Plan B Games. If you're into colorful tiles, strategic planning, and a touch of friendly competition, this game promises to deliver an unforgettable experience. So, grab your tiles, channel your inner artisan, and let's get this review started!
+Welcome, fellow board game enthusiasts! Today, we're diving into the vibrant and strategic world of **Azul: Stained Glass of Sintra**. If you're a fan of the original Azul, you're in for a treat. This sequel takes the beloved tile-placement mechanics and adds a shimmering twist that will have you reaching for those colorful tiles time and time again.
 
-[![Azul Board Game](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}azul)
+## What is Azul: Stained Glass of Sintra?
 
-## What is Azul?
+Azul: Stained Glass of Sintra is a standalone sequel to the award-winning Azul board game. Designed by Michael Kiesling, this version transports players to the palace of Sintra, where they work as artisans to create stunning stained glass windows. The game features beautiful components, strategic depth, and enough player interaction to keep everyone engaged.
 
-Azul is a tile-placement game designed by Michael Kiesling and published by Plan B Games in 2018. Inspired by the intricate and beautiful Moorish tiles of Portugal, players take on the roles of artisans tasked with decorating the Royal Palace of Evora. The game combines stunning visuals with strategic depth, making it a hit among both casual and seasoned gamers.
-
-### Components
+## Components
 
 The game comes with:
-- **Tiles**: Gorgeous resin tiles in five different colors and patterns. Seriously, these tiles are so pretty you'll want to use them as coasters.
-- **Player Boards**: Each player gets a board to arrange their tiles and track their score.
-- **Factories**: Cardboard circles where tiles are drawn and placed at the start of each round.
-- **Score Trackers**: Little cubes to keep track of your points.
-- **Bag**: A bag to draw tiles from, adding a delightful element of randomness.
-- **Rulebook**: Clear and concise, but you'll still end up house-ruling something. It’s a board game tradition!
+- **Glass tiles in various colors**: These tiles are used to create your masterpieces and are the heart of the game.
+- **Player boards**: Representing the windows you're trying to complete.
+- **A central board**: Where tiles are drawn from.
+- **Scoring markers, a glazier pawn, and other necessary tokens**.
 
-**Pro Tip**: Keep an eye on those tiles. They have a sneaky way of disappearing into your couch cushions.
+**Fun Fact**: The tiles look so delicious you might be tempted to eat them. Please don't.
 
 ## How to Play
 
 ### Setup
 
-Setting up Azul is a breeze. Place the factories in the center of the table, fill the bag with tiles, and draw tiles to place on each factory. Give each player a board, a score tracker, and you're ready to go!
+Setup is straightforward. Each player receives a player board, a scoring marker, and a glazier pawn. The central board is placed in the middle, and tiles are drawn and placed on the factories.
 
 ### Turns and Actions
 
-Each turn, players take turns drafting tiles from the factories or the center of the table. You can only take tiles of the same color from a factory, and the rest go to the center. Once all tiles are taken, players arrange their tiles on their boards, aiming to complete rows and columns for points.
+Each turn, players take turns drafting tiles from the factories or the central board to place them on their player boards. The goal is to complete rows on your windows to score points. The twist? Your glazier can only move in one direction, so planning your moves carefully is key.
 
 ### Scoring
 
-Scoring in Azul is straightforward but requires strategic planning. You score points for tiles placed in rows and columns, with bonus points for completing lines or using all tiles of a certain color. But beware! Any tiles you can't place will count as negative points.
+Scoring in Azul: Stained Glass of Sintra is a mix of immediate and end-game points. Completing rows and columns, as well as achieving specific patterns, will net you points. The player with the most points at the end of the game wins.
 
-## The Azul Experience
+**Pro Tip**: Keep an eye on your opponents' boards and draft tiles that can block their progress or force them into unfavorable moves.
 
-### Strategy and Depth
+## The Shiny Bits
 
-The beauty of Azul lies in its simplicity and depth. While the rules are easy to learn, mastering the game requires strategic thinking and careful planning. Should you complete that row now, or wait for a better tile? Can you force your opponent into taking unwanted tiles? Every decision matters.
+### Visual Appeal
 
-**Funny Moment**: During one game, a friend was so focused on completing a row that they didn't notice the pile of negative points accumulating in their penalty area. The look on their face when they realized was priceless, and we all had a good laugh.
+One of the most striking aspects of Azul: Stained Glass of Sintra is its visual appeal. The translucent tiles catch the light beautifully, making the game as enjoyable to look at as it is to play.
 
-### Aesthetic Appeal
+### Strategic Depth
 
-Azul is undoubtedly one of the most visually appealing games out there. The tiles are vibrant, the player boards are beautifully designed, and even the factories are aesthetically pleasing. This game is a feast for the eyes, and you'll find yourself admiring the components even as you're plotting your next move.
+While the game retains the simple yet engaging mechanics of the original Azul, the addition of the glazier pawn and the unique player boards adds a new layer of strategy. You'll need to think several moves ahead and adapt to the changing board state.
 
-### Replayability
-
-With multiple strategies to explore and different tile placements each game, Azul offers high replayability. No two games are ever the same, ensuring that you'll want to come back for more.
-
-**Expansion Alert**: If you can't get enough of Azul, check out the expansions like Azul: Stained Glass of Sintra and Azul: Summer Pavilion. They add new mechanics and challenges to keep the game fresh and exciting.
+**Memorable Moment**: In our last game, one player managed to score a massive combo by completing multiple rows in one turn, leaving the rest of us in awe and a bit of envy.
 
 ## Pros and Cons
 
 ### Pros
 
-- **Stunning Components**: The tiles are beautifully crafted and a joy to handle.
-- **Strategic Depth**: Simple rules but plenty of room for strategic planning.
-- **High Replayability**: Different strategies and setups keep the game fresh.
-- **Accessible for All Ages**: Easy to learn, making it great for family game nights.
+- **Beautiful Components**: The game is a feast for the eyes, with high-quality tiles and artwork.
+- **Strategic Gameplay**: Easy to learn but offers deep strategic choices.
+- **High Replayability**: No two games are ever the same, thanks to the variable setup and player actions.
+- **Great for All Skill Levels**: Whether you're a board game veteran or a newcomer, Azul: Stained Glass of Sintra is accessible and enjoyable.
 
 ### Cons
 
-- **Tile Disasters**: Tiles can be a choking hazard for small children or overly enthusiastic adults.
-- **Negative Points**: The penalty for unused tiles can be harsh for new players.
-- **Analysis Paralysis**: Some players might overthink their moves, slowing down the game.
+- **AP (Analysis Paralysis) Potential**: Some players may take a while to make their moves, slowing down the game.
+- **Component Storage**: The box insert could be better designed for organizing the tiles and other components.
+- **Glazier Movement Limitation**: The glazier's one-way movement can be punishing if not carefully managed.
 
 ## Final Thoughts
 
-Azul by Plan B Games is a masterpiece of design and strategy. Its simple rules, combined with deep strategic gameplay, make it a must-have for any board game collection. Whether you're a casual gamer or a hardcore strategist, Azul offers a satisfying and visually stunning experience.
+Azul: Stained Glass of Sintra is a brilliant follow-up to the original Azul. It maintains the core mechanics that made the first game a hit while introducing new elements that enhance the strategy and replayability. If you're looking for a game that's both visually stunning and intellectually stimulating, this is it.
 
-**Criticism Alert**: While the game is incredibly fun, it’s not without its flaws. The penalty for unused tiles can be a bit harsh, and some players might experience analysis paralysis. But for those willing to embrace the challenge, Azul is an absolute gem.
+**Call to Action**: Ready to add a touch of brilliance to your board game collection? Grab your copy of Azul: Stained Glass of Sintra today and start creating your masterpieces! **Click [here]({{ site.constants.wsib }}azul-stained-glass-of-sintra) to get your copy now!**
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}azul) and get your copy of Azul today. It’s time to tile your way to victory!
+For more reviews and board game recommendations, check out our previous posts:
 
----
-
-### Other Board Games to Check Out
-
-If you love Azul, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) and [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
-
-**Ready to dive into the world of Azul? Don’t miss out on the fun!**
+- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Spider-Geddon: The Ultimate Board Game Review]({%- post_url 2024-08-15-spider-geddon-board-games -%})
