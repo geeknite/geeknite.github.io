@@ -1,14 +1,8 @@
 ---
 title: "To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and Board Games"
-tags: [board games, card games, sleeves, humor, board gaming]
-description: "Discover the pros and cons of sleeving your card and board games and find out which type suits you best. A funny and engaging read!"
 date: "2021-02-21"
-last_modified_at: '2023-07-21T00:00:00+02:00'
+tags: [board games, card games, sleeves, humor, board gaming]
 ---
-
-[![game sleeves](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}sleeves)
-
-*Disclaimer: If you're a board game aficionado who doesn't mind a little wear and tear on your cards, you might not find this post as entertaining as others. But hey, stick around, you never know what fun might await!*
 
 Ah, board games – the source of countless moments of joy, triumph, and perhaps a few disputes with friends and family. We've all been there: delicately handling those beautifully illustrated cards, hoping they'll stand the test of time and grubby fingers. But fear not! In the world of board gaming, there exists a magical solution – **sleeves**. Like a suit of armor for your precious cards, sleeves promise to protect, preserve, and maybe even elevate your gaming experience.
 
@@ -94,4 +88,4 @@ There you have it, folks! The great debate of to sleeve or not to sleeve. Ultima
 
 Remember, board gaming is about fun, camaraderie, and creating memories with loved ones. So, sleeve responsibly and let the gaming adventures begin!
 
-**May your rolls be ever in your favor and your cards forever protected!**
+*May your rolls be ever in your favor and your cards forever protected!*
