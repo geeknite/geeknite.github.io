@@ -1,29 +1,15 @@
 ---
-title: "Spider-Geddon: The Ultimate Board Game Review"
-date: 2024-08-15
-categories: [board games, review, spider-geddon]
-tags: [Spider-Geddon, gaming, board games, review]
-description: "Embark on an epic journey of strategy and survival with Spider-Geddon board game. An in-depth review with humor and excitement!"
-last_modified_at: '2025-08-15T13:49:53.8495024Z'
+title: "Spider-Geddon: The Ultimate Board Game Experience"
+date: "2024-08-15"
+tags: ['board games', 'review', 'Spider-Geddon', 'strategy', 'gaming']
+description: "A hilarious and detailed review of Spider-Geddon board game. Find out why this game is a must-have for board game enthusiasts!"
 ---
 
-# Spider-Geddon: The Ultimate Board Game Review
-
-![Spider-Geddon](https://i.imgur.com/Jm8ynpT.jpg)
+[![Spider-Geddon](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}spider-geddon)
 
 ## Introduction
 
-Hello, fellow gamers! Are you ready to dive into a world where spiders rule and humans drool? Well, you better be because we're about to take a hilarious and thrilling journey through **Spider-Geddon**, the board game that combines strategy, survival, and an unhealthy amount of arachnids!
-
-## The Basics of Spider-Geddon
-
-Spider-Geddon is a cooperative board game designed for 2-5 players. The game revolves around surviving waves of spider invasions while completing various objectives to save humanity. Think of it as "Arachnophobia" meets "Dawn of the Dead," but without the need for bug spray.
-
-### Components
-
-The game comes with a beautifully designed board featuring various locations, such as the Abandoned Warehouse, Creepy Forest, and the Infested Subway. The components include miniatures of spider mobs (yikes!), hero characters, and a deck of cards with events, items, and objectives. The artwork is top-notch, and you'll find yourself marveling at the creepy-crawly details.
-
-**Fun Fact**: The game includes a special "Spider Queen" miniature that will make you scream "NOT THE FACE!" every time it appears.
+Welcome, fellow board game aficionados! Today, we're diving into the chaotic and hilarious world of **Spider-Geddon**. If you're looking for a game that combines strategy, teamwork, and more spiders than you can shake a can of bug spray at, you've come to the right place. Prepare yourself for an experience that will have you laughing, screaming, and maybe even negotiating with an eight-legged queen.
 
 ## Gameplay
 
@@ -75,6 +61,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest](https://geeknite.com/2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens) or [why adults should also board game](https://geeknite.com/2019-11-15-adult-board-games).
+If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
 
 **Ready to face the spider apocalypse?** Don’t miss out on the fun!
