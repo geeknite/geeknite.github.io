@@ -1,47 +1,53 @@
 ---
-title: "Marvel United: Multiverse Board Game - A Superpowered Review"
+title: "Marvel United: Multiverse Board Game Review"
 date: "2025-03-15"
-tags: ['board games', 'review', 'Marvel United', 'multiverse', 'superheroes']
-description: "A hilarious and detailed review of Marvel United: Multiverse Board Game. Find out why this game is a must-have for Marvel fans and board game enthusiasts!"
+tags: ["board games", "Marvel", "Multiverse", "review"]
+description: "Dive into the Marvel United Multiverse with our hilarious and thorough review."
 ---
 
-[![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel united multiverse)
+[![Marvel United Multiverse](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel-united-multiverse)
 
 ## Introduction
 
-Welcome, true believers! Today, we're diving into the chaotic, superpowered world of **Marvel United: Multiverse Board Game**. If you're a fan of Marvel comics and love board games, this one promises an epic combination of both. Prepare for a cosmic adventure where superheroes clash with villains, and you might even get to save the universe (or destroy it, no judgment here).
+Welcome, true believers and board game enthusiasts! Today, we're diving headfirst into the chaotic and exhilarating world of **Marvel United: Multiverse**. If you're a fan of the original Marvel United or just love anything with superheroes (or villains, no judgment here), this game is bound to tickle your fancy — and maybe even your Spidey-sense.
 
-## What is Marvel United: Multiverse?
+Let's suit up and embark on a review that's filled with laughter, epic battles, and more plot twists than a season of *Loki*.
 
-Marvel United: Multiverse is a cooperative board game where players take on the roles of iconic Marvel superheroes from across the multiverse. With stunning artwork, cool miniatures, and a plethora of villains to battle, this game offers an immersive experience that will keep you engaged for hours.
+## The Basics
 
-### The Basics
+### What is Marvel United: Multiverse?
 
-In Marvel United: Multiverse, players work together to thwart the plans of a dastardly villain. Each player controls a unique superhero, each with special abilities and cards. The goal is to complete missions, defeat the villain, and save the multiverse from impending doom.
+Marvel United: Multiverse is the latest expansion of the popular cooperative board game *Marvel United*. This time, the game dives deep into the vast and complicated Marvel Multiverse, bringing new cards, characters, and scenarios that will have you and your friends battling across dimensions!
 
 ### Components
 
-The game comes with:
-- **Miniatures**: Beautifully crafted miniatures of your favorite Marvel characters. Seriously, they're so detailed you might want to display them proudly on your shelf.
-- **Cards**: Each hero has a deck of cards representing their abilities, actions, and special powers.
-- **Game Board**: Various locations from the Marvel universe where battles and missions take place.
-- **Tokens and Markers**: Used to track progress, health, and various effects during the game.
+The game comes with an array of new miniatures, cards, and tokens that are beautifully designed. From the intricate details on Doctor Strange's cloak to the menacing grin on Thanos's face, these components are a collector's dream.
 
-**Pro Tip**: Don't let your cat near the miniatures. Those claws are the real supervillains.
+[![Marvel United Components](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]
 
-## How to Play
+## The Gameplay
 
-### Setup
+### Setting Up
 
-Setting up Marvel United: Multiverse is like staging an Avengers movie. It requires careful planning and maybe a snack break (or two). Lay out the game board, distribute cards and miniatures, and choose your villain. Now you're ready to begin your quest.
+Setting up Marvel United: Multiverse feels like preparing for a cosmic battle. It’s time to lay out the cards, assemble the miniatures, and try not to get distracted by the sheer awesomeness of the components.
 
 ### Turns and Actions
 
-Each turn, players draw cards and take actions based on their hero's abilities. You can move, attack, rescue civilians, and more. Cooperation is key, so strategize with your teammates to make the most of your abilities.
+Each turn, players draw cards and use them to perform actions. These could range from moving and attacking to supporting other heroes or thwarting Villain plans. The synergy between characters and their unique abilities is where Marvel United shines.
 
 ### Combat
 
-Combat in Marvel United: Multiverse is a blend of strategy and luck. Each villain has unique mechanics that add challenges and twists to the game. Did you plan an epic combo just to have the villain escape? Welcome to the multiverse, where plans often go awry.
+Combat is straightforward but strategic. Players must coordinate their attacks and special abilities to defeat enemies and complete objectives. Remember, teamwork makes the dream work — or in this case, saves the Multiverse.
+
+## The Story
+
+### Scenarios
+
+The Marvel United: Multiverse expansion introduces new scenarios that are inspired by iconic comic book arcs. From battling Ultron's army to stopping Kang the Conqueror, each scenario offers unique challenges and requires different strategies.
+
+### Characters
+
+This expansion brings a host of new characters to the mix. Play as Spider-Gwen, Moon Knight, or even the infamous Loki. Each character has distinct abilities and combos that keep the game fresh and exciting.
 
 ## The Multiverse Awesomeness
 
@@ -82,7 +88,7 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}ma
 
 ---
 
-### Other Superpowered Games to Check Out
+## Other Superpowered Games to Check Out
 
 If you love superhero board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
