@@ -1,9 +1,9 @@
 ---
 title: "🎉 Review: The New Echo Dot (4th Gen) - A Compact Smart Speaker with Alexa 🎵"
-date: "2024-08-14"
+date: "2024-07-14"
 description: "Get ready to dive into the exciting world of the Echo Dot (4th Gen) from Amazon. This little smart speaker is about to blow your mind! 🚀"
 tags: [amazon, echo dot, alexa, smart home]
-last_modified_at: '2025-03-08T10:00:00+02:00'
+last_modified_at: "2025-03-08T10:00:00+02:00"
 ---
 
 [![Echo Dot (4th Gen)](https://i.imgur.com/icJV3ENm.jpg){: .align-right}]({{ site.constants.wsib }}echo dot)
