@@ -6,7 +6,7 @@ tags: [MacBook Pro, M2, Apple, Review, Technology, Geek]
 description: "A comprehensive and humorous review of the MacBook Pro M2, exploring its features, performance, and why it's the ultimate geek's dream machine."
 ---
 
-![MacBook Pro M2](https://www.apple.com/v/macbook-pro-m2/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: .align-right}({{ site.constants.wsib }}macbook-pro-m2)
+![MacBook Pro M2](https://www.apple.com/v/macbook-pro-m2/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-pro-m2)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Apple's latest iteration of its premium laptop series, the MacBook Pro M2, has h
 
 The MacBook Pro M2 boasts a sleek and elegant design that Apple is renowned for. The unibody aluminum chassis feels both premium and durable. It's lighter and thinner than its predecessors, making it a perfect companion for those who are always on the move.
 
-![MacBook Pro M2 Design](https://www.apple.com/v/macbook-pro-m2/a/images/overview/design__c2u6xn6rvs2u_large.jpg){: .align-right}({{ site.constants.wsib }}macbook-pro-m2-design)
+![MacBook Pro M2 Design](https://www.apple.com/v/macbook-pro-m2/a/images/overview/design__c2u6xn6rvs2u_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-pro-m2-design)
 
 ### Ports and Connectivity
 
@@ -24,7 +24,7 @@ One of the most significant changes in the M2 model is the return of the much-lo
 
 ## Display and Audio
 
-![MacBook Pro M2 Display](https://www.apple.com/v/macbook-pro-m2/a/images/overview/display__e7k5zj7n0heq_large.jpg){: .align-right}({{ site.constants.wsib }}macbook-pro-m2-display)
+![MacBook Pro M2 Display](https://www.apple.com/v/macbook-pro-m2/a/images/overview/display__e7k5zj7n0heq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-pro-m2-display)
 
 The MacBook Pro M2 features a stunning 14-inch Liquid Retina XDR display with ProMotion technology. The colors are vibrant, the blacks are deep, and the brightness can rival the sun on a good day.
 
@@ -34,7 +34,7 @@ The audio quality is nothing short of impressive. With a six-speaker sound syste
 
 ### Powered by M2 Chip
 
-![M2 Chip](https://www.apple.com/v/macbook-pro-m2/a/images/overview/m2__e4e6lfmu0sey_large.jpg){: .align-right}({{ site.constants.wsib }}m2-chip)
+![M2 Chip](https://www.apple.com/v/macbook-pro-m2/a/images/overview/m2__e4e6lfmu0sey_large.jpg){: style="float: right;"}({{ site.constants.wsib }}m2-chip)
 
 The heart of the MacBook Pro M2 is its revolutionary M2 chip. With an 8-core CPU, 10-core GPU, and 16-core Neural Engine, this powerhouse is designed to handle everything you throw at it – from video editing and 3D rendering to running multiple virtual machines and playing the latest games.
 
@@ -44,13 +44,13 @@ Apple claims up to 17 hours of battery life on a single charge, and in our tests
 
 ## Keyboard and Trackpad
 
-![Magic Keyboard](https://www.apple.com/v/macbook-pro-m2/a/images/overview/keyboard__f5dhn0m5h16m_large.jpg){: .align-right}({{ site.constants.wsib }}magic-keyboard)
+![Magic Keyboard](https://www.apple.com/v/macbook-pro-m2/a/images/overview/keyboard__f5dhn0m5h16m_large.jpg){: style="float: right;"}({{ site.constants.wsib }}magic-keyboard)
 
 The Magic Keyboard is back and better than ever. With a refined scissor mechanism and perfect travel distance, typing on the MacBook Pro M2 feels like a dream. The large Force Touch trackpad is highly responsive and supports a plethora of gestures, making navigation a breeze.
 
 ## Software and Features
 
-![macOS Monterey](https://www.apple.com/v/macbook-pro-m2/a/images/overview/macos__c1hwqr0tmcq6_large.jpg){: .align-right}({{ site.constants.wsib }}macos-monterey)
+![macOS Monterey](https://www.apple.com/v/macbook-pro-m2/a/images/overview/macos__c1hwqr0tmcq6_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macos-monterey)
 
 ### macOS Monterey
 
@@ -80,3 +80,7 @@ The 1080p FaceTime HD camera is a significant upgrade, ensuring you look your be
 The MacBook Pro M2 is a remarkable piece of technology that sets a new standard for laptops. Its blend of performance, design, and features makes it the ultimate dream machine for geeks and tech enthusiasts. If you're in the market for a new laptop and can afford the hefty price tag, the MacBook Pro M2 is worth every penny.
 
 **Ready to upgrade to the MacBook Pro M2? [Find the best deals here](https://www.apple.com/shop/buy-mac/macbook-pro)!**
+
+**Affiliate Disclosure:** Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
+
+Stay tuned for more tech reviews and geeky goodness from your friends at Geeknite! 🚀

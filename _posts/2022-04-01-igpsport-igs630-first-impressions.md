@@ -7,7 +7,7 @@ last_modified_at: '2025-03-08T10:00:00+02:00'
 redirect_to: https://bikinggeek.github.io/2022/04/igpsport-igs630-first-impressions.html
 ---
 
-[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: .align-right}]({{ site.constants.wsib }}iGPSPORT iGS630)
+[![iGPSPORT iGS630](https://i.imgur.com/GTfhJ63m.jpg){: style="float: right;"}]({{ site.constants.wsib }}iGPSPORT iGS630)
 
 ## **Introduction**
 
@@ -60,7 +60,7 @@ The BSC300 is a more affordable alternative within the iGPSPORT lineup. While it
 
 In conclusion, the iGPSPORT IGS630 has exceeded my expectations in many ways. Its intuitive design, versatile navigation, and robust training capabilities make it a fantastic companion for any cycling adventure【4:0†source】【4:6†source】. Plus, the ability to plan routes and workouts through the app is a huge bonus, offering true independence【4:0†source】.
 
-At the time of writing this review, [the iGPSPORT iGS630 is priced at $159.99 on Amazon](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher. I would recommend purchasing a [separate mount]({{ site.constants.wsib }}gps bike mount) for this, which should cost around $15 [check {{ site.constants.wsibName }} to find good priced options]({{ site.constants.wsib }}). Even with the extra mount, this is still an exceptional price for a full-color bike computer with so many features【4:1†source】.
+At the time of writing this review, [the iGPSPORT iGS630 is priced at $159.99 on Amazon](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher【4:0†source】. I would recommend purchasing a [separate mount]({{ site.constants.wsib }}gps bike mount) for this, which should cost around $15 [check {{ site.constants.wsibName }} to find good priced options]({{ site.constants.wsib }}). Even with the extra mount, this is still an exceptional price for a full-color bike computer with so many features【4:1†source】.
 
 Don't forget to leave your comments and impressions below; I'd love to hear your thoughts! Until next time, happy cycling, and stay adventurous!
 
@@ -80,6 +80,6 @@ If you're interested in further enhancing your cycling experience, check out the
 
 **Buy the iGPSPORT IGS630 Now!**
 
-Don't miss your chance to grab this amazing bike computer at a fantastic price. Click the link below to purchase the iGPSPORT IGS630 and take your cycling adventures to the next level:
+Don't miss your chance to grab this amazing bike computer at a fantastic price.
 
 [Buy Now](https://www.amazon.com/iGPSPORT-Waterproof-Navigation-Electronic-Supported/dp/B09XX5FVHJ?tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"}

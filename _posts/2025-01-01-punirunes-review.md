@@ -63,4 +63,4 @@ If you’re a fan of virtual pets or just looking for a fun and interactive toy,
 
 **Ready to embark on an adventure with Punirunes? Find the best prices online with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}punirunes).**
 
-We highly recommend giving Punirunes a try. Purchase it today and embark on an adventure filled with love, care, and lots of cuddles!
+We highly recommend giving Punirunes a try.
