@@ -120,7 +120,7 @@ La Nintendo Switch ha tenido un impacto cultural masivo desde su lanzamiento:
 - Inspiró una nueva generación de consolas portátiles (Steam Deck, ROG Ally)
 
 **El fenómeno "anywhere gaming":**
-La Switch popularizó el concepto de jugar AAA titles en cualquier lugar. Antes, los juegos portátiles eran versiones "light" de experiencias de consola.【4†source】【5†source】【6†source】【7†source】
+La Switch popularizó el concepto de jugar AAA titles en cualquier lugar. Antes, los juegos portátiles eran versiones "light" de experiencias de consola. La Switch demostró que podías tener experiencias completas en la palma de tu mano.
 
 ### Accesorios imprescindibles: Maximiza tu experiencia Switch
 
@@ -143,8 +143,9 @@ Si ya tienes una Switch o estás pensando en comprar una, estos accesorios hará
 
 La Nintendo Switch es como ese amigo que siempre llega tarde pero trae pizza: no es perfecto, pero es difícil no quererlo. Si buscas una experiencia de gaming única, la Switch sigue siendo una excelente opción. Pero si esperas gráficos de última generación, es posible que te decepcione.
 
-Con la llegada de la [Nintendo Switch 2]({%- post_url 2025-08-13-nintendo-switch-2-review -%}), la Switch original se ha convertido en una opción más asequible para quienes quieren entrar en el ecosistema Nintendo sin gastar una fortuna. Los exclusivos siguen siendo espectaculares, y la versatilidad híbrida sigue siendo única en el mercado.【3†source】
+Con la llegada de la [Nintendo Switch 2]({%- post_url 2025-08-13-nintendo-switch-2-review -%}), la Switch original se ha convertido en una opción más asequible para quienes quieren entrar en el ecosistema Nintendo sin gastar una fortuna. Los exclusivos siguen siendo espectaculares, y la versatilidad híbrida sigue siendo única en el mercado.
 
 **¿Qué opinas? ¿La Switch sigue siendo relevante en 2025 o es hora de pasar a la Switch 2?**
+{% include amazon.html asin="B09XX5FVHJ" %}
 
-**Bold Call-to-Action:** Si estás listo para sumergirte en el mundo de Nintendo Switch, ¡haz clic aquí y comienza tu aventura!
+**¡Haz clic aquí para comprar tu Nintendo Switch y empezar a disfrutar de tus juegos favoritos hoy mismo!**
