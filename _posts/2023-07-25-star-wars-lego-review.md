@@ -12,6 +12,7 @@ Hello there, fellow geekonauts! Today, we're diving into the vast and exciting w
 ![LEGO Star Wars](https://www.lego.com/cdn/cs/set/assets/blte5be7a7b4c6763a6/75192_alt1.jpg){: .align-right rel="nofollow"}
 
 ## LEGO Star Wars Millennium Falcon
+
 ### Overview
 
 The LEGO Star Wars Millennium Falcon is an iconic set that appeals to both Star Wars fans and LEGO enthusiasts. With over 7,500 pieces, it's one of the largest and most detailed LEGO sets ever created. It features intricate interior details, rotating turrets, and an array of minifigures from the Star Wars universe.
@@ -32,6 +33,7 @@ The LEGO Star Wars Millennium Falcon is an iconic set that appeals to both Star 
 The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements. **May the Force be with your wallet.**
 
 ## LEGO Star Wars Death Star
+
 ![LEGO Star Wars Death Star](https://www.lego.com/cdn/cs/set/assets/blta7e16f6a2a8b6c00/75159_alt1.jpg){: .align-right rel="nofollow"}
 
 ### Overview
@@ -54,6 +56,7 @@ The LEGO Star Wars Death Star is another behemoth of a set with over 4,000 piece
 If you want to rule the galaxy (or at least your living room) with an iron fist, the LEGO Star Wars Death Star is the way to go. It's both a collector's dream and a playground for Star Wars fans. Just be careful not to step on any stray pieces—your feet will thank you.
 
 ## LEGO Star Wars AT-AT Walker
+
 ![LEGO Star Wars AT-AT Walker](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75288_alt1.jpg){: .align-right rel="nofollow"}
 
 ### Overview
