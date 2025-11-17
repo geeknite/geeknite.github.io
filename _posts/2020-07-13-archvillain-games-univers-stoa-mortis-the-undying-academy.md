@@ -1,14 +1,7 @@
 ﻿---
 title: "Archvillain Games Univers Stoa Mortis The Undying Academy Review"
 date: 2020-07-13
-tags:
-  [
-    "board games",
-    "review",
-    "Archvillain Games",
-    "Stoa Mortis",
-    "Undying Academy",
-  ]
+tags: ["board games", "review", "Archvillain Games", "Stoa Mortis", "Undying Academy"]
 description: "A funny and detailed review of Archvillain Games - Univers Stoa Mortis The Undying Academy. Discover why this game is a must-have for fans of epic board games!"
 ---
 

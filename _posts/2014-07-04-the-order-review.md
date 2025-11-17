@@ -2,7 +2,7 @@
 title: "The Order: 1886 Review - A Cinematic Experience Gone Awry"
 date: 2014-07-04
 categories: [Gaming, Reviews]
-tags: [The Order: 1886, PS4, Gaming, Review, Funny]
+tags: ["The Order: 1886", "PS4", "Gaming", "Review", "Funny"]
 description: "Dive into the hilariously frustrating world of The Order: 1886. Explore its stunning visuals, shallow gameplay, and why it's a love-hate relationship."
 ---
 

@@ -4,7 +4,7 @@ date: 2024-11-22
 categories: [board games, review, star trek]
 tags: [Star Trek, RPG, Dice, Review]
 description: "Explore the features and performance of the Star Trek Adventures Dice Set: Operations Gold. Are these dice worth your latinum?"
-last_modified_at: '2025-10-07T08:00:58+02:00'
+last_modified_at: "2025-10-07T08:00:58+02:00"
 ---
 
 ![Star Trek Adventures Dice Set: Operations Gold](https://example.com/star_trek_dice.jpg){: .align-right}
@@ -48,7 +48,7 @@ In the spirit of scientific exploration, we subjected these dice to rigorous tes
 
 While the Star Wars RPG Dice Set offers thematic elements from a galaxy far, far away, the Star Trek Adventures Dice Set: Operations Gold stands out with its vibrant gold coloring and detailed Starfleet insignia. Both sets provide excellent durability, but the Star Trek dice offer a unique aesthetic that is hard to beat.
 
-### [Marvel United Dice Set]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+### [Marvel United Dice Set]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})
 
 The Marvel United Dice Set brings superhero flair to your tabletop. However, for Trekkies, the Star Trek Adventures Dice Set offers a more immersive experience that perfectly complements the Star Trek Adventures RPG. It's all about where your fandom allegiance lies.
 

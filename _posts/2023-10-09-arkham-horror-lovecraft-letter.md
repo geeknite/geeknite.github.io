@@ -1,7 +1,7 @@
 ---
-title: 'Arkham Horror: Lovecraft Letter Review'
-date: '2023-10-09'
-tags: ['board games', 'Arkham Horror', 'Lovecraft Letter', 'review', 'funny']
+title: "Arkham Horror: Lovecraft Letter Review"
+date: "2023-10-09"
+tags: ["board games", "Arkham Horror", "Lovecraft Letter", "review", "funny"]
 ---
 
 ![Arkham Horror: Lovecraft Letter](https://example.com/arkham_horror_lovecraft_letter.jpg){: .align-right}

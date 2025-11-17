@@ -9,7 +9,7 @@ description: "An in-depth and amusing review of the 7th Sea: Gamemaster Screen. 
 
 ## Introduction
 
-Ahoy, fellow adventurers of ThÃ©ah! As we all know, navigating the high seas of the 7th Sea RPG can be a daunting task for any Gamemaster (GM). Today, we set sail to review the **7th Sea: Gamemaster Screen** and see if itâ€™s a treasure worth adding to your collection or just another piece of driftwood. 
+Ahoy, fellow adventurers of ThÃ©ah! As we all know, navigating the high seas of the 7th Sea RPG can be a daunting task for any Gamemaster (GM). Today, we set sail to review the **7th Sea: Gamemaster Screen** and see if itâ€™s a treasure worth adding to your collection or just another piece of driftwood.
 
 ## The Basics
 
@@ -26,6 +26,7 @@ The screen is made of sturdy, high-quality material that can withstand the wear 
 ### Quick Reference
 
 One of the main selling points of the GM screen is the quick reference it provides. No more thumbing through rulebooks in the middle of a dramatic scene! The screen includes the most commonly used charts and tables, such as:
+
 - Action and Dramatic Sequence charts
 - Consequence tables
 - Duel mechanics
@@ -68,7 +69,7 @@ The **7th Sea: Gamemaster Screen** is a valuable tool for any GM looking to enha
 ## Other Reviews You Might Enjoy
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 
 **Don't miss out on our latest reviews and gaming tips! Follow us on [Twitch]({{ site.constants.twitch }}) and [YouTube]({{ site.constants.youtube }}). Happy gaming!**

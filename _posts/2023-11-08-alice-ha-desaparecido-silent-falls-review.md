@@ -1,16 +1,7 @@
 ﻿---
 title: "Alice ha desaparecido: Silent Falls Review"
 date: 2023-11-08
-tags:
-  [
-    alice-ha-desaparecido,
-    silent-falls,
-    review,
-    board-games,
-    mystery,
-    cooperative-games,
-    detective,
-  ]
+tags: [alice-ha-desaparecido, silent-falls, review, board-games, mystery, cooperative-games, detective]
 description: "Complete review of Alice ha desaparecido: Silent Falls, a thrilling cooperative mystery board game."
 ---
 
