@@ -19,7 +19,7 @@ Resident Evil 2: The Board Game is a survival horror game based on the iconic vi
 
 ### Components
 
-The game comes with a beautifully designed board, depicting various locations from Raccoon City, and high-quality miniatures, representing both the heroes and the undead enemies. The detailed artwork and sturdy components ensure an immersive gaming experience. Additionally, the game includes various tokens, cards, and a rulebook that's surprisingly easy to understand â€“ a rare gem in the board gaming world.
+The game comes with a beautifully designed board, depicting various locations from Raccoon City, and high-quality miniatures, representing both the heroes and the undead enemies. The detailed artwork and sturdy components ensure an immersive gaming experience. Additionally, the game includes various tokens, cards, and a rulebook that's surprisingly easy to understand - a rare gem in the board gaming world.
 
 ## Gameplay
 

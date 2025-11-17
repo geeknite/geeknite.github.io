@@ -29,7 +29,7 @@ Combat in Fallout New Vegas is a mix of real-time shooting and V.A.T.S. (Vault-T
 
 ### Quests and Factions
 
-The game is packed with a variety of quests, from main story missions to side quests that have you doing everything from hunting down rogue robots to solving murder mysteries. The factions you encounter â€” like the New California Republic, Caesar's Legion, and Mr. House's robot army â€” add layers of complexity to the story. Your choices will affect your standing with these factions, leading to multiple possible endings.
+The game is packed with a variety of quests, from main story missions to side quests that have you doing everything from hunting down rogue robots to solving murder mysteries. The factions you encounter - like the New California Republic, Caesar's Legion, and Mr. House's robot army - add layers of complexity to the story. Your choices will affect your standing with these factions, leading to multiple possible endings.
 
 ## Humor and Easter Eggs
 
@@ -49,6 +49,6 @@ The Fallout New Vegas modding community is incredibly active, with countless mod
 
 Fallout New Vegas is a timeless classic that remains a must-play for any RPG fan. Its deep story, engaging gameplay, and memorable characters make it a standout in the Fallout series. Whether you're revisiting it or playing for the first time, you're in for a treat.
 
-**Pro Tip**: Don't go overboard with mods on your first playthroughâ€”experience the vanilla game's brilliance before turning it into a bug-ridden modded mess!
+**Pro Tip**: Don't go overboard with mods on your first playthrough-experience the vanilla game's brilliance before turning it into a bug-ridden modded mess!
 
 {{ site.constants.wsib }}

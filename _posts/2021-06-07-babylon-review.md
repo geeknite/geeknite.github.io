@@ -27,7 +27,7 @@ Our protagonist, Arshak, is a young farmer who dreams of becoming a great warrio
 
 Oh, the drama! From forbidden love to epic betrayals, Babylon has it all. The tension between characters keeps you on the edge of your seat, and the political intrigue adds an extra layer of complexity. Just when you think you have it all figured out, the plot throws you a curveball that leaves you questioning everything you thought you knew.
 
-**Winner**: ðŸ† **Babylon** â€“ For delivering a plot that's both captivating and unpredictable.
+**Winner**: ðŸ† **Babylon** - For delivering a plot that's both captivating and unpredictable.
 
 ---
 
@@ -41,13 +41,13 @@ Arshak is the heart and soul of the movie. From his humble beginnings to his ris
 
 ### Ishtar: The Fierce Warrior
 
-Ishtar is a force to be reckoned with. Her no-nonsense attitude and unyielding determination make her one of the most compelling characters in the movie. Sheâ€™s the perfect blend of strength and vulnerability, and her chemistry with Arshak is electric.
+Ishtar is a force to be reckoned with. Her no-nonsense attitude and unyielding determination make her one of the most compelling characters in the movie. She's the perfect blend of strength and vulnerability, and her chemistry with Arshak is electric.
 
 ### The Villains: Love to Hate Them
 
 Every epic tale needs a good villain, and Babylon delivers multiple antagonists who are as cunning as they are ruthless. From corrupt politicians to power-hungry generals, these villains keep the stakes high and the tension palpable.
 
-**Winner**: ðŸ† **Babylon** â€“ For creating characters that are both relatable and larger-than-life.
+**Winner**: ðŸ† **Babylon** - For creating characters that are both relatable and larger-than-life.
 
 ---
 
@@ -63,23 +63,23 @@ The cinematography in Babylon is nothing short of breathtaking. The sweeping sho
 
 While the practical effects are impressive, the special effects take the movie to a whole new level. From epic battle scenes to jaw-dropping cityscapes, the visual effects are seamlessly integrated into the story, enhancing the overall experience without overshadowing it.
 
-**Winner**: ðŸ† **Babylon** â€“ For creating a visual masterpiece that captivates from start to finish.
+**Winner**: ðŸ† **Babylon** - For creating a visual masterpiece that captivates from start to finish.
 
 ---
 
 ## Soundtrack: Epic Tunes for Epic Tales
 
-*Letâ€™s talk about the music that sets the tone for this epic adventure.*
+*Let's talk about the music that sets the tone for this epic adventure.*
 
 ### The Score
 
-The soundtrack of Babylon is a perfect blend of orchestral grandeur and ancient melodies. The music enhances the emotional impact of each scene, whether it's a quiet moment of reflection or an intense battle sequence. Trust me, youâ€™ll be humming these tunes long after the credits roll.
+The soundtrack of Babylon is a perfect blend of orchestral grandeur and ancient melodies. The music enhances the emotional impact of each scene, whether it's a quiet moment of reflection or an intense battle sequence. Trust me, you'll be humming these tunes long after the credits roll.
 
 ### The Sound Design
 
 From the clashing of swords to the whispers of political conspiracies, the sound design in Babylon is top-notch. It adds depth and realism to the movie, making you feel like you're right there in the heart of the action.
 
-**Winner**: ðŸ† **Babylon** â€“ For a soundtrack that elevates the entire cinematic experience.
+**Winner**: ðŸ† **Babylon** - For a soundtrack that elevates the entire cinematic experience.
 
 ---
 
@@ -91,7 +91,7 @@ From the clashing of swords to the whispers of political conspiracies, the sound
 
 Babylon does a great job of balancing the serious moments with well-timed humor. The banter between characters, especially Arshak and his loyal sidekick, provides much-needed comic relief amidst the intense drama. It's a reminder that even in the direst of circumstances, there's always room for a good laugh.
 
-**Winner**: ðŸ† **Babylon** â€“ For seamlessly blending humor with epic storytelling.
+**Winner**: ðŸ† **Babylon** - For seamlessly blending humor with epic storytelling.
 
 ---
 

@@ -13,9 +13,9 @@ Welcome, fellow board game enthusiasts! Today, we dive deep into the wild world 
 
 ![Ark Nova - Map Pack 2]({{ site.baseurl }}/assets/images/ark-nova-map-pack-2.jpg)
 
-## Whatâ€™s in the Box?
+## What's in the Box?
 
-Opening this pack feels like unwrapping a Christmas present from that eccentric uncle who travels the world. Inside, youâ€™ll find:
+Opening this pack feels like unwrapping a Christmas present from that eccentric uncle who travels the world. Inside, you'll find:
 
 - **New Maps**: Six brand new maps that will make your zoo management even more challenging and fun.
 - **Rulebook**: A beautifully illustrated rulebook that's almost as exciting to read as your favorite comic book.
@@ -25,15 +25,15 @@ Opening this pack feels like unwrapping a Christmas present from that eccentric 
 
 ### Map 1: The Jurassic Park Wannabe
 
-Ever wondered what itâ€™s like to house dinosaurs in a modern zoo? Well, Map 1 is here to scratch that itch. Itâ€™s all fun and games until a T-Rex decides to go on a rampage. Just kidding, there are no real dinosaurs, but the challenges are colossal!
+Ever wondered what it's like to house dinosaurs in a modern zoo? Well, Map 1 is here to scratch that itch. It's all fun and games until a T-Rex decides to go on a rampage. Just kidding, there are no real dinosaurs, but the challenges are colossal!
 
 ### Map 2: The Aquatic Adventure
 
-Dive into the deep blue with Map 2. Managing aquatic animals brings a splash of new strategies to the table. Just make sure your sharks donâ€™t escape, or you might need a bigger boat (or a bigger sense of humor).
+Dive into the deep blue with Map 2. Managing aquatic animals brings a splash of new strategies to the table. Just make sure your sharks don't escape, or you might need a bigger boat (or a bigger sense of humor).
 
 ### Map 3: The High-Tech Haven
 
-Welcome to the future! Map 3 is all about integrating cutting-edge technology into your zoo. Think robo-keepers and holographic displays. Just pray the robots donâ€™t develop a mind of their own.
+Welcome to the future! Map 3 is all about integrating cutting-edge technology into your zoo. Think robo-keepers and holographic displays. Just pray the robots don't develop a mind of their own.
 
 ### Map 4: The Jungle Madness
 
@@ -49,14 +49,14 @@ Houston, we have a zoo! Map 6 takes your zoo management skills to outer space. W
 
 ## Gameplay Experience
 
-Playing with the new maps adds layers upon layers of strategy and hilarity to *Ark Nova*. Each map forces you to adapt and think outside the box. Whether youâ€™re trying to prevent a robotic uprising or ensuring your space penguins donâ€™t float away, youâ€™ll be laughing (and maybe crying) through every twist and turn.
+Playing with the new maps adds layers upon layers of strategy and hilarity to *Ark Nova*. Each map forces you to adapt and think outside the box. Whether you're trying to prevent a robotic uprising or ensuring your space penguins don't float away, you'll be laughing (and maybe crying) through every twist and turn.
 
 ![Gameplay]({{ site.baseurl }}/assets/images/ark-nova-gameplay.jpg)
 
 ### Pros
 
 - **Diverse Challenges**: Each map offers unique challenges that keep the game fresh and exciting.
-- **Great Replayability**: With six new maps, youâ€™ll never run out of new strategies to try.
+- **Great Replayability**: With six new maps, you'll never run out of new strategies to try.
 - **Beautiful Artwork**: The maps are visually stunning, making the game even more immersive.
 
 ### Cons
@@ -66,7 +66,7 @@ Playing with the new maps adds layers upon layers of strategy and hilarity to *A
 
 ## Final Recommendation
 
-If you're a fan of *Ark Nova*, the *Map Pack 2* is a must-have. It brings a fresh wave of excitement and challenges that will keep you coming back for more. Just remember to keep your sense of humor handy â€“ you're going to need it!
+If you're a fan of *Ark Nova*, the *Map Pack 2* is a must-have. It brings a fresh wave of excitement and challenges that will keep you coming back for more. Just remember to keep your sense of humor handy - you're going to need it!
 
 **Ready to expand your zoo? {{ site.constants.wsib }}**
 

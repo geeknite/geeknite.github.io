@@ -42,7 +42,7 @@ Each faction in Malifaux has its own set of abilities and playstyles. From the m
 
 ### Scenarios and Objectives
 
-Scenarios in Malifaux are like plot twists in a soap opera â€“ unexpected and thrilling. Each game offers different objectives and challenges, ensuring that no two matches are alike. Whether you're rescuing a captured ally or hunting down a rogue necromancer, the scenarios keep the game engaging and fresh.
+Scenarios in Malifaux are like plot twists in a soap opera - unexpected and thrilling. Each game offers different objectives and challenges, ensuring that no two matches are alike. Whether you're rescuing a captured ally or hunting down a rogue necromancer, the scenarios keep the game engaging and fresh.
 
 ## The Fun Factor
 
@@ -79,6 +79,5 @@ The **Malifaux 3E Core Rulebook** offers a fantastical adventure that's as chall
 
 - **[Gloomhaven: The Ultimate Dungeon Crawl]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Marvel United: Multiverse - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
-- **[Top 10 Strategy Board Games for 2025]({%- post_url 2025-06-10-top-10-strategy-board-games-2025 -%})**
 
 Happy adventuring!

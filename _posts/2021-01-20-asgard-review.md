@@ -37,7 +37,7 @@ Each turn consists of several phases:
 
 ### Winning and Losing
 
-To win, players must accumulate the most influence points by the end of the game. Influence can be gained through successful battles, building temples, and completing objectives. If you're defeated, don't worryâ€”there's always next time. Just remember to bring a bigger hammer.
+To win, players must accumulate the most influence points by the end of the game. Influence can be gained through successful battles, building temples, and completing objectives. If you're defeated, don't worry-there's always next time. Just remember to bring a bigger hammer.
 
 **Pro Tip**: Always keep an eye on your opponent's moves. Odin may have one eye, but you'll need both to stay ahead.
 

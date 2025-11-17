@@ -18,7 +18,7 @@ The Battle of Iwo Jima stands as one of World War II's most iconic and brutal co
 
 ### Overview
 
-The Battle of Iwo Jima (February 19 â€“ March 26, 1945) was one of the bloodiest battles in the Pacific Theater during World War II. The tiny volcanic island, only 8 square miles, became the site of a 36-day battle that would claim nearly 27,000 American and Japanese casualties combined.
+The Battle of Iwo Jima (February 19 - March 26, 1945) was one of the bloodiest battles in the Pacific Theater during World War II. The tiny volcanic island, only 8 square miles, became the site of a 36-day battle that would claim nearly 27,000 American and Japanese casualties combined.
 
 ### Strategic Importance
 

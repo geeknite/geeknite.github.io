@@ -1,7 +1,14 @@
 ﻿---
 title: "Archvillain Games Univers Stoa Mortis The Undying Academy Review"
 date: 2020-07-13
-tags: ["board games", "review", "Archvillain Games", "Stoa Mortis", "Undying Academy"]
+tags:
+  [
+    "board games",
+    "review",
+    "Archvillain Games",
+    "Stoa Mortis",
+    "Undying Academy",
+  ]
 description: "A funny and detailed review of Archvillain Games - Univers Stoa Mortis The Undying Academy. Discover why this game is a must-have for fans of epic board games!"
 ---
 
@@ -27,7 +34,7 @@ The game comes with beautifully crafted miniatures, detailed game boards, and an
 
 ### Setup
 
-Setting up Univers Stoa Mortis The Undying Academy is like preparing for a sÃ©ance. Lay out the game boards, distribute character sheets, and shuffle the decks of cards. Light a candle for ambiance (just kidding, don't set your house on fire). Now you're ready to begin your ghostly quest.
+Setting up Univers Stoa Mortis The Undying Academy is like preparing for a séance. Lay out the game boards, distribute character sheets, and shuffle the decks of cards. Light a candle for ambiance (just kidding, don't set your house on fire). Now you're ready to begin your ghostly quest.
 
 ### Turns and Actions
 
@@ -70,9 +77,9 @@ With numerous heroes, enemies, and scenarios, Univers Stoa Mortis offers endless
 
 Univers Stoa Mortis The Undying Academy is a fantastic addition to any board game collection, especially for fans of eerie and strategic adventures. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to surviving the haunted academy.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Univers Stoa Mortis is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Univers Stoa Mortis is an absolute blast.
 
-So what are you waiting for? Head over to Geeknite and get your copy of Univers Stoa Mortis The Undying Academy today. Itâ€™s time to face your fears and discover the secrets of the haunted library!
+So what are you waiting for? Head over to Geeknite and get your copy of Univers Stoa Mortis The Undying Academy today. It's time to face your fears and discover the secrets of the haunted library!
 
 ---
 
@@ -80,4 +87,4 @@ So what are you waiting for? Head over to Geeknite and get your copy of Univers 
 
 If you love haunted adventures, be sure to check out our reviews of [Marvel United Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}) or [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%}).
 
-**Ready to embark on a ghostly quest? Donâ€™t miss out on the fun!**
+**Ready to embark on a ghostly quest? Don't miss out on the fun!**

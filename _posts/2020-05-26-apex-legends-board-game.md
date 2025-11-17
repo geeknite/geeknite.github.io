@@ -26,7 +26,7 @@ The game includes:
 - **Cards**: Ability cards, weapon cards, and loot cards to equip your Legends and devise strategies.
 - **Tokens and Markers**: Used to track health, shields, and various effects during gameplay.
 
-**Pro Tip**: Donâ€™t let your Mirage miniature â€œdisappearâ€ under the couch. He might be sneaky, but you'll need him!
+**Pro Tip**: Don't let your Mirage miniature "disappear" under the couch. He might be sneaky, but you'll need him!
 
 ## How to Play
 
@@ -40,7 +40,7 @@ Each turn, players can move, attack, use abilities, and loot. Combat is resolved
 
 ### Winning and Losing
 
-To win, your squad must be the last standing. Whether you're sneaking through the map as Wraith or tanking damage as Gibraltar, the objective is the same: eliminate all opponents and survive the ring. If your squad is wiped out, itâ€™s game over.
+To win, your squad must be the last standing. Whether you're sneaking through the map as Wraith or tanking damage as Gibraltar, the objective is the same: eliminate all opponents and survive the ring. If your squad is wiped out, it's game over.
 
 **Pro Tip**: Always keep an eye on the ring. It shrinks over time, and you don't want to get caught outside its safe zone.
 
@@ -52,7 +52,7 @@ Apex Legends: The Board Game excels in creating tension similar to the video gam
 
 ### Funny Mishaps
 
-Despite the competitive nature, the game offers plenty of hilarious moments. Whether itâ€™s a Pathfinder grapple gone wrong or a Bloodhound ultimate that leads to a wild goose chase, these mishaps create memorable stories and laughter. For example, during one game, our Caustic player accidentally trapped himself in his own gas trap. The irony was not lost on us.
+Despite the competitive nature, the game offers plenty of hilarious moments. Whether it's a Pathfinder grapple gone wrong or a Bloodhound ultimate that leads to a wild goose chase, these mishaps create memorable stories and laughter. For example, during one game, our Caustic player accidentally trapped himself in his own gas trap. The irony was not lost on us.
 
 ### Replayability
 

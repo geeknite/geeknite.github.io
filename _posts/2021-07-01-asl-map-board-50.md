@@ -47,7 +47,7 @@ Thanks to the varied terrain and strategic depth, Map Board 50 offers high repla
 
 ### Funny Mishaps
 
-While ASL is known for its seriousness, the addition of Map Board 50 can lead to humorous moments. Imagine your squad getting stuck in the mud or mistaking a civilian building for an enemy stronghold â€“ these unexpected twists keep the game lively and entertaining.
+While ASL is known for its seriousness, the addition of Map Board 50 can lead to humorous moments. Imagine your squad getting stuck in the mud or mistaking a civilian building for an enemy stronghold - these unexpected twists keep the game lively and entertaining.
 
 ## Pros and Cons
 

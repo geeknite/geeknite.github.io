@@ -33,7 +33,7 @@ In 2025, as we approach the **31st anniversary** of the original series premiere
   * First TV series with pre-planned 5-year story arc
   * CGI effects (Foundation Imaging, Netter Digital)
   * Complex serialized storytelling
-  * No reset buttonâ€”consequences persist
+  * No reset button-consequences persist
 
 **Historical Context:**
 - **Previous Babylon Stations:** Babylon 1-3 destroyed during construction, Babylon 4 mysteriously vanished (time travel), Babylon 5 = final attempt
@@ -243,7 +243,7 @@ The internal panels contain **quick reference charts and tables** essential for 
 
 **The Shadow Attack Mishap:**
 
-> **"During one game, our GM tried to pull off a surprise Shadow attack, only to knock over the screen and reveal all their plansâ€”including the secret Shadow ships, hidden NPC stats, and the twist ending notes. The resulting chaos and laughter were legendary. We still call it 'The Great Shadow Reveal' incident!"**
+> **"During one game, our GM tried to pull off a surprise Shadow attack, only to knock over the screen and reveal all their plans-including the secret Shadow ships, hidden NPC stats, and the twist ending notes. The resulting chaos and laughter were legendary. We still call it 'The Great Shadow Reveal' incident!"**
 
 **The Cat Conspiracy:**
 
@@ -960,7 +960,7 @@ One of Babylon 5's most compelling narratives is the **Centauri downfall**:
 
 *"Faith manages."* - Marcus Cole
 
-The Babylon 5 tabletop gaming universe, like the station itself, represents our last, best hopeâ€”not for peace, but for immersive storytelling, tactical brilliance, and community connection through a beloved science fiction franchise. Whether you're:
+The Babylon 5 tabletop gaming universe, like the station itself, represents our last, best hope-not for peace, but for immersive storytelling, tactical brilliance, and community connection through a beloved science fiction franchise. Whether you're:
 
 - **Rolling dice** as a Game Master behind the official screen, navigating political intrigue and Shadow conspiracies
 - **Commanding fleets** in A Call to Arms, recreating epic space battles from the TV series
@@ -972,10 +972,10 @@ The Babylon 5 tabletop gaming universe, like the station itself, represents our 
 **Key Takeaways:**
 
 **For RPG Game Masters:**
-- The **GM Screen 2nd Edition** is essential for smooth gameplayâ€”worth the collectible premium
+- The **GM Screen 2nd Edition** is essential for smooth gameplay-worth the collectible premium
 - **PDF availability** on DriveThruRPG makes the system accessible despite out-of-print status
-- **Political intrigue** should equal or exceed combatâ€”embrace diplomatic encounters
-- **Consequences matter**â€”no reset button, actions have lasting effects
+- **Political intrigue** should equal or exceed combat-embrace diplomatic encounters
+- **Consequences matter**-no reset button, actions have lasting effects
 
 **For Miniatures Commanders:**
 - **A Call to Arms** delivers tactical depth and beautiful miniatures

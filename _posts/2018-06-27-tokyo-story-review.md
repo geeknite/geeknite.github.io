@@ -40,7 +40,7 @@ The film raises questions about filial duty and personal ambition. The children 
 
 ### Acting
 
-The performances are subtle yet powerful. ChishÅ« RyÅ« and Chieko Higashiyama deliver heartbreakingly authentic portrayals of aging parents. Setsuko Hara's role as Noriko is particularly memorable; her kindness and empathy provide a stark contrast to the childrenâ€™s indifference.
+The performances are subtle yet powerful. ChishÅ« RyÅ« and Chieko Higashiyama deliver heartbreakingly authentic portrayals of aging parents. Setsuko Hara's role as Noriko is particularly memorable; her kindness and empathy provide a stark contrast to the children's indifference.
 
 ### Cultural Influence
 

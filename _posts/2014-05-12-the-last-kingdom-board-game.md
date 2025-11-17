@@ -69,9 +69,9 @@ With multiple characters, strategies, and scenarios, The Last Kingdom Board Game
 
 The Last Kingdom Board Game is a fantastic addition to any board game collection, especially for fans of the series. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to claiming the throne.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, The Last Kingdom Board Game is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, The Last Kingdom Board Game is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}last-kingdom-board-game) and get your copy of The Last Kingdom Board Game today. Itâ€™s time to assemble your forces and claim your birthright!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}last-kingdom-board-game) and get your copy of The Last Kingdom Board Game today. It's time to assemble your forces and claim your birthright!
 
 ---
 

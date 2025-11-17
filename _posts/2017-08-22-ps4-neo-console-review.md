@@ -27,7 +27,7 @@ So here we are in 2025, and you might be wondering if the **PS4 Neo** is still w
   - *The Last of Us Part II*
   - *Uncharted 4*
 
-**Opinion:** The PS4 Neo's exclusives are like vintage wineâ€”aged beautifully, offering depth and complexity that new games sometimes lack. You'll find yourself shedding nostalgic tears while playing these classics.
+**Opinion:** The PS4 Neo's exclusives are like vintage wine-aged beautifully, offering depth and complexity that new games sometimes lack. You'll find yourself shedding nostalgic tears while playing these classics.
 
 ### Online Services: PS Plus
 

@@ -60,7 +60,7 @@ One of the standout features of Ticket to Ride is its ability to create hilariou
 
 **Ticket to Ride** is a fantastic board game that offers a perfect blend of strategy, geography, and hilarity. Whether you're a hardcore board gamer or just looking for a fun way to spend an evening with friends, Ticket to Ride is sure to deliver. With its beautiful components, engaging gameplay, and endless replayability, it's a must-have for any game night.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The blocking mechanics and component management might deter some players, but for those willing to embrace the railway chaos, Ticket to Ride is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The blocking mechanics and component management might deter some players, but for those willing to embrace the railway chaos, Ticket to Ride is an absolute blast.
 
 So what are you waiting for? Head over to [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and get your copy of Ticket to Ride today. It's time to lay down your tracks and embark on a railway adventure!
 

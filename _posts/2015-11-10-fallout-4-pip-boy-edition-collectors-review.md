@@ -15,7 +15,7 @@ Welcome, wasteland wanderers! Today, we'll be diving into the world of **Fallout
 
 The star of the show is, of course, the Pip-Boy. This wearable tech marvel is designed to hold your smartphone, transforming it into an in-game interface. If you've ever dreamed of checking your inventory, stats, or listening to the radio while wandering around the house, this is your chance.
 
-**Criticism Alert**: The Pip-Boy fits a variety of smartphones, but those with larger devices might struggle to make it fit. It's like trying to squeeze a Deathclaw into a Power Armor suitâ€”possible, but not without some effort.
+**Criticism Alert**: The Pip-Boy fits a variety of smartphones, but those with larger devices might struggle to make it fit. It's like trying to squeeze a Deathclaw into a Power Armor suit-possible, but not without some effort.
 
 ### Game and Steelbook
 
@@ -59,6 +59,6 @@ Having the Pip-Boy on your wrist while playing Fallout 4 can make the game feel 
 
 **Recommendation**: If you're a die-hard Fallout fan or a collector of gaming memorabilia, the Pip-Boy Edition is worth the splurge. For casual gamers, it might be better to save those caps for other wasteland necessities.
 
-**Pro Tip**: Test your smartphone size before buyingâ€”larger devices might not fit comfortably, and there's nothing more frustrating than a Pip-Boy that won't pip!
+**Pro Tip**: Test your smartphone size before buying-larger devices might not fit comfortably, and there's nothing more frustrating than a Pip-Boy that won't pip!
 
 {{ site.constants.wsib }}

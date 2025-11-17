@@ -78,9 +78,9 @@ With 150 cards, each game feels fresh and exciting. No two sessions are the same
 
 Conversation Starter Cards: Couples Edition is a fantastic addition to any couple's game night. Its engaging questions, high-quality cards, and endless replayability make it a must-have. Just remember, communication and laughter are key to a thriving relationship.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. Some questions might lead to awkward moments, and the random draw might not always fit your mood. But for those willing to embrace the chaos, Conversation Starter Cards: Couples Edition is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. Some questions might lead to awkward moments, and the random draw might not always fit your mood. But for those willing to embrace the chaos, Conversation Starter Cards: Couples Edition is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}conversation starter cards couples edition) and get your deck of Conversation Starter Cards: Couples Edition today. Itâ€™s time to spice up your date nights and unleash the laughter!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}conversation starter cards couples edition) and get your deck of Conversation Starter Cards: Couples Edition today. It's time to spice up your date nights and unleash the laughter!
 
 **Call to Action**: Ready to spark some conversations? Grab Conversation Starter Cards: Couples Edition and bring joy and laughter to your game nights! **Click [here]({{ site.constants.wsib }}conversation starter cards couples edition) to get your deck now!**
 

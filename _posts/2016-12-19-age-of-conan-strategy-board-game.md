@@ -27,7 +27,7 @@ The game boasts a beautifully illustrated board, detailed miniatures representin
 
 ### Setting Up
 
-Setting up Age of Conan can feel like staging a small-scale war. Lay out the board, distribute your armies, and draw your strategy cards. Make sure to keep your rulebook handy â€“ you'll need it.
+Setting up Age of Conan can feel like staging a small-scale war. Lay out the board, distribute your armies, and draw your strategy cards. Make sure to keep your rulebook handy - you'll need it.
 
 ### Turns and Actions
 
@@ -82,4 +82,4 @@ So, gather your friends, sharpen your swords, and dive into the thrilling world 
 
 ## Other Board Games to Check Out
 
-If you love Age of Conan, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
+If you love Age of Conan, be sure to check out our review of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).

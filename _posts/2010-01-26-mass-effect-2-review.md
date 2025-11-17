@@ -32,11 +32,11 @@ The combat in Mass Effect 2 is a blend of third-person shooting and biotic/tech 
 
 ### Exploration and Side Quests
 
-Exploring the galaxy in the Normandy SR-2 is a blast. The gameâ€™s universe is vast, with numerous planets to scan for resources and side missions to uncover. The side quests are varied, from helping a krogan chef settle a dispute to dealing with a rogue AI. Each mission adds depth to the game's rich lore.
+Exploring the galaxy in the Normandy SR-2 is a blast. The game's universe is vast, with numerous planets to scan for resources and side missions to uncover. The side quests are varied, from helping a krogan chef settle a dispute to dealing with a rogue AI. Each mission adds depth to the game's rich lore.
 
 ## Graphics and Sound
 
-Mass Effect 2 might be an older title, but it still holds up remarkably well in 2025. The character models and environments are detailed, and the gameâ€™s art style creates a visually stunning universe. The sound design is equally impressive, with a sweeping orchestral score that sets the tone for your adventures.
+Mass Effect 2 might be an older title, but it still holds up remarkably well in 2025. The character models and environments are detailed, and the game's art style creates a visually stunning universe. The sound design is equally impressive, with a sweeping orchestral score that sets the tone for your adventures.
 
 ### Visuals
 
@@ -44,7 +44,7 @@ The game's visuals are a delight, from the neon lights of Omega to the stark bea
 
 ### Audio
 
-The voice acting is stellar, featuring performances that bring each character to life. The soundtrack, composed by Jack Wall, is iconic, with themes that will stick with you long after you finish the game. Remember to keep tissues handy for that one track that plays during the suicide mission â€“ you know the one.
+The voice acting is stellar, featuring performances that bring each character to life. The soundtrack, composed by Jack Wall, is iconic, with themes that will stick with you long after you finish the game. Remember to keep tissues handy for that one track that plays during the suicide mission - you know the one.
 
 ## Replayability
 

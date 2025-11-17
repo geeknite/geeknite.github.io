@@ -30,7 +30,7 @@ Using the Premium Dice Set in Bloodborne: The Board Game is like adding a sprink
 
 ### Rolling with Style
 
-Each time you roll these dice, it feels like an event. The weight, the design, everything about these dice screams premium quality. Just be careful not to get too distracted by their beautyâ€”those beasts aren't going to slay themselves!
+Each time you roll these dice, it feels like an event. The weight, the design, everything about these dice screams premium quality. Just be careful not to get too distracted by their beauty-those beasts aren't going to slay themselves!
 
 **Pro Tip**: Practice your dice-rolling technique. There's nothing worse than a poorly rolled die that lands on the floor, interrupting the flow of your game. Trust me, it's not a good look in front of your fellow hunters!
 

@@ -21,7 +21,7 @@ The Avenue Rug 240 x 320 sports a modern design that can make even the dullest r
 
 With its vibrant colors, this rug is all about making a statement. Whether you want to add a pop of color to your living room or a touch of class to your bedroom, the Avenue Rug has got your back (or feet).
 
-## The Feel: Whatâ€™s It Like Underfoot?
+## The Feel: What's It Like Underfoot?
 
 ### Texture
 
@@ -29,7 +29,7 @@ Walking on this rug feels like stepping on a cloud. It's incredibly soft and plu
 
 ### Durability
 
-Despite its softness, the Avenue Rug 240 x 320 is remarkably durable. It stands up to foot traffic like a champ. Whether you have kids, pets, or clumsy adults (we donâ€™t judge), this rug can handle the chaos of daily life without losing its charm.
+Despite its softness, the Avenue Rug 240 x 320 is remarkably durable. It stands up to foot traffic like a champ. Whether you have kids, pets, or clumsy adults (we don't judge), this rug can handle the chaos of daily life without losing its charm.
 
 ## The Practicality: More Than Just a Pretty Face
 
@@ -43,9 +43,9 @@ Maintenance is a breeze with the Avenue Rug. It's stain-resistant and easy to cl
 
 ### Price
 
-Priced competitively, the Avenue Rug 240 x 320 offers great value for money. Itâ€™s not the cheapest rug out there, but considering its quality and design, itâ€™s a steal.
+Priced competitively, the Avenue Rug 240 x 320 offers great value for money. It's not the cheapest rug out there, but considering its quality and design, it's a steal.
 
-## Criticism: The Rugâ€™s Dirty Secrets
+## Criticism: The Rug's Dirty Secrets
 
 ### The Not-So-Great
 

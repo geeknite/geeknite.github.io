@@ -55,7 +55,7 @@ The game includes multiple scenarios based on different phases of the battle, ea
 
 ### Pros
 
-- **Immersive Gameplay**: Youâ€™ll feel like a 19th-century general, making life-or-death decisions on the battlefield.
+- **Immersive Gameplay**: You'll feel like a 19th-century general, making life-or-death decisions on the battlefield.
 - **Historical Accuracy**: A fantastic way to learn about the Franco-Prussian War while having fun.
 - **Strategic Depth**: Every decision matters, from unit placement to tactical maneuvers.
 - **Replayability**: Multiple scenarios and outcomes ensure that no two games are the same.
@@ -70,7 +70,7 @@ The game includes multiple scenarios based on different phases of the battle, ea
 
 **Against the Odds 24: Deathride - Mars-La-Tour 1870** is a must-have for fans of historical wargames and anyone looking to delve into the tactical intricacies of the Franco-Prussian War. Its immersive gameplay, detailed components, and strategic depth make it a standout title in the wargaming genre.
 
-Ready to rewrite history? Check out Against the Odds 24: Deathride - Mars-La-Tour 1870 and bring the battlefield to your tabletop today! **Donâ€™t wait, charge forward and grab your copy now!**
+Ready to rewrite history? Check out Against the Odds 24: Deathride - Mars-La-Tour 1870 and bring the battlefield to your tabletop today! **Don't wait, charge forward and grab your copy now!**
 
 {% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 

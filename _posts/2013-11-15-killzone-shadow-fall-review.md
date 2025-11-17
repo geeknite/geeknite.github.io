@@ -27,7 +27,7 @@ Killzone Shadow Fall is a visual masterpiece. The high-definition graphics showc
 
 ### Soundtrack and Audio Effects
 
-The gameâ€™s soundtrack complements the intense gameplay beautifully. Whether it's the pulse-pounding music during firefights or the ambient sounds that keep you on edge during stealth missions, the audio design is top-notch. Just make sure youâ€™ve got a good pair of headphonesâ€”you'll want to soak in every sound.
+The game's soundtrack complements the intense gameplay beautifully. Whether it's the pulse-pounding music during firefights or the ambient sounds that keep you on edge during stealth missions, the audio design is top-notch. Just make sure you've got a good pair of headphones-you'll want to soak in every sound.
 
 ## Pros and Cons
 

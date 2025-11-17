@@ -53,9 +53,9 @@ After several washes, the Board Games Unite Love T-Shirt holds up well. The colo
 
 The Board Games Unite Love T-Shirt is a must-have for any board game enthusiast. Its vibrant design, comfortable fabric, and durable construction make it a standout piece in any wardrobe. Plus, it's a fantastic conversation starter that will make you the hit of your next game night.
 
-**Criticism Reminder**: While the shirt is incredibly fun and stylish, itâ€™s not without its flaws. The limited availability and potential sizing issues might be a drawback for some. But for those who manage to snag one, itâ€™s an absolute gem.
+**Criticism Reminder**: While the shirt is incredibly fun and stylish, it's not without its flaws. The limited availability and potential sizing issues might be a drawback for some. But for those who manage to snag one, it's an absolute gem.
 
-So what are you waiting for? Head over to [Geeknite's Apparel Section](https://geeknite.com/apparel) and get your Board Games Unite Love T-Shirt today. Itâ€™s time to show off your love for board games in style!
+So what are you waiting for? Head over to [Geeknite's Apparel Section](https://geeknite.com/apparel) and get your Board Games Unite Love T-Shirt today. It's time to show off your love for board games in style!
 
 ---
 

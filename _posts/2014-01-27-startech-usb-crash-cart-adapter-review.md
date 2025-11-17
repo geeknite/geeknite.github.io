@@ -13,11 +13,11 @@ Hello, fellow tech enthusiasts! Today, we're going to dive into the world of IT 
 
 ## Design and Build Quality: Sturdy and Practical
 
-The Startech USB Crash Cart Adapter is a sight to behold. With its robust design and practical build, itâ€™s like the Swiss Army knife of IT toolsâ€”compact, durable, and ready to tackle any challenge you throw at it. Available in sleek black, itâ€™s designed to make you look like an IT wizard.
+The Startech USB Crash Cart Adapter is a sight to behold. With its robust design and practical build, it's like the Swiss Army knife of IT tools-compact, durable, and ready to tackle any challenge you throw at it. Available in sleek black, it's designed to make you look like an IT wizard.
 
 ### Durability
 
-The adapter boasts a durable design that can withstand the occasional drop (or the wrath of a frustrated sysadmin). Plus, itâ€™s built to handle the wear and tear of daily use in the IT trenches. So, whether youâ€™re dealing with a server room mishap or a cranky computer, your adapter will emerge unscathed.
+The adapter boasts a durable design that can withstand the occasional drop (or the wrath of a frustrated sysadmin). Plus, it's built to handle the wear and tear of daily use in the IT trenches. So, whether you're dealing with a server room mishap or a cranky computer, your adapter will emerge unscathed.
 
 ## Performance: Fast and Reliable
 
@@ -25,7 +25,7 @@ When it comes to performance, the Startech USB Crash Cart Adapter truly shines. 
 
 ### File Transfer
 
-The adapter allows for quick and easy file transfers between devices, making it a lifesaver for IT professionals dealing with data migrations or system repairs. The process is straightforward, and the transfer speeds are impressiveâ€”no more waiting around for files to move!
+The adapter allows for quick and easy file transfers between devices, making it a lifesaver for IT professionals dealing with data migrations or system repairs. The process is straightforward, and the transfer speeds are impressive-no more waiting around for files to move!
 
 ### Video Capture
 

@@ -32,7 +32,7 @@ Welcome, survivors, to the ultimate guide for **After The Virus**! If you're a f
 
 In **After The Virus**, you play as one of the few remaining humans trying to survive in a world overrun by zombies. Set in the aftermath of a viral outbreak that has turned most of humanity into flesh-eating undead, you must complete missions, scavenge for resources, and fend off relentless zombie hordes while trying not to lose your sanity in the process.
 
-**The Twist**: Unlike many zombie games focused purely on combat, After The Virus emphasizes **deck-building strategy** and **resource management**. You're not just fighting zombiesâ€”you're building an engine to survive.
+**The Twist**: Unlike many zombie games focused purely on combat, After The Virus emphasizes **deck-building strategy** and **resource management**. You're not just fighting zombies-you're building an engine to survive.
 
 ### What Makes It Special?
 
@@ -722,9 +722,9 @@ The humorous approach to zombie apocalypse serves important functions:
 
 ### Final Recommendation
 
-If you enjoy **deck-building games**, love **zombie survival themes**, and especially if you're a **solo gamer** looking for quick, strategic sessions, **After The Virus delivers excellent value**. It won't replace heavy strategy games or large-group party games, but within its nicheâ€”compact, quick, solo-friendly zombie deck-buildingâ€”it's one of the best options available.
+If you enjoy **deck-building games**, love **zombie survival themes**, and especially if you're a **solo gamer** looking for quick, strategic sessions, **After The Virus delivers excellent value**. It won't replace heavy strategy games or large-group party games, but within its niche-compact, quick, solo-friendly zombie deck-building-it's one of the best options available.
 
-**The Geeknite Verdict**: After The Virus proves that you don't need a massive box full of miniatures to create an engaging zombie survival experience. Its tight deck-building mechanics, humorous tone, and excellent solo play make it a must-have for the right audience. Just don't expect to negotiate peace treaties with the undeadâ€”it never works.
+**The Geeknite Verdict**: After The Virus proves that you don't need a massive box full of miniatures to create an engaging zombie survival experience. Its tight deck-building mechanics, humorous tone, and excellent solo play make it a must-have for the right audience. Just don't expect to negotiate peace treaties with the undead-it never works.
 
 **Ready to survive the zombie apocalypse? Grab your copy and join the fight! May your brains remain uneaten!**
 

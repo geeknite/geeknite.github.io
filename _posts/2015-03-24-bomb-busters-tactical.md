@@ -66,9 +66,9 @@ One of the best aspects of Bomb Busters is the humor built into the gameplay. Fr
 
 Bomb Busters is a fantastic board game that offers a perfect blend of strategy, humor, and thrilling gameplay. Whether you're a hardcore board gamer or just looking for a fun way to spend an evening with friends, Bomb Busters is sure to deliver. With its beautiful components, engaging mechanics, and endless replayability, it's a must-have for any game night.
 
-**Criticism Alert**: While the game is incredibly fun, itâ€™s not without its flaws. The complex setup and punishing difficulty might deter some players, but for those willing to embrace the chaos, Bomb Busters is an absolute blast.
+**Criticism Alert**: While the game is incredibly fun, it's not without its flaws. The complex setup and punishing difficulty might deter some players, but for those willing to embrace the chaos, Bomb Busters is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite's Board Games Section](https://geeknite.com/boardgames) and get your copy of Bomb Busters today. Itâ€™s time to face the bombs and save humanity!
+So what are you waiting for? Head over to [Geeknite's Board Games Section](https://geeknite.com/boardgames) and get your copy of Bomb Busters today. It's time to face the bombs and save humanity!
 
 ## Other Board Games to Check Out
 

@@ -9,7 +9,7 @@ description: "Dive into the world of Fire Emblem Awakening with our funny and in
 
 ## Introduction
 
-Hello, fellow tacticians! Get ready to delve into the epic world of Fire Emblem Awakening â€” where strategy meets romance, and every decision can lead to either glory or catastrophe. If you have been searching for the ultimate tactical RPG, look no further. Fire Emblem Awakening is the game that will have you laughing, crying, and maybe even questioning your life choices (why did I pair those two characters together?!).
+Hello, fellow tacticians! Get ready to delve into the epic world of Fire Emblem Awakening - where strategy meets romance, and every decision can lead to either glory or catastrophe. If you have been searching for the ultimate tactical RPG, look no further. Fire Emblem Awakening is the game that will have you laughing, crying, and maybe even questioning your life choices (why did I pair those two characters together?!).
 
 ## The Basics
 
@@ -25,7 +25,7 @@ The game includes a rich cast of characters, each with their own unique abilitie
 
 ### Setting Up
 
-Setting up Fire Emblem Awakening is as easy as pie. Just pop the cartridge into your 3DS, and you're ready to go. No need for sacrificial offerings â€” unless you count the hours you'll sacrifice getting lost in this game.
+Setting up Fire Emblem Awakening is as easy as pie. Just pop the cartridge into your 3DS, and you're ready to go. No need for sacrificial offerings - unless you count the hours you'll sacrifice getting lost in this game.
 
 ### Turns and Actions
 
@@ -33,7 +33,7 @@ Each turn, players control their characters to move across the grid-based map. A
 
 ### Combat
 
-Combat in Fire Emblem Awakening is a mix of strategic planning and luck. Each attack can be influenced by the weapon triangle â€” swords beat axes, axes beat lances, and lances beat swords. Did you plan an epic attack only to realize your character is wielding the wrong weapon? Welcome to Fire Emblem Awakening, where even the best-laid plans can go awry.
+Combat in Fire Emblem Awakening is a mix of strategic planning and luck. Each attack can be influenced by the weapon triangle - swords beat axes, axes beat lances, and lances beat swords. Did you plan an epic attack only to realize your character is wielding the wrong weapon? Welcome to Fire Emblem Awakening, where even the best-laid plans can go awry.
 
 ## The Story
 
@@ -43,15 +43,15 @@ The storyline progresses as you complete chapters. It's like reading a fantasy n
 
 ### Side Missions & Characters
 
-There are numerous side missions and paralogues that add depth and replayability. Characters level up and evolve, which can lead to new abilities and items. Just be careful not to get too attached â€” permadeath is real, folks.
+There are numerous side missions and paralogues that add depth and replayability. Characters level up and evolve, which can lead to new abilities and items. Just be careful not to get too attached - permadeath is real, folks.
 
 ## Pros and Cons
 
 ### Pros
 
-- **Immersive Gameplay**: Youâ€™ll feel like youâ€™re in the battlefield, strategizing and making tough decisions.
+- **Immersive Gameplay**: You'll feel like you're in the battlefield, strategizing and making tough decisions.
 - **Replayability**: With multiple difficulty levels, different character pairings, and varied classes, no two playthroughs are the same.
-- **Strategic Depth**: Every decision matters. You canâ€™t just hack and slash your way through Fire Emblem Awakening (even though itâ€™s tempting).
+- **Strategic Depth**: Every decision matters. You can't just hack and slash your way through Fire Emblem Awakening (even though it's tempting).
 
 ### Cons
 

@@ -17,7 +17,7 @@ The Passion Of Joan Of Arc focuses on the final hours of Joan's life as she stan
 
 ### Joan's Trial
 
-Joan, played by the extraordinary RenÃ©e Jeanne Falconetti, faces a series of brutal interrogations and accusations from the church officials. Her unwavering faith and resilience shine through despite the relentless psychological torture she endures. The film meticulously recreates the historical events, giving us a glimpse into the medieval judicial system and the severe consequences of defying the church.
+Joan, played by the extraordinary Renée Jeanne Falconetti, faces a series of brutal interrogations and accusations from the church officials. Her unwavering faith and resilience shine through despite the relentless psychological torture she endures. The film meticulously recreates the historical events, giving us a glimpse into the medieval judicial system and the severe consequences of defying the church.
 
 ## Cinematography and Direction
 
@@ -31,7 +31,7 @@ Dreyer employed innovative techniques that were groundbreaking for the time, suc
 
 ## Performance
 
-### RenÃ©e Jeanne Falconetti
+### Renée Jeanne Falconetti
 
 Falconetti's portrayal of Joan is widely regarded as one of the greatest performances ever captured on film. Her ability to convey deep emotion through subtle facial expressions is nothing short of miraculous. It's said that Dreyer pushed Falconetti to her limits, resulting in a performance that is both haunting and unforgettable.
 

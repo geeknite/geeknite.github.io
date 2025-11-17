@@ -35,11 +35,11 @@ Welcome to the wasteland, adventurers! Fallout 4 has been a staple in the post-a
 
 #### Combat
 
-The combat in Fallout 4 is a blend of real-time shooting and strategic planning, thanks to the V.A.T.S. system. Whether you prefer to go in guns blazing or take a more tactical approach, the game accommodates various playstyles. Just remember to loot everything and anythingâ€”those bottle caps won't collect themselves.
+The combat in Fallout 4 is a blend of real-time shooting and strategic planning, thanks to the V.A.T.S. system. Whether you prefer to go in guns blazing or take a more tactical approach, the game accommodates various playstyles. Just remember to loot everything and anything-those bottle caps won't collect themselves.
 
 #### Crafting and Settlements
 
-Crafting is a big part of Fallout 4, and the settlement building adds a layer of creativity to the game. You can spend hours (or days) perfecting your settlements, making them functional and aesthetically pleasing. Just beware of those raidersâ€”they love to ruin all your hard work.
+Crafting is a big part of Fallout 4, and the settlement building adds a layer of creativity to the game. You can spend hours (or days) perfecting your settlements, making them functional and aesthetically pleasing. Just beware of those raiders-they love to ruin all your hard work.
 
 #### Exploration
 
@@ -49,7 +49,7 @@ Exploration is at the heart of Fallout 4. The vast open world is filled with hid
 
 #### Visuals
 
-Fallout 4's graphics have aged like a fine wineâ€”well, maybe more like a fine irradiated wine. The game's visuals are respectable, with detailed environments and character models. The weather effects, especially radiation storms, add to the immersive experience.
+Fallout 4's graphics have aged like a fine wine-well, maybe more like a fine irradiated wine. The game's visuals are respectable, with detailed environments and character models. The weather effects, especially radiation storms, add to the immersive experience.
 
 #### Soundtrack
 
@@ -73,6 +73,6 @@ The soundtrack is a perfect blend of eerie ambient music and retro tracks that f
 
 Fallout 4 is a game that offers a mixed bag of experiences. Its immersive world, customization options, and memorable companions make it a standout in the RPG genre. However, the bugs, repetitive quests, and simplified dialog system can be frustrating. Despite these flaws, the game remains a beloved title that offers countless hours of post-apocalyptic fun.
 
-**Pro Tip**: Save often and in multiple slotsâ€”the bugs are part of the wasteland experience, and you don't want to lose hours of progress to a glitch!
+**Pro Tip**: Save often and in multiple slots-the bugs are part of the wasteland experience, and you don't want to lose hours of progress to a glitch!
 
 {{ site.constants.wsib }}

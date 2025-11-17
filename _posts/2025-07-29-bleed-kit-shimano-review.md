@@ -1,6 +1,6 @@
 ---
 title: "BBLTIFF Shimano Bleed Kit Review"
-date: 2025-07-29 14:58:02 +0200
+date: "2025-07-29"
 tags:
 - Cycling
 - Shimano

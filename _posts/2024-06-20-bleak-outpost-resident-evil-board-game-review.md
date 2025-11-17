@@ -19,7 +19,7 @@ Bleak Outpost is a cooperative strategy board game based on the popular Resident
 
 ### Components
 
-The game comes with a beautifully designed board, depicting various post-apocalyptic locations, and high-quality miniatures, representing both the survivors and the zombies. The detailed artwork and sturdy components ensure an immersive gaming experience. Additionally, the game includes various tokens, cards, and a rulebook that's surprisingly easy to understandâ€”what a rarity in the board gaming world!
+The game comes with a beautifully designed board, depicting various post-apocalyptic locations, and high-quality miniatures, representing both the survivors and the zombies. The detailed artwork and sturdy components ensure an immersive gaming experience. Additionally, the game includes various tokens, cards, and a rulebook that's surprisingly easy to understand-what a rarity in the board gaming world!
 
 ## Gameplay
 
@@ -80,4 +80,4 @@ So, gather your friends, set up your survival strategies, and dive into the thri
 
 If you love Bleak Outpost, be sure to check out our reviews of [Sniper Elite Board Game](https://geeknite.com/2024-10-16-sniper-elite-board-game-review) or [why adults should also board game]({% post_url 2019-11-15-adult-board-games %}).
 
-**Ready to face the zombie apocalypse?** Donâ€™t miss out on the fun!
+**Ready to face the zombie apocalypse?** Don't miss out on the fun!

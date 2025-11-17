@@ -15,11 +15,11 @@ Ah, the PlayStation 3. Released way back in 2006, it's the gaming console that m
 
 ### The Monolith
 
-The PS3 is a beast of a machine. It's large, it's heavy, and it looks like something straight out of a sci-fi movie. With its glossy black finish and curved design, it was a statement piece in any living room. But be warned, itâ€™s also a fingerprint magnet. If you ever wanted a console that could double as a mirror, the PS3 has you covered.
+The PS3 is a beast of a machine. It's large, it's heavy, and it looks like something straight out of a sci-fi movie. With its glossy black finish and curved design, it was a statement piece in any living room. But be warned, it's also a fingerprint magnet. If you ever wanted a console that could double as a mirror, the PS3 has you covered.
 
 ### Durability
 
-In terms of durability, the PS3 is built like a tank. Drop it, kick it, or accidentally sit on it (don't ask how we know this), and it will likely survive. Itâ€™s like the Terminator of gaming consoles - it just keeps coming back.
+In terms of durability, the PS3 is built like a tank. Drop it, kick it, or accidentally sit on it (don't ask how we know this), and it will likely survive. It's like the Terminator of gaming consoles - it just keeps coming back.
 
 ## Features
 
@@ -39,7 +39,7 @@ The PS3 boasts some of the finest exclusive titles ever made. From _Uncharted_ t
 
 ### Graphics and Performance
 
-While the PS3 can't compete with the graphics of today's consoles, it still holds its own. Games like _Metal Gear Solid 4_ and _God of War III_ showcase the PS3's capabilities, with impressive visuals and smooth gameplay. Itâ€™s like looking at old photographs - sure, they donâ€™t have the clarity of a modern camera, but the memories they evoke are priceless.
+While the PS3 can't compete with the graphics of today's consoles, it still holds its own. Games like _Metal Gear Solid 4_ and _God of War III_ showcase the PS3's capabilities, with impressive visuals and smooth gameplay. It's like looking at old photographs - sure, they don't have the clarity of a modern camera, but the memories they evoke are priceless.
 
 ## The Good, The Bad, and The Ugly
 

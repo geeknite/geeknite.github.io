@@ -26,7 +26,7 @@ The game comes with a beautifully crafted board displaying the besieged town, de
 
 ### Setting Up
 
-Setting up **The Last Spell** is like preparing for an epic battle. Lay out the board, position your heroes, shuffle the spell cards, and place the monster tokens. Don't forget to steel your nerves â€“ you'll need them.
+Setting up **The Last Spell** is like preparing for an epic battle. Lay out the board, position your heroes, shuffle the spell cards, and place the monster tokens. Don't forget to steel your nerves - you'll need them.
 
 ### Turns and Actions
 
@@ -65,9 +65,9 @@ Players can choose from a variety of heroes, each with unique abilities and spel
 
 **The Last Spell: The Board Game** is a fantastic addition to any board game collection, especially for fans of dark fantasy and cooperative strategy games. Its immersive gameplay, beautiful components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to surviving the monster hordes.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, **The Last Spell** is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, **The Last Spell** is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}the_last_spell_board_game) and get your copy of **The Last Spell: The Board Game** today. Itâ€™s time to assemble your team and defend humanity!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}the_last_spell_board_game) and get your copy of **The Last Spell: The Board Game** today. It's time to assemble your team and defend humanity!
 
 ---
 
@@ -75,4 +75,4 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}th
 
 If you love dark fantasy board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
-**Ready to defend your town? Donâ€™t miss out on the fun!**
+**Ready to defend your town? Don't miss out on the fun!**

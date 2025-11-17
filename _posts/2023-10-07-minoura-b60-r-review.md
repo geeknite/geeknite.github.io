@@ -1,7 +1,7 @@
 ---
 title: "Minoura B60-R: The Magnetic Marvel of Indoor Cycling"
-date: 2023-10-07 01:22:56 +0200
-tags: 
+date: "2023-10-07"
+tags:
   - Cycling
   - Indoor Training
   - Minoura
@@ -64,11 +64,11 @@ Durability is where the Minoura B60-R excels. It's built from high-quality mater
 
 ## Comparison with Other Trainers
 
-### [Tacx Flow Smart]({% post_url 2023-07-04-prime-day-bike-gadgets-accesories %})
+### [Tacx Flow Smart]({% post_url 2025-11-01-prime-day-gadgets-tecnologia %})
 
 The Tacx Flow Smart offers a similar experience with added smart features like Bluetooth and ANT+ connectivity, making it compatible with apps like Zwift and TrainerRoad. However, it comes at a higher price point. If you're looking for a budget-friendly option without compromising on quality, the Minoura B60-R is a great choice.
 
-### [Wahoo Kickr]({% post_url 2023-07-04-prime-day-bike-gadgets-accesories %})
+### [Wahoo Kickr]({% post_url 2025-11-01-prime-day-gadgets-tecnologia %})
 
 The Wahoo Kickr is a high-end trainer that offers advanced features and a smoother ride feel thanks to its flywheel technology. It's perfect for serious cyclists who need precise power measurement and gradient simulation. However, it's significantly more expensive than the Minoura B60-R. If budget is a concern, the B60-R provides excellent value for the money.
 
@@ -82,8 +82,8 @@ The Minoura B60-R Magnetic Trainer is a fantastic option for cyclists looking to
 
 ## Related Posts
 
-- [Tacx Flow Smart Review]({% post_url 2023-07-04-prime-day-bike-gadgets-accesories %})
-- [Wahoo Kickr Review]({% post_url 2023-07-04-prime-day-bike-gadgets-accesories %})
+- [Tacx Flow Smart Review]({% post_url 2025-11-01-prime-day-gadgets-tecnologia %})
+- [Wahoo Kickr Review]({% post_url 2025-11-01-prime-day-gadgets-tecnologia %})
 - [Garmin Edge 540 Review]({% post_url 2023-07-06-garmin-edge-540-review %})
 - [iGPSPORT iGS630 Review]({% post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws %})
 

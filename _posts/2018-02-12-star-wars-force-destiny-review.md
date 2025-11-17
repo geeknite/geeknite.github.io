@@ -74,12 +74,12 @@ With multiple characters, adventures, and expansions, Force & Destiny offers end
 
 Star Wars RPG: Force & Destiny Beginner Game is a fantastic addition to any tabletop RPG collection, especially for Star Wars fans. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to saving the galaxy.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Force & Destiny is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Force & Destiny is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite's RPG Section](https://geeknite.com/rpg) and get your copy of Force & Destiny today. Itâ€™s time to embrace your destiny and save the galaxy!
+So what are you waiting for? Head over to [Geeknite's RPG Section](https://geeknite.com/rpg) and get your copy of Force & Destiny today. It's time to embrace your destiny and save the galaxy!
 
 ## Other Galactic Adventures to Check Out
 
 If you love Star Wars RPGs, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
-**Ready to embark on a galactic adventure? Donâ€™t miss out on the fun!**
+**Ready to embark on a galactic adventure? Don't miss out on the fun!**

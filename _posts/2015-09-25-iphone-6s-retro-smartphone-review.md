@@ -11,7 +11,7 @@ description: "Is the iPhone 6s still worth buying in 2025? Join us as we take a 
 
 ## **Design and Build Quality**
 
-The iPhone 6s still holds up in terms of design. With its sleek aluminum body and compact size, it feels premium and comfortable in hand. Available in four colorsâ€”Silver, Gold, Space Gray, and Rose Goldâ€”there's a nostalgic charm to its aesthetics. The build quality is solid, and it could probably survive a few accidental drops (not that we're recommending you try it).
+The iPhone 6s still holds up in terms of design. With its sleek aluminum body and compact size, it feels premium and comfortable in hand. Available in four colors-Silver, Gold, Space Gray, and Rose Gold-there's a nostalgic charm to its aesthetics. The build quality is solid, and it could probably survive a few accidental drops (not that we're recommending you try it).
 
 ## **Display**
 

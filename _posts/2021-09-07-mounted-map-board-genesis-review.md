@@ -33,7 +33,7 @@ Each turn involves drawing action cards and moving your tokens on the map board.
 
 ### Combat
 
-Combat in Genesis is a blend of tactical planning and rolling dice. Just when you think you've cornered your opponent, a bad roll can turn the tide. It's like a plot twist in a bad soap operaâ€”unexpected and hilarious.
+Combat in Genesis is a blend of tactical planning and rolling dice. Just when you think you've cornered your opponent, a bad roll can turn the tide. It's like a plot twist in a bad soap opera-unexpected and hilarious.
 
 ## The Strategy
 
@@ -45,15 +45,15 @@ In Genesis, every move counts. Players must plan their strategies carefully, con
 
 ### Resource Management
 
-Managing resources is crucial. You need to gather enough to build fortifications and troops but not so much that you become a target for your opponents. Balancing is keyâ€”like walking on a tightrope over a pit of hungry alligators.
+Managing resources is crucial. You need to gather enough to build fortifications and troops but not so much that you become a target for your opponents. Balancing is key-like walking on a tightrope over a pit of hungry alligators.
 
 ## Humor and Fun Factor
 
-One of the best aspects of Genesis is its balance of serious strategy and lighthearted fun. The game mechanics are solid, but it's the unexpected momentsâ€”like when your opponent accidentally traps themselvesâ€”that keep you coming back for more.
+One of the best aspects of Genesis is its balance of serious strategy and lighthearted fun. The game mechanics are solid, but it's the unexpected moments-like when your opponent accidentally traps themselves-that keep you coming back for more.
 
 **Funny Moment**: In one game, a player miscalculated their troop movements and ended up stranded in the middle of the map board. The laughter around the table was only matched by their groans of frustration.
 
-**Pro Tip**: Use dramatic voices for extra flair. â€œCommander, weâ€™re out of resources! Retreat to the hills!â€
+**Pro Tip**: Use dramatic voices for extra flair. "Commander, we're out of resources! Retreat to the hills!"
 
 ## Comparison with Other Strategy Games
 
@@ -82,11 +82,11 @@ Settlers of Catan focuses on resource management and trading. If you love buildi
 
 **Mounted Map Board: Genesis** is a strategic masterpiece with enough humor and depth to keep any board game enthusiast entertained. Whether you're planning a solo campaign or a multiplayer game night, Genesis offers hours of fun and tactical challenges.
 
-Ready to conquer the map board? Check out Genesis on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and start your strategic journey today! **Donâ€™t wait, roll the dice and grab your copy now!**
+Ready to conquer the map board? Check out Genesis on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and start your strategic journey today! **Don't wait, roll the dice and grab your copy now!**
 
 {% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/Jm8ynpT.jpg' %}
 
-**Call to Action:** Donâ€™t miss out on the ultimate strategy game experience! Click [here]({{ site.constants.wsib }}mounted-map-board-genesis) to get your copy of Mounted Map Board: Genesis now and receive an exclusive discount! Happy strategizing!
+**Call to Action:** Don't miss out on the ultimate strategy game experience! Click [here]({{ site.constants.wsib }}mounted-map-board-genesis) to get your copy of Mounted Map Board: Genesis now and receive an exclusive discount! Happy strategizing!
 
 ---
 For more reviews and board game recommendations, check out our previous posts:

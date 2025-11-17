@@ -59,7 +59,7 @@ One of the best aspects of AngerSmash is the humor woven into the gameplay. From
 - **High-Quality Components**: The artwork and components are beautifully designed and durable.
 - **Replayability**: With various characters and action cards, no two games are ever the same.
 - **Hilarious Moments**: The humor woven into the game provides countless laugh-out-loud moments.
-- **Accessible Fun**: Easy to learn, hard to master â€“ perfect for both casual and hardcore gamers.
+- **Accessible Fun**: Easy to learn, hard to master - perfect for both casual and hardcore gamers.
 
 ### Cons
 
@@ -71,9 +71,9 @@ One of the best aspects of AngerSmash is the humor woven into the gameplay. From
 
 AngerSmash is a fantastic card game that offers a perfect blend of strategy, humor, and thrilling gameplay. Whether you're a hardcore card gamer or just looking for a fun way to spend an evening with friends, AngerSmash is sure to deliver. With its beautiful components, engaging mechanics, and endless replayability, it's a must-have for any game night.
 
-**Criticism Alert**: While the game is incredibly fun, itâ€™s not without its flaws. The randomness and complexity might deter some players, but for those willing to embrace the chaos, AngerSmash is an absolute blast.
+**Criticism Alert**: While the game is incredibly fun, it's not without its flaws. The randomness and complexity might deter some players, but for those willing to embrace the chaos, AngerSmash is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite's Card Games Section](https://geeknite.com/cardgames) and get your copy of AngerSmash today. Itâ€™s time to channel your rage and smash your way to victory!
+So what are you waiting for? Head over to [Geeknite's Card Games Section](https://geeknite.com/cardgames) and get your copy of AngerSmash today. It's time to channel your rage and smash your way to victory!
 
 ## Other Card Games to Check Out
 

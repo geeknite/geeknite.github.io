@@ -1,6 +1,6 @@
 ---
 title: "Tecnología de aire caliente en la cocina: Descubre la versatilidad de la COSORI Freidora sin Aceite 5.5 L con 100 deliciosas recetas en español"
-date: 2023-03-10 17:00:00 +0200
+date: "2023-03-10"
 tags:
 - review
 - español

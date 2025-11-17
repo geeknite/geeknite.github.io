@@ -1,6 +1,6 @@
 ---
 title: "Review: Minoura B60-R Magnetic Trainer - Best Bang for Your Buck!"
-date: 2023-10-07 01:36:04 +0200
+date: "2023-10-07"
 tags:
 - Cycling
 - Gadgets

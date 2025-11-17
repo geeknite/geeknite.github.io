@@ -1,6 +1,6 @@
 ---
 title: "SRAM Hammerhead Karoo: The Ultimate Bike Computer Experience"
-date: 2025-03-13 19:34:12 +0200
+date: "2025-03-13"
 tags: [SRAM, Karoo, Bike Computer, Review, Cycling, Gadgets]
 description: "Explore the features, pros, cons, and funny quirks of the SRAM Hammerhead Karoo bike computer in this epic review."
 redirect_to: https://bikinggeek.github.io/2025/03/SRAM-karoo-review.html

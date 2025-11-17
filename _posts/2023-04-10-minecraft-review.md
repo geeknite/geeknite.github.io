@@ -1,9 +1,14 @@
 ﻿---
 title: "Minecraft Review: The Ultimate Block Party"
 date: 2023-04-10
-tags: [gaming, review, minecraft, blocks, creativity]
+tags:
+  - gaming
+  - review
+  - minecraft
+  - blocks
+  - creativity
 description: "Dive into Minecraft, the sandbox game that's captivated millions. Explore our hilarious take on why this game is a must-play."
-last_modified_at: 2025-10-07T00:30:16.776251Z
+last_modified_at: 2025-10-07
 ---
 
 ## Introduction

@@ -10,7 +10,7 @@ tags: [board games, review, Bloodborne, card games, expansions]
 
 Hello, fellow hunters! Ready to dive back into the gothic horrors of Yharnam with **Bloodborne: The Card Game - The Hunter's Nightmare Expansion**? If you've played the base game, you know the drill: blood, beasts, and a whole lot of chaos. This expansion promises to add more depth, more terror, and more opportunities to scream at your friends. Let's see if it delivers!
 
-## Whatâ€™s New in The Hunter's Nightmare?
+## What's New in The Hunter's Nightmare?
 
 This expansion introduces new monsters, bosses, Chalice Dungeon tiles, and the all-important death tokens. It's like someone looked at the base game and thought, "You know what this needs? More ways to die horribly." And they were right.
 
@@ -33,7 +33,7 @@ The Hunter's Nightmare introduces a few new mechanics that change how you approa
 
 - **Manage Your Death Tokens**: These can be both a blessing and a curse. Use them wisely to maximize their benefit.
 - **Explore the Chalice Dungeons**: These tiles can offer powerful rewards, but they come with their own set of dangers. Proceed with caution.
-- **Adapt Your Strategy**: With new monsters and bosses, youâ€™ll need to be flexible. What worked in the base game might not work here.
+- **Adapt Your Strategy**: With new monsters and bosses, you'll need to be flexible. What worked in the base game might not work here.
 
 **Pro Tip**: Always have a backup plan. The new monsters are designed to exploit any weakness in your strategy.
 
@@ -54,12 +54,12 @@ The Hunter's Nightmare introduces a few new mechanics that change how you approa
 
 ## Final Thoughts
 
-Bloodborne: The Card Game - The Hunter's Nightmare Expansion is a must-have for fans of the base game. It adds layers of complexity, new challenges, and more ways to either triumph gloriously or fail miserably. If you crave more Bloodborne in your life and arenâ€™t afraid of a little more chaos, this expansion is for you.
+Bloodborne: The Card Game - The Hunter's Nightmare Expansion is a must-have for fans of the base game. It adds layers of complexity, new challenges, and more ways to either triumph gloriously or fail miserably. If you crave more Bloodborne in your life and aren't afraid of a little more chaos, this expansion is for you.
 
 **Ready to face the nightmare?** Don't wait! Head over to [Geeknite's Board Games Section](https://geeknite.com/boardgames) and get your copy today!
 
 ## Other Board Games to Check Out
 
-If you love Bloodborne, be sure to check out our reviews of [Nemesis vs Alien: Fate of the Nostromo](https://geeknite.com/2024-06-15-nemesis-vs-alien-fate-of-the-nostromo) and [Spider-Geddon](https://geeknite.com/2024-08-15-spider-geddon-board-games).
+If you love Bloodborne, be sure to check out our reviews of [Nemesis vs Alien: Fate of the Nostromo](https://geeknite.com/2024-06-15-nemesis-vs-alien-fate-of-the-nostromo).
 
 **Embrace the nightmare and happy hunting!**

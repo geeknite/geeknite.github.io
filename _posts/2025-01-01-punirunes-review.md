@@ -1,6 +1,6 @@
 ---
 title: Punirunes - A Complete Review
-date: 2025-01-01 00:00:00 +0200
+date: "2025-01-01"
 tags: [review, toys, virtual pet, Punirunes]
 last_modified_at: '2025-03-29T18:11:09+02:00'
 ---

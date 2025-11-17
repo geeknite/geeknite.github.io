@@ -1,5 +1,5 @@
 ﻿---
-title: "The Hunger Games: Mockingjay â€“ The Board Game Review"
+title: "The Hunger Games: Mockingjay - The Board Game Review"
 date: 2014-04-02
 tags: ["board games", "review", "The Hunger Games", "Mockingjay", "strategy games", "cooperative games"]
 description: "Dive into the thrilling world of The Hunger Games with the Mockingjay board game. A hilarious and comprehensive review!"
@@ -7,15 +7,15 @@ description: "Dive into the thrilling world of The Hunger Games with the Mocking
 
 ## Introduction
 
-Welcome, fellow gamers and dystopia enthusiasts! Today we venture into the perilous world of **The Hunger Games: Mockingjay â€“ The Board Game**. If you're a fan of the books, movies, or just enjoy a good board game that combines strategy, cooperation, and a touch of rebellion, then you're in for a treat.
+Welcome, fellow gamers and dystopia enthusiasts! Today we venture into the perilous world of **The Hunger Games: Mockingjay - The Board Game**. If you're a fan of the books, movies, or just enjoy a good board game that combines strategy, cooperation, and a touch of rebellion, then you're in for a treat.
 
 Prepare to laugh, plan, and maybe even shed a tear as we explore this captivating game based on the final installment of Suzanne Collins' epic trilogy.
 
 [![Hunger Games Board Game](https://i.imgur.com/Jm8ynpT.jpg)]({{ site.constants.wsib }}the-hunger-games-mockingjay-board-game)
 
-## What is The Hunger Games: Mockingjay â€“ The Board Game?
+## What is The Hunger Games: Mockingjay - The Board Game?
 
-The Hunger Games: Mockingjay â€“ The Board Game is a cooperative strategy game where players take on the roles of key characters from the series, working together to overthrow the Capitol. With stunning artwork, intricate miniatures, and a plethora of missions, this game offers an immersive experience that will keep you engaged for hours.
+The Hunger Games: Mockingjay - The Board Game is a cooperative strategy game where players take on the roles of key characters from the series, working together to overthrow the Capitol. With stunning artwork, intricate miniatures, and a plethora of missions, this game offers an immersive experience that will keep you engaged for hours.
 
 ### Components
 
@@ -29,7 +29,7 @@ The game comes with:
 
 ### Setup
 
-Setting up The Hunger Games: Mockingjay â€“ The Board Game is like preparing for an epic rebellion. Lay out the game board, distribute cards and miniatures, and choose your faction. Now you're ready to begin your quest.
+Setting up The Hunger Games: Mockingjay - The Board Game is like preparing for an epic rebellion. Lay out the game board, distribute cards and miniatures, and choose your faction. Now you're ready to begin your quest.
 
 **Pro Tip**: Don't let your cat near the miniatures. They might think Katniss is a new chew toy.
 
@@ -72,11 +72,11 @@ With multiple heroes, enemies, and scenarios, Mockingjay offers endless replayab
 
 ## Final Thoughts
 
-The Hunger Games: Mockingjay â€“ The Board Game is a fantastic addition to any board game collection, especially for fans of the series. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to overthrowing the Capitol.
+The Hunger Games: Mockingjay - The Board Game is a fantastic addition to any board game collection, especially for fans of the series. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to overthrowing the Capitol.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Mockingjay is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Mockingjay is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}the-hunger-games-mockingjay-board-game) and get your copy of The Hunger Games: Mockingjay â€“ The Board Game today. Itâ€™s time to assemble your team and save Panem!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}the-hunger-games-mockingjay-board-game) and get your copy of The Hunger Games: Mockingjay - The Board Game today. It's time to assemble your team and save Panem!
 
 ---
 
@@ -84,4 +84,4 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}th
 
 If you love cooperative board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
-**Ready to spark the rebellion? Donâ€™t miss out on the fun!**
+**Ready to spark the rebellion? Don't miss out on the fun!**

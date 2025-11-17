@@ -26,7 +26,7 @@ Here's a quick rundown of what the GA-Z170-HD3 brings to the table:
 
 ### Performance and Overclocking
 
-The GA-Z170-HD3 is designed to support Intel's 6th and 7th generation processors, making it a solid choice for a high-performance build on a budget. Overclocking enthusiasts will be pleased to know that this motherboard can handle a decent amount of tweaking, thanks to its robust VRM design. Just don't expect to break any world records hereâ€”this board is more of a Clark Kent than a Superman.
+The GA-Z170-HD3 is designed to support Intel's 6th and 7th generation processors, making it a solid choice for a high-performance build on a budget. Overclocking enthusiasts will be pleased to know that this motherboard can handle a decent amount of tweaking, thanks to its robust VRM design. Just don't expect to break any world records here-this board is more of a Clark Kent than a Superman.
 
 ## Design and Build Quality
 

@@ -9,7 +9,7 @@ description: "A hilarious and detailed review of the Guess Who board game. Disco
 
 ## Introduction
 
-Hello, fellow gamers and detectives! Are you ready to dive into the mysterious world of **Guess Who**, the classic board game that has been a staple of family game nights for generations? With its simple yet engaging gameplay, Guess Who promises hours of fun as you try to uncover your opponent's secret character. Grab your magnifying glass, prepare your questions, and letâ€™s investigate!
+Hello, fellow gamers and detectives! Are you ready to dive into the mysterious world of **Guess Who**, the classic board game that has been a staple of family game nights for generations? With its simple yet engaging gameplay, Guess Who promises hours of fun as you try to uncover your opponent's secret character. Grab your magnifying glass, prepare your questions, and let's investigate!
 
 ## The Basics of Guess Who
 
@@ -34,7 +34,7 @@ Each player selects a character card and places it in their holder without revea
 
 ### Turns and Questions
 
-Players take turns asking yes-or-no questions to narrow down the list of possible characters. Questions can range from â€œDoes your character have glasses?â€ to â€œIs your character rocking a mustache?â€ Flip down characters that don't match the answers until you can confidently guess your opponent's character.
+Players take turns asking yes-or-no questions to narrow down the list of possible characters. Questions can range from "Does your character have glasses?" to "Is your character rocking a mustache?" Flip down characters that don't match the answers until you can confidently guess your opponent's character.
 
 ### Winning
 
@@ -46,7 +46,7 @@ The first player to correctly guess their opponent's character wins the game. Ge
 
 Guess Who is filled with moments of laughter and surprise. From absurd questions to unexpected eliminations, each game is unique and entertaining. Whether you're playing with kids or adults, the humor and mystery create memorable experiences.
 
-**Funny Moment**: During one game, I asked, â€œIs your character wearing a hat?â€ only for my opponent to flip down half the board, revealing their character immediately. It was a hat-tastrophe!
+**Funny Moment**: During one game, I asked, "Is your character wearing a hat?" only for my opponent to flip down half the board, revealing their character immediately. It was a hat-tastrophe!
 
 ### Replayability
 

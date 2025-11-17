@@ -72,19 +72,19 @@ At a retail price of around $100, the Kingston HyperX Savage 16GB Kit offers gre
 
 ## **Funny Quirks**
 
-Now, let's talk about some of the quirks that make the Kingston HyperX Savage uniqueâ€”and sometimes amusing:
+Now, let's talk about some of the quirks that make the Kingston HyperX Savage unique-and sometimes amusing:
 
 - **Heat Spreader Drama**: The aluminum heat spreaders are great for cooling, but sometimes they act like attention-seeking divas. Accidentally bumping them might cause a slight misalignment, making you wonder if they're staging a protest.
-- **Aggressive Aesthetics**: The design is bold and eye-catching, but it might not blend well with a more subtle build. It's like having a rockstar cousin at a family dinnerâ€”cool but slightly out of place.
+- **Aggressive Aesthetics**: The design is bold and eye-catching, but it might not blend well with a more subtle build. It's like having a rockstar cousin at a family dinner-cool but slightly out of place.
 - **Overclocking Adventures**: The HyperX Savage isn't the best for overclocking, but if you're feeling adventurous, you might squeeze out a few extra MHz. Just don't blame us if it decides to take an impromptu vacation.
 
 ## **Comparison with Other RAM Kits**
 
 ### [Corsair Vengeance LPX]({%- post_url 2025-06-10-i5-14400f-review -%})
-The Corsair Vengeance LPX offers similar performance with a sleeker design. Itâ€™s slightly more expensive, but it provides better overclocking potential.
+The Corsair Vengeance LPX offers similar performance with a sleeker design. It's slightly more expensive, but it provides better overclocking potential.
 
 ### [G.SKILL Ripjaws X]({%- post_url 2025-05-02-pc-build-on-ebay -%})
-The G.SKILL Ripjaws X is another great DDR3 kit that offers competitive performance. Itâ€™s priced similarly to the HyperX Savage but lacks the aggressive aesthetics.
+The G.SKILL Ripjaws X is another great DDR3 kit that offers competitive performance. It's priced similarly to the HyperX Savage but lacks the aggressive aesthetics.
 
 ## **Our Verdict**
 

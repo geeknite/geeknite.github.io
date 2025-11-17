@@ -79,9 +79,9 @@ With multiple heroes, quests, and scenarios, Aventuria offers endless replayabil
 
 Aventuria is a fantastic addition to any board game collection, especially for adventure and card game fans. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to saving the world.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Aventuria is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Aventuria is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite](https://geeknite.com) and get your copy of Aventuria today. Itâ€™s time to embark on your next great adventure!
+So what are you waiting for? Head over to [Geeknite](https://geeknite.com) and get your copy of Aventuria today. It's time to embark on your next great adventure!
 
 ## Other Board Games to Explore
 

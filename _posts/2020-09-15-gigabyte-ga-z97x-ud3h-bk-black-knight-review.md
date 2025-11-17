@@ -13,7 +13,7 @@ Welcome, fellow geeks and tech enthusiasts! Today, we're diving into the world o
 
 ## Design and Build Quality
 
-The first thing you'll notice about the GA-Z97X-UD3H-BK is its sleek, all-black design. It's like looking at Batman's utility belt â€“ sturdy, reliable, and ready to kick some serious silicon. The build quality is top-notch, with solid capacitors and a reinforced PCIe slot that can handle even the beefiest of GPUs.
+The first thing you'll notice about the GA-Z97X-UD3H-BK is its sleek, all-black design. It's like looking at Batman's utility belt - sturdy, reliable, and ready to kick some serious silicon. The build quality is top-notch, with solid capacitors and a reinforced PCIe slot that can handle even the beefiest of GPUs.
 
 ### Ports and Connectivity
 
@@ -33,7 +33,7 @@ For gamers, this motherboard is a dream come true. It handled our NVIDIA GeForce
 
 ### DualBIOS Technology
 
-Ever had a BIOS update go wrong and brick your motherboard? With Gigabyte's DualBIOS technology, those days are over. This feature ensures that you always have a backup BIOS, so you can recover from any mishaps with ease. It's like having a safety net for your PC â€“ because even geeks deserve a little peace of mind.
+Ever had a BIOS update go wrong and brick your motherboard? With Gigabyte's DualBIOS technology, those days are over. This feature ensures that you always have a backup BIOS, so you can recover from any mishaps with ease. It's like having a safety net for your PC - because even geeks deserve a little peace of mind.
 
 ### Audio Quality
 

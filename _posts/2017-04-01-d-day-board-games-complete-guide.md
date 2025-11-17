@@ -11,7 +11,7 @@ description: "The ultimate guide to D-Day historical board games. Complete revie
 
 Welcome, brave commanders and history enthusiasts! **D-Day board games** represent one of the most compelling subgenres in historical gaming, transforming the pivotal moments of World War II into immersive tabletop experiences. From the cooperative chaos of **D-Day Dice** to the strategic depth of **D-Day at Iwo Jima**, these games challenge players to navigate the same impossible decisions faced by real commanders in humanity's darkest hour.
 
-In 2025, as we approach the 81st anniversary of the **Normandy landings (June 6, 1944)**, these games serve dual purposes: honoring the sacrifices of the Greatest Generation while providing engaging, educational gameplay that brings history to life. Whether you're rolling dice to storm Omaha Beach or carefully planning a multi-turn campaign across the Pacific Theater, D-Day games offer something uniqueâ€”the tension of historical accuracy combined with the unpredictability of tactical gameplay.
+In 2025, as we approach the 81st anniversary of the **Normandy landings (June 6, 1944)**, these games serve dual purposes: honoring the sacrifices of the Greatest Generation while providing engaging, educational gameplay that brings history to life. Whether you're rolling dice to storm Omaha Beach or carefully planning a multi-turn campaign across the Pacific Theater, D-Day games offer something unique-the tension of historical accuracy combined with the unpredictability of tactical gameplay.
 
 This comprehensive guide covers the complete D-Day gaming ecosystem, from expansion packs to standalone titles, with expert analysis, fact-checked historical context, and practical recommendations for building your WWII gaming collection.
 
@@ -133,9 +133,9 @@ This comprehensive guide covers the complete D-Day gaming ecosystem, from expans
 
 **Verdict: 8.5/10** - Excellent expansion for players who've mastered the base game and crave greater challenge and variety. The Inferno Dice mechanic perfectly captures the chaos and desperation of WWII combat.
 
-> **Pro Tip:** Use Inferno Dice sparingly in early sectorsâ€”save them for critical moments when you absolutely need resources or face defeat. The risk is worth it only when conventional approaches have failed!
+> **Pro Tip:** Use Inferno Dice sparingly in early sectors-save them for critical moments when you absolutely need resources or face defeat. The risk is worth it only when conventional approaches have failed!
 
-### D-Day Dice: Muralla AtlÃ¡ntica (Atlantic Wall) Expansion
+### D-Day Dice: Muralla Atlántica (Atlantic Wall) Expansion
 
 **Release Information:**
 - **Year:** 2019
@@ -218,7 +218,7 @@ This comprehensive guide covers the complete D-Day gaming ecosystem, from expans
 
 **Verdict: 8/10** - Outstanding expansion that significantly enhances strategic depth. Best for experienced players seeking challenging, historically-flavored scenarios.
 
-> **Pro Tip:** Plan ahead meticulouslyâ€”treacherous terrain punishes improvisation. Always scout ahead when possible and keep engineering units alive at all costs for minefield navigation!
+> **Pro Tip:** Plan ahead meticulously-treacherous terrain punishes improvisation. Always scout ahead when possible and keep engineering units alive at all costs for minefield navigation!
 
 ### D-Day Dice: Camino al Infierno Bunker Expansion
 
@@ -494,7 +494,7 @@ This comprehensive guide covers the complete D-Day gaming ecosystem, from expans
 - **Strategic Position:** Territory control affects next battle
 - **Cumulative Losses:** Each casualty affects overall campaign
 
-> **Strategic Insight:** Resource management in D-Day and Beyond mirrors actual military logistics. Every general wanted more troops, tanks, and suppliesâ€”success came from making the most of limited resources!
+> **Strategic Insight:** Resource management in D-Day and Beyond mirrors actual military logistics. Every general wanted more troops, tanks, and supplies-success came from making the most of limited resources!
 
 ### Expansions and Compatibility
 
@@ -556,7 +556,7 @@ This comprehensive guide covers the complete D-Day gaming ecosystem, from expans
 
 **Verdict: 8.5/10** - Ambitious campaign system that successfully creates epic WWII narrative. Best for dedicated groups willing to commit to multi-session campaigns.
 
-> **Pro Tip:** Save resources for the final push! Historical campaigns often came down to one decisive battleâ€”don't exhaust your best units early when you'll desperately need them later.
+> **Pro Tip:** Save resources for the final push! Historical campaigns often came down to one decisive battle-don't exhaust your best units early when you'll desperately need them later.
 
 ---
 
@@ -624,7 +624,7 @@ This comprehensive guide covers the complete D-Day gaming ecosystem, from expans
 ### Intermediate Collection (Budget: $200-300)
 
 **Add to Foundation:**
-- **D-Day Dice: Muralla AtlÃ¡ntica:** $35-45
+- **D-Day Dice: Muralla Atlántica:** $35-45
 - **D-Day and Beyond Base Game:** $50-70
 - **Expansions:** 1-2 D-Day Dice mini-expansions ($15-20 each)
 
@@ -809,7 +809,7 @@ This comprehensive guide covers the complete D-Day gaming ecosystem, from expans
 
 **For:**
 - Serious WWII board game collectors
-- Game cafÃ©s/clubs with diverse audiences
+- Game cafés/clubs with diverse audiences
 - History departments with good budgets
 - Completionists who want every D-Day option
 
@@ -817,7 +817,7 @@ This comprehensive guide covers the complete D-Day gaming ecosystem, from expans
 
 ## Conclusion: Honor History Through Play
 
-D-Day board games represent more than entertainmentâ€”they're interactive history lessons that transform abstract statistics into tangible experiences. When we roll dice to storm Omaha Beach, we gain glimpses (however small) into the fear, courage, and impossible choices faced by the Greatest Generation.
+D-Day board games represent more than entertainment-they're interactive history lessons that transform abstract statistics into tangible experiences. When we roll dice to storm Omaha Beach, we gain glimpses (however small) into the fear, courage, and impossible choices faced by the Greatest Generation.
 
 **Key Takeaways:**
 
@@ -849,9 +849,9 @@ D-Day board games represent more than entertainmentâ€”they're interactive h
 
 **Final Thought:**
 
-As we approach the 81st anniversary of D-Day (June 6, 2025), these games serve as interactive memorialsâ€”honoring sacrifice through thoughtful recreation of history's pivotal moments. **Play respectfully. Learn deeply. Remember always.**
+As we approach the 81st anniversary of D-Day (June 6, 2025), these games serve as interactive memorials-honoring sacrifice through thoughtful recreation of history's pivotal moments. **Play respectfully. Learn deeply. Remember always.**
 
-The Greatest Generation gave everything. The least we can do is ensure their storiesâ€”and the lessons of their strugglesâ€”endure through generations. Board games, when designed with care and played with respect, become vehicles for this sacred transmission of memory.
+The Greatest Generation gave everything. The least we can do is ensure their stories-and the lessons of their struggles-endure through generations. Board games, when designed with care and played with respect, become vehicles for this sacred transmission of memory.
 
 **Ready to storm the beaches?** Choose your game, gather your friends, and prepare to make history.
 

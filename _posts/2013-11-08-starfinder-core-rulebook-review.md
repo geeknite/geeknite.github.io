@@ -45,7 +45,7 @@ Starfinder's gameplay revolves around exploration, combat, and storytelling. Nav
 
 ### Magic and Technology
 
-In Starfinder, magic and technology coexist to create a rich and immersive universe. Cast powerful spells or hack into enemy systemsâ€”your approach depends on your character's abilities. This blend of fantasy and sci-fi opens up endless possibilities for creative gameplay.
+In Starfinder, magic and technology coexist to create a rich and immersive universe. Cast powerful spells or hack into enemy systems-your approach depends on your character's abilities. This blend of fantasy and sci-fi opens up endless possibilities for creative gameplay.
 
 ## Pros and Cons
 

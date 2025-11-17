@@ -43,7 +43,7 @@ The CX 600 features a robust design with high-quality components. The semi-modul
 
 ## Installation and Usability
 
-Installing the CX 600 is a breeze, even for beginners. The semi-modular design means fewer cables to manage, and the connectors are clearly labeled. Just don't forget to turn off your PC before you start tinkeringâ€”safety first!
+Installing the CX 600 is a breeze, even for beginners. The semi-modular design means fewer cables to manage, and the connectors are clearly labeled. Just don't forget to turn off your PC before you start tinkering-safety first!
 
 ## Pros and Cons
 

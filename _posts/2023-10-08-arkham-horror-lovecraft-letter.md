@@ -1,7 +1,7 @@
 ---
-title: 'Arkham Horror: Lovecraft Letter Review'
-date: '2023-10-08'
-tags: ['board games', 'Arkham Horror', 'Lovecraft Letter', 'review', 'funny']
+title: "Arkham Horror: Lovecraft Letter Review"
+date: "2023-10-08"
+tags: ["board games", "Arkham Horror", "Lovecraft Letter", "review", "funny"]
 ---
 
 ![Arkham Horror: Lovecraft Letter](https://example.com/arkham_horror_lovecraft_letter.jpg){: .align-right}
@@ -73,6 +73,6 @@ Arkham Horror: Lovecraft Letter is a fantastic addition to any board game collec
 
 ## Other Games You Might Enjoy
 
-If you enjoyed Arkham Horror: Lovecraft Letter, be sure to check out our reviews of [Gloomhaven]({% post_url 2022-02-04-gloomhaven-review %}) and [Spider-Geddon]({% post_url 2024-08-15-spider-geddon-board-games %}).
+If you enjoyed Arkham Horror: Lovecraft Letter, be sure to check out our review of [Gloomhaven]({% post_url 2022-02-04-gloomhaven-review %}).
 
 **Stay sane and game on!**

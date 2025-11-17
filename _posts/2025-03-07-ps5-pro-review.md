@@ -1,6 +1,6 @@
 ---
 title: "PS5 Pro Review: The Ultimate Gaming Console of 2025"
-date: 2025-03-07 22:04:38 +0200
+date: "2025-03-07"
 tags:
 - PS5 Pro
 - PlayStation

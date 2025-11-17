@@ -21,11 +21,11 @@ Imagine opening a box and being greeted by a small army of 153 shiny, colorful S
 
 - **Variety Galore**: With 153 dice, you practically have the entire Star Wars universe in your hands. Characters from every corner of the galaxy are represented.
 - **High-Quality Design**: The dice are made of durable material and feature crisp, clear artwork that will make any Star Wars fan squeal with delight.
-- **Great for Collectors**: If youâ€™re a collector, these dice are a must-have addition. They look fantastic and can be put on display proudly.
+- **Great for Collectors**: If you're a collector, these dice are a must-have addition. They look fantastic and can be put on display proudly.
 
 ### Cons
 
-- **No Cards**: Seriously, no cards included. If youâ€™re looking to play Destiny, youâ€™ll need to source cards separately.
+- **No Cards**: Seriously, no cards included. If you're looking to play Destiny, you'll need to source cards separately.
 - **Storage Dilemma**: Finding a place to store 153 dice can be a challenge. May the Force be with your storage solutions.
 - **Overwhelming Choices**: With so many dice, picking which ones to use might feel like choosing your favorite child. Good luck!
 
@@ -41,7 +41,7 @@ Create your own Star Wars-themed games using these dice. Whether it's deciding w
 
 ### Funny Moment
 
-During one game night, we decided to roll the dice to determine who would make the next snack run. The dice decided it should be Chewbacca. Unfortunately, Chewbacca (aka my friend Joe) didnâ€™t fit too well into the local grocery store. Lesson learned: maybe let Chewbacca stick to the Millennium Falcon.
+During one game night, we decided to roll the dice to determine who would make the next snack run. The dice decided it should be Chewbacca. Unfortunately, Chewbacca (aka my friend Joe) didn't fit too well into the local grocery store. Lesson learned: maybe let Chewbacca stick to the Millennium Falcon.
 
 ## Pros and Cons
 
@@ -55,11 +55,11 @@ During one game night, we decided to roll the dice to determine who would make t
 
 - **Complex Setup**: Sorting through 153 dice to find the ones you need can be time-consuming.
 - **Storage Issues**: Finding the perfect storage solution for this many dice might require some creativity.
-- **Missing Cards**: If youâ€™re looking to play Destiny, the lack of cards is a definite downside.
+- **Missing Cards**: If you're looking to play Destiny, the lack of cards is a definite downside.
 
 ## Final Thoughts
 
-The **Destiny Across the Galaxy Star Wars Dice Lot** is a fantastic addition to any Star Wars fanâ€™s collection. Whether youâ€™re a collector or a player, these dice provide endless fun and excitement. The high-quality design and variety make them a standout piece in any collection. Just remember, no cards are included, so youâ€™ll need to source those separately if you want to play the game.
+The **Destiny Across the Galaxy Star Wars Dice Lot** is a fantastic addition to any Star Wars fan's collection. Whether you're a collector or a player, these dice provide endless fun and excitement. The high-quality design and variety make them a standout piece in any collection. Just remember, no cards are included, so you'll need to source those separately if you want to play the game.
 
 **Ready to roll into the Star Wars universe? Grab your Destiny Across the Galaxy Star Wars Dice Lot today and start your intergalactic adventure!**
 

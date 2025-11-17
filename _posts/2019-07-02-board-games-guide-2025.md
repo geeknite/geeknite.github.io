@@ -19,21 +19,21 @@ Welcome, fellow board game enthusiasts! Today, we're diving into the thrilling w
 
 #### Components and Quality
 
-Harmonies comes with a beautifully illustrated board, a set of music note tokens, player pieces shaped like musical instruments, and a deck of cards representing various musical elements. The artwork is stunning, and the component quality is top-notch â€“ it's like holding a miniature orchestra in your hands.
+Harmonies comes with a beautifully illustrated board, a set of music note tokens, player pieces shaped like musical instruments, and a deck of cards representing various musical elements. The artwork is stunning, and the component quality is top-notch - it's like holding a miniature orchestra in your hands.
 
-**Criticism Alert**: While the components are beautiful, the music note tokens can be a bit fiddly to handle during intense gameplay. And let's not forget the rulebook â€“ itâ€™s clear but might require a maestro to interpret some of the finer details.
+**Criticism Alert**: While the components are beautiful, the music note tokens can be a bit fiddly to handle during intense gameplay. And let's not forget the rulebook - it's clear but might require a maestro to interpret some of the finer details.
 
 #### Gameplay
 
 Harmonies is all about creating the perfect symphony. Players take turns placing music note tokens on the board to form melodies, harmonies, and chords. Each move requires strategic planning and a bit of luck. The goal is to score the most points by creating the most complex and beautiful musical arrangements.
 
-**Pro Tip**: Don't get too cocky with your melodies. Many a player has found themselves in dissonance by placing notes too soon. Slow and steady might not win the race, but itâ€™ll at least keep your symphony intact.
+**Pro Tip**: Don't get too cocky with your melodies. Many a player has found themselves in dissonance by placing notes too soon. Slow and steady might not win the race, but it'll at least keep your symphony intact.
 
 #### The Musical Challenge
 
 As the game progresses, players accumulate musical points based on their moves. These points can be used to activate special abilities and bonus moves. The musical challenge mechanic adds a layer of strategy, forcing players to think ahead and plan their moves carefully.
 
-**Criticism Alert**: The musical challenge mechanic is brilliant, but it can feel punishing for new players who donâ€™t fully grasp the balance between strategy and creativity. Expect a few â€œWhy did my melody turn into chaos?â€ moments.
+**Criticism Alert**: The musical challenge mechanic is brilliant, but it can feel punishing for new players who don't fully grasp the balance between strategy and creativity. Expect a few "Why did my melody turn into chaos?" moments.
 
 #### Pros and Cons
 
@@ -119,7 +119,7 @@ One of the most exciting aspects of the Grand Tour expansion is the introduction
 
 To add unpredictability that mirrors real cycling's challenges, Grand Tour introduces event cards that can dramatically alter race dynamics. From sudden weather changes to mechanical failures, these events ensure no two tours play identically, adding the kind of tactical adaptation that separates good cyclists from great ones.
 
-**Pro Tip**: Always expect the unexpectedâ€”that perfect mountain stage strategy might need rapid adjustment when weather conditions shift mid-race.
+**Pro Tip**: Always expect the unexpected-that perfect mountain stage strategy might need rapid adjustment when weather conditions shift mid-race.
 
 #### Pros and Cons
 

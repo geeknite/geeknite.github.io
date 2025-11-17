@@ -1,6 +1,6 @@
 ---
 title: "Cómo comprar cheques de Amazon sin comisión: ¡Diviértete mientras ahorras!"
-date: 2023-05-25 17:00:00 +0200
+date: "2023-05-25"
 tags:
 - español
 - recomendaciones

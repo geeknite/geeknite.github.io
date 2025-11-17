@@ -1,6 +1,6 @@
 ---
 title: "Kind Shock: The Ultimate Seatpost Review"
-date: 2023-10-07 01:18:59 +0200
+date: "2023-10-07"
 tags: [Kind Shock, seatpost, cycling, review]
 description: "An extensive review of the Kind Shock seatpost. Discover features, performance, and funny quirks."
 ---

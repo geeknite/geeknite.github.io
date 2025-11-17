@@ -31,7 +31,7 @@ An **Uninterruptible Power Supply (UPS)** is a device that provides emergency ba
 
 ### What is a PDU?
 
-A **Power Distribution Unit (PDU)** is essentially an intelligent power strip designed for professional environments. Think of it as the Gandalf of power managementâ€”it keeps everything in check and ensures your precious gadgets are properly powered.
+A **Power Distribution Unit (PDU)** is essentially an intelligent power strip designed for professional environments. Think of it as the Gandalf of power management-it keeps everything in check and ensures your precious gadgets are properly powered.
 
 **Key Capabilities:**
 - **Multiple Outlets:** Distribute power to numerous devices from single source
@@ -115,7 +115,7 @@ The **APC Smart-UPS 1500VA Tower LCD 230V** represents the gold standard for pro
 - **Proactive Maintenance:** Receive battery replacement alerts before failure
 - **Peace of Mind:** Know your equipment is protected 24/7
 
-> **Pro Tip:** Set up Smart Connect email notifications so you'll know instantly when power events occurâ€”even if you're away from your desk!
+> **Pro Tip:** Set up Smart Connect email notifications so you'll know instantly when power events occur-even if you're away from your desk!
 
 #### Connectivity and Outlets
 
@@ -412,7 +412,7 @@ The **APC By Schneider Electric PDU Switched 16A 230V AC Output** complements UP
 - **Efficiency Optimization:** Identify energy waste opportunities
 - **Compliance Reporting:** Generate power usage reports
 
-> **Pro Tip:** Use the network management interface to set up automatic power cycling schedulesâ€”it's like having a tireless IT minion keeping your equipment fresh!
+> **Pro Tip:** Use the network management interface to set up automatic power cycling schedules-it's like having a tireless IT minion keeping your equipment fresh!
 
 ### Installation and Setup
 
@@ -979,7 +979,7 @@ The **APC By Schneider Electric PDU Switched 16A 230V AC Output** complements UP
 
 ## Conclusion: Powering Your Success
 
-Power protection isn't just about preventing inconvenienceâ€”it's about safeguarding your productivity, protecting expensive equipment, and ensuring business continuity. Whether you're a remote worker depending on a stable home office, a small business managing critical servers, or an enterprise running mission-critical infrastructure, the right UPS and PDU combination provides invaluable peace of mind.
+Power protection isn't just about preventing inconvenience-it's about safeguarding your productivity, protecting expensive equipment, and ensuring business continuity. Whether you're a remote worker depending on a stable home office, a small business managing critical servers, or an enterprise running mission-critical infrastructure, the right UPS and PDU combination provides invaluable peace of mind.
 
 **Key Takeaways:**
 
@@ -1009,7 +1009,7 @@ Power protection isn't just about preventing inconvenienceâ€”it's about saf
 
 **Final Advice:**
 
-Don't wait for a disaster to realize the value of power protection. A quality UPS system is insurance you'll appreciate most when you need it leastâ€”because when power fails, your protected equipment simply keeps running while others scramble to recover lost work.
+Don't wait for a disaster to realize the value of power protection. A quality UPS system is insurance you'll appreciate most when you need it least-because when power fails, your protected equipment simply keeps running while others scramble to recover lost work.
 
 **Invest in protection. Invest in peace of mind. Invest in uninterrupted productivity.**
 

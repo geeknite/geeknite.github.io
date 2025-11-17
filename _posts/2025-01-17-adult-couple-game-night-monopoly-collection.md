@@ -1,6 +1,6 @@
 ---
 title: "Adult Couple Game Night Monopoly Games Collection"
-date: 2025-01-17 08:00:00 +0200
+date: "2025-01-17"
 tags: [board games, review, monopoly, adult games, game night]
 description: "Complete guide to the best Monopoly games and collections for adult couples. Perfect for fun and interactive game nights."
 last_modified_at: "2025-10-08T16:17:58.7116935Z"

@@ -53,7 +53,7 @@ The M705 is Logitech's answer to the question nobody asked but everyone needed: 
 
 ### Ergonomic Excellence
 
-The M705 sports a **right-handed ergonomic design** that accommodates a wide range of hand sizes. It's like the Goldilocks of miceâ€”not too big, not too small, but just right for most users.
+The M705 sports a **right-handed ergonomic design** that accommodates a wide range of hand sizes. It's like the Goldilocks of mice-not too big, not too small, but just right for most users.
 
 **Design Highlights:**
 
@@ -84,7 +84,7 @@ The M705 sports a **right-handed ergonomic design** that accommodates a wide ran
 
 1. **Left Click**: Standard primary button, crisp action
 2. **Right Click**: Satisfying tactile feedback
-3. **Middle Click**: Scroll wheel press (harder to activateâ€”intentional)
+3. **Middle Click**: Scroll wheel press (harder to activate-intentional)
 4. **Scroll Wheel**: With mode-switching button
 5. **Thumb Button (Back)**: Navigate backward in browser/apps
 6. **Thumb Button (Forward)**: Navigate forward

@@ -9,7 +9,7 @@ description: "An in-depth and amusing review of the 7th Sea: Gamemaster Screen. 
 
 ## Introduction
 
-Ahoy, fellow adventurers of ThÃ©ah! As we all know, navigating the high seas of the 7th Sea RPG can be a daunting task for any Gamemaster (GM). Today, we set sail to review the **7th Sea: Gamemaster Screen** and see if itâ€™s a treasure worth adding to your collection or just another piece of driftwood.
+Ahoy, fellow adventurers of Théah! As we all know, navigating the high seas of the 7th Sea RPG can be a daunting task for any Gamemaster (GM). Today, we set sail to review the **7th Sea: Gamemaster Screen** and see if it's a treasure worth adding to your collection or just another piece of driftwood.
 
 ## The Basics
 
@@ -19,7 +19,7 @@ The **7th Sea: Gamemaster Screen** is a handy tool designed to aid GMs in runnin
 
 ### Components
 
-The screen is made of sturdy, high-quality material that can withstand the wear and tear of countless gaming sessions. Its vibrant artwork not only immerses you in the world of ThÃ©ah but also adds a touch of class to your gaming table.
+The screen is made of sturdy, high-quality material that can withstand the wear and tear of countless gaming sessions. Its vibrant artwork not only immerses you in the world of Théah but also adds a touch of class to your gaming table.
 
 ## The Utility
 

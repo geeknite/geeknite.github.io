@@ -28,6 +28,7 @@ Setting up Nemesis: Lockdown is a bit like preparing for an interstellar mission
 ### Turn Structure
 
 Each turn in Nemesis: Lockdown consists of several phases:
+
 1. **Event Phase**: Draw event cards that introduce new challenges or spawn more aliens. (Yay!)
 2. **Action Phase**: Players perform actions like moving, attacking, and using items. Teamwork is key—or at least pretending to be a team until betrayal time.
 3. **Intruder Phase**: Aliens move and attack. Brace yourself.
@@ -38,7 +39,7 @@ Players must complete personal and global objectives to win the game. Whether it
 
 ### Betrayal Mechanic
 
-One of the standout features of Nemesis: Lockdown is the potential for betrayal. Some objectives might require you to sabotage your friends, leading to intense and hilarious moments of treachery. It's like *Among Us*, but with aliens and a lot more shouting.
+One of the standout features of Nemesis: Lockdown is the potential for betrayal. Some objectives might require you to sabotage your friends, leading to intense and hilarious moments of treachery. It's like _Among Us_, but with aliens and a lot more shouting.
 
 ## Pros and Cons
 
@@ -69,6 +70,6 @@ Nemesis: Lockdown is a must-have for any board game collection, particularly if 
 
 ### Other Board Games to Check Out
 
-If you enjoyed this review, be sure to check out our [Sniper Elite Board Game Review]({%- post_url 2024-01-16-sniper-elite-board-game-review -%}) and [Spider-Geddon Review]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
+If you enjoyed this review, be sure to check out our [Sniper Elite Board Game Review]({%- post_url 2024-01-16-sniper-elite-board-game-review -%}).
 
 **Don't miss out on the fun!** Click [here](https://example.com) to grab your copy now and save the Martian base from alien terror. Happy gaming!

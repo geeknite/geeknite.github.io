@@ -33,14 +33,14 @@ The POCO Pad 12 comes with a sleek aluminum body that punches way above its weig
 
 ### Xiaomi Pad 6: The Sophisticated Sibling
 
-Sporting a smooth aluminum finish that screams sophistication, the Pad 6 is like holding a piece of the future. The minimalist design is so pleasing, your abuela will say "Â¡QuÃ© bonito!" Available in colors that'll make your friends jealous.
+Sporting a smooth aluminum finish that screams sophistication, the Pad 6 is like holding a piece of the future. The minimalist design is so pleasing, your abuela will say "¡Qué bonito!" Available in colors that'll make your friends jealous.
 
 **Pros:** Future-proof design, premium materials, conversation starter  
 **Cons:** Might be too sophisticated for your casual gaming sessions
 
 ### Xiaomi Pad 7: The Balanced Fighter
 
-The Pad 7 strikes a perfect balance with its modern design and lightweight build. It's like the tablet equivalent of a runway modelâ€”sleek, ergonomic, and designed to make you look cooler than you actually are.
+The Pad 7 strikes a perfect balance with its modern design and lightweight build. It's like the tablet equivalent of a runway model-sleek, ergonomic, and designed to make you look cooler than you actually are.
 
 **Pros:** Modern design, lightweight, easy to handle  
 **Cons:** Slightly more expensive, no expandable storage
@@ -210,14 +210,14 @@ The POCO Pad 12 comes with a sleek aluminum body that punches way above its weig
 
 ### Xiaomi Pad 6: The Sophisticated Sibling
 
-Sporting a smooth aluminum finish that screams sophistication, the Pad 6 is like holding a piece of the future. The minimalist design is so pleasing, your abuela will say "Â¡QuÃ© bonito!" Available in colors that'll make your friends jealous.
+Sporting a smooth aluminum finish that screams sophistication, the Pad 6 is like holding a piece of the future. The minimalist design is so pleasing, your abuela will say "¡Qué bonito!" Available in colors that'll make your friends jealous.
 
 **Pros:** Future-proof design, premium materials, conversation starter  
 **Cons:** Might be too sophisticated for your casual gaming sessions
 
 ### Xiaomi Pad 7: The Balanced Fighter
 
-The Pad 7 strikes a perfect balance with its modern design and lightweight build. It's like the tablet equivalent of a runway modelâ€”sleek, ergonomic, and designed to make you look cooler than you actually are.
+The Pad 7 strikes a perfect balance with its modern design and lightweight build. It's like the tablet equivalent of a runway model-sleek, ergonomic, and designed to make you look cooler than you actually are.
 
 **Pros:** Modern design, lightweight, easy to handle  
 **Cons:** Slightly more expensive, no expandable storage

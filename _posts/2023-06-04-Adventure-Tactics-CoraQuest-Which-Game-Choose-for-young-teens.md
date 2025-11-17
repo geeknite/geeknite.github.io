@@ -5,7 +5,7 @@ tags:
 - adventure 
 - tactical combat 
 - card game 
-date: 2023-06-04 08:00:00 +0800 
+date: "2023-06-04" 
 last_modified_at: '2023-08-13T10:53:26.6880991Z' 
 --- 
 

@@ -1,6 +1,6 @@
 ---
 title: "Sunrace MX3 Review: Geeknite's Take on a Budget-Friendly Hero"
-date: 2025-10-07 01:12:01 +0200
+date: "2025-10-07"
 tags:
 - Cycling
 - Gadgets

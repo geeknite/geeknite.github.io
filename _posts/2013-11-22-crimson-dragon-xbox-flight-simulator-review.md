@@ -19,21 +19,21 @@ Welcome, fellow gamers! Today, we're soaring through the skies with "Crimson Dra
 
 ### Flight Mechanics
 
-The gameplay in **Crimson Dragon** is nothing short of exhilarating. The flight mechanics are smooth, and the control scheme is intuitive. Whether you're a seasoned pilot or new to flying games, you'll find that controlling your dragon is a breeze. Just don't crash into a mountainâ€”dragons don't appreciate that.
+The gameplay in **Crimson Dragon** is nothing short of exhilarating. The flight mechanics are smooth, and the control scheme is intuitive. Whether you're a seasoned pilot or new to flying games, you'll find that controlling your dragon is a breeze. Just don't crash into a mountain-dragons don't appreciate that.
 
 ### Combat
 
-Combat in **Crimson Dragon** is where the game really shines. You'll engage in epic battles against fierce enemies, using a variety of dragon abilities to gain the upper hand. From fiery breath attacks to electric shocks, your dragon is equipped to handle any threat. It's like PokÃ©mon, but the gym leaders are trying to eat you.
+Combat in **Crimson Dragon** is where the game really shines. You'll engage in epic battles against fierce enemies, using a variety of dragon abilities to gain the upper hand. From fiery breath attacks to electric shocks, your dragon is equipped to handle any threat. It's like Pokémon, but the gym leaders are trying to eat you.
 
 ### Strategy
 
-While the combat is action-packed, **Crimson Dragon** also requires strategic thinking. You'll need to choose the right dragon for each mission, upgrade their abilities, and plan your attacks carefully. It's not just about brute forceâ€”it's about outsmarting your enemies and proving that you're the ultimate dragon rider.
+While the combat is action-packed, **Crimson Dragon** also requires strategic thinking. You'll need to choose the right dragon for each mission, upgrade their abilities, and plan your attacks carefully. It's not just about brute force-it's about outsmarting your enemies and proving that you're the ultimate dragon rider.
 
 ## Graphics and Sound
 
-**Crimson Dragon** boasts stunning visuals that bring the world to life. The landscapes are beautifully rendered, and the dragons are detailed and majestic. You'll find yourself pausing just to take in the sceneryâ€”until a giant enemy dragon tries to ruin your moment.
+**Crimson Dragon** boasts stunning visuals that bring the world to life. The landscapes are beautifully rendered, and the dragons are detailed and majestic. You'll find yourself pausing just to take in the scenery-until a giant enemy dragon tries to ruin your moment.
 
-The sound design is equally impressive. The roar of dragons, the clash of battle, and the ambient music all contribute to an immersive experience. Just make sure to keep the volume at a reasonable levelâ€”your neighbors might not appreciate the surprise dragon attack.
+The sound design is equally impressive. The roar of dragons, the clash of battle, and the ambient music all contribute to an immersive experience. Just make sure to keep the volume at a reasonable level-your neighbors might not appreciate the surprise dragon attack.
 
 ## Pros and Cons
 

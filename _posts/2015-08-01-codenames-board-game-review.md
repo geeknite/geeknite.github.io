@@ -15,7 +15,7 @@ Hello, fellow wordsmiths! Today, we're diving deep into the world of **Codenames
 
 ### What is Codenames?
 
-Codenames is a party game for 2-8 players, designed by Vlaada ChvÃ¡til and published by Czech Games Edition. In this game, players split into two teams, each with one spymaster. The spymasters give one-word clues to help their teammates guess the correct words on the board, while avoiding the dangerous assassin word that ends the game instantly.
+Codenames is a party game for 2-8 players, designed by Vlaada Chvátil and published by Czech Games Edition. In this game, players split into two teams, each with one spymaster. The spymasters give one-word clues to help their teammates guess the correct words on the board, while avoiding the dangerous assassin word that ends the game instantly.
 
 ### Components
 

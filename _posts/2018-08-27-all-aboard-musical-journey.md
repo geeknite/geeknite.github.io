@@ -15,9 +15,9 @@ Hello, my melodious board game enthusiasts! Today, we are diving headfirst into 
 
 ## Components and Quality
 
-All Aboard comes with a beautifully illustrated board, music note tokens, player pieces shaped like musical instruments, and a deck of cards featuring various musical elements. The artwork is stunning, and the component quality is top-notchâ€”itâ€™s like holding a miniature orchestra in your hands.
+All Aboard comes with a beautifully illustrated board, music note tokens, player pieces shaped like musical instruments, and a deck of cards featuring various musical elements. The artwork is stunning, and the component quality is top-notch-it's like holding a miniature orchestra in your hands.
 
-**Criticism Alert**: While the components are beautiful, the music note tokens can be a bit fiddly to handle during intense gameplay. And letâ€™s not forget the rulebookâ€”itâ€™s clear but might require a maestro to interpret some of the finer details.
+**Criticism Alert**: While the components are beautiful, the music note tokens can be a bit fiddly to handle during intense gameplay. And let's not forget the rulebook-it's clear but might require a maestro to interpret some of the finer details.
 
 ## Gameplay
 
@@ -29,11 +29,11 @@ All Aboard is all about creating the perfect symphony. Players take turns placin
 
 As the game progresses, players accumulate musical points based on their moves. These points can be used to activate special abilities and bonus moves. The musical challenge mechanic adds a layer of strategy, forcing players to think ahead and plan their moves carefully.
 
-**Criticism Alert**: The musical challenge mechanic is brilliant, but it can feel punishing for new players who donâ€™t fully grasp the balance between strategy and creativity. Expect a few â€œWhy did my melody turn into chaos?â€ moments.
+**Criticism Alert**: The musical challenge mechanic is brilliant, but it can feel punishing for new players who don't fully grasp the balance between strategy and creativity. Expect a few "Why did my melody turn into chaos?" moments.
 
 ## What Makes All Aboard Special
 
-One of All Aboard's greatest strengths is its accessibility paired with strategic depth. Unlike games that require extensive setup or complex rules explanations, All Aboard gets players into the action quickly. The puzzle-like nature of tile placement creates those satisfying â€œaha!â€ moments when everything clicks into place, similar to what makes [adult board gaming](post_url 2019-11-15-adult-board-games) so rewarding for grown-ups.
+One of All Aboard's greatest strengths is its accessibility paired with strategic depth. Unlike games that require extensive setup or complex rules explanations, All Aboard gets players into the action quickly. The puzzle-like nature of tile placement creates those satisfying "aha!" moments when everything clicks into place, similar to what makes [adult board gaming](post_url 2019-11-15-adult-board-games) so rewarding for grown-ups.
 
 ## Pros and Cons
 
@@ -59,11 +59,11 @@ All Aboard occupies a unique niche in the board gaming landscape. While it share
 
 ## Final Verdict
 
-All Aboard is a delightful addition to any board game collection, offering beautiful aesthetics combined with engaging strategic gameplay. Whether youâ€™re a seasoned gamer looking for a peaceful change of pace from intense strategy games, or a newcomer seeking an accessible entry point into modern board gaming, All Aboard delivers on multiple fronts.
+All Aboard is a delightful addition to any board game collection, offering beautiful aesthetics combined with engaging strategic gameplay. Whether you're a seasoned gamer looking for a peaceful change of pace from intense strategy games, or a newcomer seeking an accessible entry point into modern board gaming, All Aboard delivers on multiple fronts.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The steep learning curve and punishing mechanics might deter some players, but for those willing to embrace the musical chaos, All Aboard is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The steep learning curve and punishing mechanics might deter some players, but for those willing to embrace the musical chaos, All Aboard is an absolute blast.
 
-So what are you waiting for? Head over to [{{ site.constants.wsibname }}](site.constants.wsib) and get your copy of All Aboard today. Itâ€™s time to create your masterpiece and win the musical battle!
+So what are you waiting for? Head over to [{{ site.constants.wsibname }}](site.constants.wsib) and get your copy of All Aboard today. It's time to create your masterpiece and win the musical battle!
 
 **Call to Action**: Ready to orchestrate your board game collection? Grab All Aboard and bring melody and strategy to your game nights! **Click [here](site.constants.wsib) to get your copy now!**
 

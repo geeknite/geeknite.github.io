@@ -13,13 +13,13 @@ Welcome, word wizards and board game enthusiasts! Today, we're diving into a rev
 
 ## The Basics
 
-These aren't just any scrabble tiles; these are the real deal, authentic wood tiles reclaimed from original Scrabble games. Imagine the decades of verbal battles fought over these very lettersâ€”it's like holding history in your hands, one vowel at a time.
+These aren't just any scrabble tiles; these are the real deal, authentic wood tiles reclaimed from original Scrabble games. Imagine the decades of verbal battles fought over these very letters-it's like holding history in your hands, one vowel at a time.
 
 ## Components and Quality
 
 ### Material
 
-These tiles are made from genuine wood, each carefully engraved with letters and points. The tactile sensation of these tiles is a far cry from the plastic imposter tiles found in modern editions. You can practically feel the weight of the words in your hands. Just be prepared for the occasional splinterâ€”it's all part of the charm!
+These tiles are made from genuine wood, each carefully engraved with letters and points. The tactile sensation of these tiles is a far cry from the plastic imposter tiles found in modern editions. You can practically feel the weight of the words in your hands. Just be prepared for the occasional splinter-it's all part of the charm!
 
 ### Aesthetics
 
@@ -37,7 +37,7 @@ There's something incredibly satisfying about playing Scrabble with these authen
 
 ### Tactile Joy
 
-The feel of wood under your fingers as you form words is simply unmatched. Itâ€™s a sensory delight that enhances the overall gaming experience. Plus, the engraved letters make it easy to read, even for those with eyesight thatâ€™s not what it used to be.
+The feel of wood under your fingers as you form words is simply unmatched. It's a sensory delight that enhances the overall gaming experience. Plus, the engraved letters make it easy to read, even for those with eyesight that's not what it used to be.
 
 ### Pros and Cons
 

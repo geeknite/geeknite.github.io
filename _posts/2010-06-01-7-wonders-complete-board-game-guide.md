@@ -72,7 +72,7 @@ The games draw inspiration from the **Seven Wonders of the Ancient World**, thou
 
 ### Game Overview
 
-**7 Wonders: Architects** represents a **streamlined reimagining** of the original 7 Wonders, designed specifically for **family play and newcomers** while maintaining the franchise's strategic core. Players race to complete their wonder by gathering resources, advancing science, building military strength, and constructing their architectural masterpieceâ€”all through simple card-drawing mechanics.
+**7 Wonders: Architects** represents a **streamlined reimagining** of the original 7 Wonders, designed specifically for **family play and newcomers** while maintaining the franchise's strategic core. Players race to complete their wonder by gathering resources, advancing science, building military strength, and constructing their architectural masterpiece-all through simple card-drawing mechanics.
 
 **Publisher Information (Fact-Checked):**
 - **Designer:** Antoine Bauza (original 7 Wonders creator)
@@ -95,7 +95,7 @@ The games draw inspiration from the **Seven Wonders of the Ancient World**, thou
 - **Statue of Zeus at Olympia** (Greece)
 - **Mausoleum at Halicarnassus** (Greece)
 
-Each wonder board features **3D plastic construction** with stackable pieces that visually represent building progressâ€”a unique tactile element that enhances the building experience.
+Each wonder board features **3D plastic construction** with stackable pieces that visually represent building progress-a unique tactile element that enhances the building experience.
 
 **Cards (Variable by Wonder):**
 - **Resource Cards:** Wood, Stone, Clay, Papyrus (standard resources)
@@ -107,7 +107,7 @@ Each wonder board features **3D plastic construction** with stackable pieces tha
 **Tokens:**
 - **Progress Tokens:** Track scientific advancement
 - **Military Conflict Tokens:** Victory/defeat in battles
-- **Cat Tokens:** Yes, seriouslyâ€”cats! (Thematic flavor representing ancient Egyptian reverence)
+- **Cat Tokens:** Yes, seriously-cats! (Thematic flavor representing ancient Egyptian reverence)
 
 **Production Quality:**
 - **3D Wonders:** Unique selling point, durable plastic construction
@@ -318,7 +318,7 @@ Each deity provides unique one-time or permanent ability.
 - Claim god from pantheon board
 - Gain god's permanent or one-time ability
 - Gods can only be summoned once per game
-- Timing is criticalâ€”summon too early and waste potential, too late and lose opportunity
+- Timing is critical-summon too early and waste potential, too late and lose opportunity
 
 **Divinity Token Acquisition:**
 - Building temples (new Age III cards)
@@ -542,7 +542,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 **Historical Context (Fact-Checked):**
 - **Construction Period:** ~3000-2000 BCE (Neolithic period)
 - **Location:** Wiltshire, England
-- **Purpose:** Debatedâ€”astronomical calendar, religious site, burial ground
+- **Purpose:** Debated-astronomical calendar, religious site, burial ground
 - **Status:** Well-preserved, UNESCO World Heritage Site
 - **Note:** Predates ancient Seven Wonders by ~2000+ years!
 
@@ -602,7 +602,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 - **Height:** 61 cm (24 inches) - it's tiny!
 - **Cultural Significance:** Symbol of Brussels' rebellious spirit
 - **Famous Feature:** Over 1,000 costumes in city museum, dressed for occasions
-- **Note:** Definitely NOT an ancient wonderâ€”it's a 17th-century fountain!
+- **Note:** Definitely NOT an ancient wonder-it's a 17th-century fountain!
 
 **Game Mechanics:**
 - **Humorous Addition:** Intentionally whimsical wonder
@@ -682,7 +682,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 - âŒ **Learning Curve:** New players may find additional wonders overwhelming
 - âŒ **Balance Issues:** Stonehenge arguably too strong, Abu Simbel requires Leaders
 - âŒ **Compatibility Complexity:** Mixing 1st and 2nd edition components can confuse
-- âŒ **Limited Impact:** Just wondersâ€”no new cards, mechanics, or guilds
+- âŒ **Limited Impact:** Just wonders-no new cards, mechanics, or guilds
 - âŒ **Price Varies:** Some retailers overprice for simple wonder expansion
 - âŒ **Storage:** Adds components to already-full base game box
 
@@ -702,7 +702,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
   * Family-friendly entry point
   * Quick play time (25-30 min)
   * Teaches franchise mechanics accessibly
-  * Standaloneâ€”no expansions needed
+  * Standalone-no expansions needed
 - **Best For:** Families, casual gamers, gateway game collections
 
 **Alternative Foundation:**
@@ -873,7 +873,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 
 **Core Principles:**
 
-1. **Watch Your Neighbors:** Always know what resources they needâ€”hate-draft critical cards
+1. **Watch Your Neighbors:** Always know what resources they need-hate-draft critical cards
 2. **Balance Resources:** Don't over-commit to one resource type
 3. **Military Timing:** Strike when neighbors are weak militarily
 4. **Science Efficiency:** Collect sets for progress tokens, use tactically
@@ -882,7 +882,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 **Wonder-Specific Tips:**
 
 - **Pyramids (Giza):** Focus stone gathering early, military secondary
-- **Lighthouse (Alexandria):** Gold is kingâ€”use flexibility for key resources
+- **Lighthouse (Alexandria):** Gold is king-use flexibility for key resources
 - **Colossus (Rhodes):** Aggressive military, force early conflicts
 - **Hanging Gardens (Babylon):** Science focus, progress token combos
 - **Temple of Artemis (Ephesus):** Economic engine, outbuild opponents
@@ -1028,7 +1028,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 **University/Adult Education:**
 - **All 7 Wonders Games:** Comparative game design analysis
 - **Topics:** Game mechanics as historical simulation, abstraction vs accuracy
-- **Discussion:** How games teach historyâ€”benefits and limitations
+- **Discussion:** How games teach history-benefits and limitations
 
 ### Historical Accuracy vs Game Abstraction
 
@@ -1120,7 +1120,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 
 ## Conclusion: Your Ancient Civilization Awaits
 
-The **7 Wonders franchise** represents one of board gaming's greatest success storiesâ€”a 15-year evolution from a single award-winning card-drafting game into a comprehensive ecosystem serving every type of gamer. Whether you're:
+The **7 Wonders franchise** represents one of board gaming's greatest success stories-a 15-year evolution from a single award-winning card-drafting game into a comprehensive ecosystem serving every type of gamer. Whether you're:
 
 - **Building 3D plastic wonders** with your kids in *Architects*
 - **Summoning Zeus** to destroy your partner's building in *Duel + Pantheon*
@@ -1156,7 +1156,7 @@ The **7 Wonders franchise** represents one of board gaming's greatest success st
 
 **Final Thought:**
 
-In a hobby filled with complex rules, lengthy play times, and niche themes, **7 Wonders** stands out for its accessibility, elegance, and timeless appeal. The franchise honors history by making ancient civilizations tangible, competitive, and funâ€”transforming abstract concepts like "resource management" and "strategic planning" into engaging gameplay that appeals to:
+In a hobby filled with complex rules, lengthy play times, and niche themes, **7 Wonders** stands out for its accessibility, elegance, and timeless appeal. The franchise honors history by making ancient civilizations tangible, competitive, and fun-transforming abstract concepts like "resource management" and "strategic planning" into engaging gameplay that appeals to:
 
 - **8-year-olds** building their first Pyramid
 - **Couples** locked in divine battle with mythological gods
@@ -1165,7 +1165,7 @@ In a hobby filled with complex rules, lengthy play times, and niche themes, **7 
 
 **Ready to build your wonder and claim your place in history?**
 
-Choose your game, gather your resources, and prepare for an adventure that spans millennia. The ancient world is callingâ€”will you answer?
+Choose your game, gather your resources, and prepare for an adventure that spans millennia. The ancient world is calling-will you answer?
 
 **Your civilization awaits. Build wisely, strategize carefully, and may the gods favor your wonders!**
 

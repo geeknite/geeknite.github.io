@@ -49,7 +49,7 @@ Combat in Bloodborne is a blend of strategy and tension. Each enemy has unique m
 
 One of the best parts of Hunter's Dream Expansion is the addition of new enemies and bosses. From grotesque beasts to towering nightmares, these new challenges will test your skills and teamwork.
 
-**Funny Moment**: During one game, our team was so focused on defeating the boss that we didnâ€™t notice a swarm of smaller enemies sneaking up on us. Chaos ensued, and it was like watching a tragic comedy unfold.
+**Funny Moment**: During one game, our team was so focused on defeating the boss that we didn't notice a swarm of smaller enemies sneaking up on us. Chaos ensued, and it was like watching a tragic comedy unfold.
 
 ### Replayability
 
@@ -76,9 +76,9 @@ With new scenarios, enemies, and bosses, Hunter's Dream Expansion offers endless
 
 Bloodborne: The Board Game - Hunter's Dream Expansion is a fantastic addition for any fan of the series or cooperative board games. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to surviving Yharnam.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The setup can be time-consuming, and the difficulty can be punishing. But for those willing to embrace the madness, Bloodborne: Hunter's Dream Expansion is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The setup can be time-consuming, and the difficulty can be punishing. But for those willing to embrace the madness, Bloodborne: Hunter's Dream Expansion is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}bloodborne-board-game) and get your copy of Bloodborne: The Board Game - Hunter's Dream Expansion today. Itâ€™s time to face your fears and become a true Hunter!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}bloodborne-board-game) and get your copy of Bloodborne: The Board Game - Hunter's Dream Expansion today. It's time to face your fears and become a true Hunter!
 
 ---
 
@@ -86,4 +86,4 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}bl
 
 If you love Bloodborne, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}).
 
-**Ready to embrace the madness?** Donâ€™t miss out on the fun!
+**Ready to embrace the madness?** Don't miss out on the fun!

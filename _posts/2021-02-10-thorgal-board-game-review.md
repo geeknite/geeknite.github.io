@@ -1,5 +1,5 @@
 ﻿---
-title: "Thorgal: The Board Game â€“ A Viking Adventure Awaits!"
+title: "Thorgal: The Board Game - A Viking Adventure Awaits!"
 date: 2021-02-10
 tags: ["board games", "review", "Thorgal", "Vikings"]
 description: "Dive into the world of Thorgal with our hilarious and detailed review of the board game adaptation."
@@ -76,9 +76,9 @@ With multiple heroes, villains, and scenarios, Thorgal: The Board Game offers en
 
 Thorgal: The Board Game is a fantastic addition to any board game collection, especially for fans of the comic series. Its immersive gameplay, high-quality components, and endless replayability make it a must-have. Just remember, teamwork and strategy are key to surviving the Viking world.
 
-**Criticism Reminder**: While the game is incredibly fun, itâ€™s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Thorgal: The Board Game is an absolute blast.
+**Criticism Reminder**: While the game is incredibly fun, it's not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Thorgal: The Board Game is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}thorgal-board-game) and get your copy of Thorgal: The Board Game today. Itâ€™s time to assemble your team and embark on an epic Viking adventure!
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}thorgal-board-game) and get your copy of Thorgal: The Board Game today. It's time to assemble your team and embark on an epic Viking adventure!
 
 ---
 
@@ -86,4 +86,4 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}th
 
 If you love Viking board games, be sure to check out our reviews of [Blood Rage]({%- post_url 2023-10-01-blood-rage-review -%}) or [Champions of Midgard]({%- post_url 2023-12-15-champions-of-midgard-review -%}).
 
-**Ready to embark on a Viking adventure? Donâ€™t miss out on the fun!**
+**Ready to embark on a Viking adventure? Don't miss out on the fun!**

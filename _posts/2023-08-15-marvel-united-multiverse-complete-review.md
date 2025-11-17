@@ -10,7 +10,7 @@ last_modified_at: "2025-03-15T10:00:00+02:00"
 
 ## Introduction
 
-Welcome, true believers and board game enthusiasts! Today, we're diving headfirst into the chaotic and exhilarating world of **Marvel United: Multiverse**. If you're a fan of the original Marvel United or just love anything with superheroes (or villains, no judgment here), this game is bound to tickle your fancy â€” and maybe even your Spidey-sense.
+Welcome, true believers and board game enthusiasts! Today, we're diving headfirst into the chaotic and exhilarating world of **Marvel United: Multiverse**. If you're a fan of the original Marvel United or just love anything with superheroes (or villains, no judgment here), this game is bound to tickle your fancy - and maybe even your Spidey-sense.
 
 Let's suit up and embark on a review that's filled with laughter, epic battles, and more plot twists than a season of *Loki*.
 
@@ -62,7 +62,7 @@ Each player's turn consists of three simple phases:
 2. **Resolve Actions**: Perform the actions shown on your card AND the previous card
 3. **Villain Turn**: After all heroes have acted, the villain activates
 
-This chaining mechanic is brilliant â€” your actions combine with the previous player's, creating combo opportunities and requiring coordination.
+This chaining mechanic is brilliant - your actions combine with the previous player's, creating combo opportunities and requiring coordination.
 
 ### Combat and Objectives
 

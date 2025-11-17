@@ -13,21 +13,21 @@ Welcome back, board game enthusiasts! Today, we're diving deep into the sands of
 
 ## Unboxing Amun Re
 
-Opening the box of Amun Re feels like cracking open a tomb filled with treasures. The artwork! The components! Even the rulebook smells like ancient papyrusâ€”or maybe thatâ€™s just the Egyptian takeout we had last night. Our game group's resident historian almost wept with joy (or was it the onions?).
+Opening the box of Amun Re feels like cracking open a tomb filled with treasures. The artwork! The components! Even the rulebook smells like ancient papyrus-or maybe that's just the Egyptian takeout we had last night. Our game group's resident historian almost wept with joy (or was it the onions?).
 
 ## Game Setup
 
-Getting the game ready takes about as long as building a real pyramid, but trust me, itâ€™s worth every brick. You start by setting up the game board, which depicts the Nile River and various provinces. Each player gets a stash of money, camels, and pyramids. Yes, camels. Because what's Egypt without camels? And no, we didnâ€™t find any hidden mummies inside.
+Getting the game ready takes about as long as building a real pyramid, but trust me, it's worth every brick. You start by setting up the game board, which depicts the Nile River and various provinces. Each player gets a stash of money, camels, and pyramids. Yes, camels. Because what's Egypt without camels? And no, we didn't find any hidden mummies inside.
 
 ## Gameplay Mechanics
 
 ### Bidding Wars and Building Pyramids
 
-The heart of Amun Re lies in its bidding wars and pyramid building. Players bid to control provinces along the Nile, strategizing like true pharaohs to maximize their wealth and resources. A bidding war in Amun Re is like a camel raceâ€”except with more shouting and less spit.
+The heart of Amun Re lies in its bidding wars and pyramid building. Players bid to control provinces along the Nile, strategizing like true pharaohs to maximize their wealth and resources. A bidding war in Amun Re is like a camel race-except with more shouting and less spit.
 
 ### Sacrifices to Amun Re
 
-Once youâ€™ve secured provinces, itâ€™s time to please the gods. Sacrificing gold to Amun Re can shift the balance of power, and itâ€™s here where alliances are made and broken. Let's just say that friendships can be as fragile as the wings of a scarab beetle.
+Once you've secured provinces, it's time to please the gods. Sacrificing gold to Amun Re can shift the balance of power, and it's here where alliances are made and broken. Let's just say that friendships can be as fragile as the wings of a scarab beetle.
 
 ### Harvest and Collection Phase
 
@@ -37,15 +37,15 @@ After sacrifices, comes the harvest phase, where provinces yield resources based
 
 ### Camel Management
 
-Camels are more than just a mode of transport in Amun Reâ€”they're essential for trade and bribery. Treat your camels well, and they might just lead you to victory. Ignore them, and they might... spit in your eye. Our top tip: always bet on the camel with the fluffy hump.
+Camels are more than just a mode of transport in Amun Re-they're essential for trade and bribery. Treat your camels well, and they might just lead you to victory. Ignore them, and they might... spit in your eye. Our top tip: always bet on the camel with the fluffy hump.
 
 ### Pyramid Schemes
 
-Building pyramids isnâ€™t just about stacking blocks; itâ€™s about strategic placement. The pyramid-built provinces can boost your end-game score significantly. Itâ€™s like real estate, but with more sand and fewer annoying neighbors.
+Building pyramids isn't just about stacking blocks; it's about strategic placement. The pyramid-built provinces can boost your end-game score significantly. It's like real estate, but with more sand and fewer annoying neighbors.
 
 ### Alliances and Betrayals
 
-Forming alliances can be your ticket to ruling Egypt, but betrayals are common. Remember, the Nile might run deep, but so does treachery. Our game night ended with at least three players vowing eternal revengeâ€”and a promise to return the borrowed camels.
+Forming alliances can be your ticket to ruling Egypt, but betrayals are common. Remember, the Nile might run deep, but so does treachery. Our game night ended with at least three players vowing eternal revenge-and a promise to return the borrowed camels.
 
 ## Final Thoughts
 

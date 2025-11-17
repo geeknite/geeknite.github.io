@@ -26,7 +26,7 @@ First impressions? This thing is built like a tank. And by tank, I mean it's stu
 
 ## Performance: The Real MVP
 
-Now, onto the piÃ¨ce de rÃ©sistanceâ€”performance. If you're wondering why you need a UPS, let me break it down for you:
+Now, onto the pièce de résistance-performance. If you're wondering why you need a UPS, let me break it down for you:
 
 - **Power Outages**: Ever been in the middle of a boss fight only for the power to go out? Eaton 9Px is here to ensure that never happens again.
 - **Voltage Fluctuations**: Your equipment is safe from those nasty voltage spikes and drops.
@@ -36,7 +36,7 @@ Now, onto the piÃ¨ce de rÃ©sistanceâ€”performance. If you're wondering 
 
 1. **Efficiency**: With up to 98% efficiency in online double conversion mode, Eaton ensures you get the best bang for your buck.
 2. **Scalability**: Need more power? You can add extra battery modules. It's like leveling up your UPS.
-3. **LCD Display**: The LCD display is like your sidekickâ€”providing all the stats you need at a glance.
+3. **LCD Display**: The LCD display is like your sidekick-providing all the stats you need at a glance.
 4. **Advanced Battery Management**: Extends the battery life and reduces unnecessary battery usage.
 
 ## Geek Level: Over 9000
@@ -45,7 +45,7 @@ Eaton 9Px isn't just any UPS; it's the UPS for geeks who demand reliability. Whe
 
 ## Setup: Easier Than a Boss Fight
 
-Setting up the Eaton 9Px is straightforward. If you can install a video game, you can set up this UPS. Plug in the power cables, connect your devices, and flip the switch. VoilÃ ! You're protected.
+Setting up the Eaton 9Px is straightforward. If you can install a video game, you can set up this UPS. Plug in the power cables, connect your devices, and flip the switch. Voilà! You're protected.
 
 ## Pros and Cons
 
@@ -69,6 +69,6 @@ Available at major tech retailers and online stores. Expect to pay a premium, bu
 
 The Eaton 9Px Ebm 180V 5Kva 6Kva is a beast. It's the protector of your tech realm. Whether you're safeguarding your gaming rig, server, or just want peace of mind, this UPS is your best bet.
 
-**Pro Tip**: Add extra battery modules to level up your UPS runtimeâ€”it's like equipping your power armor with unlimited energy cells!
+**Pro Tip**: Add extra battery modules to level up your UPS runtime-it's like equipping your power armor with unlimited energy cells!
 
 {{ site.constants.wsib }}

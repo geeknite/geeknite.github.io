@@ -75,10 +75,10 @@ With countless question cards and the ever-changing dynamics of human thinking, 
 
 Herd Mentality is a fantastic addition to any board game collection, especially for those who enjoy party games and laughter-filled evenings. Its simple mechanics, hilarious prompts, and strategic thinking make it a must-have for family game nights. Whether you're a seasoned gamer or just looking for a fun way to spend time with loved ones, Herd Mentality is sure to deliver udderly enjoyable moments.
 
-**Ready to join the herd?** Head over to [Geeknite's Board Games Section](https://geeknite.com/boardgames) and get your copy of Herd Mentality today. Itâ€™s time to think like a cow and outwit the herd!
+**Ready to join the herd?** Head over to [Geeknite's Board Games Section](https://geeknite.com/boardgames) and get your copy of Herd Mentality today. It's time to think like a cow and outwit the herd!
 
 ## Other Board Games to Check Out
 
 If you love Herd Mentality, be sure to check out our reviews of [other hilarious board games](https://geeknite.com/2019-11-15-adult-board-games) or explore [why board gaming is great for all ages](https://geeknite.com/2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens).
 
-**Ready to moo-ve into the fun?** Donâ€™t miss out on Herd Mentality! **Click [here](https://geeknite.com/herd-mentality) to get your copy now! Happy gaming!**
+**Ready to moo-ve into the fun?** Don't miss out on Herd Mentality! **Click [here](https://geeknite.com/herd-mentality) to get your copy now! Happy gaming!**

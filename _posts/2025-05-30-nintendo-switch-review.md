@@ -1,6 +1,6 @@
 ---
 title: "Nintendo Switch Review 2025: ¿La consola híbrida definitiva o solo otra moda pasajera?"
-date: 2025-05-30 17:50:03 +0200
+date: "2025-05-30"
 tags:
 - Nintendo Switch
 - Gaming

@@ -65,7 +65,7 @@ The board game adaptation aims to capture the original's:
 
 **M.U.L.E. = Multiple Use Labor Elements**
 
-These are robotic workers that colonists deploy to harvest resources on the planet **Irata** (yes, "Atari" spelled backwardsâ€”a loving homage to the game's origins).
+These are robotic workers that colonists deploy to harvest resources on the planet **Irata** (yes, "Atari" spelled backwards-a loving homage to the game's origins).
 
 ### The Planet Irata Setting
 
@@ -129,7 +129,7 @@ The wealthiest colonist at game end wins. Wealth = money + value of resources + 
 2. Shuffle and place event deck
 3. Distribute starting money to players (varies by player order)
 4. Each player receives initial M.U.L.E. and basic resources
-5. Determine turn order (first player gets less moneyâ€”crucial balancing)
+5. Determine turn order (first player gets less money-crucial balancing)
 
 **Starting Resources (Standard Setup):**
 - First player: Least money, goes first in land auction
@@ -194,7 +194,7 @@ Each round consists of **four phases**:
 - **M.U.L.E. Malfunction**: Robot wanders off (lose production)
 
 **Event Impact:**
-Random events create unpredictability, forcing players to adapt strategies mid-game. You can't plan everythingâ€”flexibility wins.
+Random events create unpredictability, forcing players to adapt strategies mid-game. You can't plan everything-flexibility wins.
 
 ### Winning the Game
 
@@ -555,7 +555,7 @@ If you love:
 **3. Refusing to Trade**
 - Trying to be self-sufficient
 - Not engaging in marketplace
-- **Fix**: Trade activelyâ€”no player can do everything alone
+- **Fix**: Trade actively-no player can do everything alone
 
 **4. Ignoring Opponents**
 - Building in isolation
@@ -580,7 +580,7 @@ If you love:
 - Participate actively in auctions
 - Make mutually beneficial trades (don't be pure cutthroat)
 - Adapt to events (don't stick rigidly to one plan)
-- Watch the leaderâ€”denial tactics if someone pulls ahead
+- Watch the leader-denial tactics if someone pulls ahead
 
 ---
 

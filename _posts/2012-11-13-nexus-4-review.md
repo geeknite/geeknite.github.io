@@ -9,7 +9,7 @@ description: "Comprehensive review of the Google Nexus 4: pure Android experienc
 
 # Nexus 4 Review: A Blast from the Past
 
-**Hello Geeknite readers!** Today, we're taking a trip down memory lane with the Nexus 4. Yes, you read that rightâ€”the Nexus 4. It's 2025, and this classic smartphone from Google and LG is still kicking around. So, is it worth considering in today's tech landscape, or should it be left in the relic bin? Grab your popcorn and let's find out!
+**Hello Geeknite readers!** Today, we're taking a trip down memory lane with the Nexus 4. Yes, you read that right-the Nexus 4. It's 2025, and this classic smartphone from Google and LG is still kicking around. So, is it worth considering in today's tech landscape, or should it be left in the relic bin? Grab your popcorn and let's find out!
 
 ## **Design and Build Quality**
 
@@ -21,7 +21,7 @@ The Nexus 4 features a 4.7-inch IPS display with a resolution of 1280x768 pixels
 
 ## **Performance**
 
-Under the hood, the Nexus 4 is powered by the Snapdragon S4 Pro processor, coupled with 2GB of RAM. Back in 2012, this was top-of-the-line tech. But in 2025, it's like trying to run Windows 98 on a MacBook Proâ€”painful yet nostalgic. Basic tasks like browsing and texting are still manageable, but don't expect to run the latest apps effortlessly.
+Under the hood, the Nexus 4 is powered by the Snapdragon S4 Pro processor, coupled with 2GB of RAM. Back in 2012, this was top-of-the-line tech. But in 2025, it's like trying to run Windows 98 on a MacBook Pro-painful yet nostalgic. Basic tasks like browsing and texting are still manageable, but don't expect to run the latest apps effortlessly.
 
 ## **Camera**
 

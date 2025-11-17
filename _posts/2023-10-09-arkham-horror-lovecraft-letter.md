@@ -73,6 +73,6 @@ Arkham Horror: Lovecraft Letter is a fantastic addition to any board game collec
 
 ## Other Games You Might Enjoy
 
-If you enjoyed Arkham Horror: Lovecraft Letter, be sure to check out our reviews of [Gloomhaven]({% post_url 2022-02-04-gloomhaven-review %}) and [Spider-Geddon]({% post_url 2024-08-15-spider-geddon-board-games %}).
+If you enjoyed Arkham Horror: Lovecraft Letter, be sure to check out our review of [Gloomhaven]({% post_url 2022-02-04-gloomhaven-review %}).
 
 **Stay sane and game on!**

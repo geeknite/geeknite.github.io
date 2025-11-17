@@ -1,8 +1,8 @@
 ﻿---
-title: 'ASL Map Board 45 Review: Tactics, Terrain, and Triumph'
+title: "ASL Map Board 45 Review: Tactics, Terrain, and Triumph"
 date: 2021-05-13
 tags: [asl, board-games, strategy, review, wargame, advanced-squad-leader]
-description: 'Comprehensive review of ASL Map Board 45, featuring tactical analysis and gameplay insights.'
+description: "Comprehensive review of ASL Map Board 45, featuring tactical analysis and gameplay insights."
 ---
 
 ## Introduction
@@ -60,5 +60,3 @@ ASL Map Board 45 is a standout addition to the ASL series. Its combination of ur
 For more reviews and board game recommendations, check out our previous posts:
 
 - [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
-- [Spider-Geddon Board Game Review]({%- post_url 2024-08-15-spider-geddon-board-games -%})
-

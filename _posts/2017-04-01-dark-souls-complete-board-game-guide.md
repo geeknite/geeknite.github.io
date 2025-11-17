@@ -485,7 +485,7 @@ The **Asylum Demon** expansion brings one of Dark Souls' most iconic boss encoun
 - **Positioning Challenges** with limited safe spaces
 - **Team Splitting** requiring independent decision-making
 
-### Spanish Edition (EdiciÃ³n Castellano Revisada)
+### Spanish Edition (Edición Castellano Revisada)
 
 #### Localization Quality
 
