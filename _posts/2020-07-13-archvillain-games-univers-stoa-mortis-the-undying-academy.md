@@ -1,7 +1,14 @@
 ﻿---
 title: "Archvillain Games Univers Stoa Mortis The Undying Academy Review"
 date: 2020-07-13
-tags: ["board games", "review", "Archvillain Games", "Stoa Mortis", "Undying Academy"]
+tags:
+  [
+    "board games",
+    "review",
+    "Archvillain Games",
+    "Stoa Mortis",
+    "Undying Academy",
+  ]
 description: "A funny and detailed review of Archvillain Games - Univers Stoa Mortis The Undying Academy. Discover why this game is a must-have for fans of epic board games!"
 ---
 
@@ -78,6 +85,6 @@ So what are you waiting for? Head over to Geeknite and get your copy of Univers 
 
 ### Other Spooky Games to Check Out
 
-If you love haunted adventures, be sure to check out our reviews of [Marvel United Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%}).
+If you love haunted adventures, be sure to check out our reviews of [Marvel United Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}) or [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%}).
 
 **Ready to embark on a ghostly quest? Donâ€™t miss out on the fun!**

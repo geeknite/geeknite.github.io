@@ -1,7 +1,7 @@
 ﻿---
 title: "La RÃ©gie du Jeu: El Juego de Mesa FrancÃ©s que no SabÃ­as que Necesitabas"
 date: 2021-03-02
- tags: [board games, review, humor, geeknite]
+tags: [board games, review, humor, geeknite]
 ---
 
 ![La RÃ©gie du Jeu](https://i.imgur.com/xyz.jpg){: .center}

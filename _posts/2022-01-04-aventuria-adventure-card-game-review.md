@@ -1,7 +1,7 @@
 ﻿---
 title: "Aventuria - Adventure Card Game Review"
 date: 2022-01-04
-tags: ['board games', 'review', 'Aventuria', 'adventure', 'card game']
+tags: ["board games", "review", "Aventuria", "adventure", "card game"]
 description: "A hilarious and detailed review of the Aventuria Adventure Card Game. Find out why this game is a must-have for adventure and card game enthusiasts!"
 ---
 
@@ -24,6 +24,7 @@ In Aventuria, players work together to complete quests and defeat enemies. Each 
 ### Components
 
 The game comes with:
+
 - **Character Cards**: Each hero has a detailed card with their attributes, abilities, and background.
 - **Decks of Cards**: Custom decks for each character, filled with abilities, equipment, and special actions.
 - **Quest Cards**: These outline the objectives and challenges of the adventures.
@@ -84,6 +85,6 @@ So what are you waiting for? Head over to [Geeknite](https://geeknite.com) and g
 
 ## Other Board Games to Explore
 
-If you love adventure and card games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love adventure and card games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
 **Ready to embark on your next great adventure? Click [here](https://geeknite.com/aventuria) to get your copy of Aventuria now and receive an exclusive discount! Happy adventuring!**

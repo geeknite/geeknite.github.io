@@ -16,6 +16,7 @@ AngerSmash is a competitive card game designed for 2-6 players. The objective? U
 ### Components
 
 The game comes with:
+
 - **Character Cards**: Each with unique abilities and stats.
 - **Action Cards**: Attack, defend, and special cards that add twists and turns.
 - **Rage Tokens**: Because what's AngerSmash without some rage?
@@ -32,6 +33,7 @@ Setting up AngerSmash is like preparing for a friendly skirmish. Lay out the boa
 ### Turn Phases
 
 Each turn consists of several phases:
+
 1. **Draw Phase**: Draw an action card.
 2. **Action Phase**: Play an action card to attack, defend, or use special abilities.
 3. **Rage Phase**: Gain or lose rage tokens based on the outcome of your actions.
@@ -75,6 +77,6 @@ So what are you waiting for? Head over to [Geeknite's Card Games Section](https:
 
 ## Other Card Games to Check Out
 
-If you love AngerSmash, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) and [Marvel United: Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}).
+If you love AngerSmash, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) and [Marvel United: Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}).
 
 **Ready to smash? Grab your copy of AngerSmash and let the games begin!**

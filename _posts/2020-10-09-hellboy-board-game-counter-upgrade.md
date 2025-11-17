@@ -1,7 +1,7 @@
 ﻿---
-title: 'Hellboy: The Board Game - Counter Upgrade Review'
+title: "Hellboy: The Board Game - Counter Upgrade Review"
 date: 2020-10-09
-tags: ['board games', 'Hellboy', 'review', 'upgrades']
+tags: ["board games", "Hellboy", "review", "upgrades"]
 ---
 
 ![Hellboy](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}
@@ -17,6 +17,7 @@ Hellboy: The Board Game is a cooperative game where players take on the roles of
 ### Components
 
 The base game comes with:
+
 - **Miniatures**: Beautifully crafted miniatures of your favorite Hellboy characters and villains. These are so detailed you'll want to display them proudly on your shelf.
 - **Boards and Cards**: Various game boards depicting locations from the Hellboy universe, along with cards representing actions, items, and enemies.
 - **Dice and Tokens**: Custom dice and tokens to track health, actions, and other game mechanics.
@@ -30,6 +31,7 @@ The counter upgrade kit includes improved tokens and counters that replace those
 ### Components
 
 The upgrade kit features:
+
 - **Upgraded Tokens**: High-quality tokens that replace the cardboard ones in the base game. These are made from sturdy materials and feature vibrant artwork.
 - **Enhanced Counters**: Counters with improved designs and durability, making them easier to handle and track during gameplay.
 - **Special Accessories**: Additional accessories like custom dice bags and token trays for better organization.
@@ -74,7 +76,7 @@ The Hellboy: The Board Game counter upgrade is a fantastic addition for any Hell
 ## Other Board Games to Check Out
 
 - **[Sniper Elite Board Game Review: Stealth and Strategy on Your Tabletop]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})**
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Ready to face the supernatural? Click [here]({{ site.constants.wsib }}hellboy-board-game) to get your copy of Hellboy: The Board Game today and receive an exclusive discount! Happy gaming!**

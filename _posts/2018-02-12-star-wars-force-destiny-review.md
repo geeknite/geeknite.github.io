@@ -18,6 +18,7 @@ Star Wars RPG: Force & Destiny is a tabletop role-playing game where players tak
 ### Components
 
 The Beginner Game includes:
+
 - **Rulebook**: A guide to help you understand the basics of gameplay.
 - **Adventure Book**: A thrilling adventure to get you started on your journey.
 - **Character Sheets**: Pre-generated characters to help you jump right into the action.
@@ -79,6 +80,6 @@ So what are you waiting for? Head over to [Geeknite's RPG Section](https://geekn
 
 ## Other Galactic Adventures to Check Out
 
-If you love Star Wars RPGs, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love Star Wars RPGs, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
 **Ready to embark on a galactic adventure? Donâ€™t miss out on the fun!**

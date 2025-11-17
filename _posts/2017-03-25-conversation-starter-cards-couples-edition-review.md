@@ -1,7 +1,7 @@
 ﻿---
 title: "Conversation Starter Cards: Couples Edition - A Comedic Review"
 date: 2017-03-25
-tags: ['review', 'couples', 'conversation cards', 'games', 'date night']
+tags: ["review", "couples", "conversation cards", "games", "date night"]
 description: "A hilarious and comprehensive review of Conversation Starter Cards: Couples Edition. Perfect for game nights and date nights!"
 ---
 
@@ -9,7 +9,7 @@ description: "A hilarious and comprehensive review of Conversation Starter Cards
 
 ## Introduction
 
-Welcome, lovebirds and game enthusiasts! Today, we delve into the world of **Conversation Starter Cards: Couples Edition**, a game designed to heat up your date nights and bring laughter into your relationship. If you think you know everything about your partner, prepare for some surprises, giggles, and perhaps a few eye-rolls. 
+Welcome, lovebirds and game enthusiasts! Today, we delve into the world of **Conversation Starter Cards: Couples Edition**, a game designed to heat up your date nights and bring laughter into your relationship. If you think you know everything about your partner, prepare for some surprises, giggles, and perhaps a few eye-rolls.
 
 ## What are Conversation Starter Cards: Couples Edition?
 
@@ -18,6 +18,7 @@ These cards are meant to spark conversations between couples, ranging from the s
 ### The Basics
 
 The deck includes:
+
 - **150 Cards**: Each card has a unique question or prompt.
 - **Categories**: From 'Romantic' to 'Funny' and 'Deep Thoughts,' there's a category for every mood.
 - **Compact Box**: Easy to carry around, perfect for travel or a quick date night setup.
@@ -33,6 +34,7 @@ No complex rules here! Just grab the deck, shuffle, and start drawing cards. You
 ### Sample Questions
 
 Here are a few gems you might encounter:
+
 - **Funny**: "What's the weirdest thing you've ever Googled?"
 - **Romantic**: "Describe our first kiss in one word."
 - **Deep**: "If you could change one thing about our relationship, what would it be?"
@@ -44,6 +46,7 @@ Here are a few gems you might encounter:
 ### Categories
 
 One of the best parts of this deck is the variety of categories. Whether you're feeling romantic, playful, or philosophical, there's a card for every mood:
+
 - **Romantic**: Perfect for setting the mood or reminiscing about shared moments.
 - **Funny**: Great for laughter and light-hearted chatter.
 - **Deep Thoughts**: Ideal for those nights when you want to connect on a profound level.
@@ -84,4 +87,4 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}co
 For more reviews and game recommendations, check out our previous posts:
 
 - [Flamme Rouge Grand Tour Review: The Ultimate Cycling Expansion]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})
-- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})

@@ -14,7 +14,7 @@ Greetings, fellow Jedi and Sith enthusiasts! Today, we're diving into the world 
 
 ## What is the Star Wars: Force and Destiny Dice Set?
 
-The Star Wars: Force and Destiny Dice Set is a collection of custom dice designed specifically for the *Star Wars: Force and Destiny* role-playing game. These dice are not your average, boring cubes. They're imbued with the power of the Force, featuring unique symbols and colors that add a cinematic flair to your dice rolls.
+The Star Wars: Force and Destiny Dice Set is a collection of custom dice designed specifically for the _Star Wars: Force and Destiny_ role-playing game. These dice are not your average, boring cubes. They're imbued with the power of the Force, featuring unique symbols and colors that add a cinematic flair to your dice rolls.
 
 ### Components
 
@@ -33,7 +33,7 @@ Here's what you get in the Star Wars: Force and Destiny Dice Set:
 
 ### The Dice Mechanics
 
-The dice mechanics in *Force and Destiny* are as engaging as the storylines they help create. Instead of just numbers, you get symbols that indicate success, failure, advantage, and threat. This adds a narrative element to every roll, making it feel like you're part of a Star Wars movie scene.
+The dice mechanics in _Force and Destiny_ are as engaging as the storylines they help create. Instead of just numbers, you get symbols that indicate success, failure, advantage, and threat. This adds a narrative element to every roll, making it feel like you're part of a Star Wars movie scene.
 
 ### The Good, The Bad, and The Ugly
 
@@ -86,4 +86,4 @@ For more reviews and board game recommendations, check out our previous posts:
 
 - [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
-- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})
