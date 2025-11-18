@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Asgard Review: The Game That Takes You to a Whole New World"
-date: 2021-01-20
+date: "2021-01-20"
 categories: [board games, review, Asgard]
 tags: [Asgard, gaming, board games, review]
 description: "An epic and fun-filled review of Asgard the board game. Discover why this game is a must-have for fans of Norse mythology and strategic gameplay!"

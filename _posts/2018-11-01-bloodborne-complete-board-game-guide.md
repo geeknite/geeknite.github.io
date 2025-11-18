@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bloodborne: The Board Game Complete Guide - Reviews, Expansions & Strategies"
-date: 2018-11-01
+date: "2018-11-01"
 tags: [bloodborne, board-games, cmon, dungeon-crawler, coop-games, miniatures, expansion-reviews]
 description: "The ultimate guide to Bloodborne: The Board Game series - comprehensive reviews of base game, expansions, premium accessories, and complete strategy guide for hunters."
 ---

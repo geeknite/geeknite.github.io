@@ -1,6 +1,6 @@
 ---
 title: "BOOX Tablet Go Color 7 Review: The Colorful eReader That's Almost Perfect"
-date: 2025-08-19
+date: "2025-08-19"
 tags: [boox, e-reader, review, tech, gadgets, color, android]
 description: "An honest review of the BOOX Tablet Go Color 7. A colorful Android-powered eReader with great potential but some quirks to consider."
 last_modified_at: '2025-08-19T10:00:00+02:00'

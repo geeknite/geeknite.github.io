@@ -1,7 +1,7 @@
 ---
 
 title:  "MTB Progression welcome"
-date:   2018-10-07 17:00:00 +0200
+date: "2018-10-07 17:00:00 +0200"
 tags: español mtb
 description: "Descubre todo lo nuevo en nuestro blog de MTB (BTT). Ahora con más artículos de opinión y recomendaciones para progresar desde principiante a aficionado"
 redirect_to: https://bikinggeek.github.io/2018/10/mtb-progression-welcome.html

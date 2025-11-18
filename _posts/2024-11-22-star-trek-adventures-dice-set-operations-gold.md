@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Star Trek Adventures Dice Set: Operations Gold (Star Trek RPG Dice) Review"
-date: 2024-11-22
+date: "2024-11-22"
 categories: [board games, review, star trek]
 tags: [Star Trek, RPG, Dice, Review]
 description: "Explore the features and performance of the Star Trek Adventures Dice Set: Operations Gold. Are these dice worth your latinum?"
@@ -58,7 +58,7 @@ In conclusion, the Star Trek Adventures Dice Set: Operations Gold is a fantastic
 
 {% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
-- **[Adventure Tactics vs CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest -%})**
+- **[Adventure Tactics vs CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 

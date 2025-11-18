@@ -1,6 +1,6 @@
 ---
 title: "Gloomhaven: A Dungeon Crawler to Rule Them All"
-date: 2022-02-04
+date: "2022-02-04"
 categories: [board games, review, gloomhaven]
 tags: [Gloomhaven, gaming, board games, review]
 description: "Explore the depths of Gloomhaven in this funny and detailed review. Find out why this game is a must-have for dungeon crawler enthusiasts."

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Against the Odds 24: Deathride - Mars-La-Tour 1870"
-date: 2016-11-01
+date: "2016-11-01"
 tags: [strategy-games, board-games, historical-games, wargames, franco-prussian-war]
 description: "Detailed review of Against the Odds 24: Deathride - Mars-La-Tour 1870 wargame."
 ---

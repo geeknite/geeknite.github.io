@@ -1,6 +1,6 @@
-﻿---
+---
 title: "The Passion Of Joan Of Arc: A Historical Masterpiece That Will Leave You Speechless"
-date: 2018-05-25
+date: "2018-05-25"
 tags: ["movies", "historical", "review", "Joan of Arc"]
 description: "Dive into the brilliance of The Passion Of Joan Of Arc, a timeless classic that captures the essence of Joan of Arc's trial in stunning detail"
 ---

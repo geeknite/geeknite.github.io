@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Vertigo: An Epic Journey Through Every Country"
-date: 2015-04-21
+date: "2015-04-21"
 tags: [travel, health, vertigo, journey]
 description: "Explore the world while managing vertigo. A humorous guide to traveling through every country with balance issues and dizziness."
 ---
@@ -11,7 +11,7 @@ We all dream of epic adventures, but what about one that gives you vertigo? Toda
 
 ## The Vertigo Experience
 
-Vertigo isn't just a fancy word for dizziness. It's a rollercoaster ride where you feel like the world is spinning out of control. Imagine trying to sightsee while feeling like you're balancing on a tightrope. Fun, right? ðŸ˜µ
+Vertigo isn't just a fancy word for dizziness. It's a rollercoaster ride where you feel like the world is spinning out of control. Imagine trying to sightsee while feeling like you're balancing on a tightrope. Fun, right? 😵
 
 ![Vertigo](https://i.imgur.com/xy9Y3LR.jpg)
 
@@ -25,15 +25,15 @@ Vertigo can be triggered by various factors including inner ear issues, migraine
 
 ### France
 
-Ah, France! Home to the Eiffel Tower, croissants, and wine that could make even a teetotaler consider a cheeky sip. But beware, the winding streets of Montmartre can make your head spin faster than a merry-go-round. ðŸ‡«ðŸ‡·
+Ah, France! Home to the Eiffel Tower, croissants, and wine that could make even a teetotaler consider a cheeky sip. But beware, the winding streets of Montmartre can make your head spin faster than a merry-go-round. 🇫🇷
 
 ### Italy
 
-Italy is a land of marvel, but navigating the canals of Venice might leave you feeling like you're on a perpetual gondola ride. If the vertigo doesn't get you, the pizza will. ðŸ•
+Italy is a land of marvel, but navigating the canals of Venice might leave you feeling like you're on a perpetual gondola ride. If the vertigo doesn't get you, the pizza will. 🍕
 
 ### Japan
 
-Japan's bustling cities and serene temples are a feast for the senses. Just don't look down from Tokyo Tower if you're already feeling wobbly. ðŸ—¼
+Japan's bustling cities and serene temples are a feast for the senses. Just don't look down from Tokyo Tower if you're already feeling wobbly. 🗼
 
 ## Vertigo-Friendly Activities
 
@@ -41,11 +41,11 @@ Not every country is a vertigo-triggering nightmare. Some offer relief with calm
 
 ### Switzerland
 
-The Swiss Alps might seem daunting, but once you're wrapped up in a cozy cabin with hot cocoa, the vertigo fades away like a bad dream. ðŸ”ï¸
+The Swiss Alps might seem daunting, but once you're wrapped up in a cozy cabin with hot cocoa, the vertigo fades away like a bad dream. 🏔️
 
 ### New Zealand
 
-The rolling hills and expansive landscapes of New Zealand are perfect for soothing the mind. Just avoid bungee jumping if you're feeling off-balance. ðŸ¦˜
+The rolling hills and expansive landscapes of New Zealand are perfect for soothing the mind. Just avoid bungee jumping if you're feeling off-balance. 🦘
 
 ![Soothing Landscapes](https://i.imgur.com/nX1ochk.jpg)
 

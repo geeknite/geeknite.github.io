@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Black Premium Swag Bag by Mayday Games: Your Ultimate Guide"
-date: 2023-05-21
+date: "2023-05-21"
 tags: [board-games, accessories, review, mayday-games, swag-bag]
 description: "Dive into the Black Premium Swag Bag by Mayday Games. Discover its features, pros, cons, and if it's worth your hard-earned cash in this humorous review."
-last_modified_at: 2025-10-08
+last_modified_at: "2025-10-08"
 ---
 
 ![Black Premium Swag Bag](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]
@@ -68,5 +68,4 @@ For more gaming tips and reviews, check out our other posts:
 
 - [Adult Board Games: Fun for Grown-Ups]({% post_url 2019-11-15-adult-board-games %})
 - [Top 10 Racing Board Games: A Fast-Paced Countdown]({% post_url 2023-06-15-top-10-racing-board-games %})
-- [Adventure Tactics or CoraQuest: Which Game to Choose for Young Teens?]({% post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens %})
-
+- [Adventure Tactics or CoraQuest: Which Game to Choose for Young Teens?]({% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %})

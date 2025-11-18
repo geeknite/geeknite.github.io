@@ -1,6 +1,6 @@
-﻿---
+---
 title: "PlayStation 3 Review: Blast from the Past"
-date: 2006-11-17
+date: "2006-11-17"
 tags: [playstation, ps3, gaming, console, retro-gaming, review]
 description: "Comprehensive review of the PlayStation 3 in 2025: Is this retro console still worth it?"
 ---

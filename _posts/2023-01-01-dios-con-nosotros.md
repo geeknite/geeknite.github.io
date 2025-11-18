@@ -1,6 +1,6 @@
 ---
 title: "Dios con Nosotros: La Aventura Española en Gaming"
-date: 2023-01-01
+date: "2023-01-01"
 Tags: [gaming, español, Twitch, YouTube, comunidad]
 ---
 

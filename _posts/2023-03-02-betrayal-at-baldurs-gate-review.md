@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Betrayal at Baldur's Gate: Dungeons & Dragons Modular Board Game Review"
-date: 2023-03-02
+date: "2023-03-02"
 tags: ["Board Games", "Dungeons & Dragons", "Review", "Strategy Games"]
 description: "A comprehensive and hilarious review of the Betrayal at Baldur's Gate modular board game. Find out why it might be the best addition to your game collection!"
 ---

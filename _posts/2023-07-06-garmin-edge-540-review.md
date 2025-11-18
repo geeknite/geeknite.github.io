@@ -4,7 +4,7 @@ tags: garmin, edge, solar, bike, computer, review, gps, solarstorm
 thumbnail: /assets/images/garmin_edge_540.jpg
 image: /assets/images/garmin_edge_540.jpg
 last_modified_at: "2025-03-08T10:00:00+02:00"
-date: 2023-07-06
+date: "2023-07-06"
 redirect_to: https://bikinggeek.github.io/2023/07/garmin-edge-540-review.html
 ---
 

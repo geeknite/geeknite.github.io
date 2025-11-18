@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Mounted Map Board: Genesis Review'
-date: 2021-09-07
+date: "2021-09-07"
 tags: ['board games', 'review', 'Genesis', 'strategy games', 'map board']
 description: 'A hilarious and comprehensive review of the Mounted Map Board: Genesis. Is this game worth buying for strategy game enthusiasts?'
 ---

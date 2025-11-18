@@ -1,6 +1,6 @@
 ---
 title: "Harmonies Board Game Review: A Melodious Masterpiece"
-date: 2025-04-17
+date: "2025-04-17"
 tags: [board game, review, strategy, funny]
 description: "A funny and in-depth review of Harmonies, the board game that's taking the world by storm."
 ---

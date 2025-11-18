@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Hellboy: The Board Game - Counter Upgrade Review"
-date: 2020-10-09
+date: "2020-10-09"
 tags: ["board games", "Hellboy", "review", "upgrades"]
 ---
 

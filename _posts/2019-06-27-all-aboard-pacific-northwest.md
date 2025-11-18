@@ -1,6 +1,6 @@
-﻿---
+---
 title: "All Aboard Pacific Northwest: A Recreation Primer - Board Book Review"
-date: 2019-06-27
+date: "2019-06-27"
 tags: [board-books, reviews, children-books, pacific-northwest, educational]
 description: "A detailed and humorous review of All Aboard Pacific Northwest: A Recreation Primer. Is this board book worth picking up for your little adventurer?"
 ---

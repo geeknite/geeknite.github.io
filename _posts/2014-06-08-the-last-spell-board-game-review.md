@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'The Last Spell: The Board Game Review'
-date: 2014-06-08
+date: "2014-06-08"
 tags: ['board games', 'The Last Spell', 'review', 'funny']
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Aventuria - Adventure Card Game Review"
-date: 2022-01-04
+date: "2022-01-04"
 tags: ["board games", "review", "Aventuria", "adventure", "card game"]
 description: "A hilarious and detailed review of the Aventuria Adventure Card Game. Find out why this game is a must-have for adventure and card game enthusiasts!"
 ---

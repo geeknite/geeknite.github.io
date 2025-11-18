@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Board Games Unite Love T-Shirt Review"
-date: 2014-08-04
+date: "2014-08-04"
 tags: ["board games", "review", "tshirt", "apparel"]
 description: "A hilarious and detailed review of the Board Games Unite Love T-Shirt. See why this tee is a must-have for board game enthusiasts!"
 ---

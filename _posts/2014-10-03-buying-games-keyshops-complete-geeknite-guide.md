@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Buying Games on Keyshops: The Complete Geeknite Guide"
-date: 2014-10-03
+date: "2014-10-03"
 tags: [gaming, keyshops, review, buying-guide, pc-gaming]
 description: "Everything you need to know about buying games on keyshops in 2025. Pros, cons, safety tips, platform comparisons, and hilarious mishaps from the trenches."
 ---
@@ -190,16 +190,16 @@ These keyshops source keys directly from publishers or authorized distributors. 
 **Business Model**: Authorized reseller with direct publisher relationships
 
 **Pros**:
-- âœ… Fully legitimate-keys sourced directly from publishers
-- âœ… Excellent customer support (actually responds to tickets!)
-- âœ… VIP program with additional discounts
-- âœ… Frequent sales (often matching Steam)
-- âœ… Publishers get paid, so you're supporting developers
+- ✅ Fully legitimate-keys sourced directly from publishers
+- ✅ Excellent customer support (actually responds to tickets!)
+- ✅ VIP program with additional discounts
+- ✅ Frequent sales (often matching Steam)
+- ✅ Publishers get paid, so you're supporting developers
 
 **Cons**:
-- âŒ Prices sometimes match Steam sales (less dramatic savings)
-- âŒ Smaller selection than grey market shops
-- âŒ Regional restrictions still apply
+- ❌ Prices sometimes match Steam sales (less dramatic savings)
+- ❌ Smaller selection than grey market shops
+- ❌ Regional restrictions still apply
 
 **Verdict**: **9/10** - This is where you should buy if you want peace of mind and still save money.
 
@@ -214,16 +214,16 @@ These keyshops source keys directly from publishers or authorized distributors. 
 **Business Model**: Charity-focused game bundles and store
 
 **Pros**:
-- âœ… Supports charities (you choose where % of money goes)
-- âœ… Humble Choice subscription gives amazing value
-- âœ… 100% legitimate keys
-- âœ… DRM-free options available
-- âœ… Developer-approved
+- ✅ Supports charities (you choose where % of money goes)
+- ✅ Humble Choice subscription gives amazing value
+- ✅ 100% legitimate keys
+- ✅ DRM-free options available
+- ✅ Developer-approved
 
 **Cons**:
-- âŒ Bundles are random-may include games you don't want
-- âŒ Store prices aren't always the cheapest
-- âŒ Choice subscription is $11.99/month (but gives 8-10 games)
+- ❌ Bundles are random-may include games you don't want
+- ❌ Store prices aren't always the cheapest
+- ❌ Choice subscription is $11.99/month (but gives 8-10 games)
 
 **Verdict**: **9.5/10** - Best option if you want to support charity AND save money.
 
@@ -238,16 +238,16 @@ These keyshops source keys directly from publishers or authorized distributors. 
 **Business Model**: Authorized reseller specializing in bundles
 
 **Pros**:
-- âœ… Legitimate authorized reseller
-- âœ… Excellent bundle deals (Star Deals, Build Your Own Bundle)
-- âœ… Good customer support
-- âœ… Frequent flash sales
-- âœ… Loyalty program with rewards
+- ✅ Legitimate authorized reseller
+- ✅ Excellent bundle deals (Star Deals, Build Your Own Bundle)
+- ✅ Good customer support
+- ✅ Frequent flash sales
+- ✅ Loyalty program with rewards
 
 **Cons**:
-- âŒ Bundle quality can be hit-or-miss
-- âŒ Some games are "filler" titles
-- âŒ Prices outside bundles are okay, not amazing
+- ❌ Bundle quality can be hit-or-miss
+- ❌ Some games are "filler" titles
+- ❌ Prices outside bundles are okay, not amazing
 
 **Verdict**: **8.5/10** - Great for bundles, solid for individual games.
 
@@ -260,16 +260,16 @@ These keyshops source keys directly from publishers or authorized distributors. 
 **Business Model**: Authorized reseller
 
 **Pros**:
-- âœ… Fully authorized
-- âœ… Regional stores (UK, US, DE, FR) with different prices
-- âœ… Excellent community on Reddit (r/GameDeals)
-- âœ… Transparent about regional locks
-- âœ… Good customer service
+- ✅ Fully authorized
+- ✅ Regional stores (UK, US, DE, FR) with different prices
+- ✅ Excellent community on Reddit (r/GameDeals)
+- ✅ Transparent about regional locks
+- ✅ Good customer service
 
 **Cons**:
-- âŒ Website design feels dated
-- âŒ Smaller selection than competitors
-- âŒ Prices vary by regional store
+- ❌ Website design feels dated
+- ❌ Smaller selection than competitors
+- ❌ Prices vary by regional store
 
 **Verdict**: **8/10** - Solid choice, especially for EU gamers.
 
@@ -286,17 +286,17 @@ These operate in the grey area-marketplace models where third parties sell keys.
 **Business Model**: Unclear sourcing (likely regional arbitrage)
 
 **Pros**:
-- âœ… Competitive prices (often 30-50% off Steam)
-- âœ… Keys delivered instantly
-- âœ… Rarely has issues with invalid keys
-- âœ… Good track record in community
-- âœ… No marketplace-CDKeys sources directly
+- ✅ Competitive prices (often 30-50% off Steam)
+- ✅ Keys delivered instantly
+- ✅ Rarely has issues with invalid keys
+- ✅ Good track record in community
+- ✅ No marketplace-CDKeys sources directly
 
 **Cons**:
-- âŒ Sourcing is opaque (likely regional pricing arbitrage)
-- âŒ Some developers have criticized them
-- âŒ Customer service is hit-or-miss
-- âŒ Ethical concerns remain
+- ❌ Sourcing is opaque (likely regional pricing arbitrage)
+- ❌ Some developers have criticized them
+- ❌ Customer service is hit-or-miss
+- ❌ Ethical concerns remain
 
 **Verdict**: **7/10** - Decent middle ground if you want savings but some legitimacy.
 
@@ -311,18 +311,18 @@ These operate in the grey area-marketplace models where third parties sell keys.
 **Business Model**: Marketplace (third-party sellers)
 
 **Pros**:
-- âœ… Wide selection of games and platforms
-- âœ… Buyer Protection program available (costs extra)
-- âœ… Often has better prices than G2A
-- âœ… User-friendly interface
-- âœ… Seller ratings help identify trustworthy sellers
+- ✅ Wide selection of games and platforms
+- ✅ Buyer Protection program available (costs extra)
+- ✅ Often has better prices than G2A
+- ✅ User-friendly interface
+- ✅ Seller ratings help identify trustworthy sellers
 
 **Cons**:
-- âŒ Marketplace model = risk from bad sellers
-- âŒ Buyer Protection costs extra money (usually $1-3)
-- âŒ Customer support is slow
-- âŒ Some keys are from questionable sources
-- âŒ Ethical concerns
+- ❌ Marketplace model = risk from bad sellers
+- ❌ Buyer Protection costs extra money (usually $1-3)
+- ❌ Customer support is slow
+- ❌ Some keys are from questionable sources
+- ❌ Ethical concerns
 
 **Verdict**: **6/10** - Use with caution. Check seller ratings. Consider Buyer Protection.
 
@@ -337,19 +337,19 @@ These operate in the grey area-marketplace models where third parties sell keys.
 **Business Model**: Marketplace (third-party sellers)
 
 **Pros**:
-- âœ… Huge selection-nearly every game available
-- âœ… Often has the absolute cheapest prices
-- âœ… Seller rating system
-- âœ… G2A Shield protection (paid subscription)
-- âœ… Large user base
+- ✅ Huge selection-nearly every game available
+- ✅ Often has the absolute cheapest prices
+- ✅ Seller rating system
+- ✅ G2A Shield protection (paid subscription)
+- ✅ Large user base
 
 **Cons**:
-- âŒ **Notorious reputation** for selling stolen/fraudulent keys
-- âŒ Customer support is terrible
-- âŒ G2A Shield is a subscription trap (hard to cancel)
-- âŒ Developers openly hate G2A
-- âŒ Many documented cases of revoked keys
-- âŒ Ethical nightmare
+- ❌ **Notorious reputation** for selling stolen/fraudulent keys
+- ❌ Customer support is terrible
+- ❌ G2A Shield is a subscription trap (hard to cancel)
+- ❌ Developers openly hate G2A
+- ❌ Many documented cases of revoked keys
+- ❌ Ethical nightmare
 
 **Fact-checked controversy (2020)**: G2A finally agreed to pay developers for stolen keys sold on their platform after indie dev tinyBuild claimed $450,000 in losses from G2A sales. After an audit, G2A found **$1,978.56** in provable fraud and paid that. The discrepancy speaks volumes.
 
@@ -369,13 +369,13 @@ Already covered in Tier 1.
 **Business Model**: Authorized reseller
 
 **Pros**:
-- âœ… Legitimate
-- âœ… Often has good sales
-- âœ… Clean interface
+- ✅ Legitimate
+- ✅ Often has good sales
+- ✅ Clean interface
 
 **Cons**:
-- âŒ Smaller selection
-- âŒ Less well-known than competitors
+- ❌ Smaller selection
+- ❌ Less well-known than competitors
 
 **Verdict**: **7/10** - Worth checking for deals.
 
@@ -385,14 +385,14 @@ Already covered in Tier 1.
 **Business Model**: Authorized reseller
 
 **Pros**:
-- âœ… Long-standing reputation
-- âœ… Legitimate keys
-- âœ… Blue Coins loyalty program
+- ✅ Long-standing reputation
+- ✅ Legitimate keys
+- ✅ Blue Coins loyalty program
 
 **Cons**:
-- âŒ Website feels outdated
-- âŒ Prices often not competitive
-- âŒ Small selection
+- ❌ Website feels outdated
+- ❌ Prices often not competitive
+- ❌ Small selection
 
 **Verdict**: **6.5/10** - Meh. Check for specific deals.
 
@@ -404,7 +404,7 @@ Let's compare the top three in each category:
 
 | Feature | Green Man Gaming | Humble Bundle | Fanatical |
 |---------|------------------|---------------|-----------|
-| **Legitimacy** | âœ… Authorized | âœ… Authorized | âœ… Authorized |
+| **Legitimacy** | ✅ Authorized | ✅ Authorized | ✅ Authorized |
 | **Avg Discount** | 15-30% | 20-90% (bundles) | 20-50% (bundles) |
 | **Customer Support** | Excellent | Good | Good |
 | **Selection** | Large | Medium | Large |
@@ -432,10 +432,10 @@ Let's compare the top three in each category:
 
 If you're using G2A, Kinguin, or similar:
 
-- âœ… Check seller ratings: Aim for 98%+ positive
-- âœ… Read recent reviews: Look for "key worked" or "instant delivery"
-- âœ… Check number of sales: 1,000+ sales = more reliable
-- âŒ Avoid sellers with <95% rating or <100 sales
+- ✅ Check seller ratings: Aim for 98%+ positive
+- ✅ Read recent reviews: Look for "key worked" or "instant delivery"
+- ✅ Check number of sales: 1,000+ sales = more reliable
+- ❌ Avoid sellers with <95% rating or <100 sales
 
 **Pro tip**: Sort by "Most Sold" or "Best Rating" to filter out sketchy sellers automatically.
 
@@ -512,13 +512,13 @@ Use price comparison sites:
 ### 7. **Read the Fine Print**
 
 Before clicking "Buy," verify:
-- âœ… Platform (Steam vs Epic vs GOG, etc.)
-- âœ… Edition (Standard vs Deluxe vs Ultimate)
-- âœ… DLC included or separate
-- âœ… Region locks
-- âœ… Language options
-- âœ… Refund policy
-- âœ… Activation deadline
+- ✅ Platform (Steam vs Epic vs GOG, etc.)
+- ✅ Edition (Standard vs Deluxe vs Ultimate)
+- ✅ DLC included or separate
+- ✅ Region locks
+- ✅ Language options
+- ✅ Refund policy
+- ✅ Activation deadline
 
 **Horror story**: Bought "Borderlands 3 Ultimate Edition" on sale. Received base game only. Keyshop claimed "Ultimate Edition" was marketing term, not actual edition. No refund.
 
@@ -559,7 +559,7 @@ Sometimes supporting developers matters more than saving $10:
 
 ### The Case of the Missing Game Key
 
-**The Story**: A Geeknite reader bought *Resident Evil 4 Remake* from a low-rated G2A seller. The key never arrived. They contacted the seller, who responded with... a shrug emoji. Literally just "ðŸ¤·". They opened a dispute, which took 14 days to resolve. Final outcome? Refund in G2A wallet credit, not actual money.
+**The Story**: A Geeknite reader bought *Resident Evil 4 Remake* from a low-rated G2A seller. The key never arrived. They contacted the seller, who responded with... a shrug emoji. Literally just "🤷". They opened a dispute, which took 14 days to resolve. Final outcome? Refund in G2A wallet credit, not actual money.
 
 **Moral**: Check seller ratings. Avoid 90% sellers like the plague.
 
@@ -567,7 +567,7 @@ Sometimes supporting developers matters more than saving $10:
 
 **The Story**: Another reader bought *Elden Ring* from Kinguin without checking regional restrictions. The key was "RU only" (Russia). They live in California. The key didn't work. Kinguin's response? "All sales final. Should have read the description."
 
-**The twist**: They eventually found a Russian VPN workaround to activate the key, but the game only included Russian language with no way to change it. 120 hours of *Elden Ring* in Russian. They now know "Ð¥Ð¾Ñ‡ÐµÑˆÑŒ Ð±Ñ‹Ñ‚ÑŒ Ð›Ð¾Ñ€Ð´Ð¾Ð¼ Ð­Ð»Ð´ÐµÐ½?" means "Do you want to be Elden Lord?"
+**The twist**: They eventually found a Russian VPN workaround to activate the key, but the game only included Russian language with no way to change it. 120 hours of *Elden Ring* in Russian. They now know "Хочешь быть Лордом Элден?" means "Do you want to be Elden Lord?"
 
 **Moral**: Always check region locks. Always.
 
@@ -591,36 +591,36 @@ Sometimes supporting developers matters more than saving $10:
 
 ### Steam Keys
 
-- âœ… Most common key type
-- âœ… Easy to check regional locks on SteamDB
-- âœ… Most keyshops specialize in Steam
-- âŒ Regional locks are complex (activation vs runtime)
+- ✅ Most common key type
+- ✅ Easy to check regional locks on SteamDB
+- ✅ Most keyshops specialize in Steam
+- ❌ Regional locks are complex (activation vs runtime)
 
 **Tip**: Use SteamDB to check if a key is locked before buying.
 
 ### Epic Games Store
 
-- âœ… Often has free games (no need for keyshops!)
-- âœ… Less regional restriction complexity
-- âŒ Fewer keyshops sell Epic keys
-- âŒ EGS has less robust regional pricing
+- ✅ Often has free games (no need for keyshops!)
+- ✅ Less regional restriction complexity
+- ❌ Fewer keyshops sell Epic keys
+- ❌ EGS has less robust regional pricing
 
 **Tip**: Check Epic's weekly free games before buying anywhere.
 
 ### GOG Keys
 
-- âœ… DRM-free (you own the files forever)
-- âœ… No regional restrictions
-- âœ… Ethical choice
-- âŒ Fewer sales/discounts on keyshops
+- ✅ DRM-free (you own the files forever)
+- ✅ No regional restrictions
+- ✅ Ethical choice
+- ❌ Fewer sales/discounts on keyshops
 
 **Tip**: Buy directly from GOG when possible-their sales are often competitive.
 
 ### Console Codes (PlayStation, Xbox, Nintendo)
 
-- âœ… Region locks are clearer (usually)
-- âŒ Higher risk of invalid codes
-- âŒ Sony/Microsoft/Nintendo are stricter about account bans
+- ✅ Region locks are clearer (usually)
+- ❌ Higher risk of invalid codes
+- ❌ Sony/Microsoft/Nintendo are stricter about account bans
 
 **Warning**: Console account bans are devastating (you lose your entire library). Use authorized sellers only.
 
@@ -767,14 +767,14 @@ If you want the TL;DR version:
 Keyshops can be an incredible tool for expanding your game library without going broke. But like any tool, they require knowledge and caution to use effectively.
 
 **The Golden Rules**:
-1. âœ… Stick to authorized sellers when possible (GMG, Humble, Fanatical)
-2. âœ… If using grey market, choose CDKeys over marketplaces
-3. âœ… Always check region locks, seller ratings, and refund policies
-4. âœ… Use PayPal or credit cards for buyer protection
-5. âœ… Support indie developers by buying direct
-6. âŒ Avoid deals that seem impossibly cheap (likely fraud)
-7. âŒ Never use bank transfers or crypto for keyshop purchases
-8. âŒ Don't feel pressured to buy-sales happen constantly
+1. ✅ Stick to authorized sellers when possible (GMG, Humble, Fanatical)
+2. ✅ If using grey market, choose CDKeys over marketplaces
+3. ✅ Always check region locks, seller ratings, and refund policies
+4. ✅ Use PayPal or credit cards for buyer protection
+5. ✅ Support indie developers by buying direct
+6. ❌ Avoid deals that seem impossibly cheap (likely fraud)
+7. ❌ Never use bank transfers or crypto for keyshop purchases
+8. ❌ Don't feel pressured to buy-sales happen constantly
 
 **The Bottom Line**: You CAN save 30-60% on games safely and ethically if you know where to shop. Green Man Gaming and Humble Bundle should be your first stops. CDKeys is acceptable for AAA games if you want deeper discounts. And G2A? Only if you're feeling reckless and don't mind potentially funding credit card fraud.
 

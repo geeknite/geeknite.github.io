@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Minecraft Review: The Ultimate Block Party"
-date: 2023-04-10
+date: "2023-04-10"
 tags:
   - gaming
   - review
@@ -8,7 +8,7 @@ tags:
   - blocks
   - creativity
 description: "Dive into Minecraft, the sandbox game that's captivated millions. Explore our hilarious take on why this game is a must-play."
-last_modified_at: 2025-10-07
+last_modified_at: "2025-10-07"
 ---
 
 ## Introduction
@@ -67,4 +67,4 @@ Minecraft is more than just a game; it's a platform for creativity, collaboratio
 
 **Ready to start your blocky adventure?** Get Minecraft now on [Amazon](https://www.amazon.com/Minecraft/dp/B07NQY3HP8) and join the millions of players in this ultimate block party!
 
-Stay tuned for more reviews, tips, and hilarious takes from your geeky friends at Geeknite! ðŸš€
+Stay tuned for more reviews, tips, and hilarious takes from your geeky friends at Geeknite! 🚀

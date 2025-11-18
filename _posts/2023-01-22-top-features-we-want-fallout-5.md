@@ -2,7 +2,7 @@
 
 title:  "Top 10 Features We Want to See in Fallout 5"
 description: "Top Features We Want in Fallout 5 - A wishlist and discussion of desired features for the upcoming Fallout 5 game."
-date:   2023-01-22 17:00:00 +0200
+date: "2023-01-22 17:00:00 +0200"
 tags:
 - gaming
 - fallout

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "The Order: 1886 Review - A Cinematic Experience Gone Awry"
-date: 2014-07-04
+date: "2014-07-04"
 categories: [Gaming, Reviews]
 tags: ["The Order: 1886", "PS4", "Gaming", "Review", "Funny"]
 description: "Dive into the hilariously frustrating world of The Order: 1886. Explore its stunning visuals, shallow gameplay, and why it's a love-hate relationship."
@@ -63,4 +63,4 @@ In conclusion, **The Order: 1886** is a visually stunning game that falls short 
 
 **Ready to experience The Order: 1886 for yourself?** Check out the latest deals [here](https://example.com). But don't say we didn't warn you. Happy gaming, and may your knights be more exciting than this one!
 
-Stay tuned for more reviews and gaming news from your favorite geeks at Geeknite! ðŸš€
+Stay tuned for more reviews and gaming news from your favorite geeks at Geeknite! 🚀

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "D-Day Board Games Complete Guide: WWII Historical Gaming 2025"
-date: 2017-04-01
+date: "2017-04-01"
 tags: [board-games, d-day, wwii, historical-games, strategy, dice-games, war-games, review]
 description: "The ultimate guide to D-Day historical board games. Complete reviews of D-Day Dice expansions, D-Day at Iwo Jima, and strategic WWII games with expert recommendations for 2025."
 ---

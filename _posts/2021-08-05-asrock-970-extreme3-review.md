@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ASRock 970 Extreme3 Review: A Blast from the Past"
-date: 2021-08-05
+date: "2021-08-05"
 tags: [asrock, 970-extreme3, motherboard, review, gaming, hardware, amd]
 description: "A humor-filled, in-depth review of the ASRock 970 Extreme3 motherboard. Is it still worth it in 2025?"
 ---

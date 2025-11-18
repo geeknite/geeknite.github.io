@@ -1,6 +1,6 @@
-﻿---
+---
 title: "The Legend of Zelda: Tri Force Heroes Review"
-date: 2015-10-23
+date: "2015-10-23"
 categories: [video games, reviews, Zelda]
 tags: [Zelda, Tri Force Heroes, gaming, review, Nintendo]
 description: "A hilarious and in-depth review of The Legend of Zelda: Tri Force Heroes. Discover why this game is a must-play for Zelda fans!"

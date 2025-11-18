@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Taza - I Love Boardgames'
-date: 2020-04-24
+date: "2020-04-24"
 tags: ['board games', 'review', 'humor']
 description: 'A hilarious review of the Taza board game: I Love Boardgames.'
 ---

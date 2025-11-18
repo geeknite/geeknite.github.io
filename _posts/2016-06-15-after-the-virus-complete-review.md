@@ -1,7 +1,7 @@
-﻿---
+---
 layout: single
 title: "After The Virus: Complete Board Game Review & Strategy Guide"
-date: 2016-06-15
+date: "2016-06-15"
 categories: [Board Games, Reviews, Cooperative]
 tags: [board games, review, after the virus, zombies, deck-building, cooperative, solo gaming, strategy]
 excerpt: "Complete review of After The Virus, the cooperative deck-building zombie survival game. Discover gameplay mechanics, strategies, and why this post-apocalyptic adventure belongs in your collection."
@@ -18,7 +18,7 @@ Welcome, survivors, to the ultimate guide for **After The Virus**! If you're a f
 
 ### What is After The Virus?
 
-**âœ… VERIFIED INFORMATION:**
+**✅ VERIFIED INFORMATION:**
 - **Designer**: Jacob Fryxelius & Mattias Fryxelius (FryxGames)
 - **Publisher**: FryxGames (Sweden), Ares Games (international distribution)
 - **Release Year**: 2015
@@ -50,7 +50,7 @@ In **After The Virus**, you play as one of the few remaining humans trying to su
 
 ### What's in the Box?
 
-**âœ… COMPONENT LIST:**
+**✅ COMPONENT LIST:**
 
 **Character Cards (3 unique survivors):**
 - Each with distinct starting abilities and attributes
@@ -84,18 +84,18 @@ In **After The Virus**, you play as one of the few remaining humans trying to su
 ### Component Quality Assessment
 
 **Strengths:**
-- âœ… **Artwork**: Detailed, atmospheric illustrations capture post-apocalyptic mood
-- âœ… **Card Quality**: Durable linen-finish cards withstand repeated shuffling
-- âœ… **Iconography**: Clear symbols make gameplay flow smoothly
-- âœ… **Box Size**: Compact and portable (fits in backpack)
-- âœ… **Rulebook**: Well-written with examples and clarifications
+- ✅ **Artwork**: Detailed, atmospheric illustrations capture post-apocalyptic mood
+- ✅ **Card Quality**: Durable linen-finish cards withstand repeated shuffling
+- ✅ **Iconography**: Clear symbols make gameplay flow smoothly
+- ✅ **Box Size**: Compact and portable (fits in backpack)
+- ✅ **Rulebook**: Well-written with examples and clarifications
 
 **Weaknesses:**
-- âš ï¸ **No Miniatures**: Cards only, no physical zombie figures
-- âš ï¸ **Limited Player Count**: Only up to 3 players
-- âš ï¸ **Basic Box Insert**: Components aren't well-organized in box
+- ⚠️ **No Miniatures**: Cards only, no physical zombie figures
+- ⚠️ **Limited Player Count**: Only up to 3 players
+- ⚠️ **Basic Box Insert**: Components aren't well-organized in box
 
-**ðŸ’¡ Pro Tip**: Sleeve your cards! The frequent shuffling in deck-building games wears cards quickly. Standard-size sleeves (63.5mm Ã— 88mm) work perfectly.
+**💡 Pro Tip**: Sleeve your cards! The frequent shuffling in deck-building games wears cards quickly. Standard-size sleeves (63.5mm × 88mm) work perfectly.
 
 ---
 
@@ -173,7 +173,7 @@ Each turn consists of **three phases**:
 
 ### The Survivors
 
-**âœ… VERIFIED CHARACTER DETAILS:**
+**✅ VERIFIED CHARACTER DETAILS:**
 
 #### The Scientist
 **Background**: Brilliant researcher trying to find a cure for the virus while fighting for survival.
@@ -252,7 +252,7 @@ The heart of After The Virus is building an efficient survival deck:
 - Focus on mission objectives
 - Manage zombie threat levels
 
-**ðŸ’¡ Pro Tip**: A small, efficient deck is better than a large, bloated one. Only add cards that serve clear purposes.
+**💡 Pro Tip**: A small, efficient deck is better than a large, bloated one. Only add cards that serve clear purposes.
 
 **2. Resource Management**
 
@@ -326,7 +326,7 @@ Certain card combinations create powerful synergies:
 
 ### Mission Types
 
-**âœ… VERIFIED MISSION CATEGORIES:**
+**✅ VERIFIED MISSION CATEGORIES:**
 
 **1. Survival Missions**
 - Objective: Survive X turns
@@ -379,12 +379,12 @@ Certain card combinations create powerful synergies:
 ### Replayability Factors
 
 **High Replayability Because:**
-- âœ… Multiple characters with different playstyles
-- âœ… Various missions with different objectives
-- âœ… Randomized events create unique scenarios
-- âœ… Different deck-building strategies
-- âœ… Scalable difficulty levels
-- âœ… Quick playtime encourages "one more game"
+- ✅ Multiple characters with different playstyles
+- ✅ Various missions with different objectives
+- ✅ Randomized events create unique scenarios
+- ✅ Different deck-building strategies
+- ✅ Scalable difficulty levels
+- ✅ Quick playtime encourages "one more game"
 
 **Expansion Potential:**
 - Community creates custom missions
@@ -398,12 +398,12 @@ Certain card combinations create powerful synergies:
 ### Why After The Virus Excels Solo
 
 **Perfect for Solo Gaming:**
-- âœ… **Designed for 1 player**: No awkward scaling or AI rules
-- âœ… **Quick setup**: Get playing in 5 minutes
-- âœ… **Tight gameplay**: 30-60 minute sessions fit busy schedules
-- âœ… **No downtime**: Always your turn
-- âœ… **Portable**: Easy to play anywhere
-- âœ… **Puzzle-like challenge**: Optimize your strategy
+- ✅ **Designed for 1 player**: No awkward scaling or AI rules
+- ✅ **Quick setup**: Get playing in 5 minutes
+- ✅ **Tight gameplay**: 30-60 minute sessions fit busy schedules
+- ✅ **No downtime**: Always your turn
+- ✅ **Portable**: Easy to play anywhere
+- ✅ **Puzzle-like challenge**: Optimize your strategy
 
 **Solo Gaming Strengths:**
 - Pure strategic decision-making
@@ -412,7 +412,7 @@ Certain card combinations create powerful synergies:
 - Experiment with different strategies
 - Multiple quick plays in one session
 
-**ðŸ’¡ Pro Tip**: Solo players can easily play 2-3 missions in one sitting, testing different characters and strategies.
+**💡 Pro Tip**: Solo players can easily play 2-3 missions in one sitting, testing different characters and strategies.
 
 ### Cooperative (2-3 Players)
 
@@ -493,75 +493,75 @@ The humorous approach to zombie apocalypse serves important functions:
 
 ### Strengths
 
-**âœ… Engaging Deck-Building Gameplay**
+**✅ Engaging Deck-Building Gameplay**
 - Strategic depth without overwhelming complexity
 - Satisfying progression as deck improves
 - Multiple viable strategies
 
-**âœ… Excellent Solo Experience**
+**✅ Excellent Solo Experience**
 - One of the best solo zombie games available
 - Quick setup and playtime
 - No fiddly AI or bot rules
 
-**âœ… High-Quality Components**
+**✅ High-Quality Components**
 - Beautiful, atmospheric artwork
 - Durable cards with clear iconography
 - Professional production values
 
-**âœ… Replayability**
+**✅ Replayability**
 - Multiple missions and difficulty levels
 - Different characters with unique abilities
 - Randomized events ensure variety
 - Quick enough to play multiple times in session
 
-**âœ… Cooperative Fun (2-3 players)**
+**✅ Cooperative Fun (2-3 players)**
 - Teamwork and coordination add excitement
 - Different character combos create synergies
 - Shared victory is satisfying
 
-**âœ… Portable & Accessible**
+**✅ Portable & Accessible**
 - Compact box size perfect for travel
 - Quick to teach and learn
 - 30-60 minute playtime fits busy schedules
 
-**âœ… Humorous Tone**
+**✅ Humorous Tone**
 - Lighthearted approach to grim theme
 - Creates memorable moments
 - Balances tension with entertainment
 
 ### Weaknesses
 
-**âš ï¸ Limited Player Count**
+**⚠️ Limited Player Count**
 - Maximum 3 players feels restrictive
 - Not suitable for larger game nights
 - Miss out if you have 4+ regular gaming group
 
-**âš ï¸ Complex Setup (Relative to Playtime)**
+**⚠️ Complex Setup (Relative to Playtime)**
 - Multiple decks to prepare
 - Shuffling and organizing takes time
 - Setup-to-playtime ratio could be better
 
-**âš ï¸ Punishing Difficulty**
+**⚠️ Punishing Difficulty**
 - Can be brutally hard, especially on higher difficulties
 - New players may get discouraged
 - Randomness can create unwinnable situations
 
-**âš ï¸ Zombie Overload (Theme)**
+**⚠️ Zombie Overload (Theme)**
 - If you're tired of zombie themes, this won't change your mind
 - Saturated market of zombie games
 - Nothing revolutionary thematically
 
-**âš ï¸ Limited Strategic Depth (For Experts)**
+**⚠️ Limited Strategic Depth (For Experts)**
 - Experienced gamers may find it straightforward
 - Optimal strategies become apparent
 - Not as deep as heavy deck-builders
 
-**âš ï¸ No Miniatures**
+**⚠️ No Miniatures**
 - Cards-only design lacks tactile appeal
 - No physical zombie figures
 - Less visually impressive on table
 
-**âš ï¸ Language Dependence**
+**⚠️ Language Dependence**
 - Text on many cards
 - Not easy to play in non-native language
 - Requires translation for international players
@@ -572,65 +572,65 @@ The humorous approach to zombie apocalypse serves important functions:
 
 ### Perfect For:
 
-**âœ… Solo Gamers**
+**✅ Solo Gamers**
 - Excellent solo experience
 - Quick setup and playtime
 - No awkward bot/AI systems
 - Portable for solo gaming anywhere
 
-**âœ… Deck-Building Fans**
+**✅ Deck-Building Fans**
 - Satisfying deck optimization
 - Card combos and synergies
 - Progressive power growth
 
-**âœ… Zombie Theme Enthusiasts**
+**✅ Zombie Theme Enthusiasts**
 - If you love zombie survival
 - Post-apocalyptic atmosphere
 - Undead hordes and survival horror
 
-**âœ… Quick Session Gamers**
+**✅ Quick Session Gamers**
 - 30-60 minute playtime
 - Fits lunch breaks or short gaming windows
 - Multiple plays in one sitting
 
-**âœ… Cooperative Players (Small Groups)**
+**✅ Cooperative Players (Small Groups)**
 - 2-3 player co-op works well
 - Teamwork and coordination
 - Shared victory satisfaction
 
-**âœ… Casual to Medium Gamers**
+**✅ Casual to Medium Gamers**
 - Accessible rules
 - Strategic without being overwhelming
 - Good bridge between light and heavy games
 
 ### Not Ideal For:
 
-**âŒ Large Gaming Groups**
+**❌ Large Gaming Groups**
 - 3-player maximum is limiting
 - Not suitable for big game nights
 - Miss out if your group is 4+
 
-**âŒ Heavy Strategy Gamers**
+**❌ Heavy Strategy Gamers**
 - May find it too light
 - Limited strategic depth compared to complex deck-builders
 - Becomes solved after many plays
 
-**âŒ Zombie Theme Fatigue**
+**❌ Zombie Theme Fatigue**
 - If you're tired of zombie games
 - Nothing revolutionary about theme
 - Saturated market
 
-**âŒ Luck-Averse Players**
+**❌ Luck-Averse Players**
 - Random events can swing games
 - Card draws create variance
 - Not purely skill-based
 
-**âŒ Players Seeking Miniatures**
+**❌ Players Seeking Miniatures**
 - Card-only game
 - No physical zombie figures
 - Less table presence
 
-**âŒ Fans of Longer Campaign Games**
+**❌ Fans of Longer Campaign Games**
 - Missions are standalone
 - No persistent progression
 - Not a legacy or campaign experience
@@ -738,7 +738,7 @@ If you enjoy **deck-building games**, love **zombie survival themes**, and espec
 - **Local Game Stores**: $30-35
 - **FryxGames Direct**: Check official website
 
-**ðŸ’¡ Pro Tip**: The game occasionally goes out of print. If you find it at MSRP ($30-35), grab it!
+**💡 Pro Tip**: The game occasionally goes out of print. If you find it at MSRP ($30-35), grab it!
 
 {% include amazon.html asin="B00XXXXXXX" imageUrl="https://example.com/after-the-virus.jpg" %}
 

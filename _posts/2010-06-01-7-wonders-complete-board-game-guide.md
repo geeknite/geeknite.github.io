@@ -1,6 +1,6 @@
-﻿---
+---
 title: "7 Wonders Complete Board Game Guide: Architects, Duel, Expansions 2025"
-date: 2010-06-01
+date: "2010-06-01"
 tags: [board-games, 7-wonders, architects, duel, pantheon, expansion, civilization, strategy, review]
 description: "The ultimate guide to 7 Wonders board games. Complete reviews of 7 Wonders: Architects, 7 Wonders: Duel Pantheon expansion, Wonder Pack, with expert recommendations for 2025."
 ---
@@ -210,22 +210,22 @@ Unlike the original 7 Wonders' card-drafting, Architects uses **simplified card 
 ### Pros and Cons
 
 **Pros:**
-- âœ… **Simple Rules:** Learn in 5 minutes, teach in 10
-- âœ… **Quick Playtime:** 25-30 minutes, perfect for weeknight gaming
-- âœ… **High-Quality Components:** 3D wonders are visually impressive
-- âœ… **Strategic Depth:** Multiple viable paths to victory despite simplicity
-- âœ… **Excellent Gateway Game:** Introduces card-drafting concepts accessibly
-- âœ… **Family-Friendly:** Appeals to kids (8+) and adults equally
-- âœ… **Beautiful Artwork:** Vibrant, inviting aesthetic
-- âœ… **Scalable Player Count:** Works well 2-7 players
+- ✅ **Simple Rules:** Learn in 5 minutes, teach in 10
+- ✅ **Quick Playtime:** 25-30 minutes, perfect for weeknight gaming
+- ✅ **High-Quality Components:** 3D wonders are visually impressive
+- ✅ **Strategic Depth:** Multiple viable paths to victory despite simplicity
+- ✅ **Excellent Gateway Game:** Introduces card-drafting concepts accessibly
+- ✅ **Family-Friendly:** Appeals to kids (8+) and adults equally
+- ✅ **Beautiful Artwork:** Vibrant, inviting aesthetic
+- ✅ **Scalable Player Count:** Works well 2-7 players
 
 **Cons:**
-- âŒ **Limited Player Interaction:** Mostly indirect competition
-- âŒ **Resource Luck Dependency:** Card draw randomness can frustrate planners
-- âŒ **Less Complex Than Original:** Veterans may find it too light
-- âŒ **Component Storage:** Box insert functional but not optimal
-- âŒ **No Expansions (Yet):** Limited content compared to original 7 Wonders ecosystem
-- âŒ **Cat Tokens Confusion:** Thematic element lacks mechanical purpose (flavor only)
+- ❌ **Limited Player Interaction:** Mostly indirect competition
+- ❌ **Resource Luck Dependency:** Card draw randomness can frustrate planners
+- ❌ **Less Complex Than Original:** Veterans may find it too light
+- ❌ **Component Storage:** Box insert functional but not optimal
+- ❌ **No Expansions (Yet):** Limited content compared to original 7 Wonders ecosystem
+- ❌ **Cat Tokens Confusion:** Thematic element lacks mechanical purpose (flavor only)
 
 **Verdict: 8.5/10** - Outstanding family game and excellent gateway to the 7 Wonders universe. Perfect for introducing newcomers, casual gaming sessions, and mixed-age groups. Experienced gamers seeking deep strategy should explore 7 Wonders: Duel or original 7 Wonders instead.
 
@@ -470,23 +470,23 @@ Each deity provides unique one-time or permanent ability.
 ### Pros and Cons
 
 **Pros:**
-- âœ… **Increased Strategic Depth:** Gods add layers of tactical decision-making
-- âœ… **Enhanced Replayability:** 15 gods + random selection = endless variability
-- âœ… **Beautiful Components:** Stunning artwork brings mythology to life
-- âœ… **Thematic Excellence:** God powers perfectly match mythological roles
-- âœ… **Strategic Flexibility:** Multiple new paths to victory
-- âœ… **Balances Base Game:** Slightly mitigates luck factor with divine intervention
-- âœ… **Engaging Theme:** Mythology enthusiasts love the integration
-- âœ… **No Runaway Leader:** Gods provide catch-up mechanisms
+- ✅ **Increased Strategic Depth:** Gods add layers of tactical decision-making
+- ✅ **Enhanced Replayability:** 15 gods + random selection = endless variability
+- ✅ **Beautiful Components:** Stunning artwork brings mythology to life
+- ✅ **Thematic Excellence:** God powers perfectly match mythological roles
+- ✅ **Strategic Flexibility:** Multiple new paths to victory
+- ✅ **Balances Base Game:** Slightly mitigates luck factor with divine intervention
+- ✅ **Engaging Theme:** Mythology enthusiasts love the integration
+- ✅ **No Runaway Leader:** Gods provide catch-up mechanisms
 
 **Cons:**
-- âŒ **Steeper Learning Curve:** Overwhelming for new Duel players
-- âŒ **Longer Game Time:** Adds 5-10 minutes to play time (40-50 min total)
-- âŒ **Component Overload:** Tracking pantheon, tokens, snakes, etc.
-- âŒ **Analysis Paralysis Risk:** More options = slower decisions for some players
-- âŒ **Storage Challenges:** Tight fit in base game box
-- âŒ **Requires Base Game:** Not standalone (obvious but worth noting)
-- âŒ **Potential Balance Issues:** Some gods arguably more powerful (Zeus vs minor deities)
+- ❌ **Steeper Learning Curve:** Overwhelming for new Duel players
+- ❌ **Longer Game Time:** Adds 5-10 minutes to play time (40-50 min total)
+- ❌ **Component Overload:** Tracking pantheon, tokens, snakes, etc.
+- ❌ **Analysis Paralysis Risk:** More options = slower decisions for some players
+- ❌ **Storage Challenges:** Tight fit in base game box
+- ❌ **Requires Base Game:** Not standalone (obvious but worth noting)
+- ❌ **Potential Balance Issues:** Some gods arguably more powerful (Zeus vs minor deities)
 
 **Verdict: 9/10** - Outstanding expansion that elevates 7 Wonders: Duel from excellent to exceptional. Essential for serious Duel fans, but newcomers should master base game first (5-10 plays) before adding Pantheon complexity.
 
@@ -510,7 +510,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 
 ### The Four New Wonders
 
-**1. The Great Wall of China (ä¸­å›½é•¿åŸŽ)**
+**1. The Great Wall of China (中国长城)**
 
 **Historical Context (Fact-Checked):**
 - **Construction Period:** 7th century BCE - 1644 CE (various dynasties)
@@ -564,7 +564,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 - **Synergies:** Commercial (yellow) cards, guilds requiring diverse builds
 - **Playstyle:** Economic engine, enables "tall" building strategy
 
-**3. Abu Simbel (Egypt, Ø£Ø¨Ùˆ Ø³Ù…Ø¨Ù„)**
+**3. Abu Simbel (Egypt, أبو سمبل)**
 
 **Historical Context (Fact-Checked):**
 - **Construction Period:** 13th century BCE (~1264-1244 BCE)
@@ -670,21 +670,21 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 ### Pros and Cons
 
 **Pros:**
-- âœ… **Increased Variety:** 57% more wonders (7â†’11)
-- âœ… **Beautiful Artwork:** Maintains 7 Wonders' high visual standard
-- âœ… **Enhanced Replayability:** More wonder combinations = fresher games
-- âœ… **Low Cost:** $10-15 for significant variety increase
-- âœ… **Easy Integration:** No new rules, just more wonders
-- âœ… **Humor Addition:** Manneken Pis adds lightheartedness
-- âœ… **Historical Education:** Great Wall, Stonehenge, Abu Simbel teach world history
+- ✅ **Increased Variety:** 57% more wonders (7→11)
+- ✅ **Beautiful Artwork:** Maintains 7 Wonders' high visual standard
+- ✅ **Enhanced Replayability:** More wonder combinations = fresher games
+- ✅ **Low Cost:** $10-15 for significant variety increase
+- ✅ **Easy Integration:** No new rules, just more wonders
+- ✅ **Humor Addition:** Manneken Pis adds lightheartedness
+- ✅ **Historical Education:** Great Wall, Stonehenge, Abu Simbel teach world history
 
 **Cons:**
-- âŒ **Learning Curve:** New players may find additional wonders overwhelming
-- âŒ **Balance Issues:** Stonehenge arguably too strong, Abu Simbel requires Leaders
-- âŒ **Compatibility Complexity:** Mixing 1st and 2nd edition components can confuse
-- âŒ **Limited Impact:** Just wonders-no new cards, mechanics, or guilds
-- âŒ **Price Varies:** Some retailers overprice for simple wonder expansion
-- âŒ **Storage:** Adds components to already-full base game box
+- ❌ **Learning Curve:** New players may find additional wonders overwhelming
+- ❌ **Balance Issues:** Stonehenge arguably too strong, Abu Simbel requires Leaders
+- ❌ **Compatibility Complexity:** Mixing 1st and 2nd edition components can confuse
+- ❌ **Limited Impact:** Just wonders-no new cards, mechanics, or guilds
+- ❌ **Price Varies:** Some retailers overprice for simple wonder expansion
+- ❌ **Storage:** Adds components to already-full base game box
 
 **Verdict: 7.5/10** - Solid expansion that increases variety at low cost. Essential for dedicated 7 Wonders fans seeking fresh wonder experiences, but not mandatory for casual players. Best value when purchased on sale ($10 or less).
 
@@ -823,7 +823,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 **Card Sleeves:**
 - **Purpose:** Protect cards from wear (hundreds of shuffles)
 - **Size Needed:** 
-  * **7 Wonders/Duel:** Standard Euro size (59mm Ã— 92mm)
+  * **7 Wonders/Duel:** Standard Euro size (59mm × 92mm)
   * **Quantity:** 
     - Architects: ~150 sleeves
     - Duel: ~120 sleeves
@@ -861,7 +861,7 @@ The **7 Wonders Wonder Pack** adds **four new wonders** to the original 7 Wonder
 
 **Playmat (Optional):**
 - **Purpose:** Define play area, protect table, reduce noise
-- **Size:** 24" Ã— 36" (for Duel), larger for multiplayer 7 Wonders
+- **Size:** 24" × 36" (for Duel), larger for multiplayer 7 Wonders
 - **Cost:** $15-30
 - **Recommended:** Generic neoprene mat (cheaper than game-specific)
 

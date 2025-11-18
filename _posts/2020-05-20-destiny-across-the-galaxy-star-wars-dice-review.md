@@ -1,6 +1,6 @@
-﻿---
+---
 title: "DESTINY ACROSS THE GALAXY STAR WARS DICE LOT NM NO CARDS INCLUDED 153 DICE"
-date: 2020-05-20
+date: "2020-05-20"
 tags: ['Star Wars', 'Dice', 'Review', 'Funny']
 description: "A whimsical and detailed review of the Destiny Across the Galaxy Star Wars Dice Lot. Find out why these dice are a critical addition to any Star Wars fan's collection."
 ---

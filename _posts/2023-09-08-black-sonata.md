@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Black Sonata: El Joven Misterioso - Un Viaje Atrapante en el Londres de Shakespeare"
-date: 2023-09-08
+date: "2023-09-08"
 tags: [board-games, review, black-sonata, mystery, solo-games, shakespeare, deduction]
 description: "¿Alguna vez has querido resolver un misterio en el Londres de Shakespeare? Black Sonata te transporta a la búsqueda de la Dama Oscura. ¡Prepárate para intrigas, sombras y poesía!"
 ---

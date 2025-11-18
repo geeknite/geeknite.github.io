@@ -1,7 +1,7 @@
-﻿---
+---
 layout: single
 title: "The Battle of Iwo Jima: Complete Historical Guide & Graphic Novel Reviews"
-date: 2019-04-09
+date: "2019-04-09"
 categories: [History, WWII, Books, Graphic Novels]
 tags: [history, WWII, Iwo Jima, Pacific War, military, graphic novels, review, battles]
 excerpt: "Complete guide to the Battle of Iwo Jima covering the actual WWII battle and comprehensive reviews of the graphic novel adaptations that bring this pivotal moment in history to life."
@@ -112,7 +112,7 @@ The Battle of Iwo Jima (February 19 - March 26, 1945) was one of the bloodiest b
 
 ### Publication Details
 
-**âœ… VERIFIED INFORMATION:**
+**✅ VERIFIED INFORMATION:**
 - **Title**: The Battle of Iwo Jima: Guerrilla Warfare in the Pacific / A Graphic History
 - **Publisher**: Various editions available
 - **Format**: Graphic novel/illustrated history
@@ -222,7 +222,7 @@ The graphic novel adaptation brings the Battle of Iwo Jima to life through detai
 ### Potential Concerns
 
 **Age Appropriateness:**
-- âš ï¸ **WARNING**: Contains graphic depictions of war violence
+- ⚠️ **WARNING**: Contains graphic depictions of war violence
 - Death and injury shown realistically but not gratuitously
 - Recommended for ages 13+ with parental/teacher guidance
 - Some scenes may be disturbing for sensitive readers
@@ -248,11 +248,11 @@ The graphic novel adaptation brings the Battle of Iwo Jima to life through detai
 ### Critical Reception
 
 **Strengths Noted by Reviewers:**
-- âœ… Historically accurate and well-researched
-- âœ… Engaging format for younger audiences
-- âœ… Respectful treatment of difficult subject
-- âœ… Educational value without sacrificing readability
-- âœ… Quality artwork throughout
+- ✅ Historically accurate and well-researched
+- ✅ Engaging format for younger audiences
+- ✅ Respectful treatment of difficult subject
+- ✅ Educational value without sacrificing readability
+- ✅ Quality artwork throughout
 
 **Areas for Improvement:**
 - Could provide more post-battle context
@@ -280,7 +280,7 @@ The graphic novel adaptation brings the Battle of Iwo Jima to life through detai
 - Digital lending: Available through Libby/OverDrive
 - Interlibrary loan: Request if not available locally
 
-**ðŸ’¡ Pro Tip**: Many libraries carry this title. Check availability before purchasing, especially for one-time educational use.
+**💡 Pro Tip**: Many libraries carry this title. Check availability before purchasing, especially for one-time educational use.
 
 ---
 
@@ -302,7 +302,7 @@ The graphic novel adaptation brings the Battle of Iwo Jima to life through detai
 
 ### What the Graphic Novel Captures Well
 
-**âœ… Successfully Conveyed:**
+**✅ Successfully Conveyed:**
 - The brutal nature of the fighting
 - Strategic importance of the island
 - Individual courage and sacrifice
@@ -311,7 +311,7 @@ The graphic novel adaptation brings the Battle of Iwo Jima to life through detai
 - High casualty rates on both sides
 - Amphibious assault challenges
 
-**âœ… Educational Achievements:**
+**✅ Educational Achievements:**
 - Makes history accessible to visual learners
 - Provides entry point for deeper study
 - Humanizes statistics and dates
@@ -502,9 +502,9 @@ For educators, parents, and students, this graphic novel offers:
 - Historical accuracy with appropriate age guidance
 - A springboard for deeper historical study
 
-**âœ… Recommended for**: Ages 13+, history students, educators, military history enthusiasts, visual learners
+**✅ Recommended for**: Ages 13+, history students, educators, military history enthusiasts, visual learners
 
-**âš ï¸ Content Warning**: Graphic depictions of war violence, death, and injury. Adult guidance recommended for younger readers.
+**⚠️ Content Warning**: Graphic depictions of war violence, death, and injury. Adult guidance recommended for younger readers.
 
 **Final Verdict**: An excellent educational resource that treats its subject with the gravity it deserves while making history accessible to modern readers. Should be paired with other sources for complete understanding.
 

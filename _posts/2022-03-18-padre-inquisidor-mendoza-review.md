@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Padre-Inquisidor Mendoza - A Historical Novel Review"
-date: 2022-03-18
+date: "2022-03-18"
 last_modified_at: '2025-10-07T20:57:55.82747Z'
 tags: ["historical novel", "review", "literature"]
 ---

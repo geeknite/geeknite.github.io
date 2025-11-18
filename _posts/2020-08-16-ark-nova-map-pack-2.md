@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Ark Nova - Map Pack 2 Review'
-date: 2020-08-16
+date: "2020-08-16"
 tags: [ark-nova, board-games, map-pack, review, expansion, zoo-management]
 description: 'Comprehensive review of Ark Nova Map Pack 2 expansion with new maps and challenges.'
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Archvillain Games Univers Stoa Mortis The Undying Academy Review"
-date: 2020-07-13
+date: "2020-07-13"
 tags:
   [
     "board games",

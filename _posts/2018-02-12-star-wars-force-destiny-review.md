@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Star Wars RPG: Force & Destiny Beginner Game Review"
-date: 2018-02-12
+date: "2018-02-12"
 tags: ["Star Wars", "RPG", "Force & Destiny", "Review"]
 description: "A hilarious and comprehensive review of the Star Wars RPG: Force & Destiny Beginner Game. May the Force be with you as you embark on this epic adventure!"
 ---

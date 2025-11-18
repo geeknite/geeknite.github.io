@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Thorgal: The Board Game - A Viking Adventure Awaits!"
-date: 2021-02-10
+date: "2021-02-10"
 tags: ["board games", "review", "Thorgal", "Vikings"]
 description: "Dive into the world of Thorgal with our hilarious and detailed review of the board game adaptation."
 ---
@@ -22,6 +22,7 @@ In Thorgal: The Board Game, players work together to complete various quests and
 ### Components
 
 The game comes with:
+
 - **Miniatures**: These are so detailed that you might mistake them for tiny Norse gods. Perfect for displaying proudly when you're not playing.
 - **Cards**: Each character has a deck of cards representing their abilities, actions, and special powers.
 - **Game Board**: Various locations from the Thorgal universe where battles and quests take place.
@@ -82,8 +83,8 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}th
 
 ---
 
-### Other Viking Games to Check Out
+### Other Epic Board Games to Check Out
 
-If you love Viking board games, be sure to check out our reviews of [Blood Rage]({%- post_url 2023-10-01-blood-rage-review -%}) or [Champions of Midgard]({%- post_url 2023-12-15-champions-of-midgard-review -%}).
+If you love cooperative adventure board games like Thorgal, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [7 Wonders]({%- post_url 2010-06-01-7-wonders-complete-board-game-guide -%}).
 
 **Ready to embark on a Viking adventure? Don't miss out on the fun!**

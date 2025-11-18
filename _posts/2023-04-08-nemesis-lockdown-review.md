@@ -70,6 +70,6 @@ Nemesis: Lockdown is a must-have for any board game collection, particularly if 
 
 ### Other Board Games to Check Out
 
-If you enjoyed this review, be sure to check out our [Sniper Elite Board Game Review]({%- post_url 2024-01-16-sniper-elite-board-game-review -%}).
+If you enjoyed this review, be sure to check out our [Sniper Elite Board Game Review]({%- post_url 2024-10-16-sniper-elite-board-game-review -%}).
 
-**Don't miss out on the fun!** Click [here](https://example.com) to grab your copy now and save the Martian base from alien terror. Happy gaming!
+**Don't miss out on the fun!** Click [here]({{ site.constants.wsib }}nemesis-lockdown) to grab your copy now and save the Martian base from alien terror. Happy gaming!

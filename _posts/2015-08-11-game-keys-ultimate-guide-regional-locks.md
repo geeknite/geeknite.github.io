@@ -1,6 +1,6 @@
-﻿---
+---
 title: "The Game Key Chronicles: A Journey Through Time and Country"
-date: 2015-08-11
+date: "2015-08-11"
 tags: [gaming, game-keys, digital-games, regional-locks, review]
 description: "Embark on a hilarious review of game keys, their significance, and how they transcend both time and countries."
 ---

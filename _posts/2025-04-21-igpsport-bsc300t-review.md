@@ -2,7 +2,7 @@
 title: "iGPSPORT BSC300T Review: A Smart and Affordable Bike Sensor"
 tags: [bike, sensor, review, igpsport, bsc300t, gps]
 description: "In this blog post, I review the iGPSPORT BSC300T, a new bike sensor that can measure speed, cadence, and power. I compare it to other alternatives and show you why it's a great choice for cyclists who want to improve their performance and track their data."
-date: 2025-04-21
+date: "2025-04-21"
 last_modified_at: '2025-08-13T10:00:00+02:00'
 redirect_to: https://bikinggeek.github.io/2025/04/igpsport-bsc300t-review.html
 ---

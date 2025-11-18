@@ -1,7 +1,7 @@
 ---
 
 title:  "Selle Italia Q-bik Flow review"
-date:   2017-01-27 17:00:00 +0200
+date: "2017-01-27 17:00:00 +0200"
 tags: mtb sillín saddle selle-italia review
 redirect_from:
     - /2017/01/selle-italia-q-bik-flow-review.html

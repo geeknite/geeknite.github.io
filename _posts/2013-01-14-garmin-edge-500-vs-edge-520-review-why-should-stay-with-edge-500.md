@@ -1,7 +1,7 @@
 ---
 
 title:  "Garmin Edge 500 vs Edge 520 review comparison. Should I stay with the Edge 500?"
-date:   2013-01-14 17:00:00 +0200
+date: "2013-01-14 17:00:00 +0200"
 tags: mtb garmin review gps
 description: "Garmin Edge 500 vs. Edge 510 Review: Stick with Edge 500 - A comparative analysis highlighting why sticking with the Garmin Edge 500 model is recommended."
 last_modified_at: '2023-07-24T00:00:00+01:00'

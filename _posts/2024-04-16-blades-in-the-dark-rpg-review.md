@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Blades in the Dark: A Heist for the Tabletop Ages'
-date: 2024-04-16
+date: "2024-04-16"
 tags: [board-games, rpg, heist, strategy, review]
 description: 'Comprehensive review of Blades in the Dark, the tabletop RPG where you lead a gang of criminals in a dark, industrial-fantasy city.'
 ---

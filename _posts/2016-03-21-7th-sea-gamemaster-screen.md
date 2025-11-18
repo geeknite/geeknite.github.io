@@ -1,6 +1,6 @@
-﻿---
+---
 title: "7th Sea: Gamemaster Screen - Is It Worth Your Doubloons?"
-date: 2016-03-21
+date: "2016-03-21"
 tags: [7th-sea, rpg, review, gamemaster, tabletop-rpg, gm-tools]
 description: "An in-depth and amusing review of the 7th Sea: Gamemaster Screen. Let's find out if it's a treasure or just another piece of driftwood."
 ---

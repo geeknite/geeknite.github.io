@@ -1,6 +1,6 @@
-﻿---
+---
 title: "PS4 Neo Review: Blast from the Past or Still Worth It in 2025?"
-date: 2017-08-22
+date: "2017-08-22"
 tags: [playstation, ps4-neo, gaming, console, review]
 description: "Is PS4 Neo still worth your time and money in 2025? Find out in our comprehensive and humorous review."
 ---

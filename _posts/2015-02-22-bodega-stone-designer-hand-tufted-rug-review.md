@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bodega Stone Designer Hand Tufted Rug Review"
-date: 2015-02-22
+date: "2015-02-22"
 tags: [home-decor, rug, hand-tufted, interior-design, review]
 description: "Discover the elegance of the Bodega Stone Designer Hand Tufted Rug. A luxurious, comfortable addition to any living space."
 ---

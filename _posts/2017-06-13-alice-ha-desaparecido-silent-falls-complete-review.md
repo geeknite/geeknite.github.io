@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Alice ha desaparecido: Silent Falls Complete Review - Mystery Board Game Guide"
-date: 2017-06-13
+date: "2017-06-13"
 tags: [alice-ha-desaparecido, silent-falls, mystery-games, cooperative-games, detective-games, board-game-review]
 description: "Complete bilingual review of Alice ha desaparecido: Silent Falls - innovative text-based mystery board game. Solve Alice's disappearance in this cooperative thriller!"
 ---

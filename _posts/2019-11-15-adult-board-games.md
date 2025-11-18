@@ -1,6 +1,6 @@
 ---
 title:  'Adult board gaming'
-date:   2019-11-15 17:00:00 +0200
+date: "2019-11-15 17:00:00 +0200"
 tags: [board-games, gaming]
 description: 'Adult Board Games: Fun Entertainment for Grown-Ups - Explore a selection of entertaining board games for adults.'
 last_modified_at: '2023-07-06T00:00:00+02:00'

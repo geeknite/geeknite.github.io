@@ -51,27 +51,29 @@ The remote lockout is convenient, but it sometimes feels like it's auditioning f
 
 ### Suspension Sensitivity
 
-The suspension system is fantastic, but it can be a bit *too* sensitive. If you're the kind of rider who enjoys plowing through potholes, you might find yourself bouncing more than you'd like.
+The suspension system is fantastic, but it can be a bit _too_ sensitive. If you're the kind of rider who enjoys plowing through potholes, you might find yourself bouncing more than you'd like.
 
 ## Comparison with Other Seatposts
 
-### [RockShox Reverb]({%- post_url 2023-07-06-rockshox-reverb-review -%})
+### [RockShox Reverb]({{ site.constants.wsib }}rockshox-reverb)
+
 The RockShox Reverb offers similar features but comes at a significantly higher price point. If you're looking for a premium option, it's worth considering.
 
-### [Thomson Elite]({%- post_url 2023-03-26-thomson-elite-review -%})
+### [Thomson Elite]({{ site.constants.wsib }}thomson-elite)
+
 The Thomson Elite is another great alternative. While lacking remote lockout, it provides excellent durability and comfort, making it a solid choice for budget-conscious riders.
 
 ## Conclusions
 
 So, is the Kind Shock seatpost worth it? If you're looking for a budget-friendly suspension seatpost with solid features and can tolerate a few quirks, the answer is yes. It's accurate, affordable, and gets the job done. Just be prepared for a bit of drama with the remote lockout.
 
-At the time of writing this review, [the Kind Shock seatpost is priced at $159.99 on Amazon](https://www.amazon.com/dp/B09XX5FVHJ?tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref_=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher.
+At the time of writing this review, [the Kind Shock seatpost is priced at $159.99 on Amazon](https://www.amazon.com/dp/B09XX5FVHJ?tag={{ site.constants.amazon*com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref*=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher.
 
 **Related Reviews & Comparisons:**
 
-- [RockShox Reverb Review: Premium Suspension Seatpost]({% post_url 2023-07-06-rockshox-reverb-review %})
-- [Thomson Elite Review: Durable and Comfortable]({% post_url 2023-03-26-thomson-elite-review %})
-- [SRAM Hammerhead Karoo Review]({% post_url 2025-03-20-sram-karoo-review %})
+- [RockShox Reverb Review: Premium Suspension Seatpost]({{ site.constants.wsib }}rockshox-reverb)
+- [Thomson Elite Review: Durable and Comfortable]({{ site.constants.wsib }}thomson-elite)
+- [SRAM Hammerhead Karoo Review]({{ site.constants.wsib }}sram-karoo)
 
 **Ready to upgrade your cycling experience? Get the Kind Shock seatpost now and ride like a pro!**
 {% include amazon.html asin="B09XX5FVHJ" imageUrl="https://i.imgur.com/UmrVWy4m.jpg" %}

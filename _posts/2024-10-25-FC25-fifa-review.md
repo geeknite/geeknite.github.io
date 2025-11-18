@@ -1,6 +1,6 @@
 ---
 title: "FC25: The Most Ridiculous Yet Addictive Game Ever Created"
-date: 2025-03-14
+date: "2025-03-14"
 tags: [FC25, FIFA, gaming, review, football, soccer, EA Sports]
 description: "Dive into the hilarious and addictive world of FC25 (formerly FIFA). Explore its gameplay, graphics, pros, cons, and why it’s the ultimate guilty pleasure for gamers."
 ---

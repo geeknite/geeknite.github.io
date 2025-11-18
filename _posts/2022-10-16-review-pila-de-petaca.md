@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Review: La Pila de Petaca en 2025"
-date: 2022-10-16
+date: "2022-10-16"
 tags:
 - review
 - español

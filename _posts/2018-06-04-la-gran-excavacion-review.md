@@ -1,6 +1,6 @@
-﻿---
+---
 title: "La Gran Excavación: ¿El mejor juego de aventura del año?"
-date: 2018-06-04
+date: "2018-06-04"
 tags: [gaming, review, aventura, juegos]
 description: "Exploramos La Gran Excavación, el juego que está conquistando el mundo de los videojuegos de aventura. ¿Será tan grandioso como dicen?"
 ---

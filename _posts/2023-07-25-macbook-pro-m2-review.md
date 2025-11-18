@@ -1,6 +1,6 @@
 ---
 title: "MacBook Pro M2: The Ultimate Geek's Dream Machine"
-date: 2023-07-25
+date: "2023-07-25"
 categories: [MacBook, Apple, Gadgets]
 tags: [MacBook Pro, M2, Apple, Review, Technology, Geek]
 description: "A comprehensive and humorous review of the MacBook Pro M2, exploring its features, performance, and why it's the ultimate geek's dream machine."

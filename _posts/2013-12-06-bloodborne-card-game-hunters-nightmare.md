@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bloodborne: The Card Game - The Hunter's Nightmare Expansion Review"
-date: 2013-12-06
+date: "2013-12-06"
 tags: [board games, review, Bloodborne, card games, expansions]
 ---
 

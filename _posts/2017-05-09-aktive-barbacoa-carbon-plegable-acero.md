@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Aktive Barbacoa Carbón Plegable Acero 89x22x32 CM: La Revolución Amarilla"
-date: 2017-05-09
+date: "2017-05-09"
 tags: [barbacoa, review, verano, jardin, outdoor, grill, portable]
 description: "Una revisión detallada y divertida de la barbacoa plegable de carbón Aktive. Descubre si esta barbacoa es la indicada para tus parrilladas."
 ---

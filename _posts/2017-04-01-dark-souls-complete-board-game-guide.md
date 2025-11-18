@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Dark Souls: The Board Game Complete Guide - Reviews, Expansions & Survival Strategies"
-date: 2017-04-01
+date: "2017-04-01"
 tags: [dark-souls, board-games, steamforged-games, dungeon-crawler, coop-games, miniatures, expansion-reviews]
 description: "The ultimate guide to Dark Souls: The Board Game series - comprehensive reviews of base game, expansions like Asylum Demon and Gaping Dragon, complete survival strategies for Lordran."
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Samsung 850 EVO 250GB SSD: The Flashy Storage that Could"
-date: 2014-12-01
+date: "2014-12-01"
 tags: [samsung, 850-evo, ssd, storage, pc-hardware, review]
 description: "An in-depth and humorous review of the Samsung 850 EVO 250GB SSD. Is it the reliable storage solution you've been searching for?"
 ---

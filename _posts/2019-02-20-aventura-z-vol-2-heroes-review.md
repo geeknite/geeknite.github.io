@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Aventura Z: Vol. 2 Héroes Review"
-date: 2019-02-20
+date: "2019-02-20"
 tags: [aventura z, héroes, review, juegos, geeknite]
 ---
 

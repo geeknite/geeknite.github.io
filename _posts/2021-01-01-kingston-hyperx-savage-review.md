@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Kingston HyperX Savage 16GB Kit (2x8GB) 1866MHz DDR3 CL9 Review"
-date: 2021-01-01
+date: "2021-01-01"
 tags: [Kingston, HyperX, Savage, DDR3, Gaming, Review]
 description: "A comprehensive and humorous review of the Kingston HyperX Savage 16GB Kit (2x8GB) 1866MHz DDR3 CL9. Discover its performance, quirks, and why it might be your next RAM upgrade!"
 ---
@@ -94,4 +94,4 @@ The Kingston HyperX Savage 16GB Kit (2x8GB) 1866MHz DDR3 CL9 is a fantastic choi
 
 {% include amazon.html asin="B00A7720U8" imageUrl="https://example.com/kingston-hyperx-savage.jpg" %}
 
-Happy building, and stay geeky! ðŸ–¥ï¸âœ¨
+Happy building, and stay geeky! 🖥️✨

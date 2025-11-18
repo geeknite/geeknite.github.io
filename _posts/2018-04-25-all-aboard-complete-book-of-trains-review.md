@@ -1,6 +1,6 @@
-﻿---
-title: "All Aboard! The Complete Book of Trains Review 📚"
-date: 2018-04-25
+---
+title: "All Aboard! The Complete Book of Trains Review ??"
+date: "2018-04-25"
 tags: [trains, books, review, railway-enthusiasts, educational, children-books]
 description: "Comprehensive review of All Aboard! The Complete Book of Trains - the ultimate illustrated guide for railway enthusiasts and collectors covering steam locomotives, bullet trains, and railway history."
 ---
@@ -147,4 +147,3 @@ The book's comprehensive coverage reduces the need for multiple specialized volu
 - [Wooden Train Track Set Review]({%- post_url 2019-08-08-all-aboard-wooden-train-set -%}) - Educational railway toys for children
 - [7 Wonders Complete Board Game Guide]({%- post_url 2010-06-01-7-wonders-complete-board-game-guide -%}) - Strategic thinking and historical development
 - [Ticket to Ride Board Game Review]({%- post_url 2004-10-01-ticket-to-ride-review -%}) - Railway-themed strategic gaming
-- [Board Game Card Sleeves Complete Guide]({%- post_url 2014-02-15-board-game-card-sleeves-complete-guide -%}) - Protecting game components

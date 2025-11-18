@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Review: Black Stories Juego de Tablero - Misterio, Risas y Lógica"
-date: 2024-01-06
+date: "2024-01-06"
 tags:
 - juegos de mesa
 - reseñas

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Eaton 9Px Ebm 180V 5Kva 6Kva Review"
-date: 2023-08-14
+date: "2023-08-14"
 tags: [ups, eaton, battery-module, review]
 description: "Review of the Eaton 9PX Extended Battery Module - because power outages are the real villains!"
 ---

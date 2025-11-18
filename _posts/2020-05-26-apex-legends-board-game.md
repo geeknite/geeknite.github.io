@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Apex Legends: The Board Game Review"
-date: 2020-05-26
+date: "2020-05-26"
 tags: [board-games, apex-legends, review, battle-royale, strategic, miniatures]
 description: "Dive into the world of Apex Legends with the board game adaptation."
 ---

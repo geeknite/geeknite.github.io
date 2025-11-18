@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Killzone Shadow Fall Review: A Sci-Fi Shooter That'll Make You Feel Like a Space Marine"
-date: 2013-11-15
+date: "2013-11-15"
 tags: [Killzone, Shadow Fall, gaming, PS4, review, sci-fi]
 description: "Dive into the thrilling world of Killzone Shadow Fall with our comprehensive review. Explore its gameplay, graphics, pros, cons, and why it's a must-play for sci-fi shooter fans."
 ---

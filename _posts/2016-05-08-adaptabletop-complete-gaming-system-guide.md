@@ -1,6 +1,6 @@
-﻿---
+---
 title: "AdapTableTop Complete Gaming System Guide: Modular Tiles, Game Mats, Expansions 2025"
-date: 2016-05-08
+date: "2016-05-08"
 tags: [board-games, accessories, adaptabletop, modular-tiles, game-mat, tabletop, organization, review]
 description: "The ultimate guide to AdapTableTop gaming systems. Complete reviews of modular tiles, game mats, and expansion sets with expert recommendations for 2025."
 ---

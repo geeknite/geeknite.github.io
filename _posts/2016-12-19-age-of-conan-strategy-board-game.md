@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Age of Conan: The Strategy Board Game Review"
-date: 2016-12-19
+date: "2016-12-19"
 tags: [board-games, review, age-of-conan, strategy-games, hyboria, conan]
 description: "A hilarious and detailed review of Age of Conan: The Strategy Board Game. Dive into the Hyborian Age and experience epic battles, treacherous politics, and grand adventures!"
 ---

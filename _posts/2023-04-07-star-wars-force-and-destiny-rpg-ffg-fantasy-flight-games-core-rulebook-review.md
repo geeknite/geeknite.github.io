@@ -1,7 +1,7 @@
 ---
 title: 'Star Wars Force and Destiny RPG FFG Fantasy Flight Games Core Rulebook Review'
-date: 2025-10-07
-last_modified_at: 2025-10-07
+date: "2025-10-07"
+last_modified_at: "2025-10-07"
 categories: [RPG, Star Wars, Review, Fantasy Flight Games, Core Rulebook]
 tags: [Star Wars, RPG, Force and Destiny, Fantasy Flight Games, Review]
 description: "A comprehensive and humorous review of the Star Wars Force and Destiny RPG Core Rulebook by Fantasy Flight Games. Dive into the intricacies and hilarity of mastering the Force!"

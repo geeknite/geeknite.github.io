@@ -1,6 +1,6 @@
-﻿---
+---
 title: "La Funda de Móvil Definitiva: Un Análisis en Detalle"
-date: 2015-05-23
+date: "2015-05-23"
 tags: [gadgets, móvil, review, tecnología]
 ---
 

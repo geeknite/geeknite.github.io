@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'All Aboard: A Musical Journey'
-date: 2018-08-27
+date: "2018-08-27"
 tags: [musical, board-game, review, strategy, family-game]
 description: 'All Aboard: A Musical Journey - a thorough review of this musical-themed board game. Join us as we dive deep into the components, gameplay, and overall experience!'
 ---

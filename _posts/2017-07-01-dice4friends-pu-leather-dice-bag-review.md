@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Review: Dice4Friends PU-Leather Bag (Black)"
-date: 2017-07-01
+date: "2017-07-01"
 tags: [dice4friends, dice-bag, pu-leather, board-game-accessories, tabletop, review]
 description: "A comprehensive and humorous review of the Dice4Friends PU-Leather Bag (Black). Is it worth the hype?"
 ---
@@ -35,7 +35,7 @@ When it comes to functionality, the Dice4Friends PU-Leather Bag does not disappo
 
 ### Cons
 - **Drawstring Durability**: Some users have reported that the drawstring can wear out over time.
-- **Limited Colors**: Currently, it is only available in black, which might not suit everyone's tasteã€4:0â€ sourceã€‘.
+- **Limited Colors**: Currently, it is only available in black, which might not suit everyone's taste【4:0†source】.
 
 ## User Experience
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Armageddon Review: The Apocalypse We All Needed"
-date: 2020-12-10
+date: "2020-12-10"
 tags: [movies, review, Armageddon, humor]
 description: "Dive into the chaotic masterpiece that is Armageddon. A hilarious yet comprehensive review of the movie that made Bruce Willis a household name in every household facing impending doom."
 ---
@@ -55,7 +55,7 @@ If you don't shed a tear when Harry says goodbye to Grace, you might want to che
 ### Pros
 
 - **Explosive Action**: Literally, there are explosions everywhere. If you love action, you're in for a treat.
-- **Star-Studded Cast**: Bruce Willis, Ben Affleck, Liv Tylerâ€¦ the list goes on.
+- **Star-Studded Cast**: Bruce Willis, Ben Affleck, Liv Tyler… the list goes on.
 - **Humor**: The one-liners and jokes keep you entertained amidst the chaos.
 - **Emotional Depth**: Surprisingly, the movie has moments that tug at your heartstrings.
 
@@ -71,8 +71,8 @@ If you don't shed a tear when Harry says goodbye to Grace, you might want to che
 
 **Ready to face the apocalypse?** Head over to [Geeknite's Movie Section](https://geeknite.com/movies) and stream Armageddon today. It's time to blow up some asteroids and save humanity, one explosion at a time!
 
-## Other Disaster Movies to Check Out
+## Other Great Movies to Check Out
 
-If you love Armageddon, be sure to check out our reviews of [Independence Day]({%- post_url 2024-04-01-independence-day-review -%}) or [The Day After Tomorrow]({%- post_url 2019-07-10-day-after-tomorrow-review -%}).
+If you love Armageddon's epic storytelling, be sure to check out our reviews of [Babylon]({%- post_url 2021-06-07-babylon-review -%}) or [The Passion of Joan of Arc]({%- post_url 2018-05-25-the-passion-of-joan-of-arc-review -%}).
 
 **Ready to save the world? Click [here]({{ site.constants.wsib }}armageddon) to stream Armageddon today and receive an exclusive discount! Happy watching!**

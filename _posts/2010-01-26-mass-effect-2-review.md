@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Mass Effect 2 Review: Space Shenanigans and Epic Adventures'
-date: 2010-01-26
+date: "2010-01-26"
 tags: ['Mass Effect', 'Gaming', 'Review']
 ---
 

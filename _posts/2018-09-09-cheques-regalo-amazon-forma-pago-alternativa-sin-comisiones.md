@@ -1,7 +1,7 @@
 ---
 
 title:  "Cheques regalo de amazon como forma de pago alternativa sin comisiones"
-date:   2018-09-09 17:00:00 +0200
+date: "2018-09-09 17:00:00 +0200"
 tags: amazon españa español europe smartshopping
 description: "Cheques Regalo Amazon: Forma de Pago Alternativa sin Comisiones - Exploring Amazon gift cards as an alternative payment method without additional fees."
 last_modified_at: '2023-07-06T00:00:00+02:00'

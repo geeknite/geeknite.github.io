@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Ticket to Ride: A Whimsical Journey Through the Rails"
-date: 2004-10-01
+date: "2004-10-01"
 tags: [board games, review, Ticket to Ride, railway games]
 ---
 

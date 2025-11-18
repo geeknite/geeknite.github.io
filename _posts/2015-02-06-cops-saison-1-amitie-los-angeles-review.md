@@ -1,6 +1,6 @@
-﻿---
+---
 title: "COPS - Saison 1 - Amitiés de Los Angeles: Un análisis cómico"
-date: 2015-02-06
+date: "2015-02-06"
 tags: ["COPS", "Review", "Televisión", "Series", "Los Angeles"]
 ---
 

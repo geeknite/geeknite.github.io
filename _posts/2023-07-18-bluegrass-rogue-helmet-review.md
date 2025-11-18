@@ -11,7 +11,7 @@ tags:
     safety,
     cycling gear,
   ]
-date: 2023-07-18
+date: "2023-07-18"
 last_modified_at: "2025-08-13T10:00:00+02:00"
 redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
 ---

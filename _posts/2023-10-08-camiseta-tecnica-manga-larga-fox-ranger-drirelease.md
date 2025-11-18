@@ -1,6 +1,6 @@
 ---
 title: "Camiseta técnica de manga larga Fox Ranger Drirelease"
-date: 2023-10-08
+date: "2023-10-08"
 tags: [review, fox, mtb, apparel, humor]
 ---
 

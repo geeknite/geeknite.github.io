@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Malifaux 3E Core Rulebook Review: A Fantastical Adventure with Humor!"
-date: 2016-09-17
+date: "2016-09-17"
 tags: [malifaux, 3e, review, tabletop-games]
 description: "A hilarious and detailed review of the Malifaux 3E Core Rulebook. Dive into the whimsical world of Malifaux with a touch of humor!"
 ---

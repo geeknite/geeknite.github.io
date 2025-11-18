@@ -1,7 +1,7 @@
 ---
 
 title:  "Mochila hidratación Osprey Viper 13 por 54€ y otras ofertas"
-date:   2018-11-06 17:00:00 +0200
+date: "2018-11-06 17:00:00 +0200"
 tags: mtb mochila osprey offers discount sports
 redirect_to: https://bikinggeek.github.io/2018/11/mochila-hidratacion-osprey-viper-13-por-54-euros.html
 ---

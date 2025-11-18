@@ -1,6 +1,6 @@
 ---
 title: "Baldur's Gate 3: The Epic RPG You Didn't Know You Needed"
-date: 2023-08-15
+date: "2023-08-15"
 categories: [gaming, review, Baldur's Gate 3]
 tags: [Baldur's Gate 3, RPG, review, gaming]
 description: "Dive into the world of Baldur's Gate 3 with our hilarious and detailed review. Discover why this game is a must-play for RPG enthusiasts."

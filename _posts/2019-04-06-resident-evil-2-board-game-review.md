@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Resident Evil 2: The Board Game - Survival Review"
-date: 2019-04-06
+date: "2019-04-06"
 tags: ["board games", "Resident Evil 2", "survival", "review"]
 description: "A funny and detailed review of Resident Evil 2: The Board Game. Find out if this survival horror game is worth your time!"
 ---

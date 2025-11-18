@@ -1,7 +1,7 @@
 ---
 
 title:  "Vale la pena ser Prime en amazon.es en 2018?"
-date:   2018-09-02 17:00:00 +0200
+date: "2018-09-02 17:00:00 +0200"
 tags: amazon españa español europe smartshopping prime
 ---
 

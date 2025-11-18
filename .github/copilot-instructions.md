@@ -146,3 +146,4 @@ tags: [tag1, tag2, tag3]
 3. **Remember** to update date in frontmatter when creating posts
 4. When linking to posts, verify the exact filename (dates matter!)
 5. Imgur image URLs should use the `/...s.jpg` (small) or full size format consistently
+6. Always keep UTF-8 encoding for special characters (é, ñ, ü, etc.)

@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA GeForce RTX 4080 Review: The New Beast in Town"
-date: 2023-09-13
+date: "2023-09-13"
 tags: [nvidia, graphics card, review, gaming, hardware]
 ---
 

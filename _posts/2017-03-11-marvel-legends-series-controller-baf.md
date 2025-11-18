@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Marvel Legends Series 2022: Controller BAF - A Hilarious Review"
-date: 2017-03-11
+date: "2017-03-11"
 tags: ["action figures", "Marvel", "review", "Controller BAF", "collectibles"]
 description: "Dive into the fun and amusing review of Marvel Legends Series 2022 Controller BAF action figure. Find out why this collectible is a must-have for Marvel fans!"
 ---

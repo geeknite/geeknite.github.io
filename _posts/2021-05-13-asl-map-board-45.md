@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ASL Map Board 45 Review: Tactics, Terrain, and Triumph"
-date: 2021-05-13
+date: "2021-05-13"
 tags: [asl, board-games, strategy, review, wargame, advanced-squad-leader]
 description: "Comprehensive review of ASL Map Board 45, featuring tactical analysis and gameplay insights."
 ---

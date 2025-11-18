@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Fallout 4 Review: Nukes, Bugs, and Endless Fun"
-date: 2015-11-10
-last_modified_at: 2025-10-07
+date: "2015-11-10"
+last_modified_at: "2025-10-07"
 last_modified_by: Geeknite
 tags: [gaming, fallout, rpg, review]
 description: "A comprehensive review of Fallout 4 - exploring the wasteland's immersive world, endless customization, and yes, those infamous bugs."

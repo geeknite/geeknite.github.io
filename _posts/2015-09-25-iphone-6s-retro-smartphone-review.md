@@ -1,6 +1,6 @@
-﻿---
+---
 title: "iPhone 6s Review: Blast from the Past or Just Old News?"
-date: 2015-09-25
+date: "2015-09-25"
 tags: [iphone, apple, smartphone, ios, retro-tech, review]
 description: "Is the iPhone 6s still worth buying in 2025? Join us as we take a nostalgic journey through Apple's iconic device."
 ---

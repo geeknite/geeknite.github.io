@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Corsair Builder Series CX 600: The Ultimate Power Supply Review"
-date: 2019-12-21
+date: "2019-12-21"
 tags: [Corsair, power supply, review, tech, funny]
 description: "A hilarious and detailed review of the Corsair Builder Series CX 600 power supply. Discover its features, performance, and why you need this power supply in your life."
 ---
@@ -15,13 +15,13 @@ Hello, Geeknite readers! Today, we're diving into the electrifying world of powe
 
 Here's a quick rundown of the Corsair Builder Series CX 600's specs:
 
-| Feature | Specification |
-|---------|----------------|
-| **Wattage** | 600W |
+| Feature        | Specification  |
+| -------------- | -------------- |
+| **Wattage**    | 600W           |
 | **Efficiency** | 80 Plus Bronze |
-| **Fan Size** | 120mm |
-| **Modular** | Semi-Modular |
-| **Warranty** | 3 years |
+| **Fan Size**   | 120mm          |
+| **Modular**    | Semi-Modular   |
+| **Warranty**   | 3 years        |
 
 ### Efficiency and Certification
 
@@ -61,10 +61,12 @@ Installing the CX 600 is a breeze, even for beginners. The semi-modular design m
 
 ## Comparison with Other Power Supplies
 
-### [EVGA 600W Bronze]({% post_url 2024-05-02-evga-600w-bronze-review %})
+### [EVGA 600W Bronze]({{ site.constants.wsib }}evga-600w-bronze)
+
 The EVGA 600W Bronze offers similar efficiency and performance but comes with a fully modular design. However, it's slightly pricier than the CX 600.
 
-### [Seasonic S12III 620W]({% post_url 2023-12-15-seasonic-s12iii-620w-review %})
+### [Seasonic S12III 620W]({{ site.constants.wsib }}seasonic-s12iii-620w)
+
 The Seasonic S12III 620W provides excellent reliability and a longer warranty period. It's a great option if you're willing to spend a bit more for peace of mind.
 
 ## Conclusion

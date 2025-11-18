@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Nintendo DS Lite Review: The Ultimate Retro Handheld"
-date: 2006-03-02
+date: "2006-03-02"
 tags: [nintendo, ds-lite, retro-gaming, handheld-console, review]
 description: "A hilarious and comprehensive review of the Nintendo DS Lite. Discover its features, quirks, and why it remains a beloved handheld console!"
 ---

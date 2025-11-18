@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Protector Hori para 3DS: ¿El Escudo Definitivo?"
-date: 2022-08-25
+date: "2022-08-25"
 tags: [nintendo, 3ds, hori, screen-protector, gaming-accessories, review]
 description: "Una revisión detallada y divertida del protector Hori para 3DS. ¿Realmente protege tu consola de rayones y caídas?"
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Fire Emblem Awakening: A Tactical RPG Masterpiece"
-date: 2013-04-19
+date: "2013-04-19"
 tags: [gaming, fire-emblem, awakening, rpg, tactical-rpg, nintendo-3ds, review]
 description: "Dive into the world of Fire Emblem Awakening with our funny and in-depth review. Find out why this tactical RPG is a must-play for fans of the genre."
 ---

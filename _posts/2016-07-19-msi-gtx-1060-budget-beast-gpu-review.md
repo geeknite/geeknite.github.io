@@ -1,6 +1,6 @@
-﻿---
+---
 title: "MSI GTX 1060 Review: The Budget Beast"
-date: 2016-07-19
+date: "2016-07-19"
 tags: [msi, gtx-1060, graphics-card, gpu, gaming, pc-hardware, review]
 description: "Comprehensive review of the MSI GTX 1060 graphics card. Is this budget beast still worth it in 2025?"
 ---

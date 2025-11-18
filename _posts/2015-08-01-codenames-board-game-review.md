@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'Codenames Board Game Review: Wordplay and Strategy at its Best'
-date: 2015-08-01
+date: "2015-08-01"
 tags: ['board games', 'review', 'Codenames', 'word games', 'party games']
 description: 'A hilarious and comprehensive review of Codenames board game. Discover why this wordplay game is a must-have for party nights!'
 ---

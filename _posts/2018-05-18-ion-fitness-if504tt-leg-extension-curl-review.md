@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Accesorio Para Extensión Y Curl De Piernas Ion Fitness If504tt: Reseña Completa"
-date: 2018-05-18
+date: "2018-05-18"
 tags: [fitness, gym-equipment, leg-extension, review]
 description: "Una revisión completa y divertida del accesorio para extensión y curl de piernas Ion Fitness If504tt, perfecto para tu gimnasio semiprofesional."
 ---

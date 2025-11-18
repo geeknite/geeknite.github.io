@@ -1,7 +1,7 @@
 ---
 
 title:  "Benefits of mountain biking"
-date:   2019-11-15 17:00:00 +0200
+date: "2019-11-15 17:00:00 +0200"
 tags: mtb cycling
 redirect_from:
     - /2019/11/benefits-of-mountain-biking.html

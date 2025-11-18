@@ -1,6 +1,6 @@
-﻿---
+---
 title: "La Régie du Jeu: El Juego de Mesa Francés que no Sabías que Necesitabas"
-date: 2021-03-02
+date: "2021-03-02"
 tags: [board games, review, humor, geeknite]
 ---
 

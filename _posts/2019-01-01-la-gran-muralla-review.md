@@ -1,6 +1,6 @@
-﻿---
+---
 title: "La Gran Muralla: Contenido Adicional de la Campaña (versión Miniaturas)"
-date: 2019-01-01
+date: "2019-01-01"
 categories: [Board Games, Reviews, Miniatures]
 tags: [La Gran Muralla, Board Games, Campaign, Miniatures]
 ---

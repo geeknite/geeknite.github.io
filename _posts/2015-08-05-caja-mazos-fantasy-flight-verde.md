@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Caja para mazos Fantasy Flight Games Verde"
-date: 2015-08-05
+date: "2015-08-05"
 tags: [board games, accessories, fantasy flight games, review]
 description: "Una revisión divertida y completa de la caja para mazos Fantasy Flight Games Verde."
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Corsair Vengeance 8 GB (2 x 4 GB) DDR3 1600 MHz: A Geek's Review"
-date: 2020-02-01
+date: "2020-02-01"
 categories: [Hardware, Corsair, PC Build]
 tags: [Corsair Vengeance, RAM, DDR3, Review, Geek]
 description: "A comprehensive and humorous review of the Corsair Vengeance 8 GB DDR3 1600 MHz RAM. Find out why it's the go-to choice for budget-conscious geeks."
@@ -10,7 +10,7 @@ description: "A comprehensive and humorous review of the Corsair Vengeance 8 GB 
 
 Hello, fellow hardware aficionados! Today, we're diving deep into the world of RAM with a review of the **Corsair Vengeance 8 GB (2 x 4 GB) DDR3 1600 MHz** kit. If you're looking to upgrade your rig without having to sell your kidney, you've come to the right place.
 
-![Corsair Vengeance DDR3](https://www.corsair.com/ww/en/Categories/Products/Memory/VENGEANCE-Â®-DDR3-8GB-%282-x-4GB%29-CMZ8GX3M2A1600C9/p/CMZ8GX3M2A1600C9){: .align-right}
+![Corsair Vengeance DDR3](https://www.corsair.com/ww/en/Categories/Products/Memory/VENGEANCE-®-DDR3-8GB-%282-x-4GB%29-CMZ8GX3M2A1600C9/p/CMZ8GX3M2A1600C9){: .align-right}
 
 ## The Basics: What's in the Box?
 

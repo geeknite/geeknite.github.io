@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Racing Board Games of 2023"
-date: 2023-06-15
+date: "2023-06-15"
 tags: [board games, racing, tabletop gaming]
 ---
 

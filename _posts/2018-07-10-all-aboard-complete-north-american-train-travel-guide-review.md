@@ -1,6 +1,6 @@
-﻿---
+---
 title: 'All Aboard: The Complete North American Train Travel Guide - A Hilarious Journey'
-date: 2018-07-10
+date: "2018-07-10"
 tags: [train travel, travel guide, North America, review, humor]
 ---
 

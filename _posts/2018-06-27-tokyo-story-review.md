@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Tokyo Story: A Timeless Masterpiece"
-date: 2018-06-27
+date: "2018-06-27"
 tags: [movie review, classic cinema, Tokyo Story, Japanese film]
 ---
 
@@ -8,7 +8,7 @@ tags: [movie review, classic cinema, Tokyo Story, Japanese film]
 
 ## Introduction
 
-Welcome back, cinephiles! Today, we're diving into the melancholic beauty of YasujirÅ Ozu's classic, **Tokyo Story**. Grab your tissues, because this 1953 film is a rollercoaster of emotions that will leave you reflecting on the complexities of family life and the passage of time.
+Welcome back, cinephiles! Today, we're diving into the melancholic beauty of Yasujirō Ozu's classic, **Tokyo Story**. Grab your tissues, because this 1953 film is a rollercoaster of emotions that will leave you reflecting on the complexities of family life and the passage of time.
 
 ## Plot Summary
 
@@ -16,10 +16,10 @@ Tokyo Story follows an elderly couple who visit their adult children in bustling
 
 ### Characters
 
-- **ShÅ«kichi Hirayama**: The devoted but weary patriarch, masterfully played by ChishÅ« RyÅ«.
+- **Shūkichi Hirayama**: The devoted but weary patriarch, masterfully played by Chishū Ryū.
 - **Tomi Hirayama**: The loving mother whose silent suffering speaks volumes, portrayed by Chieko Higashiyama.
 - **Shige Kaneko**: Their indifferent daughter, whose actions are a harsh reflection of societal changes.
-- **KyÅko Hirayama**: The youngest daughter, still holding on to traditional values.
+- **Kyōko Hirayama**: The youngest daughter, still holding on to traditional values.
 - **Noriko**: The widowed daughter-in-law, played by Setsuko Hara, who becomes the emotional anchor of the film.
 
 ## Cinematography and Direction
@@ -40,7 +40,7 @@ The film raises questions about filial duty and personal ambition. The children 
 
 ### Acting
 
-The performances are subtle yet powerful. ChishÅ« RyÅ« and Chieko Higashiyama deliver heartbreakingly authentic portrayals of aging parents. Setsuko Hara's role as Noriko is particularly memorable; her kindness and empathy provide a stark contrast to the children's indifference.
+The performances are subtle yet powerful. Chishū Ryū and Chieko Higashiyama deliver heartbreakingly authentic portrayals of aging parents. Setsuko Hara's role as Noriko is particularly memorable; her kindness and empathy provide a stark contrast to the children's indifference.
 
 ### Cultural Influence
 

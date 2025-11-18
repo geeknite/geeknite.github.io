@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Authentic Wood Scrabble Tiles From Original Games - Engraved Letters"
-date: 2021-12-25
+date: "2021-12-25"
 tags: [board games, Scrabble, review, tile games, nostalgic games]
 description: "A comprehensive and hilarious review of authentic wood Scrabble tiles from original games. Discover the charm and occasional chaos of these engraved letters."
 ---

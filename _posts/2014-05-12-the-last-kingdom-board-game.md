@@ -1,6 +1,6 @@
-﻿---
+---
 title: "The Last Kingdom Board Game Review"
-date: 2014-05-12
+date: "2014-05-12"
 tags: ["board games", "review", "The Last Kingdom"]
 description: "Dive into the world of The Last Kingdom with our hilarious and thorough review of the board game."
 ---

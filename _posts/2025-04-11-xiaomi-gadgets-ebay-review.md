@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi Gadgets on eBay: What's Hot in 2025"
-date: 2025-04-11
+date: "2025-04-11"
 description: "Join us for a rollercoaster ride through the latest Xiaomi gadgets available on eBay in 2025. Tech, humor, and shopping tips included!"
 tags: [Xiaomi, eBay, gadgets, reviews, shopping]
 ---

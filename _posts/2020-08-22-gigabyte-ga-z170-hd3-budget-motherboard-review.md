@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Gigabyte GA-Z170-HD3 Review: The Budget Hero"
-date: 2020-08-22
+date: "2020-08-22"
 tags: [gigabyte, motherboard, pc-hardware, z170, review]
 description: "A hilarious and in-depth review of the Gigabyte GA-Z170-HD3 motherboard."
 ---

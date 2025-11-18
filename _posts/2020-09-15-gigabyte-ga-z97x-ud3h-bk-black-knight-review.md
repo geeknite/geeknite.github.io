@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Gigabyte GA-Z97X-UD3H-BK Review: The Black Knight of Motherboards"
-date: 2020-09-15
+date: "2020-09-15"
 tags: [gigabyte, motherboard, pc-hardware, z97x, overclocking, review]
 description: "A humorous yet thorough review of the Gigabyte GA-Z97X-UD3H-BK motherboard. Is it the hero your PC build deserves? Find out!"
 ---

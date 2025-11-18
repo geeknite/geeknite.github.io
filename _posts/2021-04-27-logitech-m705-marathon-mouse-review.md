@@ -1,7 +1,7 @@
-﻿---
+---
 layout: single
 title: "Logitech M705 Marathon Mouse: Complete Review & Long-Term Analysis"
-date: 2021-04-27
+date: "2021-04-27"
 categories: [Tech, Reviews, Peripherals]
 tags: [logitech, mouse, review, tech, gadgets, productivity, wireless, ergonomic]
 excerpt: "Complete review of the Logitech M705 Marathon Mouse covering design, performance, legendary battery life, and how it compares to competitors after extensive use."
@@ -21,7 +21,7 @@ The Logitech M705 Marathon Mouse has earned legendary status in the tech communi
 
 The M705 is Logitech's answer to the question nobody asked but everyone needed: "What if I never had to change mouse batteries again?" This wireless mouse focuses on longevity, comfort, and reliability rather than flashy gaming features or premium materials.
 
-**âœ… VERIFIED SPECIFICATIONS:**
+**✅ VERIFIED SPECIFICATIONS:**
 - **Battery Life**: Up to 3 years (2 AA batteries)
 - **Sensor**: Laser tracking (1000 DPI)
 - **Connectivity**: 2.4GHz wireless via Unifying Receiver
@@ -29,7 +29,7 @@ The M705 is Logitech's answer to the question nobody asked but everyone needed: 
 - **Buttons**: 7 programmable buttons
 - **Scroll Wheel**: Hyper-fast scrolling with mode switching
 - **Compatibility**: Windows, macOS, Linux, Chrome OS
-- **Dimensions**: 109.2mm Ã— 69.6mm Ã— 42.5mm
+- **Dimensions**: 109.2mm × 69.6mm × 42.5mm
 - **Weight**: 135g (with batteries)
 
 ### Unboxing Experience
@@ -37,7 +37,7 @@ The M705 is Logitech's answer to the question nobody asked but everyone needed: 
 **What's in the Box:**
 - Logitech M705 mouse
 - Logitech Unifying USB receiver
-- 2Ã— AA batteries (pre-installed)
+- 2× AA batteries (pre-installed)
 - Quick start guide
 - User documentation
 
@@ -103,28 +103,28 @@ The M705's scroll wheel deserves special mention:
 - **Mode Toggle**: Small button behind wheel switches instantly
 
 **Practical Use Cases:**
-- âœ… Spreadsheets: Ratcheted mode for cell-by-cell precision
-- âœ… Long PDFs: Hyper-fast mode to zip through documents
-- âœ… Web browsing: Quick toggle depending on page length
-- âœ… Photo editing: Precise zooming with ratcheted mode
+- ✅ Spreadsheets: Ratcheted mode for cell-by-cell precision
+- ✅ Long PDFs: Hyper-fast mode to zip through documents
+- ✅ Web browsing: Quick toggle depending on page length
+- ✅ Photo editing: Precise zooming with ratcheted mode
 
-**ðŸ’¡ Pro Tip**: The hyper-fast scroll mode is genuinely useful, not a gimmick. You can scroll through a 500-page PDF in seconds.
+**💡 Pro Tip**: The hyper-fast scroll mode is genuinely useful, not a gimmick. You can scroll through a 500-page PDF in seconds.
 
 ### Build Quality Assessment
 
 **Strengths:**
-- âœ… Solid construction survives daily use
-- âœ… No rattling or loose parts
-- âœ… Buttons maintain consistent feel over time
-- âœ… Scroll wheel mechanism stays smooth
-- âœ… Rubber grips don't peel or wear quickly
+- ✅ Solid construction survives daily use
+- ✅ No rattling or loose parts
+- ✅ Buttons maintain consistent feel over time
+- ✅ Scroll wheel mechanism stays smooth
+- ✅ Rubber grips don't peel or wear quickly
 
 **Weaknesses:**
-- âš ï¸ Plastic feels utilitarian rather than premium
-- âš ï¸ No RGB lighting (if you care about that)
-- âš ï¸ Not designed for small hands or left-handed users
-- âš ï¸ Glossy Logitech logo attracts dust
-- âš ï¸ No adjustable DPI button (fixed at 1000 DPI)
+- ⚠️ Plastic feels utilitarian rather than premium
+- ⚠️ No RGB lighting (if you care about that)
+- ⚠️ Not designed for small hands or left-handed users
+- ⚠️ Glossy Logitech logo attracts dust
+- ⚠️ No adjustable DPI button (fixed at 1000 DPI)
 
 ---
 
@@ -140,14 +140,14 @@ The M705's scroll wheel deserves special mention:
 
 **Real-World Performance:**
 
-**âœ… Works Great On:**
+**✅ Works Great On:**
 - Fabric mousepads
 - Wood desks
 - Plastic desk mats
 - Leather surfaces
 - Paper
 
-**âš ï¸ Struggles On:**
+**⚠️ Struggles On:**
 - Glass tables (laser struggles)
 - Glossy surfaces
 - Reflective materials
@@ -161,11 +161,11 @@ The 1000 DPI sensor handles everything most users need:
 - No cursor jumping or erratic behavior
 
 **For Gaming:**
-- âš ï¸ **Not Ideal**: 1000 DPI is low for competitive gaming
-- âš ï¸ **No DPI Adjustment**: Can't increase sensitivity on the fly
-- âš ï¸ **Laser Sensor**: Gaming mice typically use optical sensors
-- âœ… **Casual Gaming**: Fine for strategy games, RPGs, casual play
-- âŒ **Competitive FPS**: Look elsewhere (Razer, Logitech G series)
+- ⚠️ **Not Ideal**: 1000 DPI is low for competitive gaming
+- ⚠️ **No DPI Adjustment**: Can't increase sensitivity on the fly
+- ⚠️ **Laser Sensor**: Gaming mice typically use optical sensors
+- ✅ **Casual Gaming**: Fine for strategy games, RPGs, casual play
+- ❌ **Competitive FPS**: Look elsewhere (Razer, Logitech G series)
 
 ### Wireless Connectivity
 
@@ -183,10 +183,10 @@ The M705 uses Logitech's proprietary Unifying USB receiver, a tiny dongle that c
 **Performance Testing:**
 
 **Range Test:**
-- âœ… 10 meters: Works perfectly
-- âœ… Through walls: Maintains connection
-- âœ… Desk clutter: No interference from other devices
-- âœ… Multiple monitors: No signal issues
+- ✅ 10 meters: Works perfectly
+- ✅ Through walls: Maintains connection
+- ✅ Desk clutter: No interference from other devices
+- ✅ Multiple monitors: No signal issues
 
 **Reliability:**
 - Months of use without a single disconnect
@@ -194,7 +194,7 @@ The M705 uses Logitech's proprietary Unifying USB receiver, a tiny dongle that c
 - Plug-and-play on all tested OSes
 - Receiver stores inside mouse for transport
 
-**âš ï¸ No Bluetooth**: The M705 uses a USB receiver, not Bluetooth. If you want Bluetooth connectivity, consider the Logitech MX Master series or other Bluetooth mice.
+**⚠️ No Bluetooth**: The M705 uses a USB receiver, not Bluetooth. If you want Bluetooth connectivity, consider the Logitech MX Master series or other Bluetooth mice.
 
 ### Software & Customization
 
@@ -239,7 +239,7 @@ The open-source Solaar utility provides similar functionality:
 
 Logitech's claim of **up to 3 years** battery life sounds like marketing nonsense, but it's surprisingly accurate for many users.
 
-**âœ… VERIFIED TESTING:**
+**✅ VERIFIED TESTING:**
 After 18 months of daily use (8+ hours/day):
 - Original AA batteries still functioning
 - Battery indicator shows ~40% remaining
@@ -271,7 +271,7 @@ After 18 months of daily use (8+ hours/day):
 - Plenty of warning before complete depletion
 - Standard AA batteries easy to replace anywhere
 
-**ðŸ’¡ Pro Tip**: Keep the manual power switch ON if you use the mouse daily. The auto-sleep mode is sufficient and eliminates the need to flip the switch every session.
+**💡 Pro Tip**: Keep the manual power switch ON if you use the mouse daily. The auto-sleep mode is sufficient and eliminates the need to flip the switch every session.
 
 ### Environmental & Economic Benefits
 
@@ -353,57 +353,57 @@ After 18 months of daily use (8+ hours/day):
 
 ### Perfect For:
 
-**âœ… Office Workers & Productivity Users:**
+**✅ Office Workers & Productivity Users:**
 - Long workdays without battery worries
 - Comfortable for 8+ hour sessions
 - Programmable buttons speed up workflows
 - Hyper-fast scrolling through documents
 
-**âœ… Budget-Conscious Buyers:**
+**✅ Budget-Conscious Buyers:**
 - Excellent value at $49.99
 - Saves money on batteries over time
 - "Set it and forget it" reliability
 - No need to upgrade for years
 
-**âœ… Multi-Device Users:**
+**✅ Multi-Device Users:**
 - Unifying Receiver connects up to 6 devices
 - Pair with Logitech keyboard using same receiver
 - One USB port for multiple peripherals
 
-**âœ… Travelers & Mobile Workers:**
+**✅ Travelers & Mobile Workers:**
 - Receiver stores inside mouse
 - Works on various surfaces
 - No charging cables needed
 - Long battery life means no spare batteries
 
-**âœ… Linux Users:**
+**✅ Linux Users:**
 - Excellent Linux support via Solaar
 - No proprietary software required
 - All features work out of the box
 
 ### Not Ideal For:
 
-**âŒ Competitive Gamers:**
+**❌ Competitive Gamers:**
 - 1000 DPI too low for high-sensitivity gaming
 - Laser sensor not optimal for gaming
 - 125Hz polling rate slower than gaming mice
 - Heavier than gaming-focused mice
 
-**âŒ Left-Handed Users:**
+**❌ Left-Handed Users:**
 - Right-hand ergonomic design only
 - No ambidextrous version available
 
-**âŒ Small Hand Users:**
+**❌ Small Hand Users:**
 - Designed for medium to large hands
 - May feel too big for petite users
 - Consider Logitech M720 Triathlon for smaller option
 
-**âŒ Bluetooth-Only Setups:**
+**❌ Bluetooth-Only Setups:**
 - Requires USB port for receiver
 - No Bluetooth connectivity option
 - Not ideal for tablets or USB-C only laptops without adapter
 
-**âŒ RGB Enthusiasts:**
+**❌ RGB Enthusiasts:**
 - No lighting whatsoever
 - Utilitarian design
 - Look elsewhere for aesthetic customization
@@ -415,17 +415,17 @@ After 18 months of daily use (8+ hours/day):
 ### After 2+ Years of Use
 
 **What Holds Up:**
-- âœ… Battery still lasts months between changes
-- âœ… Scroll wheel mechanism remains smooth
-- âœ… Buttons maintain tactile feedback
-- âœ… Wireless connection still rock-solid
-- âœ… Rubber grips show minimal wear
+- ✅ Battery still lasts months between changes
+- ✅ Scroll wheel mechanism remains smooth
+- ✅ Buttons maintain tactile feedback
+- ✅ Wireless connection still rock-solid
+- ✅ Rubber grips show minimal wear
 
 **What Shows Wear:**
-- âš ï¸ Left-click button slightly smoother (millions of clicks)
-- âš ï¸ Glossy areas show minor scratches
-- âš ï¸ Logitech logo slightly faded from hand oils
-- âš ï¸ Feet pads worn (replaceable, but not critical)
+- ⚠️ Left-click button slightly smoother (millions of clicks)
+- ⚠️ Glossy areas show minor scratches
+- ⚠️ Logitech logo slightly faded from hand oils
+- ⚠️ Feet pads worn (replaceable, but not critical)
 
 **Maintenance Required:**
 - Clean rubber grips occasionally (soap and water)
@@ -472,14 +472,14 @@ Absolutely. For the price and performance, the M705 delivers exceptional value f
 - **Back to School**: $42.99 - $47.99
 - **Logitech Anniversary Sales**: Occasional 20% off
 
-**ðŸ’¡ Pro Tip**: Set a price alert on CamelCamelCamel for Amazon price drops. The M705 frequently dips to $39.99.
+**💡 Pro Tip**: Set a price alert on CamelCamelCamel for Amazon price drops. The M705 frequently dips to $39.99.
 
 ### What's Included vs. Sold Separately
 
 **Included:**
 - Logitech M705 mouse
-- 1Ã— Unifying Receiver
-- 2Ã— AA batteries
+- 1× Unifying Receiver
+- 2× AA batteries
 - Documentation
 
 **Sold Separately (Optional):**
@@ -508,25 +508,25 @@ The **Logitech M705 Marathon Mouse** lives up to its name. It's a workhorse peri
 
 ### Pros Summary
 
-**âœ… Exceptional battery life (truly 2-3 years)**
-**âœ… Comfortable for all-day use**
-**âœ… Hyper-fast scroll wheel is genuinely useful**
-**âœ… Unifying Receiver supports multiple devices**
-**âœ… Excellent value at $49.99**
-**âœ… Works on most surfaces**
-**âœ… Programmable buttons for productivity**
-**âœ… Reliable wireless connection**
-**âœ… Cross-platform compatibility (Windows/Mac/Linux)**
+**✅ Exceptional battery life (truly 2-3 years)**
+**✅ Comfortable for all-day use**
+**✅ Hyper-fast scroll wheel is genuinely useful**
+**✅ Unifying Receiver supports multiple devices**
+**✅ Excellent value at $49.99**
+**✅ Works on most surfaces**
+**✅ Programmable buttons for productivity**
+**✅ Reliable wireless connection**
+**✅ Cross-platform compatibility (Windows/Mac/Linux)**
 
 ### Cons Summary
 
-**âš ï¸ Not suitable for competitive gaming**
-**âš ï¸ Right-handed design only**
-**âš ï¸ Fixed 1000 DPI (no adjustment)**
-**âš ï¸ No Bluetooth connectivity**
-**âš ï¸ Plastic feels utilitarian rather than premium**
-**âš ï¸ Requires USB port for receiver**
-**âš ï¸ May be too large for small hands**
+**⚠️ Not suitable for competitive gaming**
+**⚠️ Right-handed design only**
+**⚠️ Fixed 1000 DPI (no adjustment)**
+**⚠️ No Bluetooth connectivity**
+**⚠️ Plastic feels utilitarian rather than premium**
+**⚠️ Requires USB port for receiver**
+**⚠️ May be too large for small hands**
 
 ### Final Recommendation
 
@@ -565,7 +565,7 @@ The Logitech M705 is the Honda Civic of computer mice: reliable, efficient, not 
 - [Amazon](https://www.amazon.com/dp/B0025ZH43O)
 - [Best Buy](https://www.bestbuy.com)
 
-**ðŸ’¡ Pro Tip**: Buy directly from Logitech or authorized retailers to ensure genuine product and warranty support. Counterfeit M705 mice exist on third-party marketplaces.
+**💡 Pro Tip**: Buy directly from Logitech or authorized retailers to ensure genuine product and warranty support. Counterfeit M705 mice exist on third-party marketplaces.
 
 ---
 

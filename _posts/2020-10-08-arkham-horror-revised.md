@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Arkham Horror: El juego de cartas - Edición revisada"
-date: 2020-10-08
+date: "2020-10-08"
 tags: [board-games, arkham-horror, review, lovecraft, card-game, cooperative]
 description: "Reseña de la edición revisada de Arkham Horror: El juego de cartas, con humor y análisis profundo."
 ---

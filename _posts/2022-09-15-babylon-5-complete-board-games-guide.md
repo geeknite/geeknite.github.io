@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Babylon 5 Board Games Complete Guide: RPG, Miniatures, Expansions 2025"
-date: 2022-09-15
+date: "2022-09-15"
 tags: [board-games, babylon-5, rpg, miniatures, call-to-arms, centauri-saga, gm-screen, sci-fi, space-games, strategy, review]
 description: "The ultimate guide to Babylon 5 board and tabletop games. Complete reviews of A Call to Arms miniatures game, Centauri Saga expansion, and GM Screen 2nd Edition with expert recommendations for 2025."
 ---
@@ -88,7 +88,7 @@ The **Babylon 5 Game Master's Screen 2nd Edition** is an essential accessory for
 - **System:** d20 System (D&D 3.5 compatible)
 - **Compatibility:** Babylon 5 RPG 2nd Edition
 - **Format:** 4-panel landscape GM screen
-- **MSRP:** Â£14.99 / $19.99 (original retail)
+- **MSRP:** £14.99 / $19.99 (original retail)
 - **Current Availability:** Out of print, collectible market ($30-60 used)
 - **ISBN:** 978-1-906103-12-8
 
@@ -98,7 +98,7 @@ The **Babylon 5 Game Master's Screen 2nd Edition** is an essential accessory for
 
 **Screen Panels (4 Landscape Panels):**
 - **Material:** Heavy cardstock with laminated finish
-- **Dimensions:** Each panel ~8.5" Ã— 11" (landscape orientation)
+- **Dimensions:** Each panel ~8.5" × 11" (landscape orientation)
 - **Total Width:** ~34" when fully extended
 - **Height:** ~8.5" (tall enough to hide dice rolls, notes)
 - **Durability:** High-quality construction, withstands repeated use
@@ -256,22 +256,22 @@ The internal panels contain **quick reference charts and tables** essential for 
 ### Pros and Cons
 
 **Pros:**
-- âœ… **Immersive Artwork:** Stunning Babylon 5 visuals enhance atmosphere
-- âœ… **Comprehensive Reference:** 90% of common rules covered
-- âœ… **Efficient Gameplay:** Eliminates constant rulebook consultation
-- âœ… **Professional Quality:** Durable construction, laminated finish
-- âœ… **GM Confidence:** Having all info at fingertips reduces stress
-- âœ… **Secret Keeping:** Effective barrier for hidden information
-- âœ… **Space Combat Focus:** Dedicated panel for starship battles (B5 specialty)
-- âœ… **Telepathy Reference:** Psi Corps powers easily accessible
+- ✅ **Immersive Artwork:** Stunning Babylon 5 visuals enhance atmosphere
+- ✅ **Comprehensive Reference:** 90% of common rules covered
+- ✅ **Efficient Gameplay:** Eliminates constant rulebook consultation
+- ✅ **Professional Quality:** Durable construction, laminated finish
+- ✅ **GM Confidence:** Having all info at fingertips reduces stress
+- ✅ **Secret Keeping:** Effective barrier for hidden information
+- ✅ **Space Combat Focus:** Dedicated panel for starship battles (B5 specialty)
+- ✅ **Telepathy Reference:** Psi Corps powers easily accessible
 
 **Cons:**
-- âŒ **Out of Print:** Difficult to find, collectible prices ($30-60)
-- âŒ **System-Specific:** Only useful for Babylon 5 d20 RPG (not other systems)
-- âŒ **Space Requirement:** 34" width requires large gaming table
-- âŒ **Learning Curve:** New GMs need time to familiarize with panel layout
-- âŒ **Limited Customization:** Can't easily add house rules or homebrew content
-- âŒ **2nd Edition Only:** Not compatible with 1st Edition RPG (different stats)
+- ❌ **Out of Print:** Difficult to find, collectible prices ($30-60)
+- ❌ **System-Specific:** Only useful for Babylon 5 d20 RPG (not other systems)
+- ❌ **Space Requirement:** 34" width requires large gaming table
+- ❌ **Learning Curve:** New GMs need time to familiarize with panel layout
+- ❌ **Limited Customization:** Can't easily add house rules or homebrew content
+- ❌ **2nd Edition Only:** Not compatible with 1st Edition RPG (different stats)
 
 **Verdict: 9/10** - Essential accessory for Babylon 5 RPG Game Masters. The beautiful artwork, comprehensive reference material, and gameplay enhancement make it worth the collectible market premium. Mandatory for serious B5 campaigns.
 
@@ -345,8 +345,8 @@ The internal panels contain **quick reference charts and tables** essential for 
 - **Faction Restrictions:** Each race has unique ship types and abilities
 
 **Example Fleet (10 Priority Points, Earth Alliance):**
-- 1Ã— Omega Destroyer (6 Priority)
-- 2Ã— Starfury Squadrons (2 Priority each)
+- 1× Omega Destroyer (6 Priority)
+- 2× Starfury Squadrons (2 Priority each)
 - **Total:** 10 Priority Points
 - **Strategy:** Balanced fleet with capital ship backbone + fighter screen
 
@@ -507,22 +507,22 @@ The internal panels contain **quick reference charts and tables** essential for 
 ### Pros and Cons
 
 **Pros:**
-- âœ… **Tactical Depth:** Complex strategic and tactical decisions
-- âœ… **Beautiful Miniatures:** Accurate to TV show, highly detailed
-- âœ… **Faction Variety:** Each race plays distinctly different
-- âœ… **Scalable:** Small skirmishes to massive fleet battles
-- âœ… **Campaign System:** Linked scenarios create narrative
-- âœ… **Faithful to Source:** Captures B5 universe authentically
-- âœ… **Replayability:** Endless fleet combinations and scenarios
+- ✅ **Tactical Depth:** Complex strategic and tactical decisions
+- ✅ **Beautiful Miniatures:** Accurate to TV show, highly detailed
+- ✅ **Faction Variety:** Each race plays distinctly different
+- ✅ **Scalable:** Small skirmishes to massive fleet battles
+- ✅ **Campaign System:** Linked scenarios create narrative
+- ✅ **Faithful to Source:** Captures B5 universe authentically
+- ✅ **Replayability:** Endless fleet combinations and scenarios
 
 **Cons:**
-- âŒ **Out of Print:** Difficult to find, collectible market
-- âŒ **Complex Setup:** Measuring, templates, token management
-- âŒ **Long Play Time:** 2+ hours for large battles
-- âŒ **Space Required:** Large table needed (4' Ã— 6' recommended)
-- âŒ **Painting Required:** Some editions require miniature assembly/painting
-- âŒ **Luck Factor:** Dice rolls can swing battles unpredictably
-- âŒ **Learning Curve:** Advanced rules take several games to master
+- ❌ **Out of Print:** Difficult to find, collectible market
+- ❌ **Complex Setup:** Measuring, templates, token management
+- ❌ **Long Play Time:** 2+ hours for large battles
+- ❌ **Space Required:** Large table needed (4' × 6' recommended)
+- ❌ **Painting Required:** Some editions require miniature assembly/painting
+- ❌ **Luck Factor:** Dice rolls can swing battles unpredictably
+- ❌ **Learning Curve:** Advanced rules take several games to master
 
 **Verdict: 8.5/10** - Outstanding miniatures game for Babylon 5 fans and tactical wargamers. The beautiful miniatures, faction variety, and strategic depth create epic space battles worthy of the TV series. Collectible status and complexity limit accessibility, but dedicated players find incredible value.
 
@@ -585,7 +585,7 @@ Based on typical expansion pack structure, likely includes:
 **New Characters:**
 
 **Playable Characters or NPCs:**
-- **Londo Mollari:** Stats for different career stages (ambassador â†’ emperor)
+- **Londo Mollari:** Stats for different career stages (ambassador → emperor)
 - **Vir Cotto:** Support character, diplomacy specialist
 - **Lord Refa:** Antagonist or rival character
 - **Emperor Cartagia:** Villainous NPC
@@ -658,18 +658,18 @@ One of Babylon 5's most compelling narratives is the **Centauri downfall**:
 ### Pros and Cons
 
 **Pros:**
-- âœ… **Thematic Depth:** Centauri political intrigue perfectly suited for RPG
-- âœ… **Character Focus:** Iconic characters with rich backstories
-- âœ… **Moral Complexity:** Difficult choices, no clear answers
-- âœ… **Expanded Content:** More missions, characters, equipment
-- âœ… **Cooperative Emphasis:** Teamwork critical (ironic for backstabbing Centauri!)
+- ✅ **Thematic Depth:** Centauri political intrigue perfectly suited for RPG
+- ✅ **Character Focus:** Iconic characters with rich backstories
+- ✅ **Moral Complexity:** Difficult choices, no clear answers
+- ✅ **Expanded Content:** More missions, characters, equipment
+- ✅ **Cooperative Emphasis:** Teamwork critical (ironic for backstabbing Centauri!)
 
 **Cons:**
-- âŒ **Limited Documentation:** Hard to find reliable information
-- âŒ **Expansion Dependency:** Requires base game (B5 RPG or A Call to Arms)
-- âŒ **Niche Appeal:** Very Centauri-focused, less useful for other factions
-- âŒ **Complexity:** Political intrigue can slow gameplay
-- âŒ **Out of Print:** Extremely rare in 2025
+- ❌ **Limited Documentation:** Hard to find reliable information
+- ❌ **Expansion Dependency:** Requires base game (B5 RPG or A Call to Arms)
+- ❌ **Niche Appeal:** Very Centauri-focused, less useful for other factions
+- ❌ **Complexity:** Political intrigue can slow gameplay
+- ❌ **Out of Print:** Extremely rare in 2025
 
 **Verdict: 7.5/10** - Solid expansion for Centauri enthusiasts and players seeking political intrigue over combat. The thematic richness and character depth enhance campaigns, but limited availability and niche focus restrict broader appeal. Essential for completionists, optional for casual B5 gamers.
 
@@ -698,7 +698,7 @@ One of Babylon 5's most compelling narratives is the **Centauri downfall**:
 **Complete RPG Experience:**
 - Core Rulebook ($40-80)
 - GM Screen ($30-60)
-- **Fact Books:** Earth Alliance, Minbari, Narn, Centauri ($20-40 each Ã— 4 = $80-160)
+- **Fact Books:** Earth Alliance, Minbari, Narn, Centauri ($20-40 each × 4 = $80-160)
 - **Adventure Modules:** 2-3 published adventures ($15-30 each = $30-90)
 - **Dice, Miniatures, Maps** ($50-80)
 - **Total:** $230-470
@@ -779,7 +779,7 @@ One of Babylon 5's most compelling narratives is the **Centauri downfall**:
 - **NPC Tokens:** Print or buy generic sci-fi tokens ($10-20)
 
 **For Miniatures:**
-- **Gaming Mat:** 4' Ã— 6' space theme ($30-60)
+- **Gaming Mat:** 4' × 6' space theme ($30-60)
 - **Movement Templates:** For accurate measurement ($10-20)
 - **Dice:** Custom d6/d10 sets ($15-25)
 - **Storage:** Miniature cases ($20-40)

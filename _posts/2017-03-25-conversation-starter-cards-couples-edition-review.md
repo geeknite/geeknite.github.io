@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Conversation Starter Cards: Couples Edition - A Comedic Review"
-date: 2017-03-25
+date: "2017-03-25"
 tags: ["review", "couples", "conversation cards", "games", "date night"]
 description: "A hilarious and comprehensive review of Conversation Starter Cards: Couples Edition. Perfect for game nights and date nights!"
 ---

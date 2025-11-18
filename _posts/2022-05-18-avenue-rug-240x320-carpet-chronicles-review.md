@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Avenue Rug 240 x 320 Review: The Carpet Chronicles"
-date: 2022-05-18
+date: "2022-05-18"
 tags: [home-decor, rug, interior-design, review]
 description: "An in-depth, hilarious review of the Avenue Rug 240 x 320. Is it worth walking all over it? Find out!"
 ---

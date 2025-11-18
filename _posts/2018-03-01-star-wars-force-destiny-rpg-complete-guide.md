@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Star Wars Force and Destiny RPG Complete Guide: Core Rulebook & Rise of the Separatists"
-date: 2018-03-01
+date: "2018-03-01"
 tags: [star-wars, force-and-destiny, rpg, tabletop-rpg, fantasy-flight-games, review]
 description: "Complete guide to Star Wars Force and Destiny RPG system: Core Rulebook essentials and Rise of the Separatists era sourcebook. Master the Force in your campaigns!"
 ---

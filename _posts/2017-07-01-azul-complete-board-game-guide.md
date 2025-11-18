@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Azul: The Complete Board Game Guide - Reviews, Strategy & All Editions"
-date: 2017-07-01
+date: "2017-07-01"
 tags: [azul, board-games, strategy, tile-placement, michael-kiesling, plan-b-games, game-review]
 description: "The ultimate guide to Azul board games - comprehensive reviews of all editions, winning strategies, tips, and everything you need to master this beautiful tile-laying game series."
 ---
@@ -66,7 +66,7 @@ The third and most complex entry in the series features diamond-shaped tiles and
 
 **Game Setup (5 minutes):**
 1. Each player receives a personal board
-2. Place factory displays (2Ã—players + 1) in table center
+2. Place factory displays (2×players + 1) in table center
 3. Fill each factory with 4 random tiles from the bag
 4. Place first player marker in center
 5. Ready to play!

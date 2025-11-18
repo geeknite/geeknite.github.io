@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Figura Moon Knight Marvel Legends Series 2022 Infinity Ultron BAF"
-date: 2021-08-03
+date: "2021-08-03"
 tags: [marvel, moon-knight, marvel-legends, action-figures, collectibles, review]
 description: "Detailed review of the Moon Knight Marvel Legends Series 2022 figure with Infinity Ultron Build-A-Figure parts."
 ---

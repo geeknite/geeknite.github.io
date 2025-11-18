@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Black Seas Punchboard: Set Sail with Style and Strategy"
-date: 2023-06-26
+date: "2023-06-26"
 tags: [board-games, black-seas, strategy, naval-battles, wargame, review]
 description: "A hilarious and detailed review of Black Seas Punchboard. Discover the excitement of naval battles with style and strategy!"
-last_modified_at: 2025-10-08
+last_modified_at: "2025-10-08"
 ---
 
 ![Black Seas Punchboard](https://i.imgur.com/UrhObsJ.jpg){: style='float: right;'}

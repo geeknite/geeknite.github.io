@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Nosotros Que Luchamos Con Dios: Una Nueva Perspectiva Sobre La Mayor Historia"
-date: 2022-02-24
-last_modified_at: 2025-10-07
+date: "2022-02-24"
+last_modified_at: "2025-10-07"
 categories: ["Reviews", "Books"]
 tags: ["Historia", "Religión", "Libros"]
 ---

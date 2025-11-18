@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Infamous Second Son: The Superhero Game We Deserve"
-date: 2014-03-21
+date: "2014-03-21"
 tags:
 - Infamous Second Son
 - Gaming

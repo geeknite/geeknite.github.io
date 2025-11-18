@@ -1,9 +1,8 @@
-﻿---
-
+---
 title: "GoPro Hero Session Review: Is It Still Worth It in 2025?"
-date: 2023-04-30
+date: "2023-04-30"
 tags: [gopro, hero-session, review, action-camera, gadget]
-last_modified_at: '2025-04-30T18:32:35.2592592Z'
+last_modified_at: "2025-04-30T18:32:35.2592592Z"
 description: "A detailed and humorous review of the GoPro Hero Session. Is it still worth it in 2025?"
 ---
 
@@ -17,8 +16,8 @@ Ah, the GoPro Hero Session. The tiny cube that promises to capture all your epic
 
 First things first, let's talk hardware. The GoPro Hero Session may be small, but it's packed with impressive features:
 
-| Feature              | GoPro Hero Session                 |
-|----------------------|-------------------------------------|
+| Feature              | GoPro Hero Session                  |
+| -------------------- | ----------------------------------- |
 | **Video Resolution** | 1440p at 30fps, 1080p at 60fps      |
 | **Photo Resolution** | 8MP                                 |
 | **Waterproof**       | Up to 33 ft (10m) without a housing |
@@ -68,8 +67,7 @@ The GoPro Hero Session may not be the latest and greatest action camera on the m
 
 Happy adventuring!
 
-**Related Reviews & Comparisons:**
+**Related Tech Reviews:**
 
-- [GoPro Hero 10 Black Review]({{ site.baseurl }}{% post_url 2023-04-01-gopro-hero-10-review %})
-- [DJI Osmo Action vs GoPro Hero]({{ site.baseurl }}{% post_url 2023-04-15-dji-osmo-action-vs-gopro-hero %})
-
+- [MacBook Pro M2 Review]({%- post_url 2023-07-25-macbook-pro-m2-review -%})
+- [Xiaomi Redmi 15 Review]({%- post_url 2025-06-04-xiaomi-redmi-15-review -%})

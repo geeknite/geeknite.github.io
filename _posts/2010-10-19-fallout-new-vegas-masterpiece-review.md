@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Fallout New Vegas: A Hilarious and Deep Dive into the Post-Apocalyptic Masterpiece"
-date: 2010-10-19
+date: "2010-10-19"
 tags: [gaming, fallout, rpg, review]
 description: "Discover why Fallout New Vegas remains a fan-favorite RPG, with a humorous twist."
 ---

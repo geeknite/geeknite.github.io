@@ -1,7 +1,7 @@
 ---
 
 title:  "Chain Reaction Cycles discount codes"
-date:   2018-08-18 17:00:00 +0200
+date: "2018-08-18 17:00:00 +0200"
 tags: mtb discount shopping
 description: "Chain Reaction Cycles Discount Codes - Save on Your Cycling Gear - Get exclusive discount codes for Chain Reaction Cycles to save money on cycling purchases."
 last_modified_at: '2023-07-06T00:00:00+02:00'

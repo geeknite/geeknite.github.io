@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bleak Outpost: Resident Evil Board Game Review"
-date: 2024-06-20
+date: "2024-06-20"
 tags: ["board games", "Resident Evil", "review", "strategy games"]
 description: "An in-depth and humorous review of Bleak Outpost: Resident Evil Board Game. Is this game worth braving the zombie apocalypse?"
 ---

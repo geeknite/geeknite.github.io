@@ -1,13 +1,13 @@
-﻿---
+---
 title: "AngerSmash: The Viciously Addictive Card Game"
-date: 2020-01-15
+date: "2020-01-15"
 tags: [card games, review, AngerSmash, gaming, humor]
 description: "Dive into the hilariously addictive world of AngerSmash. Find out why this game is the perfect blend of strategy, chaos, and uncontrollable laughter."
 ---
 
 ## Introduction
 
-Welcome, fellow card game enthusiasts! Are you ready to channel your inner rage and smash your way to victory? Well, you better be because we're about to dive into **AngerSmash**, the card game that has everyone talking (or yelling). This game combines strategy, chaos, and a whole lot of laughter. Think of it as a friendly brawl where everyone leaves with a smileâ€¦ or a grudge. Let's get smashing!
+Welcome, fellow card game enthusiasts! Are you ready to channel your inner rage and smash your way to victory? Well, you better be because we're about to dive into **AngerSmash**, the card game that has everyone talking (or yelling). This game combines strategy, chaos, and a whole lot of laughter. Think of it as a friendly brawl where everyone leaves with a smile… or a grudge. Let's get smashing!
 
 ## What is AngerSmash?
 

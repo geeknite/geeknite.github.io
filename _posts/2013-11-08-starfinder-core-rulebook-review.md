@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Starfinder Core Rulebook Review: Blast Off into Adventure"
-date: 2013-11-08
+date: "2013-11-08"
 tags: [board-games, review, starfinder, role-playing-games, science-fiction]
 description: "Comprehensive review of the Starfinder Core Rulebook - your guide to intergalactic RPG adventures"
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Corsair CX 750 Review: The Power Supply You're Looking For"
-date: 2020-01-27
+date: "2020-01-27"
 last_modified_at: '2025-10-07T01:24:53.4842594Z'
 tags: [Corsair CX 750, power supply, PSU, review, Geeknite]
 description: "A comprehensive and humorous review of the Corsair CX 750 power supply."

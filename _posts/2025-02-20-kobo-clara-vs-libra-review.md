@@ -1,6 +1,6 @@
 ---
 title: "Kobo Clara vs Libra: The Ultimate eReader Showdown"
-date: 2025-07-10
+date: "2025-07-10"
 tags: [ereaders, technology, gadgets, comparison, funny]
 description: "An in-depth and humorous comparison of the Kobo Clara Colour and Kobo Libra Colour eReaders. Let's see which one reigns supreme!"
 ---

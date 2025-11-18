@@ -1,6 +1,6 @@
 ---
 title:  "Donde comprar el casco Bell Super DH MIPS"
-date:   2020-03-18 17:00:00 +0200
+date: "2020-03-18 17:00:00 +0200"
 tags: mtb helmet bell dh offers
 redirect_from:
     - /2020/03/donde-comprar-casco-bell-super-dh-mips.html

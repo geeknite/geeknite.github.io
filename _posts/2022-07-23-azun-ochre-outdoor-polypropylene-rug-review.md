@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Azun Ochre Outdoor Polypropylene Rug Review"
-date: 2022-07-23
+date: "2022-07-23"
 tags: [home-decor, rug, outdoor, polypropylene, review]
 description: "A hilarious yet thorough review of the Azun Ochre Outdoor Polypropylene Rug. Is it worth the hype? Let's dive in and find out!"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Asylum Demon Expansion for Dark Souls Board Game - Brand New"
 date: "2025-03-15"
-tags: ['board games', 'Dark Souls', 'Asylum Demon', 'expansion']
+tags: ["board games", "Dark Souls", "Asylum Demon", "expansion"]
 description: "A hilarious and detailed review of the Asylum Demon Expansion for Dark Souls Board Game. Discover why this expansion is a must-have for Dark Souls fans and board game enthusiasts!"
 ---
 
@@ -18,6 +18,7 @@ The Asylum Demon Expansion is an add-on for the Dark Souls Board Game, introduci
 ### Components
 
 The expansion includes:
+
 - **Asylum Demon Miniature**: A beautifully crafted and menacing miniature of the Asylum Demon. It's so detailed that it might just give you nightmares.
 - **New Tiles**: Additional game tiles that add new locations and challenges to the game.
 - **Boss Behavior Cards**: Cards that dictate the Asylum Demon's actions and attacks, keeping players on their toes.
@@ -78,10 +79,10 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}as
 
 ---
 
-### Other Dark Souls Board Game Expansions to Check Out
+### Other Epic Board Game Adventures to Check Out
 
-- **[Darkroot Expansion]({% post_url 2024-11-15-darkroot-expansion %})**
-- **[Iron Keep Expansion]({% post_url 2023-08-20-iron-keep-expansion %})**
-- **[Tomb of Giants Expansion]({% post_url 2025-02-10-tomb-of-giants-expansion %})**
+- **[Dark Souls: The Board Game Complete Guide]({%- post_url 2017-04-01-dark-souls-complete-board-game-guide -%})**
+- **[Bloodborne Complete Board Game Guide]({%- post_url 2018-11-01-bloodborne-complete-board-game-guide -%})**
+- **[Gloomhaven Review]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
-**Ready to face the Asylum Demon? Don’t miss out on the fun! Click [here]({{ site.constants.wsib }}asylum-demon-expansion) to get your copy now and receive an exclusive discount! Happy gaming!**
+**Ready to face the Asylum Demon? Don't miss out on the fun! Click [here]({{ site.constants.wsib }}asylum-demon-expansion) to get your copy now and receive an exclusive discount! Happy gaming!**

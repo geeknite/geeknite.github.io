@@ -1,7 +1,7 @@
 ---
 
 title:  "Vale la pena ser prime en amazon.es en 2023?"
-date:   2023-01-01 17:00:00 +0200
+date: "2023-01-01 17:00:00 +0200"
 tags: amazon españa español europe smartshopping prime
 description: "¿Vale la pena ser Prime de Amazon en 2023? - Una revisión detallada que analiza los beneficios y desventajas de la membresía de Amazon Prime en 2023."
 last_modified_at: '2023-07-06T00:00:00+02:00'

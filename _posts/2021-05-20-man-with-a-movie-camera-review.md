@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Man With a Movie Camera Review: A Cinematic Marvel"
-date: 2021-05-20
+date: "2021-05-20"
 tags: [movie, review, film, cinema, classic]
 description: "Dive into the revolutionary world of Dziga Vertov's 'Man With a Movie Camera.' A funny and insightful review." 
 ---
@@ -63,4 +63,4 @@ One of the film's funniest moments comes from an unexpected source: the camerama
 
 **Affiliate Disclosure:** Some links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
 
-Stay tuned for more film reviews and cinematic adventures from your friends at Geeknite! ðŸŽ¥
+Stay tuned for more film reviews and cinematic adventures from your friends at Geeknite! 🎥

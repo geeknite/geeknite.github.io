@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Amun Re: A Pharaoh's Dream or Just Another Board Game?"
-date: 2019-10-20
+date: "2019-10-20"
 tags: [review, board-games, strategy, ancient-egypt, bidding, resource-management]
 description: "Comprehensive review of Amun Re board game set in ancient Egypt with strategic bidding and pyramid building."
 ---

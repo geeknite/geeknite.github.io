@@ -1,6 +1,6 @@
 ---
 title: "Kobo Clara Review: The Compact eReader with Big Surprises"
-date: 2025-04-10
+date: "2025-04-10"
 tags: [ereaders, technology, gadgets, review, funny]
 description: "A hilarious and insightful review of the Kobo Clara eReader. Find out why this compact device packs a punch in the eReader world!"
 last_modified_at: '2025-07-10T16:26:24.7451927Z'

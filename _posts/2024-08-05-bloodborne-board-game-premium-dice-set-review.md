@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bloodborne: The Board Game - Premium Dice Set Review"
-date: 2024-08-05
+date: "2024-08-05"
 tags: [board games, Bloodborne, review, dice, accessories]
 description: "A hilarious review of the Bloodborne Premium Dice Set. Enhance your hunting experience with these beautiful, eldritch dice!"
 ---

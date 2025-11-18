@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Star Wars Destiny: Across the Galaxy Dice Collection Review"
-date: 2020-03-21
+date: "2020-03-21"
 tags: [star-wars, destiny, dice-collection, collectible-card-game, tabletop, review]
 description: "Dive into the Star Wars Destiny: Across the Galaxy Dice Collection with this hilarious and detailed review. Find out why this collection is a must-have for Star Wars fans."
 ---

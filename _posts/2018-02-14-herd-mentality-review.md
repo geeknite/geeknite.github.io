@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Herd Mentality: The Udderly Addictive Family Board Game"
-date: 2018-02-14
+date: "2018-02-14"
 categories: [board games, review, herd mentality]
 tags: [Herd Mentality, family games, gaming, humor]
 description: "An udderly hilarious and detailed review of Herd Mentality. Find out why this game is perfect for family game nights!"

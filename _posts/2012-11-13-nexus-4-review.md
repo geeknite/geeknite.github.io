@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Nexus 4 Review: Google's Pure Android Vision"
-date: 2012-11-13
+date: "2012-11-13"
 tags: [Nexus 4, smartphones, reviews, tech, android]
 description: "Comprehensive review of the Google Nexus 4: pure Android experience with flagship features at an accessible price point."
 ---
@@ -47,4 +47,4 @@ The Nexus 4 is a nostalgic piece of tech that's fun to revisit but impractical f
 
 **Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
 
-Stay tuned for more tech reviews and geeky goodness from your friends at Geeknite! ðŸš€
+Stay tuned for more tech reviews and geeky goodness from your friends at Geeknite! 🚀

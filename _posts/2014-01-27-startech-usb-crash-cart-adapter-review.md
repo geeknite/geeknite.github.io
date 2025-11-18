@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Startech USB Crash Cart Adapter: A Lifesaver for IT Wizards"
-date: 2014-01-27
+date: "2014-01-27"
 tags: [Startech, USB, Crash Cart, IT, review, tech, gadgets]
 description: "A funny and comprehensive review of the Startech USB Crash Cart Adapter with File Transfer and Video Capture. Discover its features, quirks, and why it might just be the ultimate tool for IT professionals!"
 ---

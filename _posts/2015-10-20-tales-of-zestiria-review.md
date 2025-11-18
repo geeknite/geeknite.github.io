@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Tales of Zestiria: A Hilarious and Insightful Review"
-date: 2015-10-20
+date: "2015-10-20"
 tags: [gaming, RPG, Tales of Zestiria, review, video games]
 description: "Dive into the world of Tales of Zestiria with our hilarious and insightful review. Find out why this game is worth playing!"
 ---

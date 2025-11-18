@@ -1,7 +1,7 @@
-﻿---
+---
 title: "The Ultimate Guide to Board Games in 2025"
-date: 2019-07-02
-tags: [board games, review, 2025]
+date: "2019-07-02"
+tags: [board games, review, "2025"]
 description: "Explore the best board games of 2025 with our comprehensive guide. From strategic masterpieces to hilarious party games, find your next favorite!"
 ---
 

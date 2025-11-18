@@ -1,6 +1,6 @@
-﻿---
+---
 title: "ASL Map Board 50 Review: Tactical Terrain for Wargaming Enthusiasts"
-date: 2021-07-01
+date: "2021-07-01"
 tags: [asl, wargaming, board-games, strategy, advanced-squad-leader]
 description: "An in-depth review of the ASL Map Board 50. Is it the perfect addition to your Advanced Squad Leader setup?"
 ---
@@ -73,5 +73,5 @@ Until next time, happy gaming!
 
 **Affiliate Disclosure:** Some links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
 
-Stay tuned for more reviews and geeky goodness from your friends at Geeknite! ðŸš€
+Stay tuned for more reviews and geeky goodness from your friends at Geeknite! 🚀
 

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Kingston HyperX DDR4 16GB: The Gaming Beast"
-date: 2020-12-10
+date: "2020-12-10"
 tags: [Kingston, HyperX, DDR4, RAM, Gaming]
 description: "An in-depth and humorous review of Kingston HyperX DDR4 16GB RAM."
 ---

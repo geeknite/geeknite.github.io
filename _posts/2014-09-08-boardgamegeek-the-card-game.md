@@ -1,6 +1,6 @@
-﻿---
+---
 title: "BoardGameGeek: The Card Game Review"
-date: 2014-09-08
+date: "2014-09-08"
 categories: [board games, review]
 tags: [BoardGameGeek, card game, gaming, review]
 description: "A humorous and in-depth review of BoardGameGeek: The Card Game. Explore gameplay, humor, and whether it's worth adding to your collection."

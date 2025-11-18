@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bomb Busters: Ultimate Challenge Pack Review"
-date: 2015-05-11
+date: "2015-05-11"
 tags: [bomb-busters, gaming, review, board-games, expansion, challenge]
 description: "The ultimate review of Bomb Busters: Ultimate Challenge Pack. Explosive action, complex puzzles, and hilarious moments await!"
 ---
@@ -23,7 +23,7 @@ The **Ultimate Challenge Pack** takes Bomb Busters to a whole new level. With ne
 
 ![Ultimate Challenge Pack](https://i.imgur.com/UltimateChallengePack.jpg){: .align-right}
 
-**Criticism Alert**: The difficulty level in the Ultimate Challenge Pack is as relentless as a ticking bomb. While you *can* solve the puzzles with patience, the temptation to look up solutions is always looming. It's like the game is whispering, "Just one more tryâ€¦ what's the worst that could happen?" Spoiler: your sanity will cry.
+**Criticism Alert**: The difficulty level in the Ultimate Challenge Pack is as relentless as a ticking bomb. While you *can* solve the puzzles with patience, the temptation to look up solutions is always looming. It's like the game is whispering, "Just one more try… what's the worst that could happen?" Spoiler: your sanity will cry.
 
 ## Graphics and Sound
 
@@ -40,7 +40,7 @@ If there's one thing Bomb Busters does exceptionally well, it's the soundtrack. 
 ### Pros
 
 - **Realistic Graphics**: You'll feel like you're in the middle of a demolition.
-- **Addictive Gameplay**: The Ultimate Challenge Pack will consume your life (in a good wayâ€¦ mostly).
+- **Addictive Gameplay**: The Ultimate Challenge Pack will consume your life (in a good way… mostly).
 - **Fantastic Soundtrack**: Music that makes failing enjoyable.
 - **Wide Range of Levels**: From easy to insanely difficult, there's something for everyone.
 

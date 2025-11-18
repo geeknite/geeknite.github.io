@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Super Mario 3D Land Review: Is It Still Worth Playing in 2025?"
-date: 2011-11-13
+date: "2011-11-13"
 categories: [Gaming, Nintendo]
 tags: [Super Mario 3D Land, Nintendo, Review]
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Crimson Dragon: A Flight Simulator for the Brave"
-date: 2013-11-22
+date: "2013-11-22"
 tags: [gaming, crimson-dragon, review, xbox, flight-simulator]
 description: "Dive into the world of Crimson Dragon, a flight simulator game where bravery and strategy collide!"
 ---
@@ -23,7 +23,7 @@ The gameplay in **Crimson Dragon** is nothing short of exhilarating. The flight 
 
 ### Combat
 
-Combat in **Crimson Dragon** is where the game really shines. You'll engage in epic battles against fierce enemies, using a variety of dragon abilities to gain the upper hand. From fiery breath attacks to electric shocks, your dragon is equipped to handle any threat. It's like Pokémon, but the gym leaders are trying to eat you.
+Combat in **Crimson Dragon** is where the game really shines. You'll engage in epic battles against fierce enemies, using a variety of dragon abilities to gain the upper hand. From fiery breath attacks to electric shocks, your dragon is equipped to handle any threat. It's like Pokï¿½mon, but the gym leaders are trying to eat you.
 
 ### Strategy
 
@@ -54,5 +54,3 @@ The sound design is equally impressive. The roar of dragons, the clash of battle
 ## Final Recommendation
 
 **Crimson Dragon** is a must-play for fans of flight simulators and action-packed games. Its stunning visuals, immersive gameplay, and epic storyline make it a standout title. While it has a few drawbacks, such as a steep learning curve and repetitive missions, the overall experience is worth it.
-
-{{ site.constants.wsib }}

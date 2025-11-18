@@ -1,7 +1,7 @@
 ---
 
 title:  "Where to buy Fox 34 Volume Spacers"
-date:   2020-03-16 17:00:00 +0200
+date: "2020-03-16 17:00:00 +0200"
 tags: mtb components fox offers
 redirect_from:
     - /2020/03/where-to-buy-fox-34-volume-spacers.html

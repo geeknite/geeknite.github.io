@@ -1,6 +1,6 @@
 ---
 title: "Star Wars Figure Review: Han Solo The Power Of The Force Black Series"
-date: 2025-10-07
+date: "2025-10-07"
 last_modified_at: '2025-10-07T09:06:31.7153846Z'
 tags: [Star Wars, Han Solo, Toys, Review]
 ---

@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Frostpunk: The Board Game Review"
-date: 2021-11-01
+date: "2021-11-01"
 tags: [board games, review, Frostpunk, strategy games, survival]
 description: "A hilarious and comprehensive review of Frostpunk: The Board Game. Discover the thrilling world of survival strategy and steampunk aesthetics."
 ---
@@ -13,7 +13,7 @@ Welcome, fellow survivors! Today, we're venturing into the icy world of **Frostp
 
 ## What is Frostpunk: The Board Game?
 
-Frostpunk: The Board Game is a cooperative survival strategy game based on the popular video game *Frostpunk*. Designed by Adam KwapiÅ„ski, this game brings the harsh world of Frostpunk to your tabletop, where players must work together to manage resources, build structures, and maintain hope in their city.
+Frostpunk: The Board Game is a cooperative survival strategy game based on the popular video game *Frostpunk*. Designed by Adam Kwapiński, this game brings the harsh world of Frostpunk to your tabletop, where players must work together to manage resources, build structures, and maintain hope in their city.
 
 ### Components
 

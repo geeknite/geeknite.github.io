@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Scythe Board Game Extension: Complete Review & Expansion Guide"
-date: 2016-08-01
+date: "2016-08-01"
 tags:
   [
     scythe,

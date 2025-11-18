@@ -1,6 +1,6 @@
-﻿---
+---
 title: "The Hunger Games: Mockingjay - The Board Game Review"
-date: 2014-04-02
+date: "2014-04-02"
 tags: ["board games", "review", "The Hunger Games", "Mockingjay", "strategy games", "cooperative games"]
 description: "Dive into the thrilling world of The Hunger Games with the Mockingjay board game. A hilarious and comprehensive review!"
 ---

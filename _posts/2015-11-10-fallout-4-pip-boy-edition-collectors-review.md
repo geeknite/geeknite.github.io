@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Fallout 4 - Pip-Boy Edition Review: Is It Worth the Hype?"
-date: 2015-11-10
+date: "2015-11-10"
 tags: [gaming, fallout, collectors-edition, review]
 description: "An extensive and humorous review of Fallout 4 - Pip-Boy Edition. Explore the pros, cons, and whether it's worth splurging on this collector's item."
 ---

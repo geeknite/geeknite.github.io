@@ -1,6 +1,6 @@
-﻿---
+---
 title: "¿Cómo gestionar devoluciones en Amazon? Una guía completa y divertida"
-date: 2015-03-06
+date: "2015-03-06"
 tags: [español, recomendaciones, amazon, smartshopping]
 description: "Una guía completa y divertida sobre cómo gestionar devoluciones en Amazon. Descubre los pasos y trucos para una experiencia sin problemas."
 ---

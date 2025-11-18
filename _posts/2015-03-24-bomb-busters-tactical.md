@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bomb Busters: Tactical Game for Ages 10+"
-date: 2015-03-24
+date: "2015-03-24"
 tags: [bomb-busters, board-games, tactical-games, kids-games, review, cooperative]
 description: "An in-depth and humorous review of Bomb Busters, the tactical game for kids aged 10 and up."
 ---

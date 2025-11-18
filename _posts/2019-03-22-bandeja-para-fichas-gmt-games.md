@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Bandeja para fichas GMT Games"
-date: 2019-03-22
+date: "2019-03-22"
 tags: [board games, accessories, GMT Games, review]
 description: "Revisión y guía divertida sobre la bandeja para fichas de GMT Games. Descubre cómo organizar tus fichas y elevar tu experiencia de juego!"
 last_modified_at: "2025-10-08T14:41:03.5823267Z"

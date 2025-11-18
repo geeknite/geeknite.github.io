@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Star Wars: Force and Destiny - Dice Set Review"
-date: 2013-10-19
+date: "2013-10-19"
 categories: [board games, review, star wars]
 tags: [Star Wars, Force and Destiny, Dice Set, board games, review]
 description: "An amusing and detailed review of the Star Wars: Force and Destiny Dice Set. Discover why these dice are a must-have for any Star Wars RPG player!"

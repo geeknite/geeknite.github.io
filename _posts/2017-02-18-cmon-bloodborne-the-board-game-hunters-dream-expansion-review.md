@@ -1,6 +1,6 @@
-﻿---
+---
 title: "CMON Bloodborne: The Board Game - Hunter's Dream Expansion Review"
-date: 2017-02-18
+date: "2017-02-18"
 tags: ["board games", "Bloodborne", "CMON", "expansion", "review"]
 description: "A funny and detailed review of Bloodborne: The Board Game - Hunter's Dream Expansion. Find out why this game is a thrilling addition for fans and board game enthusiasts!"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Persona 5 Royal Review: The Most Stylish JRPG"
-date: 2022-04-23
+date: "2022-04-23"
 tags: [Persona 5 Royal, JRPG, gaming, review]
 description: "Dive into the world of Persona 5 Royal with our comprehensive review. A blend of humor, detailed analysis, and compelling gameplay insights."
 last_modified_at: '2025-10-08T16:22:27.8363986Z'

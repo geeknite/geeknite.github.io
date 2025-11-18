@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Board Game Card Sleeves Complete Guide: Protection & Accessories 2025"
-date: 2014-02-15
+date: "2014-02-15"
 tags: [board-games, card-sleeves, accessories, mayday-games, bcw, fantasy-flight-games, protection, guide]
 description: "The ultimate guide to board game card sleeves and accessories. Complete reviews of Mayday Games, BCW, and Fantasy Flight Games sleeves, plus storage solutions for 2025."
 ---

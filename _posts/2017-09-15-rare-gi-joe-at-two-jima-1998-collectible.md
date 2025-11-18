@@ -1,6 +1,6 @@
-﻿---
+---
 title: "RARE GI Joe At Two Jima - at D-Day Dog Tag & Chain 1998. Hasbro Sealed With Book"
-date: 2017-09-15
+date: "2017-09-15"
 tags: [gi-joe, collectibles, action-figures, hasbro, wwii, review]
 description: "Review of the rare GI Joe At Two Jima 1998 collectible with dog tag, chain and historical book from Hasbro."
 ---

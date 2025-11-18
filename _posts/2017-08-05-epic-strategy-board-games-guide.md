@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Epic Strategy Board Games Guide: From Conan's Hyboria to WWII Pacific Theater"
-date: 2017-08-05
+date: "2017-08-05"
 tags: [strategy-board-games, age-of-conan, axis-and-allies, wargames, board-game-review]
 description: "Complete guide to epic strategy board games: Age of Conan and Axis & Allies Pacific 1940. Master ancient kingdoms and WWII naval warfare!"
 ---
