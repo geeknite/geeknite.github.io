@@ -49,6 +49,9 @@ One of the best aspects of Spider-Geddon is the humor built into the gameplay. F
 
 **Funny Moment**: During one game, our "Scientist" hero tried to negotiate with the Spider Queen using a "Peace Treaty" card. Needless to say, it didn't go well. The laughter echoed for hours.
 
+### Hilarious Moments
+The humor woven into the game provides countless laugh-out-loud moments.
+
 ## Pros and Cons
 
 ### Pros
