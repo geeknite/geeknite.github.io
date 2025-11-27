@@ -137,3 +137,5 @@ As one German user wisely concluded after returning the device: "For this high p
 - [Kobo Clara Review: The Compact eReader with Big Surprises]({%- post_url 2025-04-10-kobo-clara-review -%})
 
 Happy reading! 📚✨
+Visible: 0% - 100%
+
