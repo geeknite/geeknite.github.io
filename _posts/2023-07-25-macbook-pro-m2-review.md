@@ -7,6 +7,7 @@ description: "A comprehensive and humorous review of the MacBook Pro M2, explori
 ---
 
 ![MacBook Pro M2](https://www.apple.com/v/macbook-pro-m2/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-pro-m2)
+![MacBook Pro M2](https://www.apple.com/v/macbook-pro-m2/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-pro-m2)
 
 ## Introduction
 

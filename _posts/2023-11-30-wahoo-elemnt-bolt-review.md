@@ -62,4 +62,4 @@ If you're interested in further enhancing your cycling experience, head over to 
 
 Don't miss your chance to grab this amazing bike computer at a fantastic price. Click the link below to purchase the Wahoo ELEMNT BOLT and take your cycling adventures to the next level:
 
-[Buy Now](https://www.amazon.com/Wahoo-ELEMNT-BOLT-GPS-Bike-Computer/dp/B09XX5FVHJ?tag={{ site.constants.amazon*com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref*=as_li_ss_tl){: rel="nofollow"}
+[Buy Now](https://www.amazon.com/Wahoo-ELEMNT-BOLT-GPS-Bike-Computer/dp/B09XX5FVHJ?tag={{ site.constants.amazon_com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref\*=as_li_ss_tl){: rel="nofollow"}

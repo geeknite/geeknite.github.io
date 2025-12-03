@@ -105,6 +105,7 @@ Follow naming: `YYYY-MM-DD-descriptive-slug.md`
 title: "Your Title Here"
 date: "YYYY-MM-DD"
 tags: [tag1, tag2, tag3]
+description: "Excerpt or summary of the post in the same language as the post."
 ---
 ```
 
@@ -116,6 +117,13 @@ tags: [tag1, tag2, tag3]
 - Game reviews across all platforms
 - Gaming accessories and peripherals
 - **Link every game/console mention to `{{ site.constants.wsib }}`**
+- **Links to amazon should use tags defined in site.constants
+  - amazon_es: "kcl-21"
+  - amazon_com: "vp04a-20"
+  - amazon_it: "gkx09-21"
+  - amazon_uk: "kxl-21"
+  - amazon_fr: "krv-21"
+  - amazon_de: "kvl-21"
 
 ### Board Games
 - Extensive collection of board game reviews
