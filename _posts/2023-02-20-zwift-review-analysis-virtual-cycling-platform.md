@@ -1,12 +1,12 @@
 ---
-
 title: "Zwift Review: A Comprehensive Analysis of the Popular Virtual Cycling Platform"
-date: "2023-02-20 1:00:00 +0200"
+date: 2023-02-20 1:00:00 +0200
 tags: cycling virtual review
 description: "Explore Zwift, the immersive virtual cycling platform. Learn about its features, benefits, and drawbacks in our comprehensive review."
 redirect_to: https://bikinggeek.github.io/2023/02/zwift-review-analysis-virtual-cycling-platform.html
 ---
-[![riding a bike](https://i.imgur.com/GBg6PWet.png){: .align-right}]({{ site.constants.wsib }}zwift)
+
+[![riding a bike](https://i.imgur.com/GBg6PWet.png){: style="float: right;"}]({{ site.constants.wsib }}zwift)
 
 Zwift is a virtual cycling platform that allows users to ride their bikes indoors and connect with other riders from around the world. It was launched in 2015 and has since grown to become one of the most popular indoor training apps for cyclists. In this review, I will provide an in-depth analysis of Zwift, including its features, benefits, drawbacks, and overall user experience.
 
@@ -45,3 +45,5 @@ In conclusion, Zwift is an excellent virtual cycling platform that offers a wide
 However, the cost of the app and potential need for additional equipment may be a drawback for some users. Additionally, a stable internet connection and resource-intensive performance requirements may cause issues for some users.
 
 Overall, the user experience on Zwift is generally positive, with engaging and motivating features, stunning graphics, and a sense of community and competition among riders. For those looking to improve their fitness or simply enjoy indoor cycling, Zwift is a platform that is definitely worth exploring.
+
+**Ready to start your virtual cycling journey? Sign up for Zwift today and take your indoor training to the next level!**
