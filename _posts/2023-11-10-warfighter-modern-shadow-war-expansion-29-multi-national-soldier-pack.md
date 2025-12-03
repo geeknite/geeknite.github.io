@@ -1,8 +1,16 @@
 ---
-title: 'Warfighter Modern Shadow War: Expansion 29 – Multi-National Soldier Pack'
-date: '2025-11-16'
-tags: ['board games', 'review', 'Warfighter Modern Shadow War', 'expansion pack', 'strategy games']
-description: 'Complete review of the Warfighter Modern Shadow War: Expansion 29 – Multi-National Soldier Pack. Explore new soldiers, strategies, and the hilarity that ensues in this exciting expansion.'
+title: "Warfighter Modern Shadow War: Expansion 29 – Multi-National Soldier Pack"
+date: 2023-11-10
+tags:
+  [
+    board games,
+    review,
+    Warfighter Modern Shadow War,
+    expansion pack,
+    strategy games,
+    tabletop,
+  ]
+description: "Review completo de Warfighter Modern Shadow War Expansion 29: Multi-National Soldier Pack con nuevos soldados, estrategias y opciones tácticas."
 ---
 
 ## Introduction
@@ -77,6 +85,7 @@ So, gather your multi-national team, set up your strategy, and dive into the thr
 **Call to Action:** Don’t miss out on the ultimate tactical board game experience! Click [here]({{ site.constants.wsib }}warfighter-modern-shadow-war-expansion-29) to get your copy of Warfighter Modern Shadow War: Expansion 29 now and receive an exclusive discount! Happy gaming!
 
 ---
+
 For more reviews and board game recommendations, check out our previous posts:
 
 - [Sniper Elite Board Game Review: Stealth and Strategy on Your Tabletop]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})

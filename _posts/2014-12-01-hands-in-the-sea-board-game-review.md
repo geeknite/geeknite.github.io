@@ -1,8 +1,16 @@
 ---
-title: "Hands in the Sea: An In-Depth Review"
-date: "2025-11-20"
-tags: ["board games", "review", "Hands in the Sea", "strategy games", "historical games"]
-description: "Join us for a hilarious and thorough review of Hands in the Sea, a deck-building board game that brings the First Punic War to life."
+title: "Hands in the Sea: Deck-Building de la Primera Guerra Púnica"
+date: 2014-12-01
+tags:
+  [
+    board games,
+    review,
+    hands in the sea,
+    strategy games,
+    historical games,
+    deck building,
+  ]
+description: "Review completa de Hands in the Sea, el deck-building que recrea la Primera Guerra Púnica entre Roma y Cartago. Estrategia histórica al máximo."
 ---
 
 ![Hands in the Sea](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]

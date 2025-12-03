@@ -1,7 +1,8 @@
 ---
 title: "Golem: Collector's Edition Miniatures Review"
-date: "2025-11-16"
-tags: ["board games", "Golem", "Collector's Edition", "review"]
+date: 2021-10-20
+tags: [board games, Golem, Collector's Edition, review, miniatures, tabletop]
+description: "Review de Golem Collector's Edition: miniaturas detalladas, gameplay estratégico y todo lo que necesitas saber sobre esta edición deluxe."
 ---
 
 ## Introduction
@@ -10,7 +11,7 @@ Hey there, fellow board game aficionados! Today, we're diving into the magical a
 
 ## What is Golem: Collector's Edition Miniatures?
 
-Golem: Collector's Edition Miniatures is a deluxe version of the popular board game *Golem*. This edition features beautifully crafted miniatures that bring a whole new level of immersion and excitement to the game. If you thought the original Golem was cool, wait until you see these intricately detailed figures.
+Golem: Collector's Edition Miniatures is a deluxe version of the popular board game _Golem_. This edition features beautifully crafted miniatures that bring a whole new level of immersion and excitement to the game. If you thought the original Golem was cool, wait until you see these intricately detailed figures.
 
 ### Components
 

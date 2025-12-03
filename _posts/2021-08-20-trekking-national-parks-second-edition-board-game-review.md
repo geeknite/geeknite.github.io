@@ -1,9 +1,16 @@
 ---
 title: "Trekking The National Parks The Board Game - Underdog Games - Second Edition Review"
-date: 2025-11-20
+date: 2021-08-20
 categories: [board games, review, trekking]
-tags: [Trekking The National Parks, Underdog Games, board games, review]
-description: "An in-depth and humorous review of Trekking The National Parks: The Board Game - Second Edition by Underdog Games."
+tags:
+  [
+    Trekking The National Parks,
+    Underdog Games,
+    board games,
+    review,
+    family games,
+  ]
+description: "Review completo de Trekking The National Parks Second Edition: juego de mesa familiar que te lleva a explorar los parques nacionales de EE.UU."
 ---
 
 # Trekking The National Parks: The Board Game - Second Edition Review

@@ -1,8 +1,8 @@
 ---
 title: "Xiaomi Mi 12 Ultra Review: The Ultimate Flagship Experience"
-date: 2025-11-14
-tags: [Xiaomi, Mi 12 Ultra, smartphone, reviews, tech, flagship]
-description: "A detailed and humorous review of the Xiaomi Mi 12 Ultra. Is it worth the hype and your hard-earned money? Let's find out!"
+date: 2022-07-04
+tags: [Xiaomi, Mi 12 Ultra, smartphone, reviews, tech, flagship, Android]
+description: "Review detallado del Xiaomi Mi 12 Ultra: diseño, cámara, rendimiento y características. ¿Vale la pena este flagship premium?"
 ---
 
 ![Xiaomi Mi 12 Ultra](https://i.imgur.com/4Fj2C76m.jpg){: .align-right}
