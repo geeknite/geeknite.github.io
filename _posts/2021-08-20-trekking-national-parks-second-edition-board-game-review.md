@@ -74,7 +74,7 @@ Trekking The National Parks: The Board Game - Second Edition is a delightful and
 If you enjoyed this review, be sure to check out our other board game reviews for more exciting recommendations:
 
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
-- **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to hit the trails? Don’t miss out on the fun!**
