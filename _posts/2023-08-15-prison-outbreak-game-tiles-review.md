@@ -1,9 +1,9 @@
 ---
 title: "Prison Outbreak: The Ultimate Guide to Game Tiles"
-date: 2025-11-16
-categories: ["board games", "review", "Prison Outbreak"]
-tags: ["Prison Outbreak", "tiles", "strategy games"]
-description: "An in-depth and humorous review of the Prison Outbreak game tiles. Find out why these tiles are a game-changer (pun intended) for your next board game night!"
+date: 2023-08-15
+categories: [board games, review, Prison Outbreak]
+tags: [Prison Outbreak, tiles, strategy games, zombies]
+description: "Review de Prison Outbreak game tiles: fichas de juego que transforman tus partidas en una aventura zombie llena de estrategia."
 ---
 
 ![Prison Outbreak](https://i.imgur.com/Jm8ynpT.jpg)

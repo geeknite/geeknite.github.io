@@ -1,8 +1,8 @@
 ---
 title: "Creature Curation Enamel Pin: Eyegor (Green) Review"
-date: "2025-11-20"
-tags: [review, enamel pins, collectible, Creature Curation]
-description: "An in-depth and humorous review of the Creature Curation Enamel Pin: Eyegor (Green). Discover its features, pros, and cons."
+date: 2024-03-15
+tags: [review, enamel pins, collectible, Creature Curation, fashion, geek]
+description: "Review completo del pin de esmalte Eyegor (Green) de Creature Curation: diseño, calidad y por qué es imprescindible para coleccionistas geek."
 ---
 
 ## Introduction

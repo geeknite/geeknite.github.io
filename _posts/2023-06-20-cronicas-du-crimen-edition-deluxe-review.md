@@ -1,8 +1,8 @@
 ---
-title: 'Crónicas du Crimen: Édition Deluxe Review'
-date: '2025-11-16'
-tags: ['board games', 'review', 'Crónicas du Crimen', 'crime game']
-description: 'An in-depth and hilarious review of Crónicas du Crimen: Édition Deluxe. Is this crime-solving game worth your time?'
+title: "Crónicas du Crimen: Édition Deluxe Review"
+date: 2023-06-20
+tags: [board games, review, Crónicas du Crimen, crime game, detective, VR]
+description: "Review completo de Crónicas du Crimen Édition Deluxe: juego de detectives con tecnología VR y app para resolver crímenes como CSI."
 ---
 
 ![Crónicas du Crimen](https://example.com/cronicas_du_crimen.jpg){: style='float: right;'}
@@ -18,6 +18,7 @@ Crónicas du Crimen: Édition Deluxe is an interactive crime board game that com
 ### Components
 
 The game comes with:
+
 - **Game Board**: The crime scene of your dreams (or nightmares).
 - **Character Cards**: Suspects, witnesses, and people who swear they didn't do it.
 - **Location Boards**: Different places to investigate, from seedy bars to luxurious mansions.
@@ -81,7 +82,7 @@ Crónicas du Crimen: Édition Deluxe is a must-have for any board game enthusias
 
 ## More Gaming Adventures
 
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 

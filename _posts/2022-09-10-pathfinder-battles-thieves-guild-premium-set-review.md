@@ -1,8 +1,8 @@
 ---
 title: "Pathfinder Battles: Thieves Guild Premium Set Review"
-date: "2025-11-16"
-tags: ["Pathfinder", "Tabletop", "Miniatures", "Review"]
-description: "A humorous and detailed review of Pathfinder Battles: Thieves Guild Premium Set. Discover why this set is a must-have for any Pathfinder enthusiast!"
+date: 2022-09-10
+tags: [Pathfinder, Tabletop, Miniatures, Review, RPG, board games]
+description: "Review completo de Pathfinder Battles Thieves Guild Premium Set: miniaturas detalladas, accesorios y todo para tus partidas de rol."
 ---
 
 ## Introduction
@@ -47,7 +47,7 @@ The character cards are a great resource for GMs. Each card provides a detailed 
 - **Modular Map Tiles**: Endless possibilities for creating unique hideouts.
 - **Detailed Character Cards**: Useful for GMs to create engaging encounters.
 - **Thematic Consistency**: Everything in the set fits perfectly within the world of a thieves' guild.
- 
+
 ### Cons
 
 - **Price**: The premium quality comes with a premium price tag.
@@ -62,7 +62,7 @@ The **Pathfinder Battles: Thieves Guild Premium Set** is a must-have for any Pat
 
 ## Related Reviews
 
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
