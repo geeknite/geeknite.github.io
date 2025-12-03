@@ -1,6 +1,6 @@
 ---
 title: "Review of HEAT: Pedal to the Metal - Racing Game Extravaganza"
-date: 2024-03-20 15:51:56 +0200
+date: "2024-03-20"
 tags:
 - review
 - racing

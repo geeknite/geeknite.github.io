@@ -1,6 +1,6 @@
 ---
 title:  "10 recomendaciones para comprar en Ebay desde España"
-date:   2016-01-20 17:00:00 +0200
+date: "2016-01-20 17:00:00 +0200"
 tags: ebay españa español europe smartshopping
 description: "Recomendaciones para comprar en eBay desde España - Consejos útiles y recomendaciones para compradores españoles que utilizan eBay"
 last_modified_at: '2023-07-24T00:00:00+02:00'

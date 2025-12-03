@@ -7,7 +7,7 @@ last_modified_at: '2025-03-08T00:00:00+02:00'
 redirect_to: https://bikinggeek.github.io/2023/12/garmin-edge-530-vs-540-comparison.html
 ---
 
-[![Garmin Edge 530 vs. Garmin Edge 540](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}]({{ site.constants.wsib }}Garmin Edge 540)
+![Garmin Edge 530 vs. Garmin Edge 540](https://i.imgur.com/aRyU7Xem.jpg){: .align-right}
 
 *Greetings, cycling aficionados! Today, we're diving into a detailed comparison between two titans of the bike computer world: the Garmin Edge 530 and its successor, the Garmin Edge 540. Strap on your helmets, and let's embark on this tech-filled journey to find out which device will reign supreme! 🚴‍♂️*
 

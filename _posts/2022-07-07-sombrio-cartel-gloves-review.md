@@ -2,7 +2,7 @@
 title: "Why I love the Sombrio Cartel Gloves and you should too"
 tags: mountain biking, gloves, sombrio, review
 description: "A review of the Sombrio Cartel Gloves, a high-quality and cool alternative for mountain bikers who want to protect their hands and look good."
-date: 2022-07-07
+date: "2022-07-07"
 last_modified_at: '2023-07-20T00:00:00+02:00'
 redirect_to: https://bikinggeek.github.io/2022/07/sombrio-cartel-gloves-review.html
 ---
@@ -51,3 +51,5 @@ The Sombrio Cartel Gloves are my favorite gloves for mountain biking. They prote
 If you have any questions or comments about these gloves, or if you want to share your own experience with them, feel free to leave a comment below. I'd love to hear from you.
 
 Thanks for reading, and happy riding!
+
+**Ready to upgrade your mountain biking gear? Grab a pair of Sombrio Cartel Gloves today and ride like a superhero!**

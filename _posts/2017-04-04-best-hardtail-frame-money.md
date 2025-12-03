@@ -1,7 +1,7 @@
 ---
 
 title:  "Best hardtail MTB frames for the money"
-date:   2017-04-04 17:00:00 +0200
+date: "2017-04-04 17:00:00 +0200"
 tags: mtb frame roundup
 last_modified_at: '2023-07-06T00:00:00+02:00'
 description: "Best Hardtail Frame for the Money - A guide to finding the best hardtail mountain bike frame that offers excellent value."

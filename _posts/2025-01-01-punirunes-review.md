@@ -1,6 +1,6 @@
 ---
 title: Punirunes - A Complete Review
-date: 2025-01-01 00:00:00 +0200
+date: "2025-01-01"
 tags: [review, toys, virtual pet, Punirunes]
 last_modified_at: '2025-03-29T18:11:09+02:00'
 ---
@@ -63,4 +63,4 @@ If you’re a fan of virtual pets or just looking for a fun and interactive toy,
 
 **Ready to embark on an adventure with Punirunes? Find the best prices online with [{{ site.constants.wsibName }}]({{ site.constants.wsib }}punirunes).**
 
-We highly recommend giving Punirunes a try. Purchase it today and embark on an adventure filled with love, care, and lots of cuddles!
+We highly recommend giving Punirunes a try.

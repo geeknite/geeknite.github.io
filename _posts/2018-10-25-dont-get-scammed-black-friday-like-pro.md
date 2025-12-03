@@ -1,7 +1,7 @@
 ---
 
 title:  "Don't get scammed and prepare for Black Friday like a PRO"
-date:   2018-10-25 17:00:00 +0200
+date: "2018-10-25 17:00:00 +0200"
 tags: smartshopping black-friday
 redirect_from:
     - /2018/10/ont-get-scammed-prepare-black-friday-like-pro.html

@@ -1,7 +1,7 @@
 ---
 
 title:  "Benefits of mountain biking for the middle aged"
-date:   2022-11-03 17:00:00 +0200
+date: "2022-11-03 17:00:00 +0200"
 tags: mtb cycling health
 description: "The Benefits of Mountain Biking in Middle Age - Discover the advantages and joys of mountain biking for individuals in their middle age."
 last_modified_at: '2023-07-06T00:00:00+02:00'

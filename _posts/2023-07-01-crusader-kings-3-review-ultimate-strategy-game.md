@@ -1,6 +1,6 @@
 ---
 title: "Crusader Kings III: The Ultimate Strategy Game That Will Transport You Back In Time"
-date: 2023-07-01 08:00:00 +0200
+date: "2023-07-01"
 tags:
 - review
 - gaming

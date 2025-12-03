@@ -1,6 +1,6 @@
 ---
 title:  "Prepare for Black Friday in 2022"
-date:   2022-11-05 17:00:00 +0200
+date: "2022-11-05 17:00:00 +0200"
 tags: smartshopping black-friday deals amazon shopping
 last_modified_at: '2025-08-13T00:00:00+02:00'
 description: "Essential Black Friday 2022 preparation guide with smart shopping strategies, Amazon Prime considerations, and tips to avoid impulse purchases during the biggest sale season."

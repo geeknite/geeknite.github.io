@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi Redmi 15 Review: A Mid-Range Marvel or Just Meh?"
-date: 2025-06-04
+date: "2025-06-04"
 tags: [Xiaomi, Redmi, smartphones, reviews, tech]
 description: "A deep dive into the Xiaomi Redmi 15. Is it the mid-range phone you need in 2025?"
 ---

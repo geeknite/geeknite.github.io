@@ -1,6 +1,6 @@
 ---
 title: "Top 5 Relojes GPS Chinos vs Garmin: ¿Quién Gana la Batalla?"
-date: 2025-03-11
+date: "2025-03-11"
 tags: [GPS, relojes, tecnología, comparación, deporte]
 description: "Una comparación épica entre los mejores relojes GPS chinos y Garmin. Descubre cuál es el mejor para ti y tu muñeca."
 last_modified_at: '2025-08-25T18:59:50+02:00'

@@ -1,6 +1,6 @@
 ---
 title: "Review: The New Shimano Ultegra R8000 Groupset - A Game Changer for Cyclists"
-date: 2023-10-01 10:00:00 +0200
+date: "2023-10-01"
 tags:
 - Cycling
 - Gadgets

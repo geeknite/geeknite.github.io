@@ -1,11 +1,18 @@
 ---
 title: "Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders"
-tags: [enduro, helmets, bluegrass, rogue, review, mountain bike, safety, cycling gear]
-filename: 2023-07-18-bluegrass-rogue-helmet-review.md
-description: "Complete review of the Bluegrass Rogue enduro helmet: design, fit, ventilation, safety features and comparison with Bell Super 3R MIPS and other alternatives"
-date: 2023-07-18
-last_modified_at: '2025-08-13T10:00:00+02:00'
-excerpt: "Detailed analysis of the Bluegrass Rogue helmet covering design, ventilation, safety certifications and value compared to other enduro helmets"
+tags:
+  [
+    enduro,
+    helmets,
+    bluegrass,
+    rogue,
+    review,
+    mountain bike,
+    safety,
+    cycling gear,
+  ]
+date: "2023-07-18"
+last_modified_at: "2025-08-13T10:00:00+02:00"
 redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
 ---
 

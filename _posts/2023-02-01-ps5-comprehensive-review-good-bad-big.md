@@ -1,7 +1,7 @@
 ---
 
 title: "The PS5: A Comprehensive Review of the Good, the Bad, and the Big"
-date: 2023-02-01 1:00:00 +0200
+date: "2023-02-01 1:00:00 +0200"
 tags: gaming PS5 review
 description: "Discover the hilarious and unfiltered side of the PS5 in this comprehensive review. Explore the good, the bad, and the big of this powerful gaming console, including its size, price, exclusive games, and DualSense controller. Get the inside scoop on what makes the PS5 a must-have for gamers."
 redirect_from:

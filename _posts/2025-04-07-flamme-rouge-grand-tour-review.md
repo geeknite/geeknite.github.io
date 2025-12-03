@@ -1,9 +1,18 @@
 ---
-title: 'Flamme Rouge Grand Tour Review: The Ultimate Cycling Expansion'
-date: '2025-04-07'
-tags: ['board games', 'review', 'Flamme Rouge', 'expansions', 'racing games', 'cycling games', 'strategy games']
-description: 'Complete Flamme Rouge Grand Tour review: multi-stage racing, new tracks, and strategic depth. Is this cycling board game expansion worth buying in 2025?'
-last_modified_at: '2025-08-14T12:00:00+02:00'
+title: "Flamme Rouge Grand Tour Review: The Ultimate Cycling Expansion"
+date: "2025-04-07"
+tags:
+  [
+    "board games",
+    "review",
+    "Flamme Rouge",
+    "expansions",
+    "racing games",
+    "cycling games",
+    "strategy games",
+  ]
+description: "Complete Flamme Rouge Grand Tour review: multi-stage racing, new tracks, and strategic depth. Is this cycling board game expansion worth buying in 2025?"
+last_modified_at: "2025-08-14T12:00:00+02:00"
 ---
 
 [![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}flamme rouge grand tour)
@@ -16,17 +25,17 @@ As someone who's spent countless hours with racing board games—from the Formul
 
 ## The Core Game
 
-Before we get into the nitty-gritty of the Grand Tour expansion, let’s take a quick refresher on what makes Flamme Rouge such a beloved game. Flamme Rouge is a fast-paced bicycle racing game where players control a team of two cyclists, a Rouleur and a Sprinteur, each with their unique deck of movement cards. The objective? To navigate the peloton, manage your energy, and cross the finish line first.
+Before we get into the nitty-gritty of the Grand Tour expansion, let’s take a quick refresher on what makes Flamme Rouge such a beloved game. Flamme Rouge is a fast-paced bicycle racing game where players control a team of two cyclists, a Rouleur and a Sprinteur, each with their unique deck of movement cards. The objective is to cross the finish line first while managing energy levels and drafting behind other racers. The game's tactical depth and the excitement of sprinting to the finish line make it a favorite among board gamers.
 
-The game’s elegant mechanics and strategic depth make it a hit among both casual gamers and hardcore strategists. The base game itself has received rave reviews and is ranked #448 on BoardGameGeek.
+**Pro Tip:** Energy management in Flamme Rouge mirrors real cycling strategy—always save something for the final sprint, because there's nothing worse than watching opponents surge past while you're stuck with exhaustion cards. 【4:0†source】
 
 **Pro Tip:** Always save some energy for the final sprint. Trust me, there’s nothing worse than running out of steam right before the finish line.
 
-## Grand Tour Expansion: Multi-Stage Racing Excellence
+### Components and Quality
 
-The **Grand Tour expansion** transforms Flamme Rouge from individual races into epic multi-stage competitions. This isn't just about adding more content—it's about recreating the grueling nature of cycling's most prestigious events. Where the base game excels at single-race tactics, Grand Tour introduces campaign-style strategy that unfolds over multiple stages.
+The Grand Tour expansion comes with high-quality components, including beautifully illustrated track tiles, additional rider cards, and new event cards that introduce varied race conditions. The artwork continues to impress, maintaining the same high standards set by the base game.
 
-### Enhanced Track Variety
+### Gameplay Enhancements
 
 One of the most exciting aspects of the Grand Tour expansion is the introduction of new tracks that capture the essence of famous cycling routes. These tracks are designed to challenge players in unique ways, encouraging them to adapt their strategies based on the specific demands of each stage.
 

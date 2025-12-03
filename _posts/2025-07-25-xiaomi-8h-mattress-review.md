@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi 8H Mattress Review: A Dream or a Nightmare?"
-date: 2025-07-25
+date: "2025-07-25"
 tags: [Xiaomi, mattress, reviews, sleep, comfort]
 description: "Dive into the world of Xiaomi's 8H mattress. Does it offer the comfort and support you need for a good night's sleep? Let's find out!"
 ---

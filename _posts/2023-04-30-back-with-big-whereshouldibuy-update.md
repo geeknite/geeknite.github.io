@@ -1,6 +1,6 @@
 ---
 title: "We’re Back! An Update on our Progress and What’s Coming Next"
-date: 2023-04-30 17:00:00 +0200
+date: "2023-04-30"
 tags:
 - whereshouldibuy
 - update

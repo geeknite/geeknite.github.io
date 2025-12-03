@@ -1,7 +1,7 @@
 ---
 
 title:  "Portabidones laterales - Zefal Wiiz"
-date:   2018-10-02 17:00:00 +0200
+date: "2018-10-02 17:00:00 +0200"
 tags: español mtb review
 description: "Portabidones Laterales Zefal Wiiz - Review and analysis of the Zefal Wiiz side-entry bottle cage."
 last_modified_at: '2023-07-06T00:00:00+02:00'
