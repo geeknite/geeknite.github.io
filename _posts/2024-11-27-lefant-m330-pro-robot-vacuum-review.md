@@ -1,8 +1,8 @@
 ---
 title: "Lefant M330 Pro: The Robot Vacuum for Geeks"
-date: 2025-11-27
-tags: [Lefant, Robot Vacuum, Review, Gadgets]
-description: "An in-depth and humorous review of the Lefant M330 Pro robot vacuum. Discover its features, quirks, and why it's the perfect addition to your smart home setup."
+date: 2024-11-27
+tags: [Lefant, Robot Vacuum, Review, Gadgets, Smart Home]
+description: "Review completo del robot aspirador Lefant M330 Pro: características, rendimiento y por qué es perfecto para tu smart home geek."
 ---
 
 ![Lefant M330 Pro](https://www.example.com/lefant-m330-pro.jpg){: style="float: right;"}({{ site.constants.wsib }}lefant-m330-pro)
@@ -80,6 +80,7 @@ The Lefant M330 Pro is a fantastic addition to any smart home. Its powerful suct
 **Ready to upgrade your cleaning game? [Find the best deals on the Lefant M330 Pro here](https://www.example.com/lefant-m330-pro)!**
 
 **Related Reviews:**
+
 - [Top 5 Robot Vacuums for Pet Hair]({%- post_url 2025-03-15-top-5-robot-vacuums-for-pet-hair -%})
 - [How to Set Up Your Smart Home]({%- post_url 2025-04-10-how-to-set-up-your-smart-home -%})
 - [Alexa vs Google Assistant: Which Is Better?]({%- post_url 2025-05-01-alexa-vs-google-assistant -%})
