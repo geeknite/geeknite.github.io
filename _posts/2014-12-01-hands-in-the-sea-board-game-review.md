@@ -82,7 +82,7 @@ Hands in the Sea is a captivating and strategically rich game that offers a deep
 
 ## More Gaming Adventures
 
-- [Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+- [Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
 - [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
 
