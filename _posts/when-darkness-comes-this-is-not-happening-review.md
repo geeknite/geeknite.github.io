@@ -1,77 +1,76 @@
 ---
-title: "When Darkness Comes: This is Not Happening - A Review"
-date: "2025-12-07"
-tags: ["board games", "review", "When Darkness Comes", "strategy games"]
-description: "Delve into the dark and thrilling world of 'When Darkness Comes: This is Not Happening' in our comprehensive review. Explore gameplay, components, and why this game is a must-have for horror enthusiasts."
+title: 'When Darkness Comes: This is Not Happening Review'
+date: '2025-12-08'
+tags: ['board games', 'review', 'horror', 'When Darkness Comes']
+description: 'A terrifyingly humorous and detailed review of When Darkness Comes: This is Not Happening. Find out why this game is a must-have for horror board game enthusiasts!'
 ---
 
-[![When Darkness Comes: This is Not Happening](https://example.com/when_darkness_comes.jpg){: .align-right}]({{ site.constants.wsib }}when-darkness-comes-this-is-not-happening)
+![When Darkness Comes: This is Not Happening](https://example.com/when-darkness-comes.jpg){: .align-right}
 
 ## Introduction
 
-Hello, brave souls! Today, we are diving into the nightmarish and enigmatic world of **When Darkness Comes: This is Not Happening**. Prepare yourself for a spine-chilling journey filled with mystery, strategy, and, of course, plenty of scares. If you're a fan of horror-themed board games that test your wits and courage, then buckle up, because this game is right up your dark alley.
+Welcome, brave souls and horror aficionados! Today, we're delving into the spine-tingling world of **When Darkness Comes: This is Not Happening**. If you've ever wanted to experience sheer terror, suspense, and a touch of the absurd right from the comfort of your living room, then this game is perfect for you. Prepare yourself for a thrilling ride filled with eerie moments, strategic decisions, and perhaps a few laughs when things go hilariously wrong.
 
 ## The Basics
 
-### What is 'When Darkness Comes: This is Not Happening'?
+### What is When Darkness Comes: This is Not Happening?
 
-'When Darkness Comes: This is Not Happening' is a horror-themed, scenario-based board game designed for 2-6 players. Players take on the roles of investigators who must uncover the truth behind eerie events while surviving the horrors that lurk in the darkness. With its modular board system and intricate storytelling, every game session offers a unique experience.
+When Darkness Comes: This is Not Happening is a modular, scenario-based horror board game that thrusts you into a world of supernatural horrors and creepy mysteries. Designed by Jeff and Heather Tidball, this game captures the essence of classic horror films, allowing players to engage in terrifying adventures where every decision could mean the difference between life and a gruesome demise.
 
 ### Components
 
-The game comes with:
-- **Modular Board Tiles**: These tiles allow for a customizable game board, ensuring that no two games are ever the same.
-- **Character Sheets**: Each player has a character sheet that tracks their stats, items, and sanity.
-- **Event and Item Cards**: These cards add depth to the gameplay, introducing new challenges and tools for players.
-- **Miniatures**: Intricately designed miniatures represent the characters and the various horrors they face.
-- **Rulebook**: A comprehensive guide to help you navigate the dark and twisted world of the game.
+The game comes with a plethora of components, including beautifully detailed miniatures, a game board with various modular tiles, scenario booklets, and a deck of cards containing items, events, and encounters. The artwork and build quality are top-notch, ensuring an immersive horror experience. Don’t forget the rule book – it’s thick enough to be used as a weapon against small intruders.
 
-## Gameplay
+## The Gameplay
 
 ### Setting Up
 
-Setting up 'When Darkness Comes: This is Not Happening' is like preparing for a horror movie night but with more pieces and fewer popcorns. Lay out the modular tiles to create the board, distribute character sheets, and shuffle the event and item cards. Once everything is in place, you're ready to start your investigation.
+Setting up When Darkness Comes: This is Not Happening is like preparing for a haunted house experience. Lay out the game board, place the miniatures, and distribute the cards. It requires careful planning and a bit of patience, but once everything is in place, the real horror begins.
 
 ### Turns and Actions
 
-Each turn, players can perform several actions, including moving, searching for items, interacting with the environment, and confronting the horrors that emerge. The game's turn-based system ensures that players must think strategically and cooperate to survive.
+Each turn, players draw cards and perform actions based on their characters’ abilities and the current scenario’s objectives. These actions range from exploring creepy locations and fighting off monstrous foes to gathering essential items and completing story-driven tasks. Cooperation and strategy are key to surviving the night.
 
-### The Horror Mechanic
+### Combat and Survival
 
-The game introduces a unique horror mechanic that affects the sanity of the characters. As players encounter terrifying events or creatures, their sanity may deteriorate, leading to various psychological effects that can alter gameplay. Maintaining your sanity is just as crucial as staying alive.
+Combat in When Darkness Comes is a mix of strategic planning and luck. Players roll dice to determine the outcomes of their actions, such as attacking enemies or escaping from danger. Did you plan an epic escape only to trip and get caught? Welcome to When Darkness Comes, where even the best-laid plans can go awry.
 
 ## The Story
 
-### Scenario-Based Gameplay
+### Scenarios and Campaigns
 
-'When Darkness Comes: This is Not Happening' is driven by its scenario-based gameplay. Each scenario presents a different story with its objectives, challenges, and horrors. Whether you're investigating a haunted mansion or uncovering a cult's dark secrets, the narrative keeps you engaged and on the edge of your seat.
+The storyline unfolds through various scenarios, each presenting unique challenges and eerie settings. It's like reading a horror novel, except you’re one of the characters, and your decisions shape the outcome. Spoiler: Things will get spooky.
 
-### Character Development
+### Characters and Evolution
 
-Characters in the game evolve as the story progresses. Gaining new items, skills, and scars (both physical and mental) adds layers of depth and replayability. Players must balance their strengths and weaknesses to survive the unfolding horrors.
+There are numerous characters to choose from, each with their own unique abilities and backstories. As you progress through the campaigns, characters can evolve, gain new abilities, and acquire items that aid in their survival. Just be careful not to get too attached – death is always lurking around the corner.
 
 ## Pros and Cons
 
 ### Pros
 
-- **Immersive Experience**: The game's narrative and mechanics create a deeply immersive experience that horror fans will love.
-- **Replayability**: With modular tiles and various scenarios, no two games are ever the same, ensuring endless replayability.
-- **Strategic Depth**: The need for cooperation and strategic planning keeps players engaged and challenged.
+- **Immersive Gameplay**: You’ll feel like you’re in a horror movie, grappling with supernatural threats and uncovering dark secrets.
+- **Replayability**: With multiple scenarios and modular tiles, no two games are ever the same.
+- **Strategic Depth**: Every decision matters, making cooperation and planning crucial for survival.
+- **High-Quality Components**: The miniatures and artwork are beautifully designed and durable.
+- **Humor**: Despite the horror theme, there are plenty of opportunities for humor, making the experience enjoyable even when things go wrong.
 
 ### Cons
 
-- **Complex Setup**: The initial setup can be time-consuming and may require a bit of patience.
-- **High Difficulty**: The game can be punishing, making it challenging for new players or those who prefer less intense experiences.
-- **Component Quality**: While the miniatures and tiles are detailed, they may not be as durable as some players would like.
+- **Complex Setup**: Be prepared to spend a good amount of time setting up each scenario.
+- **Punishing Difficulty**: The game can be brutal, making some scenarios feel overwhelming.
+- **Rule Overload**: The rule book is hefty, and you might need a PhD in rule interpretation.
 
 ## Final Thoughts
 
-'When Darkness Comes: This is Not Happening' is a thrilling and challenging board game that offers a unique blend of horror and strategy. Its immersive scenarios, strategic depth, and high replayability make it a must-have for fans of horror-themed games. Just be prepared for a complex setup and a difficulty level that will test your mettle.
+When Darkness Comes: This is Not Happening is not just a board game; it’s an experience. If you’re ready to commit to a challenging and terrifying campaign, this game will provide countless hours of entertainment. Just remember to bring your patience, a sense of humor, and maybe a backup plan for when things go horribly wrong.
 
-**Ready to face the darkness?** Head over to [Geeknite's Board Games Section](https://geeknite.com/boardgames) and grab your copy of 'When Darkness Comes: This is Not Happening' today. It's time to uncover the truth and survive the night!
+**Ready to face the darkness?** Grab your copy of When Darkness Comes: This is Not Happening today and start your spooky adventure!
 
-## Other Horror-Themed Games to Check Out
+{% include amazon.html asin="B01L1FNMVO" imageUrl="https://i.imgur.com/BFG0Rye.jpg" %}
 
-If you love 'When Darkness Comes: This is Not Happening,' be sure to explore our reviews of [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}) and [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).
+## Other Horror Board Games to Check Out
 
-**Dare to delve into the darkness?** Don't miss out on the spine-chilling fun!
+If you love When Darkness Comes, be sure to check out our reviews of [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}) or [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).
+
+**Ready to embrace the horror?** Don’t miss out on the fun!
