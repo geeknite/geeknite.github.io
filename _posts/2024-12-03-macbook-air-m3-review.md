@@ -4,11 +4,13 @@ date: 2024-12-03
 tags: [MacBook Air, Apple, Gadgets, Review, Technology]
 ---
 
-![MacBook Air M3](https://www.apple.com/v/macbook-air-m3/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-air-m3)
+[![MacBook Air M3](https://www.apple.com/v/macbook-air-m3/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: .align-right}]({{ site.constants.wsib }}MacBook Air M3)
 
 ## Introduction
 
 Bienvenidos a nuestra review completa del MacBook Air M3, la última evolución de la icónica línea ultraportátil de Apple. Con el nuevo chip M3, Apple promete un salto significativo en rendimiento manteniendo la eficiencia energética que caracteriza a esta serie. ¿Representa realmente un avance sustancial o es simplemente una actualización iterativa? Analicemos todos los aspectos en detalle.
+
+**CTA rápida:** mira el precio actual del **MacBook Air M3** en {{ site.constants.wsib }} ➜ [ver oferta]({{ site.constants.wsib }}MacBook Air M3)
 
 ## Design and Build Quality
 
@@ -77,4 +79,16 @@ The 1080p FaceTime HD camera is a significant upgrade, ensuring you look your be
 
 The MacBook Air M3 is a remarkable piece of technology that sets a new standard for ultraportable laptops. Its blend of performance, design, and features makes it the ultimate lightweight champion. If you're in the market for a new laptop and can afford the hefty price tag, the MacBook Air M3 is worth every penny.
 
-**Ready to upgrade to the MacBook Air M3? [Find the best deals here](https://www.apple.com/shop/buy-mac/macbook-air)!**
+## ¿Para quién es?
+
+- Estudiantes i professionals que busquen portabilitat i autonomia real d'un dia.
+- Creatius lleugers (foto/vídeo moderat) que prefereixen silenci i pantalla de qualitat.
+- Usuaris Apple que volen integració completa sense necessitat de GPU dedicada pesada.
+
+## FAQ exprés
+
+**¿Serveix per a gaming?** Casual i indie, sí; per AAA exigents millor un portàtil amb GPU dedicada.
+
+**Config recomanada?** 16 GB RAM i 512 GB SSD és el punt dolç per longevitat; 8 GB pot quedar curt amb apps pesades.
+
+**Ready to upgrade to the MacBook Air M3? [Find the best deals here]({{ site.constants.wsib }}MacBook Air M3)!**
