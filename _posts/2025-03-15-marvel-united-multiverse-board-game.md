@@ -5,7 +5,7 @@ tags: ['board games', 'review', 'Marvel United', 'multiverse', 'superheroes']
 description: "A hilarious and detailed review of Marvel United: Multiverse Board Game. Find out why this game is a must-have for Marvel fans and board game enthusiasts!"
 ---
 
-[![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel united multiverse)
+![Marvel United: Multiverse](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}
 
 ## Introduction
 
