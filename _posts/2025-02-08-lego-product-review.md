@@ -103,33 +103,10 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
-## LEGO Star Wars AT-AT Walker
-
-[![LEGO Star Wars AT-AT Walker](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75288_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-at-at-walker)
-
-### Overview
-
-The LEGO Star Wars AT-AT Walker is a fantastic set for those who love the ground battles of the Star Wars saga. With over 1,200 pieces, this set includes movable legs and head, spring-loaded shooters, and space to fit minifigures inside.
-
-### Pros
-
-- Movable parts make it highly interactive
-- Detailed build that's faithful to the movies
-- Great for reenacting the Battle of Hoth
-
-### Cons
-
-- Less complex than the Millennium Falcon or Death Star
-- Somewhat fragile; not ideal for younger builders
-
-### Final Thoughts
-
-The LEGO Star Wars AT-AT Walker is perfect for fans of the epic ground battles in Star Wars. Its interactive features and detailed design make it a fun addition to any LEGO Star Wars collection. Just make sure your snow speeders are ready to trip it up!
-
 ## Conclusion
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
 **Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/lego-star-wars) and find the perfect addition to your collection today!**
 
-**Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
+{% include amazon.html asin="B09XX5FVHJ" %}
