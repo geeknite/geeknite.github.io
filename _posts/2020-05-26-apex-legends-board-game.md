@@ -81,5 +81,4 @@ So, gather your squad, gear up, and dive into the thrilling world of Apex Legend
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})

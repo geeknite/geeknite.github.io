@@ -67,4 +67,3 @@ FC25 is as addictive and frustrating as ever. Whether you're playing solo, build
 For more reviews and gaming news, check out our previous posts:
 
 - [PS5 Pro Review: The Ultimate Gaming Console of 2025]({%- post_url 2025-03-07-ps5-pro-review -%})
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})

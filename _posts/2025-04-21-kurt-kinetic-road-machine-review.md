@@ -78,7 +78,6 @@ Now, let’s talk about some of the quirks that make the Kurt Kinetic Road Machi
 
 The Wahoo Kickr offers advanced training features and a more polished app experience. However, it comes at a significantly higher price point. If you're serious about indoor training and have the budget, it's worth considering.
 
-### [Tacx NEO 2T]({%- post_url 2022-07-24-garmin-edge-530-vs-igpsport-630 -%})
 
 The Tacx NEO 2T adds smart features and enhanced connectivity, making it a premium choice for serious cyclists. It's a fantastic option if you're willing to splurge.
 

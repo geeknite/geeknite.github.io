@@ -1,7 +1,15 @@
 ---
 title: "Terrain Crate MGSS305 Starship Doors (Scenery) Star Saga Mantic Games Miniatures: A Galactic Review"
 date: "2020-02-15"
-tags: ['board games', 'miniatures', 'review', 'terrain crate', 'star saga', 'mantic games']
+tags:
+  [
+    "board games",
+    "miniatures",
+    "review",
+    "terrain crate",
+    "star saga",
+    "mantic games",
+  ]
 description: "Explore the intricate design and functionality of the Terrain Crate MGSS305 Starship Doors from Mantic Games."
 ---
 
@@ -20,6 +28,7 @@ The Terrain Crate MGSS305 Starship Doors is a set of highly detailed miniature d
 ### Components
 
 The set includes:
+
 - **10 unique starship door miniatures**: Each door is intricately designed to fit seamlessly into your sci-fi terrain.
 - **High-quality materials**: Made from durable plastic, these miniatures are built to withstand the rigors of tabletop gaming.
 - **Easy assembly**: The doors come pre-assembled, so you can spend more time gaming and less time gluing tiny pieces together.
@@ -82,6 +91,5 @@ The Terrain Crate MGSS305 Starship Doors by Mantic Games are a fantastic additio
 
 - **[Marvel United Multiverse Board Game Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Don't miss out on the fun! Upgrade your gaming terrain with the Terrain Crate MGSS305 Starship Doors today!**

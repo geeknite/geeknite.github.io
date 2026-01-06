@@ -1,8 +1,8 @@
 ---
-title: 'Funko POP! Star Wars: The Mandalorian - Darth Maul Review'
-date: '2019-11-20'
-tags: ['Funko POP', 'Star Wars', 'The Mandalorian', 'Darth Maul', 'Review']
-description: 'Join us for a hilarious and detailed review of the Funko POP! Star Wars: The Mandalorian - Darth Maul. Find out why this collectible is a must-have for any Star Wars fan!'
+title: "Funko POP! Star Wars: The Mandalorian - Darth Maul Review"
+date: "2019-11-20"
+tags: ["Funko POP", "Star Wars", "The Mandalorian", "Darth Maul", "Review"]
+description: "Join us for a hilarious and detailed review of the Funko POP! Star Wars: The Mandalorian - Darth Maul. Find out why this collectible is a must-have for any Star Wars fan!"
 ---
 
 ![Funko POP! Star Wars: The Mandalorian - Darth Maul](https://example.com/darth_maul.jpg){: .align-right}
@@ -15,7 +15,7 @@ Welcome, fellow geekonauts! Today, we're diving into the world of Funko POP! fig
 
 ### What is Funko POP!?
 
-Funko POP! figures are vinyl collectibles known for their oversized heads and adorable designs. Whether you're into superheroes, movie characters, or even mythical creatures, there's a Funko POP! for everyone. And today, we're spotlighting one of the coolest figures in the galaxy - **Darth Maul** from *The Mandalorian*.
+Funko POP! figures are vinyl collectibles known for their oversized heads and adorable designs. Whether you're into superheroes, movie characters, or even mythical creatures, there's a Funko POP! for everyone. And today, we're spotlighting one of the coolest figures in the galaxy - **Darth Maul** from _The Mandalorian_.
 
 ### Components
 
@@ -31,7 +31,7 @@ The Funko POP! Darth Maul figure comes with:
 
 ### Appearance
 
-Darth Maul, as portrayed in *The Mandalorian*, looks absolutely menacing in this Funko POP! rendition. The red skin, black tattoos, and piercing yellow eyes capture his villainous charm perfectly. And let's not forget the dual-bladed lightsaber - this figure means business.
+Darth Maul, as portrayed in _The Mandalorian_, looks absolutely menacing in this Funko POP! rendition. The red skin, black tattoos, and piercing yellow eyes capture his villainous charm perfectly. And let's not forget the dual-bladed lightsaber - this figure means business.
 
 ### Quality
 
@@ -60,6 +60,5 @@ The Funko POP! Star Wars: The Mandalorian - Darth Maul is a fantastic addition t
 
 - **[LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-25-star-wars-lego-review -%})**
 - **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to expand your collection? Click [here](https://example.com) to find more awesome collectibles! Happy collecting!**

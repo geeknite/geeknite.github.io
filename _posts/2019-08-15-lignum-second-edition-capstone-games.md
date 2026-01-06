@@ -3,7 +3,7 @@ title: "Lignum (Second Edition) - Capstone Games: The Lumberjack's Dream"
 date: 2019-08-15
 tags: [board games, review, Capstone Games, Lignum, strategy games]
 description: "Comprehensive review of Lignum (Second Edition) by Capstone Games. Dive into the world of lumberjacks and strategic planning in this detailed and humorous review."
-last_modified_at: '2025-12-24T17:12:01+0200'
+last_modified_at: "2025-12-24T17:12:01+0200"
 ---
 
 [![Lignum Second Edition](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}lignum-second-edition)
@@ -80,7 +80,5 @@ Ready to channel your inner lumberjack? Check out Lignum (Second Edition) on [Ge
 **Call to Action**: Ready to become the ultimate lumberjack? Click [here]({{ site.constants.wsib }}lignum-second-edition) to get your copy of Lignum (Second Edition) now and receive an exclusive discount! Happy logging!
 
 ---
-For more reviews and board game recommendations, check out our previous posts:
 
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+For more reviews and board game recommendations, check out our previous posts:

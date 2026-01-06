@@ -77,5 +77,4 @@ So, gather your fellow aviators, set your sights on the enemy, and take to the s
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
 - [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})

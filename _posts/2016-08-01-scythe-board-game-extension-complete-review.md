@@ -901,7 +901,6 @@ If you love Scythe, absolutely yes.
 **More Scythe reviews and guides**:
 
 - [Scythe Base Game Complete Review]({%- post_url 2016-08-01-scythe-board-game-extension-complete-review -%})
-- [Top 10 Strategy Board Games 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 
 **Other expansion reviews**:
 

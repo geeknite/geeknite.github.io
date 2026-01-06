@@ -67,7 +67,7 @@ The Thomson Elite is another great alternative. While lacking remote lockout, it
 
 So, is the Kind Shock seatpost worth it? If you're looking for a budget-friendly suspension seatpost with solid features and can tolerate a few quirks, the answer is yes. It's accurate, affordable, and gets the job done. Just be prepared for a bit of drama with the remote lockout.
 
-At the time of writing this review, [the Kind Shock seatpost is priced at $159.99 on Amazon](https://www.amazon.com/dp/B09XX5FVHJ?tag={{ site.constants.amazon*com }}&linkId=635da0370c647bf7e7ac29d87b70330a&language=en_US&ref*=as_li_ss_tl){: rel="nofollow"} with the option to take a further $10 off using a digital voucher.
+At the time of writing this review, [the Kind Shock seatpost is priced at $159.99 on Amazon]({{ site.constants.wsib }}Kind Shock seatpost) with the option to take a further $10 off using a digital voucher.
 
 **Related Reviews & Comparisons:**
 

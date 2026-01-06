@@ -1,7 +1,7 @@
 ---
 title: "Viticulture: Tuscany - The Ultimate Guide to Grape Glory"
 date: 2015-11-15
-tags: ['board games', 'review', 'Viticulture', 'Tuscany', 'strategy games']
+tags: ["board games", "review", "Viticulture", "Tuscany", "strategy games"]
 description: "Expand your vineyard with Viticulture: Tuscany. Our in-depth review covers everything from gameplay to strategy tips."
 ---
 
@@ -72,6 +72,3 @@ Viticulture: Tuscany is a must-have expansion for fans of the base game. It adds
 **Call to Action:** Don’t miss out on the ultimate vineyard experience! Click [here]({{ site.constants.wsib }}viticulture-tuscany) to get your copy of Viticulture: Tuscany and receive an exclusive discount! Cheers!
 
 For more reviews and board game recommendations, check out our previous posts:
-
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})

@@ -10,9 +10,7 @@ last_modified_at: '2025-08-14T12:00:00+02:00'
 
 ## Introduction: The Evolution of Cycling Board Games
 
-Welcome, fellow board game enthusiasts! Today, we're diving deep into **Flamme Rouge: Grand Tour**, the expansion that has transformed an already excellent cycling game into a multi-stage epic. If you've been following our [comprehensive racing board games coverage]({%- post_url 2023-06-15-top-10-racing-board-games -%}), you'll know that Flamme Rouge ranks among the top cycling simulations available. This Grand Tour expansion takes everything we love about the base game and elevates it to new heights.
 
-As someone who's spent countless hours with racing board games—from the Formula 1 thrills of [Formula D to the strategic betting of Downforce]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})—I can confidently say that Grand Tour offers something uniquely compelling in the cycling simulation space.
 
 ---
 
@@ -92,5 +90,3 @@ Downforce adds a betting element to the racing game genre. Players bid on cars a
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})

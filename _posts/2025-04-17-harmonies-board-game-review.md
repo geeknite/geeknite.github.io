@@ -1,9 +1,9 @@
 ---
-title: 'Harmonies: Board Game Review'
-date: '2025-04-17'
+title: "Harmonies: Board Game Review"
+date: "2025-04-17"
 last_modified_at: "2026-01-05"
-tags: ['board games', 'review', 'Harmonies', 'strategy games', 'family games']
-description: 'A detailed and humorous review of Harmonies board game. Discover why this game is perfect for your next family game night!'
+tags: ["board games", "review", "Harmonies", "strategy games", "family games"]
+description: "A detailed and humorous review of Harmonies board game. Discover why this game is perfect for your next family game night!"
 ---
 
 ![Trekking The National Parks Board Game](https://example.com/trekking-the-national-parks.jpg){: style='float: right;'}
@@ -57,5 +57,4 @@ Trekking The National Parks: The Board Game - Second Edition is a fantastic addi
 For more reviews and board game recommendations, check out our previous posts:
 
 - [Marvel United Multiverse Board Game Review]({% post_url 2023-08-15-marvel-united-multiverse-review %})
-- [Top 10 Racing Board Games]({% post_url 2023-06-15-top-10-racing-board-games %})
 - [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %})

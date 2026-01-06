@@ -84,6 +84,5 @@ So, gather your friends, equip your characters, and dive into the terrifying wor
 
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to fight the undead? Click [here]({{ site.constants.wsib }}resident-evil-2-board-game) to get your copy now and receive an exclusive discount! Happy surviving!**

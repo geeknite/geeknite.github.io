@@ -81,11 +81,9 @@ Here are some pro tips to make your eBay shopping experience smooth and enjoyabl
 
 ## **Comparison with Other Platforms**
 
-### [Amazon vs eBay: Where Should You Buy Your Tech?]({%- post_url 2025-03-15-amazon-vs-ebay-tech-buying-guide -%})
 
 While Amazon offers convenience and fast shipping, eBay shines with its competitive pricing and global availability. For Xiaomi gadgets, eBay often has exclusive deals that are hard to beat.
 
-### [Top 5 Xiaomi Gadgets of 2025]({%- post_url 2025-04-01-top-5-xiaomi-gadgets -%})
 
 If you’re curious about other Xiaomi products worth buying, check out our list of the top 5 Xiaomi gadgets of 2025. Spoiler: the Mi 12 Ultra makes the cut. -->
 {% endcomment %}

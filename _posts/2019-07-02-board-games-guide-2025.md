@@ -15,7 +15,6 @@ Welcome, fellow board game enthusiasts! Today, we're diving into the thrilling w
 
 [![Harmonies Board Game](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}harmonies-board-game)
 
-**Harmonies** is a beautifully crafted tile-placement strategy game designed by Johan Benvenuto and published by Libellud. Unlike the high-speed action of games in our [ultimate racing games guide]({%- post_url 2025-01-12-board-games-recommendations-2025 -%}), Harmonies focuses on creating serene landscapes and natural habitats. The game accommodates 1-4 players and takes about 30-45 minutes to play, making it perfect for both casual and serious gaming sessions.
 
 #### Components and Quality
 
@@ -109,7 +108,6 @@ One of the best aspects of Spider-Geddon is the humor built into the gameplay. F
 
 [![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}flamme rouge grand tour)
 
-**Flamme Rouge: Grand Tour** is an expansion that has transformed an already excellent cycling game into a multi-stage epic. If you've been following our [comprehensive racing board games coverage]({%- post_url 2023-06-15-top-10-racing-board-games -%}), you'll know that Flamme Rouge ranks among the top cycling simulations available. This Grand Tour expansion takes everything we love about the base game and elevates it to new heights.
 
 #### Enhanced Track Variety
 
@@ -143,5 +141,4 @@ Whether you're into serene landscapes, spider invasions, or epic cycling tours, 
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})

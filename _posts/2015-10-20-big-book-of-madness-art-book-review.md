@@ -13,7 +13,7 @@ Greetings, art enthusiasts and board game aficionados! Today, we're opening the 
 
 ## What is The Big Book of Madness Art Book?
 
-The Big Book of Madness Art Book is a *spellbinding* collection of illustrations, concept art, and behind-the-scenes magic from the popular cooperative board game, *The Big Book of Madness*. Whether you're a wannabe wizard or an art lover, this book offers a deep dive into the creative world behind the game.
+The Big Book of Madness Art Book is a _spellbinding_ collection of illustrations, concept art, and behind-the-scenes magic from the popular cooperative board game, _The Big Book of Madness_. Whether you're a wannabe wizard or an art lover, this book offers a deep dive into the creative world behind the game.
 
 ### Components
 
@@ -79,6 +79,5 @@ The Big Book of Madness Art Book is a must-have for fans of the game and art lov
 
 - **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to explore more art books and board games? Click [here]({{ site.constants.wsib }}big-book-of-madness-art-book) to get your copy now and receive an exclusive discount!**

@@ -1,8 +1,8 @@
 ---
-title: 'Board Royale: The Island - Mini Backpack Review'
-date: '2021-05-15'
-tags: ['board games', 'Board Royale', 'The Island', 'Mini Backpack', 'review']
-description: 'An in-depth review of Board Royale: The Island - Mini Backpack. Pros, cons, and everything you need to know.'
+title: "Board Royale: The Island - Mini Backpack Review"
+date: "2021-05-15"
+tags: ["board games", "Board Royale", "The Island", "Mini Backpack", "review"]
+description: "An in-depth review of Board Royale: The Island - Mini Backpack. Pros, cons, and everything you need to know."
 ---
 
 ## Introduction
@@ -11,7 +11,7 @@ Welcome to another exciting review on Geeknite! Today, we're diving into the min
 
 ## What is Board Royale: The Island?
 
-Okay, so in case you've been living under a rock (or maybe just a game studio), **Board Royale: The Island** is a thrilling survival card game where cunning, strategy, and a bit of luck determine who reigns supreme. Players are stranded on a mysterious island and must use resources, craft tools, build alliances (or rivalries), and ultimately, survive. It's like *Lost*, but with fewer pointless flashbacks.
+Okay, so in case you've been living under a rock (or maybe just a game studio), **Board Royale: The Island** is a thrilling survival card game where cunning, strategy, and a bit of luck determine who reigns supreme. Players are stranded on a mysterious island and must use resources, craft tools, build alliances (or rivalries), and ultimately, survive. It's like _Lost_, but with fewer pointless flashbacks.
 
 ![Board Royale Gameplay](https://i.imgur.com/3zHcfgxm.jpg)
 
@@ -24,6 +24,7 @@ The Mini Backpack Edition is not just a scaled-down version of the original game
 ### Components
 
 Inside the mini backpack, you’ll find:
+
 - 50 Item Cards
 - 50 Resource Cards
 - 10 Action Cards
@@ -70,11 +71,6 @@ For fans of quick, portable games with a more romantic (or at least, less deadly
 
 So, are you ready to become the ultimate survivor? Click [here]({{ site.constants.wsib }}board-royale-mini-backpack) to grab your copy of Board Royale: The Island - Mini Backpack and make your next adventure an epic one!
 
-**Call to Action:** Don’t miss out on the survival fun! Grab Board Royale: The Island - Mini Backpack now and enjoy exclusive discounts. Remember, survival is not just a game, it’s an adventure!
-
-For more reviews and game recommendations, check out our previous posts:
-
-- [Top 10 Travel-Friendly Board Games]({%- post_url 2024-07-10-top-10-travel-friendly-board-games -%})
-- [The Best Survival Games for Hardcore Gamers]({%- post_url 2024-09-15-best-survival-games -%})
+**Call to Action:** Don't miss out on the survival fun! Grab Board Royale: The Island - Mini Backpack now and enjoy exclusive discounts. Remember, survival is not just a game, it's an adventure!
 
 Happy gaming, and may the odds be ever in your favor!

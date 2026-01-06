@@ -1,8 +1,8 @@
 ---
-title: Pixel Watch 3 Review: The Smartwatch We've All Been Waiting For
-date: 2024-08-13
+title: "Pixel Watch 3 Review: The Smartwatch We've All Been Waiting For"
+date: "2024-08-13"
 tags: [Pixel, Google, Smartwatch, Review, Tech]
-description: 'Get ready to dive into the latest and greatest from Google: the Pixel Watch 3. Is this the ultimate smartwatch of 2025? Let's find out!'
+description: "Get ready to dive into the latest and greatest from Google: the Pixel Watch 3. Is this the ultimate smartwatch of 2025? Let's find out!"
 ---
 
 ![Pixel Watch 3](https://example.com/pixel-watch-3.jpg){: style='float: right;'}({{ site.constants.wsib }}pixel-watch-3)

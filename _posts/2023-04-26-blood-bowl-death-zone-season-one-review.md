@@ -82,6 +82,5 @@ Blood Bowl: Death Zone Season One is not just an expansion; it's an adventure th
 
 - **[Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to unite and conquer? Click [here]({{ site.constants.wsib }}blood-bowl-death-zone-season-one) to get your copy now and receive an exclusive discount! Happy gaming!**

@@ -83,7 +83,6 @@ Your board game shelf is full to the brim, and you need to squeeze every last ca
 As promised, here are some links to other captivating board game reads:
 
 - **[Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})**
-- **[Top 10 Racing Board Games: A Fast-Paced Countdown]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 - **[Adventure Tactics or CoraQuest: Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 
 ## **And One Last Bonus Link**

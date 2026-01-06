@@ -73,9 +73,8 @@ Zombicide: Special Guest Edouard Guiton is a fantastic addition to any board gam
 
 ## More Gaming Adventures
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Marvel United: Multiverse Board Game Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to face the zombie horde? Click [here](https://geeknite.com/zombicide-special-guest-edouard-guiton) to get your copy now and receive an exclusive discount! Happy gaming!**

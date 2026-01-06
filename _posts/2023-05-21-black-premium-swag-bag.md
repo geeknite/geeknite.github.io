@@ -67,5 +67,4 @@ Ready to step up your game? {{ site.constants.wsib }}
 For more gaming tips and reviews, check out our other posts:
 
 - [Adult Board Games: Fun for Grown-Ups]({% post_url 2019-11-15-adult-board-games %})
-- [Top 10 Racing Board Games: A Fast-Paced Countdown]({% post_url 2023-06-15-top-10-racing-board-games %})
 - [Adventure Tactics or CoraQuest: Which Game to Choose for Young Teens?]({% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %})

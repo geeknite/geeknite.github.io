@@ -1,7 +1,7 @@
 ---
-title: 'Cthulhu Mythos Collector's Dice Cup Review'
-date: '2020-08-20'
-tags: ['board games', 'dice', 'Cthulhu', 'review']
+title: "Cthulhu Mythos Collector's Dice Cup Review"
+date: "2020-08-20"
+tags: [board games, dice, Cthulhu, review]
 ---
 
 # Cthulhu Mythos Collector's Dice Cup Review
@@ -19,6 +19,7 @@ The Cthulhu Mythos Collector's Dice Cup is a beautifully crafted dice cup adorne
 ### Components
 
 The dice cup includes:
+
 - **Dice Cup**: A leather-like cup with embossed Cthulhu designs. It's sturdy and feels like it could withstand a trip to R'lyeh.
 - **Custom Dice**: Six-sided dice with unique symbols, including the Elder Sign, the Sigil of the Gateway, and the Mark of Cthulhu.
 - **Storage Pouch**: A velvet pouch to keep your dice safe from prying eyes (and tentacles).

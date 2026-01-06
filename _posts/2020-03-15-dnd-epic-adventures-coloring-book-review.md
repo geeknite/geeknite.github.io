@@ -1,8 +1,8 @@
 ---
-title: 'D&D Epic Adventures Coloring Book Review'
-date: '2020-03-15'
-tags: ['coloring book', 'D&D', 'review', 'fun']
-description: 'A hilarious review of the D&D Epic Adventures Coloring Book. Dive into fantasy while coloring your way through epic quests!'
+title: "D&D Epic Adventures Coloring Book Review"
+date: "2020-03-15"
+tags: ["coloring book", "D&D", "review", "fun"]
+description: "A hilarious review of the D&D Epic Adventures Coloring Book. Dive into fantasy while coloring your way through epic quests!"
 ---
 
 ![D&D Epic Adventures Coloring Book](https://i.imgur.com/DnDdEAB.jpg){: style='float: right;'}
@@ -13,11 +13,12 @@ Greetings, fellow adventurers! Today, we embark on a journey not through treache
 
 ## What is the D&D Epic Adventures Coloring Book?
 
-The *D&D Epic Adventures Coloring Book* is not just any coloring book. It combines the thrill of Dungeons & Dragons with the relaxing joy of coloring. It's perfect for fans of the game who want to bring their favorite fantasy scenes to life. Whether you're a seasoned dungeon master or a newbie adventurer, this coloring book offers hours of creative fun.
+The _D&D Epic Adventures Coloring Book_ is not just any coloring book. It combines the thrill of Dungeons & Dragons with the relaxing joy of coloring. It's perfect for fans of the game who want to bring their favorite fantasy scenes to life. Whether you're a seasoned dungeon master or a newbie adventurer, this coloring book offers hours of creative fun.
 
 ## Components
 
 The book includes:
+
 - **Detailed Illustrations**: From fierce dragons to brave heroes, each page is filled with intricate designs waiting for your artistic touch.
 - **Fantasy Scenes**: Epic battles, mystical landscapes, and iconic D&D characters.
 - **Quality Paper**: Thick pages that can handle markers, crayons, and even watercolor (for the truly adventurous).
@@ -36,7 +37,7 @@ Each page offers a new challenge. Will you use bold colors to bring out the fier
 
 ### Creative Expression
 
-One of the best parts of the *D&D Epic Adventures Coloring Book* is the freedom to express your creativity. Add your own details, mix colors, or even doodle extra elements to make each scene uniquely yours.
+One of the best parts of the _D&D Epic Adventures Coloring Book_ is the freedom to express your creativity. Add your own details, mix colors, or even doodle extra elements to make each scene uniquely yours.
 
 ## Pros and Cons
 
@@ -55,7 +56,7 @@ One of the best parts of the *D&D Epic Adventures Coloring Book* is the freedom 
 
 ## Final Thoughts
 
-The *D&D Epic Adventures Coloring Book* is a fantastic addition to any D&D fan's collection. It offers a fun and creative way to engage with the fantasy world we all love. Whether you're coloring solo or with friends, it's a great way to spend some downtime.
+The _D&D Epic Adventures Coloring Book_ is a fantastic addition to any D&D fan's collection. It offers a fun and creative way to engage with the fantasy world we all love. Whether you're coloring solo or with friends, it's a great way to spend some downtime.
 
 **Ready to dive into epic adventures and colorful quests? Grab your copy of the D&D Epic Adventures Coloring Book today and start creating your own fantasy masterpieces!**
 
@@ -65,6 +66,5 @@ The *D&D Epic Adventures Coloring Book* is a fantastic addition to any D&D fan's
 
 - **[Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to add some color to your adventures? Click [here]({{ site.constants.wsib }}dnd-epic-adventures-coloring-book) to get your copy now and receive an exclusive discount! Happy coloring!**

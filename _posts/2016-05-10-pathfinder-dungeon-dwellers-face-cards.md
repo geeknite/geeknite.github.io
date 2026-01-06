@@ -22,6 +22,7 @@ Each card in the Dungeon Dwellers Face Cards pack includes a portrait on one sid
 ### Components
 
 The pack includes:
+
 - **Face Cards**: Over 50 cards with unique illustrations and backgrounds.
 - **Durable Box**: A sturdy box to keep your cards safe from wear and tear (and snack crumbs).
 - **Rule Sheet**: A brief guide on how to incorporate the cards into your game.
@@ -75,12 +76,11 @@ With over 50 unique cards, the Dungeon Dwellers Face Cards pack offers endless r
 
 Pathfinder Cards: Dungeon Dwellers Face Cards is a fantastic addition to any Pathfinder game. Its immersive artwork, diverse characters, and versatility make it a valuable tool for GMs looking to enhance their storytelling. Just remember, while the cards add a visual flair, the heart of the game lies in your imagination and creativity.
 
-**Ready to bring your game to life?** Grab your pack of Pathfinder Cards: Dungeon Dwellers Face Cards today and start your epic adventure!**
+**Ready to bring your game to life?** Grab your pack of Pathfinder Cards: Dungeon Dwellers Face Cards today and start your epic adventure!\*\*
 
 ## Linking You to More Pathfinder Fun
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to enhance your game? Click [here]({{ site.constants.wsib }}pathfinder-cards-dungeon-dwellers) to get your pack now and receive an exclusive discount! Happy adventuring!**

@@ -8,7 +8,7 @@ tags: ["Blood Bowl", "review", "board games", "Muerte Súbita"]
 
 ## Introduction
 
-Hello, sports fans and tabletop enthusiasts! Ready to dive into the bloody, brutal world of **Blood Bowl: Muerte Súbita Collector's Edition**? Grab your (imaginary) helmets and let's tackle this review head-on. If you're looking for a game that combines football with fantasy combat, you've come to the right place. Think of it as the NFL meets *Lord of the Rings*, but with more broken bones.
+Hello, sports fans and tabletop enthusiasts! Ready to dive into the bloody, brutal world of **Blood Bowl: Muerte Súbita Collector's Edition**? Grab your (imaginary) helmets and let's tackle this review head-on. If you're looking for a game that combines football with fantasy combat, you've come to the right place. Think of it as the NFL meets _Lord of the Rings_, but with more broken bones.
 
 ## The Basics
 
@@ -19,6 +19,7 @@ Blood Bowl is a tabletop game that pits teams of fantastical creatures against e
 ### Components
 
 The **Muerte Súbita Collector's Edition** is loaded with goodies:
+
 - **Miniatures**: Detailed and ready to paint, these miniatures are a collector's dream.
 - **Game Board**: A beautifully designed pitch that captures the essence of the Blood Bowl universe.
 - **Cards and Dice**: Essential for gameplay, and thankfully, they're as sturdy as they are stylish.
@@ -77,6 +78,5 @@ With multiple teams to choose from and endless strategies to explore, Blood Bowl
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Don't miss out on the fun! Click [here](https://example.com/blood-bowl-muerte-subita) to get your copy now and receive an exclusive discount!**
