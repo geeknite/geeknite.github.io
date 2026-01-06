@@ -69,6 +69,5 @@ The **Destiny Across the Galaxy Star Wars Dice Lot** is a fantastic addition to 
 
 - **[LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-25-star-wars-lego-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
 **Ready to roll? Click [here](https://example.com) to get your Destiny dice now and receive an exclusive discount! Happy adventuring!**

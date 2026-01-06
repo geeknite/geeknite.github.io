@@ -59,4 +59,3 @@ ASL Map Board 45 is a standout addition to the ASL series. Its combination of ur
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})

@@ -80,4 +80,3 @@ Ready to rewrite history? Check out Against the Odds 24: Deathride - Mars-La-Tou
 For more reviews and board game recommendations, check out our previous posts:
 
 - [Sniper Elite Board Game Review: Stealth and Strategy on Your Tabletop]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})

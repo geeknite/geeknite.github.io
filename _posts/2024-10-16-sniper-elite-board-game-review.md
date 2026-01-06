@@ -1,76 +1,82 @@
 ---
-title: "Bloodborne: The Boardgame - Forsaken Cainhurst Castle Review"
-date: "2025-10-08"
-tags: ["board games", "review", "Bloodborne", "strategy games"]
+title: "When Darkness Comes: This is Not Happening Review"
+date: "2024-10-16"
+tags: ["board games", "review", "When Darkness Comes", "strategy games", "horror games"]
 ---
 
-![Bloodborne: The Boardgame - Forsaken Cainhurst Castle](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}
+![When Darkness Comes](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]
 
 ## Introduction
 
-Welcome, fellow Hunters and board game enthusiasts! Today, we're diving into the haunting world of **Bloodborne: The Boardgame - Forsaken Cainhurst Castle**. If you've ever wanted to experience the chilling atmosphere and strategic depth of the Bloodborne universe right from your living room, then this game is your perfect match. Prepare to navigate the eerie halls of Cainhurst Castle, filled with deadly foes, cunning traps, and the occasional bout of ghostly humor when your plans go hilariously wrong.
+Welcome, brave souls, to the haunting and thrilling world of **When Darkness Comes: This is Not Happening**! This strategy horror board game will test your wits, courage, and perhaps your sanity. Think you have what it takes to survive? Let’s dive into the shadows and find out.
 
 ## The Basics
 
-### What is Bloodborne: The Boardgame - Forsaken Cainhurst Castle?
+### What is When Darkness Comes: This is Not Happening?
 
-Bloodborne: The Boardgame - Forsaken Cainhurst Castle is an expansion to the main Bloodborne board game, bringing new scenarios, enemies, and challenges. Produced by CMON, this expansion faithfully captures the essence of the gothic horror video game by FromSoftware. Players take on the roles of Hunters exploring the forsaken castle, battling horrific creatures, and uncovering dark secrets.
+This is the latest standalone expansion for the popular horror board game series, *When Darkness Comes*. It combines strategy, survival, and pure horror as players navigate through dark scenarios filled with unspeakable terrors. Designed for 1-4 players, the game challenges you to face your fears and uncover the mysteries lurking in the darkness.
 
 ### Components
 
-The game includes beautifully crafted miniatures, a detailed map of Cainhurst Castle, and various cards representing items, enemies, and events. The artwork is dark, brooding, and atmospheric, perfectly capturing the game's eerie setting. Additionally, the game comes with a rulebook that's surprisingly easy to understand – a rare gem in the complex world of board gaming.
+The game features high-quality components that immerse you into the eerie atmosphere:
+- **Map Tiles**: Double-sided to create a variety of scenarios.
+- **Miniatures**: Detailed figures representing characters and monsters.
+- **Cards**: Event, item, and scenario cards that drive the narrative and gameplay.
+- **Tokens**: Representing health, sanity, and various in-game effects.
+- **Rulebook**: Comprehensive guide with scenario setups, rules, and lore.
+
+**Fun Fact**: The game includes glow-in-the-dark dice, because why not add a little extra creepiness to your night?
 
 ## Gameplay
 
 ### Setting Up
 
-Setup is straightforward but thorough. Players choose their Hunter characters and set up the board according to the scenario instructions. The objective is to navigate through the castle, complete mission objectives, and survive the monstrous threats lurking within.
+Setup is straightforward but thematic. Lay out the map tiles according to your chosen scenario, place your character miniatures, and prepare your decks. The creepy ambiance starts the moment you open the box and unfolds as you set up.
 
 ### Turns and Actions
 
-Each turn, players can take actions such as moving, attacking, and using special abilities. The game uses a card-based system for combat and actions, adding a layer of strategy and unpredictability. Players must work together to overcome the challenges, sharing resources and planning their moves carefully.
+Each turn is divided into several phases:
+1. **Action Phase**: Players move, search for items, or confront horrors.
+2. **Event Phase**: Draw event cards that introduce new challenges or plot twists.
+3. **Monster Phase**: Monsters move and attack, adding tension and danger.
 
-### Stealth and Strategy
+### Winning and Losing
 
-The game shines in its strategic depth. As Hunters, you must balance aggression with caution, utilizing cover, and thinking several steps ahead to outwit the enemies. Communication and cooperation are key, as the castle is filled with deadly traps and powerful foes that require teamwork to overcome.
-
-![Bloodborne Gameplay](https://i.imgur.com/6s4IJiPm.png){: style='float: right;'}
+To win, players must complete their objectives before succumbing to damage or insanity. If your character dies or goes insane, it’s game over. Keep your wits about you and work together to survive.
 
 ## The Experience
 
-### Tension and Excitement
+### Atmosphere & Horror
 
-One of the standout features of Bloodborne: The Boardgame - Forsaken Cainhurst Castle is the palpable tension it creates. Every move you make could trigger a trap or summon a powerful enemy, keeping players on edge. The moments when your team barely escapes a deadly situation can lead to heart-pounding suspense, making for a truly engaging experience.
+The game excels at creating a spooky atmosphere. From the detailed miniatures to the evocative event cards, every element draws you deeper into the horror. Playing with dim lighting or spooky soundtracks can enhance the experience, but be prepared for some genuine scares.
 
-### Funny Mishaps
+### Humor & Relief
 
-Despite the serious theme, the game offers plenty of opportunities for humor. Whether it's a Hunter stumbling into a trap or barely escaping a ghostly attack by the skin of their teeth, these moments often result in laughter and memorable stories. Who knew that gothic horror could be this entertaining?
+Despite the dark theme, there are moments of levity. Funny event cards or unexpected outcomes can break the tension and lead to laughs. It's a rollercoaster of emotions that keeps the game engaging.
 
 ### Replayability
 
-The game offers high replayability, with various mission objectives, board setups, and strategies to explore. No two games are ever the same, ensuring that players will return to Bloodborne: The Boardgame - Forsaken Cainhurst Castle time and time again for new challenges and experiences.
+With multiple scenarios, characters, and random events, the game offers high replayability. Each session feels fresh and new, with different challenges and stories to uncover.
 
 ## Pros and Cons
 
 ### Pros
 
-- **Immersive Gameplay**: Captures the essence of the Bloodborne universe, providing an engaging and intense experience.
-- **High-Quality Components**: Excellent artwork and sturdy miniatures enhance the overall gaming experience.
-- **Strategic Depth**: Offers a balance of combat and strategy, catering to both casual and hardcore gamers.
-- **Replayability**: Various missions and setups ensure that each game is unique and exciting.
+- **Immersive Atmosphere**: Excellent horror elements that draw players in.
+- **Strategic Depth**: Requires thoughtful planning and teamwork.
+- **High-Quality Components**: Beautifully crafted miniatures and tiles.
+- **Replayability**: Multiple scenarios and random events ensure variety.
 
 ### Cons
 
-- **Steep Learning Curve**: New players might find the mechanics challenging to master initially.
-- **Requires Patience**: The game demands strategic planning and patience, which might not appeal to everyone.
-- **Limited Player Count**: Best played with 2-4 players, potentially limiting larger gaming groups.
+- **Complexity**: Can be overwhelming for new players.
+- **Setup Time**: Takes a while to set up, which might deter some.
+- **Difficulty**: High challenge level may frustrate some players.
 
 ## Final Thoughts
 
-Bloodborne: The Boardgame - Forsaken Cainhurst Castle is a fantastic addition to any board game collection, especially for those who enjoy gothic horror and strategy games. Its immersive gameplay, high-quality components, and replayability make it a must-have for fans of the genre. While it may have a learning curve, the rewarding experience it offers is well worth the effort.
+*When Darkness Comes: This is Not Happening* is a must-have for fans of horror and strategy board games. Its immersive atmosphere, strategic depth, and replayability make it a standout title. While it may have a steep learning curve, the rewarding experience is well worth the effort.
 
-So, gather your fellow Hunters, ready your weapons, and dive into the haunting world of Cainhurst Castle. **Get your copy now and test your survival skills!**
+**Ready to face the darkness?** Click [here](https://example.com) to grab your copy now and test your courage against the horrors within! Happy gaming!
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
-
-**Call to Action:** Don't miss out on the ultimate gothic horror board game experience! Click [here]({{ site.constants.wsib }}bloodborne-boardgame) to get your copy of Bloodborne: The Boardgame - Forsaken Cainhurst Castle now and receive an exclusive discount! Happy hunting!
+{% include amazon.html asin='B09XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}

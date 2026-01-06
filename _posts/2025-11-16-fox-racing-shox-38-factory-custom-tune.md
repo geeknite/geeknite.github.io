@@ -1,9 +1,9 @@
 ---
-title: "Fox Racing Shox 38 Factory 29" 170mm Fork - Custom Tune Review"
-date: 2025-11-16
-labels: ["MTB", "Components", "Review", "Fox Racing Shox"]
-tags: ["MTB", "Fox Racing Shox", "Components"]
-description: "In-depth and entertaining review of the Fox Racing Shox 38 Factory 29" 170mm Fork with Custom Tune. Performance, features, and why you'll love (or hate) it."
+title: "Fox Racing Shox 38 Factory 29in 170mm Fork - Custom Tune Review"
+date: "2025-11-16"
+labels: [MTB, Components, Review, Fox Racing Shox]
+tags: [MTB, Fox Racing Shox, Components]
+description: "In-depth and entertaining review of the Fox Racing Shox 38 Factory 29in 170mm Fork with Custom Tune. Performance, features, and why you'll love (or hate) it."
 redirect_to: https://bikinggeek.github.io/2025/11/fox-racing-shox-38-factory-custom-tune-review.html
 ---
 

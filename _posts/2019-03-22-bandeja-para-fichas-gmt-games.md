@@ -76,5 +76,4 @@ La bandeja para fichas GMT Games es una adición fantástica para cualquier cole
 
 Para más reseñas y recomendaciones de juegos de mesa, visita nuestros posts anteriores:
 
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Flamme Rouge Grand Tour Review: The Ultimate Cycling Expansion]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})

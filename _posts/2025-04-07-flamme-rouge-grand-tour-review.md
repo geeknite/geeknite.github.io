@@ -19,15 +19,13 @@ last_modified_at: "2025-08-14T12:00:00+02:00"
 
 ## Introduction: The Evolution of Cycling Board Games
 
-Welcome, fellow board game enthusiasts! Today, we're diving deep into **Flamme Rouge: Grand Tour**, the expansion that has transformed an already excellent cycling game into a multi-stage epic. If you've been following our [comprehensive racing board games coverage]({%- post_url 2023-06-15-top-10-racing-board-games -%}), you'll know that Flamme Rouge ranks among the top cycling simulations available. This Grand Tour expansion takes everything we love about the base game and elevates it to new heights.
-
-As someone who's spent countless hours with racing board games—from the Formula 1 thrills of [Formula D to the strategic betting of Downforce]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})—I can confidently say that Grand Tour offers something uniquely compelling in the cycling simulation space.
+---
 
 ## The Core Game
 
-Before we get into the nitty-gritty of the Grand Tour expansion, let’s take a quick refresher on what makes Flamme Rouge such a beloved game. Flamme Rouge is a fast-paced bicycle racing game where players control a team of two cyclists, a Rouleur and a Sprinteur, each with their unique deck of movement cards. The objective is to cross the finish line first while managing energy levels and drafting behind other racers. The game's tactical depth and the excitement of sprinting to the finish line make it a favorite among board gamers.
+Before we get into the nitty-gritty of the Grand Tour expansion, let’s take a quick refresher on what makes Flamme Rouge such a beloved game. Flamme Rouge is a fast-paced bicycle racing game where players control a team of two cyclists, a Rouleur and a Sprinteur, each with their unique deck of movement cards. The objective is to manage your energy wisely and cross the finish line first. But don’t get too cocky—pacing is key, and running out of steam is easier than you think.
 
-**Pro Tip:** Energy management in Flamme Rouge mirrors real cycling strategy—always save something for the final sprint, because there's nothing worse than watching opponents surge past while you're stuck with exhaustion cards. 【4:0†source】
+**Pro Tip:** Energy management in Flamme Rouge mirrors real cycling strategy—always save something for the final sprint, because there's nothing worse than watching opponents surge past while you're stuck with exhaustion cards.
 
 **Pro Tip:** Always save some energy for the final sprint. Trust me, there’s nothing worse than running out of steam right before the finish line.
 

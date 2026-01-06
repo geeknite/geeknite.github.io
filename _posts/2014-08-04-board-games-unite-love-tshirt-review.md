@@ -65,6 +65,5 @@ If you love the Board Games Unite Love T-Shirt, be sure to check out our other a
 
 - [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
 
 **Ready to level up your board game apparel? Click [here](https://geeknite.com/boardgames-unite-love-tshirt) to get your Board Games Unite Love T-Shirt now and receive an exclusive discount! Happy gaming in style!**

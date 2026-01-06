@@ -69,5 +69,4 @@ The authentic wood Scrabble tiles are a fantastic addition to any game night. Th
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Adult Board Gaming: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})
