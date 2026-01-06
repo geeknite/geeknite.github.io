@@ -1,6 +1,7 @@
 ---
 title: "Apple MacBook Air M3 with Touch ID: The Supercharged Featherweight Champion"
-date: "2025-12-11"
+date: "2023-07-25"
+last_modified_at: "2026-01-05"
 tags: [Apple, MacBook Air, M3, Review, Tech, Gadgets]
 description: "Dive into our hilarious and detailed review of the Apple MacBook Air M3 with Touch ID. Is it the ultimate portable powerhouse? Read on to find out!"
 ---

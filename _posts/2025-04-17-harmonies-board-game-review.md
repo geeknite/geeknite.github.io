@@ -1,8 +1,9 @@
 ---
-title: 'Trekking The National Parks: The Board Game - Second Edition Review'
-date: '2025-12-03'
-tags: ['board games', 'review', 'Trekking the National Parks', 'Underdog Games', 'strategy games', 'family games']
-description: 'A detailed and humorous review of Trekking The National Parks: The Board Game - Second Edition by Underdog Games. Discover why this game is perfect for your next family game night!'
+title: 'Harmonies: Board Game Review'
+date: '2025-04-17'
+last_modified_at: "2026-01-05"
+tags: ['board games', 'review', 'Harmonies', 'strategy games', 'family games']
+description: 'A detailed and humorous review of Harmonies board game. Discover why this game is perfect for your next family game night!'
 ---
 
 ![Trekking The National Parks Board Game](https://example.com/trekking-the-national-parks.jpg){: style='float: right;'}

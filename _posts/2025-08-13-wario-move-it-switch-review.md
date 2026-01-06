@@ -1,6 +1,7 @@
 ---
 title: "WarioWare: Move It! Review for Nintendo Switch"
-date: 2025-12-20
+date: 2025-08-13
+last_modified_at: "2026-01-05"
 image: "/assets/wario-move-it.png"
 tags:
 - WarioWare

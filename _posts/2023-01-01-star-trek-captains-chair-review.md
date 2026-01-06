@@ -1,6 +1,7 @@
 ---
 title: "Star Trek: Captain's Chair Playset Review"
-date: 2025-12-29
+date: 2023-01-01
+last_modified_at: "2026-01-05"
 categories: [Star Trek, Toys, Review]
 tags: [Star Trek, Collectibles, Toys, Review]
 description: "An in-depth and humorous review of the Star Trek Captain's Chair Playset. Is it worth the investment for Trekkies?"

@@ -1,10 +1,10 @@
 ---
 title: "Star Trek Adventures Dice Set: Operations Gold (Star Trek RPG Dice) Review"
 date: "2024-11-22"
+last_modified_at: "2026-01-05"
 categories: [board games, review, star trek]
 tags: [Star Trek, RPG, Dice, Review]
 description: "Explore the features and performance of the Star Trek Adventures Dice Set: Operations Gold. Are these dice worth your latinum?"
-last_modified_at: "2025-10-07T08:00:58+02:00"
 ---
 
 ![Star Trek Adventures Dice Set: Operations Gold](https://example.com/star_trek_dice.jpg){: .align-right}
