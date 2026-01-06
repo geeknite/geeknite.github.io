@@ -1,18 +1,18 @@
 ---
-title: 'Mezo: Pirámides de plástico - La Innovación que Necesitábamos'
-date: '2020-09-15'
-tags: ['review', 'gadgets', 'español', 'plástico', 'innovación']
+title: "Mezo: Pirámides de plástico - La Innovación que Necesitábamos"
+date: "2020-09-15"
+tags: ["review", "gadgets", "español", "plástico", "innovación"]
 ---
 
 ## Introducción
 
-¡Hola, queridos lectores de Geeknite! Hoy les traemos una revisión muy especial de *Mezo: Pirámides de plástico*. ¿Qué es esto, se preguntarán? Pues prepárense para una dosis de innovación y diversión porque estamos a punto de desentrañar el misterio de estas maravillosas pirámides que vienen a cambiar nuestra forma de ver el plástico. ¡Y sí, también haremos algunos chistes en el camino!
+¡Hola, queridos lectores de Geeknite! Hoy les traemos una revisión muy especial de _Mezo: Pirámides de plástico_. ¿Qué es esto, se preguntarán? Pues prepárense para una dosis de innovación y diversión porque estamos a punto de desentrañar el misterio de estas maravillosas pirámides que vienen a cambiar nuestra forma de ver el plástico. ¡Y sí, también haremos algunos chistes en el camino!
 
 ![Mezo Pirámides de Plástico](https://i.imgur.com/O9eNdeut.jpg)
 
 ## La Historia detrás de Mezo
 
-Para entender qué son las *pirámides de plástico Mezo*, primero debemos saber quién está detrás de esta innovadora idea. Mezo es una empresa que ha estado en el mercado de los gadgets durante años, siempre buscando nuevas formas de sorprendernos. Y, francamente, han hecho un excelente trabajo con estas pirámides. ¡Aunque aún estamos esperando el jetpack que prometieron en 2019!
+Para entender qué son las _pirámides de plástico Mezo_, primero debemos saber quién está detrás de esta innovadora idea. Mezo es una empresa que ha estado en el mercado de los gadgets durante años, siempre buscando nuevas formas de sorprendernos. Y, francamente, han hecho un excelente trabajo con estas pirámides. ¡Aunque aún estamos esperando el jetpack que prometieron en 2019!
 
 ## ¿Qué son las Pirámides de Plástico?
 
@@ -46,7 +46,7 @@ La comunidad de Geeknite ha probado las pirámides de plástico Mezo y aquí est
 
 ## Conclusión
 
-Las *pirámides de plástico Mezo* son una adición fantástica a cualquier hogar o oficina. Ofrecen múltiples usos, son sostenibles y, lo más importante, son divertidas. Si estás buscando algo que sea tanto práctico como innovador, estas pirámides son para ti.
+Las _pirámides de plástico Mezo_ son una adición fantástica a cualquier hogar o oficina. Ofrecen múltiples usos, son sostenibles y, lo más importante, son divertidas. Si estás buscando algo que sea tanto práctico como innovador, estas pirámides son para ti.
 
 **¡Haz clic aquí para comprar tus pirámides de plástico Mezo y transformar tu espacio hoy mismo!** [Compra Pirámides de Plástico Mezo](https://www.amazon.es/?tag={{ site.constants.amazon_es }}){: rel="nofollow"}
 

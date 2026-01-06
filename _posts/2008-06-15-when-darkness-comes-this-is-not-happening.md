@@ -1,8 +1,8 @@
 ---
-title: 'When Darkness Comes: This is Not Happening Review'
-date: '2008-06-15'
-tags: ['board games', 'review', 'horror', 'When Darkness Comes']
-description: 'A terrifyingly humorous and detailed review of When Darkness Comes: This is Not Happening. Find out why this game is a must-have for horror board game enthusiasts!'
+title: "When Darkness Comes: This is Not Happening Review"
+date: "2008-06-15"
+tags: ["board games", "review", "horror", "When Darkness Comes"]
+description: "A terrifyingly humorous and detailed review of When Darkness Comes: This is Not Happening. Find out why this game is a must-have for horror board game enthusiasts!"
 ---
 
 ![When Darkness Comes: This is Not Happening](https://example.com/when-darkness-comes.jpg){: .align-right}

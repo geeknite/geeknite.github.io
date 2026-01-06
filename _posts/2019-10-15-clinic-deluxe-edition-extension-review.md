@@ -1,8 +1,8 @@
 ---
 title: "CliniC: Deluxe Edition - The Extension Review: A Prescription for Fun"
 date: "2019-10-15"
-tags: ['board games', 'review', 'CliniC', 'expansion', 'strategy games']
-description: 'Dive into CliniC: Deluxe Edition - The Extension with this detailed and humorous review. Find out if this board game expansion is worth adding to your collection!'
+tags: ["board games", "review", "CliniC", "expansion", "strategy games"]
+description: "Dive into CliniC: Deluxe Edition - The Extension with this detailed and humorous review. Find out if this board game expansion is worth adding to your collection!"
 ---
 
 ![CliniC: Deluxe Edition - The Extension](https://i.imgur.com/aHm1goAm.jpeg){: .align-right}
@@ -36,7 +36,7 @@ Yes, you read that right. Helicopters. This module introduces air ambulances, al
 
 ### Laboratories
 
-The Laboratories module lets you conduct medical research to gain advantages. It's like being on an episode of *Grey's Anatomy*, but without the melodrama (well, mostly). Perfect for players who love a good strategic twist.
+The Laboratories module lets you conduct medical research to gain advantages. It's like being on an episode of _Grey's Anatomy_, but without the melodrama (well, mostly). Perfect for players who love a good strategic twist.
 
 ## Pros and Cons
 

@@ -1,7 +1,7 @@
 ---
 title: "Wing Leader: Air Combat Blitz Review"
 date: "2015-08-12"
-tags: ['board games', 'review', 'Wing Leader', 'air combat', 'historical']
+tags: ["board games", "review", "Wing Leader", "air combat", "historical"]
 description: "A hilarious and detailed review of Wing Leader: Air Combat Blitz. Find out why this game is a must-have for history buffs and board game enthusiasts!"
 ---
 
@@ -22,6 +22,7 @@ In Wing Leader: Air Combat Blitz, players command squadrons of aircraft in vario
 ### Components
 
 The game comes with:
+
 - **Aircraft Counters**: Detailed counters representing various World War II aircraft. They're so beautifully designed that you might want to display them proudly on your shelf.
 - **Maps**: Large hex-based maps depicting different theaters of war.
 - **Scenario Book**: A comprehensive book outlining various historical scenarios.

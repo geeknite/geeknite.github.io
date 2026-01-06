@@ -9,11 +9,11 @@ description: "A hilarious and detailed review of Nemo's War: Second Edition - Mi
 
 ## Introduction
 
-Ahoy there, fellow adventurers! Today, we're plunging into the deep, dark sea to explore **Nemo's War: Second Edition - Miniatures Pack**. If you're a fan of the original *Nemo's War*, you're in for a treat. This expansion promises to add stunning miniatures that will make your underwater escapades even more immersive. So grab your diving gear and get ready for an in-depth review filled with humor, excitement, and perhaps a few unexpected twists.
+Ahoy there, fellow adventurers! Today, we're plunging into the deep, dark sea to explore **Nemo's War: Second Edition - Miniatures Pack**. If you're a fan of the original _Nemo's War_, you're in for a treat. This expansion promises to add stunning miniatures that will make your underwater escapades even more immersive. So grab your diving gear and get ready for an in-depth review filled with humor, excitement, and perhaps a few unexpected twists.
 
 ## What's in the Box?
 
-The *Nemo's War: Second Edition - Miniatures Pack* comes with beautifully crafted miniatures representing various ships, sea creatures, and of course, Captain Nemo himself. Each miniature is intricately designed, adding a tactile and visual thrill to your voyages. Let's break down the contents:
+The _Nemo's War: Second Edition - Miniatures Pack_ comes with beautifully crafted miniatures representing various ships, sea creatures, and of course, Captain Nemo himself. Each miniature is intricately designed, adding a tactile and visual thrill to your voyages. Let's break down the contents:
 
 - **Captain Nemo**: A charismatic miniature that captures the essence of this legendary character.
 - **The Nautilus**: Detailed and imposing, this miniature is the heart of your underwater adventure.
@@ -26,7 +26,7 @@ One word: Stunning. The quality of the miniatures in this pack is top-notch. The
 
 ## Gameplay Enhancements
 
-While the miniatures pack does not alter the core gameplay of *Nemo's War: Second Edition*, it significantly enhances the visual and tactile experience. The miniatures replace the cardboard tokens from the base game, giving your table a more dynamic and immersive look. Imagine commanding the Nautilus with an actual miniature rather than a flat token - it's a game-changer.
+While the miniatures pack does not alter the core gameplay of _Nemo's War: Second Edition_, it significantly enhances the visual and tactile experience. The miniatures replace the cardboard tokens from the base game, giving your table a more dynamic and immersive look. Imagine commanding the Nautilus with an actual miniature rather than a flat token - it's a game-changer.
 
 ### Setup and Storage
 
@@ -48,9 +48,9 @@ Setting up the game with these miniatures does add a bit more time compared to u
 
 ## Final Thoughts
 
-*Nemo's War: Second Edition - Miniatures Pack* is a fantastic addition to the base game. While it doesn't change the mechanics, the enhanced visual and tactile experience is well worth the investment. If you're a fan of the original game and love beautiful miniatures, this pack is a must-have.
+_Nemo's War: Second Edition - Miniatures Pack_ is a fantastic addition to the base game. While it doesn't change the mechanics, the enhanced visual and tactile experience is well worth the investment. If you're a fan of the original game and love beautiful miniatures, this pack is a must-have.
 
-**Ready to dive into the depths with Captain Nemo?** Click [here](https://example.com) to grab your copy of the *Nemo's War: Second Edition - Miniatures Pack* today. Don't miss out on this epic underwater adventure!
+**Ready to dive into the depths with Captain Nemo?** Click [here](https://example.com) to grab your copy of the _Nemo's War: Second Edition - Miniatures Pack_ today. Don't miss out on this epic underwater adventure!
 
 ---
 

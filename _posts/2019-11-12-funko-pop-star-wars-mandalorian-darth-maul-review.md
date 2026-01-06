@@ -1,8 +1,16 @@
 ---
-title: 'Funko POP! Star Wars: The Mandalorian - Darth Maul Review'
-date: '2019-11-12'
-tags: ['Funko POP!', 'Star Wars', 'The Mandalorian', 'Darth Maul', 'Collectibles', 'Review']
-description: 'A detailed and humorous review of the Funko POP! Star Wars: The Mandalorian - Darth Maul collectible. From design details to final thoughts, find out if this figure is a must-have for your collection!'
+title: "Funko POP! Star Wars: The Mandalorian - Darth Maul Review"
+date: "2019-11-12"
+tags:
+  [
+    "Funko POP!",
+    "Star Wars",
+    "The Mandalorian",
+    "Darth Maul",
+    "Collectibles",
+    "Review",
+  ]
+description: "A detailed and humorous review of the Funko POP! Star Wars: The Mandalorian - Darth Maul collectible. From design details to final thoughts, find out if this figure is a must-have for your collection!"
 ---
 
 ![Funko POP! Star Wars: The Mandalorian - Darth Maul](https://example.com/darth-maul.jpg){: .align-right}

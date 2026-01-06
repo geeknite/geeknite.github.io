@@ -12,7 +12,7 @@ Welcome, fellow pin collectors and enthusiasts! Today, we are diving into the wh
 
 ## The Backstory
 
-Before we get into the nitty-gritty, let's talk about the creative geniuses behind this adorable creation. **Creature Curation** has been making waves in the collectible pin community with their unique designs and high-quality products. Eyegor is no exception. The character itself has a rich lore, being a beloved figure in Creature Curation's universe, which is filled with whimsical creatures and fantastical adventures. 
+Before we get into the nitty-gritty, let's talk about the creative geniuses behind this adorable creation. **Creature Curation** has been making waves in the collectible pin community with their unique designs and high-quality products. Eyegor is no exception. The character itself has a rich lore, being a beloved figure in Creature Curation's universe, which is filled with whimsical creatures and fantastical adventures.
 
 ## Design and Quality
 

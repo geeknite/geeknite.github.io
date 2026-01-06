@@ -1,7 +1,7 @@
 ---
 title: "Italian Air Force Expansion: Eagle Soars and Crashes"
 date: "2016-03-20"
-tags: ['aviation', 'board games', 'review', 'Wing Leader']
+tags: ["aviation", "board games", "review", "Wing Leader"]
 ---
 
 ## Italian Air Force Expansion: Eagle Soars and Crashes

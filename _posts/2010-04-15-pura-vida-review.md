@@ -2,11 +2,11 @@
 title: "¡Pura Vida! Un Gran Viaje al Corazón de Costa Rica"
 date: 2010-04-15
 tags:
-- review
-- travel
-- costa-rica
-- pura-vida
-- español
+  - review
+  - travel
+  - costa-rica
+  - pura-vida
+  - español
 ---
 
 ## Introducción
@@ -82,6 +82,7 @@ En resumen, "Pura Vida" es un documental que no te puedes perder si amas la natu
 ---
 
 **Artículos Relacionados:**
+
 - [¡Bienvenidos a nuestro canal gaming de Twitch y Youtube @xocmetal!]({% post_url 2023-05-15-bienvenidos-canal-gaming-twitch-youtube-xocmetal %})
 - [Top 5 Relojes GPS Chinos vs Garmin: ¿Quién Gana la Batalla?]({% post_url 2025-03-11-top-5-relojes-gps-chinos-vs-garmin %})
 

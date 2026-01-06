@@ -1,8 +1,15 @@
 ---
-title: 'Hellenic Air Force: Eagle Expansion 2 Review'
-date: '2016-03-15'
-tags: ['Hellenic Air Force', 'Eagle Expansion', 'Flight Simulators', 'Review', 'Gaming']
-description: 'A deep dive into the Hellenic Air Force: Eagle Expansion 2. Is it worth your time and money? Read on to find out with a pinch of humor and a lot of geeky insights!'
+title: "Hellenic Air Force: Eagle Expansion 2 Review"
+date: "2016-03-15"
+tags:
+  [
+    "Hellenic Air Force",
+    "Eagle Expansion",
+    "Flight Simulators",
+    "Review",
+    "Gaming",
+  ]
+description: "A deep dive into the Hellenic Air Force: Eagle Expansion 2. Is it worth your time and money? Read on to find out with a pinch of humor and a lot of geeky insights!"
 ---
 
 ![Hellenic Air Force: Eagle Expansion 2](https://i.imgur.com/yourimage.jpg){: .align-right}

@@ -4,11 +4,11 @@ date: 2025-08-13
 last_modified_at: "2026-01-05"
 image: "/assets/wario-move-it.png"
 tags:
-- WarioWare
-- Nintendo Switch
-- Game Review
-- Party Games
-- Fun
+  - WarioWare
+  - Nintendo Switch
+  - Game Review
+  - Party Games
+  - Fun
 ---
 
 ![WarioWare: Move It!](https://i.imgur.com/L1do4Nb.jpg){:.align-right}

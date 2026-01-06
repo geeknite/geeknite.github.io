@@ -2,7 +2,7 @@
 title: "MacBook Air M3: The Featherlight Powerhouse"
 date: 2024-03-08
 tags: [MacBook, Apple, Gadgets, Review, Technology, Geek]
-description: "A comprehensive and humorous review of the MacBook Air M3, exploring its features, performance, and why it's a tech enthusiast's dream." 
+description: "A comprehensive and humorous review of the MacBook Air M3, exploring its features, performance, and why it's a tech enthusiast's dream."
 ---
 
 ![MacBook Air M3](https://www.apple.com/v/macbook-air-m3/a/images/overview/hero__e6khcva4hkeq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}macbook-air-m3)

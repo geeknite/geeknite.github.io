@@ -1,7 +1,8 @@
 ---
 title: "Battleground FW: Undead Army Starter Deck Review"
 date: "2009-03-10"
-tags: ['board games', 'review', 'Battleground FW', 'undead army', 'starter deck']
+tags:
+  ["board games", "review", "Battleground FW", "undead army", "starter deck"]
 description: "A funny and detailed review of Battleground FW's Undead Army Starter Deck. Find out why this deck is a must-have for fantasy and strategy enthusiasts!"
 ---
 

@@ -18,6 +18,7 @@ Warhammer 40K Battlezone: Manufactorum Battlefield is a terrain set designed to 
 ### Components
 
 The set includes:
+
 - **Ruined Buildings**: Perfect for providing cover and creating strategic choke points.
 - **Storage Tanks**: Great for adding height and complexity to your battlefield.
 - **Pipelines**: These connect various terrain pieces and create opportunities for ambushes and sneak attacks.

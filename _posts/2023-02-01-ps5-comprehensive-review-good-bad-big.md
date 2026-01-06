@@ -2,12 +2,12 @@
 title: "PS5 Slim Review: The Ultimate Slim Gaming Console"
 date: 2023-02-01
 tags:
-- PS5 Slim
-- PlayStation
-- Gaming
-- Console
-- Review
-- Technology
+  - PS5 Slim
+  - PlayStation
+  - Gaming
+  - Console
+  - Review
+  - Technology
 description: "Discover the sleek and powerful PS5 Slim in this comprehensive review. From its compact design to enhanced performance, find out why the PS5 Slim is the perfect addition to your gaming setup."
 last_modified_at: "2026-01-05"
 ---

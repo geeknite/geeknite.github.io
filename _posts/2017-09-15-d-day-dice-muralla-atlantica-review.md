@@ -8,7 +8,7 @@ tags:
   - review
   - strategy games
 description: "A detailed and humorous review of the D-Day Dice expansion 'Muralla Atlántica - Dios con Nosotros'. Find out if this game is worth adding to your collection."
-last_modified_at: '2025-12-05T11:50:00+02:00'
+last_modified_at: "2025-12-05T11:50:00+02:00"
 ---
 
 ![D-Day Dice](https://i.imgur.com/DwNv9yCm.jpg){: .align-right}

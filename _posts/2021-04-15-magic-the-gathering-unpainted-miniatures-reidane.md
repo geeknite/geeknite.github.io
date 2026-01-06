@@ -1,7 +1,7 @@
 ---
-title: 'Magic the Gathering Unpainted Miniatures: Reidane, Goddess of Justice (Wave 14)'
-date: '2021-04-15'
-tags: ['Magic the Gathering', 'miniatures', 'reviews', 'Wave 14']
+title: "Magic the Gathering Unpainted Miniatures: Reidane, Goddess of Justice (Wave 14)"
+date: "2021-04-15"
+tags: ["Magic the Gathering", "miniatures", "reviews", "Wave 14"]
 ---
 
 ![Reidane, Goddess of Justice](https://linktoimage.com/reidane.jpg){: .align-right}

@@ -1,8 +1,8 @@
 ---
-title: 'When Darkness Comes: Hell Unleashed (Limited Edition) Review'
-date: '2008-08-20'
-tags: ['board games', 'review', 'horror games']
-description: 'A hilarious and detailed review of When Darkness Comes: Hell Unleashed (Limited Edition). Find out why this horror game is a must-have for fans of the genre!'
+title: "When Darkness Comes: Hell Unleashed (Limited Edition) Review"
+date: "2008-08-20"
+tags: ["board games", "review", "horror games"]
+description: "A hilarious and detailed review of When Darkness Comes: Hell Unleashed (Limited Edition). Find out why this horror game is a must-have for fans of the genre!"
 ---
 
 [![When Darkness Comes: Hell Unleashed](https://example.com/when_darkness_comes.jpg){: .align-right}]({{ site.constants.wsib }}when-darkness-comes)

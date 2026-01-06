@@ -16,7 +16,7 @@ Welcome to Geeknite, your ultimate destination for all things geeky! Today, we'r
 
 ### The Look
 
-The Logitech G Astro A50 X is a sleek and stylish headset that screams "I'm a serious gamer." With its matte black finish and cool LED accents, you'll look like a pro even if you're just playing *Candy Crush*.
+The Logitech G Astro A50 X is a sleek and stylish headset that screams "I'm a serious gamer." With its matte black finish and cool LED accents, you'll look like a pro even if you're just playing _Candy Crush_.
 
 ### The Feel
 
@@ -26,7 +26,7 @@ Comfort is key when it comes to gaming headsets, and the Astro A50 X doesn't dis
 
 ### Sound Quality
 
-If you're looking for crystal clear audio, the Astro A50 X has got you covered. The sound quality is top-notch, with deep bass and crisp highs that make you feel like you're right in the middle of the action. Whether you're sneaking around in *Fortnite* or getting scared silly in *Resident Evil*, this headset delivers.
+If you're looking for crystal clear audio, the Astro A50 X has got you covered. The sound quality is top-notch, with deep bass and crisp highs that make you feel like you're right in the middle of the action. Whether you're sneaking around in _Fortnite_ or getting scared silly in _Resident Evil_, this headset delivers.
 
 ### Wireless Connectivity
 

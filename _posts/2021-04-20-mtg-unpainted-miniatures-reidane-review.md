@@ -1,7 +1,14 @@
 ---
 title: "Magic the Gathering Unpainted Miniatures: Reidane, Goddess of Justice (Wave 14)"
 date: "2021-04-20"
-tags: ["Magic the Gathering", "Unpainted Miniatures", "Review", "Wave 14", "Reidane"]
+tags:
+  [
+    "Magic the Gathering",
+    "Unpainted Miniatures",
+    "Review",
+    "Wave 14",
+    "Reidane",
+  ]
 ---
 
 ![Reidane, Goddess of Justice Unpainted Miniature](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}
@@ -53,6 +60,7 @@ During a painting session, one of our team members decided to give Reidane a rai
 When compared to other unpainted miniatures in Wave 14, Reidane holds her own. Her detailed armor and dynamic pose make her a standout piece, even among other divine entities and fearsome creatures.
 
 **Related Posts:**
+
 - **[Marvel United: Multiverse Board Game Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**

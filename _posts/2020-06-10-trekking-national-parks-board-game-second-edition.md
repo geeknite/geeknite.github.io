@@ -1,8 +1,15 @@
 ---
-title: 'Trekking The National Parks: The Board Game - Underdog Games Second Edition Review'
-date: '2020-06-10'
-tags: ['board games', 'review', 'Trekking The National Parks', 'Underdog Games', 'family games']
-description: 'A hilarious and thorough review of Trekking The National Parks: The Board Game - Second Edition. Find out why this game is a must-have for board game lovers and nature enthusiasts!'
+title: "Trekking The National Parks: The Board Game - Underdog Games Second Edition Review"
+date: "2020-06-10"
+tags:
+  [
+    "board games",
+    "review",
+    "Trekking The National Parks",
+    "Underdog Games",
+    "family games",
+  ]
+description: "A hilarious and thorough review of Trekking The National Parks: The Board Game - Second Edition. Find out why this game is a must-have for board game lovers and nature enthusiasts!"
 ---
 
 ![Trekking The National Parks](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]
@@ -22,6 +29,7 @@ In Trekking The National Parks, players race to visit different national parks b
 ### Components
 
 The game comes with:
+
 - **Map Board**: A lovely map of the USA featuring all the national parks.
 - **Park Cards**: Cards representing different national parks, each with unique artwork and trivia.
 - **Stones**: Collectible stones that add to your score.
