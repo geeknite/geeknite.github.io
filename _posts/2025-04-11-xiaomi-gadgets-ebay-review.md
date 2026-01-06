@@ -75,18 +75,6 @@ Here are some pro tips to make your eBay shopping experience smooth and enjoyabl
 4. **Use eBay's Buyer Protection**: If something goes wrong with your purchase, eBay's Buyer Protection program can help you get your money back.
 
 **Bonus Tip**: If you’re bidding, set a maximum price and stick to it. Don’t let the thrill of the auction drain your bank account.
- 
-{% comment %}
-<!-- ---
-
-## **Comparison with Other Platforms**
-
-
-While Amazon offers convenience and fast shipping, eBay shines with its competitive pricing and global availability. For Xiaomi gadgets, eBay often has exclusive deals that are hard to beat.
-
-
-If you’re curious about other Xiaomi products worth buying, check out our list of the top 5 Xiaomi gadgets of 2025. Spoiler: the Mi 12 Ultra makes the cut. -->
-{% endcomment %}
 
 ---
 
@@ -96,6 +84,6 @@ In 2025, eBay is a treasure trove of Xiaomi gadgets. Whether you're looking for 
 
 **Ready to shop?** Check out the latest Xiaomi deals on eBay [with {{ site.constants.wsibname }}]({{ site.constants.wsib }}). Happy shopping, and may the best bid win!
 
-**Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
+**Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you.
 
 Stay tuned for more tech reviews and shopping tips from your geeky friends at Geeknite! 🚀

@@ -1,15 +1,25 @@
 ---
 title: "Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders"
-tags: [enduro, helmets, bluegrass, rogue, review, mountain bike, safety, cycling gear]
+tags:
+  [
+    enduro,
+    helmets,
+    bluegrass,
+    rogue,
+    review,
+    mountain bike,
+    safety,
+    cycling gear,
+  ]
 filename: 2023-07-18-bluegrass-rogue-helmet-review.md
 description: "Complete review of the Bluegrass Rogue enduro helmet: design, fit, ventilation, safety features and comparison with Bell Super 3R MIPS and other alternatives"
 date: 2023-07-18
-last_modified_at: '2025-08-13T10:00:00+02:00'
+last_modified_at: "2025-08-13T10:00:00+02:00"
 excerpt: "Detailed analysis of the Bluegrass Rogue helmet covering design, ventilation, safety certifications and value compared to other enduro helmets"
 redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
 ---
 
-[![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}]({{ site.constants.wsib }}Bluegrass Rogue)
+![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}
 
 If you're looking for a new enduro helmet that combines style, comfort, and functionality, you might want to check out the **Bluegrass Rogue helmet**. This helmet has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for mountain bikers who want to ride hard and have fun.
 
@@ -71,19 +81,22 @@ For more insights on choosing the right gear for your riding style, check out ou
 
 The Bluegrass Rogue helmet is a stylish and functional enduro helmet that offers a high level of comfort, ventilation, safety, and performance for mountain bikers who want to ride hard and have fun. It has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for enduro riders.
 
-
 ## Related Articles
 
 ### Mountain Bike Gear and Reviews
+
 - [Bell Super DH MIPS Helmet Review]({%- post_url 2020-03-18-bell-super-dh-mips -%}) - Alternative helmet comparison
 
 ### Bike Computer Reviews
+
 Looking to upgrade your ride with technology? Check out our comprehensive bike computer reviews:
+
 - [Garmin Edge 540 Review]({%- post_url 2023-07-06-garmin-edge-540-review -%})
 - [Wahoo ELEMNT BOLT Review]({%- post_url 2023-11-30-wahoo-elemnt-bolt-review -%})
 - [iGPSPORT iGS630 Review]({%- post_url 2023-03-26-igpsport-igs630-review-great-value-bike-computer-minor-flaws -%})
 
 ### Mountain Bike Selection Guides
+
 - [Best MTB by Budget Guide]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}) - Choose the right bike for your budget
 - [YT Jeffsy Trail Bike Review]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%}) - Trail bike analysis
 
