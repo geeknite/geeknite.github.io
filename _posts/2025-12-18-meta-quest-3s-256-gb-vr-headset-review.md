@@ -1,6 +1,7 @@
 ---
 title: "Meta Quest 3S 256 GB VR Headset Review: A Journey into Virtual Awesomeness"
-date: 2025-12-11
+date: 2025-12-18
+last_modified_at: "2026-01-05"
 category: review
 tags: [VR, Meta, Quest 3S, review, gaming]
 ---

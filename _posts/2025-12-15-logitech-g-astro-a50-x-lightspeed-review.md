@@ -1,6 +1,7 @@
 ---
 title: "Logitech G Astro A50 X Lightspeed Wireless Gaming Headset Review"
-date: "2025-12-31"
+date: "2025-12-15"
+last_modified_at: "2026-01-05"
 tags: [logitech, gaming, headset, review]
 description: "A hilarious and comprehensive review of the Logitech G Astro A50 X Lightspeed Wireless Gaming Headset. Is it worth the hype?"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Intel Arc B50: The Ultimate Mid-Range GPU Review"
-date: 2025-12-24
+date: 2025-12-03
+last_modified_at: "2026-01-05"
 tags: [Intel, Arc, B50, GPU, review, tech]
 description: "A comprehensive and humorous review of the Intel Arc B50 GPU. Is this the graphics card you need for your gaming or productivity rig?"
 ---
