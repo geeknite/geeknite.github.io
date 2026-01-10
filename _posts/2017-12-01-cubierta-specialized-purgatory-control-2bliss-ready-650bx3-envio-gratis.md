@@ -1,4 +1,5 @@
 ---
+redirect_to: https://bikinggeek.github.io/2017/12/cubierta-specialized-purgatory-control-2bliss-ready-650bx3-envio-gratis
 title: Cubierta Specialized Purgatory Control 2Bliss Ready 650bx3.0 26€ con envío gratis
 date: '2017-12-01T13:03:00.001+01:00'
 author: Fernando

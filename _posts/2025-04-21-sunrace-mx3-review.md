@@ -1,4 +1,5 @@
 ---
+redirect_to: https://bikinggeek.github.io/2025/04/sunrace-mx3-review
 title: "Sunrace MX3 Review: Geeknite's Take on a Budget-Friendly Hero"
 date: "2025-10-07"
 tags:
