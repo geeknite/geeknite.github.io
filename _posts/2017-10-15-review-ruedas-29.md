@@ -1,5 +1,5 @@
 ---
-
+redirect_to: https://bikinggeek.github.io/2017/10/review-ruedas-29
 title: "Review: Ruedas de 29 Pulgadas para MTB"
 date: "2017-10-15"
 tags: ciclismo, MTB, ruedas, componentes
