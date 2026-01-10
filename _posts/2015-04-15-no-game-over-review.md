@@ -66,6 +66,6 @@ Collecting consoles and games is the heart of **No Game Over**. Each console and
 
 ### Other Retro Board Games to Check Out
 
-If you love **No Game Over**, be sure to check out our reviews of [Anbernic RG351P Review]({%- post_url 2025-02-15-anbernic-rg351p -%}) or [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
+If you love **No Game Over**, be sure to check out our reviews of [Anbernic RG351P Review]({%- post_url 2025-02-10-anbernic-rg351p-vs-retroid-pocket-2-plus-comparison -%}) or [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
 
 **Ready to dive into retro gaming? Don’t miss out on the fun!**
