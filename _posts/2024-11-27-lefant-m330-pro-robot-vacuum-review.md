@@ -83,6 +83,6 @@ Para los amantes de los gadgets interactivos, también puede interesarte nuestra
 
 El Lefant M330 Pro representa una adición sólida a cualquier smart home orientado a la automatización del hogar. Su potente succión de 2000Pa, navegación inteligente con sensores avanzados, y control por voz mediante Alexa/Google Assistant lo posicionan como una opción competitiva en el segmento de gama media. La autonomía de 120 minutos permite limpiar espacios amplios sin interrupciones.
 
-Si bien presenta ocasionales dificultades con alfombras oscuras y su precio no es el más económico del mercado, las prestaciones justifican la inversión para usuarios que priorizan eficiencia y conectividad smart. Para complementar tu setup tecnológico, no te pierdas nuestra [review del MacBook Air M3]({%- post_url 2024-12-03-macbook-air-m3-review -%}), ideal para gestionar tu hogar inteligente desde cualquier lugar.
+Si bien presenta ocasionales dificultades con alfombras oscuras y su precio no es el más económico del mercado, las prestaciones justifican la inversión para usuarios que priorizan eficiencia y conectividad smart. Para complementar tu setup tecnológico, no te pierdas nuestra [review del MacBook Air M3]({%- post_url 2023-07-25-macbook-air-m3-review -%}), ideal para gestionar tu hogar inteligente desde cualquier lugar.
 
 **¿Listo para automatizar tu limpieza? [Encuentra las mejores ofertas del Lefant M330 Pro aquí]({{ site.constants.wsib }}Lefant M330 Pro)**
