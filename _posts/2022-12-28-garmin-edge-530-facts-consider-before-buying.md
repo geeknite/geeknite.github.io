@@ -1,4 +1,5 @@
 ---
+redirect_to: https://bikinggeek.github.io/2022/12/garmin-edge-530-facts-consider-before-buying
 title: "Garmin Edge 530: What You Should Know Before Buying"
 date: "2022-12-28"
 tags: [garmin, review, gps, cycling]

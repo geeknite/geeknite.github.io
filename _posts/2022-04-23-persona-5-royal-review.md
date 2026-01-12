@@ -74,4 +74,3 @@ Ready to join the Phantom Thieves and change the world? Get your copy of Persona
 For more reviews and gaming recommendations, check out our previous posts:
 
 - [Crusader Kings 3 Review: The Ultimate Strategy Game]({%- post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})

@@ -68,6 +68,5 @@ Ready to dive into the explosive world of Bomb Busters? {{ site.constants.wsib }
 
 Don't forget to check out our other reviews:
 
-- [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Rallyman GT Review]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})
 

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://bikinggeek.github.io/2023/04/five-ten-sleuth-review
 title: "Five Ten Sleuth Review: The Ultimate Casual MTB Shoe"
 date: '2023-04-07'
 tags: ['Five Ten', 'Sleuth', 'MTB', 'shoe', 'review', 'funny']

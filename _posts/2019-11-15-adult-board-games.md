@@ -53,7 +53,6 @@ A game of trading, building, and expansion set on the island of Catan. Players m
 ### 5. **Pandemic**
 A cooperative game where players work together to stop the spread of global pandemics. It's a game of teamwork and strategic planning, perfect for those who love a good challenge.
 
-For more great board game recommendations, check out our post on [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%}).
 
 ## Conclusion
 

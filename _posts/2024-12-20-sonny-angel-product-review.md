@@ -1,6 +1,7 @@
 ---
 title: "Sonny Angel Product Review: A Cute Collectible"
 date: "2024-12-20"
+last_modified_at: "2026-01-05"
 tags: [review, toys, Sonny Angel]
 last_modified_at: "2025-08-20T06:30:36.649638Z"
 ---

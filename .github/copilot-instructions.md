@@ -3,7 +3,7 @@
 ## Project Overview
 GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, anime, gadgets, fashion, board games, and Amazon shopping guides. Published via GitHub Pages at `geeknite.github.io` using the custom theme `FerranSalguero/geeknite-theme`.
 
-**Important**: Cycling and sports content has been moved to bikinggeek.github.io. GeekNite now focuses exclusively on geek/pop culture content.
+**Important**: Cycling and sports content has been moved to bikinggeek.github.io. GeekNite now focuses exclusively on geek/pop culture content. Add redirects to existing posts when editing: redirect_to: https://bikinggeek.github.io/YYYY/MM/slug
 
 ## Key Architecture Decisions
 

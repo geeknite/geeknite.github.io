@@ -1,4 +1,5 @@
 ---
+redirect_to: https://bikinggeek.github.io/2023/10/race-face-turbine-tija-review
 title: "Race Face Turbine Tija Review: The Ultimate Seatpost for Your MTB"
 date: "2023-10-07"
 tags:

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://bikinggeek.github.io/2023/10/camiseta-tecnica-manga-larga-fox-ranger-drirelease
 title: "Camiseta técnica de manga larga Fox Ranger Drirelease"
 date: "2023-10-08"
 tags: [review, fox, mtb, apparel, humor]

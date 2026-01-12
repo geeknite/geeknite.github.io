@@ -80,4 +80,3 @@ So, gather your friends, choose your code words, and dive into the thrilling wor
 
 - **[Sniper Elite Board Game Review: Stealth and Strategy on Your Tabletop]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})**
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**

@@ -80,5 +80,4 @@ So, gather your friends and family, set up your game boards, and dive into the w
 For more reviews and board game recommendations, check out our previous posts:
 
 - [Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
 - [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})

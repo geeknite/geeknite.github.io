@@ -80,5 +80,4 @@ The All Aboard Wooden Train Track Set is a fantastic investment for any househol
 
 For more awesome toy reviews, check out our other posts:
 
-- [Top 10 Racing Board Games]({% post_url 2023-06-15-top-10-racing-board-games %})
 - [LEGO Star Wars Sets Review]({% post_url 2023-07-25-star-wars-lego-review %})
