@@ -68,7 +68,7 @@ Si haces varias compras, intenta agrupar las entregas para recibir todos los pro
 
 ¿Eres un fanático de los videojuegos? ¡Entonces no te pierdas nuestro canal de Twitch y YouTube @xocmetal! Aquí podrás disfrutar de sesiones de juego en vivo, explorar mundos virtuales y formar parte de una comunidad de jugadores entusiastas. ¡No te pierdas la diversión!
 
-<iframe src="https://player.twitch.tv/?channel=xocmetal&parent=geeknite.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?channel=xocmetal&parent={{ site.url | replace: 'https://', '' | replace: 'http://', '' }}" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ## Conclusión
 

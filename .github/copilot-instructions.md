@@ -1,7 +1,7 @@
 # GeekNite Blog - Copilot Instructions
 
 ## Project Overview
-GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, anime, gadgets, fashion, board games, and Amazon shopping guides. Published via GitHub Pages at `geeknite.github.io` using the custom theme `FerranSalguero/geeknite-theme`.
+GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, anime, gadgets, fashion, board games, and Amazon shopping guides. Published via GitHub Pages at `blog.geeknite.com` using the custom theme `FerranSalguero/geeknite-theme`.
 
 **Important**: Cycling and sports content has been moved to bikinggeek.github.io. GeekNite now focuses exclusively on geek/pop culture content. Add redirects to existing posts when editing: redirect_to: https://bikinggeek.github.io/YYYY/MM/slug
 
@@ -62,8 +62,10 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
   [![Product Name](https://i.imgur.com/image_id.jpg){: .align-right}]({{ site.constants.wsib }}Product Name)
   ```
   - Image must be an existing product image from Amazon or other stores
-  - If no suitable image exists, you MUST find or generate an appropriate product image first
+  - If no suitable image exists, use the fallback image: `/assets/images/general.jpg`
   - Use imgur URLs for hosting: `https://i.imgur.com/xxxxx.jpg` (medium size, no 's' suffix)
+  - **Note**: Uploading custom images to imgur requires user intervention (Copilot cannot upload images)
+  - **CRITICAL**: Never invent imgur URLs - always verify the image exists by checking with `fetch_webpage` or using existing URLs from the blog
   - Always include `{: .align-right}` for proper text wrapping
   - Wrap in affiliate link using `{{ site.constants.wsib }}`
 - Intro paragraph establishing context
