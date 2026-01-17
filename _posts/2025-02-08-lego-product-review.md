@@ -57,29 +57,6 @@ The LEGO Star Wars Millennium Falcon is an iconic set that appeals to both Star 
 
 The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements.
 
-## LEGO Architecture Skyline Collection New York
-
-![LEGO Architecture Skyline Collection New York](https://www.lego.com/cdn/cs/set/assets/blt1a2d3ef89f2d8031/21028_alt1.jpg)
-
-### Overview
-
-The LEGO Architecture Skyline Collection New York is a fantastic set for those who appreciate the architectural beauty of the Big Apple. The set includes famous landmarks such as the Statue of Liberty, Empire State Building, and the One World Trade Center. With 598 pieces, it's not overly complex, making it a perfect display piece for both younger builders and adults.
-
-### Pros
-
-- Beautiful and accurate representations of New York landmarks
-- Suitable for a wide range of ages
-- Makes a great display piece
-
-### Cons
-
-- Smaller piece count may not offer as lengthy a building experience
-- Some intricate parts can be challenging to assemble
-
-### Final Thoughts
-
-The LEGO Architecture Skyline Collection New York is an excellent addition to any LEGO collection, especially for fans of iconic landmarks. Its detailed design and manageable size make it an ideal piece for display and enjoyment.
-
 ## LEGO Creator Expert Roller Coaster
 
 [![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-creator-expert-roller-coaster)
@@ -98,6 +75,12 @@ The LEGO Creator Expert Roller Coaster is a fun and interactive set that brings 
 
 - Complex and time-consuming to build
 - Some pieces may be fragile
+
+### Expanded Review
+
+Alright, LEGO fans. Buckle up because this roller coaster set is not for the faint-hearted. Imagine building a real roller coaster from scratch, but without the safety regulations. The chain-lift system actually works. Yes, it really moves the cars up the track. How cool is that?
+
+**Tip:** Be sure to double-check each piece, or you might end up with a coaster that’s more of a 'coast-nap'!
 
 ### Final Thoughts
 
