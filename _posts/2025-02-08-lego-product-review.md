@@ -11,6 +11,29 @@ last_modified_at: '2025-03-08T10:00:00+02:00'
 
 LEGO has been a beloved brand for decades, inspiring creativity and imagination in both children and adults. With a wide variety of sets ranging from classic themes to modern licensed properties, LEGO offers something for everyone. In this comprehensive review, we'll explore some of the best LEGO sets available on the market today, their features, and why they stand out.
 
+## LEGO Ninjago City Gardens
+
+[![LEGO Ninjago City Gardens](https://www.lego.com/cdn/cs/set/assets/bltNinjagoCityGardens.jpg){: .align-right}]({{ site.constants.wsib }}lego-ninjago-city-gardens)
+
+### Overview
+
+LEGO Ninjago City Gardens is a stunning set that transports builders into the heart of Ninjago City. With over 5,600 pieces, this set is a colossal build, filled with intricate details and vibrant colors that bring the bustling city to life. From the rooftop gardens to the teahouse, every corner of this set is packed with surprises and references to the Ninjago series.
+
+### Pros
+
+- Extremely detailed and immersive
+- Includes a wide variety of minifigures
+- Offers a lengthy and rewarding building experience
+
+### Cons
+
+- Very expensive
+- Requires a significant amount of space for display
+
+### Final Thoughts
+
+LEGO Ninjago City Gardens is a must-have for any Ninjago fan or LEGO enthusiast who enjoys detailed builds. Its impressive size and vibrant details make it a centerpiece in any collection, despite the high cost and display space requirements.
+
 ## LEGO Technic Bugatti Chiron
 
 [![LEGO Technic Bugatti Chiron](https://www.lego.com/cdn/cs/set/assets/blt6ca5ed5ff37d8f2d/42083_alt1.jpg){: .align-right}]({{ site.constants.wsib }}lego-technic-bugatti-chiron)
@@ -103,33 +126,8 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
-## LEGO Marvel Avengers Helicarrier
-
-[![LEGO Marvel Avengers Helicarrier](https://www.lego.com/cdn/cs/set/assets/blt4f4d4e0a8e3f5045/76153_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-marvel-avengers-helicarrier)
-
-### Overview
-
-The LEGO Marvel Avengers Helicarrier is a thrilling set for Marvel fans and LEGO enthusiasts alike. This set includes over 1,200 pieces and features the iconic S.H.I.E.L.D. Helicarrier from the Marvel Cinematic Universe. It comes with minifigures of your favorite Avengers characters, as well as various accessories and weapons to recreate epic scenes from the movies.
-
-### Pros
-
-- Exciting and detailed design
-- Includes popular Marvel character minifigures
-- Interactive and fun to play with
-
-### Cons
-
-- Building process can be complex for younger builders
-- Some pieces may be fragile
-
-### Final Thoughts
-
-The LEGO Marvel Avengers Helicarrier is a fantastic set for Marvel fans and collectors. Its detailed design and interactive features make it a great addition to any LEGO or Marvel collection. Whether you're reenacting scenes from the movies or creating your own adventures, this set is sure to provide hours of entertainment.
-
 ## Conclusion
 
-LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Marvel Avengers Helicarrier, each set offers something unique and special.
+LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com) and find the perfect addition to your collection today!**
-
-{% include amazon.html asin="B09XX5FVHJ" %}
+**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}) and find the perfect addition to your collection today!**
