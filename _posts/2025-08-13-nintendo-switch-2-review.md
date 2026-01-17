@@ -29,7 +29,7 @@ Nintendo has made the Switch 2 even more portable. It's lighter, slimmer, and ha
 
 #### More Storage
 
-One of the biggest complaints about the original Switch was the lack of storage. Well, they've fixed that with the Switch 2. It now comes with 256GB of internal storage, and it's expandable via microSD. So, go ahead, download all the games you want!
+One of the biggest complaints about the original Switch was the lack of storage. Well, they've fixed that with the Switch 2. It now comes with 128GB of internal storage, and it's expandable via microSD. So, go ahead, download all the games you want!
 
 ### The Good
 
@@ -55,16 +55,16 @@ Ah, the infamous Joy-Con drift. It's still an issue, and it's about as annoying 
 
 #### The Price
 
-The Switch 2 is not cheap. It's priced at $499, which is a bit steep for a console that's not as powerful as its competitors. But if you're a die-hard Nintendo fan, you might find it worth every penny.
+The Switch 2 is not cheap. It's priced at $399, which is a bit steep for a console that's not as powerful as its competitors. But if you're a die-hard Nintendo fan, you might find it worth every penny.
 
 ### Should You Buy It?
 
 The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability. If you love gaming on-the-go and can't resist Nintendo's exclusive titles, it's definitely worth considering. But if you're looking for a powerhouse console with the latest technology, you might want to look elsewhere.
+
+{% include amazon.html asin="B09XX5FVHJ" %}
 
 ### Conclusion
 
 The Nintendo Switch 2 is like that friend who shows up late to the party but brings the best snacks. It's not perfect, but it's hard not to love. Whether you're playing at home or on-the-go, the Switch 2 offers a unique gaming experience that's tough to beat.
 
 **Ready to level up your gaming? Get your Nintendo Switch 2 [here]({{ site.constants.wsib }}nintendo-switch-2). Happy gaming!**
-
-{% include amazon.html asin="B09XX5FVHJ" %}
