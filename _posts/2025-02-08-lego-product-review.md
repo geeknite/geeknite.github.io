@@ -55,30 +55,7 @@ The LEGO Star Wars Millennium Falcon is an iconic set that appeals to both Star 
 
 ### Final Thoughts
 
-The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements. **May the Force be with your wallet.**
-
-## LEGO Architecture New York City
-
-[![LEGO Architecture New York City](https://www.lego.com/cdn/cs/set/assets/blt6f4f4b5eee6f5b4f/21028_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-architecture-new-york-city)
-
-### Overview
-
-For those who prefer skylines to starships, the LEGO Architecture New York City set is a must. This set captures the essence of New York City, featuring iconic buildings such as the Statue of Liberty, Empire State Building, and One World Trade Center. With a total of 598 pieces, it's a more manageable build compared to the behemoths above but still offers plenty of detail.
-
-### Pros
-
-- Beautifully captures iconic New York City landmarks
-- Suitable for both beginners and experienced builders
-- Compact and great for display
-
-### Cons
-
-- Smaller piece count means a shorter build time
-- Not as interactive as other sets
-
-### Final Thoughts
-
-The LEGO Architecture New York City set is perfect for those who love architecture and cityscapes. Its compact size makes it an ideal display piece for any room, and the detailed design ensures it stands out.
+The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements.
 
 ## LEGO Creator Expert Roller Coaster
 
@@ -126,10 +103,31 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
+## LEGO-41803 DOTS Extra: Edición 8 (Brillos)
+
+[![LEGO-41803 DOTS Extra: Edición 8](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/41803_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-41803-dots-extra-8)
+
+### Overview
+
+For those who love adding a little bling to their creations, the LEGO-41803 DOTS Extra: Edición 8 is an absolute gem. This set is packed with shiny, glittery pieces that can be used to customize any LEGO build. It's perfect for adding that extra sparkle to your LEGO masterpieces.
+
+### Pros
+
+- Adds a unique and shiny touch to builds
+- Encourages creativity and customization
+- Affordable and fun
+
+### Cons
+
+- Limited to decorative use
+- Pieces may be small and easy to lose
+
+### Final Thoughts
+
+The LEGO-41803 DOTS Extra: Edición 8 is a fantastic addition for anyone looking to add a bit of flair to their LEGO creations. It's fun, affordable, and perfect for both kids and adults who love a little extra sparkle.
+
 ## Conclusion
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/lego-star-wars) and find the perfect addition to your collection today!**
-
-{% include amazon.html asin="B09XX5FVHJ" %}
+**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}) and find the perfect addition to your collection today!**
