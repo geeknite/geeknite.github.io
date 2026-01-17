@@ -57,29 +57,6 @@ The LEGO Star Wars Millennium Falcon is an iconic set that appeals to both Star 
 
 The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements.
 
-## LEGO Ideas NASA Apollo Saturn V
-
-[![LEGO Ideas NASA Apollo Saturn V](https://www.lego.com/cdn/cs/set/assets/blt78e8d4a1d1e9c4a/21309_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-ideas-nasa-apollo-saturn-v)
-
-### Overview
-
-The LEGO Ideas NASA Apollo Saturn V is a magnificent tribute to the historic moon missions. This set includes 1,969 pieces (a clever nod to the 1969 moon landing) and stands at an impressive 39 inches tall when completed. It features three stages of the Saturn V rocket, a lunar lander, and a command module.
-
-### Pros
-
-- Educational and historically significant
-- Impressive size and display value
-- Includes a variety of minifigures and accessories
-
-### Cons
-
-- Some parts can be fragile
-- May require additional support for display
-
-### Final Thoughts
-
-The LEGO Ideas NASA Apollo Saturn V is a must-have for space enthusiasts and history buffs alike. Its educational value and impressive size make it a standout piece in any LEGO collection.
-
 ## LEGO Creator Expert Roller Coaster
 
 [![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-creator-expert-roller-coaster)
@@ -126,8 +103,33 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
+## LEGO Marvel Avengers Helicarrier
+
+[![LEGO Marvel Avengers Helicarrier](https://www.lego.com/cdn/cs/set/assets/blt4f4d4e0a8e3f5045/76153_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-marvel-avengers-helicarrier)
+
+### Overview
+
+The LEGO Marvel Avengers Helicarrier is a thrilling set for Marvel fans and LEGO enthusiasts alike. This set includes over 1,200 pieces and features the iconic S.H.I.E.L.D. Helicarrier from the Marvel Cinematic Universe. It comes with minifigures of your favorite Avengers characters, as well as various accessories and weapons to recreate epic scenes from the movies.
+
+### Pros
+
+- Exciting and detailed design
+- Includes popular Marvel character minifigures
+- Interactive and fun to play with
+
+### Cons
+
+- Building process can be complex for younger builders
+- Some pieces may be fragile
+
+### Final Thoughts
+
+The LEGO Marvel Avengers Helicarrier is a fantastic set for Marvel fans and collectors. Its detailed design and interactive features make it a great addition to any LEGO or Marvel collection. Whether you're reenacting scenes from the movies or creating your own adventures, this set is sure to provide hours of entertainment.
+
 ## Conclusion
 
-LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
+LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Marvel Avengers Helicarrier, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lgeo) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com) and find the perfect addition to your collection today!**
+
+{% include amazon.html asin="B09XX5FVHJ" %}
