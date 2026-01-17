@@ -75,27 +75,27 @@ The LEGO Star Wars AT-AT Walker is a fantastic set for those who love the ground
 
 The LEGO Star Wars AT-AT Walker is perfect for fans of the epic ground battles in Star Wars. Its interactive features and detailed design make it a fun addition to any LEGO Star Wars collection. Just make sure your snow speeders are ready to trip it up!
 
-## LEGO Star Wars AT-ST Raider (75254) - The Mandalorian Adventure
-![LEGO Star Wars AT-ST Raider](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75254_alt1.jpg){: .align-right rel="nofollow"}
+## LEGO Star Wars 75345 Clone Trooper Command Pack
+![LEGO Star Wars 75345](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75345_alt1.jpg){: .align-right rel="nofollow"}
 
 ### Overview
 
-Inspired by the hit series *The Mandalorian*, the LEGO Star Wars AT-ST Raider (75254) is a set that transports you directly to the adventures of Din Djarin and Cara Dune. With 540 pieces, it's a bit more manageable than some of the larger sets but still offers an engaging and fun build.
+The LEGO Star Wars 75345 Clone Trooper Command Pack is a delightful addition for fans of the Clone Wars era. This set includes 4 minifigures: two Phase I Clone Troopers and two Battle Droids, along with a command station and blaster cannon. With its compact size and affordable price, it's perfect for young builders and army builders alike.
 
 ### Pros
 
-- Unique design based on *The Mandalorian*
-- Includes cool minifigures like The Mandalorian and Cara Dune
-- Features posable legs and turret for dynamic play
+- Includes multiple minifigures
+- Affordable and easy to build
+- Great for expanding your Clone Wars collection
 
 ### Cons
 
-- Smaller piece count than other sets
-- May not be as challenging for experienced builders
+- Limited play features compared to larger sets
+- Not as detailed as more expensive sets
 
 ### Final Thoughts
 
-The LEGO Star Wars AT-ST Raider is a fantastic addition for fans of *The Mandalorian*. Its unique design and detailed minifigures make it a standout piece that brings the series to life. It may not be as complex as other sets, but it captures the essence of adventure and is perfect for display or play.
+The LEGO Star Wars 75345 Clone Trooper Command Pack is an excellent choice for those looking to bolster their Clone Wars armies without breaking the bank. It's a fun and straightforward set that adds value to any collection.
 
 ## Conclusion
 
