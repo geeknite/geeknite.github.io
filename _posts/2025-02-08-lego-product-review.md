@@ -104,8 +104,7 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
 ## LEGO Star Wars Death Star
-
-[![LEGO Star Wars Death Star](https://www.lego.com/cdn/cs/set/assets/blta7e16f6a2a8b6c00/75159_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-death-star)
+![LEGO Star Wars Death Star](https://www.lego.com/cdn/cs/set/assets/blta7e16f6a2a8b6c00/75159_alt1.jpg){: .align-right rel="nofollow"}
 
 ### Overview
 
@@ -119,16 +118,15 @@ The LEGO Star Wars Death Star is another behemoth of a set with over 4,000 piece
 
 ### Cons
 
-- Very expensive
-- May require additional structural support (Hello, LEGO bricks everywhere!)
+- Also very expensive
+- May require additional structural support
 
 ### Final Thoughts
 
 If you want to rule the galaxy (or at least your living room) with an iron fist, the LEGO Star Wars Death Star is the way to go. It's both a collector's dream and a playground for Star Wars fans. Just be careful not to step on any stray pieces—your feet will thank you.
 
 ## LEGO Star Wars AT-AT Walker
-
-[![LEGO Star Wars AT-AT Walker](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75288_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-at-at)
+![LEGO Star Wars AT-AT Walker](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75288_alt1.jpg){: .align-right rel="nofollow"}
 
 ### Overview
 
@@ -153,6 +151,6 @@ The LEGO Star Wars AT-AT Walker is perfect for fans of the epic ground battles i
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/s?k=lego+sets&tag=geeknite-20) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/lego-star-wars) and find the perfect addition to your collection today!**
 
 {% include amazon.html asin="B09XX5FVHJ" %}
