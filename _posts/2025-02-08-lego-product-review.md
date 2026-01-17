@@ -57,6 +57,29 @@ The LEGO Star Wars Millennium Falcon is an iconic set that appeals to both Star 
 
 The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements.
 
+## LEGO Ideas NASA Apollo Saturn V
+
+[![LEGO Ideas NASA Apollo Saturn V](https://www.lego.com/cdn/cs/set/assets/blt78e8d4a1d1e9c4a/21309_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-ideas-nasa-apollo-saturn-v)
+
+### Overview
+
+The LEGO Ideas NASA Apollo Saturn V is a magnificent tribute to the historic moon missions. This set includes 1,969 pieces (a clever nod to the 1969 moon landing) and stands at an impressive 39 inches tall when completed. It features three stages of the Saturn V rocket, a lunar lander, and a command module.
+
+### Pros
+
+- Educational and historically significant
+- Impressive size and display value
+- Includes a variety of minifigures and accessories
+
+### Cons
+
+- Some parts can be fragile
+- May require additional support for display
+
+### Final Thoughts
+
+The LEGO Ideas NASA Apollo Saturn V is a must-have for space enthusiasts and history buffs alike. Its educational value and impressive size make it a standout piece in any LEGO collection.
+
 ## LEGO Creator Expert Roller Coaster
 
 [![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-creator-expert-roller-coaster)
@@ -103,31 +126,8 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
-## LEGO Icons: The Titanic (10294)
-
-[![LEGO Icons: The Titanic](https://www.lego.com/cdn/cs/set/assets/blt3f0299eb1e2b8f3a/10294_alt1.jpg){: .align-right}]({{ site.constants.wsib }}lego-icons-titanic)
-
-### Overview
-
-The LEGO Icons: The Titanic (10294) is a marvel of LEGO engineering. This set features an astounding 9,090 pieces, making it one of the largest LEGO sets ever produced. It meticulously recreates the historic ship with stunning detail, including the grand staircase, boiler room, and even lifeboats.
-
-### Pros
-
-- Incredibly detailed and massive
-- Offers a historical building experience
-- Ideal for display
-
-### Cons
-
-- Extremely expensive
-- Requires a significant amount of time and space to complete
-
-### Final Thoughts
-
-The LEGO Icons: The Titanic (10294) is a dream come true for history buffs and LEGO enthusiasts alike. Its sheer size and complexity make it a challenging but rewarding build. If you have the budget and the space, this set will be a magnificent addition to your collection.
-
 ## Conclusion
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lego) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lgeo) and find the perfect addition to your collection today!**
