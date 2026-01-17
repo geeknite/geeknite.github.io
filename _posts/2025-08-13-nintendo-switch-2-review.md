@@ -8,7 +8,7 @@ tags:
 - Console
 - Technology
 description: "Explore the Nintendo Switch 2: Is it the next level in gaming or just another console upgrade? Find out in our detailed review."
-last_modified_at: '2025-08-13T10:00:00+02:00'
+last_modified_at: '2026-01-17T13:00:00+02:00'
 ---
 
 [![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
@@ -30,6 +30,10 @@ Nintendo has made the Switch 2 even more portable. It's lighter, slimmer, and ha
 #### More Storage
 
 One of the biggest complaints about the original Switch was the lack of storage. Well, they've fixed that with the Switch 2. It now comes with 128GB of internal storage, and it's expandable via microSD. So, go ahead, download all the games you want!
+
+#### Improved Joy-Cons
+
+Nintendo has finally addressed the infamous Joy-Con drift issue! The new Joy-Cons are more durable and come with enhanced precision. Your thumbs will thank you.
 
 ### The Good
 
