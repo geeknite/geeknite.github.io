@@ -107,6 +107,12 @@ The LEGO Ideas Tree House is perfect for those who appreciate nature and intrica
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/lego-star-wars) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lego-sets) and find the perfect addition to your collection today!**
+
+### Related Reviews & Comparisons:
+
+- [LEGO Star Wars Death Star]({% post_url 2023-07-25-star-wars-lego-review %}#lego-star-wars-death-star)
+- [LEGO Star Wars AT-AT Walker]({% post_url 2023-07-25-star-wars-lego-review %}#lego-star-wars-at-at-walker)
+- [Top 5 LEGO Sets for Advanced Builders]({% post_url 2025-03-08-top-5-lego-sets-for-advanced-builders %})
 
 {% include amazon.html asin="B09XX5FVHJ" %}
