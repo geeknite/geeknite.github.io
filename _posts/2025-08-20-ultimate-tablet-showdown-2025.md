@@ -5,7 +5,7 @@ tags: [tablets, POCO, Xiaomi, Redmi, comparison, review, tech, gadgets]
 description: "The ultimate comparison of 2025's hottest budget tablets: POCO Pad 12, Xiaomi Pad 6, Xiaomi Pad 7, and Redmi Pad Pro. Which one should you buy?"
 ---
 
-[![Ultimate Tablet Showdown 2025](https://i.imgur.com/tablet-showdown-2025.jpg){: style="float: right;"}]({{ site.constants.wsib }}tablet-comparison-2025)
+![Ultimate Tablet Showdown 2025](https://i.imgur.com/tablet-showdown-2025.jpg){: style="float: right;"}({{ site.constants.wsib }}tablet-comparison-2025)
 
 ## Introduction
 
