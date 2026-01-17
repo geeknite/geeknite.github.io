@@ -55,7 +55,30 @@ The LEGO Star Wars Millennium Falcon is an iconic set that appeals to both Star 
 
 ### Final Thoughts
 
-The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements.
+The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star Wars collector. Its impressive size and attention to detail make it a centerpiece in any collection, despite the high cost and space requirements. **May the Force be with your wallet.**
+
+## LEGO Architecture New York City
+
+[![LEGO Architecture New York City](https://www.lego.com/cdn/cs/set/assets/blt6f4f4b5eee6f5b4f/21028_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-architecture-new-york-city)
+
+### Overview
+
+For those who prefer skylines to starships, the LEGO Architecture New York City set is a must. This set captures the essence of New York City, featuring iconic buildings such as the Statue of Liberty, Empire State Building, and One World Trade Center. With a total of 598 pieces, it's a more manageable build compared to the behemoths above but still offers plenty of detail.
+
+### Pros
+
+- Beautifully captures iconic New York City landmarks
+- Suitable for both beginners and experienced builders
+- Compact and great for display
+
+### Cons
+
+- Smaller piece count means a shorter build time
+- Not as interactive as other sets
+
+### Final Thoughts
+
+The LEGO Architecture New York City set is perfect for those who love architecture and cityscapes. Its compact size makes it an ideal display piece for any room, and the detailed design ensures it stands out.
 
 ## LEGO Creator Expert Roller Coaster
 
@@ -103,31 +126,10 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
-## LEGO Speed Champions: 2 Fast 2 Furious Nissan Skyline Gt-R (R34) (76917)
-
-![LEGO Speed Champions: 2 Fast 2 Furious Nissan Skyline Gt-R (R34) (76917)](https://www.lego.com/cdn/cs/set/assets/blt1234567890/76917_alt1.jpg){: .align-right rel="nofollow"}
-
-### Overview
-
-Fulfill your need for speed with the LEGO Speed Champions: 2 Fast 2 Furious Nissan Skyline Gt-R (R34) (76917). This set captures the iconic car from the movie in intricate detail. With 298 pieces, it's a moderately challenging build that's immensely satisfying once completed. Even Dominic Toretto would approve!
-
-### Pros
-
-- Detailed and movie-accurate design
-- Moderate difficulty level, suitable for most builders
-- Great addition to any Fast & Furious or car collection
-
-### Cons
-
-- Limited play features
-- Smaller piece count compared to other sets
-
-### Final Thoughts
-
-The LEGO Speed Champions: 2 Fast 2 Furious Nissan Skyline Gt-R (R34) is a must-have for fans of the Fast & Furious franchise. It's a fun build that delivers on detail and nostalgia. Ready to relive the high-octane moments from the movie? Then this set is for you!
-
 ## Conclusion
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [Geeknite's LEGO Section]({{ site.constants.wsib }}lego) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/lego-star-wars) and find the perfect addition to your collection today!**
+
+{% include amazon.html asin="B09XX5FVHJ" %}
