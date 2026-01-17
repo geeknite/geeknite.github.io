@@ -103,31 +103,56 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
-## LEGO-41803 DOTS Extra: Edición 8 (Brillos)
+## New Additions
 
-[![LEGO-41803 DOTS Extra: Edición 8](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/41803_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-41803-dots-extra-8)
+### LEGO Star Wars Death Star
+
+[![LEGO Star Wars Death Star](https://www.lego.com/cdn/cs/set/assets/blta7e16f6a2a8b6c00/75159_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-death-star)
 
 ### Overview
 
-For those who love adding a little bling to their creations, the LEGO-41803 DOTS Extra: Edición 8 is an absolute gem. This set is packed with shiny, glittery pieces that can be used to customize any LEGO build. It's perfect for adding that extra sparkle to your LEGO masterpieces.
+The LEGO Star Wars Death Star is another behemoth of a set with over 4,000 pieces. This set is packed with moving parts and minifigures, allowing you to recreate iconic scenes from the movies. It includes a hangar bay, control room, trash compactor, and even Emperor Palpatine's throne room.
 
 ### Pros
 
-- Adds a unique and shiny touch to builds
-- Encourages creativity and customization
-- Affordable and fun
+- Extremely detailed and interactive
+- Includes numerous iconic minifigures
+- Great for display and play
 
 ### Cons
 
-- Limited to decorative use
-- Pieces may be small and easy to lose
+- Also very expensive
+- May require additional structural support (Hello, LEGO bricks everywhere!)
 
 ### Final Thoughts
 
-The LEGO-41803 DOTS Extra: Edición 8 is a fantastic addition for anyone looking to add a bit of flair to their LEGO creations. It's fun, affordable, and perfect for both kids and adults who love a little extra sparkle.
+If you want to rule the galaxy (or at least your living room) with an iron fist, the LEGO Star Wars Death Star is the way to go. It's both a collector's dream and a playground for Star Wars fans. Just be careful not to step on any stray pieces—your feet will thank you.
+
+### LEGO Star Wars AT-AT Walker
+
+[![LEGO Star Wars AT-AT Walker](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75288_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-at-at-walker)
+
+### Overview
+
+The LEGO Star Wars AT-AT Walker is a fantastic set for those who love the ground battles of the Star Wars saga. With over 1,200 pieces, this set includes movable legs and head, spring-loaded shooters, and space to fit minifigures inside.
+
+### Pros
+
+- Movable parts make it highly interactive
+- Detailed build that's faithful to the movies
+- Great for reenacting the Battle of Hoth
+
+### Cons
+
+- Less complex than the Millennium Falcon or Death Star
+- Somewhat fragile; not ideal for younger builders
+
+### Final Thoughts
+
+The LEGO Star Wars AT-AT Walker is perfect for fans of the epic ground battles in Star Wars. Its interactive features and detailed design make it a fun addition to any LEGO Star Wars collection. Just make sure your snow speeders are ready to trip it up!
 
 ## Conclusion
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lego) and find the perfect addition to your collection today!**
