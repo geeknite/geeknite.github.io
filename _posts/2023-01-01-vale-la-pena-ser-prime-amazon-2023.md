@@ -1,7 +1,6 @@
 ---
-
 title:  "Vale la pena ser prime en amazon.es en 2023?"
-date: "2023-01-01 17:00:00 +0200"
+date:   2023-01-01 17:00:00 +0200
 tags: amazon españa español europe smartshopping prime
 description: "¿Vale la pena ser Prime de Amazon en 2023? - Una revisión detallada que analiza los beneficios y desventajas de la membresía de Amazon Prime en 2023."
 last_modified_at: '2023-07-06T00:00:00+02:00'
@@ -21,13 +20,13 @@ Ya estamos en 2023 y recordando otros articulos en que ya nos planteábamos si [
 
 ## Puntos a mejorar
 
-1. Amazon music ha cambiado su política para potenciar la suscripción unlimited, ahora con Prime no se permite qué canción escuchar, y nos hace escuchar en formato radio con canciones que su algoritmo categoriza como similares. Parecido a la versión Free del mismo amazon o de spotify con algunas mejoras. Incluso la aplicación Android con el cambio visual y de funcionamiento ya no funciona bien.
+1. Amazon music ha cambiado su política para potenciar la suscripción unlimited, ahora con Prime no se permite qué canción escuchar, y nos hace escuchar en formato radio con canciones que su algoritmo categoriza como similares. Parecido a la versión Free del mismo amazon o de spotify con algunas mejoras. Incluso la aplicación Android con el cambio visual y de funcionamiento ya no funciona bien .
 
-2. Prime reading aunque parece una buena idea, el buscador de la web está limitado y dispone de muy pocos filtros para buscar, teniendo en cuenta la cantidad de información que dispone amazon (que además posee Goodreads) lo hace practicamente inusable.
+2. Prime reading aunque parece una buena idea, el buscador de la web está limitado y dispone de muy pocos filtros para buscar, teniendo en cuenta la cantidad de información que dispone amazon (que además posee Goodreads) lo hace practicamente inusable .
 
-3. Mejora en las posibilidades de los envíos, por ejemplo agrupar o seleccionar el día a recibir las entregas, ya que en muchos casos amazon los productos no pueden cumplir con el envío de 1 día.
+3. Mejora en las posibilidades de los envíos, por ejemplo agrupar o seleccionar el día a recibir las entregas, ya que en muchos casos amazon los productos no pueden cumplir con el envío de 1 día .
 
-4. Ofertas flash, cupones, almacenamiento y otras ventajas parecen un relleno para justificar el precio de la suscripción.
+4. Ofertas flash, cupones, almacenamiento y otras ventajas parecen un relleno para justificar el precio de la suscripción .
 
 En resumen, si os interesa la entrega rápida y sin mínimo, actualmente está en 29€, y algunos de las ventajas, a por ello, pero si dudáis la mejor opción es no renovar la suscripción y ver si realmente la necesitáis, si no es el caso **"desconectad" de vuestra dependencia de amazon y veréis que también hay muchas tiendas especializadas con mejores precios.**
 
