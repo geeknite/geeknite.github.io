@@ -2,10 +2,9 @@
 # Use: bundle exec jekyll serve -I --config _config.yml,_config_dev.yml
 
 # Use LOCAL theme instead of remote (MUCH faster!)
-theme: minimal-mistakes-jekyll
 # Note: remote_theme must stay defined (not empty) or jekyll-remote-theme crashes
 # We keep the same value but theme takes precedence when defined
-remote_theme: "FerranSalguero/geeknite-theme"
+theme: minimal-mistakes-jekyll
 
 # Disable GitHub metadata API calls (big time saver!)
 github: [metadata]

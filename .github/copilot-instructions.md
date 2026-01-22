@@ -37,25 +37,12 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 - Drafts stored in `_drafts/` (extensive collection of unpublished posts)
 
 ### Post Creation Pattern
-1. Create file: `_posts/YYYY-MM-DD-descriptive-slug.md`
-2. Add comprehensive frontmatter:
-   ```yaml
-   ---
-   title: "Product Name: Catchy Review Title"
-   date: YYYY-MM-DD
-   tags: [cycling, gear, brand, product-type]
-   description: "SEO-optimized description 150-160 chars"
-   excerpt: "Longer excerpt for social sharing"
-   last_modified_at: 'YYYY-MM-DDTHH:MM:SS+02:00'  # Required when editing
-   redirect_from:  # Optional for URL migrations
-     - /old/path.html
-   ---
-   ```
-3. **MAXIMIZE internal linking** - reference 3-5 related existing posts using `{% post_url YYYY-MM-DD-slug %}` (NO file extension) integrated in post content
+1. Create file: `_posts/YYYY-MM-DD-slug.md`
+2. Add frontmatter with title, date, tags
+3. **MAXIMIZE internal linking** - reference 3-5 related existing posts using `{% post_url YYYY-MM-DD-slug %}` (NO file extension)
 4. **MAXIMIZE affiliate links** - link ALL product mentions to `{{ site.constants.wsib }}`
-5. Include product images from Amazon or Imgur: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix) or `https://m.media-amazon.com/images/I/` URLs
+5. Include product images from Amazon or imgur with `https://i.imgur.com/` or `https://m.media-amazon.com/images/I/` URLs
 6. Add `{% include amazon.html %}` product tables for major items with ASINs and images
-7. **UPDATE `last_modified_at`** - Always update this field with current date/time when editing any post
 
 ### Internal Linking Convention
 **Critical**: When linking between posts, use Jekyll's `post_url` tag:
@@ -63,9 +50,9 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 [link text]({%- post_url 2023-07-06-garmin-edge-540-review -%})
 ```
 - No file extension
-- Include full date prefix (YYYY-MM-DD)
+- Include full date prefix
 - Hyphens only (no spaces)
-- Use `{%-` syntax to strip whitespace for cleaner HTML output
+- Use `{%-` syntax to strip whitespace
 
 ## Content Guidelines
 
@@ -74,60 +61,32 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
   ```markdown
   [![Product Name](https://i.imgur.com/image_id.jpg){: .align-right}]({{ site.constants.wsib }}Product Name)
   ```
-    - Image must be an existing product image from Amazon, manufacturer sites, or other stores
-  - If no suitable image exists, you MUST find or use the fallback image: `/assets/images/general.jpg`
-  - Use Imgur URLs for hosting: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix)
+  - Image must be an existing product image from Amazon or other stores
+  - If no suitable image exists, use the fallback image: `/assets/images/general.jpg`
+  - Use imgur URLs for hosting: `https://i.imgur.com/xxxxx.jpg` (medium size, no 's' suffix)
   - **Note**: Uploading custom images to imgur requires user intervention (Copilot cannot upload images)
   - **CRITICAL**: Never invent imgur URLs - always verify the image exists by checking with `fetch_webpage` or using existing URLs from the blog
-  - Always include `{: .align-right}` for proper text wrapping alongside content
+  - Always include `{: .align-right}` for proper text wrapping
   - Wrap in affiliate link using `{{ site.constants.wsib }}`
-
-**For Product Reviews:**
-1. **Primary source**: Use Amazon product images (copy URL from Amazon listing)
-2. **Secondary source**: Manufacturer official images
-3. **Hosting**: Upload to Imgur and use medium size with `m` suffix: `https://i.imgur.com/xxxxxm.jpg`
-4. **Fallback**: If no product image available, use `/assets/images/general.jpg`
-
-**When Editing Posts:**
-- Verify all image URLs load correctly before saving
-- Replace broken images with working alternatives or the default image
-- Check Imgur URLs still resolve (old images may be deleted)
-
-**For Non-Product Posts (guides, tips, comparisons):**
-- If no specific image exists, generate one using this AI prompt template:
-  ```
-  Mountain biker riding on a forest trail, dynamic action shot, natural lighting, 
-  green trees and nature background, cycling gear visible, sporty and adventurous mood, 
-  vibrant colors, professional photography style, 16:9 aspect ratio, high quality
-  ```
-- Adapt the prompt based on content: MTB trails, road cycling, gear flat-lay, etc.
-- Upload generated image to Imgur before using
-
-- Intro paragraph establishing context and hook reader
-- H2 sections for major topics (Design, Performance, Battery Life, etc.)
-- H3 for specific features/aspects - **link each product to `{{ site.constants.wsib }}`**
-
 - Intro paragraph establishing context
 - H2 sections for major topics
 - H3 for product names/specific items - **link each product to `{{ site.constants.wsib }}`**
 - **Reference 3-5 related existing posts** throughout content using `{% post_url %}` tags
-- Add visual `{% include amazon.html %}` tables for featured products with ASINs
+- Add visual `{% include amazon.html %}` tables for featured products
 - Conclusion with related posts links
-- Related posts section (3-5 posts minimum) using `post_url` tags
+- Related posts section at end (3-5 posts minimum) using `post_url` tags
 
 ### Tone & Style
 - **Professional and informative** with enthusiastic touch
 - Avoid overly casual or humorous tone
 - Focus on product details, comparisons, and value propositions
-- **Budget-Focused**: Emphasizes value for amateur cyclists/users
-- **Bilingual**: English primary, some Spanish posts (check `locale` in frontmatter)
 - Emoji use when appropriate (gaming: 🎮, tech: 📱💻, movies: 🎬, anime: 🎌)
 - Product comparisons and "vs" reviews frequent
 
 ### Content Quality & Rigor
 - **Fact-check all data**: Never invent specifications, prices, or product details
 - **Be rigorous**: Verify technical specs, release dates, and product features
-- **Long-form content**: Posts should aim for ~10k words minimum for comprehensive coverage with detailed sections
+- **Long-form content**: Posts should aim for ~10k words minimum for comprehensive coverage
 - If uncertain about a detail, research it or omit it rather than guessing
 - Use precise measurements, accurate model numbers, and verified information
 
@@ -149,7 +108,6 @@ title: "Your Title Here"
 date: "YYYY-MM-DD"
 tags: [tag1, tag2, tag3]
 description: "Excerpt or summary of the post in the same language as the post."
-excerpt: "Social sharing excerpt"
 ---
 ```
 
@@ -192,54 +150,10 @@ excerpt: "Social sharing excerpt"
 - References to "Wishlist Manager" tool for price tracking
 - Prime Day and seasonal shopping guides
 
-
-### Cross-Linking Strategy
-Heavy internal linking to related reviews (3-5 per post minimum). Use Liquid `post_url` tags for future-proof links.
-
 ## Pitfalls to Avoid
 1. **Never** use file extensions in `post_url` tags
 2. **Always** check `_config.yml` constants before hardcoding affiliate links
 3. **Remember** to update date in frontmatter when creating posts
 4. When linking to posts, verify the exact filename (dates matter!)
-5. Imgur image URLs should use the `m` suffix for medium size consistently: `https://i.imgur.com/xxxxxm.jpg`
-6. **Never invent** product specifications - verify all technical data
-7. **Encoding**: Watch for UTF-8 issues with Spanish characters (ñ, á, é) - fix immediately when found
-8. **Length**: Aim for long and comprehensive posts (2000+ words) for SEO and depth
-9. **SEO**: Optimize titles and descriptions and exclusive and original content for search engines
-
-## Debugging
-
-### Build Errors
-- Check YAML frontmatter syntax (common issue: unescaped colons in titles)
-- Verify `post_url` references exist (wrong date/slug breaks build)
-- Windows paths: Use forward slashes in Jekyll configs
-
-### Encoding Fixes
-**Common Problem**: UTF-8 corruption showing as `â€™` ('), `â€"` (—), `Ã³` (ó), `Ã±` (ñ), etc.
-- Files often contain mojibake from improper encoding conversions
-- Always check and fix encoding when editing old posts
-- Spanish characters (ñ, á, é, í, ó, ú) particularly affected
-
-Search regex: `â€™|â€"|Ã³|Ã±|Ã|ðŸ‚ðŸš´â€â™‚ï¸`
-Replace with proper UTF-8: ' — ó ñ á 🏂🚴‍♂️
-
-### Theme Issues
-Remote theme changes require cache clear. Delete `.jekyll-metadata` and `_site/` for fresh build.
-
-## Key Files
-- `_config.yml`: Site config, affiliate tags, theme settings, defaults
-- `_data/navigation.yml`: Menus and sidebar content
-- `_includes/amazon.html`: Multi-region affiliate link table
-- `Gemfile`: GitHub Pages gem, minimal dependencies
-- `sv.bat` / `m2jl.ps1`: Development shortcuts (serve, markdown-to-JSON conversion)
-
-## External Dependencies
-- Jekyll plugins: `github-pages` bundle (includes jekyll-feed, sitemap, redirect-from)
-- No Node.js/npm build process
-- Assets managed by remote theme
-
-## Development Notes
-- Timezone: `Europe/Madrid`
-- Permalink: `/:year/:month/:title:output_ext`
-- Markdown: Kramdown with GFM input
-- Windows dev environment assumed (batch files, paths)
+5. Imgur image URLs should use the `/...s.jpg` (small) or full size format consistently
+6. Always keep UTF-8 encoding for special characters (é, ñ, ü, etc.)
