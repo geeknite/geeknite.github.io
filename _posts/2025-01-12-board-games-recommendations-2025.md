@@ -43,7 +43,7 @@ Formula D is a game that simulates the high-stakes world of Formula 1 racing. Ea
 
 ### 5. [Downforce]({{ site.constants.wsib }}downforce)
 
-It's a race to the finish line and the bank. Just remember, betting on yourself is only cool if you actually win!
+Downforce is a racing game with a twist - players must not only race their cars but also bid on the ones they think will win. It's a race to the finish line and the bank. Just remember, betting on yourself is only cool if you actually win!
 
 **Expansion Alert:** The Danger Circuit expansion adds two new tracks and new rules, making the game even more thrilling. Will you take the risk and come out on top?
 
