@@ -13,7 +13,7 @@ LEGO has been a beloved brand for decades, inspiring creativity and imagination 
 
 ## LEGO Technic Bugatti Chiron
 
-![LEGO Technic Bugatti Chiron](https://www.lego.com/cdn/cs/set/assets/blt6ca5ed5ff37d8f2d/42083_alt1.jpg){: .align-right}
+[![LEGO Technic Bugatti Chiron](https://www.lego.com/cdn/cs/set/assets/blt6ca5ed5ff37d8f2d/42083_alt1.jpg){: .align-right}]({{ site.constants.wsib }}lego-technic-bugatti-chiron)
 
 ### Overview
 
@@ -36,7 +36,7 @@ The LEGO Technic Bugatti Chiron is perfect for car enthusiasts and experienced b
 
 ## LEGO Star Wars Millennium Falcon
 
-![LEGO Star Wars Millennium Falcon](https://www.lego.com/cdn/cs/set/assets/blte5be7a7b4c6763a6/75192_alt1.jpg){: .align-right rel="nofollow"}
+[![LEGO Star Wars Millennium Falcon](https://www.lego.com/cdn/cs/set/assets/blte5be7a7b4c6763a6/75192_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-millennium-falcon)
 
 ### Overview
 
@@ -59,7 +59,7 @@ The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star
 
 ## LEGO Creator Expert Roller Coaster
 
-![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}
+[![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-creator-expert-roller-coaster)
 
 ### Overview
 
@@ -82,7 +82,7 @@ The LEGO Creator Expert Roller Coaster is ideal for those who enjoy both buildin
 
 ## LEGO Ideas Tree House
 
-![LEGO Ideas Tree House](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/21318_alt1.jpg){: .align-right rel="nofollow"}
+[![LEGO Ideas Tree House](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/21318_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-ideas-tree-house)
 
 ### Overview
 
@@ -105,7 +105,7 @@ The LEGO Ideas Tree House is perfect for those who appreciate nature and intrica
 
 ## LEGO Star Wars Death Star
 
-![LEGO Star Wars Death Star](https://www.lego.com/cdn/cs/set/assets/blta7e16f6a2a8b6c00/75159_alt1.jpg){: .align-right rel="nofollow"}
+[![LEGO Star Wars Death Star](https://www.lego.com/cdn/cs/set/assets/blta7e16f6a2a8b6c00/75159_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-death-star)
 
 ### Overview
 
@@ -128,7 +128,7 @@ If you want to rule the galaxy (or at least your living room) with an iron fist,
 
 ## LEGO Star Wars AT-AT Walker
 
-![LEGO Star Wars AT-AT Walker](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75288_alt1.jpg){: .align-right rel="nofollow"}
+[![LEGO Star Wars AT-AT Walker](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75288_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-at-at-walker)
 
 ### Overview
 
@@ -154,5 +154,3 @@ The LEGO Star Wars AT-AT Walker is perfect for fans of the epic ground battles i
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
 **Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lego) and find the perfect addition to your collection today!**
-
-**Affiliate Disclosure**: Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
