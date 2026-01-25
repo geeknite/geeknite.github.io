@@ -8,7 +8,7 @@ tags:
 - Console
 - Technology
 description: "Explore the Nintendo Switch 2: Is it the next level in gaming or just another console upgrade? Find out in our detailed review."
-last_modified_at: '2026-01-19T10:43:03.7472524Z'
+last_modified_at: '2026-01-25T15:00:00+02:00'
 ---
 
 [![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
@@ -60,22 +60,6 @@ The Switch 2 is not cheap. It's priced at $399, which is a bit steep for a conso
 ### Should You Buy It?
 
 The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability. If you love gaming on-the-go and can't resist Nintendo's exclusive titles, it's definitely worth considering. But if you're looking for a powerhouse console with the latest technology, you might want to look elsewhere.
-
-### User Feedback and Updates
-
-Since its launch, the Nintendo Switch 2 has received a mixed bag of reviews from users worldwide. Let's see what the gaming community has to say.
-
-#### Positive Reviews
-
-**GamerGuru42** on Reddit says, "The Switch 2 is everything I hoped for and more. The 4K graphics are stunning, and I can't get enough of *Super Mario Odyssey 2*. The improved battery life is a game-changer for my long commutes."
-
-**Lara_Craft** on Twitter boasts, "The portability of the Switch 2 is unmatched. I take it everywhere, even to the gym. Who knew doing cardio could be so fun with *Metroid Prime 4*?"
-
-#### Criticisms
-
-**TechieTony** on YouTube complains, "The Joy-Con drift is still plaguing the Switch 2. Nintendo, why haven't you fixed this yet? It's driving me nuts!"
-
-**PixelPusher** on Instagram mentions, "I love the Switch 2, but the price is a bit steep considering its power doesn't match up to the PS5 or Xbox Series X. Still, it's hard to resist those exclusive Nintendo titles."
 
 ### Conclusion
 
