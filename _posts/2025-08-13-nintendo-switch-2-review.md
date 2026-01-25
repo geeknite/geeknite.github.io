@@ -8,7 +8,7 @@ tags:
 - Console
 - Technology
 description: "Explore the Nintendo Switch 2: Is it the next level in gaming or just another console upgrade? Find out in our detailed review."
-last_modified_at: '2026-01-25T15:00:00+02:00'
+last_modified_at: '2025-08-13T10:00:00+02:00'
 ---
 
 [![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
@@ -31,6 +31,10 @@ Nintendo has made the Switch 2 even more portable. It's lighter, slimmer, and ha
 
 One of the biggest complaints about the original Switch was the lack of storage. Well, they've fixed that with the Switch 2. It now comes with 128GB of internal storage, and it's expandable via microSD. So, go ahead, download all the games you want!
 
+#### Joy-Con Pro
+
+Nintendo has also introduced the Joy-Con Pro, which aims to fix the infamous Joy-Con drift problem. The Pro version is more robust, has better grip, and more responsive buttons. It’s almost like they listened to the collective groans of gamers worldwide!
+
 ### The Good
 
 #### Versatility
@@ -49,7 +53,7 @@ Despite the improvements, the Switch 2 is still not as powerful as the PS5 or Xb
 
 #### Joy-Con Drift
 
-Ah, the infamous Joy-Con drift. It's still an issue, and it's about as annoying as a mosquito in your bedroom at 2 AM. Nintendo, fix this already! If you're looking for alternatives, check out our [guide to accessories]({{ site.constants.wsib }}switch-accessories).
+Ah, the infamous Joy-Con drift. Although the Joy-Con Pro aims to address this issue, it’s still present in the standard Joy-Cons【4:0†source】.
 
 ### The Ugly
 
