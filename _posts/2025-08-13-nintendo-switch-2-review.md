@@ -8,7 +8,7 @@ tags:
 - Console
 - Technology
 description: "Explore the Nintendo Switch 2: Is it the next level in gaming or just another console upgrade? Find out in our detailed review."
-last_modified_at: '2026-01-26T16:14:21+02:00'
+last_modified_at: '2026-01-26T17:16:06+00:00'
 ---
 
 [![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
@@ -41,10 +41,6 @@ Just like its predecessor, the Switch 2 is incredibly versatile. You can play it
 
 The Switch 2 finally offers 4K support. The graphics are sharp, the colors are vibrant, and the gameplay is smooth. It's like going from VHS to Blu-ray. Seriously, you might cry tears of joy.
 
-#### Backward Compatibility
-
-The Nintendo Switch 2 maintains backward compatibility with the vast majority of Switch games. This means you won't have to leave your favorite titles behind when upgrading to the new console. Imagine playing your beloved *Animal Crossing: New Horizons* in even higher resolution!
-
 ### The Bad
 
 #### Still Underpowered
@@ -61,35 +57,14 @@ Ah, the infamous Joy-Con drift. It's still an issue, and it's about as annoying 
 
 The Switch 2 is not cheap. It's priced at $399, which is a bit steep for a console that's not as powerful as its competitors. But if you're a die-hard Nintendo fan, you might find it worth every penny.
 
-### New Features and Improvements in 2026
-
-#### Improved Online Services
-
-Nintendo has revamped its online services for the Switch 2. With a more stable online experience, cloud save backups, and access to a larger library of classic games, it's clear that Nintendo is making strides to catch up with its competitors in online gaming.
-
-#### Customizable Themes and Avatars
-
-The Switch 2 now offers customizable themes and avatars, allowing you to personalize your gaming experience like never before. From classic Mario designs to futuristic Zelda themes, there's something for everyone.
-
-#### Enhanced VR Compatibility
-
-With the rising popularity of VR, Nintendo has dipped its toes into the virtual reality waters. The Switch 2 now supports a range of VR accessories, providing a more immersive gaming experience for those who love to explore virtual worlds.
-
 ### Should You Buy It?
 
 The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability. If you love gaming on-the-go and can't resist Nintendo's exclusive titles, it's definitely worth considering. But if you're looking for a powerhouse console with the latest technology, you might want to look elsewhere.
+
+{% include amazon.html asin="B09XX5FVHJ" %}
 
 ### Conclusion
 
 The Nintendo Switch 2 is like that friend who shows up late to the party but brings the best snacks. It's not perfect, but it's hard not to love. Whether you're playing at home or on-the-go, the Switch 2 offers a unique gaming experience that's tough to beat.
 
 **Ready to level up your gaming? Get your Nintendo Switch 2 [here]({{ site.constants.wsib }}nintendo-switch-2). Happy gaming!**
-
----
-
-### Related Reviews and Comparisons
-
-- [Nintendo Switch vs Steam Deck: Which Portable Console Rules?]({%- post_url 2025-05-30-nintendo-switch-review -%})
-- [The PlayStation 5 Review: The Good, Bad, and Bulky]({%- post_url 2023-05-02-ps5-review -%})
-- [Xbox Series X: Is It Still Worth It in 2025?]({%- post_url 2023-05-02-xbox-review -%})
-
