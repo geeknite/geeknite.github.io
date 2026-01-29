@@ -58,8 +58,6 @@ Welcome, fellow board game enthusiasts! Today, we dive into an epic showdown bet
 2. **Component Quality**: While good, it doesn't quite match the deluxe miniatures of Nemesis.
 3. **Challenge Level**: May feel too easy for hardcore gamers seeking a tough survival experience.
 
-![Nemo's War: Second Edition - Miniatures Pack](https://example.com/nemos_war_miniatures_pack.jpg){: .align-center}
-
 ## The Verdict: Space Horror Showdown
 
 When it comes to choosing between *Nemesis* and *Alien: Fate of the Nostromo*, it boils down to your gaming preferences. If you're looking for a deep, immersive experience with high replayability, *Nemesis* is your go-to. However, if you prefer a quicker, more accessible game that captures the nostalgia of the *Alien* movie, then *Alien: Fate of the Nostromo* is the perfect fit.
