@@ -1,18 +1,14 @@
 ---
 title: "Guía completa para mejorar tu experiencia en Amazon"
-date: "2025-01-05"
-tags:
-- español
-- recomendaciones
-- amazon
-- smartshopping
+date: 2025-01-05 19:24:41 +0200
+tags: [español, recomendaciones, amazon, smartshopping]
 ---
 
 ## Introducción
 
 ¡Hola a todos los lectores de Geeknite! Hoy vamos a profundizar en cómo mejorar vuestra experiencia en Amazon, una plataforma que todos conocemos y amamos. Si alguna vez te has sentido abrumado por la cantidad de productos y opciones disponibles, ¡este artículo es para ti!
 
-[![Amazon](https://i.imgur.com/nO1TaAHm.jpg)](https://www.amazon.es/?tag={{ site.constants.amazon_es }})
+![Amazon](https://i.imgur.com/nO1TaAHm.jpg)
 
 ## Los cheques de Amazon: Una forma inteligente de comprar sin comisiones
 

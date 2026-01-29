@@ -1,9 +1,13 @@
 ---
 title: "Spider-Geddon: The Ultimate Board Game Review"
 date: 2024-08-15
+categories: [board games, review, spider-geddon]
 tags: [Spider-Geddon, gaming, board games, review]
 description: "Embark on an epic journey of strategy and survival with Spider-Geddon board game. An in-depth review with humor and excitement!"
+last_modified_at: '2025-08-15T13:49:53.8495024Z'
 ---
+
+# Spider-Geddon: The Ultimate Board Game Review
 
 ![Spider-Geddon](https://i.imgur.com/Jm8ynpT.jpg)
 
@@ -71,6 +75,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
+If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest](https://geeknite.com/2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens) or [why adults should also board game](https://geeknite.com/2019-11-15-adult-board-games).
 
 **Ready to face the spider apocalypse?** Don’t miss out on the fun!
