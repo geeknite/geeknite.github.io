@@ -1,74 +1,81 @@
 ---
 title: 'City of Mist: Fortune Row Review'
-date: '2023-08-15'
-tags: ['City of Mist', 'RPG', 'Review', 'Fortune Row']
-description: 'An in-depth and humorous review of City of Mist: Fortune Row. Explore the thrilling world of noir and mystery with your fellow detectives!'
-last_modified_at: '2023-08-15T16:18:17+02:00'
+date: '2023-08-25'
+tags: ['City of Mist', 'Fortune Row', 'Tabletop RPG', 'Review']
 ---
 
-![City of Mist: Fortune Row](https://example.com/cityofmist.jpg){: .align-right}
+![City of Mist: Fortune Row](https://example.com/fortune_row.jpg){: .align-right}
 
 ## Introduction
 
-Welcome, fellow geeks and detectives, to our review of **City of Mist: Fortune Row**! If you're into noir, mystery, and the thrill of solving crimes, then buckle up because this RPG promises to take you on a wild ride through the foggy streets of Fortune Row. Prepare for plot twists, dramatic reveals, and enough intrigue to keep you glued to your seat. Let's dive into what makes this game a must-play for RPG enthusiasts.
+Welcome, fellow tabletop RPG enthusiasts! Today, we're diving into the gritty, noir-inspired world of **City of Mist: Fortune Row**. If you're a fan of detective stories, supernatural powers, and immersive storytelling, then grab your trench coat and fedora because this game is about to take you on a wild ride.
 
-## Setting
+## What is City of Mist: Fortune Row?
 
-### Fortune Row
+City of Mist: Fortune Row is an expansion to the popular *City of Mist* RPG. This game combines elements of noir detective fiction with supernatural powers, creating a unique and engaging experience for players. Fortune Row introduces new characters, locations, and mysteries that will keep you on the edge of your seat.
 
-Think Gotham City meets Sherlock Holmes, and you've got Fortune Row. This city is drenched in mystery, crime, and a dark atmosphere that'll make you question every shadow. With detailed locations like the ominous alleyways and grand old libraries, you're in for an immersive experience.
+### The Basics
 
-### Characters
+In Fortune Row, players take on the roles of detectives with supernatural abilities, known as Rifts. You'll navigate the dark and mysterious streets of the City, uncovering secrets and solving crimes while dealing with your own personal struggles.
 
-The characters in Fortune Row are as complex and layered as a seven-layer cake. You've got the hard-boiled detectives, the charming femme fatales, and the shadowy villains who always seem one step ahead.
+### Components
 
-### Powers and Abilities
+The expansion includes:
+- **Character Playbooks**: New characters with unique abilities and backstories.
+- **Case Files**: Detailed scenarios that provide a framework for your investigations.
+- **Maps and Tokens**: Visual aids to bring the City to life.
 
-Each character possesses unique abilities that help them navigate the treacherous world of Fortune Row. Whether it's keen deduction skills or supernatural powers, you'll need to use every trick in the book to solve the mysteries that await.
+**Pro Tip**: Don't forget to use your powers wisely. Sometimes the best way to solve a mystery is to think outside the box.
 
-## Plot
+## Gameplay
 
-### Main Storyline
+### Setting Up
 
-The heart of Fortune Row lies in its gripping main storyline. Players are thrust into a web of intrigue, where every decision can lead to new revelations or perilous dead-ends.
+Setting up Fortune Row is like preparing for a high-stakes investigation. Lay out the maps, distribute character playbooks, and choose your Case File. Now you're ready to dive into the mysteries of the City.
 
-### Side Quests
+### Turns and Actions
 
-Apart from the main story, Fortune Row offers a plethora of side quests. These adventures are perfect for those who love digging deeper into the lore and discovering hidden gems.
+Each turn, players choose actions based on their abilities and the information they've uncovered. You can investigate crime scenes, interrogate suspects, and use your supernatural powers to get the upper hand.
 
-## Game Mechanics
+### Solving Mysteries
 
-### Investigation
+Solving mysteries in Fortune Row requires a mix of deduction, strategy, and creativity. You'll need to piece together clues, follow leads, and make tough decisions that could change the course of your investigation.
 
-The investigation mechanics are designed to be intuitive and engaging. You'll gather clues, interrogate suspects, and piece together the puzzle one fragment at a time.
+## Fortune Row Awesomeness
 
-### Combat
+### Characters and Cases
 
-Combat in Fortune Row is strategic and intense. It combines elements of traditional RPG battles with unique noir twists, ensuring each encounter is memorable.
+Fortune Row introduces new characters and case files that add depth and variety to the game. From cunning detectives to enigmatic criminals, each character brings something unique to the table.
+
+**Funny Moment**: During one game, our detective used his power to read minds, only to discover that the suspect was thinking about what to have for dinner. Not exactly the breakthrough we were hoping for.
+
+### Replayability
+
+With multiple characters, case files, and scenarios, Fortune Row offers endless replayability. No two investigations are the same, ensuring you'll want to return to the City time and time again.
+
+**Expansion Alert**: Keep an eye out for future expansions that introduce new mysteries and characters. Your City of Mist universe is about to get even bigger.
 
 ## Pros and Cons
 
 ### Pros
 
-1. **Immersive Setting**: Fortune Row's atmosphere is incredibly detailed, making every session feel like a page out of a noir novel.
-2. **Complex Characters**: The depth of character development ensures that players remain invested in their roles.
-3. **Engaging Plot**: The main storyline and side quests provide hours of captivating gameplay.
+- **Immersive Storytelling**: The noir-inspired setting and supernatural elements create a rich and engaging experience.
+- **High-Quality Components**: The character playbooks, maps, and tokens are beautifully designed.
+- **Replayability**: Multiple scenarios and characters ensure endless fun.
+- **Creative Freedom**: The game encourages players to think outside the box and come up with unique solutions.
 
 ### Cons
 
-1. **Complex Mechanics**: New players might find some game mechanics overwhelming at first.
-2. **Time-Consuming**: The depth of the game can lead to lengthy sessions, which may not suit everyone.
+- **Complex Setup**: The initial setup can be time-consuming.
+- **Learning Curve**: New players might struggle with the rules and mechanics.
+- **Luck Factor**: Some elements of the game rely heavily on luck.
 
 ## Final Thoughts
 
-**City of Mist: Fortune Row** is a thrilling RPG that offers an immersive experience for those who love mystery and noir. Its detailed setting, complex characters, and engaging plot make it a standout in the genre. If you're ready to dive into the foggy streets of Fortune Row and unravel its secrets, this game is definitely for you.
+City of Mist: Fortune Row is a fantastic addition to any tabletop RPG collection. Its immersive storytelling, high-quality components, and endless replayability make it a must-have for fans of the genre. Just remember, every decision you make could have far-reaching consequences.
 
-**Bold Call-to-Action:** Ready to embrace the mystery? Get your copy of *City of Mist: Fortune Row* [here](https://example.com/cityofmist) and start your detective journey today! And don't forget to check out our other RPG reviews for more gaming adventures.
+**Criticism Reminder**: While the game is incredibly fun, it’s not without its flaws. The setup can be time-consuming, and some elements rely heavily on luck. But for those willing to embrace the chaos, Fortune Row is an absolute blast.
 
-## Linking You to More Gaming Adventures
+So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}city-of-mist-fortune-row) and get your copy of City of Mist: Fortune Row today. It's time to solve some mysteries and uncover the secrets of the City!
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
-- **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
-- **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-
-**Ready to solve the mysteries of Fortune Row? Click [here](https://example.com/cityofmist) to get your copy now and receive an exclusive discount! Happy investigating!**
+Happy investigating!
