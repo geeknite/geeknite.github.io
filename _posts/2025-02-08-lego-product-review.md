@@ -13,7 +13,7 @@ LEGO has been a beloved brand for decades, inspiring creativity and imagination 
 
 ## LEGO Technic Bugatti Chiron
 
-[![LEGO Technic Bugatti Chiron](https://www.lego.com/cdn/cs/set/assets/blt6ca5ed5ff37d8f2d/42083_alt1.jpg){: .align-right}]({{ site.constants.wsib }}lego-technic-bugatti-chiron)
+![LEGO Technic Bugatti Chiron](https://www.lego.com/cdn/cs/set/assets/blt6ca5ed5ff37d8f2d/42083_alt1.jpg){: .align-right}({{ site.constants.wsib }}lego-technic-bugatti-chiron)
 
 ### Overview
 
@@ -36,7 +36,7 @@ The LEGO Technic Bugatti Chiron is perfect for car enthusiasts and experienced b
 
 ## LEGO Star Wars Millennium Falcon
 
-[![LEGO Star Wars Millennium Falcon](https://www.lego.com/cdn/cs/set/assets/blte5be7a7b4c6763a6/75192_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-star-wars-millennium-falcon)
+![LEGO Star Wars Millennium Falcon](https://www.lego.com/cdn/cs/set/assets/blte5be7a7b4c6763a6/75192_alt1.jpg){: .align-right rel="nofollow"}({{ site.constants.wsib }}lego-star-wars-millennium-falcon)
 
 ### Overview
 
@@ -59,7 +59,7 @@ The LEGO Star Wars Millennium Falcon is a must-have for any serious LEGO or Star
 
 ## LEGO Creator Expert Roller Coaster
 
-[![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-creator-expert-roller-coaster)
+![LEGO Creator Expert Roller Coaster](https://www.lego.com/cdn/cs/set/assets/blt6b3f4a1e6d5b4c5a/10261_alt1.jpg){: .align-right rel="nofollow"}({{ site.constants.wsib }}lego-creator-expert-roller-coaster)
 
 ### Overview
 
@@ -82,7 +82,7 @@ The LEGO Creator Expert Roller Coaster is ideal for those who enjoy both buildin
 
 ## LEGO Ideas Tree House
 
-[![LEGO Ideas Tree House](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/21318_alt1.jpg){: .align-right rel="nofollow"}]({{ site.constants.wsib }}lego-ideas-tree-house)
+![LEGO Ideas Tree House](https://www.lego.com/cdn/cs/set/assets/bltbcf4b6f1e5c0874e/21318_alt1.jpg){: .align-right rel="nofollow"}({{ site.constants.wsib }}lego-ideas-tree-house)
 
 ### Overview
 
@@ -103,10 +103,56 @@ The LEGO Ideas Tree House is a beautiful and environmentally conscious set that 
 
 The LEGO Ideas Tree House is perfect for those who appreciate nature and intricate designs. Its aesthetic appeal and environmentally friendly construction make it a standout piece in any LEGO collection.
 
+## LEGO Star Wars Death Star
+
+![LEGO Star Wars Death Star](https://www.lego.com/cdn/cs/set/assets/blta7e16f6a2a8b6c00/75159_alt1.jpg){: .align-right rel="nofollow"}
+
+### Overview
+
+The LEGO Star Wars Death Star is another behemoth of a set with over 4,000 pieces. This set is packed with moving parts and minifigures, allowing you to recreate iconic scenes from the movies. It includes a hangar bay, control room, trash compactor, and even Emperor Palpatine's throne room.
+
+### Pros
+
+- Extremely detailed and interactive
+- Includes numerous iconic minifigures
+- Great for display and play
+
+### Cons
+
+- Also very expensive
+- May require additional structural support (Hello, LEGO bricks everywhere!)
+
+### Final Thoughts
+
+If you want to rule the galaxy (or at least your living room) with an iron fist, the LEGO Star Wars Death Star is the way to go. It's both a collector's dream and a playground for Star Wars fans. Just be careful not to step on any stray pieces—your feet will thank you.
+
+## LEGO Star Wars AT-AT Walker
+
+![LEGO Star Wars AT-AT Walker](https://www.lego.com/cdn/cs/set/assets/blt6bf27b2994f7e7f5/75288_alt1.jpg){: .align-right rel="nofollow"}
+
+### Overview
+
+The LEGO Star Wars AT-AT Walker is a fantastic set for those who love the ground battles of the Star Wars saga. With over 1,200 pieces, this set includes movable legs and head, spring-loaded shooters, and space to fit minifigures inside.
+
+### Pros
+
+- Movable parts make it highly interactive
+- Detailed build that's faithful to the movies
+- Great for reenacting the Battle of Hoth
+
+### Cons
+
+- Less complex than the Millennium Falcon or Death Star
+- Somewhat fragile; not ideal for younger builders
+
+### Final Thoughts
+
+The LEGO Star Wars AT-AT Walker is perfect for fans of the epic ground battles in Star Wars. Its interactive features and detailed design make it a fun addition to any LEGO Star Wars collection. Just make sure your snow speeders are ready to trip it up!
+
 ## Conclusion
 
 LEGO continues to inspire creativity and provide endless hours of entertainment with its diverse range of sets. Whether you're a seasoned builder or new to the world of LEGO, there's a set out there for you. From the highly detailed Technic Bugatti Chiron to the interactive Creator Expert Roller Coaster, each set offers something unique and special.
 
-**Ready to start your LEGO adventure? Check out these sets on [Amazon](https://www.amazon.com/lego-star-wars) and find the perfect addition to your collection today!**
+**Ready to start your LEGO adventure? Check out these sets on [{{ site.constants.wsibName }}]({{ site.constants.wsib }}lego) and find the perfect addition to your collection today!**
 
 {% include amazon.html asin="B09XX5FVHJ" %}
