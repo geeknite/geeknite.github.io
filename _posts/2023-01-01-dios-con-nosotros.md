@@ -20,7 +20,7 @@ En el vasto universo de los videojuegos, la comunidad española ha crecido expon
 
 Uno de los canales más prominentes en la comunidad española es @xocmetal. Este canal no solo ofrece juegos por turnos, sino también una experiencia interactiva donde los espectadores pueden participar y disfrutar de contenido variado. Desde Crusader Kings III hasta Persona 5R, @xocmetal tiene algo para todos.
 
-<iframe src="https://player.twitch.tv/?channel=xocmetal&parent=geeknite.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?channel=xocmetal&parent={{ site.url | replace: 'https://', '' | replace: 'http://', '' }}" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ### La Diversión en Vivo
 
@@ -61,6 +61,6 @@ Así que, si estás buscando una experiencia de transmisión de juegos por turno
 <!-- **¡Haz clic aquí para seguirnos en Twitch y YouTube y ser parte de nuestra comunidad!** [Síguenos en Twitch @xocmetal](https://twitch.tv/xocmetal) | [Síguenos en YouTube @xocmetal](https://www.youtube.com/@xocmetal) -->
 
 **Artículos Relacionados:**
-- [¡Bienvenidos a nuestro canal gaming de Twitch y Youtube @xocmetal!](https://geeknite.github.io/2023-05-15-bienvenidos-canal-gaming-twitch-youtube-xocmetal)
-- [Persona 5R Review](https://geeknite.github.io/2022-04-23-persona-5-royal-review)
-- [Crusader Kings III Review](https://geeknite.github.io/2023-07-01-crusader-kings-3-review-ultimate-strategy-game)
+- [¡Bienvenidos a nuestro canal gaming de Twitch y Youtube @xocmetal!]({%- post_url 2023-05-15-bienvenidos-canal-gaming-twitch-youtube-xocmetal -%})
+- [Persona 5R Review]({%- post_url 2022-04-23-persona-5-royal-review -%})
+- [Crusader Kings III Review]({%- post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game -%})
