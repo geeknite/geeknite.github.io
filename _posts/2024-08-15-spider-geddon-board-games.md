@@ -1,7 +1,7 @@
 ---
 title: "Spider-Geddon: The Ultimate Board Game Review"
-date: 2024-08-15
-tags: [Spider-Geddon, gaming, board games, review]
+date: "2024-08-15"
+tags: [board games, review, spider-geddon]
 description: "Embark on an epic journey of strategy and survival with Spider-Geddon board game. An in-depth review with humor and excitement!"
 ---
 
@@ -10,6 +10,8 @@ description: "Embark on an epic journey of strategy and survival with Spider-Ged
 ## Introduction
 
 Hello, fellow gamers! Are you ready to dive into a world where spiders rule and humans drool? Well, you better be because we're about to take a hilarious and thrilling journey through **Spider-Geddon**, the board game that combines strategy, survival, and an unhealthy amount of arachnids!
+
+This post has been updated to include insights on the Special Guest: Edouard Guiton expansion, which brings new heroes and spiders to the party. Prepare yourself for more chaotic fun!
 
 ## The Basics of Spider-Geddon
 
@@ -61,9 +63,29 @@ One of the best aspects of Spider-Geddon is the humor built into the gameplay. F
 - **Complex Setup**: The initial setup can be time-consuming and requires patience.
 - **Punishing Difficulty**: The spider invasion can be brutal, making some games feel overwhelming.
 
+## Special Guest: Edouard Guiton Expansion
+
+![Edouard Guiton](https://i.imgur.com/EdouardGuiton.jpg)
+
+### What’s New?
+
+The **Special Guest: Edouard Guiton** expansion introduces new heroes and spider miniatures designed by Edouard Guiton, a renowned artist in the board game community. This expansion adds more depth and variety to the gameplay, ensuring even veteran players will find new challenges and strategies.
+
+### New Heroes
+
+Players can now choose from additional heroes, each with unique abilities and backstories. Whether you’re playing as the "Daredevil" with his acrobatic stunts or the "Sorceress" with her mystical powers, the new characters add exciting dynamics to the game.
+
+### New Spider Types
+
+The expansion includes new spider miniatures that bring even more chaos to the board. From the "Venomous Widow" to the "Mutant Tarantula," these new spiders require different strategies to defeat, keeping players on their toes.
+
+### Enhanced Replayability
+
+With the new heroes and spider types, the **Special Guest: Edouard Guiton** expansion significantly enhances the game’s replayability. Every session feels fresh and challenging, making Spider-Geddon a staple for any game night.
+
 ## Final Thoughts
 
-Spider-Geddon is a fantastic board game that offers a perfect blend of strategy, humor, and thrilling gameplay. Whether you're a hardcore board gamer or just looking for a fun way to spend an evening with friends, Spider-Geddon is sure to deliver. With its beautiful components, engaging mechanics, and endless replayability, it's a must-have for any game night.
+Spider-Geddon is a fantastic board game that offers a perfect blend of strategy, humor, and thrilling gameplay. The addition of the **Special Guest: Edouard Guiton** expansion elevates the experience, providing more variety and challenges for seasoned players. Whether you're a hardcore board gamer or just looking for a fun way to spend an evening with friends, Spider-Geddon is sure to deliver. With its beautiful components, engaging mechanics, and endless replayability, it's a must-have for any game night.
 
 **Criticism Alert**: While the game is incredibly fun, it’s not without its flaws. The complex setup and punishing difficulty might deter some players, but for those willing to embrace the chaos, Spider-Geddon is an absolute blast.
 
@@ -71,6 +93,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
+If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest](https://geeknite.com/2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens) or [why adults should also board game](https://geeknite.com/2019-11-15-adult-board-games).
 
 **Ready to face the spider apocalypse?** Don’t miss out on the fun!
