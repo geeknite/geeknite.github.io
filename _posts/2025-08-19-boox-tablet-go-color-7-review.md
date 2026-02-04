@@ -6,7 +6,7 @@ description: "An honest review of the BOOX Tablet Go Color 7. A colorful Android
 last_modified_at: '2025-08-19T10:00:00+02:00'
 ---
 
-[![BOOX Tablet Go Color 7](https://example.com/boox-go-color-7.jpg){: style="float: right;"}]({{ site.constants.wsib }}boox-tablet-go-color-7)
+[![BOOX Tablet Go Color 7](/assets/images/general.jpg){: style="float: right;"}]({{ site.constants.wsib }}boox-tablet-go-color-7)
 
 Welcome back, Geeknite readers! Today, we're diving into the colorful world of e-readers with a detailed review of the **BOOX Tablet Go Color 7**. This Android-powered, color e-ink device promises to revolutionize your reading experience, but does it deliver? Based on real user experiences and thorough testing, let's explore what makes this device special—and where it might fall short.
 
@@ -117,7 +117,7 @@ As one German user wisely concluded after returning the device: "For this high p
 
 **Ready to embrace the colorful Android e-reader experience? The BOOX Tablet Go Color 7 awaits, but manage your expectations accordingly.**
 
-{% include amazon.html asin="B0CZXX465Z" imageUrl="https://example.com/boox-go-color-7.jpg" %}
+{% include amazon.html asin="B0CZXX465Z" imageUrl="/assets/images/general.jpg" %}
 
 ### Related Reviews and Comparisons
 

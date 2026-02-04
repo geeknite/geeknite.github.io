@@ -1,6 +1,6 @@
 ---
 title: "Uno Card Game Review"
-date: "2026-01-31"
+date: '2021-02-21'
 tags: [board games, card games, Uno, review, humor]
 description: "An epic and humorous review of the timeless Uno card game. Join us for a wild ride of colors, numbers, and mischievous skips!"
 ---

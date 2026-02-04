@@ -4,7 +4,7 @@ date: 2018-09-20
 tags: [Razer, Huntsman Elite, Gaming, Keyboard, Review]
 ---
 
-![Razer Huntsman Elite](https://example.com/razer-huntsman-elite.jpg){: .align-right}
+![Razer Huntsman Elite](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

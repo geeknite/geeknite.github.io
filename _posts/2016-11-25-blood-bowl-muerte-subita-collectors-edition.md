@@ -4,7 +4,7 @@ date: "2016-11-25"
 tags: ["Blood Bowl", "review", "board games", "Muerte Súbita"]
 ---
 
-![Blood Bowl: Muerte Súbita Collector's Edition](https://example.com/muerte-subita-image.jpg){: .align-right}
+![Blood Bowl: Muerte Súbita Collector's Edition](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

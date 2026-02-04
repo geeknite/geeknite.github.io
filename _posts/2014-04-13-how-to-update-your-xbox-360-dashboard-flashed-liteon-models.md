@@ -13,7 +13,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre cómo actualizar el dashboard de tu Xbox 360 con modelos LiteOn flasheados. ¿Es un proceso sencillo o un desastre anunciado? ¡Te lo contamos todo!"
 ---
 
-![Xbox 360 Dashboard Update](https://example.com/xbox-360-dashboard-update.jpg){: .align-right}
+![Xbox 360 Dashboard Update](/assets/images/general.jpg){: .align-right}
 
 ### ¿Actualizar o no actualizar? Esa es la cuestión
 

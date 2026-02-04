@@ -1,6 +1,6 @@
 ---
 title: "PS5 Slim Review: The Sleek and Chic Gaming Beast of 2026"
-date: 2026-01-25 20:33:46 +0200
+date: '2025-03-07'
 tags:
 - PS5 Slim
 - PlayStation

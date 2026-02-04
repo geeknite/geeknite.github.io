@@ -5,7 +5,7 @@ tags: [furniture, home decor, dining chairs, review]
 description: "An in-depth review of the Set of 4 Dining Chairs Upholstered PU Leather Accent Chair High Back Elegant. Are they worth the investment? Let's find out."
 ---
 
-![Set of 4 Dining Chairs](https://example.com/dining-chairs.jpg){: .align-right}
+![Set of 4 Dining Chairs](/assets/images/general.jpg){: .align-right}
 
 Hello Geeknite readers! Today, we're delving into the world of home decor with a review of the Set of 4 Dining Chairs Upholstered PU Leather Accent Chair High Back Elegant. That's a mouthful, but are these chairs worth the investment? Let's take a closer look.
 

@@ -8,7 +8,7 @@ tags: ['board games', 'Nemesis', 'Alien', 'review', 'funny']
 
 Welcome, fellow board game enthusiasts! Today, we dive into an epic showdown between two titans of the sci-fi horror genre: **Nemesis** and **Alien: Fate of the Nostromo**. Which game will reign supreme in the dark corners of your living room? Buckle up, because we're about to separate the chestbursters from the space invaders in this comprehensive review.
 
-![Nemesis](https://example.com/nemesis.jpg){: .align-right}
+![Nemesis](/assets/images/general.jpg){: .align-right}
 
 ## Nemesis: The Heavyweight Champion of Space Horror
 
@@ -33,7 +33,7 @@ Welcome, fellow board game enthusiasts! Today, we dive into an epic showdown bet
 2. **Length**: The game can be quite long, which might not be ideal for those with shorter attention spans.
 3. **Setup Time**: Be prepared for a lengthy setup process.
 
-![Alien: Fate of the Nostromo](https://example.com/alien_fate_of_nostromo.jpg){: .align-left}
+![Alien: Fate of the Nostromo](/assets/images/general.jpg){: .align-left}
 
 ## Alien: Fate of the Nostromo: The Nostalgic Contender
 

@@ -5,7 +5,7 @@ tags: [board-books, reviews, children-books, pacific-northwest, educational]
 description: "A detailed and humorous review of All Aboard Pacific Northwest: A Recreation Primer. Is this board book worth picking up for your little adventurer?"
 ---
 
-![All Aboard Pacific Northwest](https://example.com/all-aboard-pacific-northwest.jpg)
+![All Aboard Pacific Northwest](/assets/images/general.jpg)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ _All Aboard Pacific Northwest_ is a charming board book designed to introduce li
 
 The book features sturdy pages perfect for tiny hands, making it durable enough to withstand enthusiastic page-turning and the occasional gnawing (because we all know books taste better than broccoli). The illustrations are beautifully crafted, capturing the essence of the Pacific Northwest in a way that is both educational and entertaining.
 
-![Inside Look](https://example.com/all-aboard-inside.jpg)
+![Inside Look](/assets/images/general.jpg)
 
 ## The Journey Through the Pages
 

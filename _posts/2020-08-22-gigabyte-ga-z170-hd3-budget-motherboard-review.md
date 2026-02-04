@@ -32,7 +32,7 @@ The GA-Z170-HD3 is designed to support Intel's 6th and 7th generation processors
 
 Gigabyte has opted for a simple yet effective design with the GA-Z170-HD3. It's not going to win any beauty contests, but it gets the job done. The black PCB and sturdy components give it a professional look, even if it feels a bit like the sensible shoes of the motherboard world.
 
-![Gigabyte GA-Z170-HD3](https://example.com/gigabyte-ga-z170-hd3.jpg){: .align-right}
+![Gigabyte GA-Z170-HD3](/assets/images/general.jpg){: .align-right}
 
 ### Connectivity and Ports
 

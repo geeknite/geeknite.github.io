@@ -23,7 +23,7 @@ The Collector's Edition comes with:
 - **Tokens and Markers**: Various tokens and markers to keep track of your progress and resources.
 - **Exclusive Art Book**: A collector's item showcasing the game's artwork and design process.
 
-![Golem Miniatures](https://example.com/golem-miniatures.jpg){: style='float: right;'}
+![Golem Miniatures](/assets/images/general.jpg){: style='float: right;'}
 
 ## The Gameplay
 
@@ -70,7 +70,7 @@ Golem: Collector's Edition Miniatures is an absolute gem for board game enthusia
 
 **Ready to bring the magic of Golem to your tabletop?** Grab your copy of Golem: Collector's Edition Miniatures today and embark on an epic adventure! 🌟
 
-{% include amazon.html asin="B08XYZ1234" imageUrl="https://example.com/golem-miniatures.jpg" %}
+{% include amazon.html asin="B08XYZ1234" imageUrl="/assets/images/general.jpg" %}
 
 ## Linking You to More Gaming Adventures
 

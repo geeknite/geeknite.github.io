@@ -7,7 +7,7 @@ description: "Review of the Eaton 9PX Extended Battery Module - because power ou
 
 ## Eaton 9Px Ebm 180V 5Kva 6Kva Review: Because Power Outages are the Real Villains
 
-![Eaton 9Px](https://example.com/eaton9px.jpg){: style="float: right;"}
+![Eaton 9Px](/assets/images/general.jpg){: style="float: right;"}
 
 Hello, fellow geeks! Today, we're diving into the fascinating world of Uninterruptible Power Supplies (UPS). I know, thrilling stuff! But, trust me, when your precious gaming session or important server data is at stake, you'll thank Eaton for the superhero they call the 9Px Ebm 180V 5Kva 6Kva.
 

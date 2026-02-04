@@ -9,7 +9,7 @@ description: "Discover the elegance of the Bodega Stone Designer Hand Tufted Rug
 
 Welcome to Geeknite's review of the **Bodega Stone Designer Hand Tufted Rug**! If you're looking for an elegant, stylish, and comfortable addition to your living space, you're in the right place. This rug promises to add a touch of luxury to any room, but does it live up to the hype? Let's find out!
 
-![bodega-stone-rug](https://example.com/bodega-stone-rug.jpg)
+![bodega-stone-rug](/assets/images/general.jpg)
 
 ## First Impressions
 
@@ -43,7 +43,7 @@ Whether you're walking barefoot or lying down to read a book, the rug's plush te
 
 Durability is a critical factor when investing in a rug, and the Bodega Stone doesn't disappoint. The high-quality materials and craftsmanship ensure that it can withstand daily wear and tear, maintaining its beauty and comfort over time.
 
-![cozy-living-room](https://example.com/cozy-living-room.jpg)
+![cozy-living-room](/assets/images/general.jpg)
 
 ## Maintenance and Care
 

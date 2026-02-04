@@ -13,7 +13,7 @@ tags:
 description: "Explore the intricate design and functionality of the Terrain Crate MGSS305 Starship Doors from Mantic Games."
 ---
 
-[![Terrain Crate MGSS305 Starship Doors](https://example.com/terrain_crate_mgss305.jpg){: .align-right}](https://example.com/terrain_crate_mgss305)
+[![Terrain Crate MGSS305 Starship Doors](/assets/images/general.jpg){: .align-right}](https://example.com/terrain_crate_mgss305)
 
 ## Introduction
 

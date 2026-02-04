@@ -740,7 +740,7 @@ If you enjoy **deck-building games**, love **zombie survival themes**, and espec
 
 **💡 Pro Tip**: The game occasionally goes out of print. If you find it at MSRP ($30-35), grab it!
 
-{% include amazon.html asin="B00XXXXXXX" imageUrl="https://example.com/after-the-virus.jpg" %}
+{% include amazon.html asin="B00XXXXXXX" imageUrl="/assets/images/general.jpg" %}
 
 ---
 

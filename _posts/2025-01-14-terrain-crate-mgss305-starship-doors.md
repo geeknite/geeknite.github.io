@@ -9,7 +9,7 @@ description: "Join us on a hilarious journey as we review the Terrain Crate MGSS
 
 Hello, fellow miniature enthusiasts! Today, we're diving deep into the cosmos with a review of the **Terrain Crate MGSS305 Starship Doors** by Mantic Games. If you're a fan of Star Saga or just love collecting detailed miniatures, then buckle up because this review is going to be out of this world. We'll explore the features, quality, and overall awesomeness of these starship doors. Spoiler alert: They open and close!
 
-![Terrain Crate MGSS305 Starship Doors](https://example.com/terrain_crate_mgss305.jpg){: .align-right}
+![Terrain Crate MGSS305 Starship Doors](/assets/images/general.jpg){: .align-right}
 
 ## What Are Terrain Crate MGSS305 Starship Doors?
 

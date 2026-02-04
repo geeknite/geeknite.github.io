@@ -5,7 +5,7 @@ tags: [board-games, review, black-sonata, mystery, solo-games, shakespeare, dedu
 description: "¿Alguna vez has querido resolver un misterio en el Londres de Shakespeare? Black Sonata te transporta a la búsqueda de la Dama Oscura. ¡Prepárate para intrigas, sombras y poesía!"
 ---
 
-![Black Sonata](https://example.com/black-sonata-cover.jpg){: .align-right}
+![Black Sonata](/assets/images/general.jpg){: .align-right}
 
 ## Introducción
 

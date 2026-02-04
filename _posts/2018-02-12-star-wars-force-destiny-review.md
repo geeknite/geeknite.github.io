@@ -5,7 +5,7 @@ tags: ["Star Wars", "RPG", "Force & Destiny", "Review"]
 description: "A hilarious and comprehensive review of the Star Wars RPG: Force & Destiny Beginner Game. May the Force be with you as you embark on this epic adventure!"
 ---
 
-![Star Wars RPG: Force & Destiny Beginner Game](https://example.com/star-wars-rpg.jpg){: .align-right}
+![Star Wars RPG: Force & Destiny Beginner Game](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

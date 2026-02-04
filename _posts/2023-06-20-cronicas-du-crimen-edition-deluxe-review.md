@@ -5,7 +5,7 @@ tags: [board games, review, Crónicas du Crimen, crime game, detective, VR]
 description: "Review completo de Crónicas du Crimen Édition Deluxe: juego de detectives con tecnología VR y app para resolver crímenes como CSI."
 ---
 
-![Crónicas du Crimen](https://example.com/cronicas_du_crimen.jpg){: style='float: right;'}
+![Crónicas du Crimen](/assets/images/general.jpg){: style='float: right;'}
 
 ## Introduction
 

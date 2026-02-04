@@ -7,7 +7,7 @@ description: "In-depth and entertaining review of the Fox Racing Shox 38 Factory
 redirect_to: https://bikinggeek.github.io/2025/11/fox-racing-shox-38-factory-custom-tune-review.html
 ---
 
-[![Fox Racing Shox 38 Factory](https://example.com/fox-racing-shox-38-factory.jpg){: .align-right}]({{ site.constants.wsib }}Fox 38 Factory fork)
+[![Fox Racing Shox 38 Factory](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Fox 38 Factory fork)
 
 ## Introduction
 

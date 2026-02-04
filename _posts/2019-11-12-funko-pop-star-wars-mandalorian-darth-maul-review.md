@@ -13,7 +13,7 @@ tags:
 description: "A detailed and humorous review of the Funko POP! Star Wars: The Mandalorian - Darth Maul collectible. From design details to final thoughts, find out if this figure is a must-have for your collection!"
 ---
 
-![Funko POP! Star Wars: The Mandalorian - Darth Maul](https://example.com/darth-maul.jpg){: .align-right}
+![Funko POP! Star Wars: The Mandalorian - Darth Maul](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

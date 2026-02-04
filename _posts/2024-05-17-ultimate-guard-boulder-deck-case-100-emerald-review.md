@@ -5,7 +5,7 @@ tags: [review, Ultimate Guard, deck case, card games, accessories, MTG]
 description: "Review del Ultimate Guard Boulder Deck Case 100+ Emerald: protección premium para tus cartas de Magic, Pokémon y más."
 ---
 
-![Ultimate Guard Boulder Deck Case](https://example.com/ultimate-guard-boulder-deck-case.jpg){: .align-right}
+![Ultimate Guard Boulder Deck Case](/assets/images/general.jpg){: .align-right}
 
 ## Introducción
 

@@ -5,7 +5,7 @@ tags: [Bitzee, Mascota Digital, Hamster Ball, Review, Gadgets]
 description: "Descubre la nueva mascota digital Bitzee - el Hamster Ball que revolucionará tu hogar."
 ---
 
-[![Bitzee Mascota Digital Hamster Ball](https://example.com/bitzee-image.jpg){: .align-right}]({{ site.constants.wsib }}Bitzee Hamster Ball)
+[![Bitzee Mascota Digital Hamster Ball](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Bitzee Hamster Ball)
 
 Bienvenidos a nuestra review completa del **Bitzee - Mascota Digital Hamster Ball**, el juguete interactivo que fusiona elementos de mascotas virtuales clásicas como Tamagotchi con tecnología moderna de reconocimiento gestual y pantalla LCD. Analizaremos diseño, funcionalidades interactivas, valor educativo y si representa una evolución genuina en el concepto de mascota digital o simplemente un gadget nostálgico.
 

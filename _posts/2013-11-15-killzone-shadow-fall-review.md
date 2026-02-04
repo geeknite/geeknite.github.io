@@ -17,7 +17,7 @@ Killzone Shadow Fall thrusts you into the boots of Lucas Kellan, an operative ta
 
 One of the standout features in Killzone Shadow Fall is the arsenal at your disposal. From the trusty M82 assault rifle to the OWL drone that can hack, attack, and even shield you (seriously, where can I get one?), the game gives you the tools to approach combat in diverse and creative ways.
 
-![OWL Drone](https://example.com/owl-drone.jpg){: .align-right}
+![OWL Drone](/assets/images/general.jpg){: .align-right}
 
 ## Graphics and Sound
 
@@ -50,4 +50,4 @@ Killzone Shadow Fall is a must-play for fans of sci-fi shooters. Its stunning gr
 
 **Ready to take on the future? Grab your copy of Killzone Shadow Fall now and join the battle!**
 
-[![Buy Now](https://example.com/buy-now.jpg)](https://example.com/affiliate-link)
+[![Buy Now](/assets/images/general.jpg)](https://example.com/affiliate-link)

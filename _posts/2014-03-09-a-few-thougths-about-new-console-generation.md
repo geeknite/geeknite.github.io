@@ -14,7 +14,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Un análisis crítico de la nueva generación de consolas. ¿Realmente estamos ante una revolución o solo un cambio de marketing?"
 ---
 
-![Console Wars](https://example.com/console-wars.jpg){: .align-right}
+![Console Wars](/assets/images/general.jpg){: .align-right}
 
 ### ¿Nueva generación o nuevo marketing?
 
