@@ -5,7 +5,7 @@ tags: [asrock, 970-extreme3, motherboard, review, gaming, hardware, amd]
 description: "A humor-filled, in-depth review of the ASRock 970 Extreme3 motherboard. Is it still worth it in 2025?"
 ---
 
-![ASRock 970 Extreme3](https://example.com/asrock-970-extreme3.jpg){: .align-right}
+![ASRock 970 Extreme3](/assets/images/general.jpg){: .align-right}
 
 Welcome back to another Geeknite review! Today, we're diving deep into the vault of vintage tech to bring you a review of the **ASRock 970 Extreme3** motherboard. Yes, you read that right. We're reviewing a motherboard that might be older than some of the socks in your drawer. Let's see if this relic from the past still holds up in today's fast-paced tech world.
 

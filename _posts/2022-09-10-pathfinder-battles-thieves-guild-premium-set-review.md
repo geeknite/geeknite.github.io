@@ -9,7 +9,7 @@ description: "Review completo de Pathfinder Battles Thieves Guild Premium Set: m
 
 Hello, fellow adventurers! Are you ready to dive into the shadowy world of intrigue, deception, and...miniatures? Today, we're taking a closer look at the **Pathfinder Battles: Thieves Guild Premium Set**. If you've ever wanted to recreate the sneaky escapades of your favorite rogue or simply add some flavor to your tabletop game, then this set is exactly what you need. Let's unfold the dark corners of this set, piece by piece, and see what treasures lie within.
 
-![Pathfinder Battles: Thieves Guild Premium Set](https://example.com/pathfinder-thieves-guild.jpg){: .align-right}
+![Pathfinder Battles: Thieves Guild Premium Set](/assets/images/general.jpg){: .align-right}
 
 ## What's in the Box?
 

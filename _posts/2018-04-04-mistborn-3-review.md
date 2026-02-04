@@ -6,7 +6,7 @@ description: 'A humorous and insightful review of Mistborn: The Hero of Ages. Di
 last_modified_at: '2025-04-11T10:00:00+02:00'
 ---
 
-[![Mistborn 3](https://example.com/mistborn3.jpg){: .align-right}]({{ site.constants.wsib }}mistborn3)
+[![Mistborn 3](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}mistborn3)
 
 ## Introduction
 

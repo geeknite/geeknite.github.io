@@ -9,7 +9,7 @@ description: "A hilarious and detailed review of Awaken Realms' Nemesis: Lockdow
 
 Welcome, fellow board game geeks and horror aficionados! Today, we'll dive into the murky, alien-infested world of **Nemesis: Lockdown**, the latest installment from Awaken Realms. If you're a fan of survival horror and love board games that make you question your friendships, then this game is right up your (dark, creepy) alley. Prepare for a journey filled with suspense, strategy, and maybe the occasional scream.
 
-![Nemesis: Lockdown](https://example.com/nemesis_lockdown.jpg){: .align-right}
+![Nemesis: Lockdown](/assets/images/general.jpg){: .align-right}
 
 ## What is Nemesis: Lockdown?
 

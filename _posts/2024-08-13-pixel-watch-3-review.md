@@ -5,7 +5,7 @@ tags: [Pixel, Google, Smartwatch, Review, Tech]
 description: "Get ready to dive into the latest and greatest from Google: the Pixel Watch 3. Is this the ultimate smartwatch of 2025? Let's find out!"
 ---
 
-![Pixel Watch 3](https://example.com/pixel-watch-3.jpg){: style='float: right;'}({{ site.constants.wsib }}pixel-watch-3)
+![Pixel Watch 3](/assets/images/general.jpg){: style='float: right;'}({{ site.constants.wsib }}pixel-watch-3)
 
 Hello, fellow tech enthusiasts! Today, we're diving into the latest marvel from Google—the **Pixel Watch 3**. If you're in the market for a smartwatch that promises to be smarter, faster, and better looking than ever, you've come to the right place. So, grab your coffee (or energy drink), and let's get into the nitty-gritty of what makes this watch tick (pun intended).
 

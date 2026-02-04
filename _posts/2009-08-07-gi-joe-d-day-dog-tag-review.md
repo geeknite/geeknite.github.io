@@ -9,7 +9,7 @@ tags: [GI Joe, collectibles, dog tag, chain, review]
 
 Greetings, fellow collectors and GI Joe enthusiasts! Today, we're diving deep into the world of rare collectibles with a detailed review of the **RARE GI Joe D-Day Dog Tag & Chain from 1998**. If you're a die-hard fan of GI Joe or simply love rare and unique items, you're in for a treat!
 
-![GI Joe D-Day Dog Tag](https://example.com/gi_joe_dday_dog_tag.jpg){: .align-right}
+![GI Joe D-Day Dog Tag](/assets/images/general.jpg){: .align-right}
 
 ## History and Background
 
@@ -31,7 +31,7 @@ The dog tag is designed to resemble the actual military dog tags worn by soldier
 
 The chain is made of sturdy metal, ensuring that it can withstand the test of time. It's not just a flimsy accessory; it's a durable piece that complements the dog tag perfectly. The chain length is comfortable for wearing around the neck, making it a standout collectible that you can proudly display.
 
-![GI Joe Dog Tag Chain](https://example.com/gi_joe_chain.jpg){: .align-left}
+![GI Joe Dog Tag Chain](/assets/images/general.jpg){: .align-left}
 
 ## Collectibility
 

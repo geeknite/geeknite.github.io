@@ -5,7 +5,7 @@ tags: [twister, review, board games, fun, classic games]
 description: "Review del clásico Twister edición antigua: el juego que pondrá a prueba tu flexibilidad y sentido del humor en familia."
 ---
 
-![Twister](https://example.com/twister_image.jpg)
+![Twister](/assets/images/general.jpg)
 
 ## Introduction
 

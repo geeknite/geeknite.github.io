@@ -5,7 +5,7 @@ tags: [malifaux, 3e, review, tabletop-games]
 description: "A hilarious and detailed review of the Malifaux 3E Core Rulebook. Dive into the whimsical world of Malifaux with a touch of humor!"
 ---
 
-![Malifaux 3E Core Rulebook](https://example.com/malifaux_3e.jpg){: style='float: right;'}({{ site.constants.wsib }}malifaux-3e-core-rulebook)
+![Malifaux 3E Core Rulebook](/assets/images/general.jpg){: style='float: right;'}({{ site.constants.wsib }}malifaux-3e-core-rulebook)
 
 ## Introduction
 

@@ -9,7 +9,7 @@ description: "Comprehensive review of the Starfinder Core Rulebook - your guide 
 
 Welcome, space cadets and RPG enthusiasts! Today, we're diving deep into the **Starfinder Core Rulebook**, the ultimate guide to intergalactic adventure. Whether you're a seasoned tabletop role-player or a newbie ready to explore the cosmos, this rulebook is your ticket to infinite possibilities. Buckle up, because we're about to blast off!
 
-![Starfinder Core Rulebook](https://example.com/starfinder_core_rulebook.jpg){: .align-right}
+![Starfinder Core Rulebook](/assets/images/general.jpg){: .align-right}
 
 ## What is Starfinder?
 
@@ -41,7 +41,7 @@ Creating a character in Starfinder is an adventure in itself. Choose from a vari
 
 Starfinder's gameplay revolves around exploration, combat, and storytelling. Navigate through dangerous star systems, encounter hostile aliens, and uncover ancient relics. The rulebook provides robust mechanics for starship combat, making every space battle a thrilling experience.
 
-![Starfinder Space Battle](https://example.com/starfinder_space_battle.jpg){: .align-left}
+![Starfinder Space Battle](/assets/images/general.jpg){: .align-left}
 
 ### Magic and Technology
 

@@ -10,7 +10,7 @@ description: "An amusing and detailed review of the Star Wars: Force and Destiny
 
 Greetings, fellow Jedi and Sith enthusiasts! Today, we're diving into the world of Star Wars RPG accessories with the **Star Wars: Force and Destiny Dice Set**. If you've ever wanted to make your tabletop adventures as dramatic as a lightsaber duel, these dice are here to help. Let's roll into this review (pun totally intended) and see if these dice can truly make the Force be with you.
 
-![Star Wars Dice](https://example.com/star-wars-dice.jpg){: .align-right}
+![Star Wars Dice](/assets/images/general.jpg){: .align-right}
 
 ## What is the Star Wars: Force and Destiny Dice Set?
 

@@ -4,7 +4,7 @@ date: "2023-04-01"
 tags: ["books", "review", "mythology", "fantasy"]
 ---
 
-![Wonder Book](https://example.com/wonderbook.jpg){: .align-right}
+![Wonder Book](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

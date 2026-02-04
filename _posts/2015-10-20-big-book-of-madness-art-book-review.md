@@ -5,7 +5,7 @@ tags: ["art book", "board game", "review", "The Big Book of Madness"]
 description: "A whimsical and detailed review of The Big Book of Madness Art Book. Discover why this artistic gem is a must-have for fans!"
 ---
 
-![The Big Book of Madness Art Book](https://example.com/big-book-of-madness-art-book.jpg){: style='float: right;'}({{ site.constants.wsib }}big-book-of-madness-art-book)
+![The Big Book of Madness Art Book](/assets/images/general.jpg){: style='float: right;'}({{ site.constants.wsib }}big-book-of-madness-art-book)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ One of the highlights of the art book is the detailed character designs. Each wi
 
 The art book also features stunning depictions of the game's various environments. From dark, ominous forests to magical academies, each scene is captured with a level of detail that makes you feel like you're stepping into the world of The Big Book of Madness.
 
-![Stunning Environments](https://example.com/big-book-of-madness-environments.jpg){: style='float: right;'}({{ site.constants.wsib }}big-book-of-madness-art-book)
+![Stunning Environments](/assets/images/general.jpg){: style='float: right;'}({{ site.constants.wsib }}big-book-of-madness-art-book)
 
 ## Behind the Scenes
 
@@ -73,7 +73,7 @@ The Big Book of Madness Art Book is a must-have for fans of the game and art lov
 
 **Ready to be spellbound? Grab your copy of The Big Book of Madness Art Book today and immerse yourself in a world of magic and artistry!**
 
-{% include amazon.html asin="B08XYZ1234" imageUrl="https://example.com/big-book-of-madness-art-book.jpg" %}
+{% include amazon.html asin="B08XYZ1234" imageUrl="/assets/images/general.jpg" %}
 
 ## Linking You to More Artistic Adventures
 

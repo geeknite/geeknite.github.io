@@ -5,7 +5,7 @@ tags: ["Warhammer 40K", "Battlezone", "Manufactorum", "review", "board games"]
 description: "A detailed and humorous review of Warhammer 40K Battlezone: Manufactorum Battlefield. Dive into the grimdark world of Warhammer and find out why this terrain set is a must-have for fans!"
 ---
 
-![Warhammer 40K Battlezone: Manufactorum Battlefield](https://example.com/warhammer_40k_manufactorum.jpg){: style='float: right;'}
+![Warhammer 40K Battlezone: Manufactorum Battlefield](/assets/images/general.jpg){: style='float: right;'}
 
 ## Introduction
 

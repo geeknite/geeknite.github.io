@@ -6,7 +6,7 @@ tags: ["movie reviews", "blu-ray", "special edition", "crime", "drama"]
 description: "A hilarious and detailed review of the Special Edition Blu-ray release of 'Things to Do in Denver When You're Dead'."
 ---
 
-![Things to Do in Denver When You're Dead](https://example.com/things-to-do-denver-bluray.jpg){: .align-right}
+![Things to Do in Denver When You're Dead](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

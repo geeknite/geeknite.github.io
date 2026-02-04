@@ -5,7 +5,7 @@ tags: [star-wars, force-and-destiny, rpg, tabletop-rpg, fantasy-flight-games, re
 description: "Complete guide to Star Wars Force and Destiny RPG system: Core Rulebook essentials and Rise of the Separatists era sourcebook. Master the Force in your campaigns!"
 ---
 
-![Star Wars Force and Destiny RPG](https://example.com/star-wars-force-destiny-rpg.jpg){: .align-right}
+![Star Wars Force and Destiny RPG](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

@@ -5,7 +5,7 @@ date: '2023-04-07'
 tags: ['Five Ten', 'Sleuth', 'MTB', 'shoe', 'review', 'funny']
 ---
 
-![Five Ten Sleuth](https://example.com/five-ten-sleuth.jpg){: .align-right}
+![Five Ten Sleuth](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

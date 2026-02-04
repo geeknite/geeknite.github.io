@@ -5,7 +5,7 @@ tags: ["TV Shows", "Review", "The Bureau", "Comedy"]
 description: "Dive into the world of 'The Bureau' with our hilarious and detailed review. From plot twists to character quirks, we cover it all"
 ---
 
-![The Bureau Cast](https://example.com/the_bureau_cast.jpg){: .align-right}
+![The Bureau Cast](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -53,7 +53,7 @@ One of the reasons The Bureau stands out is its humor. Here are some of the funn
 
 The character quirks add a layer of humor that is pure gold. From Agent Smith's obsession with sandwiches to Agent Jones's fear of garden gnomes, every character is hilariously unique.
 
-![Agent Smith in Action](https://example.com/agent_smith.jpg){: .align-left}
+![Agent Smith in Action](/assets/images/general.jpg){: .align-left}
 
 ## Final Verdict
 

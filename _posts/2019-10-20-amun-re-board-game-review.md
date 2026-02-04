@@ -5,7 +5,7 @@ tags: [review, board-games, strategy, ancient-egypt, bidding, resource-managemen
 description: "Comprehensive review of Amun Re board game set in ancient Egypt with strategic bidding and pyramid building."
 ---
 
-![Amun Re Game Cover](https://example.com/image.jpg){: style="float: right;"}
+![Amun Re Game Cover](/assets/images/general.jpg){: style="float: right;"}
 
 ## Introduction
 

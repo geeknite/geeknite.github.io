@@ -5,7 +5,7 @@ tags: [Kingston, HyperX, Savage, DDR3, Gaming, Review]
 description: "A comprehensive and humorous review of the Kingston HyperX Savage 16GB Kit (2x8GB) 1866MHz DDR3 CL9. Discover its performance, quirks, and why it might be your next RAM upgrade!"
 ---
 
-![Kingston HyperX Savage](https://example.com/kingston-hyperx-savage.jpg){: .align-right}
+![Kingston HyperX Savage](/assets/images/general.jpg){: .align-right}
 
 Welcome, fellow geeks and hardware enthusiasts! Today, we're diving deep into the world of RAM with a detailed review of the **Kingston HyperX Savage 16GB Kit (2x8GB) 1866MHz DDR3 CL9**. If you're on the hunt for a RAM upgrade that promises impressive performance and a touch of savage flair, you've come to the right place. Let's unpack this beast and see if it lives up to its name!
 
@@ -49,7 +49,7 @@ For those who use their PCs for more than just gaming, the HyperX Savage doesn't
 
 The Kingston HyperX Savage series boasts a bold and aggressive design that looks great in any build. The aluminum heat spreaders not only enhance cooling but also add a touch of style to your rig. If you're building a machine to impress, this RAM kit won't disappoint.
 
-![Aggressive Design](https://example.com/kingston-hyperx-savage-design.jpg){: .align-right}
+![Aggressive Design](/assets/images/general.jpg){: .align-right}
 
 ## **Price and Value**
 
@@ -92,6 +92,6 @@ The Kingston HyperX Savage 16GB Kit (2x8GB) 1866MHz DDR3 CL9 is a fantastic choi
 
 **Ready to upgrade your RAM and unleash the savage power? Get the Kingston HyperX Savage 16GB Kit today and take your PC to the next level!**
 
-{% include amazon.html asin="B00A7720U8" imageUrl="https://example.com/kingston-hyperx-savage.jpg" %}
+{% include amazon.html asin="B00A7720U8" imageUrl="/assets/images/general.jpg" %}
 
 Happy building, and stay geeky! 🖥️✨

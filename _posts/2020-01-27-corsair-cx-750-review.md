@@ -6,7 +6,7 @@ tags: [Corsair CX 750, power supply, PSU, review, Geeknite]
 description: "A comprehensive and humorous review of the Corsair CX 750 power supply."
 ---
 
-![Corsair CX 750](https://example.com/corsair-cx-750.jpg){: .align-right}
+![Corsair CX 750](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

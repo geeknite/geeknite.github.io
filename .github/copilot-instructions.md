@@ -1,7 +1,7 @@
 # GeekNite Blog - Copilot Instructions
 
 ## Project Overview
-GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, anime, gadgets, fashion, board games, and Amazon shopping guides. Published via GitHub Pages at `blog.geeknite.com` using the custom theme `FerranSalguero/geeknite-theme`.
+GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, anime, gadgets, fashion, board games, and Amazon shopping guides. Published via GitHub Pages at `blog.geeknite.com` using the custom theme `FerranSalguero/geeknite-theme`. Only use english or spanish.
 
 **Important**: Cycling and sports content has been moved to bikinggeek.github.io. GeekNite now focuses exclusively on geek/pop culture content. Add redirects to existing posts when editing: redirect_to: https://bikinggeek.github.io/YYYY/MM/slug
 
@@ -43,6 +43,7 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 4. **MAXIMIZE affiliate links** - link ALL product mentions to `{{ site.constants.wsib }}`
 5. Include product images from Amazon or imgur with `https://i.imgur.com/` or `https://m.media-amazon.com/images/I/` URLs
 6. Add `{% include amazon.html %}` product tables for major items with ASINs and images
+7. If post is a product review post date should be close to product release date and last_modified_at should be current date
 
 ### Internal Linking Convention
 **Critical**: When linking between posts, use Jekyll's `post_url` tag:
@@ -77,11 +78,56 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 - Related posts section at end (3-5 posts minimum) using `post_url` tags
 
 ### Tone & Style
-- **Professional and informative** with enthusiastic touch
-- Avoid overly casual or humorous tone
-- Focus on product details, comparisons, and value propositions
-- Emoji use when appropriate (gaming: 🎮, tech: 📱💻, movies: 🎬, anime: 🎌)
+- **Professional and informative** — NO enthusiastic/casual tone
+- Focus on solving specific user problems with clear decisions
 - Product comparisons and "vs" reviews frequent
+- Emoji use sparingly when appropriate (gaming: 🎮, tech: 📱💻, movies: 🎬, anime: 🎌)
+
+### Monetization-First Content Strategy
+
+**CRITICAL**: Every post must follow this user journey pattern:
+
+```
+User arrives with a specific question
+    → Reads content
+    → Makes a decision
+    → Clicks affiliate link
+```
+
+**Content Philosophy:**
+- **DO NOT "recommend things"** — Instead, **SOLVE DECISIONS**
+- User searches with a specific problem → Post provides the answer → User clicks to buy
+- Every section must lead to an actionable decision with a clear affiliate link
+- Avoid generic "top 10 lists" — Focus on "Which X should I buy for Y situation?"
+
+**Post Types That Convert:**
+| Post Type | Example Title | Why It Works |
+|-----------|---------------|--------------|
+| Decision resolver | "PS5 vs Xbox Series X: Which Console for You?" | User has a specific choice to make |
+| Problem solver | "Best Gaming Headset Under €100 for FPS Games" | User has budget + use case |
+| Comparison | "GTA IV Complete vs Red Dead Redemption GOTY" | User deciding between options |
+| Buying guide | "Which Nintendo Switch Model to Buy in 2024?" | User ready to purchase |
+
+**Post Structure for Conversion:**
+1. **Title**: Frame as a decision/question the user needs answered
+2. **Intro**: Acknowledge the user's specific problem (1-2 sentences max)
+3. **Quick Answer**: Give the verdict immediately for users who want fast answers
+4. **Detailed Analysis**: For users who want to understand why
+5. **Decision Table**: Summary table at the end with affiliate links
+6. **Single CTA**: One clear "buy now" action per section
+
+**Avoid These Patterns:**
+- ❌ "Here are 10 great games you should try"
+- ❌ "I recommend checking out..."
+- ❌ Generic product lists without decision context
+- ❌ Long intros before getting to the point
+- ❌ Multiple CTAs that confuse the user
+
+**Use These Patterns:**
+- ✅ "If you want X, buy [Product A](affiliate). If you need Y, get [Product B](affiliate)."
+- ✅ "The verdict: [Product](affiliate) is the best choice for [specific use case]."
+- ✅ Tables with clear winner indicators and affiliate links
+- ✅ "Bottom line: Buy [this](affiliate) if... Buy [that](affiliate) if..."
 
 ### Content Quality & Rigor
 - **Fact-check all data**: Never invent specifications, prices, or product details
@@ -157,3 +203,17 @@ description: "Excerpt or summary of the post in the same language as the post."
 4. When linking to posts, verify the exact filename (dates matter!)
 5. Imgur image URLs should use the `/...s.jpg` (small) or full size format consistently
 6. Always keep UTF-8 encoding for special characters (é, ñ, ü, etc.)
+7. **Never** write generic recommendation posts — always frame content as decision resolution
+8. **Avoid** long introductions — get to the decision point fast
+
+### When reviewing newly created _posts from current or last month and without date in the filename (considered drafts even they are not in the _drafts/), follow this checklist:
+1. **Check for duplicates**: Search `_posts/` for similar content before publishing, specially if too brief content
+2. **Date assignment**: If no date exists, use approximate release date of main product/topic (never beyond actual release) and set `last_modified_at` to current date. nomes hi hauria d'haver un post per dia sino solen ser duplicats
+3. **Merge or delete**: If a published post covers the same topic, merge useful content or delete the draft
+4. **Cycling/sports content**: Add redirect to bikinggeek.github.io, do not publish on GeekNite
+5. **Obsolete promotions**: Delete drafts about closed promotions, expired offers, or discontinued services
+6. **Convert HTML to Markdown**: Old Blogger imports are in HTML — convert to clean Markdown when publishing
+7. **Image check**: - If no specific image exists, generate a prompt for image generation and set it into the frontmatter in field `hero_image`
+8. **Quality check**: Ensure affiliate links, images, internal links and long content follow guidelines before publishing
+
+

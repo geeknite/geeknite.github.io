@@ -7,7 +7,7 @@ tags: [Star Trek, RPG, Dice, Review]
 description: "Explore the features and performance of the Star Trek Adventures Dice Set: Operations Gold. Are these dice worth your latinum?"
 ---
 
-![Star Trek Adventures Dice Set: Operations Gold](https://example.com/star_trek_dice.jpg){: .align-right}
+![Star Trek Adventures Dice Set: Operations Gold](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

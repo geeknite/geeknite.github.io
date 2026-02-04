@@ -5,7 +5,7 @@ tags: [7th-sea, rpg, review, gamemaster, tabletop-rpg, gm-tools]
 description: "An in-depth and amusing review of the 7th Sea: Gamemaster Screen. Let's find out if it's a treasure or just another piece of driftwood."
 ---
 
-![7th Sea: Gamemaster Screen](https://example.com/7th-sea-gamemaster-screen.jpg){: style='float: right;'}
+![7th Sea: Gamemaster Screen](/assets/images/general.jpg){: style='float: right;'}
 
 ## Introduction
 

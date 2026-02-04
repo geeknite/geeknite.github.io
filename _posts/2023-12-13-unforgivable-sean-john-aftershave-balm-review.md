@@ -4,7 +4,7 @@ date: "2023-12-13"
 tags: [review, aftershave, Sean John, grooming]
 ---
 
-![Unforgivable by Sean John](https://example.com/unforgivable.jpg){: .align-right}
+![Unforgivable by Sean John](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

@@ -13,7 +13,7 @@ description: "Dive into the Mayan world of Mezo and find out if 'Souls for Xibal
 
 Imagine a game where you play as Mayan gods, fighting over the souls of mortals to gain power and influence. _Mezo: Souls for Xibalba_ takes this concept and runs with it, but don't worry, you'll still have time to grab a snack during turns. The game is an area control strategy game with a mythological twist that will keep you on your toes.
 
-![Mezo: Souls for Xibalba](https://example.com/mezo_souls_for_xibalba.jpg){: .align-center}
+![Mezo: Souls for Xibalba](/assets/images/general.jpg){: .align-center}
 
 ## Components
 

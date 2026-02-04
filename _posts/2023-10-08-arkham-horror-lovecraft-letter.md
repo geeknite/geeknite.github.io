@@ -4,7 +4,7 @@ date: "2023-10-08"
 tags: ["board games", "Arkham Horror", "Lovecraft Letter", "review", "funny"]
 ---
 
-![Arkham Horror: Lovecraft Letter](https://example.com/arkham_horror_lovecraft_letter.jpg){: .align-right}
+![Arkham Horror: Lovecraft Letter](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

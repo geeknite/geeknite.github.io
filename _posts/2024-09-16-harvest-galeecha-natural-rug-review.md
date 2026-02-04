@@ -9,7 +9,7 @@ description: "Review completa de Harvest Galeecha Natural Rug: alfombra ecológi
 
 Hello Geeknite readers! Today, we’re stepping away from our usual tech gadgets and delving into the wonderful world of home decor. Specifically, we’re talking about the **Harvest Galeecha Natural Rug**. If you’re looking to add a touch of nature to your living room without bringing in a forest, this rug might just be the answer. Let’s unroll this review and see what makes it special!
 
-![Harvest Galeecha Natural Rug](https://example.com/harvest_galeecha_rug.jpg){: style="float: right;"}
+![Harvest Galeecha Natural Rug](/assets/images/general.jpg){: style="float: right;"}
 
 ## Design and Aesthetics
 

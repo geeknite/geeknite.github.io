@@ -6,7 +6,7 @@ category: review
 tags: [VR, Meta, Quest 3S, review, gaming]
 ---
 
-![Meta Quest 3S](https://example.com/meta-quest-3s.jpg){: .align-right}
+![Meta Quest 3S](/assets/images/general.jpg){: .align-right}
 
 Welcome back to Geeknite, your go-to portal for everything geeky! Today, we're diving headfirst into the virtual world with the Meta Quest 3S 256 GB VR Headset. Buckle up for a journey full of twists, turns, and a fair bit of hilarity as we explore whether this VR headset is worth your hard-earned cash.
 

@@ -9,7 +9,7 @@ description: "A whimsical and detailed review of the Destiny Across the Galaxy S
 
 Hello there, fellow Star Wars aficionados! Buckle up your X-wing seat belts, because today we are diving into the mystical, dice-filled world of **Destiny Across the Galaxy Star Wars Dice Lot**. If you ever wanted to roll your way into the Star Wars universe, these 153 dice might just be your ticket. Spoiler alert: no cards included, but who needs them when you have this many dice to roll?
 
-![Destiny Dice](https://example.com/destinydice.jpg){: .align-right}
+![Destiny Dice](/assets/images/general.jpg){: .align-right}
 
 ## What's in the Box?
 
@@ -63,7 +63,7 @@ The **Destiny Across the Galaxy Star Wars Dice Lot** is a fantastic addition to 
 
 **Ready to roll into the Star Wars universe? Grab your Destiny Across the Galaxy Star Wars Dice Lot today and start your intergalactic adventure!**
 
-{% include amazon.html asin="B08XYZ1234" imageUrl="https://example.com/destinydice.jpg" %}
+{% include amazon.html asin="B08XYZ1234" imageUrl="/assets/images/general.jpg" %}
 
 ## Linking You to More Star Wars Fun
 

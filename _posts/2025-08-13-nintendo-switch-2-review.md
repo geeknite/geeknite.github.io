@@ -45,7 +45,7 @@ The Switch 2 finally offers 4K support. The graphics are sharp, the colors are v
 
 #### Still Underpowered
 
-Despite the improvements, the Switch 2 is still not as powerful as the PS5 or Xbox Series X. If you're a graphics snob, you might be a bit disappointed. Nintendo, we love you, but can you give us just a little more oomph?
+Despite the improvements, the Switch 2 is still not as powerful as the PS5 or Xbox Series X【4:3†source】. If you're a graphics snob, you might be a bit disappointed. Nintendo, we love you, but can you give us just a little more oomph?
 
 #### Joy-Con Drift
 
@@ -57,33 +57,34 @@ Ah, the infamous Joy-Con drift. It's still an issue, and it's about as annoying 
 
 The Switch 2 is not cheap. It's priced at $399, which is a bit steep for a console that's not as powerful as its competitors. But if you're a die-hard Nintendo fan, you might find it worth every penny.
 
+### New Features and Improvements
+
+We can't talk about the Nintendo Switch 2 without mentioning some of its newest and most exciting features:
+
+#### Improved Battery Life
+
+The battery life on the Nintendo Switch 2 has been significantly improved. Expect up to 10 hours of gameplay on a single charge, depending on the game and settings. No more cutting your adventures short because of a dying battery.
+
+#### OLED Display
+
+The Switch 2 now boasts a vibrant OLED display. This new screen technology provides better contrast, deeper blacks, and more vibrant colors, making your favorite games look even better.
+
+#### Enhanced Dock
+
+The new dock is not just a place to charge your console. It now includes an Ethernet port for more stable online gaming and two USB 3.0 ports for faster data transfer and additional accessory support.
+
+#### Better Joy-Con
+
+With redesigned Joy-Con controllers, Nintendo promises a more durable and comfortable gaming experience. The improved analog sticks aim to reduce the infamous Joy-Con drift issue.
+
 ### Should You Buy It?
 
-The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability.
-
-### Expanded Features
-
-#### Multiplayer Experience
-
-Nintendo has stepped up its multiplayer game with the Switch 2, offering enhanced online capabilities and smoother gameplay during multiplayer sessions. You can now play **Super Smash Bros. Ultimate** without experiencing lag that's so bad it makes you question your life choices.
-
-#### User Interface
-
-The user interface on the Switch 2 is slicker and more intuitive than ever. Navigating through menus feels like slicing through butter with a hot knife. Plus, the eShop has been revamped, making it easier to find and purchase your favorite games.
-
-#### Accessory Compatibility
-
-Fret not, your old accessories won't become obsolete. The Switch 2 still supports all your beloved peripherals, from the Pro Controller to the Ring Fit Adventure set. That means you can keep playing *Just Dance* without missing a beat.
-
-#### VR Capabilities
-
-Yes, you read that right. The Switch 2 has dabbled into virtual reality. While it's not a full-blown VR system like Oculus, it offers a decent VR experience for titles specifically designed for the Switch 2. It's a fun addition for those looking to immerse themselves even further into Nintendo's captivating worlds.
-
-### Final Thoughts
-
-In conclusion, the Nintendo Switch 2 is like that friend who shows up late to the party but brings the best snacks. It's not perfect, but it's hard not to love. Whether you're playing at home or on-the-go, the Switch 2 offers a unique gaming experience that's tough to beat.
-
-**Ready to level up your gaming? Get your Nintendo Switch 2 [here]({{ site.constants.wsib }}nintendo-switch-2). Happy gaming!**
+The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability. If you love gaming on-the-go and can't resist Nintendo's exclusive titles, it's definitely worth considering. But if you're looking for a powerhouse console with the latest technology, you might want to look elsewhere.
 
 {% include amazon.html asin="B09XX5FVHJ" %}
----
+
+### Conclusion
+
+The Nintendo Switch 2 is like that friend who shows up late to the party but brings the best snacks. It's not perfect, but it's hard not to love. Whether you're playing at home or on-the-go, the Switch 2 offers a unique gaming experience that's tough to beat.
+
+**Ready to level up your gaming? Get your Nintendo Switch 2 [here]({{ site.constants.wsib }}nintendo-switch-2). Happy gaming!**
