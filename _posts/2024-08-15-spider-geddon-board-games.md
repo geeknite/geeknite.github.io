@@ -71,10 +71,10 @@ Spider-Geddon is a fantastic board game that offers a perfect blend of strategy,
 
 **Criticism Alert**: While the game is incredibly fun, it’s not without its flaws. The complex setup and punishing difficulty might deter some players, but for those willing to embrace the chaos, Spider-Geddon is an absolute blast.
 
-So what are you waiting for? Head over to [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and get your copy of Spider-Geddon today. It’s time to face your fears and save humanity!
+So what are you waiting for? Head over to [Geeknite's Board Games Section](https://geeknite.com/boardgames) and get your copy of Spider-Geddon today. It’s time to face your fears and save humanity!
 
 ## Other Board Games to Check Out
 
-If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
+If you love Spider-Geddon, be sure to check out our comparisons between [Adventure Tactics and CoraQuest](https://geeknite.com/2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens) or [why adults should also board game](https://geeknite.com/2019-11-15-adult-board-games).
 
 **Ready to face the spider apocalypse?** Don’t miss out on the fun!
