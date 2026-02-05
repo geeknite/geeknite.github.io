@@ -1,12 +1,9 @@
 ---
 title: "Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders"
 tags: [enduro, helmets, bluegrass, rogue, review, mountain bike, safety, cycling gear]
-filename: 2023-07-18-bluegrass-rogue-helmet-review.md
-description: "Complete review of the Bluegrass Rogue enduro helmet: design, fit, ventilation, safety features and comparison with Bell Super 3R MIPS and other alternatives"
 date: 2023-07-18
 last_modified_at: '2025-08-13T10:00:00+02:00'
 excerpt: "Detailed analysis of the Bluegrass Rogue helmet covering design, ventilation, safety certifications and value compared to other enduro helmets"
-redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
 ---
 
 [![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}]({{ site.constants.wsib }}Bluegrass Rogue)
@@ -41,33 +38,29 @@ The Bluegrass Rogue helmet has **16 vents** distributed across the shell. These 
 
 The Bluegrass Rogue helmet also has **internal channels** that connect the vents and create a continuous airflow inside the helmet. These channels help distribute air evenly across your head, keeping it cool and comfortable.
 
-## Safety
+## Safety Features
 
-When it comes to safety, the Bluegrass Rogue helmet doesn't compromise. It meets the highest safety standards, including the **EN1078** certification for cycling helmets. It also has a **polycarbonate shell** that provides excellent impact protection. The helmet is designed to absorb and dissipate the energy from impacts, reducing the risk of injury.
+When it comes to safety, the Bluegrass Rogue helmet doesn't disappoint. This helmet meets the [CE EN 1078](https://en.wikipedia.org/wiki/EN_1078) standards, which means it has been tested and certified to provide adequate protection for your head. The helmet also has a **polycarbonate shell** that adds extra durability and impact resistance.
 
-The Bluegrass Rogue helmet also features **360° Turbine Technology**, which reduces rotational forces on your head in case of an angled impact. This technology uses turbines placed inside the helmet that move in multiple directions upon impact, reducing the rotational forces transferred to your head. This is especially important for enduro riders who are more likely to experience angled impacts during their rides.
+One of the standout safety features of the Bluegrass Rogue helmet is the **MIPS (Multi-directional Impact Protection System)** technology. This technology is designed to reduce the rotational forces that can occur during an angled impact. It works by allowing the helmet to slide relative to your head, which helps to absorb and redirect the energy from the impact.
 
 ## Comparison with Other Helmets
 
-Let's compare the Bluegrass Rogue helmet with some other similar enduro helmets on the market:
+To give you a better idea of how the Bluegrass Rogue helmet stacks up against other enduro helmets, let's compare it to the **Bell Super 3R MIPS** and the **Leatt DBX 3.0 Enduro**.
 
 ### Bell Super 3R MIPS
 
-The Bell Super 3R MIPS is another popular enduro helmet that offers excellent protection and features. It has a removable chin guard, which makes it versatile for both climbing and descending. It also has the MIPS (Multi-directional Impact Protection System) technology that reduces rotational forces on the head. However, the Bell Super 3R MIPS is heavier than the Bluegrass Rogue and has fewer vents, which might affect its ventilation and comfort.
+The Bell Super 3R MIPS is another popular choice for enduro riders. This helmet has a removable chin guard, which gives you the option to switch between a full-face and half-shell helmet depending on your riding needs. It also has 23 vents that provide excellent ventilation and airflow. The Bell Super 3R MIPS is slightly heavier than the Bluegrass Rogue helmet, weighing in at 784 grams. It costs around $230.
 
 ### Leatt DBX 3.0 Enduro
 
-The Leatt DBX 3.0 Enduro is another high-quality enduro helmet that offers great protection and features. It has 22 vents that provide excellent airflow and cooling to your head. It also has a 360° Turbine Technology that reduces rotational forces on your head in case of an angled impact. It costs $230.
-
-For more insights on choosing the right gear for your riding style, check out our guide on [mountain bike selection based on budget]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}) or learn about [trail bike characteristics]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%}).
+The Leatt DBX 3.0 Enduro is another great option for enduro riders. This helmet has a similar design to the Bluegrass Rogue helmet, with a matte finish and a wide fit. It also has a removable chin guard and a goggle strap clip. The Leatt DBX 3.0 Enduro has 18 vents that provide good ventilation and airflow. It also has the **360° Turbine Technology**, which reduces the rotational forces on your head in case of an angled impact. It costs around $230.
 
 ## Conclusion
 
 The Bluegrass Rogue helmet is a stylish and functional enduro helmet that offers a high level of comfort, ventilation, safety, and performance for mountain bikers who want to ride hard and have fun. It has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for enduro riders.
 
-{% include amazon.html asin="B0B7559MYH" imageUrl="https://i.imgur.com/uAe5ab5s.jpg" %}
-
-If you're interested in buying the Bluegrass Rogue helmet [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}bluegrass rogue helmet), where you can get it at a discounted price as low of $50 (regular price $120) or at amazon with their [prime day offers]({%- post_url 2023-07-04-prime-day-bike-gadgets-accesories -%}). [Also there's a MIPS version which is pricier]({{ site.constants.wsib }}bluegrass rogue helmet mips).
+If you're interested in buying the Bluegrass Rogue helmet, you can find it at a discounted price at [{{ site.constants.wsibName }}]({{ site.constants.wsib }}bluegrass rogue helmet). You can also check out the MIPS version, which is a bit pricier but offers additional protection.
 
 ## Related Articles
 
