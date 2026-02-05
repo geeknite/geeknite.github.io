@@ -1,9 +1,12 @@
 ---
 title: "Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders"
 tags: [enduro, helmets, bluegrass, rogue, review, mountain bike, safety, cycling gear]
+filename: 2023-07-18-bluegrass-rogue-helmet-review.md
+description: "Complete review of the Bluegrass Rogue enduro helmet: design, fit, ventilation, safety features and comparison with Bell Super 3R MIPS and other alternatives"
 date: 2023-07-18
 last_modified_at: '2025-08-13T10:00:00+02:00'
 excerpt: "Detailed analysis of the Bluegrass Rogue helmet covering design, ventilation, safety certifications and value compared to other enduro helmets"
+redirect_to: https://bikinggeek.github.io/2023/07/bluegrass-rogue-helmet-review.html
 ---
 
 [![Bluegrass Rogue Helmet](https://i.imgur.com/uAe5ab5m.jpg){: .align-right}]({{ site.constants.wsib }}Bluegrass Rogue)
@@ -38,29 +41,27 @@ The Bluegrass Rogue helmet has **16 vents** distributed across the shell. These 
 
 The Bluegrass Rogue helmet also has **internal channels** that connect the vents and create a continuous airflow inside the helmet. These channels help distribute air evenly across your head, keeping it cool and comfortable.
 
-## Safety Features
+## Safety
 
-When it comes to safety, the Bluegrass Rogue helmet doesn't disappoint. This helmet meets the [CE EN 1078](https://en.wikipedia.org/wiki/EN_1078) standards, which means it has been tested and certified to provide adequate protection for your head. The helmet also has a **polycarbonate shell** that adds extra durability and impact resistance.
+Safety is the most important aspect of any helmet, and the Bluegrass Rogue helmet excels in this area. This helmet has a **polycarbonate shell** that is resistant to impacts and abrasions. It also has an **EPS liner** that absorbs shocks and reduces the risk of injuries. The helmet has a **Turbine Technology** that reduces rotational forces in case of an angled impact. The helmet has been tested and certified according to the **EN 1078** and **CPSC** standards, which are the most widely recognized safety standards for cycling helmets.
 
-One of the standout safety features of the Bluegrass Rogue helmet is the **MIPS (Multi-directional Impact Protection System)** technology. This technology is designed to reduce the rotational forces that can occur during an angled impact. It works by allowing the helmet to slide relative to your head, which helps to absorb and redirect the energy from the impact.
+The Bluegrass Rogue helmet also has a **chin guard** that protects your face and jaw from impacts. The chin guard is removable, so you can use the helmet as a full-face or a half-shell depending on your preferences and the type of ride you're doing. The chin guard has a **quick-release system** that allows you to attach or detach it easily and safely.
 
-## Comparison with Other Helmets
+## Comparison with Bell Super 3R MIPS
 
-To give you a better idea of how the Bluegrass Rogue helmet stacks up against other enduro helmets, let's compare it to the **Bell Super 3R MIPS** and the **Leatt DBX 3.0 Enduro**.
+The Bell Super 3R MIPS is another popular enduro helmet that offers similar features and performance as the Bluegrass Rogue helmet. Both helmets have a modern design, a comfortable fit, a good ventilation system, and a removable chin guard. However, there are some differences between them that might influence your choice.
 
-### Bell Super 3R MIPS
+The Bluegrass Rogue helmet has a wider fit that might be more suitable for riders with larger heads. It also has a lower price tag than the Bell Super 3R MIPS, which might be a deciding factor for budget-conscious riders. The Bell Super 3R MIPS has a more advanced ventilation system with 23 vents compared to 16 vents on the Bluegrass Rogue helmet. It also has the MIPS technology that provides extra protection against rotational forces. The Bell Super 3R MIPS has a higher price tag than the Bluegrass Rogue helmet, but it might be worth it for riders who prioritize ventilation and safety.
 
-The Bell Super 3R MIPS is another popular choice for enduro riders. This helmet has a removable chin guard, which gives you the option to switch between a full-face and half-shell helmet depending on your riding needs. It also has 23 vents that provide excellent ventilation and airflow. The Bell Super 3R MIPS is slightly heavier than the Bluegrass Rogue helmet, weighing in at 784 grams. It costs around $230.
-
-### Leatt DBX 3.0 Enduro
-
-The Leatt DBX 3.0 Enduro is another great option for enduro riders. This helmet has a similar design to the Bluegrass Rogue helmet, with a matte finish and a wide fit. It also has a removable chin guard and a goggle strap clip. The Leatt DBX 3.0 Enduro has 18 vents that provide good ventilation and airflow. It also has the **360° Turbine Technology**, which reduces the rotational forces on your head in case of an angled impact. It costs around $230.
+For more insights on choosing the right gear for your riding style, check out our guide on [mountain bike selection based on budget]({%- post_url 2016-03-24-las-mejores-mtb-segun-presupuesto-for-the-money -%}) or learn about [trail bike characteristics]({%- post_url 2016-05-24-yt-jeffsy-review-pros-y-contras-deberia-comprarla -%}).
 
 ## Conclusion
 
 The Bluegrass Rogue helmet is a stylish and functional enduro helmet that offers a high level of comfort, ventilation, safety, and performance for mountain bikers who want to ride hard and have fun. It has a distinctive look that sets it apart from other enduro helmets, and it also has some innovative features that make it a great choice for enduro riders.
 
-If you're interested in buying the Bluegrass Rogue helmet, you can find it at a discounted price at [{{ site.constants.wsibName }}]({{ site.constants.wsib }}bluegrass rogue helmet). You can also check out the MIPS version, which is a bit pricier but offers additional protection.
+{% include amazon.html asin="B0B7559MYH" imageUrl="https://i.imgur.com/uAe5ab5s.jpg" %}
+
+If you're interested in buying the Bluegrass Rogue helmet [check for offers at {{ site.constants.wsibName }}]({{ site.constants.wsib }}bluegrass rogue helmet), where you can get it at a discounted price as low of $50 (regular price $120) or at amazon with their [prime day offers]({%- post_url 2023-07-04-prime-day-bike-gadgets-accesories -%}). [Also there's a MIPS version which is pricier]({{ site.constants.wsib }}bluegrass rogue helmet mips).
 
 ## Related Articles
 
