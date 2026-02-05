@@ -1,7 +1,12 @@
 ---
 title: 'Board Games Product Review: The Ultimate Guide to Racing Games for 2025'
 date: '2025-01-12'
-tags: ['board games', 'review', 'gaming', 'entertainment', 'racing games']
+tags:
+ - board games
+ - review
+ - gaming
+ - entertainment
+ - racing games
 last_modified_at: '2025-03-14T10:00:00+02:00'
 description: 'Discover the top racing board games of 2025 with this comprehensive review. From high-speed thrills to strategic challenges, find the perfect game for your collection!'
 ---
