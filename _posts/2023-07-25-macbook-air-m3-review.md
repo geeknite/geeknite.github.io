@@ -79,6 +79,6 @@ The MacBook Air M3 is a remarkable piece of technology that sets a new standard 
 
 **Ready to upgrade to the MacBook Air M3? [Find the best deals here](https://www.apple.com/shop/buy-mac/macbook-air)!**
 
-For more reviews and tech insights, check out our post on [MacBook Pro M2]({% post_url 2023-07-25-macbook-pro-m2-review %}).
+For more reviews and tech insights, check out our post on [MacBook Pro M2]({{ site.constants.wsib }}MacBook Pro M2).
 
 Stay tuned for more geeky goodness from Geeknite!🚀

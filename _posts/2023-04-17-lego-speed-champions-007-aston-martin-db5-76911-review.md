@@ -43,11 +43,11 @@ Once assembled, the Aston Martin DB5 is a sight to behold. Its sleek lines and i
 
 ## Comparisons
 
-### [LEGO Technic Bugatti Chiron](post_url 2025-02-08-lego-product-review.md)
+### [LEGO Technic Bugatti Chiron]({{ site.constants.wsib }}LEGO Technic Bugatti Chiron)
 
-If you're into detailed car models, the LEGO Technic Bugatti Chiron is another excellent choice. While it’s more complex and expensive, it offers a different building experience with its Technic elements.
+If you're into detailed car models, the LEGO Technic Bugatti Chiron is another excellent choice. While it's more complex and expensive, it offers a different building experience with its Technic elements.
 
-### [LEGO Star Wars Millennium Falcon](post_url 2023-07-25-star-wars-lego-review.md)
+### [LEGO Star Wars Millennium Falcon]({%- post_url 2023-07-27-star-wars-lego-review -%})
 
 For those who prefer space over spy, the LEGO Star Wars Millennium Falcon is a massive set that provides a challenging build and an impressive display piece.
 
@@ -61,5 +61,5 @@ The LEGO Speed Champions 007 Aston Martin DB5 76911 is a fantastic set for both 
 
 ---
 For more LEGO reviews, check out our other posts:
-- [LEGO Product Review: An In-Depth Look at the Best Sets Available](post_url 2025-02-08-lego-product-review.md)
-- [LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best](post_url 2023-07-25-star-wars-lego-review.md)
+- [LEGO Product Review: An In-Depth Look at the Best Sets Available]({{ site.constants.wsib }}LEGO sets)
+- [LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-27-star-wars-lego-review -%})

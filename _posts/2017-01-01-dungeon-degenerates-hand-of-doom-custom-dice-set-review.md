@@ -67,7 +67,7 @@ The Dungeon Degenerates: Hand of Doom Custom Dice Set is a fantastic addition to
 ## Linking You to More Geeknite Reviews
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 
 **Ready to roll? Click [here]({{ site.constants.wsib }}dungeon-degenerates-dice) to get your Dungeon Degenerates: Hand of Doom Custom Dice Set now and receive an exclusive discount! Happy rolling!**

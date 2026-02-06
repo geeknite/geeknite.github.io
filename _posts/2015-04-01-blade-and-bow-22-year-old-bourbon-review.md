@@ -1,6 +1,6 @@
 ---
 title: "Blade & Bow 22 Year Old Bourbon Review: A Sip of Elegance"
-date: '2015-04-01'
+date: "2015-04-01"
 tags: [Bourbon, Whiskey, Review, Alcohol]
 description: "An in-depth and humorous review of Blade & Bow 22 Year Old Bourbon. Discover its exquisite flavors, rich history, and why it might be the best bourbon you've ever tasted."
 ---
@@ -55,7 +55,7 @@ So, what are you waiting for? Grab a bottle, pour yourself a glass, and savor th
 
 ### Related Articles
 
-- [Best Bourbons of 2025]({%- post_url 2025-06-15-best-bourbons-2025 -%})
-- [How to Taste Bourbon Like a Pro]({%- post_url 2024-11-02-how-to-taste-bourbon -%})
+- [Best Bourbons]({{ site.constants.wsib }}best bourbon)
+- [How to Taste Bourbon Like a Pro]({{ site.constants.wsib }}bourbon tasting)
 
 Cheers! 🥃

@@ -77,6 +77,6 @@ So what are you waiting for? Head over to [Geeknite's Card Games Section](https:
 
 ## Other Card Games to Check Out
 
-If you love AngerSmash, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) and [Marvel United: Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}).
+If you love AngerSmash, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) and [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}).
 
 **Ready to smash? Grab your copy of AngerSmash and let the games begin!**

@@ -63,5 +63,5 @@ _All Aboard Pacific Northwest: A Recreation Primer_ is a delightful addition to 
 
 For more book reviews and recommendations, check out our previous posts:
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?](post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens)
-- [Marvel United Multiverse Board Game Review](post_url 2023-08-15-marvel-united-multiverse-complete-review)
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({{ site.constants.wsib }}Adventure Tactics board game)
+- [Marvel United Multiverse Board Game Review]({{ site.constants.wsib }}Marvel United Multiverse)

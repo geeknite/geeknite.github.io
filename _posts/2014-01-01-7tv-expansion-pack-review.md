@@ -75,11 +75,11 @@ The 7TV Expansion Pack is fully compatible with previous expansions, allowing yo
 
 ## Comparison with Other Strategy Games
 
-### [Marvel United Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+### [Marvel United Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 
 While Marvel United Multiverse focuses on cooperative play and iconic superhero battles, 7TV offers a more narrative-driven experience with a focus on strategy and character development. Both games are excellent, but they cater to different tastes.
 
-### [Sniper Elite Board Game]({%- post_url 2024-10-25-sniper-elite-board-game-review -%})
+### [Sniper Elite Board Game]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})
 
 The Sniper Elite Board Game emphasizes stealth and precision, making it a tense and tactical experience. In contrast, 7TV's strength lies in its cinematic flair and dynamic gameplay, making it a great choice for those who love storytelling and creative strategies.
 
@@ -99,4 +99,4 @@ Ready to embark on your next TV-inspired adventure? Check out the 7TV Expansion 
 For more reviews and board game recommendations, check out our previous posts:
 
 - [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})

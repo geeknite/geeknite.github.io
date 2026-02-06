@@ -56,7 +56,7 @@ In conclusion, the **AirPod 4** with USB-C Charging Case is a fantastic update i
 
 ### Related Reviews and Comparisons
 
-- [Sony WF-1000XM4 Review: Top Noise Cancelling Earbuds]({%- post_url 2025-02-20-sony-wf-1000xm4-review -%})
-- [Bose QuietComfort Earbuds: Are They Worth the Hype?]({%- post_url 2025-04-10-bose-quietcomfort-earbuds-review -%})
+- [Sony WF-1000XM4 Review: Top Noise Cancelling Earbuds]({{ site.constants.wsib }}Sony WF-1000XM4)
+- [Bose QuietComfort Earbuds: Are They Worth the Hype?]({{ site.constants.wsib }}Bose QuietComfort Earbuds)
 
 Happy listening! 🎧✨

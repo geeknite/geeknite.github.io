@@ -88,6 +88,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}no
 
 ### Other Monstrous Miniatures to Check Out
 
-If you love miniatures, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Spider-Geddon Board Game]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
+If you love miniatures, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Spider-Geddon Board Game]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
 
 **Ready to unleash the beast? Click [here]({{ site.constants.wsib }}nolzurs-loup-garou) to get your set now and receive an exclusive discount! Happy adventuring!**

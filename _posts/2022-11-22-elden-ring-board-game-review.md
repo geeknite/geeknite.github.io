@@ -10,7 +10,7 @@ tags:
 description: 'A hilarious and comprehensive review of Elden Ring: The Board Game. Dive into the Lands Between with your friends in this epic tabletop adventure!'
 ---
 
-{% include image.html url='https://i.imgur.com/3zHcfgxm.jpg' %}
+[![Elden Ring Board Game](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]({{ site.constants.wsib }}Elden Ring Board Game)
 
 # Elden Ring: The Board Game - A Tarnished Review
 
@@ -30,7 +30,7 @@ The game comes with beautifully crafted miniatures of your favorite bosses, deta
 
 > **Pro Tip**: Keep your cat away from the miniatures. Malenia doesn't need to be felled by a pouncing feline.
 
-{% include image.html url='https://i.imgur.com/Jm8ynpT.jpg' %}
+![Elden Ring Board Game Components](https://i.imgur.com/Jm8ynpT.jpg)
 
 ## Gameplay
 
@@ -85,6 +85,6 @@ Boss battles are the highlight of the game. Each boss has its own unique behavio
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({% post_url 2022-02-04-gloomhaven-review %})**
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %})**
-- **[Top 10 Racing Board Games]({% post_url 2023-06-15-top-10-racing-board-games %})**
+- **[Top 10 Racing Board Games]({% post_url 2023-06-17-top-10-racing-board-games %})**
 
 **Ready to unite and conquer? Click [here]({{ site.constants.wsib }}elden-ring-board-game) to get your copy now and receive an exclusive discount! Happy adventuring!**

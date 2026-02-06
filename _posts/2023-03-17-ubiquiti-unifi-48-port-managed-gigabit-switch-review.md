@@ -59,10 +59,10 @@ One of the standout features is its power efficiency. Despite powering multiple 
 
 ## Comparison with Other Switches
 
-### [Cisco 48-Port Gigabit Switch]({% post_url 2025-07-20-cisco-48-port-switch-review %})
+### [Cisco 48-Port Gigabit Switch]({{ site.constants.wsib }}Cisco 48 port switch)
 While Cisco is a reputable brand with a long history in networking, their switches come with a heftier price tag and can be less user-friendly. If you're looking for a balance between cost, ease of use, and powerful features, Ubiquiti has got you covered.
 
-### [Netgear ProSAFE 48-Port Gigabit Switch]({% post_url 2025-08-30-netgear-prosafe-48-port-review %})
+### [Netgear ProSAFE 48-Port Gigabit Switch]({{ site.constants.wsib }}Netgear ProSAFE 48 port)
 Netgear offers solid performance, but their interface can be a bit clunky. Plus, Ubiquiti's Unifi Controller software is more intuitive and integrates better with other Unifi products.
 
 ## Conclusion

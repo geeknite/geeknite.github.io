@@ -72,7 +72,7 @@ Warhammer 40K Battlezone: Manufactorum Battlefield is a fantastic addition to an
 ## Links to Other Posts
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-25-star-wars-lego-review -%})**
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-27-star-wars-lego-review -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
 **Don't miss out on enhancing your Warhammer 40K battles! Order now and dive into the grimdark future with style.**

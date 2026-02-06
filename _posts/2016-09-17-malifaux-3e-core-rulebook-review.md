@@ -78,6 +78,6 @@ The **Malifaux 3E Core Rulebook** offers a fantastical adventure that's as chall
 ### More Geeky Adventures Await!
 
 - **[Gloomhaven: The Ultimate Dungeon Crawl]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Marvel United: Multiverse - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
+- **[Marvel United: Multiverse - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
 Happy adventuring!

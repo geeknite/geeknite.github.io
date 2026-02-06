@@ -69,5 +69,5 @@ Happy adventuring!
 
 **Related Tech Reviews:**
 
-- [MacBook Pro M2 Review]({%- post_url 2023-07-25-macbook-pro-m2-review -%})
-- [Xiaomi Redmi 15 Review]({%- post_url 2025-06-04-xiaomi-redmi-15-review -%})
+- [MacBook Pro M2 Review]({{ site.constants.wsib }}MacBook Pro M2)
+- [Xiaomi Redmi 15 Review]({{ site.constants.wsib }}Xiaomi Redmi)

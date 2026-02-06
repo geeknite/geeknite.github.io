@@ -66,6 +66,6 @@ The Polaris RPG: Miniatures Pack is a fantastic addition to any Polaris RPG coll
 
 ### Other Underwater Adventures to Explore
 
-If you love underwater games, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Spider-Geddon: The Ultimate Board Game]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
+If you love underwater games, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Spider-Geddon: The Ultimate Board Game]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
 
 **Ready to explore the depths? Click [here]({{ site.constants.wsib }}polaris-rpg-miniatures-pack) to get your copy now and receive an exclusive discount! Happy adventuring!**

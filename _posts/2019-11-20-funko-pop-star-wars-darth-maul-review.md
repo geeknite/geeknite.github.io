@@ -58,7 +58,7 @@ The Funko POP! Star Wars: The Mandalorian - Darth Maul is a fantastic addition t
 
 ## Linking You to More Collectibles
 
-- **[LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-25-star-wars-lego-review -%})**
-- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-27-star-wars-lego-review -%})**
+- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
 **Ready to expand your collection? Click [here](https://example.com) to find more awesome collectibles! Happy collecting!**

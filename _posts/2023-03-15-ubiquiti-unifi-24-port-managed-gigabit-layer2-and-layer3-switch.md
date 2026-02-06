@@ -60,9 +60,9 @@ In a word, yes. The Ubiquiti Unifi 24 Port Managed Gigabit Layer2 And Layer3 Swi
 
 ## Related Posts
 
-- [Ubiquiti Unifi AP AC Pro Review]({% post_url 2023-05-15-ubiquiti-unifi-ap-ac-pro-review %})
-- [Top 5 Networking Tips for Small Businesses]({% post_url 2023-07-22-top-5-networking-tips-small-businesses %})
-- [Why Your Home Network Sucks and How to Fix It]({% post_url 2023-09-10-fix-home-network %})
+- [Ubiquiti Unifi AP AC Pro Review]({{ site.constants.wsib }}Ubiquiti Unifi AP AC Pro)
+- [Top 5 Networking Tips for Small Businesses]({{ site.constants.wsib }}networking switch)
+- [Why Your Home Network Sucks and How to Fix It]({{ site.constants.wsib }}home network router)
 
 ## Call to Action: Get Yours Now!
 

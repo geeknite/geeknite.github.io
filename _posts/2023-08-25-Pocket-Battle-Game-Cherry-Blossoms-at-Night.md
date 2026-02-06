@@ -80,6 +80,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}po
 
 ### Other Games to Check Out
 
-If you love strategic and visually stunning board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Marvel United Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-review -%}).
+If you love strategic and visually stunning board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Marvel United Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}).
 
 **Ready to battle under the cherry blossoms? Don’t miss out on the fun!**

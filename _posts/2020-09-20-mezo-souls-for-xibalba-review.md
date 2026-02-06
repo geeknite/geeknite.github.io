@@ -65,6 +65,6 @@ _Mezo: Souls for Xibalba_ is a fantastic addition to any board game collection, 
 
 ## Other Mythological Board Games to Check Out
 
-If you love _Mezo: Souls for Xibalba_, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}).
+If you love _Mezo: Souls for Xibalba_, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}).
 
 **Ready to conquer the underworld?** Don’t miss out on the fun!

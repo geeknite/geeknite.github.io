@@ -89,6 +89,6 @@ The Ubiquiti Unifi USW Pro PoE 48 Gen 2 is a powerhouse of a switch that offers 
 
 **Related Posts**:
 - [Top 5 Xiaomi Gadgets of 2025]({% post_url 2025-04-11-xiaomi-gadgets-ebay-review %})
-- [NVIDIA GeForce RTX 4080 Review]({{% post_url 2023-09-13-nvidia-geforce-rtx-4080-review %})
+- [NVIDIA GeForce RTX 4080 Review]({%- post_url 2023-09-13-nvidia-geforce-rtx-4080-review -%})
 
 **Affiliate Disclosure**: Some of the links in this post are affiliate links.

@@ -73,7 +73,7 @@ Betrayal at Baldur's Gate is a fantastic addition to any board game collection, 
 ## More Board Game Reviews
 
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
-- [Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})
+- [Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
 
 **Ready to dive into the world of betrayal and adventure? Click [here]({{ site.constants.wsib }}betrayal-at-baldurs-gate) to get your copy now and receive an exclusive discount! Happy adventuring!**

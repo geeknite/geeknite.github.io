@@ -66,6 +66,6 @@ To win, players must guess correctly. If they fail, well, they have to face the 
 ### Related Reviews
 
 - [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 
 Happy ghost hunting! 🕵️‍♂️👻

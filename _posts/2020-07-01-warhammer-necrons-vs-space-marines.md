@@ -69,8 +69,8 @@ The Warhammer 40,000: Necrons vs. Space Marines Battle Set is a must-have for an
 ---
 
 **Related Posts:**
-- [Warhammer: Age of Sigmar Review]({%- post_url 2024-06-15-warhammer-age-of-sigmar-review -%})
-- [Top 5 Warhammer Painting Tips]({%- post_url 2023-07-25-top-5-warhammer-painting-tips -%})
+- [Warhammer: Age of Sigmar Review]({{ site.constants.wsib }}Warhammer Age of Sigmar)
+- [Top 5 Warhammer Painting Tips]({{ site.constants.wsib }}Warhammer painting)
 
 **Affiliate Disclosure:** Some of the links in this post are affiliate links. This means if you click on the link and purchase the item, we will receive an affiliate commission at no extra cost to you. All opinions remain our own.
 

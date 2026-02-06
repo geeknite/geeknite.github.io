@@ -44,11 +44,11 @@ In the spirit of scientific exploration, we subjected these dice to rigorous tes
 
 ## Comparison with Other Thematic Dice Sets
 
-### [Star Wars RPG Dice Set]({%- post_url 2023-07-25-star-wars-lego-review -%})
+### [Star Wars RPG Dice Set]({%- post_url 2023-07-27-star-wars-lego-review -%})
 
 While the Star Wars RPG Dice Set offers thematic elements from a galaxy far, far away, the Star Trek Adventures Dice Set: Operations Gold stands out with its vibrant gold coloring and detailed Starfleet insignia. Both sets provide excellent durability, but the Star Trek dice offer a unique aesthetic that is hard to beat.
 
-### [Marvel United Dice Set]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})
+### [Marvel United Dice Set]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 
 The Marvel United Dice Set brings superhero flair to your tabletop. However, for Trekkies, the Star Trek Adventures Dice Set offers a more immersive experience that perfectly complements the Star Trek Adventures RPG. It's all about where your fandom allegiance lies.
 

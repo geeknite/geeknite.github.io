@@ -62,7 +62,7 @@ The H.D.P. UV Resistant Plastic Film 6x100 ft is a game-changer for anyone looki
 {% include amazon.html asin="B07QK3WDB" imageUrl="/assets/images/general.jpg" %}
 
 **Related Articles:**
-- [Shrink Wrap vs UV Resistant Film]({% post_url 2023-07-24-shrink-wrap-vs-uv-resistant-film %})
-- [Top 10 Gardening Tools for 2025]({% post_url 2025-01-02-top-10-gardening-tools-2025 %})
+- [Shrink Wrap vs UV Resistant Film]({{ site.constants.wsib }}UV resistant plastic film)
+- [Top 10 Gardening Tools for 2025]({{ site.constants.wsib }}gardening tools)
 
 Till next time, happy gardening!

@@ -68,7 +68,7 @@ The **Puzzle Foam Leisis Terra Puzzle Foam Terra Multicolor** is a fantastic add
 
 For more fun toy reviews and recommendations, check out our previous posts:
 
-- [LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-25-star-wars-lego-review -%})
-- [Marvel United Multiverse Review: Assemble and Conquer]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+- [LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-27-star-wars-lego-review -%})
+- [Marvel United Multiverse Review: Assemble and Conquer]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 
 **Unleash the fun and foam up your playtime!**

@@ -62,7 +62,7 @@ The LEGO Creator Expert Roller Coaster is a thrilling addition to any LEGO colle
 
 For more LEGO reviews and recommendations, check out our previous posts:
 
-- [LEGO Star Wars Millennium Falcon Review]({%- post_url 2023-07-25-star-wars-lego-review -%})
-- [Top 10 LEGO Sets for 2025]({%- post_url 2025-01-12-top-10-lego-sets-2025 -%})
+- [LEGO Star Wars Millennium Falcon Review]({%- post_url 2023-07-27-star-wars-lego-review -%})
+- [Top 10 LEGO Sets for 2025]({{ site.constants.wsib }}LEGO sets)
 
 Happy building!

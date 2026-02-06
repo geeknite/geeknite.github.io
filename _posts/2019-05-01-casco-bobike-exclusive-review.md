@@ -3,6 +3,7 @@ title: "Casco Bobike Exclusive: The Ultimate Helmet Review"
 date: '2019-05-01'
 tags: [helmet, bobike, review, cycling gear, safety, funny]
 description: "A comprehensive and humorous review of the Casco Bobike Exclusive helmet. Discover its design, functionality, safety features, and why it's a must-have for cyclists."
+redirect_to: https://bikinggeek.github.io/2019/05/casco-bobike-exclusive-review
 ---
 
 ![Casco Bobike Exclusive](https://i.imgur.com/NfO4j9P.jpg){: .align-right}
@@ -53,9 +54,9 @@ The **Casco Bobike Exclusive** is a fantastic choice for any cyclist looking for
 
 **Ready to elevate your cycling game? Get your Casco Bobike Exclusive today and ride in style and safety!**
 
-For more reviews and cycling gear recommendations, check out our other posts on Geeknite:
+For more reviews and cycling gear recommendations, check out:
 
-- [The Ultimate Guide to Enduro Helmets]({%- post_url 2025-08-13-enduro-helmets-guide -%})
-- [Top 10 Cycling Accessories You Need in 2026]({%- post_url 2026-01-01-top-10-cycling-accessories-2026 -%})
+- [Cycling Helmets]({{ site.constants.wsib }}cycling helmet)
+- [Cycling Accessories]({{ site.constants.wsib }}cycling accessories)
 
 Happy cycling! 🚴‍♂️

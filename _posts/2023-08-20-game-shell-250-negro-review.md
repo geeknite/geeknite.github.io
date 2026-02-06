@@ -93,6 +93,6 @@ Happy gaming!
 
 **Related Posts:**
 
-- [Top 5 Retro Gaming Consoles]({%- post_url 2024-12-20-top-5-retro-gaming-consoles -%})
-- [Why You Need a Gaming Setup Makeover]({%- post_url 2025-01-10-gaming-setup-makeover -%})
-- [Best Gaming Accessories for 2025]({%- post_url 2025-02-05-best-gaming-accessories-2025 -%})
+- [Top 5 Retro Gaming Consoles]({{ site.constants.wsib }}retro gaming consoles)
+- [Why You Need a Gaming Setup Makeover]({{ site.constants.wsib }}gaming setup)
+- [Best Gaming Accessories for 2025]({{ site.constants.wsib }}gaming accessories)

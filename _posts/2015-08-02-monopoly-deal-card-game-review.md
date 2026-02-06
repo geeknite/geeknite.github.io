@@ -63,5 +63,5 @@ Monopoly Deal Card Game is a fantastic addition to any game night. It's quick, s
 ---
 For more reviews and game recommendations, check out our previous posts:
 
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
-- [Why Adults Should Also Board Game]({%- post_url 2019-11-15-adult-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
+- [Why Adults Should Also Board Game]({{ site.constants.wsib }}adult board games)

@@ -62,5 +62,5 @@ The Meta Quest 3 is a remarkable piece of technology that pushes the boundaries 
 ## Related Posts
 
 - [Anbernic RG351P: Retro Gaming Bliss in Your Pocket]({%- post_url 2025-02-15-anbernic-rg351p -%})
-- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Crusader Kings 3 Review: The Ultimate Strategy Game]({%- post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game -%})

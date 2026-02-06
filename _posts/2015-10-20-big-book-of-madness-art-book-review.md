@@ -77,7 +77,7 @@ The Big Book of Madness Art Book is a must-have for fans of the game and art lov
 
 ## Linking You to More Artistic Adventures
 
-- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Ready to explore more art books and board games? Click [here]({{ site.constants.wsib }}big-book-of-madness-art-book) to get your copy now and receive an exclusive discount!**

@@ -75,6 +75,6 @@ So what are you waiting for? Head over to [Geeknite's RPG Section](https://geekn
 
 ## Other RPGs to Check Out
 
-If you love City of Mist, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also play board games]({%- post_url 2019-11-15-adult-board-games -%}).
+If you love City of Mist, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also play board games]({{ site.constants.wsib }}adult board games).
 
 **Ready to dive into the mist? Click [here](https://geeknite.com/rpg/city-of-mist-fortune-row) to get your copy now and receive an exclusive discount! Happy adventuring!**

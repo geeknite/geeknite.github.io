@@ -1,8 +1,8 @@
 ---
-title: 'Unforgivable Eau De Parfum Spray by Sean John Review'
-date: '2007-01-01'
-tags: ['review', 'perfume', 'Sean John', 'fragrance']
-description: 'Dive into the world of Unforgivable Eau De Parfum Spray by Sean John. Our hilarious and insightful review covers everything from scent to bottle design.'
+title: "Unforgivable Eau De Parfum Spray by Sean John Review"
+date: "2007-01-01"
+tags: ["review", "perfume", "Sean John", "fragrance"]
+description: "Dive into the world of Unforgivable Eau De Parfum Spray by Sean John. Our hilarious and insightful review covers everything from scent to bottle design."
 ---
 
 ## Introduction
@@ -56,4 +56,5 @@ In conclusion, **Unforgivable Eau De Parfum Spray by Sean John** is a fragrance 
 **Bold Call-to-Action:** Ready to experience **Unforgivable** for yourself? Don't miss out! Get yours today and elevate your scent game to the next level.
 
 ---
-Looking for more reviews? Check out our take on [Sonny Angel]({%- post_url 2024-12-20-sonny-angel-product-review -%}) and [Echo Dot (4th Gen)]({%- post_url 2023-08-14-review-echo-dot-4th-gen -%}). Happy sniffing!
+
+Looking for more reviews? Check out our take on [Sonny Angel]({%- post_url 2024-12-20-sonny-angel-product-review -%}) and [Echo Dot (4th Gen)]({%- post_url 2023-07-14-review-echo-dot-4th-gen -%}). Happy sniffing!

@@ -71,7 +71,7 @@ Lankhmar is not just a board game; it's an experience. If you're ready for a cha
 
 ### Related Posts
 
-- **[Marvel United: Multiverse Board Game]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[Marvel United: Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Spider-Geddon: The Ultimate Board Game Review]({%- post_url 2024-08-15-spider-geddon-board-games -%})**
 

@@ -133,11 +133,8 @@ Si buscas un reloj GPS asequible y funcional, los relojes chinos como el **Amazf
 ---
 
 **Artículos Relacionados:**
- {% comment %}
-- [Xiaomi Mi 2025 Review]({%- post_url 2025-04-10-xiaomi-mi-2025-review -%})
-- [Amazon vs eBay: ¿Dónde Comprar Tecnología?]({%- post_url 2025-03-15-amazon-vs-ebay-tech-buying-guide -%})
-- [Top 5 Gadgets Xiaomi de 2025]({%- post_url 2025-04-01-top-5-xiaomi-gadgets -%})
-{% endcomment %}
-- [Xiaomi Gadgets on eBay: What's Hot in 2025]({%- post_url 2025-04-11-xiaomi-gadgets-ebay-review -%})
+
+- [Xiaomi Gadgets]({{ site.constants.wsib }}xiaomi gadgets)
+- [Smartwatch GPS]({{ site.constants.wsib }}smartwatch gps)
 
 ¡Feliz entrenamiento y que tu próximo reloj GPS sea el compañero perfecto para tus aventuras! 🚴‍♂️🏃‍♀️

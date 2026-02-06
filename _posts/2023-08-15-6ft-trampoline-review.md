@@ -56,7 +56,7 @@ In conclusion, the 6ft trampoline with a free safety net, spring pad, mat, ladde
 
 ## Related Reviews
 
-- [Best Backyard Games for Family Fun]({% post_url 2025-07-18-backyard-games-family-fun %})
-- [Top 10 Outdoor Toys for Kids]({% post_url 2025-06-15-top-10-outdoor-toys-kids %})
+- [Best Backyard Games for Family Fun]({{ site.constants.wsib }}backyard games family)
+- [Top 10 Outdoor Toys for Kids]({{ site.constants.wsib }}outdoor toys kids)
 
 Happy bouncing! 🚀

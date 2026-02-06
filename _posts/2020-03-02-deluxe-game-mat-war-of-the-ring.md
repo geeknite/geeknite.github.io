@@ -1,7 +1,7 @@
 ---
 title: "Deluxe Game Mat - War of the Ring Review: The Ultimate Gaming Experience"
-date: '2004-03-01'
-tags: ['board games', 'War of the Ring', 'game accessories', 'review']
+date: "2004-03-01"
+tags: ["board games", "War of the Ring", "game accessories", "review"]
 ---
 
 ![War of the Ring Deluxe Game Mat](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}
@@ -65,7 +65,8 @@ So, gather your fellow adventurers, lay out the Deluxe Game Mat, and prepare for
 **Call to Action:** Don’t miss out on the ultimate War of the Ring experience! Click [here]({{ site.constants.wsib }}deluxe-game-mat-war-of-the-ring) to get your Deluxe Game Mat now and receive an exclusive discount! Happy gaming!
 
 ---
+
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
-- [Marvel United: Multiverse Board Game Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
+- [Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})

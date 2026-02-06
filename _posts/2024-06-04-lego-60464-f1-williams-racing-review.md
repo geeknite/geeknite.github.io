@@ -63,5 +63,5 @@ El set LEGO 60464 de Coches de F1® Williams Racing y McLaren es una adición in
 
 - [LEGO Technic Bugatti Chiron]({%- post_url 2025-02-08-lego-product-review -%})
 - [Flamme Rouge: Grand Tour]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 

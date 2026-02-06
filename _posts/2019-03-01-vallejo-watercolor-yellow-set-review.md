@@ -81,10 +81,10 @@ The **Vallejo Watercolor Yellow Set** is a fabulous addition to any artist’s t
 
 {% include amazon.html asin="B08XYZ1234" imageUrl="/assets/images/general.jpg" %}
 
-For more art supply reviews and recommendations, check out our other posts:
+For more art supply recommendations, check out these products:
 
-- [Top 10 Watercolor Paints of 2025]({% post_url 2025-10-10-top-10-watercolor-paints %})
-- [The Best Brushes for Watercolor Artists]({% post_url 2025-06-15-best-brushes-watercolor %})
-- [How to Create Stunning Watercolor Effects]({% post_url 2025-03-20-create-watercolor-effects %})
+- [Watercolor Paint Sets]({{ site.constants.wsib }}watercolor paint set)
+- [Watercolor Brushes]({{ site.constants.wsib }}watercolor brushes)
+- [Vallejo Model Color]({{ site.constants.wsib }}Vallejo model color)
 
 Stay colorful, my friends!

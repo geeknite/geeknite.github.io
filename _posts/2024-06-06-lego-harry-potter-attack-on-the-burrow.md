@@ -78,4 +78,4 @@ The LEGO Harry Potter: Attack on the Burrow (75980) set is a must-have for any H
 
 ## Other LEGO Reviews
 
-Check out our other LEGO reviews, including the [LEGO Star Wars Millennium Falcon]( {{ site.baseurl }}{% post_url 2023-07-25-star-wars-lego-review %}) and the [LEGO Technic Bugatti Chiron]( {{ site.baseurl }}{% post_url 2025-02-08-lego-product-review %}). Feel free to leave a comment and share your thoughts on your favorite LEGO sets!
+Check out our other LEGO reviews, including the [LEGO Star Wars Millennium Falcon]( {{ site.baseurl }}{% post_url 2023-07-27-star-wars-lego-review %}) and the [LEGO Technic Bugatti Chiron]( {{ site.baseurl }}{% post_url 2025-02-08-lego-product-review %}). Feel free to leave a comment and share your thoughts on your favorite LEGO sets!

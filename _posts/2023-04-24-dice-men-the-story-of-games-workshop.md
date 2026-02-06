@@ -66,7 +66,7 @@ While the book provides a comprehensive look at the company's history, it's the 
 ## Other Posts You'll Enjoy
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({{ site.baseurl }}{% post_url 2022-02-04-gloomhaven-review %})**
-- **[Marvel United Multiverse Board Game Review]({{ site.baseurl }}{% post_url 2023-08-15-marvel-united-multiverse-review %})**
+- **[Marvel United Multiverse Board Game Review]({{ site.baseurl }}{% post_url 2023-08-22-marvel-united-multiverse-complete-review %})**
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({{ site.baseurl }}{% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %})**
 
 **Don't miss out on this epic tale! Click [here]({{ site.constants.wsib }}dice-men) to get your copy of Dice Men: The Story of Games Workshop now!**

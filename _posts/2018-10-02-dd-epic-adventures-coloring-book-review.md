@@ -69,8 +69,8 @@ The D&D Epic Adventures Coloring Book is a delightful addition to any fantasy lo
 
 ## Linking You to More Epic Content
 
-- **[Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Mistborn: The Hero of Ages Review]({%- post_url 2018-04-04-mistborn-3-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 
 **Ready to create your epic masterpiece? Click [here]({{ site.constants.wsib }}dd-epic-adventures-coloring-book) to get your copy now and receive an exclusive discount! Happy coloring!**

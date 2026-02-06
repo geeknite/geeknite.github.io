@@ -84,6 +84,6 @@ The **Avengers Disney Plus Marvel Legends Series 2022 Wave 1** is a fantastic ad
 
 ### Other Marvelous Reviews
 
-If you enjoyed this review, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) and [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you enjoyed this review, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) and [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
 **Ready to assemble your Marvel collection? Don’t miss out on the action!**

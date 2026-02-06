@@ -1,7 +1,7 @@
 ---
 title: "Elden Ring: Nightreign - Sony PlayStation 5 PS5 Physical Review"
-date: '2022-02-25'
-tags: [Elden Ring: Nightreign, PS5, review, gaming, Sony]
+date: '2025-01-24'
+tags: ["Elden Ring Nightreign", PS5, review, gaming, Sony]
 description: "Explore the epic world of Elden Ring: Nightreign on PS5. Read our comprehensive review and find out why this game is a must-play for fans of action RPGs."
 ---
 

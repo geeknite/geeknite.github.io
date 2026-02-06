@@ -60,7 +60,7 @@ One of the best aspects of **The Game Card Game** is the humor that naturally ar
 
 ## Comparison with Other Card Games
 
-### [Codenames]({%- post_url 2019-11-15-adult-board-games -%})
+### [Codenames]({{ site.constants.wsib }}adult board games)
 
 Codenames offers a different kind of cooperative experience, focusing on word association and deduction. While it lacks the strict numerical strategy of **The Game Card Game**, it provides a great mix of humor and brain-teasing fun.
 
@@ -78,6 +78,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Card Games to Check Out
 
-If you love **The Game Card Game**, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
+If you love **The Game Card Game**, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [Codenames]({{ site.constants.wsib }}adult board games).
 
 **Ready to embark on your next great adventure? Check out [The Game Card Game]({{ site.constants.wsib }}the-game-card-game) today and start your epic journey!**

@@ -41,8 +41,8 @@ Este set no solo es genial para construir, sino también para jugar. Ya sea que 
 
 Si comparamos el LEGO 60442 con otros sets similares, como el LEGO Technic Bugatti Chiron o el LEGO Technic Porsche 911 RSR, encontramos que aunque el coche de F1 es menos complejo, sigue ofreciendo un alto nivel de detalle y una experiencia de construcción satisfactoria. Además, es más accesible para constructores de todas las edades y niveles de habilidad.
 
-- [LEGO Technic Bugatti Chiron](post_url 2025-02-08-lego-product-review)
-- [LEGO Technic Porsche 911 RSR](post_url 2025-02-08-lego-product-review)
+- [LEGO Technic Bugatti Chiron]({{ site.constants.wsib }}LEGO Technic Bugatti Chiron)
+- [LEGO Technic Porsche 911 RSR]({{ site.constants.wsib }}LEGO Technic Porsche 911 RSR)
 
 ## Pros y Contras
 

@@ -60,7 +60,7 @@ The UP - Standard Deck Protector - PRO-Matte is a worthy investment for any card
 
 ---
 
-For more reviews and card game tips, check out our previous posts:
+For more card game accessories, check out:
 
-- [Top 10 Deck Protectors for Collectible Card Games]({%- post_url 2025-07-25-top-10-deck-protectors -%})
-- [Magic: The Gathering Sleeves Showdown]({%- post_url 2024-03-18-mtg-sleeves-showdown -%})
+- [Deck Protectors]({{ site.constants.wsib }}deck protector sleeves)
+- [Card Sleeves]({{ site.constants.wsib }}magic the gathering sleeves)

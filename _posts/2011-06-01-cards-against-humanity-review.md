@@ -1,6 +1,6 @@
 ---
 title: "Cards Against Humanity: The Most Unapologetically Hilarious Game"
-date: '2011-06-01'
+date: "2011-06-01"
 tags: [board games, party games, Cards Against Humanity, review]
 ---
 
@@ -19,6 +19,7 @@ Cards Against Humanity is a party game for horrible people. The game consists of
 ### Components
 
 The game box contains:
+
 - **Black Cards**: Questions, prompts, and statements that set the stage for your humor.
 - **White Cards**: Answers ranging from hilarious to outrageously offensive.
 - **Game Rules**: Simple, because who needs complicated rules when you're trying to laugh?
@@ -69,6 +70,6 @@ Ready to embrace your inner horrible person? Head over to [Geeknite's Board Game
 
 ## Other Party Games to Check Out
 
-If you love Cards Against Humanity, be sure to check out our reviews of [What Do You Meme?]({%- post_url 2025-02-15-what-do-you-meme-review -%}), or [Exploding Kittens]({%- post_url 2023-12-01-exploding-kittens-review -%}).
+If you love Cards Against Humanity, be sure to check out our review of [Exploding Kittens]({%- post_url 2015-07-01-exploding-kittens-review -%}) or [What Do You Meme?]({{ site.constants.wsib }}What Do You Meme).
 
 **Ready to laugh until you cry?** Don’t miss out on the fun!

@@ -89,7 +89,7 @@ The Terrain Crate MGSS305 Starship Doors by Mantic Games are a fantastic additio
 
 ## Related Reviews
 
-- **[Marvel United Multiverse Board Game Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Don't miss out on the fun! Upgrade your gaming terrain with the Terrain Crate MGSS305 Starship Doors today!**

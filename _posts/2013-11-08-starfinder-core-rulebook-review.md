@@ -72,4 +72,4 @@ The **Starfinder Core Rulebook** is a must-have for any sci-fi RPG enthusiast. I
 
 ## Other Sci-Fi RPGs You Might Enjoy
 
-If you love Starfinder, be sure to check out our reviews of [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}) or [Marvel United: Multiverse Board Game]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}). Happy adventuring!
+If you love Starfinder, be sure to check out our reviews of [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}) or [Marvel United: Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}). Happy adventuring!

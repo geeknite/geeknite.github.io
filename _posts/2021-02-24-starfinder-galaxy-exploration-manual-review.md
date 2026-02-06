@@ -66,6 +66,6 @@ The rich lore in the manual adds depth to your adventures. Discover ancient civi
 
 ### More RPG Adventures to Check Out
 
-If you love space-themed RPGs, be sure to check out our reviews of [Marvel United Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).
+If you love space-themed RPGs, be sure to check out our reviews of [Marvel United Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).
 
 **Dive into the universe of Starfinder and unlock the secrets of the cosmos!**

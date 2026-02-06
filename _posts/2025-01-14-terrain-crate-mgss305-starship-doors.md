@@ -49,8 +49,8 @@ The Terrain Crate MGSS305 Starship Doors by Mantic Games are a fantastic additio
 
 ## More Geeknite Reviews
 
-- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Ready to enhance your starship adventures? Don't miss out on these fantastic miniatures! Get your set today and take your games to the next level.**

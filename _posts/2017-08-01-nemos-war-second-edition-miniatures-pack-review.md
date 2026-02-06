@@ -1,8 +1,8 @@
 ---
-title: 'Nemo's War: Second Edition - Miniatures Pack Review'
-date: '2017-08-01'
-tags: ['board games', 'review', 'miniatures', 'Nemo's War']
-description: 'An in-depth, humorous review of the Nemo's War: Second Edition - Miniatures Pack.'
+title: "Nemo's War: Second Edition - Miniatures Pack Review"
+date: "2017-08-01"
+tags: ["board games", "review", "miniatures", "Nemo's War"]
+description: "An in-depth, humorous review of the Nemo's War: Second Edition - Miniatures Pack."
 ---
 
 ![Nemo's War](/assets/images/general.jpg){: .align-right}
@@ -13,11 +13,11 @@ Ahoy, fellow board game enthusiasts! Today, we set sail on a grand adventure to 
 
 ## What is Nemo's War?
 
-*Nemo's War: Second Edition* is a solo board game that takes you on a journey under the sea aboard Captain Nemo's famed submarine, the Nautilus. Players take on the role of Captain Nemo himself, embarking on expeditions, battling enemy ships, and seeking out scientific discoveries in an effort to achieve one of several possible victory conditions. The game is rich in narrative and offers a deeply immersive experience.
+_Nemo's War: Second Edition_ is a solo board game that takes you on a journey under the sea aboard Captain Nemo's famed submarine, the Nautilus. Players take on the role of Captain Nemo himself, embarking on expeditions, battling enemy ships, and seeking out scientific discoveries in an effort to achieve one of several possible victory conditions. The game is rich in narrative and offers a deeply immersive experience.
 
 ### The Basics
 
-The *Nemo's War: Second Edition - Miniatures Pack* is an expansion that adds beautifully crafted miniatures to the game, enhancing the visual appeal and overall immersion. The pack includes:
+The _Nemo's War: Second Edition - Miniatures Pack_ is an expansion that adds beautifully crafted miniatures to the game, enhancing the visual appeal and overall immersion. The pack includes:
 
 - **Nautilus Miniature**: A detailed miniature of the Nautilus, Captain Nemo's iconic submarine.
 - **Ship Miniatures**: Various enemy ships, each intricately designed to represent the different naval threats you will face.
@@ -61,9 +61,9 @@ Setting up the game with the miniatures is a breeze. Each piece fits perfectly o
 
 ## Final Thoughts
 
-The *Nemo's War: Second Edition - Miniatures Pack* is a fantastic addition for fans of the game. It enhances the visual and tactile experience, making each adventure under the sea even more thrilling. While the price and storage considerations are minor drawbacks, the overall benefits make this pack a worthy investment for any dedicated Captain Nemo.
+The _Nemo's War: Second Edition - Miniatures Pack_ is a fantastic addition for fans of the game. It enhances the visual and tactile experience, making each adventure under the sea even more thrilling. While the price and storage considerations are minor drawbacks, the overall benefits make this pack a worthy investment for any dedicated Captain Nemo.
 
-So what are you waiting for? Grab your copy of the *Nemo's War: Second Edition - Miniatures Pack* and embark on an epic journey beneath the waves. **Set sail for adventure!**
+So what are you waiting for? Grab your copy of the _Nemo's War: Second Edition - Miniatures Pack_ and embark on an epic journey beneath the waves. **Set sail for adventure!**
 
 **Ready to dive in?** Click [here](https://example.com) to purchase your miniatures pack today and bring the world of Nemo's War to life. Happy sailing, and may your adventures be legendary!
 
@@ -71,9 +71,9 @@ So what are you waiting for? Grab your copy of the *Nemo's War: Second Edition -
 
 ### Other Nautical Adventures to Explore
 
-If you love *Nemo's War*, be sure to check out our reviews of other thrilling games:
+If you love _Nemo's War_, be sure to check out these other thrilling games:
 
-- **[Sea of Legends]({%- post_url 2023-07-10-sea-of-legends-review -%})**
-- **[Merchants & Marauders]({%- post_url 2022-05-15-merchants-and-marauders-review -%})**
+- **[Sea of Legends]({{ site.constants.wsib }}Sea of Legends board game)**
+- **[Merchants & Marauders]({{ site.constants.wsib }}Merchants and Marauders board game)**
 
 Set sail for more epic adventures and conquer the seas with these fantastic games!

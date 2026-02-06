@@ -69,8 +69,8 @@ Ready to explore the national parks? **Click [here]({{ site.constants.wsib }}tre
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 - [Sniper Elite Board Game Review]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})
 
 **Ready to embark on a national adventure? Don’t miss out on the fun!**

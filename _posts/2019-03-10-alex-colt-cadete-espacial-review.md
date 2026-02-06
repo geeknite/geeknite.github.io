@@ -70,6 +70,6 @@ El libro cuenta con maravillosas ilustraciones que complementan la historia. Est
 Si disfrutaste **Alex Colt: Cadete Espacial**, no te pierdas nuestras otras reseñas de fantásticas aventuras espaciales:
 
 - [Spider-Geddon: The Epic Board Game]({%- post_url 2024-08-15-spider-geddon-board-games -%})
-- [Marvel United: Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 
 ¡Hasta la próxima, cadetes espaciales!

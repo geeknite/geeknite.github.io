@@ -54,6 +54,6 @@ The *Elden Ring Art Book* is a must-have for fans of the game and art enthusiast
 For more reviews and gaming content, check out our previous posts:
 
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
-- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 
 Happy reading, and may your journey through the Lands Between be ever victorious!

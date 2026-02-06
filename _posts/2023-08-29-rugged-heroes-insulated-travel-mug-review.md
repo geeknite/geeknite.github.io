@@ -90,7 +90,7 @@ So what are you waiting for? Head over to [Geeknite's Gear Section](https://geek
 - [Bluegrass Rogue Helmet Review: A Stylish and Functional Choice for Enduro Riders]({%- post_url 2023-07-18-bluegrass-rogue-helmet-review -%})
 
 ### Travel Essentials
-- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
 
 **Ready to keep your drinks at the perfect temperature? Click [here](https://geeknite.com/gear/rugged-heroes-insulated-travel-mug) to get your Rugged Heroes Insulated Travel Mug now and receive an exclusive discount! Happy hydrating!**

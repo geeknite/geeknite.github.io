@@ -751,7 +751,7 @@ If you enjoy **deck-building games**, love **zombie survival themes**, and espec
 - [Zombie Board Games Ranked](/zombie-board-games-ranked)
 - [Cooperative Games for Small Groups](/cooperative-games-small-groups)
 - [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
-- [Why Adults Should Also Board Game]({%- post_url 2019-11-15-adult-board-games -%})
+- [Why Adults Should Also Board Game]({{ site.constants.wsib }}adult board games)
 
 ---
 

@@ -73,7 +73,7 @@ Airship City is a fantastic addition to any board game collection. Its combinati
 
 **Don't forget to check out our other board game reviews for more recommendations!**
 
-- [Top 10 Racing Board Games]({% post_url 2023-06-15-top-10-racing-board-games %})
+- [Top 10 Racing Board Games]({% post_url 2023-06-17-top-10-racing-board-games %})
 - [LEGO Product Review]({% post_url 2025-02-08-lego-product-review %})
 - [Persona 5 Royal Review]({% post_url 2022-04-23-persona-5-royal-review %})
 

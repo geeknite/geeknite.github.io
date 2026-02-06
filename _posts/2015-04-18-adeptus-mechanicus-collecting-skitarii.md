@@ -1,12 +1,12 @@
 ---
 title: "Warhammer 40k: Start Collecting Skitarii Adeptus Mechanicus - A Geek's Guide"
-date: '2015-04-18'
+date: "2015-04-18"
 tags:
-- Warhammer 40k
-- Adeptus Mechanicus
-- Skitarii
-- Review
-- Geeknite
+  - Warhammer 40k
+  - Adeptus Mechanicus
+  - Skitarii
+  - Review
+  - Geeknite
 ---
 
 ## Introduction
@@ -108,14 +108,11 @@ Position your Onager Dunecrawler to provide heavy fire support. It's great for t
 
 The Start Collecting Skitarii Adeptus Mechanicus box set is a fantastic entry point into the Warhammer 40k universe. It provides a solid foundation for an army and the models are a joy to build and paint. Whether you're a seasoned player or a newbie, this set offers great value and tons of fun.
 
-**Ready to join the ranks of the Adeptus Mechanicus? Grab your Start Collecting Skitarii Adeptus Mechanicus box set today and start your journey into the Omnissiah's embrace!**
-
-{% include amazon.html asin="B08XYZ1234" imageUrl="{{ site.constants.wsib }}/start-collecting-skitarii.jpg" %}
+**Ready to join the ranks of the Adeptus Mechanicus?** [Grab your Start Collecting Skitarii Adeptus Mechanicus box set today]({{ site.constants.wsib }}Start Collecting Skitarii Adeptus Mechanicus) and start your journey into the Omnissiah's embrace!
 
 ## Related Posts
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Board Games to Play During a Pandemic]({%- post_url 2023-03-18-top-10-board-games-pandemic -%})**
-- **[Marvel United: Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United: Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
-**Unleash the power of the Omnissiah! Click [here]({{ site.constants.wsib }}start-collecting-skitarii) to order your box set now and receive an exclusive discount!**
+**Unleash the power of the Omnissiah!** [Order your box set now]({{ site.constants.wsib }}Start Collecting Skitarii Adeptus Mechanicus)!

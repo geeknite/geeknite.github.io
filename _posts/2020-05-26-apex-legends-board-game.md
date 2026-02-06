@@ -81,4 +81,4 @@ So, gather your squad, gear up, and dive into the thrilling world of Apex Legend
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})
+- [Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})

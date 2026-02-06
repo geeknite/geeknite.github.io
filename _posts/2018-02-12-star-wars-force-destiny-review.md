@@ -80,6 +80,6 @@ So what are you waiting for? Head over to [Geeknite's RPG Section](https://geekn
 
 ## Other Galactic Adventures to Check Out
 
-If you love Star Wars RPGs, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love Star Wars RPGs, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
 **Ready to embark on a galactic adventure? Don't miss out on the fun!**

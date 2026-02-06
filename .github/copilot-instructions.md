@@ -53,6 +53,28 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 - No file extension
 - Include full date prefix
 - Hyphens only (no spaces)
+
+### ⚠️ CRITICAL: Avoiding post_url Errors
+**NEVER invent post_url references.** Before adding any `post_url` tag:
+
+1. **ALWAYS verify the post exists** by running:
+   ```powershell
+   Get-ChildItem "_posts" -Filter "*keyword*" | Select-Object Name
+   ```
+2. **Use the EXACT filename** including the correct date (e.g., `2023-08-22` not `2023-08-15`)
+3. **If no matching post exists**, use an affiliate link instead:
+   ```markdown
+   # ❌ WRONG - post doesn't exist
+   [Product Name]({%- post_url 2025-06-15-best-bourbons-2025 -%})
+   
+   # ✅ CORRECT - use affiliate link when post doesn't exist
+   [Product Name]({{ site.constants.wsib }}Product Name)
+   ```
+4. **Never use future dates** for posts that don't exist yet
+5. **Common mistakes to avoid:**
+   - Wrong date: `2023-08-15-marvel-united...` vs actual `2023-08-22-marvel-united...`
+   - Invented slugs: `best-bourbons-2025` when no bourbon posts exist
+   - Missing "-complete" or other suffixes: `marvel-united-multiverse-review` vs `marvel-united-multiverse-complete-review`
 - Use `{%-` syntax to strip whitespace
 
 ## Content Guidelines
@@ -205,6 +227,8 @@ description: "Excerpt or summary of the post in the same language as the post."
 6. Always keep UTF-8 encoding for special characters (é, ñ, ü, etc.)
 7. **Never** write generic recommendation posts — always frame content as decision resolution
 8. **Avoid** long introductions — get to the decision point fast
+9. **NEVER invent post_url references** — always verify posts exist first with `Get-ChildItem "_posts" -Filter "*keyword*"`
+10. **Use affiliate links (`{{ site.constants.wsib }}`) when no related post exists** — don't create broken post_url tags
 
 ### When reviewing newly created _posts from current or last month and without date in the filename (considered drafts even they are not in the _drafts/), follow this checklist:
 1. **Check for duplicates**: Search `_posts/` for similar content before publishing, specially if too brief content

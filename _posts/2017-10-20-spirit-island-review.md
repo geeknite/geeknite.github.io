@@ -72,7 +72,7 @@ Con múltiples espíritus y cartas de eventos, no hay dos partidas iguales. Esto
 
 ## Comparación con Otros Juegos
 
-Spirit Island es único en su enfoque cooperativo y estratégico profundo. Comparado con otros juegos de estrategia cooperativa como [Pandemic]({%- post_url 2024-01-01-pandemic-review -%}), Spirit Island ofrece una mayor variedad de estrategias y más interacción entre los jugadores. La elección del espíritu y sus habilidades añade una capa de personalización que no se encuentra en muchos otros juegos.
+Spirit Island es único en su enfoque cooperativo y estratégico profundo. Comparado con otros juegos de estrategia cooperativa como [Pandemic]({{ site.constants.wsib }}Pandemic board game), Spirit Island ofrece una mayor variedad de estrategias y más interacción entre los jugadores. La elección del espíritu y sus habilidades añade una capa de personalización que no se encuentra en muchos otros juegos.
 
 ## Veredicto Final
 
@@ -82,7 +82,7 @@ Spirit Island es una joya en el mundo de los juegos de mesa, ofreciendo una expe
 
 Para más reseñas y recomendaciones de juegos de mesa, consulta nuestros posts anteriores:
 
-- [Reseña de Marvel United Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
-- [Top 10 Juegos de Mesa de Carreras]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Reseña de Marvel United Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
+- [Top 10 Juegos de Mesa de Carreras]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 
 ¡Felices juegos, amigos!

@@ -89,7 +89,7 @@ The **Kobo Libra Colour** is the Clara’s bigger, bolder sibling. Featuring a 7
 
 ## **Comparison with Other eReaders**
 
-### [Kobo Libra Review: Is It Worth the Hype?]({%- post_url 2024-05-20-kobo-libra-colour-review -%})
+### [Kobo Libra Review: Is It Worth the Hype?]({{ site.constants.wsib }}Kobo Libra Colour)
 
 Our detailed **Kobo Libra Colour** review after the initial release on how it builds on the strengths of the original Libra, adding a color display and stylus compatibility. While the original Libra excels in its crisp E Ink Carta HD display and ergonomic design, the Libra Colour takes it further with its vibrant color display and eco-friendly materials.
 
@@ -130,5 +130,5 @@ Happy reading! 📚✨
 
 ### Related Reviews
 
-- [Kobo Libra Review: The Ultimate eReader for the Modern Bookworm]({%- post_url 2024-05-20-kobo-libra-colour-review -%})
+- [Kobo Libra Review: The Ultimate eReader for the Modern Bookworm]({{ site.constants.wsib }}Kobo Libra Colour)
 - [Kobo Clara Review: The Compact eReader with Big Surprises]({%- post_url 2025-04-10-kobo-clara-review -%})

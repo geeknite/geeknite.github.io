@@ -84,6 +84,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}ex
 
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
 **Ready to dodge some exploding kittens? Click [here]({{ site.constants.wsib }}exploding-kittens) to get your copy now and receive an exclusive discount! Happy gaming!**

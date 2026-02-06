@@ -47,7 +47,7 @@ The LEGO Harry Potter Hogwarts Castle is a must-have for any serious Harry Potte
 
 ## Additional LEGO Reviews
 
-- **[LEGO Star Wars Millennium Falcon]({% post_url 2023-07-25-star-wars-lego-review %})**: Explore the galaxy with this iconic set.
+- **[LEGO Star Wars Millennium Falcon]({% post_url 2023-07-27-star-wars-lego-review %})**: Explore the galaxy with this iconic set.
 - **[LEGO Creator Expert Roller Coaster]({% post_url 2025-02-08-lego-product-review %})**: A thrilling ride for any LEGO fan.
 - **[LEGO Ideas Tree House]({% post_url 2025-02-08-lego-product-review %})**: A beautiful and environmentally conscious set.
 

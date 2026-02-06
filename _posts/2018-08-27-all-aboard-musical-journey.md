@@ -33,7 +33,7 @@ As the game progresses, players accumulate musical points based on their moves. 
 
 ## What Makes All Aboard Special
 
-One of All Aboard's greatest strengths is its accessibility paired with strategic depth. Unlike games that require extensive setup or complex rules explanations, All Aboard gets players into the action quickly. The puzzle-like nature of tile placement creates those satisfying "aha!" moments when everything clicks into place, similar to what makes [adult board gaming](post_url 2019-11-15-adult-board-games) so rewarding for grown-ups.
+One of All Aboard's greatest strengths is its accessibility paired with strategic depth. Unlike games that require extensive setup or complex rules explanations, All Aboard gets players into the action quickly. The puzzle-like nature of tile placement creates those satisfying "aha!" moments when everything clicks into place, similar to what makes [adult board gaming]({{ site.constants.wsib }}adult board games) so rewarding for grown-ups.
 
 ## Pros and Cons
 

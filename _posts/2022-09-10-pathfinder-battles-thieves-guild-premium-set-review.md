@@ -62,8 +62,8 @@ The **Pathfinder Battles: Thieves Guild Premium Set** is a must-have for any Pat
 
 ## Related Reviews
 
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 
 **Don't miss out on these epic board game experiences!**
