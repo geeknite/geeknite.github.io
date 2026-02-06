@@ -7,7 +7,7 @@ tags:
  - gaming
  - entertainment
  - racing games
-last_modified_at: '2025-03-14T10:00:00+02:00'
+last_modified_at: '2026-02-06T06:32:00+02:00'
 description: 'Discover the top racing board games of 2025 with this comprehensive review. From high-speed thrills to strategic challenges, find the perfect game for your collection!'
 ---
 
@@ -77,6 +77,18 @@ PitchCar takes the action off the board and onto a tabletop track, with players 
 
 **Expansion Alert:** The Extension 1 and 2 expansions add new track pieces and obstacles, making the game even more challenging. Can you master the new tracks?
 
+### 11. [7TV Expansion Pack]({{ site.constants.wsib }}7tv-expansion-pack)
+
+7TV is a skirmish miniatures game set in the world of cult TV shows. The 7TV Expansion Pack adds new scenarios, characters, and gadgets, allowing players to create even more thrilling episodes. It's perfect for fans of the original game looking to expand their adventures.
+
+**Expansion Alert:** The new expansion pack adds additional characters, scenarios, and gadgets. Perfect for those who can't get enough of the 7TV universe.
+
 ## Conclusion
 
 From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming. **Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
+
+---
+For more reviews and board game recommendations, check out our previous posts:
+
+- [Flamme Rouge Grand Tour Review: The Ultimate Cycling Expansion]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
