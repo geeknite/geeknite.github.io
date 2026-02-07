@@ -32,8 +32,6 @@ If you're more of a "grab and go" person (like me when I'm exploring), the avenu
 
 **Boulangerie du Coin** serves what might be the best croissants outside of Paris. I'm not exaggerating—I went back three mornings in a row. Their pain au chocolat at 1.50€ is a steal compared to similar quality in major French cities.
 
-*Shopping tip*: Speaking of finding great deals while traveling, if you're planning a European food tour, check out our [guide to smart shopping on Amazon Spain]({%- post_url 2024-01-15-tips-for-shopping-on-amazon-spain-eng-edition -%}) for travel essentials and food storage accessories that'll help you bring home those local delicacies.
-
 ## Shopping Paradise: From Boutiques to Local Markets
 
 ### Unique Boutiques Worth Your Time (and Euros)
@@ -72,29 +70,11 @@ When the sun sets, **Agen Avenue transforms** into something special—but don't
 
 **Club 78** offers a more upbeat atmosphere if you're in the mood to dance, but it maintains that local character—you'll dance alongside French university students and young professionals rather than tour groups.
 
-**Pro tip**: Evening hours here start later than you might expect. Dinner typically begins around 8 PM, and the nightlife doesn't really pick up until 10 PM. Embrace the French rhythm!
+## Accommodation: Where to Stay in Agen Avenue
 
-## Getting Around: Practical Tips for Your Visit
+### Elegance Meets Comfort
 
-### Transportation That Actually Works
-
-**Agen's public transportation** is surprisingly efficient for a mid-sized French town. The local bus system connects Agen Avenue to the train station and surrounding neighborhoods, with buses running every 15-20 minutes during peak hours. A day pass costs 3€ and covers all local routes.
-
-**Bike rental tip**: Several shops along the avenue offer bicycle rentals for 15-20€ per day. This is honestly the best way to explore—Agen is bike-friendly, and you can cover more ground while maintaining that leisurely pace that makes French towns so enjoyable.
-
-### Walking: The Best Way to Discover Hidden Gems
-
-**Walking remains the ultimate way** to experience Agen Avenue. The entire avenue spans about 1.2 kilometers, making it completely walkable in 15-20 minutes if you're in a hurry (but why would you be?).
-
-I discovered my favorite cafe simply by following an amazing coffee aroma down a side street. That's the magic of walking—you stumble upon experiences that no travel guide can capture.
-
-## Where to Stay: From Boutique Hotels to Budget Wins
-
-### Luxury Options That Justify the Price
-
-**Hotel de Luxe** (yes, that's actually its name) offers genuine four-star comfort with stunning avenue views from the upper floors. What sets it apart? The personal service—staff members remember your preferences and offer genuine local recommendations rather than generic tourist suggestions.
-
-Rooms start around 120€ per night, which is reasonable considering the location and service quality. The breakfast is worth the 18€ upgrade—fresh local pastries, regional cheeses, and coffee that rivals dedicated coffee shops.
+**Hotel de France** is the perfect blend of elegance and comfort. The rooms are spacious, the staff are incredibly helpful, and the location is unbeatable—right in the heart of Agen Avenue. Rooms start around 120€ per night, which is reasonable considering the location and service quality. The breakfast is worth the 18€ upgrade—fresh local pastries, regional cheeses, and coffee that rivals dedicated coffee shops.
 
 ### Budget-Friendly Gems
 
