@@ -4,7 +4,7 @@ date: "2024-01-16"
 tags: ["board games", "review", "sniper elite", "strategy games"]
 ---
 
-[![Sniper Elite Board Game](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}](https://geeknite.com/sniper-elite-board-game)
+[![Sniper Elite Board Game](https://i.imgur.com/3zHcfgxm.jpg){: style="float: right;"}]({{ site.constants.wsib }}sniper-elite-board-game)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ Each turn, the sniper moves stealthily across the board, using various actions t
 
 The game shines in its strategic depth. As the sniper, you must carefully plan your moves, utilize cover, and think several steps ahead to outwit the soldiers. For the soldier players, cooperation and deduction are key. You'll need to communicate effectively, share information, and anticipate the sniper's tactics to corner them successfully.
 
-![Sniper Elite Gameplay](https://i.imgur.com/6s4IJiPm.png){: style='float: right;'}
+![Sniper Elite Gameplay](https://i.imgur.com/6s4IJiPm.png){: style="float: right;"}
 
 ## The Experience
 
@@ -73,4 +73,4 @@ So, gather your friends, set up your sniper scope, and dive into the thrilling w
 
 {% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
-**Call to Action:** Don't miss out on the ultimate stealth board game experience! Click [here](https://geeknite.com/sniper-elite-board-game) to get your copy of Sniper Elite Board Game now and receive an exclusive discount! Happy gaming!
+**Call to Action:** Don't miss out on the ultimate stealth board game experience! Click [here]({{ site.constants.wsib }}sniper-elite-board-game) to get your copy of Sniper Elite Board Game now and receive an exclusive discount! Happy gaming!
