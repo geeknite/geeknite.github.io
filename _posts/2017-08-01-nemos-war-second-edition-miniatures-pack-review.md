@@ -65,8 +65,6 @@ The _Nemo's War: Second Edition - Miniatures Pack_ is a fantastic addition for f
 
 So what are you waiting for? Grab your copy of the _Nemo's War: Second Edition - Miniatures Pack_ and embark on an epic journey beneath the waves. **Set sail for adventure!**
 
-**Ready to dive in?** Click [here](https://example.com) to purchase your miniatures pack today and bring the world of Nemo's War to life. Happy sailing, and may your adventures be legendary!
-
 ---
 
 ### Other Nautical Adventures to Explore

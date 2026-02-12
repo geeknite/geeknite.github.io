@@ -85,22 +85,24 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
   [![Product Name](https://i.imgur.com/image_id.jpg){: .align-right}]({{ site.constants.wsib }}Product Name)
   ```
   - Image must be an existing product image from Amazon or other stores
-  - If no suitable image exists, use the fallback image: `/assets/images/general.jpg`
+  - If no suitable image exists, use the fallback image: `/assets/images/general.jpg` AND add a `hero_image` field in the frontmatter with a descriptive prompt for AI image generation (e.g., `hero_image: "A dramatic top-down view of a board game setup on a wooden table, warm lighting, photorealistic"`)  
   - Use imgur URLs for hosting: `https://i.imgur.com/xxxxx.jpg` (medium size, no 's' suffix)
   - **Note**: Uploading custom images to imgur requires user intervention (Copilot cannot upload images)
   - **CRITICAL**: Never invent imgur URLs - always verify the image exists by checking with `fetch_webpage` or using existing URLs from the blog
   - Always include `{: .align-right}` for proper text wrapping
   - Wrap in affiliate link using `{{ site.constants.wsib }}`
-- Intro paragraph establishing context
+- **Intro must frame a decision** — NOT "here are some great products", but "if you need X, here's what to buy". The user arrived with a problem; solve it immediately
 - H2 sections for major topics
 - H3 for product names/specific items - **link each product to `{{ site.constants.wsib }}`**
 - **Reference 3-5 related existing posts** throughout content using `{% post_url %}` tags
 - Add visual `{% include amazon.html %}` tables for featured products
 - Conclusion with related posts links
 - Related posts section at end (3-5 posts minimum) using `post_url` tags
+- for specific products you can use link to amazon.com or amazon.es with `{{ site.constants.amazon_com }}` or `{{ site.constants.amazon_es }}` 
 
 ### Tone & Style
 - **Professional and informative** — NO enthusiastic/casual tone
+- **Decision-focused, NOT recommendation-focused** — every post solves a specific user problem, never just lists "cool things"
 - Focus on solving specific user problems with clear decisions
 - Product comparisons and "vs" reviews frequent
 - Emoji use sparingly when appropriate (gaming: 🎮, tech: 📱💻, movies: 🎬, anime: 🎌)
@@ -154,7 +156,7 @@ User arrives with a specific question
 ### Content Quality & Rigor
 - **Fact-check all data**: Never invent specifications, prices, or product details
 - **Be rigorous**: Verify technical specs, release dates, and product features
-- **Long-form content**: Posts should aim for ~10k words minimum for comprehensive coverage
+- **Long-form content**: Posts must be substantially long (~500 lines minimum) with genuinely informative and useful content — not filler. Cover every relevant angle: specs, comparisons, use cases, pros/cons, alternatives, buying advice, and related context. A short post with superficial content does not meet quality standards.
 - If uncertain about a detail, research it or omit it rather than guessing
 - Use precise measurements, accurate model numbers, and verified information
 
@@ -174,10 +176,27 @@ Follow naming: `YYYY-MM-DD-descriptive-slug.md`
 ---
 title: "Your Title Here"
 date: "YYYY-MM-DD"
+last_modified_at: "YYYY-MM-DD"
 tags: [tag1, tag2, tag3]
 description: "Excerpt or summary of the post in the same language as the post."
+hero_image: "Prompt for AI image generation if no real image is available"
 ---
 ```
+- `last_modified_at` should always be set to the current date when creating or editing a post
+- `hero_image` is a text prompt for AI image generation, only used when no real product image (imgur/Amazon) exists
+
+### Top Posts Navigation
+When a post is comprehensive, high-quality, and likely to drive traffic, add it to `_data/navigation.yml` under `top-posts`:
+```yaml
+top-posts:
+  - title: "Top posts"
+    children:
+      - title: "Post Title"
+        url: /YYYY/MM/slug.html
+```
+- URL format follows the permalink pattern: `/:year/:month/:title.html`
+- Add posts after reviewing/improving them to ensure quality standards are met
+- Keep the list curated — only high-traffic or evergreen content
 
 
 ## Domain-Specific Notes
@@ -237,7 +256,18 @@ description: "Excerpt or summary of the post in the same language as the post."
 4. **Cycling/sports content**: Add redirect to bikinggeek.github.io, do not publish on GeekNite
 5. **Obsolete promotions**: Delete drafts about closed promotions, expired offers, or discontinued services
 6. **Convert HTML to Markdown**: Old Blogger imports are in HTML — convert to clean Markdown when publishing
-7. **Image check**: - If no specific image exists, generate a prompt for image generation and set it into the frontmatter in field `hero_image`
+7. **Image check**: If a real product image (imgur/Amazon) exists, use it as hero image. If not, use `/assets/images/general.jpg` as fallback AND add `hero_image` field in frontmatter with a descriptive AI image generation prompt
 8. **Quality check**: Ensure affiliate links, images, internal links and long content follow guidelines before publishing
+9. **Top posts**: If the post is comprehensive and evergreen, add it to `_data/navigation.yml` under `top-posts`
 
-
+### When reviewing existing published posts, follow this checklist:
+1. **Frontmatter**: Ensure `last_modified_at` is set to current date, `description` exists, and `tags` are relevant
+2. **Hero image**: Must exist with `{: .align-right}` and affiliate link wrapper. If using fallback image, add `hero_image` prompt in frontmatter
+3. **Tone**: Must be professional, decision-focused — rewrite casual/enthusiastic intros (no "Welcome!", "Hey gamers!", etc.)
+4. **Affiliate links**: ALL product mentions must link to `{{ site.constants.wsib }}` — add missing ones
+5. **Internal links**: Add 3-5 `post_url` references to related existing posts (verify each exists first)
+6. **Amazon product tables**: Add `{% include amazon.html %}` for major products with ASINs
+7. **Encoding**: Fix any broken characters (e.g., `Ã—` → `×`, `Ã©` → `é`)
+8. **Related posts section**: Must exist at end with 3-5 `post_url` links
+9. **Decision table**: Add summary table with affiliate links at the end if missing
+10. **Top posts**: If quality is high enough, add to `_data/navigation.yml` under `top-posts`

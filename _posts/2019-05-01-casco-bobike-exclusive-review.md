@@ -1,6 +1,6 @@
 ---
 title: "Casco Bobike Exclusive: The Ultimate Helmet Review"
-date: '2019-05-01'
+date: "2019-05-01"
 tags: [helmet, bobike, review, cycling gear, safety, funny]
 description: "A comprehensive and humorous review of the Casco Bobike Exclusive helmet. Discover its design, functionality, safety features, and why it's a must-have for cyclists."
 redirect_to: https://bikinggeek.github.io/2019/05/casco-bobike-exclusive-review

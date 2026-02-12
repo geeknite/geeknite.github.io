@@ -1,6 +1,6 @@
 ---
 title: "Vallejo Watercolor Yellow Set Review"
-date: '2019-03-01'
+date: "2019-03-01"
 tags: [Watercolor, Vallejo, Review, Art Supplies]
 description: "A deep dive into the Vallejo Watercolor Yellow Set. Is it worth the hype? Find out in this comprehensive review."
 ---

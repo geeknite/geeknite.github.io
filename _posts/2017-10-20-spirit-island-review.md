@@ -1,10 +1,10 @@
 ---
 title: "Spirit Island: Luchando contra los Invasores con Estrategias y Carcajadas"
-date: '2017-10-20'
-categories: ['board games', 'review', 'strategy', 'cooperative']
-tags: ['Spirit Island', 'board games', 'strategy', 'funny']
+date: "2017-10-20"
+categories: ["board games", "review", "strategy", "cooperative"]
+tags: ["Spirit Island", "board games", "strategy", "funny"]
 description: "Un análisis completo y divertido sobre Spirit Island, el juego cooperativo de estrategia que te hará luchar contra invasores mientras te ríes a carcajadas"
-last_modified_at: '2026-01-31T21:20:47.8230271Z'
+last_modified_at: "2026-01-31T21:20:47.8230271Z"
 ---
 
 ![Spirit Island](https://i.imgur.com/3zHcfgxm.jpg){: style="float: right;"}
@@ -20,6 +20,7 @@ Spirit Island es un juego cooperativo de estrategia publicado por Greater Than G
 ### Componentes
 
 El juego incluye:
+
 - **Tablero modular**: Representa la isla y se adapta según el número de jugadores.
 - **Cartas de espíritu**: Cada espíritu tiene su propio mazo con habilidades y poderes.
 - **Miniaturas de invasores**: Representan los colonizadores que intentan invadir y destruir la isla.
@@ -35,6 +36,7 @@ Cada jugador elige un espíritu y recibe su mazo de cartas de poder. Los invasor
 ### Turnos y Acciones
 
 Cada turno, los jugadores pueden:
+
 - **Jugar cartas**: Usar los poderes de su espíritu para causar daño o frustrar los planes de los invasores.
 - **Moverse**: Desplazar su presencia por la isla para maximizar su influencia.
 - **Interacciones de espíritu**: Trabajar con otros espíritus para crear estrategias combinadas.
