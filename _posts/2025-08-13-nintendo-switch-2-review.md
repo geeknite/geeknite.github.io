@@ -8,10 +8,10 @@ tags:
 - Console
 - Technology
 description: "Explore the Nintendo Switch 2: Is it the next level in gaming or just another console upgrade? Find out in our detailed review."
-last_modified_at: '2025-08-13T10:00:00+02:00'
+last_modified_at: '2026-02-15T11:02:08.8391711Z'
 ---
 
-![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}
+[![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
 
 ## Nintendo Switch 2: The Next Level in Gaming?
 
