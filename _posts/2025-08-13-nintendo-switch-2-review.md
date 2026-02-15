@@ -8,7 +8,7 @@ tags:
 - Console
 - Technology
 description: "Explore the Nintendo Switch 2: Is it the next level in gaming or just another console upgrade? Find out in our detailed review."
-last_modified_at: '2026-02-15T11:02:08.8391711Z'
+last_modified_at: '2025-08-13T10:00:00+02:00'
 ---
 
 [![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
@@ -60,8 +60,6 @@ The Switch 2 is not cheap. It's priced at $399, which is a bit steep for a conso
 ### Should You Buy It?
 
 The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability. If you love gaming on-the-go and can't resist Nintendo's exclusive titles, it's definitely worth considering. But if you're looking for a powerhouse console with the latest technology, you might want to look elsewhere.
-
-{% include amazon.html asin="B09XX5FVHJ" %}
 
 ### Conclusion
 
