@@ -1,5 +1,5 @@
 ---
-title: 'Agen Avenue Review: France Hidden Gem for Food & Shopping Enthusiasts'
+title: 'Agen Avenue Review: France Hidden Gem for Food & Shopping Enthusiasts' 
 date: '2023-07-12T10:00:00+02:00'
 last_modified_at: '2025-08-14T12:00:00+02:00'
 tags: [travel, reviews, France, Agen, shopping, dining, culture]
@@ -31,6 +31,8 @@ Let's talk about the **culinary scene**—it's seriously impressive. From cozy n
 If you're more of a "grab and go" person (like me when I'm exploring), the avenue's **street food scene** is where it really shines. The famous **Agen Prunes**—yes, prunes can be exciting when done right—are a local specialty that actually taste incredible when prepared fresh. Think sweet, caramelized, and nothing like the dried prunes you're imagining.
 
 **Boulangerie du Coin** serves what might be the best croissants outside of Paris. I'm not exaggerating—I went back three mornings in a row. Their pain au chocolat at 1.50€ is a steal compared to similar quality in major French cities.
+
+*Shopping tip*: Speaking of finding great deals while traveling, if you're planning a European food tour, check out our [guide to smart shopping on Amazon Spain]({%- post_url 2024-01-15-tips-for-shopping-on-amazon-spain-eng-edition -%}) for travel essentials and food storage accessories that'll help you bring home those local delicacies.
 
 ## Shopping Paradise: From Boutiques to Local Markets
 
