@@ -77,12 +77,6 @@ PitchCar takes the action off the board and onto a tabletop track, with players 
 
 **Expansion Alert:** The Extension 1 and 2 expansions add new track pieces and obstacles, making the game even more challenging. Can you master the new tracks?
 
-### NEW ENTRY: [Pit Card Game - Corner The Market Game]({{ site.constants.wsib }}pit-card-game)
-
-Pit is a fast-paced card game that's all about trading and cornering the market on commodities. Players frantically trade cards to collect a full set of one commodity, and the first to do so wins the round! It's chaotic, loud, and incredibly fun.
-
-**Fun Fact:** Pit was first released in 1904, making it a true classic. The game's longevity is a testament to its entertaining gameplay.
-
 ## Conclusion
 
 From the high-speed thrills of HEAT: Pedal to the Metal to the strategic depth of Flamme Rouge, these racing games offer something for everyone. Whether you're racing on a tabletop track or navigating treacherous rally courses, you're sure to find a game that suits your style and keeps you entertained. So gather your friends, grab some snacks, and dive into the world of board gaming. **Ready to start your board game adventure? Check out these games on [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames) and find the perfect addition to your collection today!**
