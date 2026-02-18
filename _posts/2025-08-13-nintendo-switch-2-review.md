@@ -59,7 +59,7 @@ The Switch 2 is not cheap. It's priced at $399, which is a bit steep for a conso
 
 ### Should You Buy It?
 
-The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability. If you love gaming on-the-go and can't resist Nintendo's exclusive titles, it's definitely worth considering. But if you're looking for a powerhouse console with the latest technology, you might want to look elsewhere.
+The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability.【4:0†source】
 
 ### Conclusion
 
