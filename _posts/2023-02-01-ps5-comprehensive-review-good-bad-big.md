@@ -1,30 +1,39 @@
 ---
 title: "The PS5: A Comprehensive Review of the Good, the Bad, and the Big"
 date: 2023-02-01 1:00:00 +0200
-tags: [gaming, PS5, review]
+tags: gaming PS5 review
 description: "Discover the hilarious and unfiltered side of the PS5 in this comprehensive review. Explore the good, the bad, and the big of this powerful gaming console, including its size, price, exclusive games, and DualSense controller. Get the inside scoop on what makes the PS5 a must-have for gamers."
 redirect_from:
     - /2023/01/ps5-comprehensive-review-good-bad-big.html
-excerpt: "A deep dive into the PS5: its strengths, flaws, quirks, and why it's still a game-changer."
 ---
-![big bulky ps5](https://i.imgur.com/hfOlYVsm.jpg){: style="float: right;"}
-The [PS5]({{ site.constants.wsib }}ps5) is the latest and greatest gaming console from Sony, and it's been making waves in the gaming world since its release. With its powerful hardware, lightning-fast load times, and beautiful graphics, it's easy to see why so many people are excited about the [PS5]({{ site.constants.wsib }}ps5). But let's be real, the [PS5]({{ site.constants.wsib }}ps5) is not without its flaws.
+
+[![big bulky ps5](https://i.imgur.com/hfOlYVsm.jpg){: style="float: right;"}]({{ site.constants.wsib }}ps5)
+The [PS5]({{ site.constants.wsib }}ps5) is the latest and greatest gaming console from Sony, and it's been making waves in the gaming world since its release. With its powerful hardware, lightning-fast load times, and beautiful graphics, it's easy to see why so many people are excited about the [PS5]({{ site.constants.wsib }}ps5). But let's be real, the [PS5]({{ site.constants.wsib }}ps5) is not without its flaws. Some years ago we compared the [PS4 with the Xbox One]({%- post_url 2013-07-15-ps4-vs-xbox-one-resumen-comparativa-definitiva-sorteo -%}) but now it's time for its successor.
 
 ## The Good
 
+Let's kick things off with the positives because, honestly, there's a lot to love about the PS5:
+
 ### Performance
 
-The PS5 boasts a custom AMD RDNA 2 GPU and Zen 2 CPU, making it a beast in terms of performance. Whether you're playing AAA titles or indie gems, the PS5 handles them with ease.
+The PS5 boasts a custom AMD RDNA 2 GPU and Zen 2 CPU, making it a beast in terms of performance. Whether you're playing AAA titles or indie gems, the PS5 handles them with ease. The new architecture allows for 4K gaming at up to 120 frames per second, and with ray tracing technology, your games will look more realistic than ever.
 
 ### DualSense Controller
 
-The DualSense controller is a game-changer. With haptic feedback and adaptive triggers, it offers an immersive experience that's hard to beat.
+The DualSense controller is a game-changer. With haptic feedback and adaptive triggers, it offers an immersive experience that's hard to beat. You can actually feel the difference between walking on sand and trudging through mud, making every game feel unique.
 
 ### Exclusive Titles
 
-Games like *Demon's Souls* and *Ratchet & Clank: Rift Apart* showcase the PS5's capabilities beautifully.
+Sony continues to deliver a strong lineup of exclusive titles for the PlayStation platform. Some of the most anticipated games for the PS5 include:
+
+- *Demon's Souls*
+- *Ratchet & Clank: Rift Apart*
+- *Returnal*
+- *Horizon Forbidden West*
 
 ## The Bad
+
+Now, onto the not-so-great aspects of the PS5. Because even the best things in life come with a few downsides:
 
 ### Size
 
@@ -32,34 +41,26 @@ The [PS5]({{ site.constants.wsib }}ps5) is big. Like, really big. It's so big th
 
 ### Price
 
-The PS5 is one of the most expensive consoles on the market. And with the ongoing scarcity, it's often resold at astronomically high prices.
+The [PS5]({{ site.constants.wsib }}ps5) is also quite expensive, with a price tag that makes it one of the most expensive gaming consoles on the market. And even with its high price, it's still in short supply, making it difficult for people to get their hands on one. This has led to scalping and reselling, which has only made the situation worse. It's like trying to buy a ticket to a Taylor Swift concert, but with less screaming and more grumpy gamers.
 
 ### Supply Issues
 
-Getting your hands on a PS5 feels like winning the lottery. The demand far outweighs the supply, leading to scalping and reselling at insane prices.
+Getting your hands on a PS5 feels like winning the lottery. The demand far outweighs the supply, leading to scalping and reselling at insane prices. It's a real struggle, and the frustration levels are as high as a cat stuck in a tree.
 
-## The Quirks
+## The Ugly
 
-### The Big Reveal
+### DualSense Controller
 
-Unboxing a PS5 feels like unearthing a relic from a bygone era. The packaging is so grand, you'd think you were unboxing the Ark of the Covenant.
+On the one hand, it's a great feature, offering haptic feedback and adaptive triggers that make the gaming experience more immersive. On the other hand, the haptic feedback can be a little over-the-top, making even the simplest of actions feel like you're experiencing an earthquake. And the adaptive triggers? They might make your thumbs tired. [Remember that we also loved the Xbox controller]({%- post_url 2014-05-24-best-controller-pc-xbox-360 -%}).
 
-### The UI Jungle
+### Exclusive Games
 
-Navigating the PS5's user interface can feel like a quest in itself. It's sleek, but sometimes you need a map and a compass to find what you're looking for.
+Some are truly stunning, offering incredible graphics and gameplay, but others are a little underwhelming, especially given the high price of the console. It's like ordering a fancy meal at a restaurant and getting a side salad instead.
 
-### The Update Marathon
+## In Conclusion
 
-Be prepared for a marathon of updates. Every time you turn on your PS5, there's a new update waiting. Grab some popcorn – it's going to be a long ride.
+The [PS5]({{ site.constants.wsib }}ps5) is a powerful and innovative gaming console, but it's not without its flaws. It's big, heavy, expensive, and difficult to find. But despite all of this, the [PS5]({{ site.constants.wsib }}ps5) is still a great piece of hardware that offers an incredible gaming experience. So, if you're in the market for a new gaming console, just remember: size matters, the DualSense controller can be a little too much, and the price might make you cry. But hey, at least you'll have some sweet graphics to look at while you're playing games.
 
-### Heat Management
+Thank you for reading this entertaining and informative review of the PS5. We hope it has provided you with a deeper understanding of what makes this gaming console so special. Until next time, farewell and happy gaming!
 
-The PS5 gets warm enough to toast bread. Make sure it's well-ventilated, or you might end up with a very expensive heater.
-
-## Conclusion
-
-Despite its quirks and high price, the PS5 is a stellar console that delivers an unmatched gaming experience. If you can find one at a reasonable price, it's worth the investment.
-
-**Ready to buy a PS5? Check out the latest deals [here]({{ site.constants.wsib }}ps5). Happy gaming!**
-
-Stay tuned for more reviews and gaming news from your favorite geeks at Geeknite! 🚀
+**Ready to upgrade your gaming setup? [Find the best prices for the PS5 now]({{ site.constants.wsib }}ps5)!**
