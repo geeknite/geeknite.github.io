@@ -6,15 +6,16 @@ locale                   : "en-US"
 title                    : "GeekNite"
 email                    : geeknit@outlook.com
 title_separator          : "-"
-subtitle                 : 
+subtitle                 : "Reviews, guides and opinions on video games, gadgets, board games and geek culture"
 name                     : # &name "XOCMetal" # &name is a YAML anchor which can be *referenced later
-description              : &description "Get unbiased and informative reviews and opinions on the latest products, services, and trends."
+description              : &description "Unbiased reviews and buying guides on video games, gadgets, board games, anime and geek culture. Make better decisions before you buy."
 url                      : "https://blog.geeknite.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/general.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://i.imgur.com/adqLAXxm.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "GeekNite" # overrides the website title displayed in the masthead, use " " for no title
+og_image                 : "/assets/images/general.jpg" # Open Graph/Twitter default site image
 breadcrumbs              : true # true, false (default)
 paginate                 : 10
 words_per_minute         : 200

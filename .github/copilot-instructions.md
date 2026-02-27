@@ -9,8 +9,8 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 
 ### Content Structure
 - **Posts**: `_posts/YYYY-MM-DD-title.md` with YAML frontmatter (title, date, tags)
-- **Multilingual**: Content in both English and Spanish (Castellano/Catalan)
-- **Cross-linking**: Heavy use of Jekyll's `{% post_url %}` tag for internal references
+- **Multilingual**: Content in both English and Spanish (Castellano)
+- **Cross-linking**: Heavy use of Jekyll's `{% post_url %}` tag for internal references (2-3 minimum per post)
 - **Affiliate Focus**: Product reviews with Amazon affiliate links via `site.constants.wsib` and regional Amazon tags
 
 ### Custom Theme & Configuration
@@ -18,6 +18,7 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 - Configuration: `_config.yml` defines critical constants for Amazon affiliate tags (amazon_es, amazon_com, etc.)
 - Timezone: `Europe/Madrid`
 - Permalinks: `/:year/:month/:title:output_ext`
+- All posts auto-configured with: TOC, sticky TOC, author profile, sidebar nav "top-posts"
 
 ### Amazon Affiliate Integration
 **Critical**: All product mentions must link to `{{ site.constants.wsib }}` - MAXIMIZE affiliate linking throughout content. Posts should use standardized multi-region Amazon product tables via `_includes/amazon.html` component showing the same ASIN across 6 Amazon regions (US, UK, DE, ES, FR, IT) with corresponding affiliate tags from `_config.yml`.
@@ -25,7 +26,7 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 **Product Linking Strategy:**
 - Link EVERY product mention (consoles, games, gadgets, books, movies, fashion items) to `{{ site.constants.wsib }}`
 - Use inline text links: `[PlayStation 5]({{ site.constants.wsib }}playstation 5)`
-- Add product tables with images for major products: `{% include amazon.html asin="B0C4KLCD4D" imageUrl="https://m.media-amazon.com/images/I/..." %}`
+- Add product tables with images for major products: `{% include amazon.html asin="B0C4KLCD4D" title="Product Name" imageUrl="https://m.media-amazon.com/images/I/..." %}` — always include `title` for proper alt text and SEO
 - Images must use existing Amazon product images with affiliate links
 - Prioritize visual product tables over plain text links when possible
 
@@ -84,20 +85,20 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
   ```markdown
   [![Product Name](https://i.imgur.com/image_id.jpg){: .align-right}]({{ site.constants.wsib }}Product Name)
   ```
-  - Image must be an existing product image from Amazon or other stores
-  - If no suitable image exists, use the fallback image: `/assets/images/general.jpg` AND add a `hero_image` field in the frontmatter with a descriptive prompt for AI image generation (e.g., `hero_image: "A dramatic top-down view of a board game setup on a wooden table, warm lighting, photorealistic"`)  
-  - Use imgur URLs for hosting: `https://i.imgur.com/xxxxx.jpg` (medium size, no 's' suffix)
+  - Image must be an existing product image from Amazon, manufacturer sites, or other stores
+  - If no suitable image exists, you MUST find or use the fallback image: `/assets/images/general.jpg` AND add a `hero_image` field in the frontmatter with a descriptive prompt for AI image generation (e.g., `hero_image: "A dramatic top-down view of a board game setup on a wooden table, warm lighting, photorealistic"`)  
+  - Use Imgur URLs for hosting: `https://i.imgur.com/xxxxxm.jpg` (medium size with `m` suffix)
   - **Note**: Uploading custom images to imgur requires user intervention (Copilot cannot upload images)
   - **CRITICAL**: Never invent imgur URLs - always verify the image exists by checking with `fetch_webpage` or using existing URLs from the blog
-  - Always include `{: .align-right}` for proper text wrapping
+  - Always include `{: .align-right}` for proper text wrapping alongside content
   - Wrap in affiliate link using `{{ site.constants.wsib }}`
 - **Intro must frame a decision** — NOT "here are some great products", but "if you need X, here's what to buy". The user arrived with a problem; solve it immediately
 - H2 sections for major topics
 - H3 for product names/specific items - **link each product to `{{ site.constants.wsib }}`**
 - **Reference 3-5 related existing posts** throughout content using `{% post_url %}` tags
-- Add visual `{% include amazon.html %}` tables for featured products
+- Add visual `{% include amazon.html %}` tables for featured products with ASINs
 - Conclusion with related posts links
-- Related posts section at end (3-5 posts minimum) using `post_url` tags
+- Related posts section (3-5 posts minimum) using `post_url` tags
 - for specific products you can use link to amazon.com or amazon.es with `{{ site.constants.amazon_com }}` or `{{ site.constants.amazon_es }}` 
 
 ### Tone & Style
@@ -105,7 +106,7 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 - **Decision-focused, NOT recommendation-focused** — every post solves a specific user problem, never just lists "cool things"
 - Focus on solving specific user problems with clear decisions
 - Product comparisons and "vs" reviews frequent
-- Emoji use sparingly when appropriate (gaming: 🎮, tech: 📱💻, movies: 🎬, anime: 🎌)
+- Emoji use sparingly when appropriate (gaming: ?, tech: ??, movies: ?, anime: ?)
 
 ### Monetization-First Content Strategy
 
@@ -164,9 +165,9 @@ User arrives with a specific question
 
 ### Updating Product Links
 When a post becomes outdated, create a new post and update ALL references:
-```bash
-# Find all references to old post
-grep -r "2023-07-04-prime-day-bike-gadgets" _posts/
+```powershell
+# Find all references to old post in PowerShell
+Select-String -Path "_posts\*.md" -Pattern "2023-07-04-prime-day-bike-gadgets"
 ```
 Then replace with new `post_url` tag across affected files.
 
@@ -178,7 +179,8 @@ title: "Your Title Here"
 date: "YYYY-MM-DD"
 last_modified_at: "YYYY-MM-DD"
 tags: [tag1, tag2, tag3]
-description: "Excerpt or summary of the post in the same language as the post."
+description: "SEO-optimized 150-160 char description in post language"
+excerpt: "Social sharing excerpt"
 hero_image: "Prompt for AI image generation if no real image is available"
 ---
 ```
