@@ -88,7 +88,7 @@ This guide covers the complete D-Day gaming ecosystem with fact-checked historic
 
 [**D-Day Dice**]({{ site.constants.wsib }}D-Day Dice board game) is a **cooperative dice-rolling game** where 1-4 players work together as Allied forces storming the beaches of Normandy. Players roll dice to gather resources, recruit specialist units, and overcome increasingly difficult obstacles represented by sector cards.
 
-{% include amazon.html asin="B07GX1FQTW" imageUrl="https://m.media-amazon.com/images/I/81c0VJb5GPL._AC_SL1500_.jpg" %}
+{% include amazon.html asin="B07GX1FQTW" title="D-Day Dice Board Game" imageUrl="https://m.media-amazon.com/images/I/81c0VJb5GPL._AC_SL1500_.jpg" %}
 
 **Core Mechanics:**
 
@@ -296,7 +296,7 @@ We covered this expansion in detail in our [D-Day Dice Muralla Atlántica review
 
 [**D-Day at Iwo Jima**]({{ site.constants.wsib }}D-Day at Iwo Jima board game) is a **hex-and-counter wargame** simulating the entire Battle of Iwo Jima (February-March 1945). Unlike the dice-focused D-Day Dice, this game emphasizes **historical accuracy, strategic planning, and realistic combat resolution**. For more on this battle's gaming history, see our [Battle of Iwo Jima complete guide]({%- post_url 2019-04-09-battle-of-iwo-jima-complete-guide -%}) and the [GI Joe Iwo Jima review]({%- post_url 2009-10-15-gi-joe-iwo-jima-review -%}).
 
-{% include amazon.html asin="B001LQZOUI" imageUrl="https://m.media-amazon.com/images/I/91xE2xJoTkL._AC_SL1500_.jpg" %}
+{% include amazon.html asin="B001LQZOUI" title="D-Day at Iwo Jima Board Game" imageUrl="https://m.media-amazon.com/images/I/91xE2xJoTkL._AC_SL1500_.jpg" %}
 
 **Publisher Information (Fact-Checked):**
 
@@ -814,7 +814,7 @@ We covered this expansion in detail in our [D-Day Dice Muralla Atlántica review
 
 - **Purpose:** Protect table, designate play area
 - **Material:** Neoprene, stitched edges
-- **Size:** 24" Ã— 36" or larger
+- **Size:** 24" × 36" or larger
 - **Cost:** $20-40
 - **Benefit:** Professional appearance, surface protection
 

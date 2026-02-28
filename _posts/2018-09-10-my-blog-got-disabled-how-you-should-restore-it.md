@@ -7,7 +7,8 @@ tags:
 - blogger
 - google
 - development
-last_modified_at: '2023-07-24T00:00:00+02:00'
+description: "Step-by-step guide to restore a Blogger blog disabled for spam. How to appeal, what to fix, and how to get your content back online."
+last_modified_at: '2026-02-28'
 ---
 
 <a href='{{ site.constants.wsib }}spam'><img style="float: right;" src="https://i.imgur.com/uPjzkRU.jpg"></a>
