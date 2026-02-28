@@ -106,7 +106,7 @@ GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, an
 - **Decision-focused, NOT recommendation-focused** — every post solves a specific user problem, never just lists "cool things"
 - Focus on solving specific user problems with clear decisions
 - Product comparisons and "vs" reviews frequent
-- Emoji use sparingly when appropriate (gaming: ?, tech: ??, movies: ?, anime: ?)
+- Emoji use sparingly when appropriate
 
 ### Monetization-First Content Strategy
 
@@ -187,6 +187,33 @@ hero_image: "Prompt for AI image generation if no real image is available"
 - `last_modified_at` should always be set to the current date when creating or editing a post
 - `hero_image` is a text prompt for AI image generation, only used when no real product image (imgur/Amazon) exists
 
+### Hero Image Prompt Guidelines
+When no real product photo is available, add `hero_image` in frontmatter with a prompt the user can feed into an AI image generator (Midjourney, DALL-E, etc.). The goal is a visually striking, blog-ready image.
+
+**Prompt structure:**
+```
+hero_image: "[Subject], [composition/angle], [setting/background], [lighting], [style], no text, no logos, no watermarks"
+```
+
+**Rules:**
+- **Always end with** `no text, no logos, no watermarks` — AI generators frequently add gibberish text otherwise
+- **Style must be** `photorealistic` or `editorial photography` for product/tech posts; `digital illustration` or `cinematic` for games/anime/entertainment
+- **Aspect ratio**: mention `16:9 landscape` to match blog hero layout
+- **Never mention brand names or trademarks** in the prompt — describe the product generically (e.g., "a gaming console with a white curved design" not "PlayStation 5")
+- **Be specific about composition**: top-down, close-up, 3/4 angle, eye-level, etc.
+- **Include environment context**: desk setup, living room, hands holding device, game table, etc.
+
+**Examples by category:**
+
+| Category | Prompt |
+|----------|--------|
+| Gadget review | `hero_image: "A sleek wireless gaming headset on a dark desk with RGB keyboard in background, 3/4 angle, dramatic rim lighting, photorealistic, 16:9 landscape, no text, no logos, no watermarks"` |
+| Board game | `hero_image: "Top-down view of a WWII strategy board game mid-play on a wooden table, miniatures and dice visible, warm ambient lighting, photorealistic, 16:9 landscape, no text, no logos, no watermarks"` |
+| Video game | `hero_image: "A gamer's hands on a controller with a blurred RPG game scene on a large TV in background, moody blue lighting, editorial photography, 16:9 landscape, no text, no logos, no watermarks"` |
+| Anime/movies | `hero_image: "A collection of anime Blu-ray cases arranged on a shelf with soft bokeh lighting, close-up, cinematic color grading, 16:9 landscape, no text, no logos, no watermarks"` |
+| Comparison post | `hero_image: "Two gaming consoles facing each other on a clean white surface, symmetrical composition, studio lighting, photorealistic product shot, 16:9 landscape, no text, no logos, no watermarks"` |
+| Shopping guide | `hero_image: "An open shipping box with various tech gadgets spilling out on a table, overhead shot, bright natural lighting, editorial photography, 16:9 landscape, no text, no logos, no watermarks"` |
+
 ### Top Posts Navigation
 When a post is comprehensive, high-quality, and likely to drive traffic, add it to `_data/navigation.yml` under `top-posts`:
 ```yaml
@@ -208,7 +235,7 @@ top-posts:
 - Game reviews across all platforms
 - Gaming accessories and peripherals
 - **Link every game/console mention to `{{ site.constants.wsib }}`**
-- **Links to amazon should use tags defined in site.constants
+- **Links to amazon should use tags defined in site.constants**
   - amazon_es: "kcl-21"
   - amazon_com: "vp04a-20"
   - amazon_it: "gkx09-21"
@@ -239,12 +266,90 @@ top-posts:
 - References to "Wishlist Manager" tool for price tracking
 - Prime Day and seasonal shopping guides
 
+## SEO Best Practices
+
+### Frontmatter for SEO
+Every post **must** have these frontmatter fields optimized:
+```yaml
+---
+title: "Keyword-rich title framed as a question or decision (50-60 chars)"
+description: "Unique meta description in the post's language (150-160 chars). Must include primary keyword and a call to action."
+tags: [primary-keyword, secondary-keyword, category]
+last_modified_at: "YYYY-MM-DD"
+---
+```
+- **`description`** is critical — it appears in Google SERPs as the snippet and in `archive-single.html` excerpts. Without it, Google auto-generates one (often poorly)
+- **`title`** should contain the primary keyword near the beginning
+- **`last_modified_at`** signals freshness to search engines — always update when editing a post
+
+### Structured Data & Open Graph
+- The theme auto-generates `schema.org/CreativeWork` markup from frontmatter
+- `og_image` defaults to `/assets/images/general.jpg` if no post-specific image is set
+- Posts with `header.image` or `header.overlay_image` in frontmatter will use that for OG instead
+- Social profiles in `_config.yml` (`social.links`) feed into `sameAs` structured data — keep them accurate
+
+### Link Attributes
+- **Affiliate links** must use `rel="nofollow sponsored"` — Google requires `sponsored` for paid/affiliate links since 2019. Using only `nofollow` risks link scheme penalties
+- The `amazon.html` include already adds `rel="nofollow sponsored"` automatically
+- **Internal links** (post_url) should NOT have `rel="nofollow"` — internal links pass PageRank and help site structure
+- **External editorial links** (references, sources) should use default `rel` (no nofollow) unless the source is untrusted
+
+### Title & Heading Strategy
+- **H1**: Handled by the `title` frontmatter (one per page, automatic)
+- **H2**: Major topic sections — include secondary keywords naturally
+- **H3**: Product names, sub-comparisons — link each to `{{ site.constants.wsib }}`
+- Never skip heading levels (e.g., H2 → H4)
+- Use descriptive headings that match search intent, not generic ones like "Introduction" or "Conclusion"
+
+### URL & Content SEO
+- Permalink structure `/:year/:month/:title.html` is already SEO-friendly
+- Slugs should be short, keyword-rich, lowercase, hyphens only
+- Avoid changing slugs of published posts — breaks backlinks and indexed URLs
+- If a slug must change, use `jekyll-redirect-from` plugin to add a 301 redirect
+- `robots.txt` exists at root with sitemap reference; `jekyll-sitemap` auto-generates `sitemap.xml`
+
+### Image SEO
+- All images must have descriptive `alt` text — not "image" or "photo" but what the image shows
+- The `amazon.html` include accepts a `title` parameter for proper alt: `{% include amazon.html asin="..." title="Intel Core i5-14400F" imageUrl="..." %}`
+- Hero images should include the product name in alt text
+- Use Imgur `m` suffix for medium size to balance quality vs load time
+
+## Performance & Client-Side Optimization
+
+### Third-Party Scripts
+The site loads several third-party scripts. Current optimization:
+- **Google AdSense**: `async` in `<head>` — required by Google, cannot be deferred further
+- **Amazon OneLink**: `defer` in `<head>` — delays execution until DOM is parsed, does not block render
+- **Preconnect hints** in `head/custom.html` for: `pagead2.googlesyndication.com`, `googleads.g.doubleclick.net`, `i.imgur.com`, `m.media-amazon.com`
+- **DNS prefetch** for: `one-link.amazon.com`, `googletagmanager.com`
+
+**Rules for adding new scripts:**
+- Never add `<script>` without `async` or `defer` in `<head>`
+- Prefer `defer` over `async` unless the script must execute before DOM parse
+- Add `preconnect` for any new third-party domain that serves critical resources
+- Add `dns-prefetch` for third-party domains used occasionally
+
+### Image Optimization
+- **`loading="lazy"`** is mandatory on all images below the fold (amazon tables, inline product images, archive teasers)
+- **Do NOT lazy-load** the hero image (first visible image) — it should load immediately for LCP
+- Always declare `width` and `height` attributes to prevent Cumulative Layout Shift (CLS)
+- The `amazon.html` include already adds `loading="lazy" width="120" height="120"` to all product images
+
+### Search
+- **Search provider is Algolia** (not Lunr) — Algolia queries remotely, avoiding downloading the entire search index (~300-500KB for 200+ posts) to the client
+- After adding/editing posts, the Algolia index should be updated: `bundle exec jekyll algolia push`
+
+### Build Performance
+- `compress_html` is enabled in production (clippings: all) — minimizes HTML output
+- Sass output style is `compressed` — minimizes CSS
+- `archive-single.html` uses `post.description` (frontmatter) for excerpts instead of processing `post.content` — significantly faster for 200+ posts
+
 ## Pitfalls to Avoid
 1. **Never** use file extensions in `post_url` tags
 2. **Always** check `_config.yml` constants before hardcoding affiliate links
 3. **Remember** to update date in frontmatter when creating posts
 4. When linking to posts, verify the exact filename (dates matter!)
-5. Imgur image URLs should use the `/...s.jpg` (small) or full size format consistently
+5. Imgur image URLs should use the `m` suffix for medium size consistently (e.g., `https://i.imgur.com/xxxxxm.jpg`)
 6. Always keep UTF-8 encoding for special characters (é, ñ, ü, etc.)
 7. **Never** write generic recommendation posts — always frame content as decision resolution
 8. **Avoid** long introductions — get to the decision point fast
@@ -253,7 +358,7 @@ top-posts:
 
 ### When reviewing newly created _posts from current or last month and without date in the filename (considered drafts even they are not in the _drafts/), follow this checklist:
 1. **Check for duplicates**: Search `_posts/` for similar content before publishing, specially if too brief content
-2. **Date assignment**: If no date exists, use approximate release date of main product/topic (never beyond actual release) and set `last_modified_at` to current date. nomes hi hauria d'haver un post per dia sino solen ser duplicats
+2. **Date assignment**: If no date exists, use approximate release date of main product/topic (never beyond actual release) and set `last_modified_at` to current date. There should only be one post per day — duplicates on the same date usually indicate redundant content
 3. **Merge or delete**: If a published post covers the same topic, merge useful content or delete the draft
 4. **Cycling/sports content**: Add redirect to bikinggeek.github.io, do not publish on GeekNite
 5. **Obsolete promotions**: Delete drafts about closed promotions, expired offers, or discontinued services
