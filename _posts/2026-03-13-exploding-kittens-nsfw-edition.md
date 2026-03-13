@@ -6,11 +6,11 @@ tags: [board-games, party-games, NSFW, humor, review]
 
 ![Exploding Kittens NSFW Edition]({{ '/assets/images/exploding-kittens-nsfw.jpg' | relative_url }})
 
-If you thought Exploding Kittens was chaos incarnate, the NSFW Edition comes strolling in like a sequined demolition crew armed with punny grenades and a sarcastic somersault. Welcome back to Geeknite, where we take cardboard very seriously and jokes that would get a parent-teacher conference out of a chair. This is the expanded deep-dish version of our earlier thoughts, with more macros, more mischief, and a full accountant’s audit of how chaotic a card game can actually be when everyone agrees to pretend there are no boundaries—until someone casually reminds you there totally are boundaries. Spoiler: there are boundaries, but we keep them flexible like a good meme.
+If you thought Exploding Kittens was chaos incarnate, the NSFW Edition strolls in like a sequined demolition crew armed with punny grenades and a sarcastic somersault. Welcome back to Geeknite, where we treat cardboard like a noble weapon and jokes that would trigger a parent-teacher conference are par for the course. This is the expanded deep-dish version of our earlier thoughts, with more macros, more mischief, and a full accountant’s audit of how chaotic a card game can actually be when everyone agrees to pretend there are no boundaries—until someone casually reminds you there totally are boundaries. Spoiler: there are boundaries, but we keep them flexible like a good meme.
 
-## What this edition is and who it’s for (revisited)
+## What this edition is for (revisited and clarified)
 
-Exploding Kittens NSFW Edition is a cheeky offshoot of the base game that leans into adult humor, sharper pop culture references, and a touch more shock value without losing the core chaos that made the original so beloved. The mechanics remain: you draw cards, you play action cards, and you try not to blow up. The twist is in the flavor, the character design, and a set of card types that revel in the kind of humor you wish you could pitch to your own DM but never dare to in a grown-up circle.
+Exploding Kittens NSFW Edition is a cheeky offshoot of the base game that leans into adult humor, sharper pop culture references, and a touch more shock value without losing the core chaos that made the original so beloved. The mechanics remain delightfully simple: you draw cards, you play action cards, you try not to blow up. The twist is in the flavor, the character design, and a set of card types that revel in the kind of humor you wish you could pitch to your own DM but never dare to in a grown-up circle.
 
 If your circle thrives on late-night memes, inside jokes about pop culture faux pas, and the kind of playful adult banter that makes you blush and snort at the same time, this edition is a match made in a neon-lit arcade. If you’re the moral compass of your group—if a single risqué pun feels like a personal attack—this edition might not be your vibe. The NSFW edition is best enjoyed by groups that have discussed boundaries, consent, and a shared tolerance for cringe-worthy humor. In Geeknite terms, it’s the side quest you start before realizing it’s the main plot, and you totally want it to keep going.
 
@@ -18,7 +18,7 @@ For context, the NSFW Edition builds on the same chaotic core as the classic Exp
 
 ## Inside the box: components, art direction, and a little bit of mischief
 
-The NSFW Edition keeps the familiar deck layout from the base game, but the art direction is where the mischief lives. The cards feature bolder color blocking, cheekier illustrations, and a few nods to internet humor that feels familiar to anyone who spends way too much time doomscrolling memes at 2 am. Packaging exudes a cheeky confidence that says this bundle is here to disrupt your evening routine—and possibly your sense of decorum.
+The NSFW Edition keeps the familiar deck layout from the base game, but the art direction is where the mischief lives. The cards feature bolder color blocking, cheekier illustrations, and a few nods to internet humor that feels familiar to anyone who doomscrolls memes at 2 am. Packaging exudes a cheeky confidence that says this bundle is here to disrupt your evening routine—and possibly your sense of decorum.
 
 What you actually get:
 
@@ -31,6 +31,10 @@ What you actually get:
 The art team nails the vibe without leaning into crude exploitation. It stays within the lines of playful adult content, delivering a wink rather than a cringe. If you care about aesthetics, the NSFW edition still looks like a modern, compact party game rather than a throwback meme generator. Aesthetics matter when you want people to actually display the box on a coffee table instead of sliding it under the couch after a controversial round.
 
 For the card lovers among us, you’ll notice a few placeholders and fresh card types that lean into adult humor without crossing into cringe. The balance is intentional: it’s enough spicy to provoke laughs and daring to provoke a few gasps, but not so explicit that you need a secret password to participate.
+
+### A note on components and quality
+
+The components feel sturdy enough for repeated rounds and accidental swords-of-chaos moments (read: someone whipping a Defuse card out with theatrical flair). The card stock is thick, shuffles nicely, and the art direction maintains legibility—important when you’re juggling three things at once: timing, bluffing, and not spilling your beverage. In Geeknite terms, the NSFW edition is the kind of box you want on your shelf for vibe alone, with gameplay as a very close second.
 
 ## How to play: a more generous quick-start guide for chaotic nights
 
@@ -81,7 +85,7 @@ This edition tends to shine in three core scenarios:
 - A group that gravitates toward quick rounds, high energy, and social banter that escalates without crossing lines.
 - A mixed group that includes players who enjoy strategy but crave a heavier dose of social chaos.
 
-If you are hosting a blend of geecoders, artists, and folks just starting out, NSFW can be a fantastic experiment. The key is to read the room, establish a soft boundary, and remember that laughter is a social lubricant that often smooths over awkward moments better than the best apology could.
+If you are hosting a blend of geeks, artists, and folks just starting out, NSFW can be a fantastic experiment. The key is to read the room, establish a soft boundary, and remember that laughter is a social lubricant that often smooths over awkward moments better than the best apology could.
 
 ## How it compares to the standard edition and other chaos games
 
