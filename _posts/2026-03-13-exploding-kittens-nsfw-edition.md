@@ -1,5 +1,5 @@
 ---
-title: 'Exploding Kittens NSFW Edition: A Geeknite Review (Expanded)'
+title: 'Exploding Kittens NSFW Edition: A Geeknite Expanded Review'
 date: 2026-03-13
 tags: [board-games, party-games, NSFW, humor, review]
 ---
@@ -40,7 +40,7 @@ The components feel sturdy enough for repeated rounds and accidental swords-of-c
 
 If you already know Exploding Kittens, NSFW Edition is a familiar dance with a more provocative remix. If you are new to the concept, fear not; this guide will walk you through a standard round while leaving room for your crew to improvise.
 
-1) Setup: shuffle the deck, deal a handful of Defuse cards to each player, and place the remaining deck in the center. The kit is ready when you feel your confidence surge and your brain start calculating probabilities that involve cats, memes, and mild subversions of etiquette. If you want to speed things up, set a “soft start” rule where players only draw two cards on their first turn.
+1) Setup: shuffle the deck, deal a handful of Defuse cards to each player, and place the remaining deck in the center. The kit is ready when you feel your confidence surge and your brain start calculating probabilities that involve cats, memes, and mild subversions of etiquette. If you want to speed things up, set a soft start rule where players only draw two cards on their first turn.
 2) Turn flow: on your turn, you draw a card, then you may play any number of action cards to manipulate the board state. The aim is to avoid drawing an Exploding Kitten unless you have a Defuse card to mitigate the explosion. The Defuse cards are your lifeline—use them sparingly and with dramatic flair.
 3) Exploding Kittens: if you draw one and can’t Defuse it, you’re out. The last player standing claims victory and the glory of surviving a whirlwind of risqué chaos.
 4) Endgame: the game ends when a single player remains, or when the table collectively agrees to call it a night and switch to something closer to a restful strategy game. The choice is yours, and in practice it’s often a blend of big plays and bigger blunders.
@@ -123,7 +123,7 @@ For more on balancing tone during adult party games, we have a guide on maintain
 This is where the real house rules come in. Treat the NSFW edition like a spicy dish: tolerate a little heat, but know your diners. A few quick guidelines can save a lot of drama:
 - Pre-agree on content boundaries and opt-out options for players who want to skip certain cards.
 - Use a tone monitor: if someone looks uncomfortable, switch modes or pause to recalibrate.
-- Consider a “cool-down” round with light, non-explicit cards to allow the table to reset.
+- Consider a cool-down round with light, non-explicit cards to allow the table to reset.
 
 ## Final verdict from Geeknite (revisited)
 
