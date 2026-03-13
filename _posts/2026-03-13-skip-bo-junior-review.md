@@ -1,7 +1,7 @@
 ---
-title: Skip-Bo Junior: The Kid-Friendly Countdown Card Game (Expanded)
+title: Skip-Bo Junior: Expanded Review for Geeknite
 date: 2026-03-13
-tags: [board-games, reviews, kids, family-games, card-games, Skip-Bo, family-night, playtesting]
+tags: [board-games, reviews, kids, family-games, card-games, Skip-Bo, family-night, playtesting, expanded]
 ---
 
 ## Overview
@@ -32,7 +32,7 @@ We’ll give you enough to get started without requiring a full rulebook excavat
 - The fast-paced energy comes from juggling multiple piles, planning ahead, and making satisfying play combos with wilds. Pro tip: a well-placed 1 can unlock a cascade that feels like you hacked the matrix—complete with confetti and a chorus of triumphant giggles.
 
 ### Objective
-- Be the first to clear your stock pile by building the center piles in ascending order. It’s brisk, addictive, and somehow more satisfying than striking out on three emails at once on a busy day.
+- Be the first to clear your stock pile by building the center piles in ascending order. It’s brisk, addictive, and somehow more satisfying than decluttering a closet you’ve avoided for three years.
 
 ![Artwork and design]( {{ site.baseurl }}/assets/images/skipbo-junior-artwork.jpg )
 
@@ -78,7 +78,7 @@ Skip-Bo Junior is designed for a younger crowd, but how does it measure up again
 - Against modern “lightweight” games like Sushi Go! or Qwirkle: Junior is easier to teach and quicker to play, but over time you may crave more variety in mechanics. It’s a palate cleanser between weightier strategy meals—a perfect energizer for family game nights without the “game-ology” homework afterward.
 
 ### Post_url links to related topics
-For more context, see our classic Skip-Bo review in our {% post_url 2025-05-18-skip-bo-classic-review %} post. Also check the quick-reference on our {% post_url 2024-07-04-top-family-games %} guide to family games. If you’re hungry for a comparison with Uno, we’ve covered that in our older notes as well: {% post_url 2023-11-12-uno-family-game-faceoff %}.
+For more context, see our classic Skip-Bo review in {% post_url 2025-05-18-skip-bo-classic-review %} post. Also check the quick-reference on our {% post_url 2024-07-04-top-family-games %} guide to family games. If you’re hungry for a comparison with Uno, we’ve covered that in our older notes as well: {% post_url 2023-11-12-uno-family-game-faceoff %}.
 
 ## Round Variations and House Rules
 Every table has its own flavor. Here are a few light adjustments you can try to tailor the experience and squeeze out a few extra giggles from each session:
