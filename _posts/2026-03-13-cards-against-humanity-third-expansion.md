@@ -1,14 +1,14 @@
 ---
-title: 'Cards Against Humanity: Third Expansion — A Deep Dive into the Grim but Hilarious'
+ttitle: 'Cards Against Humanity: Third Expansion — A Deep Dive into the Grim but Hilarious (Geeknite 2k Review)'
 date: 2026-03-13
-tags: [games, card-games, humor, reviews, cah]
+tags: [games, card-games, humor, reviews, cah, party-games, expansions]
 ---
 
-Geeks, gamers, and gourmands of grim humor unite. We return to the den of iniquity that is Cards Against Humanity (CAH) with the Third Expansion, a payload of punchlines that arrives like a chaotic NPC in your favorite RPG party: loud, a little dangerous, and absolutely essential when your friends take themselves too seriously. The Third Expansion is not just more cards; it is a curated chaos engine designed to turn casual game nights into improv nights wearing the mask of a disaster you somehow signed up for and secretly adore.
+Geeks, gamers, and gourmands of grim humor unite. We return to the den of iniquity that is Cards Against Humanity (CAH) with the Third Expansion, a payload of punchlines that lands like a chaotic NPC in your favorite RPG party: loud, a little dangerous, and absolutely essential when your friends take themselves too seriously. The Third Expansion isn’t merely more cards; it’s a curated chaos engine designed to turn casual game nights into improv nights wearing the mask of a disaster you somehow signed up for and secretly adore.
 
 {% image cards-against-humanity-third-expansion.jpg alt='CAH 3rd expansion box on a coffee table' %}
 
-If you thought the Original CAH and the First and Second Expansions had already rewritten the joke book, the Third Expansion shows up with the swagger of a beta-maxed keyboard warrior who finally learned to press the right key at the right time. It adds hundreds of new cards, a buffet of new innuendo and pop culture nods, and more prompts that will make you question what you consider funny. It is not a kid-friendly box by any stretch, but it is a highly entertaining one if you want to watch your friends stumble through moral double-bogies faster than a speedrunner clears a game on the hardest setting.
+If you thought the Original CAH and the First and Second Expansions had already rewritten the joke book, the Third Expansion rolls in with the swagger of a beta-maxed keyboard warrior who finally learned to press the right key at the right time. It adds hundreds of new cards, a buffet of new innuendo and pop culture nods, and more prompts that will make you question what you consider funny. It is not a kid-friendly box by any stretch, but it is a highly entertaining one if you want to watch your friends stumble through moral double-bogies faster than a speedrunner clears a game on the hardest setting.
 
 For those who crave some official flavor: CAH remains one of the most infamous party games of the modern era. If you want the official vibe, you can swing by the main site for the game, and you can poke around the Wikipedia page if you want a catalog of the cards and expansions that have truly shaped modern party-night culture. And yes, this expansion slides neatly into the base game as well as with the prior expansions, creating a deck that is capable of producing combos you didn’t know your group was capable of until you tried it.
 
@@ -21,7 +21,7 @@ Now, let’s dive into what makes the Third Expansion feel like both a natural e
 ## Overview
 
 ### What makes the Third Expansion different
-The Third Expansion does not pretend to be a soft reboot. It leans into bolder, more idiosyncratic humor, with cards that reference memes, late-night talk show fodder, and the kinds of topics that arrive at a dinner table when the wine is free and the friends have decided honesty is the new black. The tone is still CAH: mischievous, a little dangerous, and unapologetically crude in ways that feel earned rather than gratuitous. The cards are sharper, the prompts more vicious, and the white cards sometimes carry a punchline that lands harder because you have to fill the blank with a friend’s personal experience, their darkest memory, or a cultural nod that only they will fully appreciate.
+The Third Expansion does not pretend to be a soft reboot. It leans into bolder, more idiosyncratic humor, with cards that reference memes, late-night talk show fodder, and the kinds of topics that arrive at a dinner table when the wine is free and the friends have decided honesty is the new black. The tone remains CAH at heart: mischievous, a little dangerous, and unapologetically crude in ways that feel earned rather than gratuitous. The cards are sharper, the prompts more vicious, and the white cards sometimes carry a punchline that lands harder because you have to fill the blank with a friend’s personal experience, their darkest memory, or a cultural nod that only they will fully appreciate.
 
 The expansion treats humor as a social instrument rather than a weapon of mass offense. When played with the right crew, it becomes a little performance art: you orchestrate a moment where everyone recognizes the exact absurdity of the prompt and the exact mischief of the card you slapped on top. It’s best played with familiar faces, a couple of beverages, and a willingness to lean into the awkward corners of comedy without taking yourself too seriously.
 
@@ -101,7 +101,7 @@ The Third Expansion is a worthy addition to the CAH line for anybody who has tre
 
 ## Final thoughts and quick tips
 
-- Always have a small pool of “go-to” white cards that you know your group loves. The Third Expansion adds a lot of candidates, but the best ones come from familiarity and shared context.
+- Always have a small pool of go-to white cards that you know your group loves. The Third Expansion adds a lot of candidates, but the best ones come from familiarity and shared context.
 - Mix and match with other expansions to maximize the surprising pairings. Don’t be afraid to drop in a few base-game cards if a prompt begs for them.
 - Consider time-boxed rounds for large groups. It keeps energy levels high and reduces the risk of an endless, post-hook laugh that deflates the room.
 - If your group is rules-new, start with a soft introduction: play a handful of rounds with only a subset of the new cards to ease everyone into the vibe.
