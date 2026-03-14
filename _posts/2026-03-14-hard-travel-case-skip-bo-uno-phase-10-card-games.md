@@ -1,5 +1,5 @@
 ---
-title: 'Hard Travel Case for Skip-Bo, UNO, Phase 10 Card Games: A Glide-Through Aviation-Grade Card Armor'
+title: 'Hard Travel Case for Skip-Bo, UNO, and Phase 10 Card Games: A Glide-Through Aviation-Grade Card Armor'
 date: 2026-03-14
 tags:
   - geeknite
