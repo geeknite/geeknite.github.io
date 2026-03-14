@@ -1,5 +1,5 @@
 ---
-title: Extra Large Rugs - Short Pile, Soft Fluffy Anti-Slip Mat for Living Room and Bedroom
+ttitle: Extra Large Rugs - Short Pile, Soft Fluffy, Anti-Slip Mat for Living Room & Bedroom
 date: 2026-03-14
 tags:
   - home-decor
@@ -9,6 +9,7 @@ tags:
   - bedroom
   - product-review
   - geeknite
+  - rug
 ---
 
 {% image /assets/images/extra-large-rug-short-pile.jpg 'Extra Large Short Pile Rug' alt='Soft fluffy anti-slip rug for living room' %}
