@@ -15,7 +15,7 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+        <img src="{{ teaser | relative_url }}" alt="{{ post.title | strip_html }}" loading="lazy">
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
@@ -26,7 +26,7 @@
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.content | strip_html | markdownify | truncate: 500 | strip_html | strip_newlines | replace: '<br />', ' ' | strip | truncate: 250 }}<span class="read_more">Read More</span></p>
+    <p class="archive__item-excerpt" itemprop="description">{% if post.description %}{{ post.description | truncate: 160 }}{% else %}{{ post.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{% endif %}<span class="read_more">Read More</span></p>
 
   </article>
 </div>

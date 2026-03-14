@@ -5,7 +5,7 @@ tags: ["board games", "Bloodborne", "CMON", "expansion", "review"]
 description: "A funny and detailed review of Bloodborne: The Board Game - Hunter's Dream Expansion. Find out why this game is a thrilling addition for fans and board game enthusiasts!"
 ---
 
-![Bloodborne: The Board Game](https://example.com/bloodborne_board_game.jpg){: style='float: right;'}
+![Bloodborne: The Board Game](/assets/images/general.jpg){: style='float: right;'}
 
 ## Introduction
 

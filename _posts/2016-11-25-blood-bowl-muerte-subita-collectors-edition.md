@@ -4,7 +4,7 @@ date: "2016-11-25"
 tags: ["Blood Bowl", "review", "board games", "Muerte Súbita"]
 ---
 
-![Blood Bowl: Muerte Súbita Collector's Edition](https://example.com/muerte-subita-image.jpg){: .align-right}
+![Blood Bowl: Muerte Súbita Collector's Edition](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -77,6 +77,6 @@ With multiple teams to choose from and endless strategies to explore, Blood Bowl
 ## More Gaming Goodness
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
 **Don't miss out on the fun! Click [here](https://example.com/blood-bowl-muerte-subita) to get your copy now and receive an exclusive discount!**

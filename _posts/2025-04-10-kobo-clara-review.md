@@ -70,7 +70,7 @@ At approximately €129.99, the Kobo Clara is an affordable option that offers t
 
 ## **Comparison with Other eReaders**
 
-### [Kobo Libra Review: Is It Worth the Hype?]({% post_url 2024-05-20-kobo-libra-colour-review %})
+### [Kobo Libra Review: Is It Worth the Hype?]({{ site.constants.wsib }}Kobo Libra Colour)
 
 Our detailed **Kobo Libra Colour** review covers how it builds on the strengths of its predecessors with a larger screen and added functionality. While the Clara is compact and budget-friendly, the Libra offers a premium experience for those who don’t mind splurging a bit.
 

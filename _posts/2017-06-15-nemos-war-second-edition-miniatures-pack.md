@@ -56,6 +56,6 @@ _Nemo's War: Second Edition - Miniatures Pack_ is a fantastic addition to the ba
 
 ### Other Board Games to Check Out
 
-If you love immersive board games, be sure to read our reviews of [Marvel United: Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) and [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
+If you love immersive board games, be sure to read our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) and [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
 
 **Set sail and explore the unknown!**

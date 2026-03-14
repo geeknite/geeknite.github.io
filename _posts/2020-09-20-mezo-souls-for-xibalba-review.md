@@ -13,7 +13,7 @@ description: "Dive into the Mayan world of Mezo and find out if 'Souls for Xibal
 
 Imagine a game where you play as Mayan gods, fighting over the souls of mortals to gain power and influence. _Mezo: Souls for Xibalba_ takes this concept and runs with it, but don't worry, you'll still have time to grab a snack during turns. The game is an area control strategy game with a mythological twist that will keep you on your toes.
 
-![Mezo: Souls for Xibalba](https://example.com/mezo_souls_for_xibalba.jpg){: .align-center}
+![Mezo: Souls for Xibalba](/assets/images/general.jpg){: .align-center}
 
 ## Components
 
@@ -65,6 +65,6 @@ _Mezo: Souls for Xibalba_ is a fantastic addition to any board game collection, 
 
 ## Other Mythological Board Games to Check Out
 
-If you love _Mezo: Souls for Xibalba_, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}).
+If you love _Mezo: Souls for Xibalba_, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%}).
 
 **Ready to conquer the underworld?** Don’t miss out on the fun!

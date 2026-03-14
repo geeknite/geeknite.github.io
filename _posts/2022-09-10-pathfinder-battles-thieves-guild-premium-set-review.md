@@ -9,7 +9,7 @@ description: "Review completo de Pathfinder Battles Thieves Guild Premium Set: m
 
 Hello, fellow adventurers! Are you ready to dive into the shadowy world of intrigue, deception, and...miniatures? Today, we're taking a closer look at the **Pathfinder Battles: Thieves Guild Premium Set**. If you've ever wanted to recreate the sneaky escapades of your favorite rogue or simply add some flavor to your tabletop game, then this set is exactly what you need. Let's unfold the dark corners of this set, piece by piece, and see what treasures lie within.
 
-![Pathfinder Battles: Thieves Guild Premium Set](https://example.com/pathfinder-thieves-guild.jpg){: .align-right}
+![Pathfinder Battles: Thieves Guild Premium Set](/assets/images/general.jpg){: .align-right}
 
 ## What's in the Box?
 
@@ -62,8 +62,8 @@ The **Pathfinder Battles: Thieves Guild Premium Set** is a must-have for any Pat
 
 ## Related Reviews
 
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 
 **Don't miss out on these epic board game experiences!**

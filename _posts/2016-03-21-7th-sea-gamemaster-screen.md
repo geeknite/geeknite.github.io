@@ -5,7 +5,7 @@ tags: [7th-sea, rpg, review, gamemaster, tabletop-rpg, gm-tools]
 description: "An in-depth and amusing review of the 7th Sea: Gamemaster Screen. Let's find out if it's a treasure or just another piece of driftwood."
 ---
 
-![7th Sea: Gamemaster Screen](https://example.com/7th-sea-gamemaster-screen.jpg){: style='float: right;'}
+![7th Sea: Gamemaster Screen](/assets/images/general.jpg){: style='float: right;'}
 
 ## Introduction
 
@@ -69,7 +69,7 @@ The **7th Sea: Gamemaster Screen** is a valuable tool for any GM looking to enha
 ## Other Reviews You Might Enjoy
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
+- **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 
 **Don't miss out on our latest reviews and gaming tips! Follow us on [Twitch]({{ site.constants.twitch }}) and [YouTube]({{ site.constants.youtube }}). Happy gaming!**

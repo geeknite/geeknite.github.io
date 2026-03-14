@@ -4,7 +4,7 @@ title:  "Son fiables las reviews de amazon? 10 motivos para no fiarse"
 date: "2023-01-21 17:00:00 +0200"
 tags: smartshopping amazon español recomendaciones
 description: "No confíes en reseñas de Amazon. 10 motivos por los que opiniones de clientes pueden ser inexactas. Lee entre líneas y busca otras fuentes antes de comprar"
-last_modified_at: '2023-07-06T00:00:00+02:00' 
+last_modified_at: '2026-02-28'
 ---
 
 [![we don't like fake reviews](https://i.imgur.com/OO8VYzAm.png){: .align-right}]({{ site.constants.wsib }})
@@ -47,3 +47,14 @@ Hay varias formas de detectar reseñas falsas en Amazon u otros sitios web de re
 7. **Leer varias reseñas**: Es importante leer varias reseñas de diferentes fuentes y considerar tanto las opiniones positivas como negativas antes de tomar una decisión de compra. Un truco bastante interesante es **buscar las reseñas más negativas** y ver qué tipo de comentario ha dejado el usuario, nos pueden interesar **opinions sobre la durabilidad o la calidad del producto** y los que nos pueden dar una mejor idea son las que han sido negativas. Si hay muchas negativas en estos términos será mejor evitar este producto.
 
 Ten en cuenta que incluso si una reseña es verdadera, puede no ser representativa de tu experiencia personal con el producto. Es importante leer varias reseñas y hacer tu propia investigación antes de tomar una decisión de compra. En general no te puedes fiar de las reseñas ya que por un motivo u otro pueden ser sesgadas incluso en medios especializados, por lo que antes de cualquier compra importante infórmate lo mejor que puedas y intenta tomar una decisión meditada y sin prisas.
+
+Si quieres mejorar tu experiencia de compra en Amazon, consulta nuestras [10 recomendaciones para comprar en Amazon desde España]({%- post_url 2013-01-24-recomendaciones-comprar-amazon-espana -%}) y nuestra guía sobre [si vale la pena ser Prime en Amazon]({%- post_url 2023-01-01-vale-la-pena-ser-prime-amazon-2023 -%}). También puedes usar herramientas como [Wishlist Manager]({%- post_url 2013-04-29-why-should-i-use-wishlist-manager -%}) para seguir la evolución de precios antes de comprar.
+
+---
+
+## Related Posts
+
+- [10 Recomendaciones para comprar en Amazon desde España]({%- post_url 2013-01-24-recomendaciones-comprar-amazon-espana -%})
+- [Vale la pena ser Prime en Amazon.es en 2023?]({%- post_url 2023-01-01-vale-la-pena-ser-prime-amazon-2023 -%})
+- [Tips for Shopping on Amazon Spain (English)]({%- post_url 2024-01-15-tips-for-shopping-on-amazon-spain-eng-edition -%})
+- [Don't Get Scammed on Black Friday]({%- post_url 2018-10-25-dont-get-scammed-black-friday-like-pro -%})

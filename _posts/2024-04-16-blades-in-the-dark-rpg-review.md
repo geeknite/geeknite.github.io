@@ -5,7 +5,7 @@ tags: [board-games, rpg, heist, strategy, review]
 description: 'Comprehensive review of Blades in the Dark, the tabletop RPG where you lead a gang of criminals in a dark, industrial-fantasy city.'
 ---
 
-![Blades in the Dark](https://example.com/blades-in-the-dark.jpg){: .align-right}
+![Blades in the Dark](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

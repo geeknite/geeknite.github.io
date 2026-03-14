@@ -5,7 +5,7 @@ tags: [twister, review, board games, fun, classic games]
 description: "Review del clásico Twister edición antigua: el juego que pondrá a prueba tu flexibilidad y sentido del humor en familia."
 ---
 
-![Twister](https://example.com/twister_image.jpg)
+![Twister](/assets/images/general.jpg)
 
 ## Introduction
 
@@ -51,7 +51,7 @@ Twister continúa siendo un clásico atemporal que aporta actividad física y en
 
 **¿Listo para añadir Twister a tu colección? Consíguelo [aquí]({{ site.constants.wsib }}Twister) y comienza a crear recuerdos inolvidables.**
 
-Para más reviews de juegos de mesa fantásticos, consulta nuestro post sobre [top 10 juegos de mesa de carreras]({%- post_url 2023-06-15-top-10-racing-board-games -%}).
+Para más reviews de juegos de mesa fantásticos, consulta nuestro post sobre [top 10 juegos de mesa de carreras]({%- post_url 2023-06-17-top-10-racing-board-games -%}).
 
 ---
 

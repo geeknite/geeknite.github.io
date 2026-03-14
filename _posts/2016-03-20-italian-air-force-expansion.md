@@ -10,7 +10,7 @@ tags: ["aviation", "board games", "review", "Wing Leader"]
 
 Welcome to another thrilling episode of Geeknite, where we take to the skies with the latest and greatest from the Italian Air Force Expansion: Eagle Soars and Crashes. Are you ready to spread your wings and soar above the clouds? Or will you crash and burn like a spaghetti attempt gone wrong? Let's find out!
 
-![Italian Air Force](https://example.com/italian-air-force.jpg)
+![Italian Air Force](/assets/images/general.jpg)
 
 ### The History of the Eagle
 

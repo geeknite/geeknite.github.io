@@ -5,7 +5,7 @@ tags: [strategy-board-games, age-of-conan, axis-and-allies, wargames, board-game
 description: "Complete guide to epic strategy board games: Age of Conan and Axis & Allies Pacific 1940. Master ancient kingdoms and WWII naval warfare!"
 ---
 
-![Strategy Board Games](https://example.com/strategy-games-guide.jpg){: .align-right}
+![Strategy Board Games](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

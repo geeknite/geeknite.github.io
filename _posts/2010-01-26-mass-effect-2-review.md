@@ -8,7 +8,7 @@ tags: ['Mass Effect', 'Gaming', 'Review']
 
 **Mass Effect 2** - a game that makes you feel like you're in the middle of a space opera with more drama than a soap. If you're wondering whether this game is worth your time in 2025, buckle up and prepare for a wild ride through the cosmos with your favorite interstellar squad.
 
-![Mass Effect 2](https://example.com/mass_effect_2_cover.jpg){: .align-right}
+![Mass Effect 2](/assets/images/general.jpg){: .align-right}
 
 ## Storyline and Characters
 

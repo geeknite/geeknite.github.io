@@ -76,6 +76,6 @@ Magic the Gathering Unpainted Miniatures: Reidane, Goddess of Justice (Wave 14) 
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Flamme Rouge: Grand Tour Expansion - Multi-Stage Racing Fun]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})**
-- **[Marvel United: Multiverse - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[Marvel United: Multiverse - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
 **Don't wait, bring Reidane home and let justice prevail!**

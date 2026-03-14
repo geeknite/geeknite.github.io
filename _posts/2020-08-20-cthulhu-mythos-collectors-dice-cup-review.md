@@ -70,7 +70,7 @@ The Cthulhu Mythos Collector's Dice Cup is not just a gaming accessory; it's a g
 ## Linking You to More Gaming Adventures
 
 - **[To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and Board Games]({%- post_url 2021-02-21-to-sleeve-or-not-to-sleeve -%})**
-- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Ready to roll with Cthulhu? Click [here]({{ site.constants.wsib }}cthulhu-mythos-collectors-dice-cup) to get your collector's dice cup now and receive an exclusive discount! Happy gaming!**

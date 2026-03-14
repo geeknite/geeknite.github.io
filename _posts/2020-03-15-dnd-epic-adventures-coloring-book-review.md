@@ -64,7 +64,7 @@ The _D&D Epic Adventures Coloring Book_ is a fantastic addition to any D&D fan's
 
 ## Linking You to More Geeky Fun
 
-- **[Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Ready to add some color to your adventures? Click [here]({{ site.constants.wsib }}dnd-epic-adventures-coloring-book) to get your copy now and receive an exclusive discount! Happy coloring!**

@@ -5,7 +5,7 @@ tags: ["board games", "review", "horror games"]
 description: "A hilarious and detailed review of When Darkness Comes: Hell Unleashed (Limited Edition). Find out why this horror game is a must-have for fans of the genre!"
 ---
 
-[![When Darkness Comes: Hell Unleashed](https://example.com/when_darkness_comes.jpg){: .align-right}]({{ site.constants.wsib }}when-darkness-comes)
+[![When Darkness Comes: Hell Unleashed](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}when-darkness-comes)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ When Darkness Comes: Hell Unleashed is a horror-themed board game that pits play
 
 The game comes with a beautifully crafted board, detailed miniatures, and a plethora of cards, tokens, and dice. The Limited Edition upgrades these components with higher-quality materials and exclusive artwork, making the game a collector's dream.
 
-![When Darkness Comes Components](https://example.com/when_darkness_components.jpg){: style='float: right;'}
+![When Darkness Comes Components](/assets/images/general.jpg){: style='float: right;'}
 
 ## Gameplay
 
@@ -73,6 +73,6 @@ When Darkness Comes: Hell Unleashed (Limited Edition) is a fantastic addition to
 
 So, gather your friends, steel your nerves, and dive into the terrifying world of When Darkness Comes: Hell Unleashed. **Get your copy now and face the darkness head-on!**
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://example.com/when_darkness_comes.jpg' %}
+{% include amazon.html asin='B08XYZ1234' imageUrl='/assets/images/general.jpg' %}
 
 **Call to Action**: Don't miss out on the ultimate horror board game experience! Click [here]({{ site.constants.wsib }}when-darkness-comes) to get your copy of When Darkness Comes: Hell Unleashed (Limited Edition) now and receive an exclusive discount! Happy gaming!

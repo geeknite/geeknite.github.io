@@ -50,7 +50,7 @@ With a TDP of 120W, the MSI GTX 1060 is relatively power-efficient. Its cooling 
 
 The MSI GTX 1060 features a sleek design with a black and red color scheme. It looks great in any build and won't clash with your RGB setup. Plus, it has a solid build quality that feels like it could withstand a zombie apocalypse.
 
-![MSI GTX 1060](https://example.com/msi-gtx-1060.jpg){: .align-right}
+![MSI GTX 1060](/assets/images/general.jpg){: .align-right}
 
 ## Price and Value
 

@@ -85,6 +85,6 @@ So what are you waiting for? Head over to [Geeknite](https://geeknite.com) and g
 
 ## Other Board Games to Explore
 
-If you love adventure and card games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love adventure and card games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
 **Ready to embark on your next great adventure? Click [here](https://geeknite.com/aventuria) to get your copy of Aventuria now and receive an exclusive discount! Happy adventuring!**

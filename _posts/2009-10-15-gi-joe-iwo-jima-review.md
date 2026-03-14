@@ -6,7 +6,7 @@ tags: [GI Joe, Collectibles, Review]
 description: "Dive into the world of rare GI Joe collectibles with our comprehensive review of the RARE GI Joe At Two Jima - 1998 edition."
 ---
 
-![RARE GI Joe At Two Jima](https://example.com/rare_gi_joe_image.jpg){: .align-right}
+![RARE GI Joe At Two Jima](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -24,7 +24,7 @@ Released in 1998, this collectible was produced in limited quantities, making it
 
 ## Design and Features
 
-![GI Joe Close-Up](https://example.com/gi_joe_closeup.jpg){: .align-left}
+![GI Joe Close-Up](/assets/images/general.jpg){: .align-left}
 
 ### Impeccable Detail
 

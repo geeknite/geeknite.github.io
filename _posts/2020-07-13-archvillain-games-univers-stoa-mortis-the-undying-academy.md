@@ -85,6 +85,6 @@ So what are you waiting for? Head over to Geeknite and get your copy of Univers 
 
 ### Other Spooky Games to Check Out
 
-If you love haunted adventures, be sure to check out our reviews of [Marvel United Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%}) or [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%}).
+If you love haunted adventures, be sure to check out our reviews of [Marvel United Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%}).
 
 **Ready to embark on a ghostly quest? Don't miss out on the fun!**

@@ -13,7 +13,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "Descubre cómo el Brexit puede ser una oportunidad para ahorrar en tus compras online. ¿Es realmente una ventaja o una trampa disfrazada?"
 ---
 
-![Brexit Shopping](https://example.com/brexit-shopping.jpg){: .align-right}
+![Brexit Shopping](/assets/images/general.jpg){: .align-right}
 
 ### ¿El Brexit es una oportunidad o una trampa para los consumidores?
 

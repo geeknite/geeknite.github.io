@@ -5,7 +5,7 @@ tags: [home-decor, rug, outdoor, polypropylene, review]
 description: "A hilarious yet thorough review of the Azun Ochre Outdoor Polypropylene Rug. Is it worth the hype? Let's dive in and find out!"
 ---
 
-![Azun Ochre Outdoor Polypropylene Rug](https://example.com/images/azun-ochre-rug.jpg){: .align-right}
+![Azun Ochre Outdoor Polypropylene Rug](/assets/images/general.jpg){: .align-right}
 
 ## Azun Ochre Outdoor Polypropylene Rug Review
 

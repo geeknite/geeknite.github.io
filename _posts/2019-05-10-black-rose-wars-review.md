@@ -7,7 +7,7 @@ description: "Dive into the magical and chaotic world of Black Rose Wars in this
 
 # Black Rose Wars: A Magical Battle Royale
 
-![Black Rose Wars](https://example.com/images/black-rose-wars.jpg)
+![Black Rose Wars](/assets/images/general.jpg)
 
 ## Introduction
 

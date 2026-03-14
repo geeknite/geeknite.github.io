@@ -5,7 +5,7 @@ tags: [malifaux, 3e, review, tabletop-games]
 description: "A hilarious and detailed review of the Malifaux 3E Core Rulebook. Dive into the whimsical world of Malifaux with a touch of humor!"
 ---
 
-![Malifaux 3E Core Rulebook](https://example.com/malifaux_3e.jpg){: style='float: right;'}({{ site.constants.wsib }}malifaux-3e-core-rulebook)
+![Malifaux 3E Core Rulebook](/assets/images/general.jpg){: style='float: right;'}({{ site.constants.wsib }}malifaux-3e-core-rulebook)
 
 ## Introduction
 
@@ -78,6 +78,6 @@ The **Malifaux 3E Core Rulebook** offers a fantastical adventure that's as chall
 ### More Geeky Adventures Await!
 
 - **[Gloomhaven: The Ultimate Dungeon Crawl]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Marvel United: Multiverse - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
+- **[Marvel United: Multiverse - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
 Happy adventuring!

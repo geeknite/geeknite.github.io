@@ -1,10 +1,9 @@
 ---
-
 title:  "Vale la pena ser prime en amazon.es en 2023?"
-date: "2023-01-01 17:00:00 +0200"
+date:   2023-01-01 17:00:00 +0200
 tags: amazon españa español europe smartshopping prime
 description: "¿Vale la pena ser Prime de Amazon en 2023? - Una revisión detallada que analiza los beneficios y desventajas de la membresía de Amazon Prime en 2023."
-last_modified_at: '2023-07-06T00:00:00+02:00'
+last_modified_at: '2026-02-28'
 ---
 <a rel="nofollow" href='https://www.amazon.es/amazonprime?pf_rd_m=A1AT7YVPFBWXBL&pf_rd_s=merchandised-search-20&pf_rd_r=SPKR1F8DDF6EN7XBXBF7&pf_rd_t=101&pf_rd_p=22ebeddc-7676-4fb1-9838-af826ff3dc4a&pf_rd_i=22432986031&tag={{ site.constants.amazon_es }}'><img style="float: right;" src="https://i.imgur.com/8jB0rlK.jpg"></a>
 Ya estamos en 2023 y recordando otros articulos en que ya nos planteábamos si [vale la pena ser prime]({%- post_url 2017-01-14-vale-la-pena-hacerse-premium-en-amazon-es -%}), incluso cuando [en 2018 ya augmentaron el precio de la suscripción Prime]({%- post_url 2018-09-02-vale-la-pena-ser-premium-amazon-es-2018 -%}), creo que vuelve a ser un buen momento para hacer esta reflexión aprovechando que han vuelto a subir el precio de la suscripción.
@@ -21,14 +20,23 @@ Ya estamos en 2023 y recordando otros articulos en que ya nos planteábamos si [
 
 ## Puntos a mejorar
 
-1. Amazon music ha cambiado su política para potenciar la suscripción unlimited, ahora con Prime no se permite qué canción escuchar, y nos hace escuchar en formato radio con canciones que su algoritmo categoriza como similares. Parecido a la versión Free del mismo amazon o de spotify con algunas mejoras. Incluso la aplicación Android con el cambio visual y de funcionamiento ya no funciona bien.
+1. Amazon music ha cambiado su política para potenciar la suscripción unlimited, ahora con Prime no se permite qué canción escuchar, y nos hace escuchar en formato radio con canciones que su algoritmo categoriza como similares. Parecido a la versión Free del mismo amazon o de spotify con algunas mejoras. Incluso la aplicación Android con el cambio visual y de funcionamiento ya no funciona bien .
 
-2. Prime reading aunque parece una buena idea, el buscador de la web está limitado y dispone de muy pocos filtros para buscar, teniendo en cuenta la cantidad de información que dispone amazon (que además posee Goodreads) lo hace practicamente inusable.
+2. Prime reading aunque parece una buena idea, el buscador de la web está limitado y dispone de muy pocos filtros para buscar, teniendo en cuenta la cantidad de información que dispone amazon (que además posee Goodreads) lo hace practicamente inusable .
 
-3. Mejora en las posibilidades de los envíos, por ejemplo agrupar o seleccionar el día a recibir las entregas, ya que en muchos casos amazon los productos no pueden cumplir con el envío de 1 día.
+3. Mejora en las posibilidades de los envíos, por ejemplo agrupar o seleccionar el día a recibir las entregas, ya que en muchos casos amazon los productos no pueden cumplir con el envío de 1 día .
 
-4. Ofertas flash, cupones, almacenamiento y otras ventajas parecen un relleno para justificar el precio de la suscripción.
+4. Ofertas flash, cupones, almacenamiento y otras ventajas parecen un relleno para justificar el precio de la suscripción .
 
 En resumen, si os interesa la entrega rápida y sin mínimo, actualmente está en 29€, y algunos de las ventajas, a por ello, pero si dudáis la mejor opción es no renovar la suscripción y ver si realmente la necesitáis, si no es el caso **"desconectad" de vuestra dependencia de amazon y veréis que también hay muchas tiendas especializadas con mejores precios.**
 
-[O si lo preferís podeis leer las verdades sobre amazon prime en este artículo]({%- post_url 2023-01-28-Critica-irreverente-amazon-prime -%}). Gracias por leernos!
+[O si lo preferís podeis leer las verdades sobre amazon prime en este artículo]({%- post_url 2023-01-28-Critica-irreverente-amazon-prime -%}).
+
+---
+
+## Related Posts
+
+- [10 Recomendaciones para comprar en Amazon desde España]({%- post_url 2013-01-24-recomendaciones-comprar-amazon-espana -%})
+- [Son fiables las reviews de Amazon? 10 motivos para no fiarse]({%- post_url 2023-01-21-son-fiables-reviews-amazon-motivos-no-fiarse -%})
+- [Cheques regalo Amazon: forma de pago sin comisiones]({%- post_url 2018-09-09-cheques-regalo-amazon-forma-pago-alternativa-sin-comisiones -%})
+- [Tips for Shopping on Amazon Spain (English)]({%- post_url 2024-01-15-tips-for-shopping-on-amazon-spain-eng-edition -%})

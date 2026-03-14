@@ -4,7 +4,7 @@ date: "2015-04-15"
 tags: ["board games", "retro gaming", "funny"]
 ---
 
-![No Game Over Cover](https://example.com/no_game_over_cover.jpg){: .align-right}
+![No Game Over Cover](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 

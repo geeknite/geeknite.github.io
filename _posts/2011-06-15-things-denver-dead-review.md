@@ -6,7 +6,7 @@ tags: ["movie reviews", "blu-ray", "special edition", "crime", "drama"]
 description: "A hilarious and detailed review of the Special Edition Blu-ray release of 'Things to Do in Denver When You're Dead'."
 ---
 
-![Things to Do in Denver When You're Dead](https://example.com/things-to-do-denver-bluray.jpg){: .align-right}
+![Things to Do in Denver When You're Dead](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -69,6 +69,6 @@ The film's visual style is a blend of noir and '90s grit. The use of shadows and
 
 ### Related Reviews
 
-If you enjoyed this review, be sure to check out our other movie reviews like [Persona 5 Royal: A Whimsical Journey Through the Heart of Gaming]({%- post_url 2022-04-23-persona-5-royal-review -%}) and [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}).
+If you enjoyed this review, be sure to check out our other movie reviews like [Persona 5 Royal: A Whimsical Journey Through the Heart of Gaming]({%- post_url 2022-04-23-persona-5-royal-review -%}) and [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}).
 
 **Ready to add more amazing Blu-rays to your collection? Don’t miss out on our recommendations!**

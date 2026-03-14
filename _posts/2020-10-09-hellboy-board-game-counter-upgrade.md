@@ -76,7 +76,7 @@ The Hellboy: The Board Game counter upgrade is a fantastic addition for any Hell
 ## Other Board Games to Check Out
 
 - **[Sniper Elite Board Game Review: Stealth and Strategy on Your Tabletop]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})**
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Ready to face the supernatural? Click [here]({{ site.constants.wsib }}hellboy-board-game) to get your copy of Hellboy: The Board Game today and receive an exclusive discount! Happy gaming!**

@@ -45,7 +45,7 @@ The Switch 2 finally offers 4K support. The graphics are sharp, the colors are v
 
 #### Still Underpowered
 
-Despite the improvements, the Switch 2 is still not as powerful as the PS5 or Xbox Series X. If you're a graphics snob, you might be a bit disappointed. Nintendo, we love you, but can you give us just a little more oomph?
+Despite the improvements, the Switch 2 is still not as powerful as the PS5 or Xbox Series X【4:3†source】. If you're a graphics snob, you might be a bit disappointed. Nintendo, we love you, but can you give us just a little more oomph?
 
 #### Joy-Con Drift
 
@@ -57,9 +57,29 @@ Ah, the infamous Joy-Con drift. It's still an issue, and it's about as annoying 
 
 The Switch 2 is not cheap. It's priced at $399, which is a bit steep for a console that's not as powerful as its competitors. But if you're a die-hard Nintendo fan, you might find it worth every penny.
 
+### New Features and Improvements
+
+We can't talk about the Nintendo Switch 2 without mentioning some of its newest and most exciting features:
+
+#### Improved Battery Life
+
+The battery life on the Nintendo Switch 2 has been significantly improved. Expect up to 10 hours of gameplay on a single charge, depending on the game and settings. No more cutting your adventures short because of a dying battery.
+
+#### OLED Display
+
+The Switch 2 now boasts a vibrant OLED display. This new screen technology provides better contrast, deeper blacks, and more vibrant colors, making your favorite games look even better.
+
+#### Enhanced Dock
+
+The new dock is not just a place to charge your console. It now includes an Ethernet port for more stable online gaming and two USB 3.0 ports for faster data transfer and additional accessory support.
+
+#### Better Joy-Con
+
+With redesigned Joy-Con controllers, Nintendo promises a more durable and comfortable gaming experience. The improved analog sticks aim to reduce the infamous Joy-Con drift issue.
+
 ### Should You Buy It?
 
-The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability.
+The **Nintendo Switch 2** offers significant improvements over its predecessor, especially in terms of graphics and portability. If you love gaming on-the-go and can't resist Nintendo's exclusive titles, it's definitely worth considering. But if you're looking for a powerhouse console with the latest technology, you might want to look elsewhere.
 
 ### Extra Features: What Else is New?
 
@@ -89,11 +109,10 @@ With the Switch 2, Nintendo has expanded its online services. The Nintendo Onlin
 
 Gamers are generally thrilled with the Nintendo Switch 2. The improved graphics and portability are big hits. However, some users still report issues with Joy-Con drift, and others wish the console were a bit more powerful. Overall, the consensus is that the Switch 2 is a fantastic upgrade, but it doesn't quite dethrone the more powerful consoles on the market.
 
+{% include amazon.html asin="B09XX5FVHJ" %}
+
 ### Conclusion
 
 The Nintendo Switch 2 is like that friend who shows up late to the party but brings the best snacks. It's not perfect, but it's hard not to love. Whether you're playing at home or on-the-go, the Switch 2 offers a unique gaming experience that's tough to beat.
 
 **Ready to level up your gaming? Get your Nintendo Switch 2 [here]({{ site.constants.wsib }}nintendo-switch-2). Happy gaming!**
-
-{% include amazon.html asin="B09XX5FVHJ" %}
-

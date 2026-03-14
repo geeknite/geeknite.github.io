@@ -69,6 +69,6 @@ So, what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}p
 
 ## Other Epic Board Games to Check Out
 
-If you love cooperative strategy games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) and [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love cooperative strategy games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) and [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
 
 **Ready to join the battle and save the world? Don’t miss out on the adventure!**

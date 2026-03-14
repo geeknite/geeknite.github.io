@@ -4,7 +4,7 @@ date: "2018-06-27"
 tags: [movie review, classic cinema, Tokyo Story, Japanese film]
 ---
 
-![Tokyo Story](https://example.com/tokyo-story.jpg)
+![Tokyo Story](/assets/images/general.jpg)
 
 ## Introduction
 
@@ -52,4 +52,4 @@ Tokyo Story is more than just a film; it's an experience that invites viewers to
 
 **Ready to watch Tokyo Story? Grab your copy [here](https://example.com/tokyo-story) and dive into this cinematic gem!**
 
-{% include amazon.html asin="B00K6CU9FM" imageUrl="https://example.com/tokyo-story-dvd.jpg" %}
+{% include amazon.html asin="B00K6CU9FM" imageUrl="/assets/images/general.jpg" %}

@@ -5,7 +5,7 @@ tags: ["Warhammer 40K", "Battlezone", "Manufactorum", "review", "board games"]
 description: "A detailed and humorous review of Warhammer 40K Battlezone: Manufactorum Battlefield. Dive into the grimdark world of Warhammer and find out why this terrain set is a must-have for fans!"
 ---
 
-![Warhammer 40K Battlezone: Manufactorum Battlefield](https://example.com/warhammer_40k_manufactorum.jpg){: style='float: right;'}
+![Warhammer 40K Battlezone: Manufactorum Battlefield](/assets/images/general.jpg){: style='float: right;'}
 
 ## Introduction
 
@@ -72,7 +72,7 @@ Warhammer 40K Battlezone: Manufactorum Battlefield is a fantastic addition to an
 ## Links to Other Posts
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-25-star-wars-lego-review -%})**
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})**
+- **[LEGO Star Wars Sets: A Detailed Review of the Galaxy's Best]({%- post_url 2023-07-27-star-wars-lego-review -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
 **Don't miss out on enhancing your Warhammer 40K battles! Order now and dive into the grimdark future with style.**

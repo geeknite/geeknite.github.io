@@ -87,4 +87,4 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}co
 For more reviews and game recommendations, check out our previous posts:
 
 - [Flamme Rouge Grand Tour Review: The Ultimate Cycling Expansion]({%- post_url 2025-04-07-flamme-rouge-grand-tour-review -%})
-- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})
+- [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})

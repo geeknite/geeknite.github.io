@@ -5,7 +5,7 @@ tags: [Startech, USB, Crash Cart, IT, review, tech, gadgets]
 description: "A funny and comprehensive review of the Startech USB Crash Cart Adapter with File Transfer and Video Capture. Discover its features, quirks, and why it might just be the ultimate tool for IT professionals!"
 ---
 
-![Startech USB Crash Cart Adapter](https://example.com/startech-usb-crash-cart-adapter.jpg){: .align-right}
+![Startech USB Crash Cart Adapter](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -80,7 +80,7 @@ If you're serious about IT and want a reliable, feature-packed adapter, the Star
 
 **Ready to upgrade your IT toolkit? Get the Startech USB Crash Cart Adapter now and tackle IT challenges like a pro!**
 
-{% include amazon.html asin="B09XX5FVHJ" imageUrl="https://example.com/startech-usb-crash-cart-adapter.jpg" %}
+{% include amazon.html asin="B09XX5FVHJ" imageUrl="/assets/images/general.jpg" %}
 
 Happy troubleshooting!
 

@@ -695,7 +695,7 @@ So what are you waiting for? Get your copy of Charcuterie: The Board Game today 
 - **[Azul Complete Board Game Guide]({%- post_url 2017-07-01-azul-complete-board-game-guide -%})** - Pattern-building masterpiece
 - **[Adventure Tactics vs CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})** - Gateway dungeon crawlers
 - **[Gloomhaven Review: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})** - For when you graduate to heavy games
-- **[Why Adults Should Board Game Too]({%- post_url 2019-11-15-adult-board-games -%})** - The case for adult gaming
+- **[Why Adults Should Board Game Too]({{ site.constants.wsib }}adult board games)** - The case for adult gaming
 
 **Food & Gaming:**
 

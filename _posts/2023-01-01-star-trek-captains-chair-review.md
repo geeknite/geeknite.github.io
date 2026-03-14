@@ -73,8 +73,8 @@ The Star Trek Captain's Chair Playset is a fantastic addition to any Trekkie's c
 
 ## Related Posts
 
-- **[LEGO Star Wars Sets Review]({%- post_url 2023-07-25-star-wars-lego-review -%})**
-- **[Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[LEGO Star Wars Sets Review]({%- post_url 2023-07-27-star-wars-lego-review -%})**
+- **[Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Persona 5 Royal Review]({%- post_url 2022-04-23-persona-5-royal-review -%})**
 
 **Engage with your inner Trekkie and bring home the Captain's Chair today!**

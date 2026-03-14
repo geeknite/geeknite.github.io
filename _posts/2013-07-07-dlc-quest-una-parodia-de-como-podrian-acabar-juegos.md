@@ -12,7 +12,7 @@ last_modified_at: '2023-11-01T12:00:00+01:00'
 description: "DLC Quest: Una crítica hilarante y dolorosamente real sobre la industria de los videojuegos. ¿Es este el futuro que queremos?"
 ---
 
-![DLC Quest](https://example.com/dlc-quest.jpg){: .align-right}
+![DLC Quest](/assets/images/general.jpg){: .align-right}
 
 ### DLC Quest: Una sátira que duele
 

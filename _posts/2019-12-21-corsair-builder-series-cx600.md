@@ -5,7 +5,7 @@ tags: [Corsair, power supply, review, tech, funny]
 description: "A hilarious and detailed review of the Corsair Builder Series CX 600 power supply. Discover its features, performance, and why you need this power supply in your life."
 ---
 
-![Corsair Builder Series CX 600](https://example.com/corsair-cx600.jpg){: .align-right}
+![Corsair Builder Series CX 600](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
