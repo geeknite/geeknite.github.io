@@ -26,9 +26,15 @@ OverPower is best understood as a product of its era: bold art, ambitious concep
 
 In practice, this meant: more ways to customize your roster, more ways to twist the plot, and more ways to collapse under a pile of foil cards that smell faintly of chalk and cardboard glue. Nostalgia aside, Hero Mission was a strategic attempt to nudge players toward thinking in terms of missions, synergy, and scenario-based play rather than pure brute-force combat.
 
-## The card layout and the look of things in 1996
+In addition to the base mechanics, the set leaned into narrative arcs: comic-book style mission prompts, dramatic environmental effects, and villain showcases that gave you something beyond a simple stat comparison. If nothing else, it gave you something to argue about at the gaming table besides the age of your pop can.
 
-If you remember one thing about OverPower, it’s the look: bold, glossy art with dramatic poses, and a design that made every card feel like it could be a movie poster if you blew up the resolution and slapped a watermark on it. The Hero Mission Set didn’t shy away from that aesthetic. The cards typically featured a hero or a mission on the front, with a dense amount of information printed in a way that looked impressive when you fanned out a stack on your coffee table.
+In the sense of a modern review, the Hero Mission Set is an artifact—an artifact that invites you to consider how a license and a clever card layout can turn a superhero roster into a tiny, road-tested campaign.
+
+> For a quick read on the base game as a reference point, check our older posts: {% post_url 1996-marvel-overpower-base-set.html %} and {% post_url 1996-marvel-overpower-review.html %} for related reads.
+
+## The look and feel of 1996
+
+If you remember one thing about OverPower, it’s the look: bold, glossy art with dramatic poses, and a design that made every card feel like a movie poster if you blew up the resolution and slapped a watermark on it. The Hero Mission Set didn’t shy away from that aesthetic. The cards typically featured a hero or a mission on the front, with a dense amount of information printed in a way that looked impressive when you fanned out a stack on your coffee table.
 
 Two things stand out visually:
 
@@ -56,6 +62,8 @@ Let’s break down the core mechanics you’d typically encounter when you crack
 
 From a design perspective, Hero Mission nudges players toward narrative play: the missions aren’t just tasks; they’re story beats. You’re not merely trying to “beat the other guy”—you’re trying to enact a small Marvel episode, with your crew carrying the bulk of the plot forward. That narrative angle is what makes the set so endearing for longtime fans who want more texture than a simple duel.
 
+In addition to the core mechanics, the set leaned into narrative arcs: comic-book style mission prompts, dramatic environmental effects, and villain showcases that gave you something beyond a simple stat comparison. If nothing else, it gave you something to argue about at the gaming table besides the age of your pop can.
+
 ## Card design details and the art of collecting
 
 If you’re someone who carefully sorts your cards by color, hero class, and foil type, Hero Mission will speak to you in a familiar, affectionate way. The texture of the card stock, the heft of a foil, and even the misprint curiosities become little constellations in a collector’s sky. Here are a few collecting-oriented noteworthy aspects:
@@ -72,7 +80,7 @@ If you’re reading this and wondering whether this is a good party game, a seri
 
 A few observations on the feel:
 
-- The pacing can swing dramatically. A single mission card with a “turn the tide” twist can shift the entire game from “we’re being careful” to “the Avengers assemble, and they’re doing it now.”
+- The pacing can swing dramatically. A single mission card with a turn-the-tide twist can shift the entire game from “we’re being careful” to “the Avengers assemble, and they’re doing it now.”
 - The strategic depth grows with your willingness to experiment. Pairing heroes for synergy, choosing mission requirements that favor your roster, and timing big plays are all satisfyingly tangible on the table.
 - The art, narrative flavor, and environment cards add layers of drama that a purely numbers-driven game might miss. You’ll hear commentators in your head delivering a dramatic voiceover as you play, complete with occasional dramatic sighs when a plan goes sideways.
 
@@ -82,7 +90,7 @@ If you love the flavor of classic Marvel clashes and you enjoy the ritual of pre
 
 While a lot of modern CCGs encourage highly optimized decks, OverPower invites a bit more experimentation and nostalgic spontaneity. Here are some practical, non-pretentious tips to approach Hero Mission without getting overwhelmed:
 
-- Prioritize thematic teams: Decide early whether you want to build an Avengers-heavy squad, a Spider-Family lineup, or a quirky mix of street-level heroes with cosmic backup. The fun here isn’t just “who hits harder” but “which heroes look cooler together.”
+- Prioritize thematic teams: Decide early whether you want to build an Avengers-heavy squad, a Spider-Family lineup, or a quirky mix of street-level heroes with cosmic backup. The fun here isn’t just who hits harder but which heroes look cooler together.
 - Consider mission synergies: The mission cards aren’t random annoyances—they’re opportunities. Some missions reward you for achieving specific combos or for defeating villains under particular constraints. Reading the mission text aloud as if you’re narrating a Marvel movie can help you spot the best synergies in your roster.
 - Balance is key: It’s tempting to load up on power hitters, but you’ll want a balance of support heroes with utility abilities. The mission cards often require more than raw power; they ask for solutions that hinge on teamwork and creative problem-solving.
 - Card economy matters: Don’t blow your resources on fancy turns too early. The best plays often come from saving just enough power to respond when your opponent stumbles into a trap you laid earlier.
@@ -95,7 +103,7 @@ If you want to see how old-school strategy can be reinterpreted for a modern aud
 This section recognizes the kind of moments you remember if you’ve played long enough to have favorite cards or signature combos. Since Marvel OverPower wasn’t a single rigid system but a collection bound by the Marvel license and a style guide from the era, the “notable” moments are typically tied to iconic characters and unforgettable missions rather than laser-pointer-level balance.
 
 - Iconic duos: A few hero pairings offered particularly satisfying on-table dynamics. Seeing two or three synergistic heroes pull off a coordinated sequence felt like you were choreographing a mini-episode on your kitchen table.
-- Mission surprises: Some missions forced you to rethink your approach based on a last-minute twist—an environmental card changing the battlefield, or a villain who’s tough only in certain moods (i.e., the classic “boss fight with a head-scratching constraint”). Those moments are what you remember when you tell the story later.
+- Mission surprises: Some missions forced you to rethink your approach based on a last-minute twist—an environmental card changing the battlefield, or a villain who’s tough only in certain moods (i.e., the classic boss fight with a head-scratching constraint). Those moments are what you remember when you tell the story later.
 - Collectible chase: The thrill of pulling a foil hero or a rare mission card, the careful sleeve-wrap after a successful trade, and the slow, satisfying accumulation of a visually cohesive set—these are the emotional beats of Hero Mission for many players.
 
 If you’re curious about a deeper dive into the roster, you can find character-focused retrospectives in our older posts. See {% post_url 1996-marvel-overpower-hero-roster.html %} for a broader discussion of the characters who defined the era.
@@ -123,9 +131,9 @@ If you want a quick starter read on the broader OverPower universe, this externa
 
 ## The geeky, goofy end of the spectrum: a closing word
 
-This set isn’t just a collection of cards; it’s a time capsule that captures a moment when Marvel’s famous heroes were suddenly approachable through a tabletop lens that felt both collectible and playable in almost equal measure. The Hero Mission Set invites players to engage with a story-first mindset while still enjoying the tactile, numbers-driven core of a CCG. It’s a blend that feels very 90s in the best possible way: ambitious, a little chaotic, and absolutely committed to giving you a sense of adventure with every match.
+This set isn’t just a collection of cards; it’s a time capsule that captures a moment when Marvel’s famous heroes were suddenly approachable through a tabletop lens that felt both collectible and playable in almost equal measure. The Hero Mission Set invites players to engage with a story-forward mindset while still enjoying the tactile, numbers-driven core of a CCG. It’s a blend that feels very 90s in the best possible way: ambitious, a little chaotic, and absolutely committed to giving you a sense of adventure with every match.
 
-If you’re reading this and the word “nostalgia” hasn’t assaulted your airways yet, you might be immune—but for the rest of us, Hero Mission is a doorway back to a kitchen-table era where imagination was the most important stat on your team.
+If you’re reading this and the word nostalgia hasn’t assaulted your airways yet, you might be immune—but for the rest of us, Hero Mission is a doorway back to a kitchen-table era where imagination was the most important stat on your team.
 
 ## Final thoughts and a friendly recommendation
 
