@@ -77,7 +77,7 @@ The Ray-Ban Meta glasses sit in a premium segment of the market. They are not th
 ### Are they worth it for the average consumer?
 That depends on your priorities. If your daily routine includes spontaneous moments ripe for quick capture and you value hands-free recording, the glasses offer a compelling package. If you crave cinema-grade video, long battery life, and heavy-duty processing for editing on the go, manage expectations or look to other devices for more robust performance. The verdict is simple: these glasses excel at casual use and social storytelling, while serious videography remains a separate craft that deserves its own gear.
 
-## How to use Ray-Ban Meta glasses in the real world
+## Real-world usage: use cases, tips, and social etiquette
 ### Quick start guide
 - Put on the glasses and turn them on using the discreet button near the temple. The startup light serves as a friendly beacon that you are alive in the wearable universe.
 - Decide whether you want to take a photo or start recording a video. The devices are designed for quick capture, so you do not need to spend minutes agonizing over settings.
@@ -89,6 +89,12 @@ That depends on your priorities. If your daily routine includes spontaneous mome
 - Start in familiar environments before stepping into unpredictable crowds. You will sharpen your control and reduce the risk of accidental recording in awkward situations.
 - Respect privacy and be mindful of where you point the camera. When in doubt, ask first or switch to a photo mode with a quick glance that communicates your intent without becoming a stealth operation.
 - Don a style you love. If you are happy wearing them, the world will likely respond with good vibes and curious glances rather than suspicious looks. Confidence is the accessory that goes best with any frames.
+
+### Real-world scenarios
+- Daily commute: a quick clip of a subway mural, a street musician, or the latte art on your morning drink—without breaking your stride.
+- Travel days: hands-free documentarian mode during a museum stroll or a hiking trail. You still get to enjoy the moment while it gets tagged for later editorial polish.
+- Social events: a moment with friends at a party where you want to preserve the vibes without interrupting the flow with a phone in hand.
+- Work settings: a casual capture of a whiteboard brainstorm or a product demo for later review—provided you have consent and your company policy allows it.
 
 ## Pros and cons: a quick verdict in bullet form
 - Pros
