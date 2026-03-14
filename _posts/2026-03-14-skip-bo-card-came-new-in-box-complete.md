@@ -100,7 +100,7 @@ If you are shopping for a game that works with a wide range of ages, offers the 
 ## Visuals, Photos, and a Quick Photo Guide
 Here is a quick photo guide to help you see what we are talking about. The images below illustrate the unboxing vibe, the card stock, and the central Build piles that form the heart of every game. For the image references, use these photos as a benchmark for what to expect in a typical New in Box Complete Skip-Bo set.
 
-![](assets/images/skip-bo-box.jpg)
+![]({{ '/assets/images/skip-bo-box.jpg' | relative_url }})
 
 ### The components in the shot
 - A tidy box with clear typography and color accents.
