@@ -5,7 +5,7 @@ tags: [board games, review, Pocket Battle, Cherry Blossoms, humor]
 description: "A detailed and hilarious review of Pocket Battle Game - Cherry Blossoms at Night. Discover why this game is perfect for your next game night!"
 ---
 
-![Pocket Battle Game - Cherry Blossoms at Night](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}
+![Pocket Battle Game - Cherry Blossoms at Night](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}
 
 ## Introduction
 

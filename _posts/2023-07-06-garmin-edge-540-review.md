@@ -57,6 +57,6 @@ However, the Garmin Edge 540 is also quite expensive, and it might not be worth 
 
 If you're on a tight budget, you might want to consider the iGPSPORT IGS630, which is less than half the price of the Edge 540 and still offers most of the essential features【4:0†source】. If you're looking for something different, you might want to check out the Wahoo ELEMNT ROAM, which has some unique features that the Edge 540 doesn't have【4:0†source】.
 
-Ultimately, the best bike computer for you depends on your personal preferences and needs. I hope this blog post helped you make an informed decision about the Garmin Edge 540. If you have any questions or comments, feel free to leave them below. And if you're interested in more bike gadgets and accessories, don't forget to check out my [Prime Day Deals]({% post_url 2023-07-04-prime-day-bike-gadgets-accesories %}) post!
+Ultimately, the best bike computer for you depends on your personal preferences and needs. I hope this blog post helped you make an informed decision about the Garmin Edge 540. If you have any questions or comments, feel free to leave them below. And if you're interested in more bike gadgets and accessories, don't forget to check out my Prime Day Deals post!
 
 Happy cycling! 🚴‍♂️

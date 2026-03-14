@@ -82,7 +82,7 @@ One of the best features of HEAT is the ability to create custom tracks. Using t
 
 **Recommended duration**: Each game typically takes 30-60 minutes, perfect for multiple rounds.
 
-For more board game reviews and recommendations, don't miss our [ultimate guide to board games for every occasion]({%- post_url 2023-11-05-board-games-for-every-occasion -%}).
+For more board game reviews and recommendations, don't miss our ultimate guide to board games for every occasion.
 
 **Ready to take the plunge?** Grab your copy of HEAT: Pedal to the Metal [here](https://www.amazon.com/s?k=heat+pedal+to+the+metal&tag={{ site.constants.amazon_com }}). And may your engines stay cool while your racing skills heat up!
 

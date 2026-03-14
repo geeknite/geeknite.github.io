@@ -84,4 +84,4 @@ Dixit es un juego de cartas que transforma las reuniones en un festival de imagi
 
 ---
 
-Si te gustó esta reseña, no te pierdas nuestra crítica irreverente sobre [Amazon Prime]({%- post_url 2023-01-28-critica-irreverente-amazon-prime -%}) para más entretenimiento Geeknite.
+Si te gustó esta reseña, no te pierdas nuestra crítica irreverente sobre [Amazon Prime]({%- post_url 2023-01-28-Critica-irreverente-amazon-prime -%}) para más entretenimiento Geeknite.

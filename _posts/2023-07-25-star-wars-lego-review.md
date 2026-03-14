@@ -9,7 +9,7 @@ tags: [Star Wars, Han Solo, Toys, Review]
 
 Hello there, fellow geeks and Star Wars aficionados! Today, we're diving into the galaxy far, far away to review the Han Solo figure from The Power of the Force Black Series. Grab your blasters and prepare for an adventure as we explore this iconic character in collectible form.
 
-![Han Solo](https://example.com/han_solo_power_of_the_force.jpg){: .align-right}
+![Han Solo](/assets/images/general.jpg){: .align-right}
 
 ## LEGO Star Wars Millennium Falcon
 

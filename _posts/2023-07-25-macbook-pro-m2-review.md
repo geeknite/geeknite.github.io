@@ -6,7 +6,7 @@ tags: [Mechanical Keyboard, Review, Technology, Geek]
 description: "An in-depth, humorous review of the best mechanical keyboards for geeks in 2026."
 ---
 
-![Mechanical Keyboard](https://example.com/mechanical-keyboard.jpg){: style="float: right;"}
+![Mechanical Keyboard](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -20,19 +20,19 @@ Mechanical keyboards aren't just for show. They offer superior typing experience
 
 ### 1. **Corsair K95 RGB Platinum XT**
 
-![Corsair K95 RGB Platinum XT](https://example.com/corsair-k95.jpg){: .align-right}
+![Corsair K95 RGB Platinum XT](/assets/images/general.jpg){: .align-right}
 
 The Corsair K95 RGB Platinum XT is a beast. With Cherry MX Speed switches, dedicated macro keys, and customizable RGB lighting, it's a dream come true for gamers and programmers alike. The wrist rest is so comfortable, you might forget you're working and start daydreaming about your next gaming session.
 
 ### 2. **Razer BlackWidow V3 Pro**
 
-![Razer BlackWidow V3 Pro](https://example.com/razer-blackwidow.jpg){: .align-right}
+![Razer BlackWidow V3 Pro](/assets/images/general.jpg){: .align-right}
 
 The Razer BlackWidow V3 Pro is like the Swiss Army knife of mechanical keyboards. It features Razer's Green switches, which provide a clicky and tactile feel, and its wireless capabilities mean you can take your keyboard to the couch or the bathroom (we won't judge). The RGB lighting is brighter than your future, and the battery lasts longer than your patience.
 
 ### 3. **Keychron K6**
 
-![Keychron K6](https://example.com/keychron-k6.jpg){: .align-right}
+![Keychron K6](/assets/images/general.jpg){: .align-right}
 
 For the minimalist geeks, the Keychron K6 is a compact masterpiece. With Gateron switches, Bluetooth connectivity, and a sleek design, it's perfect for those who value portability without sacrificing functionality. The keyboard is so stylish, it might even inspire you to clean your desk.
 

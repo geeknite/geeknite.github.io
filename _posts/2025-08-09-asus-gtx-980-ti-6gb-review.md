@@ -5,7 +5,7 @@ tags: [GTX 980 Ti, Asus, Review, GPU, Gaming]
 description: "A hilarious and nostalgic review of the Asus GTX 980 Ti 6GB GPU."
 ---
 
-![Asus GTX 980 Ti 6GB](https://example.com/asus-gtx-980-ti-6gb.jpg){: .align-right}
+![Asus GTX 980 Ti 6GB](/assets/images/general.jpg){: .align-right}
 
 Hey there, fellow geeks and nostalgic gamers! Today, we're taking a trip down memory lane with the Asus GTX 980 Ti 6GB GPU. Remember when this baby was the king of the hill? Well, it's time to dust off those old specs and see if the 980 Ti still has some game left in it. Spoiler alert: it's going to be a wild, pixelated ride!
 

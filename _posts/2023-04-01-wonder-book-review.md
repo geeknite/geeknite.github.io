@@ -4,7 +4,7 @@ date: "2023-04-01"
 tags: ["books", "review", "mythology", "fantasy"]
 ---
 
-![Wonder Book](https://example.com/wonderbook.jpg){: .align-right}
+![Wonder Book](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -62,6 +62,6 @@ Nathaniel Hawthorne's writing is both humorous and engaging. He brings ancient m
 
 **Wonder Book** is a delightful retelling of Greek myths that combines humor, adventure, and moral lessons. It's perfect for young readers and anyone looking to revisit these classic tales with a smile. So, grab your copy and get ready for a magical ride through ancient mythology!
 
-**Bold Call-to-Action:** Don't miss out on the magic! Grab your copy of *Wonder Book* [here](https://example.com/wonderbook) and dive into the world of Greek myths.
+**Bold Call-to-Action:** Don't miss out on the magic! Grab your copy of *Wonder Book* [here]({{ site.constants.wsib }}) and dive into the world of Greek myths.
 
 Happy reading, and may your mythological adventures be ever wondrous!

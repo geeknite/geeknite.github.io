@@ -6,7 +6,7 @@ tags: [Baldur's Gate 3, RPG, review, gaming]
 description: "Dive into the world of Baldur's Gate 3 with our hilarious and detailed review. Discover why this game is a must-play for RPG enthusiasts."
 ---
 
-![Baldur's Gate 3](https://i.imgur.com/xxxxxx.jpg){: style='float: right;'}
+![Baldur's Gate 3](https://i.imgur.com/xxxxxx.jpg){: .align-right}
 
 ## Introduction
 
@@ -62,7 +62,6 @@ Baldur's Gate 3 is a must-play for any RPG fan. Its deep story, engaging gamepla
 
 **Ready to dive into the world of Baldur's Gate 3? Grab your copy now and start your journey!**
 
-{% include amazon.html asin="B08XYZ1234" imageUrl="https://i.imgur.com/xxxxxx.jpg" %}
 
 ## Related Articles
 

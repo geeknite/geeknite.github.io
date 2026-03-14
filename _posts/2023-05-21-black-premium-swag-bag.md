@@ -6,7 +6,7 @@ description: "Dive into the Black Premium Swag Bag by Mayday Games. Discover its
 last_modified_at: "2025-10-08"
 ---
 
-![Black Premium Swag Bag](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]
+![Black Premium Swag Bag](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]
 
 ## Introduction
 

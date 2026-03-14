@@ -63,8 +63,8 @@ Every product has its quirks, and the Rachelle Pearl Rug is no exception. Here a
 So, is the Rachelle Pearl Rug worth your hard-earned cash? Absolutely. It combines elegance, comfort, and durability in a way that few other rugs can. Whether you're looking to spruce up your living room, bedroom, or any other space, the Rachelle Pearl Rug is a fantastic choice. Ready to elevate your home decor game? Click [here](https://www.amazon.com/rachelle-pearl-rug) to add the Rachelle Pearl Rug to your cart now!
 
 **Related Articles**
-- [Ultimate Guide to Home Decor]({% post_url 2023-01-15-ultimate-home-decor-guide %})
-- [Top 10 Rugs for Every Room]({% post_url 2023-11-10-top-10-rugs-for-every-room %})
-- [How to Clean and Maintain Your Rugs]({% post_url 2023-05-20-rug-cleaning-maintenance %})
+- Ultimate Guide to Home Decor
+- Top 10 Rugs for Every Room
+- How to Clean and Maintain Your Rugs
 
 Happy decorating! 🏡

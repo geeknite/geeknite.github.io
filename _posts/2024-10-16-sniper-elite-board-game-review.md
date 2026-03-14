@@ -71,6 +71,5 @@ The Sniper Elite Board Game is a fantastic addition to any board game collection
 
 So, gather your friends, set up your sniper scope, and dive into the thrilling world of Sniper Elite. **Get your copy now and test your stealth and strategy skills!**
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
 **Call to Action:** Don't miss out on the ultimate stealth board game experience! Click [here]({{ site.constants.wsib }}sniper-elite-board-game) to get your copy of Sniper Elite Board Game now and receive an exclusive discount! Happy gaming!

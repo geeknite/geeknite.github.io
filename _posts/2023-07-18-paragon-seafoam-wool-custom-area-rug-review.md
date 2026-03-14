@@ -7,7 +7,7 @@ description: "An in-depth and humorous review of the Paragon Seafoam Wool Custom
 
 # Paragon Seafoam Wool Custom Area Rug Review: A Splash of Elegance
 
-![Paragon Seafoam Wool Custom Area Rug](https://example.com/paragon-seafoam-rug.jpg){: .align-right}
+![Paragon Seafoam Wool Custom Area Rug](/assets/images/general.jpg){: .align-right}
 
 Hello, dear Geeknite readers! Today, we're plunging feet-first into the world of home decor with a review of the **Paragon Seafoam Wool Custom Area Rug**. If you've ever wanted your living room to resemble the opulent lair of a mythical sea creature, this rug might just be the ticket!
 
@@ -79,4 +79,4 @@ So, what are you waiting for? Dive into the world of luxurious comfort with the 
 
 **Ready to transform your living space? Get your Paragon Seafoam Wool Custom Area Rug today!**
 
-[![Buy Now](https://example.com/buy-now.jpg)](https://example.com/affiliate-link)
+[![Buy Now](/assets/images/general.jpg)]({{ site.constants.wsib }})

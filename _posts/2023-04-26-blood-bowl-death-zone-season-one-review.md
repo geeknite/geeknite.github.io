@@ -5,7 +5,7 @@ tags: ["board games", "review", "Blood Bowl", "Games Workshop", "fantasy sports"
 description: "A hilarious and detailed review of Games Workshop's Blood Bowl: Death Zone Season One. Find out why this expansion is a touchdown in the fantasy sports world."
 ---
 
-![Blood Bowl: Death Zone Season One](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]
+![Blood Bowl: Death Zone Season One](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]
 
 ## Introduction
 
@@ -76,7 +76,6 @@ Blood Bowl: Death Zone Season One is not just an expansion; it's an adventure th
 
 **Ready to dominate the Death Zone? Grab your copy of Blood Bowl: Death Zone Season One today and start your epic journey!**
 
-{% include amazon.html asin="B08XYZ1234" imageUrl="https://i.imgur.com/3zHcfgxm.jpg" %}
 
 ## Linking You to More Gaming Adventures
 

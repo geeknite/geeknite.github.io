@@ -34,37 +34,37 @@ Monopoly is one of those timeless classics that never fails to entertain. Its co
 
 ### 1. **Monopoly: Classic Edition**
 
-[![Monopoly Classic Edition](https://i.imgur.com/Jm8ynpT.jpg){: style="float: right;"}]({{ site.constants.wsib }}monopoly-classic)
+[![Monopoly Classic Edition](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}]({{ site.constants.wsib }}monopoly-classic)
 
 There's nothing quite like the original. The classic edition of Monopoly has stood the test of time for a reason. It's familiar, easy to learn, and provides a great balance of strategy and luck. Perfect for couples who enjoy traditional gameplay.
 
 ### 2. **Monopoly: Disney Edition**
 
-[![Monopoly Disney Edition](https://i.imgur.com/3zHcfgxm.jpg){: style="float: right;"}]({{ site.constants.wsib }}monopoly-disney)
+[![Monopoly Disney Edition](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]({{ site.constants.wsib }}monopoly-disney)
 
 For Disney lovers, this edition brings the magic of Disney into the world of Monopoly. Featuring beloved characters and landmarks from Disney films, it's a whimsical and nostalgic choice for couples who adore the House of Mouse.
 
 ### 3. **Monopoly: Star Wars Edition**
 
-[![Monopoly Star Wars Edition](https://i.imgur.com/Hv9Pehdm.png){: style="float: right;"}]({{ site.constants.wsib }}monopoly-starwars)
+[![Monopoly Star Wars Edition](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}monopoly-starwars)
 
 May the force be with you! The Star Wars edition of Monopoly is perfect for couples who are fans of the epic saga. Battle it out for control of the galaxy while enjoying themed properties and special cards.
 
 ### 4. **Monopoly: Game of Thrones Edition**
 
-[![Monopoly Game of Thrones Edition](https://i.imgur.com/6s4IJiPm.png){: style="float: right;"}]({{ site.constants.wsib }}monopoly-got)
+[![Monopoly Game of Thrones Edition](https://i.imgur.com/6s4IJiPm.png){: .align-right}]({{ site.constants.wsib }}monopoly-got)
 
 For those who love the intrigue and drama of Westeros, the Game of Thrones edition is a fantastic choice. Featuring iconic locations and characters, it's a must-have for fans of the series.
 
 ### 5. **Monopoly: Marvel Edition**
 
-[![Monopoly Marvel Edition](https://i.imgur.com/daqPDn2m.png){: style="float: right;"}]({{ site.constants.wsib }}monopoly-marvel)
+[![Monopoly Marvel Edition](https://i.imgur.com/daqPDn2m.png){: .align-right}]({{ site.constants.wsib }}monopoly-marvel)
 
 Get ready to assemble your team of superheroes! The Marvel edition of Monopoly is perfect for couples who are fans of the Marvel universe. With properties and characters from the comics and movies, it's a super way to spend your game night.
 
 ### 6. **Monopoly: Harry Potter Edition**
 
-[![Monopoly Harry Potter Edition](https://i.imgur.com/Hv9Pehdm.png){: style="float: right;"}]({{ site.constants.wsib }}monopoly-hp)
+[![Monopoly Harry Potter Edition](https://i.imgur.com/Hv9Pehdm.png){: .align-right}]({{ site.constants.wsib }}monopoly-hp)
 
 Wave your wand and dive into the magical world of Harry Potter. This edition features locations and characters from the beloved book and film series, making it a magical choice for Potterheads.
 

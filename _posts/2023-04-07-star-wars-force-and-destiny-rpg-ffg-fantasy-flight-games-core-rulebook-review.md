@@ -11,7 +11,7 @@ description: "A comprehensive and humorous review of the Star Wars Force and Des
 
 Welcome, fellow Star Wars geeks, to our in-depth review of the **Star Wars Force and Destiny RPG Core Rulebook** by Fantasy Flight Games! If you've ever wanted to swing a lightsaber, levitate rocks (or your pesky sibling), and become one with the Force, then this RPG is for you. So, grab your robes, your best Wookiee growl, and let's dive into this comprehensive review. Spoiler alert: Jedi mind tricks are not included.
 
-![Star Wars Force and Destiny](https://example.com/star-wars-force-and-destiny.jpg){: .align-right}
+![Star Wars Force and Destiny](/assets/images/general.jpg){: .align-right}
 
 ## Overview
 

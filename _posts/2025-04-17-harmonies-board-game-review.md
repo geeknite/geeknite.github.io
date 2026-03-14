@@ -10,7 +10,7 @@ description: "Dive into the world of Puzzle Foam Leisis Terra Multicolor. Is it 
 
 Hello Geeknite readers! Are you ready to dive into the foam-filled, puzzle-packed world of the **Puzzle Foam Leisis Terra Multicolor**? Whether you're looking to keep the kids entertained or just need a new hobby to distract you from binge-watching your favorite shows, this foam puzzle might just be the answer. Let's see if it's as fun and colorful as it sounds!
 
-![Puzzle Foam Leisis Terra Multicolor](https://i.imgur.com/3zHcfgxm.jpg){: style="float: right;"}
+![Puzzle Foam Leisis Terra Multicolor](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}
 
 ## First Impressions
 

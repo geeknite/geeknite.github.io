@@ -6,7 +6,7 @@ description: "The ultimate comprehensive and humorous review of Marvel United: M
 last_modified_at: "2025-03-15T10:00:00+02:00"
 ---
 
-[![Marvel United: Multiverse](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}marvel united multiverse)
+[![Marvel United: Multiverse](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]({{ site.constants.wsib }}marvel united multiverse)
 
 ## Introduction
 
@@ -254,7 +254,6 @@ The beautiful components, engaging mechanics, and endless replayability make it 
 
 **Don't wait, suit up and grab your copy now!**
 
-{% include amazon.html asin="B08XYZ1234" imageUrl="https://i.imgur.com/3zHcfgxm.jpg" %}
 
 **Click [here]({{ site.constants.wsib }}marvel united multiverse) to get your copy of Marvel United: Multiverse and receive exclusive deals! The multiverse needs heroes like you!**
 

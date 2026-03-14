@@ -5,7 +5,7 @@ tags: [iPad, Apple, Review, Technology, Gadgets]
 description: "A comprehensive, humorous review of the iPad Pro M4, exploring its features, performance, and why it's the ultimate tablet for tech geeks in 2025."
 ---
 
-![iPad Pro M4](https://www.apple.com/v/ipad-pro-m4/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}ipad-pro-m4)
+![iPad Pro M4](https://www.apple.com/v/ipad-pro-m4/a/images/overview/hero_endframe__e6khcva4hkeq_large.jpg){: .align-right}({{ site.constants.wsib }}ipad-pro-m4)
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Welcome, tech aficionados and tablet lovers! The iPad Pro M4 has landed, and it'
 
 The iPad Pro M4 boasts a sleek and elegant design that Apple is renowned for. With its unibody aluminum chassis, it feels both premium and durable. The tablet is lighter and thinner than its predecessors, making it a perfect companion for those who are always on the move and want to look stylish while doing it.
 
-![iPad Pro M4 Design](https://www.apple.com/v/ipad-pro-m4/a/images/overview/design__c2u6xn6rvs2u_large.jpg){: style="float: right;"}({{ site.constants.wsib }}ipad-pro-m4-design)
+![iPad Pro M4 Design](https://www.apple.com/v/ipad-pro-m4/a/images/overview/design__c2u6xn6rvs2u_large.jpg){: .align-right}({{ site.constants.wsib }}ipad-pro-m4-design)
 
 ### Ports and Connectivity
 
@@ -23,7 +23,7 @@ The iPad Pro M4 comes with USB-C connectivity, Thunderbolt 4 ports, and a headph
 
 ## Display and Audio
 
-![iPad Pro M4 Display](https://www.apple.com/v/ipad-pro-m4/a/images/overview/display__e7k5zj7n0heq_large.jpg){: style="float: right;"}({{ site.constants.wsib }}ipad-pro-m4-display)
+![iPad Pro M4 Display](https://www.apple.com/v/ipad-pro-m4/a/images/overview/display__e7k5zj7n0heq_large.jpg){: .align-right}({{ site.constants.wsib }}ipad-pro-m4-display)
 
 The iPad Pro M4 features a stunning 12.9-inch Liquid Retina XDR display with ProMotion technology. The colors are vibrant, the blacks are deep, and the brightness can rival the sun on a good day.
 
@@ -33,7 +33,7 @@ The audio quality is nothing short of impressive. With a four-speaker sound syst
 
 ### Powered by M4 Chip
 
-![M4 Chip](https://www.apple.com/v/ipad-pro-m4/a/images/overview/m4__e4e6lfmu0sey_large.jpg){: style="float: right;"}({{ site.constants.wsib }}m4-chip)
+![M4 Chip](https://www.apple.com/v/ipad-pro-m4/a/images/overview/m4__e4e6lfmu0sey_large.jpg){: .align-right}({{ site.constants.wsib }}m4-chip)
 
 The heart of the iPad Pro M4 is its revolutionary M4 chip. With an 8-core CPU, 10-core GPU, and 16-core Neural Engine, this powerhouse is designed to handle everything you throw at it – from video editing and 3D rendering to running multiple virtual machines and playing the latest games.
 
@@ -43,13 +43,13 @@ Apple claims up to 20 hours of battery life on a single charge, and in our tests
 
 ## Keyboard and Trackpad
 
-![Magic Keyboard](https://www.apple.com/v/ipad-pro-m4/a/images/overview/keyboard__f5dhn0m5h16m_large.jpg){: style="float: right;"}({{ site.constants.wsib }}magic-keyboard)
+![Magic Keyboard](https://www.apple.com/v/ipad-pro-m4/a/images/overview/keyboard__f5dhn0m5h16m_large.jpg){: .align-right}({{ site.constants.wsib }}magic-keyboard)
 
 The Magic Keyboard is back and better than ever. With a refined scissor mechanism and perfect travel distance, typing on the iPad Pro M4 feels like a dream. The large Force Touch trackpad is highly responsive and supports a plethora of gestures, making navigation a breeze.
 
 ## Software and Features
 
-![iPadOS](https://www.apple.com/v/ipad-pro-m4/a/images/overview/ipados__c1hwqr0tmcq6_large.jpg){: style="float: right;"}({{ site.constants.wsib }}ipados)
+![iPadOS](https://www.apple.com/v/ipad-pro-m4/a/images/overview/ipados__c1hwqr0tmcq6_large.jpg){: .align-right}({{ site.constants.wsib }}ipados)
 
 ### iPadOS
 

@@ -13,7 +13,7 @@ description: 'Discover the top racing board games of 2025 with this comprehensiv
 
 Welcome, fellow board game enthusiasts, to the ultimate guide to the best racing board games available in 2025! Whether you're a seasoned player or a newbie just starting your collection, this review will provide you with all the information you need to make an informed decision. And trust me, by the end of this review, you'll be ready to splurge on some amazing games!
 
-[![Board Games](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}boardgames)
+[![Board Games](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]({{ site.constants.wsib }}boardgames)
 
 ## Top Racing Board Games
 

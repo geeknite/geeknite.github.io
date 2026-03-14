@@ -5,7 +5,7 @@ tags: ["board games", "review", "Zombicide", "Prison Outbreak", "funny"]
 description: "An in-depth and humorous review of CMON Zombicide: Prison Outbreak. Find out why this game is a must-have for zombie enthusiasts!"
 ---
 
-![Zombicide: Prison Outbreak](https://i.imgur.com/Pw8z5Tj.jpg){: style='float: right;'}
+![Zombicide: Prison Outbreak](https://i.imgur.com/Pw8z5Tj.jpg){: .align-right}
 
 ## Introduction
 

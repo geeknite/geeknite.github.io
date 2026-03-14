@@ -5,7 +5,7 @@ tags: ['board games', 'review', 'The Mind', 'card games', 'family friendly']
 description: 'An in-depth and humorous review of The Mind card game from Pandasaurus, designed by Wolfgang Warsch. Discover why this family-friendly game is a must-have!'
 ---
 
-![The Mind Card Game](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}
+![The Mind Card Game](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}
 
 ## Introduction
 

@@ -9,7 +9,7 @@ description: "A detailed, humorous review of the Star Wars Cozy Winter Beanie, a
 
 Hello there, fellow geekonauts! As the winter season approaches, we need something to keep our nerdy heads warm. Enter the **Star Wars Cozy Winter Beanie**! It's more than just headgear—it's a declaration of your allegiance to the Galactic Empire (or the Rebel Alliance, no judgment here). So grab your lightsaber and let's dive deep into this out-of-this-world beanie review!
 
-![Star Wars Cozy Winter Beanie](https://example.com/star-wars-beanie.jpg){: .align-right rel="nofollow"}
+![Star Wars Cozy Winter Beanie](/assets/images/general.jpg){: .align-right rel="nofollow"}
 
 ## Design and Material
 

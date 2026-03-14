@@ -6,7 +6,7 @@ description: "Complete Flamme Rouge Grand Tour review: multi-stage racing, new t
 last_modified_at: "2025-08-14T12:00:00+02:00"
 ---
 
-![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}
+![Flamme Rouge Grand Tour](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}
 
 ## Introduction: The Evolution of Cycling Board Games
 

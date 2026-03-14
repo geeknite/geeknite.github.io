@@ -74,7 +74,6 @@ The Game: Strategy Card Game is a fantastic addition to any collection. Its blen
 
 **Ready to take on The Game? Get your copy now and embark on a hilarious and challenging journey!**
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
 **Call to Action:** Don't miss out on this strategic gem! Click [here](https://geeknite.com/the-game-strategy-card-game) to get your copy of The Game: Strategy Card Game now and receive an exclusive discount! Happy gaming!
 

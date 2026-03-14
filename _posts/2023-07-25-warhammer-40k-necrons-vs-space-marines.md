@@ -4,7 +4,7 @@ date: '2023-07-25'
 tags: ['Warhammer 40,000', 'Necrons', 'Space Marines', 'Battle Set', 'review']
 ---
 
-![Warhammer 40,000: Necrons vs. Space Marines](https://example.com/warhammer-necrons-vs-space-marines.jpg){: .align-right}
+![Warhammer 40,000: Necrons vs. Space Marines](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -36,7 +36,7 @@ Space Marines are genetically enhanced super-soldiers, equipped with the best we
 
 One of the best parts of the Warhammer 40,000: Necrons vs. Space Marines Battle Set is the miniatures. The detail on these models is nothing short of stunning. You'll want to display them proudly, even if you lose every game.
 
-![Necron Warriors](https://example.com/necron-warriors.jpg){: .align-left}
+![Necron Warriors](/assets/images/general.jpg){: .align-left}
 
 ### Pros
 

@@ -6,7 +6,7 @@ tags: [Shiloh, Grant, history, board games, review]
 description: "An amusing and detailed review of the Shiloh - Grant Surprised board game. Dive into history with laughter and strategy!"
 ---
 
-![Shiloh - Grant Surprised](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}({{ site.constants.wsib }}shiloh-grant-surprised)
+![Shiloh - Grant Surprised](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}({{ site.constants.wsib }}shiloh-grant-surprised)
 
 ## Introduction
 

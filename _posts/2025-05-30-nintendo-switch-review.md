@@ -44,7 +44,7 @@ Antes de entrar en detalles, veamos qué hace funcionar a esta bestia portátil:
 
 #### Lo Malo: Hardware desfasado
 
-Aunque la Switch es innovadora, su hardware deja mucho que desear. Los gráficos no pueden competir con consolas como la PS5 o la Xbox Series X, y la falta de soporte para 4K en 2023 es simplemente inexcusable. Nintendo, ¿qué tal un poco más de potencia? Si priorizas rendimiento gráfico, consulta nuestra [review de PlayStation 5]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}) o la [comparativa Xbox One vs PS4]({%- post_url 2023-11-04-xbox-one-vs-ps4-review -%}) para entender las diferencias entre generaciones de consolas.
+Aunque la Switch es innovadora, su hardware deja mucho que desear. Los gráficos no pueden competir con consolas como la PS5 o la Xbox Series X, y la falta de soporte para 4K en 2023 es simplemente inexcusable. Nintendo, ¿qué tal un poco más de potencia? Si priorizas rendimiento gráfico, consulta nuestra [review de PlayStation 5]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}) o la comparativa Xbox One vs PS4 para entender las diferencias entre generaciones de consolas.
 
 #### Lo Feo: Los Joy-Con y sus problemas
 

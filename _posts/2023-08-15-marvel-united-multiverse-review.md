@@ -5,7 +5,7 @@ tags: ["Starfinder", "Galaxy Exploration Manual", "review"]
 description: "Dive into the Galaxy Exploration Manual with our hilarious and thorough review."
 ---
 
-![Starfinder: Galaxy Exploration Manual](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]
+![Starfinder: Galaxy Exploration Manual](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}]
 
 ## Introduction
 

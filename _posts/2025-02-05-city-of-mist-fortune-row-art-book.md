@@ -9,7 +9,7 @@ description: "An in-depth review of the City of Mist: Fortune Row Art Book, show
 
 Greetings, fellow Mist-dwellers! Today, we're diving deep into the visually captivating **City of Mist: Fortune Row - Art Book**. If you're a fan of tabletop RPGs and love immersing yourself in breathtaking artwork, this book promises to be your new best friend. Picture yourself flipping through pages filled with stunning illustrations, character concepts, and the scandalously mysterious city of Fortune Row. Buckle up, because this review is about to take you on an art-adventure like no other!
 
-![City of Mist: Fortune Row](https://example.com/fortune_row_art_book.jpg){: .align-right style='width: 300px;'}
+![City of Mist: Fortune Row](/assets/images/general.jpg){: .align-right style='width: 300px;'}
 
 ## What is City of Mist: Fortune Row?
 
@@ -25,7 +25,7 @@ From the very first page, the **Fortune Row Art Book** grabs your attention with
 
 One of the highlights of the art book is the detailed character designs. Each character is depicted with intricate details, from their clothing to their expressions. You can almost feel the personality and backstory oozing out of each illustration. The characters range from enigmatic detectives to powerful mythological beings, each adding depth to the game's lore.
 
-![Character Designs](https://example.com/fortune_row_characters.jpg){: .align-right style='width: 300px;'}
+![Character Designs](/assets/images/general.jpg){: .align-right style='width: 300px;'}
 
 ### Setting and Atmosphere
 

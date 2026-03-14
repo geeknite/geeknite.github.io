@@ -4,6 +4,9 @@ date: 2023-05-02
 last_modified_at: '2026-02-20T17:04:57.9332333Z'
 tags: [gaming, PS5, review, consoles]
 description: "Join us for a hilarious and comprehensive review of the PS5 and the PS5 Slim available in 2026. From its impressive specs to the quirks that make you chuckle, we've got it all!"
+redirect_from:
+    - /2023/02/ps5-comprehensive-review-good-bad-big.html
+    - /2023/01/ps5-comprehensive-review-good-bad-big.html
 ---
 
 ![PS5](https://i.imgur.com/hfOlYVsm.jpg){: .align-right}]({{ site.constants.wsib }}ps5)

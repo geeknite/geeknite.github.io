@@ -6,7 +6,7 @@ tags: [Intel, Arc, B50, GPU, review, tech]
 description: "A comprehensive and humorous review of the Intel Arc B50 GPU. Is this the graphics card you need for your gaming or productivity rig?"
 ---
 
-![Intel Arc B50](https://example.com/intel-arc-b50.jpg){: .align-right}
+![Intel Arc B50](/assets/images/general.jpg){: .align-right}
 
 Hello, Geeknite readers! Today, we're diving deep into the world of GPUs with a detailed review of the **Intel Arc B50**. It's 2025, and Intel has stepped up its game in the mid-range GPU segment. So, is the Arc B50 the graphics card your next gaming or productivity rig needs, or will it leave you crying into your RGB keyboard? Let's find out!
 

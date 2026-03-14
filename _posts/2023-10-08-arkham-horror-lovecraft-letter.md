@@ -4,7 +4,7 @@ date: "2023-10-08"
 tags: ["board games", "Arkham Horror", "Lovecraft Letter", "review", "funny"]
 ---
 
-![Arkham Horror: Lovecraft Letter](https://example.com/arkham_horror_lovecraft_letter.jpg){: .align-right}
+![Arkham Horror: Lovecraft Letter](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -69,7 +69,7 @@ Arkham Horror: Lovecraft Letter is a fantastic addition to any board game collec
 
 **Ready to embrace the madness? Grab your copy of Arkham Horror: Lovecraft Letter and dive into the eldritch horror today!**
 
-**Affiliate Link:** [Buy Now](https://example.com/arkham_horror_lovecraft_letter)
+**Affiliate Link:** [Buy Now]({{ site.constants.wsib }})
 
 ## Other Games You Might Enjoy
 

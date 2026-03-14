@@ -5,7 +5,7 @@ tags: ['D&D', 'miniatures', 'review', 'Loup Garou', 'funny']
 description: "A hilarious and detailed review of D&D Nolzur's Marvelous Unpainted Miniatures: Loup Garou. Discover why these miniatures are a must-have for any D&D enthusiast!"
 ---
 
-[![Nolzur's Marvelous Unpainted Miniatures](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}nolzurs-loup-garou)
+[![Nolzur's Marvelous Unpainted Miniatures](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}]({{ site.constants.wsib }}nolzurs-loup-garou)
 
 ## Introduction
 

@@ -5,7 +5,7 @@ tags: ["board games", "card games", "review", "The Mind", "special edition"]
 description: "Dive into 'The Mind: Special Edition' with our hilarious and detailed review. Find out why this game is a must-have for card game enthusiasts who love intense teamwork and a bit of humor!"
 ---
 
-[![The Mind: Special Edition](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}the-mind-special-edition)
+[![The Mind: Special Edition](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}]({{ site.constants.wsib }}the-mind-special-edition)
 
 ## Introduction
 

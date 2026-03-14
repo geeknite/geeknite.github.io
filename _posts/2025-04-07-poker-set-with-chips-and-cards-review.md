@@ -5,7 +5,7 @@ tags: [poker, review, board games, gaming]
 description: "Dive into the complete review of the Poker Set with Chips and Cards, evaluating its performance, aesthetics, and fun factor."
 ---
 
-![Poker Set](https://example.com/poker-set-image.jpg){: .align-right}
+![Poker Set](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -66,7 +66,6 @@ The Poker Set with Chips and Cards is a must-have for any poker enthusiast. Its 
 
 **Ready to up your poker game? Grab your Poker Set with Chips and Cards today and host the ultimate poker night!**
 
-{% include amazon.html asin="B08XYZ1234" imageUrl="https://example.com/poker-set-image.jpg" %}
 
 ## Additional Reads
 
