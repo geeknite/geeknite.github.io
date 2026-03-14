@@ -5,7 +5,7 @@ tags: [board games, review, Warmachine, Apotheosis, strategy, miniatures]
 description: "Review de Warmachine Apotheosis: expansión épica con nuevos warcasters, unidades y estrategias para el juego de miniaturas."
 ---
 
-[![Warmachine: Apotheosis](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}warmachine_apotheosis)
+[![Warmachine: Apotheosis](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}]({{ site.constants.wsib }}warmachine_apotheosis)
 
 ## Introduction
 

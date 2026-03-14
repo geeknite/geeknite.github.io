@@ -5,7 +5,7 @@ tags: [board-books, reviews, children-books, pacific-northwest, educational]
 description: "A detailed and humorous review of All Aboard Pacific Northwest: A Recreation Primer. Is this board book worth picking up for your little adventurer?"
 ---
 
-![All Aboard Pacific Northwest](/assets/images/general.jpg)
+![All Aboard Pacific Northwest](https://example.com/all-aboard-pacific-northwest.jpg)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ _All Aboard Pacific Northwest_ is a charming board book designed to introduce li
 
 The book features sturdy pages perfect for tiny hands, making it durable enough to withstand enthusiastic page-turning and the occasional gnawing (because we all know books taste better than broccoli). The illustrations are beautifully crafted, capturing the essence of the Pacific Northwest in a way that is both educational and entertaining.
 
-![Inside Look](/assets/images/general.jpg)
+![Inside Look](https://example.com/all-aboard-inside.jpg)
 
 ## The Journey Through the Pages
 
@@ -63,5 +63,5 @@ _All Aboard Pacific Northwest: A Recreation Primer_ is a delightful addition to 
 
 For more book reviews and recommendations, check out our previous posts:
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({{ site.constants.wsib }}Adventure Tactics board game)
-- [Marvel United Multiverse Board Game Review]({{ site.constants.wsib }}Marvel United Multiverse)
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})

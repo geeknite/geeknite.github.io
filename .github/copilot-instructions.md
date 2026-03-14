@@ -1,5 +1,7 @@
 # GeekNite Blog - Copilot Instructions
 
+Fes servir subagents sempre que sigui possible per a accelerar les tasques i millorar la qualitat de les respostes. 
+
 ## Project Overview
 GeekNite is a Jekyll-based blog focused on geek culture: video games, movies, anime, gadgets, fashion, board games, and Amazon shopping guides. Published via GitHub Pages at `blog.geeknite.com` using the custom theme `FerranSalguero/geeknite-theme`. Only use english or spanish.
 

@@ -5,7 +5,7 @@ tags: [board games, Bloodborne, review, dice, accessories]
 description: "A hilarious review of the Bloodborne Premium Dice Set. Enhance your hunting experience with these beautiful, eldritch dice!"
 ---
 
-[![Bloodborne Dice Set](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}](https://geeknite.com/bloodborne-premium-dice-set)
+[![Bloodborne Dice Set](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}](https://geeknite.com/bloodborne-premium-dice-set)
 
 ## Introduction
 

@@ -17,7 +17,7 @@ description: "Review completo de Warfighter Modern Shadow War Expansion 29: Mult
 
 Hello, tactical masterminds and board game enthusiasts! Today, we’re diving into **Warfighter Modern Shadow War: Expansion 29 – Multi-National Soldier Pack**. If you thought coordinating soldiers from one nation was tricky, wait until you try managing a multi-national force. You might end up needing more strategy than a group of cats trying to break into a sardine tin.
 
-![Warfighter Modern Shadow War](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}
+![Warfighter Modern Shadow War](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}
 
 ## The Basics
 
@@ -43,7 +43,7 @@ Each turn, players will utilize their soldiers' unique skills to perform actions
 
 The game shines in its strategic depth. Managing a multi-national squad means leveraging each soldier's strengths while navigating their quirks. It's like the Olympics, but with more explosions and fewer medals.
 
-![Gameplay](https://i.imgur.com/6s4IJiPm.png){: style='float: right;'}
+![Gameplay](https://i.imgur.com/6s4IJiPm.png){: .align-right}
 
 ## The Experience
 
@@ -80,7 +80,6 @@ Warfighter Modern Shadow War: Expansion 29 is a fantastic addition to any board 
 
 So, gather your multi-national team, set up your strategy, and dive into the thrilling world of Warfighter Modern Shadow War. **Get your copy now and test your tactical skills!**
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
 **Call to Action:** Don’t miss out on the ultimate tactical board game experience! Click [here]({{ site.constants.wsib }}warfighter-modern-shadow-war-expansion-29) to get your copy of Warfighter Modern Shadow War: Expansion 29 now and receive an exclusive discount! Happy gaming!
 

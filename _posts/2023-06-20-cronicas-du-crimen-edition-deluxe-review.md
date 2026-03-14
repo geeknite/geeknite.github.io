@@ -5,7 +5,7 @@ tags: [board games, review, Crónicas du Crimen, crime game, detective, VR]
 description: "Review completo de Crónicas du Crimen Édition Deluxe: juego de detectives con tecnología VR y app para resolver crímenes como CSI."
 ---
 
-![Crónicas du Crimen](/assets/images/general.jpg){: style='float: right;'}
+![Crónicas du Crimen](/assets/images/general.jpg){: .align-right}
 
 ## Introduction
 
@@ -78,12 +78,11 @@ Crónicas du Crimen: Édition Deluxe is a must-have for any board game enthusias
 
 **Ready to solve some crimes?** Grab your copy of Crónicas du Crimen: Édition Deluxe today and start your detective adventure!
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/Jm8ynpT.jpg' %}
 
 ## More Gaming Adventures
 
-- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
+- **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-15-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
 
-**Ready to crack some cases? Click [here](https://example.com) to get your copy now and receive an exclusive discount! Happy sleuthing!**
+**Ready to crack some cases? Click [here]({{ site.constants.wsib }}) to get your copy now and receive an exclusive discount! Happy sleuthing!**

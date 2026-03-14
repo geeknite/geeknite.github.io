@@ -56,7 +56,6 @@ The Marvel United Dice Set brings superhero flair to your tabletop. However, for
 
 In conclusion, the Star Trek Adventures Dice Set: Operations Gold is a fantastic addition to any Star Trek RPG collection. Its aesthetic appeal, durability, and thematic integration make it a standout choice for fans of the franchise. **Ready to roll like a Starfleet officer?** Click [here](https://example.com) to get your set now and embark on your next great adventure!
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
 - **[Adventure Tactics vs CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**

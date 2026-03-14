@@ -1,6 +1,6 @@
 ---
 title: "BBLTIFF Shimano Bleed Kit Review"
-date: "2025-07-29"
+date: 2025-07-29 14:58:02 +0200
 tags:
 - Cycling
 - Shimano
@@ -11,7 +11,7 @@ description: "Review of a budget-friendly third-party Shimano brake bleed kit fr
 redirect_to: https://bikinggeek.github.io/2025/07/bleed-kit-shimano-review.html
 ---
 
-[![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg){: .align-right}]({{ site.constants.wsib }}shimano-bleed-kit)
+![Third-Party Shimano Bleed Kit](https://i.imgur.com/UmrVWy4m.jpg)
 
 ## Introduction
 
@@ -79,6 +79,6 @@ Once you're satisfied that no more air bubbles are escaping, clean up the area a
 
 If you're serious about maintaining your bike and ensuring top-notch brake performance, this third-party bleed kit is an excellent value proposition. It offers all the tools you need for a professional bleed job at a fraction of the cost of the official Shimano kit, even if you're just a garage mechanic. The results are virtually identical, so why pay more? So go ahead, make your brakes cry tears of joy without crying over your wallet!
 
-**Ready to transform your braking experience on a budget?** [Get your third-party Shimano bleed kit here!]({{ site.constants.wsib }}shimano-bleed-kit)
+**Ready to transform your braking experience on a budget?** [Get your third-party Shimano bleed kit here!](https://www.amazon.com/dp/B09XX5FVHJ&tag=geeknite-20)
 
-Happy bleeding! 🚴‍♂️
+Happy bleeding!

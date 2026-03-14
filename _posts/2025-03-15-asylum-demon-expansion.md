@@ -5,7 +5,7 @@ tags: ["board games", "Dark Souls", "Asylum Demon", "expansion"]
 description: "A hilarious and detailed review of the Asylum Demon Expansion for Dark Souls Board Game. Discover why this expansion is a must-have for Dark Souls fans and board game enthusiasts!"
 ---
 
-[![Asylum Demon Expansion](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]({{ site.constants.wsib }}asylum-demon-expansion)
+[![Asylum Demon Expansion](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}]({{ site.constants.wsib }}asylum-demon-expansion)
 
 ## Introduction
 

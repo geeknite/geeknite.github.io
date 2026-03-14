@@ -6,7 +6,7 @@ tags: [Epson, Scanner, Review, Technology, Geek]
 description: "A comprehensive and humorous review of the Epson Perfection V850 Pro, exploring its features, performance, and why it's the ultimate scanner for geeks and tech enthusiasts."
 ---
 
-![Epson Perfection V850 Pro](https://www.epson.com/images/scanners/v850-pro.jpg){: style="float: right;"}({{ site.constants.wsib }}epson-perfection-v850-pro)
+![Epson Perfection V850 Pro](https://www.epson.com/images/scanners/v850-pro.jpg){: .align-right}({{ site.constants.wsib }}epson-perfection-v850-pro)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Is your scanner so ancient that it could belong in a museum? Are you tired of bl
 
 When it comes to design, the Epson Perfection V850 Pro is like the James Bond of scanners – sleek, stylish, and ready for action. With its matte black finish and robust build, this scanner means business. It’s large enough to handle your most ambitious scanning projects but compact enough to fit neatly on your desk without causing a spatial crisis.
 
-![Epson V850 Pro Design](https://www.epson.com/images/scanners/v850-pro-design.jpg){: style="float: right;"}({{ site.constants.wsib }}epson-scanner-design)
+![Epson V850 Pro Design](https://www.epson.com/images/scanners/v850-pro-design.jpg){: .align-right}({{ site.constants.wsib }}epson-scanner-design)
 
 ## Performance and Features
 
@@ -32,7 +32,7 @@ With its dual lens system, the V850 Pro automatically selects the optimum lens f
 
 The V850 Pro comes with a variety of film holders, including ones for 35mm slides, medium format, and 4x5 inch film. It’s like the Swiss Army knife of film scanning – versatile and always ready for action.
 
-![Epson V850 Pro Film Holders](https://www.epson.com/images/scanners/v850-pro-film-holders.jpg){: style="float: right;"}({{ site.constants.wsib }}epson-film-holders)
+![Epson V850 Pro Film Holders](https://www.epson.com/images/scanners/v850-pro-film-holders.jpg){: .align-right}({{ site.constants.wsib }}epson-film-holders)
 
 ## Software and Ease of Use
 

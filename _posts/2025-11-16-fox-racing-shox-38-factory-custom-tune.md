@@ -73,9 +73,7 @@ The Marzocchi Bomber Z1 is another popular choice, especially for those on a bud
 
 In summary, the **Fox Racing Shox 38 Factory 29" 170mm Fork with Custom Tune** is a top-of-the-line choice for mountain bikers looking for exceptional performance, adjustability, and durability. It’s like having a magic carpet ride over rough terrain. While it comes with a hefty price tag, the investment is worth it for those serious about their riding experience.
 
-Ready to upgrade your bike? The Fox 38 Factory is available at [your favorite local bike shop]({{ site.constants.wsib }}fox-racing-shox-38-factory) and on [Amazon](https://www.amazon.com/dp/B08XYZ1234).
 
-**Don’t wait! Your dream ride awaits. Buy the Fox 38 Factory on [Amazon](https://www.amazon.com/dp/B08XYZ1234) to experience it now.**
 
 ## Related Reads
 
