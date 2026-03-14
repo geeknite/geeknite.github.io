@@ -1,7 +1,7 @@
 ---
-title: 47-inch Office Desk with Power Outlet, 2 Monitor Stands, USB Ports, Large Side Pocket
-date: 2026-03-14
-tags:
+ttitle: 47-inch Office Desk with Power Outlet, 2 Monitor Stands, USB Ports, Large Side Pocket
+변date: 2026-03-14
+categories:
   - office-furniture
   - desk-setup
   - gadget-review
@@ -82,9 +82,9 @@ If you are exploring options, you might also consider desks of similar size with
 - IKEA’s comparable solutions: https://www.ikea.com
 
 ### Internal Geeknite posts you might enjoy
-- Desk Mats Guide: [Desk Mats Guide]({% post_url 2025-11-12-desk-mats-guide %})
-- Ergonomics Essentials: [Desk Ergonomics 101]({% post_url 2025-04-18-desk-ergonomics-101 %})
-- Best Monitor Stands for 2026: [Best Monitor Stands 2026]({% post_url 2026-01-07-best-monitor-stands-2026 %})
+- Desk Mats Guide: {% post_url 2025-11-12-desk-mats-guide %}
+- Ergonomics Essentials: {% post_url 2025-04-18-desk-ergonomics-101 %}
+- Best Monitor Stands for 2026: {% post_url 2026-01-07-best-monitor-stands-2026 %}
 
 ## Value and Pricing
 
