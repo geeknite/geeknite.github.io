@@ -1,5 +1,5 @@
 ---
-title: Ray-Ban Meta Review (Expanded)
+title: Ray-Ban Meta Review Expanded
 date: 2026-03-14 12:00:00 -0000
 tags:
   - tech reviews
