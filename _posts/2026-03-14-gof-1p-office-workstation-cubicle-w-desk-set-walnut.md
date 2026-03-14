@@ -17,13 +17,15 @@ tags:
   - assembly
   - space-planning
   - value
---
+---
+
+![GOF 1P Office Workstation Cubicle in Walnut](assets/images/gof-1p-office-workstation-walnut.jpg)
 
 ## Overview
 
 Welcome back, fellow gear voyagers. The GOF 1P Office Workstation Cubicle with Desk Set in Walnut returns in expanded form, ready to duel desk clutter with the swagger of a space-faring librarian who knows where every file goes. The walnut veneer radiates grown-up vibes without wearing a suit, and the modular construction promises future upgrades the way a tech tree promises more power—one logical unlock at a time. If your desk life is currently a gravity well of cables, sticky notes, and a coffee mug that refuses to die, the GOF 1P says: we can architect a better orbit.
 
-The quoted footprint of 6 D x 6 W x 4, 5, 6 H is more than a number; it’s a declaration. It signals a system designed to slip into both compact coworking nooks and generous home offices, with available height options that invite standing work when you’re in the mood to pretend you’re a productivity superhero. In practice, this means room for two or more displays, a printer or external drive, a docking station, and enough surface area to stage a small plant army or a sculpture of your favorite lab mascot made from sticky notes.
+The quoted footprint of 6 D x 6 W x 4', 5', 6' H is more than a number; it’s a declaration. It signals a system designed to slip into both compact coworking nooks and generous home offices, with available height options that invite standing work when you’re in the mood to pretend you’re a productivity superhero. In practice, this means room for two or more displays, a printer or external drive, a docking station, and enough surface area to stage a small plant army or a sculpture of your favorite lab mascot made from sticky notes.
 
 In Geeknite fashion, we treat furniture like characters in a saga. The GOF 1P is the taciturn hero who keeps desk chaos from swallowing your focus, and the walnut finish is the seasoned mentor who reminds you that good taste ages gracefully. Assembly is a rite of passage, but the payoff is a workspace that can evolve alongside your projects—from coding binges to spreadsheet marathons to the occasional 3 AM espresso-fueled brainstorm.
 
