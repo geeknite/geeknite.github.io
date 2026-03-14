@@ -1,5 +1,5 @@
 ---
-title: FDM Zombicide Black Plague Character Dashboard Plateau de Personnage — Expanded Review
+ttitle: FDM Zombicide Black Plague Character Dashboard Plateau de Personnage — Expanded Review
 date: 2026-03-14
 tags:
   - Zombicide
@@ -12,12 +12,14 @@ tags:
   - Upgrade
   - Modularity
   - Plateau de personnage
+  - ZBP
+  - Customization
 ---
 
 ![Plateau de personnage mockup](https://cdn.geeknite.example/images/plateau-de-personnage-mockup.jpg)
 
 ## Introduction
-Welcome back, degenerate dice whisperers and tabletop tacticians. Today we dive back into the fully branded FDM print upgrade for Zombicide Black Plague: the plateau de personnage, a character dashboard that promises to turn chaos into choreography and hexes into haute couture. If your current character sheet looks like a control panel designed by a goblin with ADHD, fear not — this dashboard slides onto the base board with the confidence of a necromancer who finally remembered to bring lunch. It is not merely pretty; it is a table smoothing, mind-calibrating gadget that helps you track wounds, actions, and statuses without needing a second degree in zombie psychology or a secret decoder ring.
+Welcome back, degenerate dice whisperers and tabletop tacticians. Today we dive deeper into the fully branded FDM print upgrade for Zombicide Black Plague: the plateau de personnage, a character dashboard that promises to turn chaos into choreography and hexes into haute couture. If your current character sheet looks like a control panel designed by a goblin with ADHD, fear not — this dashboard slides onto the base board with the confidence of a necromancer who finally remembered to bring lunch. It is not merely pretty; it is a table-smoothing, mind-calibrating gadget that helps you track wounds, actions, and statuses without needing a second degree in zombie psychology or a secret decoder ring.
 
 If you have ever juggled tiles, wound tokens, and dice while a groaning horde closes in, you know chaos is a real attacker. The plateau de personnage is engineered to convert chaos into elegance, leveraging the magic of FDM printing to deliver modular pieces that snap into place on the base board instead of oozing onto every other object on the table. Think of it as an upgrade kit that respects table real estate and keeps the core gameplay intact while adding a touch of theater to the proceedings.
 
@@ -38,7 +40,7 @@ Before you print a dozen pieces, here is what we aimed for, refined through mult
 - Clarity over complexity: readable numbers, clean icons, and crisp typography even at arm’s length in a noisy gaming room.
 - Compatibility: the dashboard must fit the original character sheet footprint, limb by limb, so you don’t have to rework your entire table just to accommodate it.
 - Modularity: pieces should snap together with minimal friction and be easy to replace if a token is lost or a new effect appears in an expansion.
-- Robustness: FDM parts can be a little brittle; we tested with PLA and PETG to see which materials stand up to weekly gaming sessions and the occasional table‑top tumble.
+- Robustness: FDM parts can be a little brittle; we tested with PLA and PETG to see which materials stand up to weekly gaming sessions and the occasional tabletop tumble.
 - Aesthetics: a look that blends the medieval fantasy vibe with clean lines and legible text that won’t clash with the base game art.
 
 Secondary goals include easy post‑print finishing, minimal post‑processing, and the ability to customize with your own color schemes and faction palettes.
@@ -166,7 +168,3 @@ The plateau de personnage for Zombicide Black Plague is a thoughtful upgrade tha
 If you play Zombicide Black Plague with friends who appreciate organization and a touch of theater, the plateau de personnage is worth your time and printer filament. It makes the table feel more like a battlefield and less like a chaotic desk fight. The investment of time and effort pays off in smoother rounds, faster target checks, and a more immersive vibe that helps everyone forget about the bones of the dice and focus on the story the group is telling together.
 
 **Grab the files here through our affiliate link and support Geeknite while you level up your table experience: https://affiliate.example/plateau-de-personnage**
-
-If you want to see more upgrades like this, check out our other feature posts on the blog and keep an eye on the monthly drops of community files. You can also join the discussion on our forum where the community shares loadouts, paint schemes, and print settings that work across printer brands. A community that prints together clicks together, and the jokes about saying oui to the zombie are always welcome.
-
-**Grab the files here through our affiliate link and support Geeknite while you level up your table experience.**
