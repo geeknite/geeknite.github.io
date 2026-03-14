@@ -1,5 +1,5 @@
 ---
-title: PS5 Pro Review 3.0: The Console That Finally Learned Yoga (and Other Stretches)
+title: PS5 Pro Review 3.0: The Console That Finally Learned Yoga (and Other Stretches) - Expanded Edition
 date: 2026-03-15
 tags:
   - gaming
@@ -11,10 +11,14 @@ tags:
   - ps5-pro
   - vr
   - hardware
+  - performance
+  - feature
+  - 4k
+  - hdr
 ---
 
 ## Introduction
-Geeks, gather round. Sony has rolled out a mid-gen king with actual cardio: the PS5 Pro. It purrs, it rumbles, and yes, it sounds like a kitchen blender auditioning for a sci-fi soundtrack. The Pro is here to deliver more frames, more pixels, and maybe a few yoga poses for your TV stand to imitate a sun salutation. This extended review digs into what the PS5 Pro actually is, who it’s for, and whether it’s worth your precious coffee-stained dollars.
+Geeks, gather round. Sony has rolled out a mid-gen king with actual cardio: the PS5 Pro. It purrs, it rumbles, and yes, it sounds like a kitchen blender auditioning for a sci-fi soundtrack. The Pro is here to deliver more frames, more pixels, and maybe a few yoga poses for your TV stand to imitate a sun salutation. This expanded review digs into what the PS5 Pro actually is, who it’s for, and whether it’s worth your precious coffee-stained dollars.
 
 ![PS5 Pro on a neon-lit desk](./assets/ps5-pro-neon.jpg)
 
