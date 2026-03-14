@@ -1,12 +1,13 @@
 ---
-title: "Skip-Bo Card Game: Mattel's Classic Revisited"
+title: "Skip-Bo Card Game: Mattel's Classic Revisited — A Geeknite Re-Review"
 date: 2026-03-14
-tags: [board-games, card-games, mattel, reviews, family-fun, party-games]
+tags: [board-games, card-games, mattel, reviews, family-fun, party-games, chaos, humor]
 ---
 
-![Skip-Bo Setup](/assets/images/skip-bo-setup.jpg)
+![Skip-Bo Setup]({{ '/assets/images/skip-bo-setup.jpg' | relative_url }})
+![Skip-Bo Components]({{ '/assets/images/skip-bo-components.jpg' | relative_url }})
 
-If you're reading Geeknite, you probably like your tabletop chaos with a side of nostalgia. Skip-Bo is Mattel's answer to the question: how many players can you fit around a coffee table before the dog starts editing your moves? It's a game about speed, memory, and pretending you don't know what a 'stock pile' is until you're elbow-deep in cards and laughter. In this review, we examine Skip-Bo through the lens of a lifelong card game lover who pretends to dislike chaos but secretly craves it on game night.
+If you're reading Geeknite, you probably like your tabletop chaos with a side of nostalgia. Skip-Bo is Mattel's answer to the question: how many players can you fit around a coffee table before the dog starts editing your moves? It’s a game about speed, memory, and pretending you don't know what a stock pile is until you're elbow-deep in cards and laughter. In this updated review, we look at Skip-Bo through the lens of a lifelong card game lover who pretends to dislike chaos but secretly craves it on game night.
 
 ## Overview
 Skip-Bo is one of those games that looks innocent on the shelf, then becomes a theater of wobbly pride and dramatic squeaks when a wild card saves or sinks a round. The core concept is deceptively simple: build piles in ascending order from 1 to 12 using number cards and wild Skip-Bo cards. The objective? Deplete your stock pile before your opponents do, thus winning the round (or the night, if you’re playing tournament-style). The magic happens in the tension between planning ahead and reacting on the fly as draw piles drain and wild cards appear at precisely the wrong moment.
@@ -17,10 +18,10 @@ The central build piles are the nerve center of the table. They’re the visible
 ## What is Skip-Bo?
 Skip-Bo is a game about order, timing, and a little bit of deception. It’s not about who’s smartest, but who can play the game with the fewest slips and laugh the loudest when someone forgets to draw a card and ends up with a hilariously short hand. The deck mixes numbered cards with wild Skip-Bo cards that can be used as any number. The goal is to use all the cards in your stock pile by placing them on the central build piles. The more you push, the more you progress toward victory—and the more you risk throwing a wild card away to the table and surrendering the lead.
 
-#### The Core Idea
+### The Core Idea
 At its core, Skip-Bo is about sequencing and timing. You draw to five cards (or keep your current hand if it already has five), then you place cards from your hand, the top card of your stock pile, or from your discard piles onto the central build piles in ascending order. You can only touch the top card of your stock pile. The wild cards are the strategic glue that holds this whole mechanism together, granting you flexibility but also tempting you to overreach.
 
-#### The Role of Wild Cards
+### The Role of Wild Cards
 Skip-Bo wild cards are the most fun and maddening part of the game. When used well, they accelerate your path to victory; when misused, they accelerate someone else’s. The psychology when you hold a wild in your hand is priceless: you’re torn between a calculated move and the feverish impulse to play it immediately and ruin someone else’s day. The best players learn to hold on to sparkle-laden wilds for those moments when a single card could flip the table.
 
 ## Components
