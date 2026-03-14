@@ -60,7 +60,7 @@ Pathfinder Cards: Dungeon Dwellers Face Cards is a fantastic addition to any Pat
 
 ## Related Posts
 
-If you love these face cards, be sure to check out our review of [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%}).
+If you love these face cards, be sure to check out our review of [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}).
 
 - [Pathfinder Dungeon Dwellers Face Cards]({%- post_url 2016-05-10-pathfinder-dungeon-dwellers-face-cards -%})
 - [Pathfinder Battles: Thieves Guild Premium Set Review]({%- post_url 2022-09-10-pathfinder-battles-thieves-guild-premium-set-review -%})

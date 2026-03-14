@@ -78,6 +78,6 @@ City of Mist: Fortune Row - Mythos and Logos Expansion is not just a game; it’
 
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 
 **Ready to delve into the misty mysteries? Click [here]({{ site.constants.wsib }}city-of-mist-fortune-row) to get your copy now and receive an exclusive discount! Happy investigating!**

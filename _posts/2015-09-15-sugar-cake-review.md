@@ -78,7 +78,7 @@ Sugar Cake is a dessert worth every calorie. Its simplicity and delightful taste
 
 ## Related Posts
 
-- [Codenames Board Game Review]({%- post_url 2015-08-01-codenames-board-game-review -%})
+- [Codenames Board Game Review]({%- post_url 2015-06-15-codenames-board-game-review -%})
 - [Frostpunk Board Game Review]({%- post_url 2021-11-01-frostpunk-board-game-review -%})
 - [Gloomhaven Review]({%- post_url 2022-02-04-gloomhaven-review -%})
 

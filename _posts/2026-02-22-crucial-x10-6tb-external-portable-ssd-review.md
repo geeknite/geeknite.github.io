@@ -87,8 +87,8 @@ The Crucial X10 6Tb External Portable SSD is a fantastic storage solution that o
 ## Related Posts
 
 - [Samsung 850 EVO 250GB SSD Review]({%- post_url 2014-12-01-samsung-850-evo-250gb-ssd-review -%})
-- [Samsung SM951 256GB NVMe SSD Review]({%- post_url 2024-05-07-samsung-sm951-256gb-nvme-ssd-review -%})
+- [Samsung SM951 256GB NVMe SSD Review]({%- post_url 2024-05-08-samsung-sm951-256gb-nvme-ssd-review -%})
 - [SSD Upgrade Price Drop]({%- post_url 2012-07-10-price-drop-ssd-upgrade -%})
 - [Samsung 840 vs 840 Pro vs 830 Comparison]({%- post_url 2013-01-31-samsung-840-vs-840-pro-vs-830-comparison -%})
-- [Ultimate Tablet Showdown]({%- post_url 2025-08-20-ultimate-tablet-showdown -%})
+- [Ultimate Tablet Showdown]({%- post_url 2025-08-20-ultimate-tablet-showdown-2025 -%})
 

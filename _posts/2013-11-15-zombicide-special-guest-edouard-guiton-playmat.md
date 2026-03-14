@@ -74,7 +74,7 @@ So what are you waiting for? Get your copy of [Zombicide: Special Guest - Edouar
 - [Zombicide: Season 1 Review]({%- post_url 2013-07-15-zombicide-season-1-review -%})
 - [Zombicide: Green Horde Board Game Review]({%- post_url 2018-06-15-zombicide-green-horde-board-game-review -%})
 - [Zombicide: Lost Zombivors Review]({%- post_url 2013-05-15-zombicide-lost-zombivors-review -%})
-- [Marvel United Multiverse Board Game]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Marvel United Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Spider-Geddon Board Games]({%- post_url 2024-08-15-spider-geddon-board-games -%})
 
 **Ready to dive into the Zombicide world with Edouard Guiton's artwork?** Don't miss out on this special guest playmat!

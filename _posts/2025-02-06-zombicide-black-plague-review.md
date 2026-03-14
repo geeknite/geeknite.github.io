@@ -83,6 +83,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 - **[Spider-Geddon: The Ultimate Board Game Review]({%- post_url 2024-08-15-spider-geddon-board-games -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 
 **Ready to face the zombie apocalypse? Click [here]({{ site.constants.wsib }}zombicide-black-plague) to get your copy now and receive an exclusive discount! Happy slaying!**

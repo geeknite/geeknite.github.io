@@ -82,6 +82,6 @@ The Meta Quest 3 is a fantastic VR headset that offers a truly immersive experie
 - [Meta Quest 3S 256 GB VR Headset Review]({%- post_url 2025-12-18-meta-quest-3s-256-gb-vr-headset-review -%})
 - [Logitech G Astro A50 X Lightspeed Review]({%- post_url 2025-12-15-logitech-g-astro-a50-x-lightspeed-review -%})
 - [PS5 Slim Review]({%- post_url 2023-12-15-ps5-slim-review -%})
-- [Baldur's Gate 3 Review]({%- post_url 2023-08-15-baldurs-gate-3-review -%})
+- [Baldur's Gate 3 Review]({%- post_url 2023-08-18-baldurs-gate-3-review -%})
 
 **Don't miss out on the VR revolution! Get your [Meta Quest 3]({{ site.constants.wsib }}Meta Quest 3) now and dive into a world of endless possibilities.**

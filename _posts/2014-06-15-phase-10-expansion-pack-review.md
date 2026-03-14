@@ -10,9 +10,9 @@ last_modified_at: "2026-03-12"
 
 ## Introduction: The Evolution of Phase 10
 
-Welcome, fellow card game enthusiasts! Today, we're diving deep into **Phase 10: Expansion Pack**, the latest addition to the popular Phase 10 card game. If you've been following our [comprehensive card game reviews]({%- post_url 2023-08-15-marvel-united-multiverse-review -%}), you'll know that Phase 10 ranks among the top strategy card games available. This expansion pack takes everything we love about the base game and elevates it to new heights.
+Welcome, fellow card game enthusiasts! Today, we're diving deep into **Phase 10: Expansion Pack**, the latest addition to the popular Phase 10 card game. If you've been following our [comprehensive card game reviews]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}), you'll know that Phase 10 ranks among the top strategy card games available. This expansion pack takes everything we love about the base game and elevates it to new heights.
 
-As someone who's spent countless hours with card games—from the epic battles in [Marvel United Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-review -%}) to the strategic depth of [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%})—I can confidently say that the Phase 10 Expansion Pack offers something uniquely compelling in the card game space.
+As someone who's spent countless hours with card games—from the epic battles in [Marvel United Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) to the strategic depth of [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%})—I can confidently say that the Phase 10 Expansion Pack offers something uniquely compelling in the card game space.
 
 ---
 
@@ -49,7 +49,7 @@ One of the standout features of the Expansion Pack is its diverse card collectio
 - **High Risk-Reward Cards:** Cards that offer significant advantages but come with equally significant risks.
 - **Phase Boost Cards:** Cards designed to help players complete phases faster.
 
-**Strategic Insight:** Unlike the uniform challenge of base game cards, the Expansion Pack's varied card types create natural rhythm changes that mirror real strategic games. High risk and reward cards each have their moments to shine—much like how different card games in our collection serve different preferences, from the [strategic depth of Marvel United Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-review -%}) to the humor of Spider-Geddon.
+**Strategic Insight:** Unlike the uniform challenge of base game cards, the Expansion Pack's varied card types create natural rhythm changes that mirror real strategic games. High risk and reward cards each have their moments to shine—much like how different card games in our collection serve different preferences, from the [strategic depth of Marvel United Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) to the humor of Spider-Geddon.
 
 ---
 
@@ -99,7 +99,7 @@ Ready to embark on your own Phase 10 adventure? Check out [Phase 10: Expansion P
 ---
 For more reviews and card game recommendations, check out our previous posts:
 
-- [Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+- [Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Spider-Geddon Board Game Review]({%- post_url 2024-08-15-spider-geddon-board-games -%})
 - [Phase 10 Card Game Review]({%- post_url 2023-04-06-phase-10-card-game-review -%})
 - [Skip-Bo Card Game Review]({%- post_url 2014-02-15-skip-bo-card-game-review -%})

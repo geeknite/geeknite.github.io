@@ -77,6 +77,6 @@ Zombicide: Special Guest - Edouard Guiton Art Book is not just an art book; itâ€
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Zombicide: Season 1 Review]({%- post_url 2013-07-15-zombicide-season-1-review -%})**
 - **[Zombicide: Green Horde Board Game Review]({%- post_url 2018-06-15-zombicide-green-horde-board-game-review -%})**
-- **[CMON Zombicide: Prison Outbreak Review]({%- post_url 2025-04-07-cmon-zombicide-prison-outbreak-review -%})**
+- **[CMON Zombicide: Prison Outbreak Review]({%- post_url 2014-10-26-Zombicide-Prison-Outbreak-Review -%})**
 
 **Ready to unite and conquer? Click [here]({{ site.constants.wsib }}Zombicide Special Guest Edouard Guiton Art Book) to get your copy now! Happy adventuring!**

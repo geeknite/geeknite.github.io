@@ -57,7 +57,7 @@ One of the funniest moments we've had with these doors was during a game of Star
 
 ## Comparison with Other Terrain Pieces
 
-While the Terrain Crate MGSS305 Starship Doors are fantastic, it's worth noting how they stack up against other terrain pieces. Compared to generic doors, these doors offer more detail and thematic relevance. However, they might not match the versatility of modular terrain sets like the ones we reviewed in our [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%}) or the adaptability of terrain pieces from [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
+While the Terrain Crate MGSS305 Starship Doors are fantastic, it's worth noting how they stack up against other terrain pieces. Compared to generic doors, these doors offer more detail and thematic relevance. However, they might not match the versatility of modular terrain sets like the ones we reviewed in our [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or the adaptability of terrain pieces from [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
 
 ## Final Recommendation
 
@@ -68,7 +68,7 @@ In conclusion, the Terrain Crate MGSS305 Starship Doors are a must-have for any 
 For more reviews and tabletop gaming recommendations, check out our previous posts:
 
 - [Terrain Crate Starship Doors Review]({%- post_url 2020-02-15-terrain-crate-starship-doors-review -%})
-- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Spider-Geddon Board Game Review]({%- post_url 2024-08-15-spider-geddon-board-games -%})
 - [Star Saga Mantic Games Miniatures Review]({%- post_url 2017-09-15-star-saga-mantic-games-miniatures-review -%})
 - [Warhammer 40K Necrons vs Space Marines]({%- post_url 2023-07-25-warhammer-40k-necrons-vs-space-marines -%})

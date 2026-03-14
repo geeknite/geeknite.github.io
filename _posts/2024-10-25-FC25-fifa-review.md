@@ -84,5 +84,5 @@ Ready to lace up your virtual boots? Grab FC25 now and dive into the most ridicu
 ---
 For more reviews and gaming recommendations, check out our previous posts:
 
-- [Review of HEAT: Pedal to the Metal - Racing Game Extravaganza]({%- post_url 2024-03-20-review-heat-pedal-to-the-metal -%})
+- [Review of HEAT: Pedal to the Metal - Racing Game Extravaganza]({%- post_url 2024-03-21-review-heat-pedal-to-the-metal -%})
 - [Crusader Kings III: The Ultimate Strategy Game That Will Transport You Back In Time]({%- post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game -%})

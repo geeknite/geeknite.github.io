@@ -84,4 +84,4 @@ The Game: The Ultimate Edition is not just a card game; it’s an experience. Wh
 For more reviews and board game recommendations, check out our previous posts:
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})**
+- **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**

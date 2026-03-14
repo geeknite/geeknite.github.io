@@ -79,7 +79,7 @@ The 7TV Expansion Pack is not just a board game; it's an adventure through the t
 - **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Sniper Elite Board Game Review]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})**
-- **[Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Scythe Board Game Extension Complete Review]({%- post_url 2016-08-01-scythe-board-game-extension-complete-review -%})**
 
 **Ready to take the lead? Click [here]({{ site.constants.wsib }}7TV Expansion Pack) to get your copy now! Happy adventuring!**

@@ -73,7 +73,7 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}th
 For more reviews and board game recommendations, check out our previous posts:
 
 - [Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 - [The Mind Card Game Review]({%- post_url 2025-04-17-review-the-mind-card-game -%})
 - [The Game Strategy Card Game Review]({%- post_url 2025-04-07-the-game-strategy-card-game-review -%})
 - [Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})

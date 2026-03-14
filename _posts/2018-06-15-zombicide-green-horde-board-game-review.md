@@ -80,7 +80,7 @@ So what are you waiting for? Get your copy of [Zombicide: Green Horde]({{ site.c
 
 - [Zombicide: Season 1 Review]({%- post_url 2013-07-15-zombicide-season-1-review -%})
 - [Zombicide: Lost Zombivors Review]({%- post_url 2013-05-15-zombicide-lost-zombivors-review -%})
-- [CMON Zombicide: Prison Outbreak Review]({%- post_url 2025-04-07-cmon-zombicide-prison-outbreak-review -%})
+- [CMON Zombicide: Prison Outbreak Review]({%- post_url 2014-10-26-Zombicide-Prison-Outbreak-Review -%})
 - [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%})
 - [Gloomhaven Review]({%- post_url 2022-02-04-gloomhaven-review -%})
 

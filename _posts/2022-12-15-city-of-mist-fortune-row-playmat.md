@@ -72,4 +72,4 @@ City of Mist: Fortune Row - Playmat is more than just a game accessory; it's an 
 - [City of Mist: Fortune Row - Character Pack Review]({%- post_url 2023-04-15-city-of-mist-fortune-row-character-pack-review -%})
 - [City of Mist: Fortune Row - Art Book]({%- post_url 2025-02-05-city-of-mist-fortune-row-art-book -%})
 - [Gloomhaven Review]({%- post_url 2022-02-04-gloomhaven-review -%})
-- [Marvel United Multiverse Board Game]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%})
+- [Marvel United Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})

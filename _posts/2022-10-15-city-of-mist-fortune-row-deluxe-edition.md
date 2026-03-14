@@ -94,5 +94,5 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}Ci
 - [City of Mist: Fortune Row - Character Pack Review]({%- post_url 2023-04-15-city-of-mist-fortune-row-character-pack-review -%})
 - [City of Mist: Fortune Row - Art Book]({%- post_url 2025-02-05-city-of-mist-fortune-row-art-book -%})
 - [Gloomhaven Review]({%- post_url 2022-02-04-gloomhaven-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 

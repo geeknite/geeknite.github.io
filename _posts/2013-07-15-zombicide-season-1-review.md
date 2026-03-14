@@ -93,8 +93,8 @@ Zombicide: Season 1 is a fantastic board game that offers a thrilling and hilari
 ---
 For more board game reviews and recommendations, check out our other posts:
 
-- [Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+- [Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Nemesis vs Alien: Fate of the Nostromo Review]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%})
 - [Zombicide: Green Horde Board Game Review]({%- post_url 2018-06-15-zombicide-green-horde-board-game-review -%})
-- [CMON Zombicide: Prison Outbreak Review]({%- post_url 2025-04-07-cmon-zombicide-prison-outbreak-review -%})
+- [CMON Zombicide: Prison Outbreak Review]({%- post_url 2014-10-26-Zombicide-Prison-Outbreak-Review -%})
 - [Zombicide: Lost Zombivors Review]({%- post_url 2013-05-15-zombicide-lost-zombivors-review -%})

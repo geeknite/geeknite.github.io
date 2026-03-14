@@ -72,6 +72,6 @@ For more gaming reviews and recommendations, check out our previous posts:
 
 - [Persona 5 Royal Review: A Whimsical Journey Through the Heart of Gaming]({%- post_url 2022-04-23-persona-5-royal-review -%})
 - [Crusader Kings III Review: The Ultimate Strategy Game]({%- post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game -%})
-- [Baldur's Gate 3 Review]({%- post_url 2023-08-15-baldurs-gate-3-review -%})
+- [Baldur's Gate 3 Review]({%- post_url 2023-08-18-baldurs-gate-3-review -%})
 - [Dark Souls: Complete Board Game Guide]({%- post_url 2017-04-01-dark-souls-complete-board-game-guide -%})
 - [Mass Effect 2 Review]({%- post_url 2010-01-26-mass-effect-2-review -%})

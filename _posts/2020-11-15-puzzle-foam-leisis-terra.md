@@ -60,7 +60,7 @@ The Puzzle Foam Leisis Terra Multicolor is a solid investment for anyone looking
 
 ## Related Posts
 
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 - [LEGO Product Review: An In-Depth Look at the Best Sets Available]({%- post_url 2025-02-08-lego-product-review -%})
 - [Board Games Recommendations 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})

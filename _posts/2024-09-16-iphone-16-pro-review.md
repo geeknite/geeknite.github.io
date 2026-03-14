@@ -140,7 +140,7 @@ However, the Pixel 9 Pro falls behind in raw performance, video recording qualit
 
 For those seeking flagship performance at a lower price point, the [OnePlus 12]({{ site.constants.wsib }}OnePlus 12) deserves consideration. It packs a Snapdragon 8 Gen 3, a gorgeous 120Hz AMOLED display, and 100W fast charging that puts every other phone to shame. Its Hasselblad-tuned camera system has improved significantly, though it still cannot match the iPhone 16 Pro's consistency or video capabilities. The OnePlus 12 is the best option for those who want near-flagship performance without the flagship price tag.
 
-If you are curious about how different tech products compare across the Apple ecosystem, check out our [Ultimate Tablet Showdown]({%- post_url 2025-08-20-ultimate-tablet-showdown -%}) for a comprehensive tablet comparison, or our [iPad Pro M4 review]({%- post_url 2025-08-20-ipad-pro-m4-review -%}) for Apple's best tablet experience.
+If you are curious about how different tech products compare across the Apple ecosystem, check out our [Ultimate Tablet Showdown]({%- post_url 2025-08-20-ultimate-tablet-showdown-2025 -%}) for a comprehensive tablet comparison, or our [iPad Pro M4 review]({%- post_url 2025-08-20-ipad-pro-m4-review -%}) for Apple's best tablet experience.
 
 ## Pros and Cons
 

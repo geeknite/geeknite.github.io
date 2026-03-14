@@ -93,6 +93,6 @@ If you love [Phase 10]({{ site.constants.wsib }}Phase 10 Deluxe Edition), be sur
 - [Board Games Recommendations 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Skip-Bo Card Game Review]({%- post_url 2014-02-15-skip-bo-card-game-review -%})
 - [UNO Card Game Review]({%- post_url 2022-01-15-uno-card-game-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 
 **Don't miss out on the fun!**

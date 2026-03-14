@@ -69,7 +69,7 @@ Card games are an essential part of any board game collection. Whether you're lo
 ## Related Posts
 
 - [Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 - [Board Games Recommendations 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
 - [Phase 10 Card Game Review]({%- post_url 2023-04-06-phase-10-card-game-review -%})
 - [Epic Strategy Board Games Guide]({%- post_url 2017-08-05-epic-strategy-board-games-guide -%})

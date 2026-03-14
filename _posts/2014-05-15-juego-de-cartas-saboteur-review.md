@@ -73,6 +73,6 @@ Si te gustan los juegos de cartas que combinan estrategia, engaño y un toque de
 - [The Game Strategy Card Game Review]({%- post_url 2025-04-07-the-game-strategy-card-game-review -%})
 - [Spider-Geddon Board Games Review]({%- post_url 2024-08-15-spider-geddon-board-games -%})
 - [Board Games Recommendations 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 
 ¡Gracias por leer y happy gaming!

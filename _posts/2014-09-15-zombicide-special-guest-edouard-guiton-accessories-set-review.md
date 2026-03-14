@@ -74,6 +74,6 @@ So, what are you waiting for? Head over to [Geeknite's Board Games Section]({{ s
 - [Zombicide: Special Guest Edouard Guiton]({%- post_url 2014-01-15-zombicide-special-guest-edouard-guiton -%})
 - [Zombicide Season 1 Review]({%- post_url 2013-07-15-zombicide-season-1-review -%})
 - [Zombicide Green Horde Board Game Review]({%- post_url 2018-06-15-zombicide-green-horde-board-game-review -%})
-- [CMON Zombicide Prison Outbreak Review]({%- post_url 2025-04-07-cmon-zombicide-prison-outbreak-review -%})
+- [CMON Zombicide Prison Outbreak Review]({%- post_url 2014-10-26-Zombicide-Prison-Outbreak-Review -%})
 
 **Ready for the ultimate zombie showdown?** Don't miss out on the fun!

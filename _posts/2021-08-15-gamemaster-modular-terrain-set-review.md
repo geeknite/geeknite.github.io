@@ -72,6 +72,6 @@ So, gather your paints, channel your inner architect, and prepare to build the k
 
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
 - [Sniper Elite Board Game Review: Stealth and Strategy on Your Tabletop]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 - [Warhammer 40K Necrons vs Space Marines]({%- post_url 2023-07-25-warhammer-40k-necrons-vs-space-marines -%})
 - [Star Saga Mantic Games Miniatures Review]({%- post_url 2017-09-15-star-saga-mantic-games-miniatures-review -%})

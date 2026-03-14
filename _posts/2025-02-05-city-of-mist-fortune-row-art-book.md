@@ -65,6 +65,6 @@ For more reviews and tabletop RPG content, check out our previous posts:
 
 - [Mistborn 3: The Hero of Ages Review]({%- post_url 2018-04-04-mistborn-3-review -%})
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
-- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+- [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 
 **Ready to dive into the mysteries of Fortune Row? Click [here]({{ site.constants.wsib }}fortune_row_art_book) to get your copy now!**

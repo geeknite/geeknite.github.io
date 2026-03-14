@@ -78,4 +78,4 @@ The Trio Family Card Game is a fantastic addition to any family game night. Its 
 - [Sushi Go Review]({%- post_url 2013-12-15-sushi-go-review -%})
 - [Exploding Kittens Card Game Review]({%- post_url 2015-07-15-exploding-kittens-card-game-review -%})
 - [Uno Card Game Review]({%- post_url 2022-01-15-uno-card-game-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})

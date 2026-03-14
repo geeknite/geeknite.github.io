@@ -79,8 +79,8 @@ So what are you waiting for? Get your copy of [Zombicide: Lost Zombivors]({{ sit
 
 - [Zombicide: Season 1 Review]({%- post_url 2013-07-15-zombicide-season-1-review -%})
 - [Zombicide: Green Horde Board Game Review]({%- post_url 2018-06-15-zombicide-green-horde-board-game-review -%})
-- [CMON Zombicide: Prison Outbreak Review]({%- post_url 2025-04-07-cmon-zombicide-prison-outbreak-review -%})
-- [Marvel United Multiverse Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})
+- [CMON Zombicide: Prison Outbreak Review]({%- post_url 2014-10-26-Zombicide-Prison-Outbreak-Review -%})
+- [Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Nemesis vs Alien: Fate of the Nostromo]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%})
 
 **Ready to face the zombie apocalypse?** Don't miss out on the fun!

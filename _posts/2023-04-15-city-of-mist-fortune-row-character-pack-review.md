@@ -86,8 +86,8 @@ The **City of Mist: Fortune Row - Character Pack** is a fantastic addition to an
 
 ## Related Posts
 
-- **[Marvel United Multiverse Review]( {{ site.baseurl }}{% post_url 2023-08-15-marvel-united-multiverse-review %})**
+- **[Marvel United Multiverse Review]( {{ site.baseurl }}{% post_url 2023-08-22-marvel-united-multiverse-complete-review %})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]( {{ site.baseurl }}{% post_url 2022-02-04-gloomhaven-review %})**
-- **[Top 10 Racing Board Games]( {{ site.baseurl }}{% post_url 2023-06-15-top-10-racing-board-games %})**
+- **[Top 10 Racing Board Games]( {{ site.baseurl }}{% post_url 2023-06-17-top-10-racing-board-games %})**
 
 Happy gaming, and remember, the mist is always watching!

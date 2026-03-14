@@ -83,6 +83,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}th
 
 ### Other Mind-Boggling Games to Check Out
 
-If you love intense and funny card games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2025-03-15-marvel-united-multiverse-board-game -%}) or [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).
+If you love intense and funny card games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).
 
 **Ready to challenge your mind? Don’t miss out on the fun!**

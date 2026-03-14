@@ -66,4 +66,4 @@ Rummy is a timeless card game that offers a perfect blend of strategy, luck, and
 For more reviews and card game recommendations, check out our previous posts:
 
 - [To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and Board Games]({%- post_url 2021-02-21-to-sleeve-or-not-to-sleeve -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})

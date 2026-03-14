@@ -73,6 +73,6 @@ If you love [Cards Against Humanity]({{ site.constants.wsib }}Cards Against Huma
 - [Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})
 - [Codenames Board Game Review]({%- post_url 2015-06-15-codenames-board-game-review -%})
 - [Monopoly Deal Card Game Review]({%- post_url 2014-11-15-monopoly-deal-card-game-review -%})
-- [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%})
+- [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})
 
 **Ready to unleash your inner party animal?** Don't miss out on the fun!

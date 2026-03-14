@@ -67,7 +67,7 @@ Exploding Kittens: Cat Cards is not just a card game; it's an adventure filled w
 
 ## Other Games to Check Out
 
-- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-15-marvel-united-multiverse-review -%})**
+- **[Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Ready to explode with fun? Don't miss out on Exploding Kittens: Cat Cards!**

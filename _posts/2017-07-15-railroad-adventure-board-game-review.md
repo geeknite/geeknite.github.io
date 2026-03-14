@@ -76,6 +76,6 @@ So, gather your friends, set up your trains, and dive into the thrilling world o
 
 ## Other Board Games to Check Out
 
-If you love Railroad Adventure Board Game, be sure to check out our top racing games list in [Top 10 Racing Board Games]({%- post_url 2023-06-15-top-10-racing-board-games -%}) and our ultimate guide in [Board Games Recommendations for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%}).
+If you love Railroad Adventure Board Game, be sure to check out our top racing games list in [Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%}) and our ultimate guide in [Board Games Recommendations for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%}).
 
 **Ready to embark on your railroad adventure? Don't wait—grab your copy today!**

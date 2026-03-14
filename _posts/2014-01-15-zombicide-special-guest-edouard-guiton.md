@@ -74,7 +74,7 @@ So what are you waiting for? Head over and get your copy of [Zombicide: Special 
 - [Zombicide: Season 1 Review]({%- post_url 2013-07-15-zombicide-season-1-review -%})
 - [Zombicide: Green Horde Board Game Review]({%- post_url 2018-06-15-zombicide-green-horde-board-game-review -%})
 - [Zombicide: Lost Zombivors Review]({%- post_url 2013-05-15-zombicide-lost-zombivors-review -%})
-- [CMON Zombicide: Prison Outbreak Review]({%- post_url 2025-04-07-cmon-zombicide-prison-outbreak-review -%})
+- [CMON Zombicide: Prison Outbreak Review]({%- post_url 2014-10-26-Zombicide-Prison-Outbreak-Review -%})
 - [Gloomhaven Review]({%- post_url 2022-02-04-gloomhaven-review -%})
 
 **Ready to face the zombie apocalypse?** Don't miss out on the fun!

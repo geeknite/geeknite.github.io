@@ -76,6 +76,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}zo
 
 ### Other Board Games to Check Out
 
-If you love cooperative board games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-15-marvel-united-multiverse-review -%}) or [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
+If you love cooperative board games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Spider-Geddon]({%- post_url 2024-08-15-spider-geddon-board-games -%}).
 
 **Ready to face the undead horde? Don’t miss out on the fun!**
