@@ -151,6 +151,7 @@ exclude:
   - README
   - tmp
   - nul
+  - CLAUDE.md
 keep_files:
   - .git
   - .svn
