@@ -1,6 +1,6 @@
 ---
-title: PS5 Pro Review 2.0: The Console That Finally Learns Yoga
-date: 2026-03-14
+title: PS5 Pro Review 3.0: The Console That Finally Learned Yoga (and Other Stretches)
+date: 2026-03-15
 tags:
   - gaming
   - consoles
@@ -9,6 +9,8 @@ tags:
   - tech
   - review
   - ps5-pro
+  - vr
+  - hardware
 ---
 
 ## Introduction
@@ -86,6 +88,7 @@ In the same space, Microsoft’s Xbox Series X provides a different flavor of pe
 - Faster load times and improved I/O provide a more responsive feel
 - Improved cooling and sustained performance under load without dramatic noise increases
 - Solid backward compatibility with an expanding library and improved titles
+- VR performance improvements can make headset experiences feel closer to PCVR in some scenes
 
 ### Cons
 - Higher price may be a barrier for casual players or those without a 4K HDR display
