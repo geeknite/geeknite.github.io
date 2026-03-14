@@ -1,13 +1,13 @@
 ---
-title: Zombicide Wulfsburg and Black Plague - Character Cards Only
+title: "Zombicide Wulfsburg And Black Plague - Character Cards Only"
 date: 2026-03-14
 tags: [board-games, zombicide, wulfsburg, black-plague, cards, reviews, expansions, character-cards]
 ---
 
 ## Introduction
-Welcome back to Geeknite’s deep-dade-of-card-nerdiness corner, where we zoom in not on the scary zombies but on the glorious little rectangles that guide our bravery (and occasional bad dice rolls). This post revisits Zombicide Wulfsburg and Zombicide Black Plague—two expansions that love to pretend they are not siblings, but clearly share a family photo album with identical noses and similarly mischief-prone eyes. If you’re here for a blow-by-blow of every survivor’s backstory, this is not that post. If you’re here to understand how the character cards move the table, the pacing, the memory load, and your victory chances, you’ve arrived exactly on time for the card-focused sequel you didn’t know you needed. And yes, we will have opinions. Lots of opinions. They’re practically card stock confetti around here.
+Welcome back to Geeknite’s never-ending love letter to tiny rectangles with existential dread: the character cards. Today we’re revisiting Zombicide Wulfsburg and Zombicide Black Plague—two expansions that argue they aren’t siblings, but they sure share a bloodline, a shared accessory drawer, and approximately the same number of sharp edges that could turn a roll of the dice into a dramatic tragedy. If you’re here for backstory minutiae, this is not that post. If you’re here to understand how the character cards shape the table, how they affect pacing, memory load, and victory odds, you’ve parked in the right fantasy parking lot. And yes, we will have opinions. Lots of opinions. They’re practically laminated card stock confetti around here.
 
-In this edition, we’ll expand the discussion beyond “these cards look nice” and into how the two different aesthetics (Nordic rune vibes vs. medieval parchment vibes) actually translate into gameplay ergonomics, readability, and long campaign fatigue. Spoiler: it’s not just about pretty pictures. The card design sits at the intersection of readability, memory, and moment-to-moment decision-making when the map tiles start to resemble a jittery hydra of loot and lurkers.
+In this expanded edition, we’ll go beyond “these cards look cool” to explore how two very different aesthetic languages—Nordic rune vibes in Wulfsburg and medieval parchment vibes in Black Plague—translate into gameplay ergonomics, readability, and long campaign stamina. Spoiler: it’s not just about pretty pictures. The card design sits at the intersection of readability, memory, and moment-to-moment decision-making when the board starts to look like a jittery hydra of loot, traps, and lurkers.
 
 ![Wulfsburg Card Art]({{ site.baseurl }}/assets/images/zombicide-wulfsburg-cards.jpg)
 ![Black Plague Card Art]({{ site.baseurl }}/assets/images/zombicide-black-plague-cards.jpg)
@@ -43,20 +43,20 @@ A standard survivor card generally shows:
 Wulfsburg introduces rune icons that tie your survivor to the expansion’s tiles and environment, nudging you to think about terrain and edge-related discoveries. Black Plague leverages knightly and guild-themed icons tied to medieval roles and religious motifs. The upshot is that flavor hints at playstyle: Wulfsburg tends to reward mobility, terrain slaloms, and opportunistic looting, while Black Plague rewards defense, veteran weaponry, and dungeon-crawl sequencing—often in a more deliberate, slower tempo.
 
 ## Wulfsburg vs Black Plague: sample strokes (card design notes)
-This section is less about exact numbers and more about how the two sets encourage different pacing and planning habits.
+This section isn’t about exact numbers; it’s about how the two sets encourage different pacing and planning habits.
 
 ### Wulfsburg character cards (sample discussion)
 - Survivors with high Move help you sprint around the board and reach critical loot locations first, which is massive for ending a turn with loot in hand or slipping past a rushing zombie wave.
 - A balanced Fight value with equipment-derived boosts gives a predictable baseline with occasional spikes when you equip the right item.
 - A unique environmental interaction—think enhanced loot discovery on map edges or terrain-triggered bonuses—encourages dynamic positioning rather than brute-force head-to-head conflicts.
 
-Physically speaking, Wulfsburg cards tend to feel crisp and glossy, with illustrations occupying generous space at the top. They sleeve well, resist accidental edge wear, and the color-coding helps you segregate survivors from zombie crowds during a frenzied post-briefing card shuffle.
+Physically speaking, Wulfsburg cards tend to feel crisp and glossy, with illustrations occupying generous space at the top. They sleeve well, resist edge wear, and the color-coding helps you segregate survivors from zombie crowds during a frenzied post-briefing card shuffle.
 
 ### Black Plague character cards (sample discussion)
 Black Plague cards lean into sturdier archetypes: knights, rogues, scholars. The imagery evokes armored silhouettes and guild insignia, while the stats tilt toward resilience, critical hits, and synergy when you have the right gear. Abilities often reward multi-turn planning around traps and dungeon corridors. The templates are designed to be symmetrical with Wulfsburg, a deliberate choice that reduces the mental load across campaigns with both expansions in play. In practice, that symmetry means you aren’t forced to memorize two divergent read patterns—your brain can stay in the same rhythm, which matters when a sudden wave of zombies hits and memory banks flood with numbers.
 
 ## Card quality, production, and sleeve-ability
-Durability matters in Zombicide, where you may shuffle and redraw cards hundreds of times. Both expansions use a sturdy cardstock with a satisfying heft. They aren’t as glossy as a modern collectors’ card game, but they remain durable under frequent shuffling and quick deck re-ordering in the middle of a tense scenario. Sleeving is relatively painless; the cards fit without warping, and they maintain readability after a few campaigns worth of fan-made sleeves. 
+Durability matters in Zombicide, where you may shuffle and redraw cards hundreds of times. Both expansions use sturdy cardstock with a satisfying heft. They aren’t as glossy as a modern collectors’ card game, but they remain durable under frequent shuffling and quick deck re-ordering in the middle of a tense scenario. Sleeving is relatively painless; the cards fit without warping, and they maintain readability after a few campaigns worth of fan-made sleeves.
 
 Readability remains a core concern: high-contrast stat icons hold up under ambient light, and the typographic choices keep text legible when players lean in during a late-night session. Reports of misprints or misalignment are rare, which is a good sign for anyone who wants to mix two expansions without a nightly rule-check scavenger hunt.
 
@@ -73,15 +73,10 @@ The goal here is speed: fewer rummaging seconds means more time to realize your 
 ## The synergy of Wulfsburg and Black Plague in a mixed campaign
 One charming or terrifying feature of Zombicide card design is how well the two expansions can play alongside each other. When you mix Wulfsburg survivors with Black Plague survivors, you get a broad palette of abilities that evoke a fantasy crossover poster: mobility from one side meets defense-and-durability from the other. In practice, this can yield satisfying combos like a Wulfsburg-runner who dodges a horde while a Black Plague knight holds a doorway long enough for others to loot and escape. It’s cinematic—if you enjoy victory-prone montages, you’ll love it.
 
-But balance can feel delicate. Some pairings look strong in the first few waves, only to be matched later by the villainous RNG that loves dramatic reversals. The designers’ goal with symmetrical stat blocks and consistent starting gear is to push the game toward strategy and tempo rather than sheer luck in the early rounds. If you’re a player who prefers high-octane aggression, you may lean toward Wulfsburg styles; if you’re drawn to attrition and controlled defense, Black Plague may be your go-to.
+But balance can feel delicate. Some pairings look strong in the first few waves, only to be matched later by the RNG that loves dramatic reversals. The designers’ goal with symmetrical stat blocks and consistent starting gear is to push the game toward strategy and tempo rather than sheer luck in the early rounds. If you’re a player who prefers high-octane aggression, you may lean toward Wulfsburg styles; if you’re drawn to attrition and controlled defense, Black Plague may be your go-to.
 
 ## Thematic and artistic notes
 Art direction isn’t decoration here; it anchors the mood of the table. Wulfsburg cards push you toward bright rune motifs and steel-blue hues that evoke a Nordic-meets-tomb-lair aura. Black Plague cards lean into parchment textures with gilded edges—think a medieval magistrate’s desk meets a dungeon wall. Reading these cards is a mood-reading exercise as much as it is a mechanical one; the theme nudges your decisions about where to move, when to strike, and whom to trust. If you’re the type who personalizes play styles with narrative flourishes, the art gives you a ready-made backdrop for your own heroic or villainous antics.
-
-Images:
-- ![Wulfsburg Card Art]({{ site.baseurl }}/assets/images/zombicide-wulfsburg-cards.jpg)
-- ![Black Plague Card Art]({{ site.baseurl }}/assets/images/zombicide-black-plague-cards.jpg)
-- ![Card Comparison]({{ site.baseurl }}/assets/images/card-comparison.jpg)
 
 ## Strategy and gameplay tips for using character cards
 A few practical pointers for getting the most out of these two expansions’ faces on the table:
