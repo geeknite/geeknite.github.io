@@ -10,6 +10,7 @@ tags:
   - reseña
   - edicion-clasica
   - diseno-antiguo
+  - e5
 ---
 
 ## Introducción revisada: un viaje a través del cartón y la memoria
@@ -21,6 +22,8 @@ En un mundo inundado de ediciones modernas que brillan más que un C-3PO recién
 > Nota nerd de contexto: UNO nació en 1971 gracias a Merle Robbins y, desde entonces, ha pasado por múltiples reimpresiones, cambios de diseño y alianzas que hacen que cada edición evoque recuerdos de años específicos. Si quieres ponerte en contexto histórico, échale un ojo a [la historia de UNO]({% post_url 2024-07-01-uno-history %}) en nuestro archivo de reseñas. 
 
 Además, para los amantes de lo vintage con la calidad de lo moderno, la versión clásica mantiene una paleta y una tipografía que no siempre ves en ediciones actuales. Antes, la gente leía manuales impresos en papel reciclado con tinta que sabía a café de oficina, y aun así, esa legibilidad era suficiente para distinguir entre un Skip y un Draw Two. Hoy, los mazos modernos pueden lucir más brillantes, pero el encanto antiguo reside en la sensación de tocar una reliquia galáctica de los años 80 y 90. Si te consideras un viajero del tiempo con las manos llenas de tinta de historia, esta edición podría ser tu pasaporte.
+
+![UNO Edición Clásica – Diseño Antiguo]({{ '/assets/images/uno-classic-old-design.jpg' | relative_url }})
 
 ## Detalles de la edición clásica: diseño, componentes y rareza
 
@@ -35,7 +38,7 @@ La rareza, por su parte, se hila entre dos polos: la cantidad de copias producid
 
 ## Embalaje, autenticidad y condiciones de la caja
 
-La clave para comprar un UNO clásico realmente auténtico es la envoltura. En la práctica, hay señales para distinguir una caja genuina de una falsificación o una edición reempaquetada: 
+La clave para comprar un UNO clásico realmente auténtico es la envoltura. En la práctica, hay señales para distinguir una caja genuina de una falsificación o una edición reempaquetada:
 - Sellos de fábrica intactos: el papel o la lámina que sella la caja debe verse uniforme, sin rasguños y con una textura que indique que no ha sido manipulada.
 - Bordes del envoltorio: si la envoltura presenta arrugas inusuales o pliegues que no corresponden con la producción original, podría indicar manipulación.
 - Peso y tamaño: las ediciones antiguas pueden pesar distinto por el tipo de cartón y el manual de época; un peso fuera de rango puede ser señal de piezas sustituidas.
@@ -81,6 +84,7 @@ Es crucial mantener expectativas realistas. El mercado de coleccionables puede s
 Si quieres explorar guías de apreciación de valor de coleccionables de juegos de cartas, consulta: [Guía de valor de cartas y juegos de mesa]({% post_url 2024-12-01-value-guide %}).
 
 ### Mixto entre colección y juego: dónde se ubica esta pieza en el mercado actual
+
 La rumia del mercado es que estas piezas no son solo objetos; son narrativas. Un comprador puede comprar una pieza para exhibirla, para demostrar que tiene un ojo para la historia del juego, o para la simple excitación de poseer una reliquia que suena a programa de televisión de los 80s. En Geeknite, valoramos esas historias: la caja que conserva una textura particular, la tinta que ha envejecido a la manera de un vino de una bodega que ya no existe, y la posibilidad de contar una anécdota divertida durante una sesión de juego.
 
 ## Comparativa con ediciones modernas
