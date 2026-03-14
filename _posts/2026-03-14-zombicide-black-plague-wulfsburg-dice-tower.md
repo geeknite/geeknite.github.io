@@ -11,7 +11,7 @@ tags:
 
 ## Introduction
 
-In Geeknite, we treat undead apocalypse as a legitimate hobby, not just a mood on the internet. Zombicide Black Plague is the kind of game that makes you feel like a tactical genius while your friends spill coffee and shout wordlessly at the dice. Then along comes Wulfsburg, the fortress-expansion that says, “Hey, why not add a fortress, extra bosses, and a mountain of plastic to fight over?” The answer, of course, is yes, because more table space means more dramatic pauses, and dramatic pauses mean more chances to heroically overextend and still pretend you had a solid plan all along.
+In Geeknite, we treat undead apocalypse as a legitimate hobby, not just a mood on the internet. Zombicide Black Plague is the kind of game that makes you feel like a tactical genius while your friends spill coffee and mutter at the dice. Then along comes Wulfsburg, the fortress-expansion that shouts, “Hey, why not add a fortress, extra bosses, and a mountain of plastic to fight over?” The answer, of course, is yes, because more table space means more dramatic pauses, and dramatic pauses mean more chances to heroically overextend and still pretend you had a solid plan all along.
 
 The Dice Tower has opinions about this kind of thing, and we’re not here to steal their thunder so much as borrow a sparkly bit of it for a Geeknite glow-up. We’re going to talk about what Wulfsburg changes, how it feels in play, and whether the extra setup time pays off in meaningful, crunch-laden moments that tempt you to call in sick to work just to finish a campaign night. Spoiler: it does, depending on your level of commitment to loot and laser-focused zombie management.
 
@@ -28,7 +28,7 @@ If you’re wondering about tone, Wulfsburg does not shy away from a dramatic fi
 ### Components and production values
 
 - A fortress board that redefines space: streets, courtyards, gateways, and choke points. It’s not just a repaint; the layout enforces new tactical decisions and makes you think twice about movement routing.
-- New survivors: a broader spread of starting abilities so you can assemble a crew that matches your preferred playstyle (or your friend’s stubborn insistence on being the meele tank who can also pick a lock with one hand tied behind their back).
+- New survivors: a broader spread of starting abilities so you can assemble a crew that matches your preferred playstyle (or your friend’s stubborn insistence on being the melee tank who can also pick a lock with one hand tied behind their back).
 - New weapons, armor, and items: enough loot to turn a doomed charge into a dramatic last stand if luck and timing align.
 - New zombie types plus a handful of boss-level adversaries: these are the sort of threats that demand you coordinate with your squad rather than sprint solo with a lucky last shot.
 - New scenarios and objectives: the fortress setting is fertile ground for multi-thread campaigns, giving your game nights a soap-opera arc rather than a one-and-done skirmish.
@@ -86,6 +86,9 @@ To sell the vibe of fortress siege, visuals matter. Here are two images that cap
 If you want a dramatic board shot for social media, these two do the job. The magic lies in how light catches the fortress textures, the neon accents on artifacts, and the way shadows from miniatures create dramatic silhouettes as survivors huddle behind a broken gate.
 
 For table-ready visuals, you can frame a shot with a couple of survivors at high-tension moments: a doorway held, a boss looming, and loot cards stacked like a treasure chest of consequences.
+
+{% image assets/images/zombicide_black_plague_wulfsburg.jpg %}
+{% image assets/images/zombicide_wulfsburg_scene.jpg %}
 
 ## Links and cross-references
 
