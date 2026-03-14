@@ -6,6 +6,7 @@ tags:
   - game-night
   - gear
   - review
+  - accessories
 ---
 
 ![Deluxe Poker 370 Chip Set](https://example.com/images/deluxe-poker-370.jpg)
