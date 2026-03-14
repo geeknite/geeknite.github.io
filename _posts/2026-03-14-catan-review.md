@@ -1,5 +1,5 @@
 ---
-title: Catan Revisited: A Geeknite Guide to Settling, Trading, and the Robber
+title: Catan Revisited: A Geeknite Guide to Settling, Trading, and the Robber (Revised)
 date: 2026-03-14
 tags:
   - board games
@@ -8,9 +8,12 @@ tags:
   - strategy
   - tabletop
   - geeknite
+  - expansions
+  - digital
+  - solo
 ---
 
-Catan is one of those games that looks simple on the surface and complicated in the right ways. Welcome to Geeknite's deep-dive into Settlers of Catan, a game that has turned friendly board game nights into a social experiment about negotiation, probability, and the primal joy of building a road that invariably leads to a neighbor’s house. If you’ve ever harvested a handful of resources and suddenly felt like you’re managing a tiny economy, you know why Catan remains a staple in basements, cafés, and conference rooms everywhere.
+Catan is one of those games that looks simple on the surface and complicated in the right ways. Welcome to Geeknite's expanded deep-dish dive into Settlers of Catan, a game that has turned friendly board game nights into a social experiment about negotiation, probability, and the primal joy of building a road that invariably leads to a neighbor’s house. If you’ve ever harvested a handful of resources and suddenly felt like you’re managing a tiny economy, you know why Catan remains a staple in basements, cafés, and conference rooms everywhere.
 
 ## What is Catan, and why does it still matter?
 
@@ -71,6 +74,7 @@ Digital Catan can be a great way to learn the ropes before you sit down with a r
 Catan thrives on social interaction; it’s a friendly game with a surprisingly sharp social edge. As you negotiate, you’ll find yourself balancing directness with charm, using the occasional misdirection to your advantage but keeping it light enough to avoid turning your evening into a courtroom drama. The best players master the subtle art of telling a convincing story about why a trade is fair, even when you’ve just cut your neighbor off from their dream of a distant city. It’s part theater, part math, and all about reading the room.
 
 ### Trading archetypes and table dynamics
+
 There are a few archetypes you’ll meet around the table: the Broker who always sees three trades ahead, the Opportunist who grabs every share of ore, the Builder who insists on roads first, and the Diplomat who smooths ruffled feathers with a well-timed compliment and a trade that doesn’t feel like a win-lose arrangement. Recognizing these types helps you tailor your negotiations and keep the table from devolving into a bitter, all-you-can-trade standoff.
 
 ## Practical tips for playing better than your last game
