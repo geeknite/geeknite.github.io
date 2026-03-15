@@ -1,4 +1,17 @@
-{"post_name": "2026-03-15-2012-13-itg-ultimate-memorabilia-12th-edition-vladimir-krutov-patch-auto-4f5.md", "new_content": "---\ntitle: 2012-13 ITG Ultimate Memorabilia 12th Edition Vladimir Krutov Patch Auto 4f5 — A Retro Patch Auto Odyssey\ndate: 2026-03-15\ntags:\n  - sports cards\n  - hockey\n  - ITG\n  - ultimate memorabilia\n  - patch auto\n  - Vladimir Krutov\n  - vintage relics\n  - collecting\n  - nostalgia\n---
+---
+title: 2012-13 ITG Ultimate Memorabilia 12th Edition Vladimir Krutov Patch Auto 4f5 — A Retro Patch Auto Odyssey
+date: 2026-03-15
+tags:
+  - sports cards
+  - hockey
+  - ITG
+  - ultimate memorabilia
+  - patch auto
+  - Vladimir Krutov
+  - vintage relics
+  - collecting
+  - nostalgia
+---
 
 Introduction: back to the card cabinet future
 
@@ -102,4 +115,4 @@ If you are looking for a quality vintage-inspired patch auto from ITG that offer
 
 Bold call to action
 
-**Want to snag this retro gem now? Check out the affiliate link and grab it before the patch fades into legend: https://affiliates.geeknite.example.com/krutov-patch-auto-4f5**"}
+**Want to snag this retro gem now? Check out the affiliate link and grab it before the patch fades into legend: https://affiliates.geeknite.example.com/krutov-patch-auto-4f5**
