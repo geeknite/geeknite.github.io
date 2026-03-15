@@ -1,5 +1,5 @@
 ---
-title: "Zombie Monochrome Snow Painted Frostgrave Zombicide Black Plague Miniature M203 — A Geeknite Review"
+ttitle: "Zombie Monochrome Snow Painted Frostgrave Zombicide Black Plague Miniature M203 — A Geeknite Review"
 date: 2026-03-15
 tags:
   - miniatures
@@ -12,15 +12,15 @@ tags:
 
 # Zombie Monochrome Snow Painted Frostgrave Zombicide Black Plague Miniature M203 — A Geeknite Review
 
-Ah, the M203. No, not the hypothetical math problem you solved in high school that kept you up at night, but a miniature that makes you feel like a wizard with a spray can and a snowstorm personality disorder. This review dives into the Zombie Monochrome Snow Painted Frostgrave Zombicide Black Plague Miniature M203, a mouthful that sounds like a secret level in a board-game RPG crossover. If you’ve wandered into the uncharted land where Frostgrave’s wizards meet Zombicide’s relentless undead and someone decided to slap on a wintery coat, you’ve found this little hero. And possibly the reason your brush grips are sweating more than your paint water.
+Ah, the M203. No, not the grim math problem you solved in high school that ruined your sleep schedule, but a miniature that makes you feel like a wizard with a spray can and a winter-tinted personality disorder. This review dives into the Zombie Monochrome Snow Painted Frostgrave Zombicide Black Plague Miniature M203, a mouthful that sounds like a secret level in a board-game RPG crossover. If you’ve wandered into the uncharted land where Frostgrave’s wizards meet Zombicide’s relentless undead and someone decided to slap on a wintery coat, you’ve found this little hero. And possibly the reason your brush handles are sweating more than your paint water.
 
-As with any Geeknite feature, we’re not just looking at the table-worthiness. We’re looking at how this piece plays with your hobby sanity, your display shelf’s feng shui, and your storytelling because, yes, a miniature can narrate a whole campaign if you give it enough weathering. So let’s unbox, inspect, and paint our way through this snow-dusted, monochrome beast and decide if it deserves a place in your cabinet, your game night, or your storage unit that’s rapidly becoming a museum of unfired projects.
+As with any Geeknite feature, we’re not just looking at table-worthiness. We’re evaluating how this piece plays with your hobby sanity, your display shelf’s feng shui, and your storytelling—because yes, a miniature can narrate a whole campaign if you give it enough weathering. So let’s unbox, inspect, and paint our way through this snow-dusted, monochrome beast and decide if it deserves a place in your cabinet, your game night, or your storage unit that’s rapidly becoming a museum of unfired projects.
 
 > For a quick scenic reference, check out our earlier ramble on “Snow Weathering for Busy Geeks” to see how monochrome snow can still pop your piece without blinding your eyes. [Painting Frostgrave Minis: A Beginner's Guide]({% post_url 2025-11-01-frostgrave-painting-basics %})
 
 ## Unboxing and First Impressions
 
-When you tear into a Frostgrave-Zombicide mashup, you expect two things: a tiny figure with more personality than your last three board game nights, and a few mold lines that remind you you’re not playing with perfect plastic angels. The M203 miniature starts with a chunky base that isn’t shy about presenting a heroic stance: shoulders squared, head a touch tilted, and a snow cap that looks suspiciously like it’s been stolen from a snow globe advertisement.
+When you tear into a Frostgrave–Zombicide mashup, you expect two things: a tiny figure with more personality than your last three board game nights, and a few mold lines that remind you you’re not playing with perfect plastic angels. The M203 miniature starts with a chunky base that isn’t shy about presenting a heroic stance: shoulders squared, head a touch tilted, and a snow cap that looks suspiciously like it’s been stolen from a snow globe advertisement.
 
 The components are straightforward: the figure itself, a weapon that resembles a futuristic yet plausible zombie-eating contraption, and a handful of constraint parts for assembly. The fit between parts is mostly clean with only minor gaps that can be filled with typical plastic cement or green stuff. The detail level is generous: fur lining on a coat, ripped fabric at the knees, and a face that wears an expression somewhere between rage and “please, not the winter again.” The one downside is the subtle fragility of some of the smaller accessories—these little bits have a talent for pretending they’re the last cookie in the jar and then snapping off when you aren’t looking. So, if you’re the type who likes to assemble at 2 AM, consider a tiny amount of extra caution and a dab of plastic glue to keep things in check.
 
