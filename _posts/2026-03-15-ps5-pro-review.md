@@ -9,6 +9,10 @@ tags:
   - review
   - tech
   - geeknite
+  - hardware
+  - analysis
+  - 4k
+  - performance
 ---
 
 ## Overview
@@ -120,7 +124,7 @@ Verdict: The PS5 Pro is a practical upgrade for players who already love the Pla
 - Invest in a fast NVMe expansion if you’re heavy on the digital backlog. The extra space is a quiet way to avoid archive raids when you’re in the middle of a marathon gaming session.
 - Keep the Pro clean and ventilated. A small dusting every few months keeps the airflow optimal and helps the cooling system stay efficient longer.
 - Try a handful of the newer titles that explicitly advertise Pro optimizations. The improved performance is most noticeable in games designed for this hardware, where the developers have tuned textures, lighting, and physics for this exact platform.
-- Pair your setup with a TV or monitor that supports HDMI 2.1 features like Variable Refresh Rate VRR and Auto Low Latency Mode ALLM for the smoothest responsive experience.
+- Pair your setup with a TV or monitor that supports HDMI 2.1 features like Variable Refresh Rate (VRR) and Auto Low Latency Mode (ALLM) for the smoothest responsive experience.
 
 ## Final Recommendation: Should You Buy It?
 
