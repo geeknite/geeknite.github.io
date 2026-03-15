@@ -1,5 +1,5 @@
 ---
-ttitle: 48 in Folding Indoor Foosball Table by Sunnydaze – Geeknite Review
+title: 48 in Folding Indoor Foosball Table by Sunnydaze – Geeknite Review
 date: 2026-03-15
 tags:
   - gaming
@@ -21,7 +21,7 @@ Below you’ll find a no-nonsense dive into assembly, build quality, playability
 
 > External note: If you want to compare specs side by side, you can check the official Sunnydaze product page here: https://www.sunnydaze.com/products/48-in-folding-indoor-foosball-table
 
-![Sunnydaze 48 in Folding Foosball Table](./assets/images/sunnydaze-48-folding-foosball.jpg)
+![Sunnydaze 48 in Folding Foosball Table]({{ '/assets/images/sunnydaze-48-folding-foosball.jpg' | relative_url }})
 
 ## Unboxing and Setup
 Unboxing is the first impression you get of any piece of furniture that pretends to be a game table. You’ll typically find the main cabinet, folding legs, rods, player figures, balls, a quick-start manual, and the small hardware packet. The unboxing experience for this Sunnydaze model is straightforward enough that a single adult can get the table ready to play within an hour, assuming a typical array of household tools and a little patience.
@@ -108,14 +108,11 @@ If you want more context on choosing small-footprint gaming furniture or explori
 - {% post_url 2025-02-05-foosball-for-geeks %}
 
 ### Image Gallery
-- Main product shot: ![Sunnydaze 48 in Folding Foosball Table](./assets/images/sunnydaze-48-folding-foosball.jpg)
-- Close-up of handles and rods: ![Foosball rods and handles](./assets/images/sunnydaze-foosball-rods.jpg)
-- Stowed layout for storage: ![Table folded for storage](https://example.com/foosball-folded.jpg)
+- Main product shot: ![Sunnydaze 48 in Folding Foosball Table]({{ '/assets/images/sunnydaze-48-folding-foosball.jpg' | relative_url }})
+- Close-up of handles and rods: ![Foosball rods and handles]({{ '/assets/images/sunnydaze-foosball-rods.jpg' | relative_url }})
+- Stowed layout for storage: ![Table folded for storage]({{ '/assets/images/sunnydaze-foosball-folded.jpg' | relative_url }})
 
 ### Final Recommendation
 For those with limited space who still want a serious tabletop experience, the 48 in folding Sunnydaze foosball table strikes a strong balance of value, portability, and playability. It’s a sensible buy for a dorm, a small apartment, or a family game corner where you want the occasional intense match without turning the living room into a prop shop for a sci-fi film. If you’re on the fence, consider your space constraints and how frequently you’ll use the table. If the answer is often, this model earns a solid recommendation as a dependable, entertaining centerpiece for your home arcade.
 
-**Buy the Sunnydaze 48 in Folding Indoor Foosball Table today and start your next tournament in under an hour.**
-
-Bold Call to Action
 **Buy the Sunnydaze 48 in Folding Indoor Foosball Table now on Amazon (affiliate): https://www.amazon.com/dp/B0XXXXXX?tag=geeknite-20**
