@@ -1,142 +1,139 @@
 ---
-title: Zombicide Black Plague Huntsmen Box Featuring William — A Geeknite Review
+title: Zombicide Black Plague Huntsmen Box Featuring William — Geeknite Review Extended
 date: 2026-03-15
 tags: [board games, Zombicide, Black Plague, Huntsmen, William, expansions, review, CMON]
 ---
 
-# Zombicide Black Plague: Huntsmen Box Featuring William — Geeknite Review
+# Zombicide Black Plague Huntsmen Box Featuring William — Geeknite Review Extended
 
-Welcome, fellow geeks, to another expedition into the voracious, dice-clattering world of Zombicide. Today we’re peering behind the manor doors of the Black Plague era to uncover the curious case of the Huntsmen Box—and yes, William is involved. If you’ve ever wondered what happens when fashion-forward knights meet a zombie apocalypse, you’re in the right place. This review is part anatomy lesson, part love letter to perfectly sculpted miniatures, and part stand-up routine about the emotional toll of assembling things that look like they should have tags that read “some assembly required.”
+Welcome back, fellow geeks and table-flippers, to another extended detour into the fog-dusted corridors of Zombicide. Today we dive deep into the Huntsmen Box for Zombicide: Black Plague, featuring a certain William who might look like he owns an apothecary and a very suspiciously well-organized crossbow. If you were hoping this would be a simple add-on, buckle up: this box is a modest expansion that behaves like a mid-series antagonist who still manages to steal the spotlight with a dramatic bow and a stiffer mustache. It adds new threats, new survivorship choices, and enough plastic to make your hobby table resemble a tiny, very stylish apothecary shop under siege by the undead.
 
-> External link for the curious creature-lover: [Zombicide: Black Plague on BoardGameGeek](https://boardgamegeek.com/boardgame/17039/zombicide-black-plague). For more zoo-nado of content, check out our related posts linked at the end of this piece.
+External link for curious museum-goers of the undead: [Zombicide: Black Plague on BoardGameGeek](https://boardgamegeek.com/boardgame/17039/zombicide-black-plague). For further curiosities, we have related posts lined up toward the end which you can also reach via post_url links in this piece.
 
-And yes, we’ll drop some browser-friendly sprinkles of humor along the way. If you’ve got William and the Huntsmen in your hands right now, or you’re contemplating pulling the trigger on the box, here’s what you need to know, in the most Geeknite way possible.
+And yes, we are Drop-Dead Serious about the hobby-yet-humorous vibe you expect from Geeknite. If you’ve got William, Huntsmen, or just a curiosity about how many snacks you can eat while assembling a zombie apocalypse, you’re in the right place.
 
-## What’s in the Huntsmen Box—and does William actually matter?
+## What the Huntsmen Box actually changes on the table
 
-The Huntsmen Box is one of those “complementary” expansions that feels like it should come with a free hot cocoa and a therapist recommendation. It adds a new cohort of zombie types—call them the Hired Help Who Are Very Not Helpful—plus a new survivor named William, who, if the lore can be trusted, stocks his own crossbow and a moral compass that—spoiler alert—doesn’t always point toward rescue.
+The Huntsmen Box is not a full-on rebuild of Zombicide: Black Plague. It is, rather, a carefully polished add-on that nudges the core cadence toward a more tactical, tense experience. It introduces a new wave of threats and a named survivor who brings a touch of cinematic flair to the table. In pure convenience terms, think of it as the difference between wearing a regular coat and donning a trench coat with secret pockets full of clever options.
 
-### The miniatures
+### The minis and character lineup
+- William, the named survivor: a grizzled, moustached type with a backpack and a nose for trouble, who also happens to pack a crossbow and a knack for finding a way to survive by plotting, sprinting, and occasionally negotiating a last-second retreat.
+- Huntsmen zombies: these guys aren’t your standard shuffling cannibal couture. They’re taller, have crossbows that actually work, and they like to pursue you through tight hallways with theatrical lighting, as if every shot is auditioning for a low-budget zombie-horror remake.
+- Supporting sculpts: a few extra sprues for terrain flair and encounter markers that nod to Inns and Streets aesthetic, which is always welcome when you want your board to feel like a moody, historical cityscape rather than a sterile dungeon crawl.
 
-- William, the titular survivor: a grizzled, moustached human with a backpack and a quiet genius for surviving by negotiated compromise and abrupt sprinting away from danger.
-- Huntsmen zombies: these aren’t your average shambling corpses. They’ve got a bit more swagger, a better aim with improvised crossbows, and a penchant for stalking through tight corridors with dramatic lighting. They hit harder than your average zombie and feel like they were designed to remind you that the undead can have taste in fashion—thankfully, practical boots exist for both parties.
-- Supporting sculpts: a few sprues for terrain flair and encounter markers that nod to the Inns and Streets motif, which is always welcome when you’re trying to paint a historically grim-yet-chic landscape.
+The miniatures are crisp and paint-friendly, with enough detail to justify the time you might spend shading armor, leather, and the occasional blood-spatter that tells a story long after the last zombie falls. The scale stays consistent with the base game minis, which matters when you want the tactical math to feel fair instead of a cosmetic mismatch that makes you question your life choices.
 
-The figurines themselves are crisp enough that you can pretend you’re painting a Renaissance painting while secretly trying not to poke your eye out with a brush. The scale is consistent with the base game minis, which matters when you’re lining up a tactical face-off with a board full of ravenous blighters.
-
-### The content selection
-The box doesn’t reinvent the wheel; it polishes it with a slightly more menacing design and a few extra rules that change how you approach wave after wave of the dead. There are new objective cards, a couple of encounter tiles, and of course the inevitable rule clarifications that come with any expansion that tries to push you toward riskier plays with bigger rewards. If you’re assembling an undead ambush on your kitchen table, know that this box is designed to push you toward planning, timing, and occasionally praying to whichever saint of dice you worship.
+### The content selection and the box’s ambition
+The Huntsmen Box does not reinvent the wheel; it gives the wheel a stylish new hubcap and a few extra spokes. It includes new objective cards, a handful of encounter tiles, and rule clarifications that push you toward riskier plays with bigger rewards. If you like the feeling of an undead ambush where every move matters and you can feel the tension in the air, this box delivers that flavor in spades. It’s not a radical overhaul; it’s a thoughtful extension designed for players who enjoy planning, timing, and the occasional desperate stand against the ravenous dead.
 
 ## Theme, flavor, and the William effect
 
-### William as a character
-William’s presence adds a fresh lens for the survivorship arc. He’s not the loudest in the room, but his actions speak louder than his accent. In practice, William offers unique synergies with ranged weapons and faster-than-average movement across the map. His card set emphasizes survival decisions: when to hold, when to sprint, and when to call in a temporary cease-fire with the living dead to achieve a strategic objective. If you enjoy “gunner kit” play—or the cinematic moment where a hero dives behind a cart to pop a headshot—William provides a satisfying narrative arc.
+### William as a character: a new survivorship lens
+William doesn’t play as the loudest hero in the room, but his presence shapes the rhythm of the game in interesting ways. His card set emphasizes survival decisions: when to hold a position, when to sprint for an objective, and when to call a temporary cease-fire with the living dead to ensure a critical objective is reached. If you enjoy cinematic moments where a hero dives behind a cart to squeeze off a headshot, William provides a satisfying narrative hook and a practical toolkit that can change how you approach each round.
 
-### Huntsmen as a design decision
-The Huntsmen are designed to force players to rethink how they traverse rooms. They’re not just “baddies with bows”; they introduce alternative threat vectors, encouraging smarter positioning and a little bit of theater in the game. You’ll find moments where you’sen’t sure if you should chase the last zombie or secure an objective, and that tension sings when the dice finally cooperate.
+### Huntsmen as a design decision: pressure, space, and theater
+The Huntsmen are designed to force players to rethink room traversal. They’re not just baddies with bows; they introduce alternative threat vectors that reward smarter positioning and a touch of theatrical planning. You’ll feel the tension: do you chase the last zombie for a flashy kill, or secure that objective that wins the round? The decision point is real, and that realness is what gives the table dynamic moments once the dice finally cooperate.
 
-For long-time players, the Huntsmen box ticks a lot of the “new toy” boxes without turning the game into a wholesale mechanical rewrite. It’s a gentle nudge toward more dynamic encounters rather than a radical shuffle of the core rules. If you like your zombie-slaying with a dash of tactical chess and a dash of grimdark fashion, this is your cosmetic armor upgrade.
+For longtime players, the Huntsmen box scratches the itch for fresh toys without rewriting the core rules. It nudges you toward more dynamic encounters instead of reshuffling the entire foundational equation. If you crave zombie-slaying with a dash of tactical chess and a serious dose of grim fashion, this is your extra armor upgrade.
 
 ## Components quality: a paintable, playable love letter
 
-The box’s components follow Zombicide’s quality standard: robust cards, sturdy boards, and miniatures that survive the occasional water bottle spill during a too-enthusiastic cleanup. The Huntsmen’s sculpts are clean enough for hobbyists who want to push into bas-relief painting and shading, while still being forgiving to newer painters who just want their table to look dramatic from across the room.
+The box adheres to Zombicide’s usual high quality: sturdy cards, durable boards, and miniatures that survive the occasional spilled beverage during a too-ambitious cleanup session. The Huntsmen sculpts are crisp enough for hobbyists who want to push a little edge highlighting and shading, yet forgiving enough for newcomers who simply want their table to pop from across the room.
 
-### Cards and board elements
-New objective and encounter cards feel thematic and consistent with the Black Plague setting. They’re not all killer combos, but they offer a handful of interesting twists that reward planning and a bit of luck. The board tiles included with the box are well matched to the base game’s terrain aesthetics, ensuring that your new maps don’t look out of place when you’re running an adrenaline-fueled escape sequence.
+### Cards and board elements: a practical polish
+New objective and encounter cards feel thematic and consistent with the Black Plague setting. They aren’t all killer combos, but they add enough meaningful twists to reward careful planning and a little bit of luck. The tiles included with the box match the base game aesthetics, ensuring that your new maps don’t feel out of place when you stage an adrenaline-fueled escape sequence.
 
-### Put together or paint first? The assembly quandary
-If you’ve assembled a dozen Zombicide teams before, you’ll feel right at home. The assembly process is straightforward. The figures’ pins and bases click into place with satisfying resistance; you’ll hear that tiny “click” that signals you’ve earned a small victory over gravity. I’d recommend washing the sprues, priming in light gray, and then layering with earth tones to give William that bohemian-warrior vibe. If you’re a painter who loves highlighted edges, you’ll be delighted with the potential for grim-metal armor and weathered leather.
+### Put together or paint first? The assembly quandary, extended
+If you have assembled a dozen Zombicide teams, the assembly process remains straightforward. The figures click into bases with satisfying resistance, and you’ll hear that tiny click that signals you earned a micro victory over gravity. My recommendation: wash the sprues, prime in light gray, and layer earth tones to give William that bohemian-warrior vibe. If you love highlight edges, you’ll be delighted by the potential for grim-metal armor and weathered leather, without needing a full degree in medieval metallurgy.
 
 ### Overall build quality
-In short: sturdy, modular, and ready for long campaigns. It’ll do fine on a shelf with the rest of your collection and look decent enough to show off in a social media post without triggering the “live-action cosplay” impulse in your neighbors.
+In short: sturdy, modular, and built for long campaigns. It sits nicely on a shelf with the rest of your collection and looks impressive enough to spark a friendly brag on social media without triggering the urge to cosplay your entire dining room into a zombie apocalypse set.
 
 ## Gameplay experience: how it feels at the table
 
-### Setup and learning curve
-Setup takes a little longer than a vanilla game, but not by much. The Huntsmen add a few handfuls of components, and William’s card deck sits nicely beside the standard survivor deck. The rulebook is clear enough for a curious beginner and dead-simple for a veteran who knows where the “ignore rules altogether” sections live in their memory. The learning curve is more about new tactics than new rules, which is exactly how expansion design should behave: offer fresh choices without making the core game feel like a homework assignment.
+### Setup and learning curve: a gentle, strategic incline
+Setup takes a touch longer than vanilla base games, thanks to the added handful of components and a William card deck that sits neatly beside the survivor deck. The rulebook remains clear enough for curious newcomers and accessible enough for veterans who know where the memory lanes of their brain hide the sections labeled ignore rules altogether. The learning curve leans toward new tactics rather than new rules, which is exactly how expansion design should behave: offer fresh choices without turning the core experience into algebra homework.
 
-### On-table dynamics
-The Huntsmen introduce two notable dynamics: pressure and positioning. As soon as a few Huntsmen are on the map, players feel the pressure to spread out, parry, and coordinate. The ranged threat from the Huntsmen means you can’t simply sprint into a room and wave your weapon around; you must consider line of sight, cover, and crossfire risk. It’s a reminder that Zombicide is, at heart, a puzzle with push-your-luck dice and a lot of squeaky toy noises when dice tumble.
+### On-table dynamics: pressure, positioning, and the turn economy
+Two notable dynamics emerge with the Huntsmen: pressure and positioning. A few Huntsmen on the map press players to spread out, cover angles, and coordinate bookings with surgical precision. The ranged threat means you cannot simply sprint into a room and swing wildly; you must consider line of sight, cover, and crossfire risk. The result is a game that feels like a puzzle with push-your-luck dice and the occasional squeaky-maw of a failed die roll becoming a dramatic punchline.
 
-### William’s impact on flow
-William’s unique moves can shift the tempo of a turn. He isn’t a guarantee of survival, but he does offer tactical options that can create dramatic recoveries. The synergy with ranged units means you’ll often feel a sense of momentum when you properly time his actions with the Huntsmen’s attack patterns. It’s not revolutionary, but it’s enough to create memorable sessions where you’re not just racing zombies off the board—you’re choreographing a little siege with style.
+### William’s impact on flow: tempo and dramatic turns
+William’s unique moves shift the tempo of a turn without guaranteeing salvation. He creates opportunities for dramatic recoveries when timed well with Huntsmen attack patterns. It isn’t revolutionary, but it’s enough to turn a series of near-misses into a memorable siege moment where your group chews scenery and swords in equal measure.
 
 ## Value proposition: is the Huntsmen Box worth it?
 
-This is where the math begins and the heart starts to race. If you’re a casual player who just wants a handful of new figures to spice up your weekends, you’ll likely find value in the Huntsmen Box as a cosmetic and tactical upgrade. If you’re a hardcore collector who wants every CMON release and every variant of William ever made, you’ll probably be grinning from ear to ear while you count your new plastic babies.
+This is the moment where the math meets the heart. If you are a casual player who wants a handful of new figures to spice up weekends, you’ll likely find real value in the Huntsmen Box as both a cosmetic and tactical upgrade. If you’re a hardcore collector chasing every CMON release and every variant of William, you’ll probably be grinning as you count your new plastic charges and plan the next diorama display.
 
-For those who care about campaign depth, the box offers practical hooks for longer campaigns. The new objectives tie into story arcs that can be woven into a longer narrative, giving your players reasons to revisit certain map sections with new goals in mind. The cost-to-content ratio remains favorable, with enough material to justify a few extra sessions beyond a couple of friendly skirmishes.
+For campaign-minded players, the box offers practical hooks for longer campaigns. The new objectives can tie into story arcs that justify revisiting map sections with fresh goals, creating a sense of ongoing narrative momentum rather than one-off skirmishes. The cost-to-content ratio remains favorable, delivering enough pieces to justify a handful of additional sessions beyond a couple of quick playthroughs.
 
 ## The_geomancy of table talk: comparing to other expansions
 
-To keep things fair and slightly nerdy, here’s a quick comparison with other Zombicide expansions you might own:
+To keep things fair and nerdy, here is a quick expansion comparison for your mental crib sheet:
 
-- Base Game: The Huntsmen add a new threat type and a named survivor, but they don’t reinvent core mechanics. If you love the core flow and just want more of it with better tactical decision points, you’re in good shape.
-- Other Enemy Expansions: Some expansions tilt the game toward “monsters with special triggers.” Huntsmen keep it grounded in the White Wolf gothic vibe while injecting fresh pressure. You won’t feel like you’re playing entirely anew; you’ll feel like you’re playing with smarter enemies.
-- Other Survivor Expansions: William’s addition is a nice balance of new flavor and practical utility. If you’re tired of the same old survivors, William’s card set is a bright breath of fresh air with a touch of personality.
+- Base Game: The Huntsmen bring a new threat type and a named survivor, but they do not rewrite the core cadence. If you love the core flow and want more decision points without radical changes, you are in good shape.
+- Other Enemy Expansions: Some expansions tilt toward monsters with special triggers. Huntsmen stay grounded in the Black Plague vibe while injecting a fresh pressure layer. You won’t feel like you are playing an entirely new game; you’ll feel like you are playing a smarter version of the same game.
+- Other Survivor Expansions: William is a balanced infusion of new flavor and practical utility. If you are tired of the same handful of faces across campaigns, William offers a bright breath of personality and real-sounding tactical tools.
 
-If you’re debating which expansion to pick up first, consider your group’s playstyle: do you like elegant planning and layered objectives, or do you want spectacle and speed? Huntsmen tends to favor the former—though it still crashes a good party with a satisfying amount of chaos.
+If you are weighing which expansion to buy first, ask your group about playstyle: do you adore elegant planning and layered objectives, or do you crave spectacle and speed? Huntsmen tends to favor the former, though it does not completely banish chaotic fun from the table.
 
-## A note on components and painting tips
+## A note on components and painting tips, expanded
 
-- Prime and base: A light gray primer gives you the best canvas to highlight with metallic edges and deep washes.
-- William’s armor: Think muted steel with weathered blue accents to give him a “seasoned warrior” look.
-- Huntsmen leather: Rich browns and burnt umber washes bring contrast to their cloth and bone accents.
-- Terrain touches: Add a few blood-red ink splatters to the floor tiles; it sells the moment when a room becomes a stage for a brutal last stand.
+- Prime and base: a light gray primer remains the best base for metallic edges and deep washes.
+- William’s armor: muted steel with weathered blue accents to signal seasoned veteran without shouting cosplay.
+- Huntsmen leather: rich browns and burnt umber washes bring depth to cloth, bone, and armor accents.
+- Terrain touches: a few blood-red ink splatters on floor tiles sell that moment when a room becomes a stage for a brutal last stand.
 
-If you’re a painter who loves gradients, you’ll appreciate how easily these kits take shade. If you’re more of a “quick snap and game on,” you’ll still be satisfied with how they pop on the board in mid-to-late game rounds.
+If you love gradients, these kits take shading really well. If you prefer quick assembly, you will still be satisfied with how they pop on the board mid-to-late game when the lighting hits just right and the dice give you that rare, glorious moment of harmony.
 
 ## Solo and co-op playability: how it scales
 
-For those who enjoy playing with a partner or going solo via the “boss mode” house rule, this expansion scales nicely. The Huntsmen’s tougher opponents create a sense of “two steps forward, one step back” that can be fun to orchestrate with a friend. William’s survival-driven emphasis encourages cooperation and dramatic, near-miss moments that shine in co-op sessions.
+For groups who love co-op play or the occasional solo run using a boss mode variant, this expansion scales nicely. The Huntsmen provide tougher opponents that create a delightful rhythm of two steps forward, one step back, especially when you choreograph coverage and retreat across a handful of rooms. William’s survivability-centric focus nudges teamwork into near-miss drama: it rewards communication, timing, and the nerve to push a little further into a dangerous corridor with a plan in hand.
 
-If you’re a solo player who loves crunch, the box provides enough content to run several short campaigns. It’s not a one-off purchase; it’s a small expansion pack that becomes a reliable engine for ongoing games with friends, especially when you want to push your tabletop nights into “campaign mode” rather than “temporary skirmish.”
+If you are a solo player who loves crunch and planning, there is enough content to run several short campaigns. This is not a one-off purchase; it is a reliable engine for ongoing sessions that wants to switch up the pace from run-and-slay to a longer, story-driven push for victory.
 
 ## Practical setup tips and housekeeping hints
 
-- Sort your miniatures by type as soon as you open the box. It’ll save you time when you’re setting up a game night.
-- Use resealable sleeves for the new objective cards. It keeps them in good condition when you’re shoving them in a bag with dice and paintbrushes.
-- If you’re planning a painting night, allocate a few hours and play some ambient music. You’ll thank yourself later when William’s silver armor starts gleaming under a desk lamp.
+- Sort miniatures by type immediately to simplify setup later.
+- Use resealable sleeves for the new objective cards; they’ll survive the stacking, shoving, and occasional dramatic dice tosses better when protected.
+- If you are painting, allocate a solid block of time and throw on some ambient music. William’s armor loves the light from a desk lamp almost as much as it loves a good wash cycle on a fine brush.
 
-These aren’t groundbreaking tips, but they’re the breeze that keeps longevity in a board game habit. The Huntsmen Box rewards you for investing a little attention into presentation and planning.
+These are not groundbreaking tips, but they keep your nights from turning into chaos experiments. The Huntsmen Box rewards a little organization and care with a more impressive table presence and longer-lasting memories.
 
 ## Final recommendation: who should buy the Huntsmen Box?
 
-- If you’re a Zombicide enthusiast who already owns Black Plague and wants a fresh challenge while keeping the core cadence intact, this box is a strong buy.
-- If you enjoy narrative-driven encounters and want a named survivor who actually influences play, William is a welcome addition that adds flavor and tactical depth.
-- If you’re primarily a collector who wants the most expansive set possible, the Huntsmen Box is a solid, not exorbitant, piece of the puzzle that complements your existing collection without overshadowing it.
-- If you prefer simple skirmishes with minimal set-up time, you can still enjoy the box, but you might be better off with a different expansion that emphasizes rapid play.
+- Zombicide fans who already own Black Plague and crave a fresh challenge while preserving the core cadence will likely love this box.
+- Players who enjoy narrative-driven encounters and want a named survivor who actually influences the game will appreciate William as both character and practical toolkit.
+- Collectors who want a well-balanced, complementary addition rather than a bloated, unwieldy expansion will find this to be a solid, not prohibitive, piece.
+- If you prefer simple skirmishes in less setup time, you can still enjoy the Huntsmen Box, but you may be happier with a different expansion that prioritizes speed and straightforward play.
 
-In short: the Huntsmen Box is a thoughtful, well-executed addition to Zombicide: Black Plague that respects the tone of the original game while giving players fresh tools and choices. It’s not a revolutionary leap, but it’s a gratifying expansion that feels like it belongs in the Black Plague line rather than a stray appendage. If you’re after more strategy, more personality, and more pretty miniatures to paint while you pretend to be saving the world from crypt-fueled doom, this is a wise pick.
+In short: the Huntsmen Box is a thoughtful, well-executed addition to Zombicide: Black Plague that respects the tone of the original game while delivering fresh tactical knobs and pretty miniatures to paint. It is not a revolutionary leap, but it is a gratifying expansion that belongs in the Black Plague line rather than as a stray appendage. If you want more strategy, more personality, and more table-ready miniatures to paint while you pretend to save the world from crypt-fueled doom, this is a smart pick.
 
 ## Related reading and next steps
 
 - If you want to compare the Huntsmen Box to other expansions, check our earlier piece: {% post_url 2025-12-01-zombicide-black-plague-base-game-review %}
 - For painting tips and a deeper dive into color palettes for Zombicide figures, see our guide: {% post_url 2024-08-14-painting-zombicide-figures-guide %}
-- For an in-depth guide on organizing your Zombicide collection and optimizing play space, explore: https://boardgamegeek.com/thread/1100547/how-to-organize-zombicide-collection A helpful community thread, if you’re into collective wisdom.
+- For an in-depth guide on organizing your Zombicide collection and optimizing play space, explore: https://boardgamegeek.com/thread/1100547/how-to-organize-zombicide-collection A helpful community thread, if you are into collective wisdom.
 - Official box page and product details: <https://www.cmon.com/product/zombicide-black-plague-huntsmen> (external)
 - Related review: Zombicide: Black Plague vs. Other Editions — a quick head-to-head comparison: <https://www.example.com/geeknite-zombicide-headtohead> (external)
 
 ### Visual notes
 
-Here’s a quick look at the Huntsmen Box in all its glorious plastic glory:
+Here is a quick look at the Huntsmen Box in all its glorious plastic glory:
 
-![Huntsmen Box]( /assets/images/zombicide-black-plague-huntsmen-box.jpg )
+![Huntsmen Box](/assets/images/zombicide-black-plague-huntsmen-box.jpg)
 
-And here’s William in all his armored splendor, ready to lead the charge (or, you know, flee with dignity):
+And here is William in all his armored splendor, ready to lead the charge (or, you know, flee with dignity):
 
-![William miniature]( /assets/images/zombicide-william-figure.jpg )
+![William miniature](/assets/images/zombicide-william-figure.jpg)
 
-If you want to see how the campaign unfolds, you can peek at the official images and community showcases linked above. The community is kind, the paint jobs range from “sketch-night fever” to “museum-quality diorama,” and you’ll probably pick up a few tricks to impress your own gaming group.
+If you want to see how the campaign unfolds, you can peek at the official images and community showcases linked above. The community is kind, the paint jobs range from sketch-night fever to museum-quality dioramas, and you will probably pick up a few tricks to impress your own gaming group.
 
 ## Final call to action
 
-- If you’re ready to upgrade your Black Plague sessions with brand-new tactical play and a charmingly stubborn survivor, the Huntsmen Box is a strong addition that won’t disappoint.
-- If you’re shopping around and weighing the cost, think about the long game: how many sessions do you expect to squeeze out of it, and how many fond memories will you carry into your next table night?
-- If you’re reading this during a sunny afternoon and not sure whether to buy, remember: sometimes you deserve a little heroic chaos in your life. William will remind you of that—one crossbow bolt at a time.
+- If you are ready to upgrade your Black Plague sessions with brand-new tactical play and a charmingly stubborn survivor, the Huntsmen Box is a strong addition that won’t disappoint.
+- If you are shopping around and weighing the cost, think about the long game: how many sessions do you expect to squeeze out of it, and how many fond memories will you carry into your next table night?
+- If you are reading this on a sunny afternoon and not sure whether to buy, remember: sometimes you deserve a little heroic chaos in your life. William will remind you of that—one crossbow bolt at a time.
 
 **Shop the Huntsmen Box now and support Geeknite’s ongoing mission to bring you the finest tabletop chaos.**
 
 **Affiliate link:** https://affiliates.geeknite.example.com/go/huntsmen-william
-
----
