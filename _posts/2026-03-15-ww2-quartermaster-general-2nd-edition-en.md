@@ -19,6 +19,8 @@ In the pantheon of logistics-themed tabletop chaos, WW2 Quartermaster General 2n
 
 It’s a tactical macro-game that feels like a sprint through logistics hell, where the map becomes a map of your mistakes and your allies’ patience becomes the speed limit. If you’re a historian who loves the grand narratives of WWII but hates rolling up your sleeves for a grand campaign, you’ll find a lot to like. If you’re new to the franchise, you’ll appreciate how the 2nd Edition trims the fat while leaving the meat of the gameplay intact. The game leans into the absurd joy of keeping tanks moving, trains on time, and a peace treaty with the dice that only shows up when you least expect it.
 
+Beyond the basic pull of “move trucks, roll dice, hope the rear hubs don’t revolt,” Quartermaster General 2nd Edition shines as a study in managerial nerve. It teaches you restraint, timing, and the delightful art of pretending you know what your ally will do next while they pretend the same of you. It’s a co-operative competition in which the other players aren’t really your enemies; they’re the chorus reminding you that supply lines are a delicate symphony, and one wrong note can ruin a carefully choreographed crescendo of reinforcements.
+
 ## Box and Components
 
 The ultimate test of any wargame is what’s inside the box, because the box is a vow of the hours you will spend arguing about power projections and whether a supply token is painted correctly.
@@ -44,6 +46,8 @@ Storage is straightforward thanks to well-labeled organizers and a box that clos
 The setup is intentionally quick for a game of this scale: each player picks a nation, lays out the theater map, and draws their starting supply stack. The rules guide you through a setup that doesn’t require a postdoc in mid-century logistics, though if you’re playing with a group of theory-studying “strategists,” you’ll likely spend more time debating which color is the right color for your front. The quick-start spirit is intact, and the 2nd Edition even provides clearer pointers for beginners who want to dive in without feeling like they’ve entered an in-between lecture.
 
 Play time varies with player count and experience. A standard four-player game will clock in around an hour and a half to two hours, with a few additional minutes for the “one more round” effect that plagues all good wargames. You’ll feel like you’ve achieved an entire war’s worth of decisions in a fraction of the real-time it took in the 1940s to actually move a single truck across a map. If you’re playing with veterans, you’ll fight for every centimeter of map and every token placement; if you’re teaching newcomers, you’ll spend the first 10-15 minutes deciphering the map legend together, which is also part of the fun. The game scales well with player counts, though it never feels like a numbers exercise; it feels like a chaotic, living organism that wants to eat your supply chain if you forget to reinforce the right fortress.
+
+For those curious about where this game sits in the lineage, you can check our earlier take on the 1st Edition here: {% post_url 2024-11-15-ww2-quartermaster-general-first-edition-review %}, and for a peek behind the curtain at the unboxing of the 2nd Edition, see our companion piece: {% post_url 2025-05-02-ww2-quartermaster-general-2nd-edition-unboxing %}.
 
 ## Gameplay Mechanics
 
