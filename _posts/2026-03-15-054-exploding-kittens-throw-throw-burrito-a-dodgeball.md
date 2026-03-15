@@ -1,5 +1,5 @@
 ---
-title: 054 Exploding Kittens, Throw Throw Burrito and A Dodgeball - A Geeknite Review Expanded
+title: 054 Exploding Kittens, Throw Throw Burrito, and A Dodgeball — A Geeknite Review Expanded
 date: 2026-03-15
 tags:
   - board-games
@@ -9,6 +9,9 @@ tags:
   - throw-throw-burrito
   - a-dodgeball
   - geeknite
+  - chaos
+  - party-games
+  - tabletop
 ---
 
 ## Introduction
@@ -78,12 +81,15 @@ A Dodgeball isn’t just a game mode; it’s a storytelling engine. The table be
 ## How these games feel when you actually play them
 
 ### The vibe at the table
+
 Every table brings its own energy: the cool-headed strategists, the fearless improvisers, and the folks who declare themselves chaos captains and proceed to orchestrate delightful mayhem. The trio here threads those energies into a rhythm that slides between suspense and slapstick. It’s a rare blend where tactical decisions and goofy antics share the same stage, and your friends are there for both the plan and the punchline.
 
 ### Game length and pacing
+
 Exploding Kittens tends to deliver short, punchy rounds (roughly 15–30 minutes per round in many groups). Throw Throw Burrito can sprint from setup to chaos in a handful of minutes but often invites multiple rounds as players rally for the next big moment. A Dodgeball heightens pacing with more physical bursts. Taken together, you can anchor a game-night block with a dynamic energy: quick rounds, louder laughs, and occasional burrito aftermath. The beauty: you can tailor the marathon to your crew’s tolerance for chaos without losing momentum.
 
 ### The art and components
+
 The visuals across Exploding Kittens and Throw Throw Burrito stay consistent with the franchise: cute animals with smug expressions, design cues that telegraph bluffing and risk, and packaging that speaks to playfulness with a hint of mischief. The components are built for party settings: sturdy cards, plush burritos, and compact boards designed to survive enthusiastic handling. The durability is a boon in households where boisterous laughter translates to bold table talk and questionable table manners.
 
 ## Haute edges of the chaos: tips to maximize fun (and minimize table tears)
@@ -116,7 +122,7 @@ To maximize the experience, pair the triad with a playlist that leans from goofy
 - Official Exploding Kittens site: [Exploding Kittens Official](https://www.explodingkittens.com)
 - A quick overview of Toss-and-Cuzzle tactics: [BoardGameGeek overview](https://boardgamegeek.com) (general reference for vibe and gameplay concepts)
 - Video overview and unboxing: [YouTube overview](https://www.youtube.com)
-- For fans of more chaotic party games, check out [our post on chaotic party staples]({% post_url 2025-11-20-chaotic-party-staples.html %}) and [tips for maximizing group laughter during game nights]({% post_url 2025-03-03-game-night-laughs.html %}).
+- For fans of more chaotic party games, check out our post on chaotic party staples: {% post_url 2025-11-20-chaotic-party-staples.html %} and tips for maximizing group laughter during game nights: {% post_url 2025-03-03-game-night-laughs.html %}.
 
 ## Final thoughts and recommendation
 
