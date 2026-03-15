@@ -1,5 +1,5 @@
 ---
-title: Hard Travel Case for Skip-Bo UNO Phase 10 Card Games
+title: Hard Travel Case for Skip-Bo, UNO, and Phase 10 Card Games
 date: 2026-03-15
 tags:
   - gear
@@ -11,13 +11,13 @@ tags:
 ---
 
 ## Introduction
-If you are anything like me, your poker-faced marathon of board game nights has a killer villain: chaos in a suitcase. Dice spill out like a tiny meteor shower, cards slide into the void of the overhead compartment, and your carefully curated deck of Skip-Bo, UNO, and Phase 10 looks more like a spilled bag of confetti at a particularly aggressive birthday party. Enter the hard travel case designed to rescue you from that fate: a rugged, foam-lined fortress built to cradle three popular card games without bending the truth or your bank account.
+If you are anything like me, your poker-faced marathon of board game nights has a villain: chaos in a suitcase. Dice spill out like a tiny meteor shower, cards slide into the void of the overhead compartment, and your carefully curated deck of Skip-Bo, UNO, and Phase 10 looks more like a spilled bag of confetti at a particularly aggressive birthday party. Enter the hard travel case designed to rescue you from that fate: a rugged, foam-lined fortress built to cradle three popular card games without bending the truth or your bank account.
 
-This is not mere luggage for geeks who own too many polyhedral dice. No, this is a travel-ready, Game Night Optimizer that promises to keepSkip-Bo, UNO, and Phase 10 cards in mint condition while looking cool enough to occasion a subtle high-five from fellow travelers. In this review, we’ll dissect build quality, fit, durability, portability, and whether this thing actually keeps your cards from suffering an existential crisis during a bumpy flight. Spoiler: there will be jokes. Plenty of them. Because if you are going to lug a nerdy rectangle of joy through TSA, you might as well have some fun while you survive the wilderness of gate changes and peanut butter packets.
+This is not mere luggage for geeks who own too many polyhedral dice. No, this is a travel-ready, Game Night Optimizer that promises to keep Skip-Bo, UNO, and Phase 10 cards in mint condition while looking cool enough to occasion a subtle high-five from fellow travelers. In this review, we’ll dissect build quality, fit, durability, portability, and whether this thing actually keeps your cards from suffering an existential crisis during a bumpy flight. Spoiler: there will be jokes. Plenty of them. Because if you are going to lug a nerdy rectangle of joy through TSA, you might as well have some fun while you survive the wilderness of gate changes and peanut butter packets.
 
-> For more nerdy travel gear essays, check out [Gear guides and more]( {{ post_url '2025-12-01-gear-guides-and-more' }} ). And if you want a sneaky peek at similar cases, see [the mini-review of a travel-friendly board game backpack]({{ post_url '2024-08-10-mini-travel-board-game-backpack' }}) while you sip airport coffee that costs more than your lunch.
+> For more nerdy travel gear essays, check out Gear guides and more. {% post_url 2025-12-01-gear-guides-and-more %} And if you want a sneaky peek at similar cases, see the mini-review of a travel-friendly board game backpack {% post_url 2024-08-10-mini-travel-board-game-backpack %} while you sip airport coffee that costs more than your lunch.
 
-![Hard Travel Case for Card Games](https://example.com/images/hard-travel-case.jpg)
+![Hard Travel Case for Card Games](/assets/images/hard-travel-case-card-games.jpg)
 
 ## What is this product?
 The hard travel case is a compact, rectangular shell with a dense foam interior, designed to hold three popular card games: Skip-Bo, UNO, and Phase 10. It promises protection against crushing, moisture, and the indignity of transit drama. The exterior is typically constructed from a tough polymer or coated EVA material, with reinforced corners and a latch system that gently says, “We’re serious about your card-game habit, but we won’t judge you for it.”
