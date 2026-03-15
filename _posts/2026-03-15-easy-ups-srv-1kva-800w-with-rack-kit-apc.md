@@ -1,7 +1,7 @@
 ---
 title: Easy UPS SRV 1kVA 800W with Rack Kit APC
 date: 2026-03-15
-tags: [UPS, APC, power, rack, hardware]
+tags: [UPS, APC, power, rack, hardware, home-lab, data-center-lite]
 ---
 
 ![]({{ '/assets/images/easy-ups-srv-1kva-800w.jpg' | relative_url }})
