@@ -15,7 +15,8 @@ tags:
   - home-lab
 ---
 
-If you're reading this, you're not just shopping; you're building the backbone of a tiny data center in a living room. The QXG-10G2SF-X710 promises two lanes of 10G, a PCIe interface, and the ability to attach whatever SFP+ transceivers you fancy. But how does it actually perform when your lab is stuffed with VMs, backups, and maybe a few questionable YouTube tutorials about "how to run a NAS in a coffee mug"? Let's dive into the expanded Geeknite take on this expansion card.
+If you’re reading this, you’re not just shopping for a cart of shiny LEDs; you’re architecting a micro data center right in your living room. The QXG-10G2SF-X710 promises two lanes of 10G, a PCIe interface, and the ability to attach whatever SFP+ transceivers you fancy. But how does it actually perform when your lab is stuffed with VMs, backups, and perhaps a few questionable YouTube tutorials about 
+"how to run a NAS in a coffee mug"? Let’s dive into the expanded Geeknite take on this expansion card.
 
 ![]({{ site.baseurl }}/assets/images/qnap-qxg-10g2sf-x710.jpg)
 
@@ -85,7 +86,7 @@ During a week-long experiment, I staged nightly backups from a 40-VM lab onto a 
 
 ### Failure modes and observed quirks
 
-No piece of hardware is perfectly boring all the time. In our testing we encountered a few non-fatal quirks: occasional negotiation hiccups when mixing certain LR/SR modules with a non-standard wavelength on older switches, a need to reboot the NAS after a firmware update for auto-detection to kick in, and minor variability in throughput when the host or NAS hit high CPU load from other tasks. None of these felt like show-stoppers; they’re reminders that, in the real world, environment matters as much as hardware.
+No piece of hardware is perfectly boring all the time. In our testing we encountered a few non-fatal quirks: occasional negotiation hiccups when mixing certain LR modules with a non-standard wavelength on older switches, a need to reboot the NAS after a firmware update for auto-detection to kick in, and minor variability in throughput when the host or NAS hit high CPU load from other tasks. None of these felt like show-stoppers; they’re reminders that, in the real world, environment matters as much as hardware.
 
 #### Practical mitigations
 - Keep firmware aligned: both NAS and NIC firmware should be current before a big deployment window.
@@ -93,7 +94,6 @@ No piece of hardware is perfectly boring all the time. In our testing we encount
 - If you see flaky links, reset the switch port or re-seat the card; sometimes a stubborn SFP in a busy rack just needs a polite nudge.
 - Enable flow control on both ends of the link to smooth out occasional bursts; this can improve stability under mixed traffic.
 - Verify BIOS/PCIe config for PCIe slot bandwidth; a misconfigured slot can throttle your 10G throughput unexpectedly.
-
 
 ## Compatibility and Ecosystem
 
@@ -175,12 +175,12 @@ If you need a reliable upgrade for a home lab or small business NAS that will pu
 
 For the geeks who want to read more, check out related posts like {% post_url 2025-11-02-network-upgrade-nas %} and {% post_url 2024-08-19-quiet-network-labs-setup %} for tips on lab wiring and quiet operation across a home data center.
 
-If you’re ready to upgrade today, here’s a quick link to the official QNAP product page for the QXG-10G2SF-X710: https://www.qnap.com/en-us/product/qxg-10g2sf-x710 .
+If you’re ready to upgrade today, here’s a quick link to the official QNAP product page for the QXG-10G2SF-X710: https://www.qnap.com/en-us/product/qxg-10g2sf-x710
 
 **Final verdict:** Worth it for NAS-centric users who need reliable 10G with a clean QNAP integration and are prepared to pick the right SFP+ modules. The two ports give you headroom and the density you need in a small footprint.
 
-**Affiliate note:** If you’re buying, consider supporting Geeknite by using our affiliate link. 
-
+**Affiliate note:** If you’re buying, consider supporting Geeknite by using our affiliate link.
+ 
 **Buy now via our affiliate link:** https://amzn.to/3example
 
 ## Related posts
