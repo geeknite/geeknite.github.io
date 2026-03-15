@@ -49,9 +49,9 @@ Speaking in broad strokes, sealed vintage Bicycle decks from the 1970s are not a
 
 ### Use Cases: When to Play, When to Collect
 
-- Cardistry: If you’re a practitioner who loves the tactile bite of older stock, the 808 Rider Back can be a joy to practice with. The slight drag and sturdier feel open opportunities for flashy fans and dead-fan sequences that show off your patience and your ability to keep a loose grip on history. The more you practice, the more you’ll understand why old stock is sometimes better for certain flourishes than modern, near-glass plastics. 
-- Card Magic: Classic-sleight decks are where this deck shines. The rider back’s symmetry and the vintage finish give you a natural elegance while performing vanish and production routines that benefit from a deck that looks and feels like a vintage classic. It’s not about flashy gimmicks; it’s about telling a quiet story with every card that comes off the deck. 
-- Poker and Home Games: You’ll likely not want to risk a high-stakes hand with a historical deck, but for casual play with friends, the deck can be a party piece that sparks conversation and lets you pretend to be a 1970s casino pit boss. The leaves—sorry, the suits—shiver with a certain reliability; the deck’s resistance makes a strong, steady deal that doesn’t require constant correction. 
+- Cardistry: If you’re a practitioner who loves the tactile bite of older stock, the 808 Rider Back can be a joy to practice with. The slight drag and sturdier feel open opportunities for flashy fans and dead-fan sequences that show off your patience and your ability to keep a loose grip on history. The more you practice, the more you’ll understand why old stock is sometimes better for certain flourishes than modern, near-glass plastics.
+- Card Magic: Classic-sleight decks are where this deck shines. The rider back’s symmetry and the vintage finish give you a natural elegance while performing vanish and production routines that benefit from a deck that looks and feels like a vintage classic. It’s not about flashy gimmicks; it’s about telling a quiet story with every card that comes off the deck.
+- Poker and Home Games: You’ll likely not want to risk a high-stakes hand with a historical deck, but for casual play with friends, the deck can be a party piece that sparks conversation and lets you pretend to be a 1970s casino pit boss. The leaves—sorry, the suits—shiver with a certain reliability; the deck’s resistance makes a strong, steady deal that doesn’t require constant correction.
 
 ### Opening and Storage: Respecting the Seal
 
@@ -69,7 +69,7 @@ If you’re building a collection, here are a few simple pointers that won’t r
 
 ### Comparisons: 808s vs Other Rider Backs
 
-A common question is how the 808 Rider Back stacks up against other Rider Back variations from the era. The short version: the 808 is a touch stiff er than some of its siblings, with a finish that offers more cling to the fingers—good for certain fans but less forgiving for others who like a lighter, breezier spread. The Horatio in me loves the tactile weight; the pragmatist in me loves the predictability of a reliable fan. If you own both, you’ll notice that the 808’s color depth holds up well to natural aging and that the contrast between the white and blue has a vintage clarity to it that can be very pleasing under room lighting typical of a late-night Geeknite review session.
+A common question is how the 808 Rider Back stacks up against other Rider Back variations from the era. The short version: the 808 is a touch stiffer than some of its siblings, with a finish that offers more cling to the fingers—good for certain fans but less forgiving for others who like a lighter, breezier spread. The Horatio in me loves the tactile weight; the pragmatist in me loves the predictability of a reliable fan. If you own both, you’ll notice that the 808’s color depth holds up well to natural aging and that the contrast between the white and blue has a vintage clarity to it that can be very pleasing under room lighting typical of a late-night Geeknite review session.
 
 ### Notable Deck Hunts and Markets
 
@@ -86,6 +86,14 @@ If you’d like to widen your horizons and see where these patterns evolved, you
 ### Practical Care for Your Time Capsule
 
 You wouldn’t leave a time machine in the rain, would you? The same logic applies to your vintage deck. Keep the sealed artwork from warping, keep the stock away from moisture, and store in a temperate, stable environment. If you plan to play with the deck, loosen your expectations: you might not achieve the same returns to a pristine condition after your first three shuffles, but you’ll gain the satisfaction of actual use and a few good stories to tell later. If you’re going to open the deck, consider documenting the process with a quick video or photo set; a nice before-and-after album is a celebration of history and the joy of discovery.
+
+### Collecting Tips (Expanded)
+
+I realize some readers want pure, actionable steps. Here are a few extra knobs you can twist to tune a 808 Rider Back collection:
+- Set a budget ceiling and a ceiling for rare variants. Vintage markets swing like a pendulum; you don’t want to chase a deck into a bad neighborhood of pricing anomalies.
+- Build a catalog with photos and notes. A simple spreadsheet can become your own micro museum—date of purchase, condition, wrap integrity, and any quirks that make a deck unique.
+- Trade thoughtfully. If you’re swapping one 808 for another, document the swap online with a mini-review. The community grows when everyone shares the love in detail rather than shouting offers.
+- Preserve, don’t perfume. Do not spray or rub with household chemicals hoping to “refresh” the patina. Vintage finishes are delicate; you want to preserve the old charm, not create a chemical recipe for disaster.
 
 ### Final Verdict and Recommendation
 
