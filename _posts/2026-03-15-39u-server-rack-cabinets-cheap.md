@@ -1,5 +1,5 @@
 ---
-title: 39U Server Rack Cabinets - Cheap, Cheerful, and Not Crappy (Revised 2.0)
+title: 39U Server Rack Cabinets - Cheap, Cheerful, and Not Crappy (Revised 3.0)
 date: 2026-03-25
 tags:
   - servers
