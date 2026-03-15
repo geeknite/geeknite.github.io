@@ -1,5 +1,5 @@
 ---
-title: '4 Packs - Streaking Kittens Exploding Kittens Second Expansion Pack Card Game Review'
+title: '4 Packs - Streaking Kittens Exploding Kittens Second Expansion Pack Card Game Review (Updated)'
 date: 2026-03-15
 tags:
   - board games
@@ -9,9 +9,10 @@ tags:
   - reviews
   - expansion
   - party games
+  - humor
 ---
 
-# 4 Packs - Streaking Kittens Exploding Kittens Second Expansion Pack Card Game Review
+# 4 Packs - Streaking Kittens Exploding Kittens Second Expansion Pack Card Game Review (Updated)
 
 Welcome, fellow card-slingers and kitten connoisseurs. If you thought Exploding Kittens was the apex of chaotic cuteness, prepare your snack stash and your nerve because the second expansion upends the table with more chaos, more chaos, and yes more chaos. This expanded review dives deeper into the four packs of Streaking Kittens, examines what the four mini decks bring to the party, and serves up a practical read on whether this is expansion candy or a shelf-stuffer that deserves a dedicated corner on your shelf of cat-themed anarchy.
 
@@ -107,6 +108,9 @@ The four-pack presentation is nice for collectors who appreciate a tidy display 
 If you already own the base game and one or two expansions, you’ll have a good sense of how this one slots into the ecosystem. The Streaking Kittens four-pack is designed to be compatible with the core rules and does not require you to adopt major house rules to get started. It’s also a nice test case for whether you want to upgrade your collection with more expansive content or prefer to keep things tight and minimal.
 
 For readers who want deeper comparisons, we’ve covered Imploding Kittens and NSFW expansions in our past posts. If you want to see how the vibe shifts when you mix and match, check out our side-by-side review of NSFW versus Streaking Kittens to understand how mature humor changes the pace of play. See our explainer post here: [Imploding Kittens vs Streaking Kittens]({% post_url 2023-09-12-imploding-kittens-review %}).
+
+- See Exploding Kittens Basics here: [Exploding Kittens Basics]({% post_url 2022-08-05-exploding-kittens-basics %})
+- For a broader look at party-game chaos, see: [Party Games with High Replay Value]({% post_url 2024-11-03-party-games-replay-value %})
 
 ## Quick run-through of a sample round with four packs
 
