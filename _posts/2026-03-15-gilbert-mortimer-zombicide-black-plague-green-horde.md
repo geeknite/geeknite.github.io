@@ -1,5 +1,5 @@
 ---
-title: Gilbert & Mortimer Zombicide Black Plague Green Horde
+title: Gilbert & Mortimer and the Green Horde: A Zombicide Black Plague Expansion Deep Dive (Expanded)
 date: 2026-03-15
 tags:
   - board games
@@ -7,13 +7,14 @@ tags:
   - green-horde
   - expansion
   - review
+  - gilbert-mortimer
 ---
 
-# Gilbert & Mortimer and the Green Horde: A Zombicide Black Plague Expansion Deep Dive
+# Gilbert & Mortimer and the Green Horde: A Zombicide Black Plague Expansion Deep Dive (Expanded)
 
 If you thought the zombies in Zombicide Black Plague were ruthless, wait until you meet the Green Horde—the goblins, orcs, and green-skinned miscreants that turn your tidy little village into a field hospital for heroes who forgot to bring an extra bag of nails for the barricades. This is not a gentle stroll through a medieval apocalyptic picnic. This is a party where Gilbert and Mortimer—two archetypal nobles who somehow wandered into a zombie apocalypse—are tasked with surviving long enough to drink more than their own alchemically questionable potions. Welcome to the Green Horde expansion, a spicy add-on that doesn’t just add more zombies; it adds a new flavor of panic to the mix.
 
-In this review, we’ll dive into what the Green Horde brings to the Black Plague core game, how it shakes up the tempo, and whether you should invite the Green Horde to your next session or just keep it on the shelf as a breathtakingly well-painted diorama. We’ll cover components, mechanics, strategy, and replayability with the same enthusiasm you’d reserve for a perfectly timed dice roll. Let’s roll for initiative and see what happens when green becomes the most terrifying color on the board.
+In this expanded review, we’ll dive deeper into what the Green Horde brings to the Black Plague core game, how it shakes up the tempo, and whether you should invite the Green Horde to your next session or just keep it on the shelf as a breathtakingly well-painted diorama. We’ll cover components, mechanics, strategy, and replayability with the same enthusiasm you’d reserve for a perfectly timed dice roll. Let’s roll for initiative and see what happens when green becomes the most terrifying color on the board.
 
 > For the curious, here’s a quick link to the base game before we dive into the greens: [Base Zombicide: Black Plague Review]({% post_url 2025-05-14-zombicide-black-plague-base %}). It’s not essential, but it helps context while we splay the green forces across your tabletop battlefield.
 
@@ -31,24 +32,24 @@ If Black Plague was a gothic tapestry of doom, the Green Horde adds a fresh pale
 
 The physical footprint of the Green Horde expansion is more than you expect from a typical add-on. It’s not a few cards and a couple minis squirreled away in a baggie; it’s a carefully curated set that changes the feel of the board and the math of each turn.
 
-### Miniatures and Miniatures Quality
+### Miniatures and Miniature Quality
 You’ll find a selection of greenskin sculpts—orc riders, goblin swarms, and tall, brutish brutes—crafted in the familiar style of Zombicide minis: chunky, characterful, and a little goofy in a good way. If you’re a hobbyist, you’ll appreciate the level of detail on armor, weaponry, and the little goblin faces that look like they’ve seen too much ale and not enough daylight.
 
 ### Tiles, Cards, and Tokens
-Green Horde isn’t just a new faction of bad guys; it comes with a handful of tiles and a fresh deck of mission cards tailored to this faction. The tiles introduce terrain features that create choke points and opportunities for ambush—exactly the kinds of design choices that make you rethink line-of-sight, cover, and elevation. The mission cards vary the objective structure, from “kill all greenskins” to “survive a timed siege,” forcing players to adjust planning windows and hand-management strategies.
+Green Horde isn’t just a new faction of bad guys; it comes with a handful of tiles and a fresh deck of mission cards tailored to this faction. The tiles introduce terrain features that create choke points and opportunities for ambush—exactly the kinds of design choices that make you rethink line-of-sight, cover, and elevation. The mission cards vary the objective structure, from kill all greenskins to survive a timed siege, forcing players to adjust planning windows and hand-management strategies.
 
 ### Dice and Gear: A Subtle Shake-Up
 Expect new dice faces and fresh equipment cards that interact with the greener enemies in interesting ways. The gear feels thematically aligned (poisoned blades, primal traps, makeshift armor), but with a practical twist: you’ll be disinclined to walk into a mob without a plan, and the plan will often require teamwork that isn’t strictly about hack-and-slash efficiency.
 
 ### Production Value
-As with other Zombicide expansions, the Green Horde nails the “feel right” factor: bright, bold artwork that still sits comfortably on a grim tabletop, with color-coded factions that are easy to distinguish in the heat of moment-to-moment decisions. If you’re into painted minis, you’ll enjoy the opportunity to bring these greenskins to life on the table with the same love you’ve given the base game figures.
+As with other Zombicide expansions, the Green Horde nails the feel right factor: bright, bold artwork that still sits comfortably on a grim tabletop, with color-coded factions that are easy to distinguish in the heat of moment-to-moment decisions. If you’re into painted minis, you’ll enjoy the opportunity to bring these greenskins to life on the table with the same love you’ve given the base game figures.
 
 ## Mechanics and How the Green Horde Shakes Up the Game
 
 Let’s get down to the brass tacks: what does the Green Horde actually change in your day-to-day round structure? How does it interact with the existing rules of Zombicide Black Plague? And is the experience better, worse, or just different enough to justify adding it to your collection?
 
 ### New Faction, New Threats
-The core mechanic that the Green Horde uses is a combination of two elements: new enemy types that operate with distinct rules and new objective cards that push you toward multi-turn thinking. The greenskins tend to generate pressure in waves, forcing you to hold positions and manage resource flow more carefully. This isn’t a game where you can “clear and move” in a single hash; you’ll need to blend defensive holds with offensive pushes, and that means your survivors must work in tandem in ways Black Plague doesn’t always require.
+The core mechanic that the Green Horde uses is a combination of two elements: new enemy types that operate with distinct rules and new objective cards that push you toward multi-turn thinking. The greenskins tend to generate pressure in waves, forcing you to hold positions and manage resource flow more carefully. This isn’t a game where you can clear and move in a single hash; you’ll need to blend defensive holds with offensive pushes, and that means your survivors must work in tandem in ways Black Plague doesn’t always require.
 
 ### Terrain and Line of Sight Nuances
 The new tiles introduce elevated positions and natural chokepoints, creating opportunities for ambushes and traps that can turn the battlefield into a multi-layer chessboard. Line of sight becomes a dynamic decision, not a checklist. You’ll find yourself calculating whether you can squeeze a survivor past an archer’s range or if you should risk a stun attempt to buy time for a counter-move.
@@ -60,7 +61,7 @@ The mission cards aren’t mere flavor; they demand adaptive play. Some scenario
 With the Green Horde on the board, you’ll be juggling more complex threat patterns. Resource allocation—action points, zombie spawns, survivor equipment—requires you to coordinate more tightly. This isn’t a one-player-dominates scenario; your team’s best chance at victory is a well-communicated plan where Gilbert and Mortimer are presented with a shared scoreboard of risk and reward.
 
 ### Difficulty and Learning Curve
-New players will find the Greenskins intimidating—properly so. It’s a gentle ramp, but you’ll be forced to adapt your “blaze through the room” approach to something more deliberate. Veteran players will appreciate the new patterns and the fresh sense of danger without it feeling gratuitous or punitive. If you’ve enjoyed Black Plague but craved a different pace, this expansion scratches that itch without turning your table into a chaos factorial.
+New players will find the Greenskins intimidating—properly so. It’s a gentle ramp, but you’ll be forced to adapt your blaze-through-the-room approach to something more deliberate. Veteran players will appreciate the new patterns and the fresh sense of danger without it feeling gratuitous or punitive. If you’ve enjoyed Black Plague but craved a different pace, this expansion scratches that itch without turning your table into a chaos factorial.
 
 ## Strategy and Tactics: Surviving the Green Tide
 
@@ -70,7 +71,7 @@ Strategy with the Green Horde isn’t about brute force alone; it’s about temp
 Place survivors on elevated tiles when possible to maximize attack reach and minimize exposure to multiple greenskins at once. Elevation creates natural firing lanes and reduces the probability of being overwhelmed by a single spawn wave. But beware: elevation isn’t a shield from all danger, and greenskins are designed to exploit vertical gaps in your planning, so don’t overextend either.
 
 ### Target Priority: What to Kill First
-In most Green Horde scenarios, you’ll want to identify the most impactful targets first. Arguably, you should neutralize threats that can spawn more greenskins or cause special effects that alter the battlefield (think of card-driven behaviors that alter spawn rates or movement). Early focus should be on eliminating the sources of repeated pressure, not just the “flashiest” enemy on the board.
+In most Green Horde scenarios, you’ll want to identify the most impactful targets first. Arguably, you should neutralize threats that can spawn more greenskins or cause special effects that alter the battlefield (think of card-driven behaviors that alter spawn rates or movement). Early focus should be on eliminating the sources of repeated pressure, not just the brightest enemy on the board.
 
 ### Resource Flow and Recovery
 The green tides force you to manage equipment and action economy with more care. Don’t spend a legendary crossbow on a single goblin if you’re low on healing items and have a multi-turn siege ahead. Preserve your strongest tools for the moments that matter and consider conservative engagement when you’re one or two turns away from a critical objective.
@@ -79,13 +80,13 @@ The green tides force you to manage equipment and action economy with more care.
 Gilbert and Mortimer aren’t going to win this on their own; their unique trait is their ability to rally others—a perfect narrative hook for a team-based strategy. Use this synergy to coordinate ambushes, cover fire, and rescue operations. This is not a solo slog; it’s a chorus of careful moves performed by a group that has watched too many court intrigues to know what backstabbing looks like—only in this case, it’s actual backstabbing by goblins.
 
 ### Think in Phases, Not Turns
-Green Horde scenarios reward players who can think not just in terms of immediate actions, but in phases of waves. Plan two to three steps ahead, anticipate the spawn patterns, and adjust your fight lines accordingly. If you can master the idea of “cover a lane now to prevent a fork later,” you’ll feel like you’ve cracked a portion of the armor of this expansion.
+Green Horde scenarios reward players who can think not just in terms of immediate actions, but in phases of waves. Plan two to three steps ahead, anticipate the spawn patterns, and adjust your fight lines accordingly. If you can master the idea of cover a lane now to prevent a fork later, you’ll feel like you’ve cracked a portion of the armor of this expansion.
 
 ## Scenarios and Replayability: Why It Feels Fresh
 
-A key litmus test for any expansion is whether it remains entertaining after multiple plays. The Green Horde doesn’t just re-skin the base game; it reshapes the tempo and injects new objectives, creating a more varied playthrough experience. You’ll find yourself replaying scenarios to test different lines of attack and defense, chasing the most elegant solutions to tricky problems. The mission deck, in particular, shines here by offering different setups and win conditions, ensuring long-term engagement beyond a few “clear the room” runs.
+A key litmus test for any expansion is whether it remains entertaining after multiple plays. The Green Horde doesn’t just re-skin the base game; it reshapes the tempo and injects new objectives, creating a more varied playthrough experience. You’ll find yourself replaying scenarios to test different lines of attack and defense, chasing the most elegant solutions to tricky problems. The mission deck, in particular, shines here by offering different setups and win conditions, ensuring long-term engagement beyond a few clear-the-room runs.
 
-If you’ve got a regular gaming group and you enjoy the satisfaction of solving a tricky puzzle with your friends, the Green Horde will be a frequent re-run in your rotation. It’s the kind of expansion that makes you want to revisit older missions with a Greenskins twist, perhaps by tweaking hero loadouts or house-rules (within reason) to increase the challenge or tighten the synergy between your team members.
+If you’ve got a regular gaming group and you enjoy the satisfaction of solving a tricky puzzle with your friends, the Green Horde will be a frequent re-run in your rotation. It’s the kind of expansion that makes you want to revisit older missions with a Greenskins twist, perhaps by tweaking hero loadouts or house rules (within reason) to increase the challenge or tighten the synergy between your team members.
 
 ## Thematic and Aesthetic Take: Sound, Smell, and Taste of Ink Purple-Red Goblin Blood
 
@@ -133,11 +134,11 @@ If you’re curious about how the Green Horde interacts with other expansions yo
 
 ## Visuals in Context: A Quick Image Tour
 
-![Green Horde Miniatures on the Table]({{ '/assets/images/green-horde-minis.jpg' | relative_url }})
+![]({{ '/assets/images/green-horde-minis.jpg' | relative_url }})
 
 A second look at the terrain adds texture to the tactical discussions we’ve outlined above:
 
-![Green Horde Terrain and Cards]({{ '/assets/images/green-horde-tiles-cards.jpg' | relative_url }})
+![]({{ '/assets/images/green-horde-tiles-cards.jpg' | relative_url }})
 
 For the detail hounds among us who want to admire the paint jobs and the sculpting, these images reveal the way the greenskins look like they could bite the tablecloth. It’s a nice aesthetic payoff that reinforces the narrative of a swelling green tide.
 
@@ -163,6 +164,10 @@ In short: Green Horde is a keeper for groups who enjoy a tactical puzzle with a 
 If you’re curious about how this expansion stacks up against other entries in the Zombicide line, consider checking out related posts for broader context on design philosophy and the evolution of the series. See also:
 - Zombicide: Black Plague base overview: [Base Game Review]({% post_url 2025-05-14-zombicide-black-plague-base %})
 - Expansions guide and quick comparisons: [Zombicide Expansions: A Quick Guide]({% post_url 2024-08-07-zombicide-expansions-guide %})
+
+## Visuals in Context: A Quick Image Tour (Continued)
+
+If you’re a visualist who digs the little touches, the art direction on the Green Horde is a reminder that a well-painted goblin can be as terrifying as a properly staged boss fight. The greenskins carry a certain swagger on the tabletop that makes your villagers feel like they are fighting through a bad fantasy novella, in the best possible way.
 
 ## Final Notes from Geeknite Style Central
 
