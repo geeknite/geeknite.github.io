@@ -2,12 +2,22 @@
 title: "Switch 2 Digital Games: How to Save Up to 60% on Nintendo Switch Games Legally"
 date: "2026-03-15"
 last_modified_at: "2026-03-15"
-tags: [Nintendo Switch, Nintendo Switch 2, digital games, Amazon Japan, eShop, saving money, gaming deals, buying guide]
+tags:
+  [
+    Nintendo Switch,
+    Nintendo Switch 2,
+    digital games,
+    Amazon Japan,
+    eShop,
+    saving money,
+    gaming deals,
+    buying guide,
+  ]
 description: "Discover Switch 2 Digital Games, a free tool to find Nintendo Switch digital games up to 60% cheaper on Amazon Japan. Complete buying guide included."
 hero_image: "A Nintendo Switch console on a modern desk with multiple colorful digital game icons floating above the screen, soft neon blue and purple ambient lighting, 3/4 angle view, photorealistic, 16:9 landscape, no text, no logos, no watermarks"
 ---
 
-[![Switch 2 Digital Games](/assets/images/general.jpg){: .align-right}](https://switch2digitalgames.geeknite.com)
+[![Switch 2 Digital Games](https://i.imgur.com/AvNVsAbm.png){: .align-right}](https://switch2digitalgames.geeknite.com)
 
 If you own a [Nintendo Switch]({{ site.constants.wsib }}Nintendo Switch) or are planning to get a [Nintendo Switch 2]({{ site.constants.wsib }}Nintendo Switch 2), you've probably noticed something frustrating: **Nintendo first-party games almost never go on sale**. While PlayStation and Xbox regularly discount their exclusives, titles like [Zelda: Tears of the Kingdom]({{ site.constants.wsib }}Zelda Tears of the Kingdom), [Mario Kart]({{ site.constants.wsib }}Mario Kart), and [Super Mario Odyssey]({{ site.constants.wsib }}Super Mario Odyssey) stubbornly sit at full price on the European and American eShop — sometimes for years after release.
 
@@ -74,29 +84,29 @@ Here's what the [Switch 2 Digital Games catalogue](https://switch2digitalgames.g
 
 ### Switch 2 Titles
 
-| Game | JPY Price | EUR Price | USD Price | eShop Price | Savings |
-|------|-----------|-----------|-----------|-------------|---------|
-| [Metroid Prime 4: Beyond]({{ site.constants.wsib }}Metroid Prime 4 Beyond) | ¥4,543 | €27.71 | $29.98 | €69.99 | **60% off** |
-| [Mario Kart World]({{ site.constants.wsib }}Mario Kart World Switch 2) | ¥4,550 | €27.76 | $30.03 | €59.99 | **54% off** |
+| Game                                                                       | JPY Price | EUR Price | USD Price | eShop Price | Savings     |
+| -------------------------------------------------------------------------- | --------- | --------- | --------- | ----------- | ----------- |
+| [Metroid Prime 4: Beyond]({{ site.constants.wsib }}Metroid Prime 4 Beyond) | ¥4,543    | €27.71    | $29.98    | €69.99      | **60% off** |
+| [Mario Kart World]({{ site.constants.wsib }}Mario Kart World Switch 2)     | ¥4,550    | €27.76    | $30.03    | €59.99      | **54% off** |
 
 ### Switch 1 Titles
 
-| Game | JPY Price | EUR Price | USD Price | eShop Price | Savings |
-|------|-----------|-----------|-----------|-------------|---------|
-| [Mario Strikers: Battle League]({{ site.constants.wsib }}Mario Strikers Battle League) | ¥3,295 | €20.10 | $21.75 | €49.99 | **60% off** |
-| [Super Mario Odyssey]({{ site.constants.wsib }}Super Mario Odyssey) | ¥3,336 | €20.35 | $22.02 | €49.99 | **59% off** |
-| [Luigi's Mansion 3]({{ site.constants.wsib }}Luigis Mansion 3) | ¥3,336 | €20.35 | $22.02 | €49.99 | **59% off** |
-| [Fire Emblem Engage]({{ site.constants.wsib }}Fire Emblem Engage) | ¥3,848 | €23.47 | $25.40 | €49.99 | **53% off** |
-| [Fire Emblem: Three Houses]({{ site.constants.wsib }}Fire Emblem Three Houses) | ¥3,894 | €23.75 | $25.70 | €49.99 | **52% off** |
+| Game                                                                                   | JPY Price | EUR Price | USD Price | eShop Price | Savings     |
+| -------------------------------------------------------------------------------------- | --------- | --------- | --------- | ----------- | ----------- |
+| [Mario Strikers: Battle League]({{ site.constants.wsib }}Mario Strikers Battle League) | ¥3,295    | €20.10    | $21.75    | €49.99      | **60% off** |
+| [Super Mario Odyssey]({{ site.constants.wsib }}Super Mario Odyssey)                    | ¥3,336    | €20.35    | $22.02    | €49.99      | **59% off** |
+| [Luigi's Mansion 3]({{ site.constants.wsib }}Luigis Mansion 3)                         | ¥3,336    | €20.35    | $22.02    | €49.99      | **59% off** |
+| [Fire Emblem Engage]({{ site.constants.wsib }}Fire Emblem Engage)                      | ¥3,848    | €23.47    | $25.40    | €49.99      | **53% off** |
+| [Fire Emblem: Three Houses]({{ site.constants.wsib }}Fire Emblem Three Houses)         | ¥3,894    | €23.75    | $25.70    | €49.99      | **52% off** |
 
 ### Cross-Platform Titles (Switch 1 + Switch 2)
 
-| Game | JPY Price | EUR Price | USD Price | eShop Price | Savings |
-|------|-----------|-----------|-----------|-------------|---------|
-| [Animal Crossing: New Horizons]({{ site.constants.wsib }}Animal Crossing New Horizons) | ¥3,648 | €22.25 | $24.08 | €49.99 | **55% off** |
-| [Zelda: Tears of the Kingdom]({{ site.constants.wsib }}Zelda Tears of the Kingdom) | ¥4,514 | €27.54 | $29.79 | €59.99 | **54% off** |
-| [Super Mario Bros. Wonder]({{ site.constants.wsib }}Super Mario Bros Wonder) | ¥4,355 | €26.57 | $28.74 | €49.99 | **47% off** |
-| [Super Mario Party Jamboree]({{ site.constants.wsib }}Super Mario Party Jamboree) | ¥4,663 | €28.44 | $30.78 | €49.99 | **43% off** |
+| Game                                                                                   | JPY Price | EUR Price | USD Price | eShop Price | Savings     |
+| -------------------------------------------------------------------------------------- | --------- | --------- | --------- | ----------- | ----------- |
+| [Animal Crossing: New Horizons]({{ site.constants.wsib }}Animal Crossing New Horizons) | ¥3,648    | €22.25    | $24.08    | €49.99      | **55% off** |
+| [Zelda: Tears of the Kingdom]({{ site.constants.wsib }}Zelda Tears of the Kingdom)     | ¥4,514    | €27.54    | $29.79    | €59.99      | **54% off** |
+| [Super Mario Bros. Wonder]({{ site.constants.wsib }}Super Mario Bros Wonder)           | ¥4,355    | €26.57    | $28.74    | €49.99      | **47% off** |
+| [Super Mario Party Jamboree]({{ site.constants.wsib }}Super Mario Party Jamboree)      | ¥4,663    | €28.44    | $30.78    | €49.99      | **43% off** |
 
 To put this in perspective: if you bought all 11 of these games through the standard eShop, you'd pay **€589.89**. Through Amazon Japan using our tool, the total comes to **€273.29** — a saving of **€316.60**. That's enough to buy a new [Nintendo Switch 2]({{ site.constants.wsib }}Nintendo Switch 2 console) console with the money you saved on games.
 
@@ -109,15 +119,18 @@ To put this in perspective: if you bought all 11 of these games through the stan
 The catalogue isn't just a static list. It includes a full filtering system to help you find exactly what you're looking for:
 
 **Platform Filters:**
+
 - **All** — show everything
 - **Switch 2** — only next-gen titles
 - **Switch 1** — only original Switch titles
 - **Switch 1 + 2** — cross-platform titles that work on both
 
 **Genre Filters:**
+
 - Action, Adventure, FPS, Life Sim, Open World, Party, Platformer, Racing, RPG, Simulation, Sports, Strategy RPG
 
 **Text Search:**
+
 - Type any game name and the catalogue filters in real time
 
 All three filter types work simultaneously — you can filter by platform AND genre AND search text at the same time. The game count updates live as you filter.
@@ -177,6 +190,7 @@ This is where [Switch 2 Digital Games](https://switch2digitalgames.geeknite.com)
 On the Amazon Japan product page, verify you see **"オンラインコード"** (Online Code / Digital) — this confirms you're buying a digital code, not a physical cartridge. Physical cartridges would need international shipping; digital codes are delivered instantly.
 
 **Payment methods accepted:**
+
 - International Visa
 - International Mastercard
 - American Express
@@ -185,6 +199,7 @@ On the Amazon Japan product page, verify you see **"オンラインコード"** 
 Most international debit and credit cards work without issue. Your bank may send a foreign transaction notification — this is normal.
 
 After purchase, the 16-character redemption code appears:
+
 - In your email confirmation
 - Under "Games & Software Downloads" in your Amazon Japan order history
 
@@ -203,6 +218,7 @@ This is the only step that might feel unfamiliar, and it's completely reversible
 **Important caveat:** You can only change your region if your current eShop balance is **exactly zero**. If you have remaining funds in your eShop wallet, spend them first. This is a Nintendo restriction, not something specific to this process.
 
 **What this does NOT affect:**
+
 - ❌ Your existing purchased games — they stay exactly where they are
 - ❌ Your save data — completely untouched
 - ❌ Your friends list — no changes
@@ -330,13 +346,13 @@ Third-party key resellers sometimes offer Nintendo digital codes at discounts. H
 
 Amazon Japan is an **authorized retailer**. There's zero risk of code revocation, and you have Amazon's full buyer protection behind every purchase.
 
-| Method | Typical Savings | Risk Level | Convenience | Recommendation |
-|--------|----------------|------------|-------------|----------------|
-| **Amazon Japan (our tool)** | **40-60%** | **None** | **High** | **Best option** |
-| eShop Sales | 10-33% | None | High | Rare & modest |
-| Physical deals | 20-40% | Low | Medium | Good for older titles |
-| Other region eShops | 15-35% | Low-Medium | Low | Multiple accounts needed |
-| Grey market keys | 20-50% | Medium-High | Medium | Not recommended |
+| Method                      | Typical Savings | Risk Level  | Convenience | Recommendation           |
+| --------------------------- | --------------- | ----------- | ----------- | ------------------------ |
+| **Amazon Japan (our tool)** | **40-60%**      | **None**    | **High**    | **Best option**          |
+| eShop Sales                 | 10-33%          | None        | High        | Rare & modest            |
+| Physical deals              | 20-40%          | Low         | Medium      | Good for older titles    |
+| Other region eShops         | 15-35%          | Low-Medium  | Low         | Multiple accounts needed |
+| Grey market keys            | 20-50%          | Medium-High | Medium      | Not recommended          |
 
 ---
 
