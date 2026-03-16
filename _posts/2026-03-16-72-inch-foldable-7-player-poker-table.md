@@ -1,7 +1,7 @@
 ---
 title: '72-Inch Foldable 7-Player Poker Table: Geeknite Revisited'
 date: 2026-03-16
-tags: [gaming, table-games, poker, gear, review, home-theater]
+tags: [gaming, table-games, poker, gear, review, home-theater, upgrades, furniture]
 ---
 
 ![72-Inch Foldable Poker Table]({{ '/assets/images/poker-table-72.jpg' | relative_url }})
@@ -63,9 +63,9 @@ During testing, the table proved surprisingly quiet on laminate floors and remai
 
 The surface is designed to feel like a proper poker arena without requiring a throne room. The felt presents a good balance between speed and grip, letting chips slide for a satisfying feel while still catching the occasional misdeal or misread tells. Color choices range from classic green to blues and grays that play well with modern streaming setups and neon lighting. For a clean, professional tournament vibe, go green; for a late-night “house rules” vibe, blue or gray can be incredibly calming and photogenic.
 
-Seven seats across 72 inches yields roughly 20–22 inches of elbow room per player, depending on chair width and just how aggressively someone treats “their” seat as their personal command center. It’s comfortable enough for long sessions but still compact enough to avoid becoming a logistical nightmare at the end of the night. The edges are rounded to reduce wrist fatigue and to minimize occasional chip-nudging when someone is waving their tells around like a magician’s wand.
+Seven seats across 72 inches yields roughly 20–22 inches of elbow room per player, depending on chair width and just how aggressively someone treats their seat as their personal command center. It’s comfortable enough for long sessions but still compact enough to avoid becoming a logistical nightmare at the end of the night. The edges are rounded to reduce wrist fatigue and to minimize occasional chip-nudging when someone is waving their tells around like a magician’s wand.
 
-One caveat: table height. If chairs aren’t tuned to an ergonomic level, players can feel as if they’re dining in a medieval hall rather than a modern casino. The fix is simple: adjust chair height, or place the table on a stable platform that spaces everyone at the right height for the full seven-player face-off. The foldable legs offer a modest degree of micro-adjustment, which helps you dial in a comfortable playing angle for all seven seats.
+One caveat: table height. If chairs aren’t tuned to an ergonomic level, players can feel as if they’re dining in a medieval hall rather than a modern casino. The fix is simple: adjust chair height, or place the table on a stable platform that spaces everyone at the right height for the full seven-seat face-off. The foldable legs offer a modest degree of micro-adjustment, which helps you dial in a comfortable playing angle for all seven seats.
 
 ## Accessories and customization: what’s included and what you’ll want to add
 
