@@ -12,6 +12,9 @@ tags:
   - accessibility
   - travel
   - reviews
+  - family-games
+  - education
+  - travel-friendly
 ---
 
 Welcome back to the Geeknite lair, where we turn tiny boxes into legendary sleepover victories and tiny road trips into epic quests for snacks and sanity. Today we revisit a classic that has survived more kid birthday parties than the cake has candles: Skip-Bo. This isn’t a game you graduate from after a few years of elementary school—it's a portable engine of sequencing chaos that somehow stays approachable for the youngest players and still scratches the strategic itch of adults. The twist we’re centering in this review is color blind accessibility and how the portable design helps or hinders on trips, at grandma’s house, or during a layover in some unknown airport snack kingdom. Can Skip-Bo be enjoyed by color blind gamers without needing a color wheel and a translator app for the piles? Yes we will find out and also tell you how to dial up the fun without turning the dining room into a cryptic puzzle room.
@@ -153,7 +156,6 @@ For those who want to support Geeknite as they support your family game nights, 
 
 ![Skip-Bo gameplay setup in a cozy living room]({{ '/assets/images/skipbo-family-play.jpg' | relative_url }})
 
-
 ### External resource
 
 For the curious, here’s a general overview of Skip-Bo from a major game publisher: https://www.mattelgames.com/en-us/products/skip-bo
@@ -164,6 +166,5 @@ For the curious, here’s a general overview of Skip-Bo from a major game publis
 -  {% post_url 2025-03-12-family-game-night-essentials %}
 -  {% post_url 2024-12-01-color-blind-friendly-board-games %}
 -  {% post_url 2025-08-20-travel-friendly-board-games-guide %}
-
 
 ---
