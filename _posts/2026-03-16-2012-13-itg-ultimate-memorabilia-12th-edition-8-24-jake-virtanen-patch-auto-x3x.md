@@ -1,7 +1,14 @@
 ---
-ttitle: "ITG Ultimate Memorabilia 12th Edition Jake Virtanen Patch Auto x3x (8/24) Review"
+title: ITG Ultimate Memorabilia 12th Edition Jake Virtanen Patch Auto x3x (8/24) Review
 date: 2026-03-16
-tags: [collecting, hockey, cards, itg, patch-auto, jake-virtanen, 2012-13]
+tags:
+  - collecting
+  - hockey
+  - cards
+  - itg
+  - patch-auto
+  - jake-virtanen
+  - 2012-13
 ---
 
 # ITG Ultimate Memorabilia 12th Edition Jake Virtanen Patch Auto x3x (8/24) Review
@@ -12,9 +19,9 @@ If you’re here, you probably know a thing or two about Virtanen, the Vancouver
 
 > Note: This piece is a stand-alone review centered on the card’s intrinsic appeal and market dynamics. It does not rely on specific price quotes from current listings, but it does reference typical market patterns you’ll see around mid-tier triple patch autos.
 
-![Jake Virtanen Patch Auto (8/24)](https://example.com/images/itg-virtanen-8-24.jpg)
+{% image /assets/images/itg-virtanen-8-24.jpg alt="Jake Virtanen Patch Auto (8/24)" class="post-image" %}
 
-The image above is a representation of the card you’re chasing—glossy surface, three distinct patch blocks, and the all-important autograph. ITG Ultimate Memorabilia has a long history of delivering “wow” patches and bold autographs, and the 12th Edition iteration of the line continues that tradition with a penchant for premium patch presentation and an autograph that aims to be legible in the best possible way. The 8/24 designation signals that this particular Vir-tanen card is a limited run piece—about as rare as three-patch autographs get from a mid-2010s product—and it comes with a triple-patch arrangement that can make the bordering on flashy.
+The image above is a representation of the card you’re chasing—glossy surface, three distinct patch blocks, and the all-important autograph. ITG Ultimate Memorabilia has a long history of delivering “wow” patches and bold autographs, and the 12th Edition iteration of the line continues that tradition with a penchant for premium patch presentation and an autograph that aims to be legible in the best possible way. The 8/24 designation signals that this particular Virtanen card is a limited run piece—about as rare as three-patch autographs get from a mid-2010s product—and it comes with a triple-patch arrangement that can make the bordering on flashy.
 
 The brief: Jake Virtanen patches, three patches, autographed, serial-numbered 8 of 24. If you’re a Virtanen fan or a completionist for Vancouver Giants alumni who made it to the NHL, you’re staring at a card that checks a lot of boxes: rarity, clear visual appeal, and a named player with a legitimate Heisman-esque story in junior hockey turned pro. For everyone else, it’s a card that requires some patience and an eye for design, because the patch borders will either sing or clash with your display shelf depending on the lighting in your room and your taste for “loud” when it comes to card aesthetics.
 
@@ -34,7 +41,7 @@ If you’re curious about the product’s broader ecosystem, consider checking o
 
 This specific card’s design centers around three patch blocks—often presented as a vertical stack or a horizontal trio—paired with an on-card autograph that is legible against the background. Given Virtanen’s patch design from his junior and early pro days, the patches typically feature bold team colors with high-contrast color-blocking that helps the patches pop on a white or near-white card stock. For display, the triple design tends to shine under a light with just enough glare to pick up the texture of the patches, but not so much glare that you see the “film” of the plastic shell reflecting back at your face.
 
-Aesthetically, triple-patch autos are a joy to look at when the patches align with the card’s border framing. The patches should ideally be oriented toward the center, with stitching and fabric edges not cutting into the autograph area. In some instances, patch integration can produce an odd visual effect if patch fragments are heavily stitched in a way that creates nonuniform surfaces. In our Virtanen card’s case, the general consensus among collectors is that ITG did a solid job keeping the patches visually distinct and ensuring the autograph is visible without being overwhelmed by the fabric blocks.
+Aesthetically, triple-patch autos are a joy to look at when the patches align with the card’s border framing. The patches should ideally be oriented toward the center, with stitching and fabric edges not cutting into the autograph area. In some instances, patch fragments are heavily stitched in a way that creates nonuniform surfaces. In our Virtanen card’s case, the general consensus among collectors is that ITG did a solid job keeping the patches visually distinct and ensuring the autograph is visible without being overwhelmed by the fabric blocks.
 
 If you’re hunting for the best display impression, pay attention to the patch run’s alignment and whether the patches sit flush with the card surface. Uneven patch inserts can create a “bubble” effect that distracts from the autographs and reduces the perceived value. While patch quality is partly subjective, in triple-patch autos a consistent, clean patch integration tends to correlate with stronger resale value and long-term fan appreciation.
 
