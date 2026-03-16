@@ -1,5 +1,5 @@
 ---
-title: 'Skip-Bo: A Family-Friendly Strategy Card Game from the UNO Crew'
+title: 'Skip-Bo: A Family-Friendly Strategy Card Game from the UNO Crew (Revisited)'
 date: 2026-03-16
 tags:
   - board-games
@@ -7,17 +7,18 @@ tags:
   - card-games
   - reviews
   - geeknite
+  - updated
 ---
 
 ![Skip-Bo cover]({{ '/assets/images/skip-bo-cover.jpg' | relative_url }})
 
 ## Introduction
-If family game night had a mascot, it would be a stack of numbered cards yelling play me. Skip-Bo is that cheerful chaos condensed into a deck of simple-looking cards and a mission: get rid of your stockpile before everyone else does. Brought to life by the UNO crew at Mattel, Skip-Bo trades UNO's color-coded chaos for a numeric gauntlet where ordering, timing, and bluffing matter more than cartoon sound effects — and yes, my household still insists on shouting Skip-Bo when a dramatic reveal happens.
+If family game night had a mascot, it would be a stack of numbered cards shouting play me. Skip-Bo is that cheerful chaos condensed into a deck of simple looking cards and a mission: get rid of your stockpile before everyone else does. Brought to life by the UNO crew at Mattel, Skip-Bo trades UNO's color coded chaos for a numeric gauntlet where ordering, timing, and bluffing matter more than cartoon sound effects — and yes, my household still insists on shouting Skip-Bo when a dramatic reveal happens.
 
-In this review we are diving deep into why Skip-Bo isnt just a kids card game but a surprisingly sturdy family strategy game with a wobble of luck that keeps adults honest and kids inspired. We cover components, rules, strategy, how it stacks up against UNO and friends, accessibility for players aged 7 and up, and of course the Geeknite verdict. If you are here for a quick buy or bury decision, jump to the Verdict at the end.
+In this expanded review we dive deep into why Skip-Bo isnt just a kids card game but a surprisingly sturdy family strategy game with a wobble of luck that keeps adults honest and kids inspired. We cover components, rules, strategy, how it stacks up against UNO and friends, accessibility for players aged 7 and up, and of course the Geeknite verdict. If you are here for a quick buy or bury decision, jump to the Verdict at the end.
 
 ## What is Skip-Bo?
-Skip-Bo is a fast paced card game built around sequencing. Each card is a number from 1 to 12, plus Wild Skip-Bo jokers that can stand in for any number. The goal is to be first to empty your stockpile by playing cards in ascending order into a central construction pile. This sounds simple but the devil is in the details: managing your draw pile, planning ahead, and deciding when to use a wildcard can make or break a round. It is compact, portable and plays well with mixed-age groups.
+Skip-Bo is a fast paced card game built around sequencing. Each card is a number from 1 to 12, plus Wild Skip-Bo jokers that can stand in for any number. The goal is to be first to empty your stockpile by playing cards in ascending order into a central construction pile. This sounds simple but the devil is in the details: managing your draw pile, planning ahead, and deciding when to use a wildcard can make or break a round. It is compact, portable and plays well with mixed age groups.
 
 From a design standpoint, Skip-Bo is approachable for a 7 year old and offers surprisingly deep decisions for adults who like to pretend they have a master plan. The rules sit in a neat little pocket, and the components are sturdy enough to survive the casual energy of a family game night.
 
