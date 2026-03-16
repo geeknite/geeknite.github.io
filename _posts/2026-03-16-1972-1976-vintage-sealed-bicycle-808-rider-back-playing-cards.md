@@ -11,6 +11,8 @@ tags:
   - geeknite
 ---
 
+![Vintage Bicycle 808 Rider Back](https://geeknite-assets.s3.amazonaws.com/images/1972-1976-bicycle-808-rider-back.jpg)
+
 ## Overview
 Welcome, fellow card-tinkerers and time-traveling collectors. Today we dive into a sealed artifact from the mid-1970s: the 1972–1976 Vintage Bicycle 808 Rider Back Playing Cards. If you’ve ever sniffed a new deck and thought, this smells like a library that refuses to admit it’s a library, you’ve got the right vibe for this review. The 808 Rider Back deck is a vintage Bicycle production run that enthusiasts group into a fuzzy window of 1972 to 1976. In this piece, we’ll explore its packaging, design language, handling quirks, and whether it deserves a place on your shelf, your table, or your imaginary display case in the Batcave.
 
@@ -18,7 +20,6 @@ Below we’ll crack open the sealed mystique, examine the tuck box and stock, an
 
 > Note: This review treats the deck as a collectible artifact rather than a purely modern gaming tool. If you’re here to cut a fan, light a fire, or mix it into a dramatic card flourish, you’ll appreciate the nuances below.
 
-![Vintage Bicycle 808 Rider Back](https://geeknite-assets.s3.amazonaws.com/images/1972-1976-bicycle-808-rider-back.jpg)
 
 ## The 808 Rider Back: History, Myth, and the Aesthetic
 The Bicycle brand, under the United States Playing Card Company (USPCC), has a long tradition of releasing Rider Back patterns that evoke the classic, venerable feel of traditional card games. The Rider Back is known for its clean symmetry, bold lines, and the sense that you’re holding a deck that could have survived decades of smoky poker nights or clandestine magic shows. The 808 designation is a thing collectors talk about—an indexing label that helps distinguish this particular run from other Rider Back variants. It’s not a universal myth, but it’s a practical tag that signals differences in printing dates, stock thickness, or finishing nuances observed in that era.
