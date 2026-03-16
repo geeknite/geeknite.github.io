@@ -1,5 +1,5 @@
 ---
-title: "Uno Card Game - Classic Edition: A Geeknite Deep Dive"
+title: "Uno Card Game - Classic Edition: A Geeknite Deep Dive (Expanded)"
 date: 2026-03-16
 tags:
   - board games
@@ -12,13 +12,13 @@ layout: post
 author: "Geeknite"
 ---
 
-# Uno Card Game - Classic Edition: A Geeknite Deep Dive
+## Uno Card Game - Classic Edition: A Geeknite Deep Dive (Expanded)
 
-![Uno Classic Edition artwork](https://example.com/assets/images/uno-classic.jpg "Uno Classic Edition")
+![Uno Classic Edition artwork]({{ site.baseurl }}/assets/images/uno-classic.jpg "Uno Classic Edition")
 
-Uno is a game that refuses to die, and not just because your aunt keeps insisting on playing Crazy Eights with a different name. The Classic Edition of UNO has been a staple on coffee tables, in backpacks, and in the occasional high-stakes game night where someone actually bets on who can pronounce “Uno!” correctly under pressure. This review takes a long, loving look at the Classic Edition, unpacking why this very simple color-matching sprint remains both a party starter and a surprisingly satisfying strategy puzzle. If you’re a long-time fan or a curious newcomer, read on for the full Geeknite verdict, complete with safeguards against family chaos and a few quick house-rule ideas to spice things up.
+Uno is a game that refuses to die, and not just because your cousin insists on calling it an upgraded Crazy Eights with mood lighting. The Classic Edition of UNO has been a staple on coffee tables, in backpacks, and in the occasional high-stakes game night where someone bets on who can pronounce “Uno!” under pressure without spluttering into a giggle fit. This expanded review takes a long, loving look at the Classic Edition, unpacking why this very simple color-matching sprint remains both a party starter and a surprisingly satisfying social puzzle. If you’re a long-time fan or a curious newcomer, read on for the extended Geeknite verdict, complete with safeguards against family chaos and a few extra house-rule ideas to spice things up.
 
-For quick context: Uno is a card game published by Mattel. The Classic Edition typically features the standard deck with four color suits (red, yellow, green, blue), a handful of action cards (Skip, Reverse, Draw Two), and the iconic Wild cards. The core loop is simple—play a card that matches either color or number with the goal of shedding all your cards first. Like any great arcade game, the magic happens not during one hand but in the rhythm you cultivate across dozens of rounds.
+For quick context: UNO is a card game published by Mattel. The Classic Edition typically features the standard deck with four color suits (red, yellow, green, blue), a handful of action cards (Skip, Reverse, Draw Two), and the iconic Wild cards. The core loop is simple—play a card that matches either color or number with the goal of shedding all your cards first. Like any great arcade game, the magic happens not during one hand but in the rhythm you cultivate across dozens of rounds.
 
 If you want a quick lighthouse to steer your ship, skip to the verdict below. If you want a full tour of the ship, shelves, and potential iceberg traps, stay aboard as we sail through the components, rules, strategies, and cultural flavor of UNO Classic.
 
