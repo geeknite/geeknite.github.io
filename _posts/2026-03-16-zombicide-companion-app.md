@@ -1,5 +1,5 @@
 ---
-ttitle: Zombicide: Companion App
+title: Zombicide: Companion App — The Digital Sidekick for Chaos
 date: 2026-03-16
 tags:
   - board games
@@ -10,42 +10,42 @@ tags:
   - geeknite
 ---
 
-# Zombicide: Companion App — the undead, upgraded with a dash of silicon and satire
+## Zombicide: Companion App — the undead, upgraded with a dash of silicon and satire
 
-If you’ve ever played Zombicide and thought, “I love the brain-chomping chaos, but I’d also love a digital brain to organize it all,” then the Zombicide Companion App is basically your dream come true (or your worst nightmare if you’re a board-game purist who believes apps belong to the land of solitaire solitaire and solitaire). In this Geeknite-style pavilion of nerdy glory, we take a look at how the Companion App shakes hands with the board game life, what it brings to the table, what it eats for breakfast, and whether it adds up to the kind of synergy we’d actually invite to a real-life zombie hoarde.
+If you’ve ever played Zombicide and thought, “I love the brain-chomping chaos, but I’d also love a digital brain to organize it all,” then the Zombicide Companion App is basically your dream come true (or your worst nightmare if you’re a board-game purist who believes apps belong to solitary corners of the internet). In this Geeknite-style pavilion of nerdy glory, we take a closer look at how the Companion App shakes hands with the table, what it brings to the siege, and whether it adds up to the kind of synergy you’d actually invite to a zombie hoarde.
 
 > Images are worth a thousand brains. Here are a couple of screenshots to set the mood:
 >
 > ![Zombicide Companion App – home screen](assets/images/zombicide-companion-app/home-screen.png)
-> 
+>
 > ![Zombicide Companion App – campaign tracker](assets/images/zombicide-companion-app/campaign-tracker.png)
 
 ## What is the Zombicide Companion App?
 
-If you’ve walked into a modern gaming store lately, you’ve probably encountered a few companions. Some speak in dice, others in timers, and a few in “digital helpers” that claim to fix everything except your bad dice rolls. The Zombicide Companion App is CMON’s attempt to bring the digital sidekick to the party, acting as a smart organizer, a scenario generator, and a digital ally that helps you run campaigns, track survivors, and manage the ever-expanding menagerie of walkers, runners, and “oh-no-you-didn’t-giant-zombie-what-am-i-going-to-do-now” moments.
+If you’ve wandered into a modern gaming store lately, you’ve probably bumped into a handful of digital helpers. Some speak in dice, others in timers, and a few in “digital sidekicks” that claim to fix everything except your dice rolls. The Zombicide Companion App is CMON’s attempt to bring the digital wingman to the party, acting as a smart organizer, a scenario generator, and a digital ally that helps you run campaigns, track survivors, and manage the expanding menagerie of walkers, runners, and the “oh-no-you-didn’t-giant-zombie-what-am-i-going-to-do-now” moments.
 
-The app’s pitch is simple on the surface: offload some of the bookkeeping from the table, give you quick access to rules references, and spice up co-op play with a little digital engine that can adapt to different modules and scenarios. In practice, that means you can log your team of survivors, choose a mission, roll digital dice, track weapon inventories, and generate spawns without rifling through card decks—especially useful when your friends are busy arguing about who should be the one to sprint across the kitchen floor to grab a spare coffee mug to substitute as a barricade. The app also handles campaign progression, which is a godsend if you’re playing long-haul campaigns where you don’t want to flip through pages of notes every time someone mutters, “Did we save the scientist last session or not?”
+The app’s pitch is simple on the surface: offload some of the bookkeeping from the table, give you quick access to rules references, and spice up co-op play with a little digital engine that can adapt to different modules and scenarios. In practice, that means you can log your team of survivors, choose a mission, roll digital dice, track weapon inventories, and generate spawns without rifling through card decks—especially handy when your friends are busy arguing about who should sprint across the kitchen floor to grab a spare coffee mug to substitute as a barricade. The app also handles campaign progression, which is a godsend if you’re playing long-haul campaigns where you don’t want to flip through pages of notes every time someone mutters, “Did we save the scientist last session or not?”
 
 ## The setup and onboarding: ease with a dash of chaos
 
-Getting started with the Companion App is surprisingly painless for a zombie apocalypse. You install the app, create a game, and you’re greeted by a friendly wizard that knows nothing about your life except that there’s a horde at the door and you’re probably not prepared. The onboarding walks you through adding players, which in practice means typing silly gamer tags and laughing at your own “I’m clearly the fearless leader” bravado as your friends choose names like “Headshot Harold” and “Granny with a Groan.”
+Getting started with the Companion App is surprisingly painless for a zombie apocalypse. You install the app, create a game, and you’re greeted by a friendly wizard who knows nothing about your life except that there’s a horde at the door and you’re probably not prepared. The onboarding walks you through adding players, which in practice means typing silly gamer tags and laughing at your own bravado as your friends choose names like “Headshot Harold” and “Granny with a Groan.”
 
-From there, you can choose the module you want to run. The app tends to be modular itself, weaving in standard Zombicide rules with any included expansions. If you’ve got Black Plague, Green Horde, or any of the many spinoffs, the app tries to calibrate the experience so your digital experience matches your physical table. The interface is colorful and a touch chaotic—bright cards, big buttons, and the ever-present indicator showing how close that next zombie swarm is to your fragile ankles. It’s a touch overwhelming at first, but after a couple of campaigns you’ll be tapping through menus with the confidence of a survivor who’s memorized the quickest escape route from a cliché zombie warehouse.
+From there, you can choose the module you want to run. The app tends to be modular, weaving in standard Zombicide rules with expansions. If you’ve got Black Plague, Green Horde, or any of the other spin-offs, the app tries to calibrate the experience so your digital self matches your physical table. The interface is colorful and a touch chaotic—bright cards, big buttons, and the ever-present indicator showing how close that next zombie swarm is to your fragile ankles. It’s a bit overwhelming at first, but after a couple of campaigns you’ll be tapping through menus with the confidence of a survivor who’s memorized the quickest escape route from a cliché zombie warehouse.
 
 ## Features that actually matter (and a few that don’t)
 
 ### Core management tools
 - Digital survivor roster: add, name, upgrade, and track health, actions, and equipment. It’s like running a tiny, efficient lead developer for your team of fictional misfits.
 - Inventory tracking: no more card shuffles to figure out who has a crossbow and who’s carrying the third Molotov. The app keeps it tidy, and if you’ve ever played a game where someone forgot their ammo and blamed the dice, you’ll appreciate the clarity.
-- Campaign progression: save your group’s evolving story arc. If you’re a fan of long-term campaigns, this is the digital memory that prevents future arguments about “what happened last time?”
-- Scenario and spawn generation: the app can generate spawn tables, adjust difficulty, and guide you through mission setups with a few taps. It’s like having a dungeon master, but instead of a bearded guy with a wand, you’ve got a tablet with a smug little glow.
+- Campaign progression: save your group’s evolving story arc. If you’re into long campaigns, this is the digital memory that prevents future arguments about “what happened last time?”
+- Scenario and spawn generation: the app can generate spawn tables, adjust difficulty, and guide you through mission setups with a few taps. It’s like having a dungeon master, but instead of a bearded guy with a wand, you’ve got a tablet with a smug glow.
 
 ### Quick rolls and timers
-- Dice roller: digital dice for quick results. It’s satisfying in a way that pure RNG on paper just can’t achieve, and less likely to result in pained groans when a critical fail happens on a “boss-level” encounter.
-- Timers: some scenarios implement time pressure. The app provides countdowns and alerts, which adds tension without requiring someone to juggle a real kitchen timer while shouting orders. It’s not cheating—just modernization, which is basically the academic term for “admitting you’re playing a game with your phone.”
+- Dice roller: digital dice for quick results. It’s satisfying in a way that pure RNG on paper can’t achieve, and less likely to result in pained groans when a critical fail happens on a boss-level encounter.
+- Timers: some scenarios implement time pressure. The app provides countdowns and alerts, which adds tension without requiring someone to juggle a real kitchen timer while shouting orders. It’s not cheating—just modernization, which is basically the academic term for admitting you’re playing a game with your phone.
 
 ### Rule references and searchability
-- Rule lookup: when a card references a rule you can never quite remember, the app gives you a quick lookup instead of forcing you to flip through a physical tome the size of a small encyclopedia. It’s not a replacement for base rules, but it’s a lifesaver when you’re mid-game and someone asks, “What happens on a zombie’s second action?” and you actually know the answer instead of shrugging and rolling a d6 to stall.
+- Rule lookup: when a card references a rule you can never quite remember, the app gives you a quick lookup instead of forcing you to flip through a physical tome. It’s not a replacement for base rules, but it’s a lifesaver when you’re mid-game and someone asks, “What happens on a zombie’s second action?” and you actually know the answer instead of shrugging and rolling a d6 to stall.
 - Quick-start guides: you’ll find short, direct references to keep the flow moving. This is the kind of feature that keeps the party from devolving into chaotic chaos—the artful balance that keeps the zombies at bay and the players somewhat awake.
 
 ### Cross-module compatibility
@@ -79,7 +79,7 @@ No software is perfect, especially in the niche world of board-game adjacencies.
 
 The core advantage of the Companion App is the synergy it creates between digital automation and physical presence. You still physically manipulate tiles, tokens, and survivors, but you’re backed by a system that keeps track of survivors’ health, weapons, and the evolving map state. This gives you a chance to focus on the moments that truly matter—the banter, the puns, the dramatic last stand—while the app quietly handles the bookkeeping behind the curtain.
 
-A well-designed app can also mitigate one of Zombicide’s common pains: the long table that can feel like a tiny city of cardboard and plastic. When the app runs the numbers, you’re free to play with your friends rather than wrestling with a calculator and a sticky notepad. If you’re a streamer, content creator, or TTRPG group that loves to show off slick production values, the digital layer adds a premium feel that audiences often respond to with applause (or at least with a polite nod and a request for a link to the affiliate).
+A well-designed app can also mitigate one of Zombicide’s common pains: the long table that can feel like a miniature city of cardboard and plastic. When the app runs the numbers, you’re free to play with your friends rather than wrestling with a calculator and a sticky notepad. If you’re a streamer, content creator, or TTRPG group that loves to show off slick production values, the digital layer adds a premium feel that audiences often respond to with applause (or at least with a polite nod and a request for a link to the affiliate).
 
 ## How to weave the app into a Geeknite session
 
@@ -97,7 +97,7 @@ And if you’re curious about the broader world of zombie-brain mayhem in tablet
 
 ## A quick hardware and platform note
 
-The Companion App exists for multiple platforms, with mobile devices being the most common. You’ll typically find it on iOS and Android stores, where updates and expansions appear with the cadence of a headless horde. Battery life matters here; you’ll want to keep a charger within reach if you’re in a marathon gaming session. If you’re playing in person with a TV or monitor, you can connect the app to the display to show spawn tables, timelines, and key details to the group—great for a “center of mass” gaming vibe where everyone can see the numbers without leaning over a table full of tokens.
+The Companion App exists for multiple platforms, with mobile devices being the most common. You’ll typically find it on iOS and Android stores, where updates and expansions appear with the cadence of a headless horde. Battery life matters here; you’ll want to keep a charger within reach if you’re in a marathon gaming session. If you’re playing in person with a TV or monitor, you can connect the app to the display to show spawn tables, timelines, and key details to the group—great for a center-of-mass gaming vibe where everyone can see the numbers without leaning over a table full of tokens.
 
 ## Design reflections: what the app nails and where it trips
 
