@@ -1,5 +1,5 @@
 ---
-ttitle: "Gloom S 192/190 SV4a: Shiny Treasure ex – Japanese NM Card Review"
+title: Gloom S 192/190 SV4a Shiny Treasure ex Japanese NM Card Review
 date: 2026-03-16
 tags:
   - Pokemon Card Game
@@ -51,8 +51,10 @@ Near Mint isn’t a single, rigid number; it’s a suite of indicators. In this 
 - Keep humidity steady; extremes can affect the card’s flex and surface quality.
 - If you’re photographing for listing or hobby content, use diffuse light to avoid hotspot glare on the holo.
 
-### Jekyll Image: In-Post Visual Reference
-To anchor the experience, the image above serves as a tactile cue for the card’s look in NM condition. The reflection and holo alignment are subtle cues—if you have a broken hinge in your binder, you’ll know in a heartbeat when something’s not right.
+## Visual Spotlight: In Hand and Under the Microscope
+If you’re the kind of collector who treats an NM card like a tiny sculpture, you’ll appreciate the tactile drama of the Shiny Treasure ex line. The foil texture here isn’t just flashy; it’s a choreography of light, micro-scratches, and border precision. Under gentle magnification, you’ll notice the holo grain stitching a path across Gloom’s silhouette. In some angles, the violet aura around the artwork glows with a purer saturation, while at other angles, the colors soften, letting Gloom’s melancholy vibe take the spotlight. This is the kind of foil that rewards patience—angle, light, and a calm breathing space in which to admire the composition.
+
+For the completist who loves cross-language prints, the Japanese SV4a version offers a slightly crisper text treatment and a border that feels more defined in person than in glossy photos. It’s not just nostalgia; it’s a reminder that print runs carry a personality, and this Gloom wears that personality with quiet pride.
 
 ## Grading NM: What It Means for Value and Joy
 ### The Scale in Real Life
