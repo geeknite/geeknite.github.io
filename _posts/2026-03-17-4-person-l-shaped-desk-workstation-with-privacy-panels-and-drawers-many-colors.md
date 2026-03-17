@@ -23,6 +23,8 @@ In our test setup, the color options ranged from charcoal to maple, with some bo
 
 ![4 Person L-Shaped Desk]( {{ '/assets/images/desk-4p.jpg' | relative_url }} )
 
+![Color Options]( {{ '/assets/images/desk-4p-colors.jpg' | relative_url }} )
+
 ### Build Quality and Materials
 Durability is the name of the game here. When you’re balancing four people’s peripherals on a single cohesive unit, you want edges that won’t crumble when someone misplaces a monitor arm. The standard build uses a sturdy engineered wood top with a protective edge banding and a powder-coated steel frame. In our sample, the frame felt solid, with no wobbles after a couple of firm shakes to simulate enthusiastic post-it note adhesion. The surface is scratch-resistant, which is a polite way of saying your team will test the coffee spills and marker experiments so you don’t have to.
 
@@ -89,7 +91,7 @@ Ask yourself these quick questions:
 - Are you okay with a bit more upfront assembly and a longer setup time for the payoff of organized space down the line? If yes, proceed.
 - Can your budget accommodate the color/finish you want while still leaving room for add-ons like locking drawers or extra pedestals? If yes, you’re in the right ballpark.
 
-## External Resources and Related Reads
+### External Resources and Related Reads
 While this post is a standalone review, we encourage you to explore related topics for a holistic understanding of workplace ergonomics and furniture strategy:
 - Ergonomic basics for desk setups: https://www.osha.gov/ergonomics
 - Psychology of color in workspaces: https://www.apa.org/topics/ergonomics
