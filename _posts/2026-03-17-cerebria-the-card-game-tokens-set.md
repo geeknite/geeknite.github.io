@@ -1,16 +1,16 @@
 ---
-title: 'Cerebria: The Card Game - Tokens Set Review'
-date: 2026-03-17
-tags: ['board games', 'Cerebria', 'tokens', 'tabletop', 'review']
+title: 'Cerebria: The Card Game - Tokens Set Review (Updated)'
+date: 2026-03-18
+tags: ['board games', 'Cerebria', 'tokens', 'tabletop', 'review', 'tokens-set']
 ---
 
-# Cerebria: The Card Game - Tokens Set Review
+# Cerebria: The Card Game - Tokens Set Review (Updated)
 
-Welcome back to Geeknite, where we archivally adore two things: weird fantasy themes and the tactile joy of plastic bits doing what cardboard tokens wish they could. Today we dive into the Tokens Set for Cerebria: The Card Game, a little add-on with big ambitions: replace your teething-pain cardboard counters with something a tad more satisfyingly crinkly to flip, rub, and fling across the table (carefully, we do not encourage table-flinging in polite gaming circles). If you came here wondering whether this is worth the shelf space and the price tag, you’ve parked your hoverboard in the right nerdy driveway.
+Welcome back to Geeknite, where we celebrate two things with reckless enthusiasm: the moody majesty of Cerebria and the tactile romance of plastic minutiae. Today we dive into the Tokens Set for Cerebria: The Card Game, a petite expansion with lofty goals: replace your teething-pain cardboard counters with something a tad more satisfying to flip, rub, and fling across the table (careful now—table-flinging is a hobby hazard we do not endorse). If you came here wondering whether the upgrade is worth the shelf-space and the price tag, you’ve parked your hoverboard in the right nerdy driveway. And yes, we’ve grown this post to epic proportions because details matter when you’re trying to track moods and mean faces on a rainy gaming night.
 
-If you want to compare notes with the broader Cerebria universe, you might enjoy our main Cerebria: The Card Game review over at the Geeknite vaults. See {% post_url 2025-11-04-cerebria-card-game-review %} for the grand overview, then circle back to this little token-based side quest. For those who love a good breadcrumb trail, we also have a quick primer on the emotional economy of Cerebria right here {% post_url 2024-07-12-emotion-economy-in-cerebria %}.
+If you want to compare notes with the broader Cerebria universe, you might enjoy our main Cerebria: The Card Game review over at the Geeknite vaults. See {% post_url 2025-11-04-cerebria-card-game-review %} for the grand overview, then circle back to this little token-based side quest. For those who love a breadcrumb trail, we also have a quick primer on the emotional economy of Cerebria here {% post_url 2024-07-12-emotion-economy-in-cerebria %}.
 
-An image can be worth a thousand tokens, so let’s begin with a visual slab of the good stuff. 
+An image can be worth a thousand tokens, so let’s begin with a visual slab of the good stuff.
 
 ![Cerebria Tokens Set](/assets/images/cerebria-tokens-set.jpg "Cerebria Tokens Set in all its plastic glory")
 
@@ -20,6 +20,8 @@ Tokens sets for card games are a strange beast. They fix problems you didn’t k
 
 One of the first things you’ll notice is how the tokens feel. The plastic is a little heavier than you expect, giving every tap and flip a satisfying oomph that cardboard rarely matches. The colors are intentionally saturated to pop against the board and the mood-lit art style Cerebria is known for. If you’re the kind of player who likes to organize tokens by color and type, this set will quicken your setup time and give you a sense of control that borders on ritual.
 
+In this update, we’ve tested the Tokens Set across multiple sessions, including a full “emotional economy in action” night and a sprawling, myth-tinged campaign night where moods swung like a pendulum. The result: a more legible table, quicker recognition of state changes, and a little extra sparkle that makes you feel like you’re playing a game that respects your sensory needs as well as your strategic brain. The biggest change is not a rule tweak but a rhythm tweak: the tokens nudge you toward a smoother tempo, less guesswork, and more moments of “ah, there it is” when you need to read the room—and the board—at a glance.
+
 ## What’s In the Tokens Set?
 
 The set typically includes a mix of token types, designed to replace or augment what comes in the base game. You’ll find:
@@ -27,9 +29,12 @@ The set typically includes a mix of token types, designed to replace or augment 
 - Emotion tokens in a spectrum of hues that correspond to Cerebria’s core feelings. These are used to track moods and influence in-game effects. The color choices are thoughtful, leaning into the game’s art direction rather than chasing trendy neon aesthetics.
 - Influence and power tokens, which often serve as counters for control and resources. They’re slightly larger than the emotion tokens to keep the information hierarchy clear at a glance.
 - Fate and timing tokens, which help players map out the critical turns and trigger moments without rifling through piles of cards.
-- A small bag or tray for organization, designed to reduce fumbling when you need to locate the right token under pressure.
+- A compact tray or pouch for organization, designed to reduce fumbling when you need to locate the right token under pressure.
 
 The design philosophy here is not to reinvent the wheel but to take a wheel that works and give it a polish that makes sense for a game that thrives on mood, negotiation, and tactical card play. The tokens are unassuming enough that they won’t shout over the artwork, yet vivid enough to be immediately legible. If you’ve ever played Cerebria with the base counters and questioned when you would transition to something a touch more durable, this set is the nudge you might have been waiting for.
+
+### A closer look at the components
+The Tokens Set uses plastic rather than acrylic, so you’re trading a bit of translucence for sturdiness and ease of handling. The discs have a modest heft that makes taps and flicks feel satisfying without tipping the table into a “mugged by a monster” clatter. The larger counters that stand in for fate and major influence feel distinct enough to be read from across the table, a boon for those who enjoy long-range glances during tense moments. The overall finish leans matte to curb glare when you’re under warm room lighting or trying to suss out a token in the late-night glow of LED strips.
 
 ## Quality and Design: Material, Feel, and Durability
 
