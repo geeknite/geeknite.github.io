@@ -11,11 +11,13 @@ tags:
   - accessories
   - expansion
   - tabletop
+  - storytelling
+  - dice-nerd
 ---
 
 ## Overview
 
-Zombicide: Green Horde isn’t just a reskin of orcs and undead; it’s a mood, a metronome for your table that ticks in time with the whoosh of rolling dice and the chorus of "you failed that save" around a kitchen-table battlefield. The Green Horde Dice Set is the accessory that says, “We brought a bit of legend to your roll.” It’s not a toy; it’s a storytelling instrument, a co-pilot for your moment-to-moment decisions when you’re staring at a horde that seems to grow with every clack of plastic.
+Zombicide: Green Horde isn’t just a reskin of orcs and undead; it’s a mood, a metronome for your table that ticks in time with the whirr of dice and the chorus of groans when someone rolls a miss that would make an orc sigh. The Green Horde Dice Set is the accessory that says, “We brought a bit of legend to your roll.” It’s not a toy; it’s a storytelling instrument, a co-pilot for your moment-to-moment decisions when you’re staring down a green wave that seems to grow with every clack of plastic.
 
 This expanded review digs deeper than the box art and the glossy finish. We’re talking tactile feedback, color theory as battle philosophy, and the way a good set of dice can nudge the pacing of a game that thrives on momentum. We’ll tour the contents, talk durability, explain readability in the middle of a dragon roast and a zombie roast, and map out the narrative leverage these green gems give you when your squad is knee-deep in greenskins.
 
@@ -37,7 +39,7 @@ Inside, you’ll find:
 - A quick-reference insert that doubles as a cheat sheet for common outcomes during combat sequences.
 - A minimal-facing note detailing how these dice map to core Zombicide mechanics and Horde-specific twists.
 
-for color and texture, these dice are not a random assortment of greens and shapes. They’re tuned to the mood of a table that’s about to charge into a green-coded assault, and the contrast is tuned for readability under most lighting conditions. In short, you’ll be able to tell a hit from a miss from a critical at a glance, which is a lifesaver when the board is a riot of models, cards, and tokens.
+For color and texture, these dice aren’t a random assortment of greens and shapes. They’re tuned to the mood of a table that’s about to charge into a green-coded assault, and the contrast is tuned for readability under most lighting conditions. In short, you’ll be able to tell a hit from a miss from a critical at a glance, which is a lifesaver when the board is a riot of models, cards, and tokens.
 
 > Image: Green Horde Dice Set on a cluttered table, catching light and showing off the green marbling.
 > “Gaming tables deserve their own tiny battles,” says your inner bard.
@@ -169,6 +171,8 @@ For a broader apples-to-apples comparison, you can look up other colorways or re
 
 If you want extra flavor, consider real-time atmosphere cues: a short ambient track of goblin chatter, a voice line for a Horde leader, or a painted table hill painted green with the Horde colors—anything that keeps the moment alive between rounds.
 
+> Pro-tip: print or laminate a tiny “phase map” and place it near the play area. The Green Horde dice are readable from arm’s reach, but a quick reference keeps the table moving with fewer interruptions.
+
 ---
 
 ## Visuals, Care, and Longevity
@@ -183,7 +187,7 @@ Longevity is the test of time, and the Green Horde dice perform well in this reg
 
 ## Final Verdict
 
-The Zombicide: Green Horde Dice Set isn’t a revolution in a canister, but it’s a well executed, thematically coherent enhancement that aligns with the game’s vibe while delivering practical benefits to the table. It improves readability, adds flavor across moments of tension, and offers a dash of narrative propulsion during combat resolution.
+The Zombicide: Green Horde Dice Set isn’t a revolution in a canister, but it’s a well-executed, thematically coherent enhancement that aligns with the game’s vibe while delivering practical benefits to the table. It improves readability, adds flavor across moments of tension, and offers a dash of narrative propulsion during combat resolution.
 
 If you’re a die-hard Zombicide enthusiast who wants a more cohesive, story-forward table experience, you’ll likely find the Green Horde dice to be a worthwhile purchase. If your priorities are strictly mechanical optimization or your budget is tight, you may choose to save your money for terrain, card sleeves, or big plastic zombies—depending on your table’s flavor.
 
