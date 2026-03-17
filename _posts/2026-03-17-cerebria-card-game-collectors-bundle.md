@@ -1,4 +1,15 @@
-{"post_name": "2026-03-17-cerebria-collector-bundle-review.md", "new_content": "---\nttitle: Cerebria The Card Game - Collector's Bundle Re-Review\nlayout: post\ndate: 2026-03-17\ntags:\n  - board games\n  - card games\n  - review\n  - collectors edition\n  - tabletop\n  - cerebria\n---
+---
+ttitle: Cerebria The Card Game - Collector's Bundle Re-Review
+layout: post
+date: 2026-03-17
+tags:
+  - board games
+  - card games
+  - review
+  - collectors edition
+  - tabletop
+  - cerebria
+---
 
 Cerebria The Card Game has been a mood-swinging fixture on Geeknite's shelves since the first dawn of mood-inducing card games. The Collector's Bundle promises more cards, more art, and more opportunities to tell your friends you totally meant to do that thing you just did—with three different emotions on your board, obviously. If Cerebria was already a mood ring wearing a cape, the Collector's Bundle is the mood ring that joined a rock band, learned bass, and started a side project called “Internal Delusions, LLC.” Strap in, fair readers, because we’re going deep on what the bundle adds, whether it’s worth the price of admission, and how to wrangle those chaotic feelings into a sane, playable strategy (or at least a really convincing bluff).
 
@@ -23,7 +34,7 @@ The bundle is no joke—dense with content and designed to brighten even your mo
 
 All of this sits inside a sturdy, visually striking box that begs to be displayed and opened with ceremony—like you’re about to narrate a saga rather than merely playing a game. The packaging is designed to be a brag-worthy centerpiece, a “look what I own” moment that still respects the game’s theatrical core.
 
-## Gameplay and Mechanics: A Quick Walkthrough
+## Gameplay and Mechanics: A Deep Dive
 
 Cerebria’s core is a tug-of-war between two inner forces: positive and negative emotions driving the action. The two-player experience remains intimate, but the Collector’s Bundle broadens the scope for larger groups, with expanded options that keep the tension high and the drama delicious. The basic loop—draft emotion cards, play them to influence tracks on the board, and manage influence so you’re not completely out of the race—remains, but the Bundle adds layers that reward tempo, bluff, and timing as you ride the mood waves.
 
@@ -81,8 +92,8 @@ A premium bundle benefits from thoughtful organization. Here are some best pract
 
 If you’re into how Geeknite frames emotion-driven games and the boutique culture of collector editions, you might enjoy these posts:
 
-- Related discussion on the mood-driven design in Cerebria: {{ "2024-11-01-geeknite-emotion-driven-games" | post_url }}
-- A guide to collecting editions without going bankrupt: {{ "2025-02-14-geeknite-collector-editions-guide" | post_url }}
+- Related discussion on the mood-driven design in Cerebria: {{ '2024-11-01-geeknite-emotion-driven-games' | post_url }}
+- A guide to collecting editions without going bankrupt: {{ '2025-02-14-geeknite-collector-editions-guide' | post_url }}
 
 For a broader look at Cerebria’s theme and how it fits within modern tabletop storytelling, check our prior coverage and deep-dives across the site:
 - Cerebria in the Geeknite catalog: https://cerebria.game
@@ -108,4 +119,4 @@ If you’re new to Cerebria, you might want to start with the base game to learn
 
 If you’re ready to upgrade your Cerebria nights and you want the definitive, deluxe flavor, the Collectors Bundle is the way to go. It’s not just about owning more cards; it’s about embracing a richer mood-driven system and letting your table be the stage for that drama to unfold.
 
-**Grab it now via our affiliate link: https://geeknite.com/affiliate/cerebria?ref=geeknite**"}
+**Grab it now via our affiliate link: https://geeknite.com/affiliate/cerebria?ref=geeknite**
