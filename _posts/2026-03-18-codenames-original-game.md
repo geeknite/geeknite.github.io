@@ -1,5 +1,5 @@
 ---
-title: 'Codenames: The Original Game — Geeknite Review (Expanded)'
+title: 'Codenames: The Original Game — Geeknite Review Expanded'
 date: 2026-03-18
 tags:
   - Board Games
@@ -36,7 +36,7 @@ A cautionary note on components: some print runs come with thicker cards, better
 - Decide who goes first, assign red and blue teams, and designate spymasters for each side.
 - The objective is simple to state, and complex to execute: find all of your team’s agents before the other team. But there is a twist: you must do so by guessing words that fit your team’s clues while avoiding your opponents’ words and, most crucially, the assassin.
 
-From here on, the game unfolds in alternating turns. The spymaster gives a one word clue plus a number. The clue must relate to one or more of the words on the board, and the number indicates how many of those words are tied to the clue. The operative team then selects words from the board that they believe match the clue. If they guess a word that belongs to their own agents, they mark it with their color and continue their turn, reducing the number of guesses left. If they guess a word that belongs to the opposing team, they stop and let the opponent take a turn—an act that can quickly turn a narrow lead into a cliff dive. If they guess a neutral word, their turn ends as well. If they guess the assassin, the game ends immediately in a loss for the guessing team.
+From here on, the game unfolds in alternating turns. The spymaster gives a one word clue plus a number. The clue must relate to one or more of the words on the board, and the number indicates how many of those words are tied to the clue. The operative team then selects words from the board that they believe match the clue. If they guess a word that belongs to their own agents, they mark it with their color and continue their turn, reducing the number of guesses left. If they guess a word that belongs to the opposing team, they stop and let the opponent take a turn—an act that can quickly turn a narrow lead into a cliff dive. If they guess a neutral word, their turn ends. If they guess the assassin, the game ends immediately in a loss for the guessing team.
 
 ### How to Play: Spymaster vs Field Operatives
 - Spymaster communication: The spymaster must think in concise, sometimes metaphorical terms. A good clue often ties together multiple words that share a common thread, but a bad clue can unleash a chain of misinterpretations that makes your team regret the entire evening.
@@ -67,7 +67,12 @@ Codenames has a family of variants and expansions. The base game is deceptively 
 - Codenames: For Hire, a box of themed variants that adds new rules and additional word pools.
 - Thematic expansions and fan made variants, which often include new word lists or house rules to spice things up.
 
-One of the joys of Codenames is how you can mix and match with other party games to create a longer game night. A few rounds of Codenames followed by a quick sampling of other word games can keep a night lively and unpredictable, which is precisely what Geeknite loves.
+One of the joys of Codenames is how you can mix and match with other party games to create a longer game night. A few rounds of Codenames followed by a quick sampling of other word games can keep a night lively and unpredictable, which is precisely what Geeknite loves. And since we are never shy about new experiences, you can even pilot your own house rules: a timer for the spymaster, bonus clues for bold plays, or a friendly bet on which team will crack the longest chain of related words first.
+
+Beyond the base game and its expansions, there are a handful of notable offshoots worth a quick glance:
+- Codenames: Duet, a cooperative two-player variant that flips the script with a shared board and a focus on collaboration rather than rivalry.
+- Codenames: Harry Potter and Codenames: Marvel editions, which bring familiar IP flavors to the clue pool while keeping the core mechanic intact.
+- Fan-made word pools and themed decks that drop in via community creators, often turning a familiar grid into a fresh scavenger hunt for references.
 
 ### Pros and Cons
 Pros:
@@ -75,7 +80,7 @@ Pros:
 - Strong social element: encourages conversation, teamwork, and a shared sense of comedic misfires.
 - Replayability: even with the same grid, the clues feel fresh because every spymaster’s style is unique.
 - Flexible player count: works well with 4 players, but can scale up or down with ease.
-
+-
 Cons:
 - Language and cultural gaps: words can be tricky if players are not on the same page about spelling, meaning, or common references.
 - Risk of frustration: the one word clue constraint can lead to brutal misinterpretations, especially when the group is enthusiastic but not precise.
@@ -83,17 +88,17 @@ Cons:
 - Administrative overhead: the spymaster must manage the board and communicate the clue clearly, which can be exhausting in long sessions.
 
 ### Hosting a Codenames Night
-- Choose a comfortable space with enough seating and a visible board. If you are hosting online, many people do screen sharing for the grid and use video chat for the discussion. The challenge is not just the words but the theater you create around clue sharing.
-- Start with a quick baseline: go over the basic rules, demonstrate the one word clue with a simple example, and show how to handle a failed guess. The audience will appreciate the clarity and the chance to ask questions.
+- Choose a comfortable space with enough seating and a visible board. If you are hosting online, many people do screen sharing for the grid and use video chat for the discussion. The theater you build around clue sharing matters almost as much as the clues themselves.
+- Start with a quick baseline: go over the basic rules, demonstrate the one word clue with a simple example, and show how to handle a failed guess. A quick demo gets everyone on the same wavelength and reduces the potential for chaos later.
 - Plan for breaks. Codenames can be intense, especially when you are near the end of a round and everyone is rallying for just one more clue.
 - Rotate spymasters. It helps everyone understand both sides of the equation and ensures that no single player dominates the entire night.
 - Use house rules cautiously. Some groups add a timer, others allow longer or shorter clue connections. The important thing is to maintain fair play and a sense of fun.
 
 ### Visuals and Aesthetic Notes
-A well set table matters. The 5x5 grid looks like a crime sc sc knee as a photograph from a very organized crime thriller minus the dramatic music and dramatic tension. We recommend a dedicated playmat, or at least a reverent five by five layout that remains legible under coffee splashed sunglasses. If you want to up the vibes, place a small notebook on the side for players to jot down their clues, which often becomes a treasure trove of inside jokes by round three.
+A well set table matters. The 5x5 grid looks like a crime scene sketch with the glamour of a graphic novel—polite, organized, and just dangerous enough to keep you on your toes. We recommend a dedicated playmat, or at least a reverent five by five layout that remains legible under coffee splashed sunglasses. If you want to up the vibes, place a small notebook on the side for players to jot down their clues, which often becomes a treasure trove of inside jokes by round three.
 
 ### Replayability and Longevity
-Codenames rewards longer nights with a revolving door of spymaster strategies. The same grid can feel totally different when you switch from a pun loving captain to a cryptic puzzle master. Over time, you will notice patterns: some players lean into thematic clusters; others go for bold, risk heavy cues. The key is keeping the room light and the banter merry. The more you play, the more you realize that the real product is not the board but the shared storytelling that happens around it.
+Codenames rewards longer nights with a revolving door of spymaster strategies. The same grid can feel totally different when you switch from a pun loving captain to a cryptic puzzle master. Over time, you will notice patterns: some players lean into thematic clusters; others go for bold, risk heavy cues. The key is keeping the room light and the banter merry. The more you play, the more your brain becomes a web of connections, and suddenly your one word clue becomes a clue about your entire team’s shared experiences.
 
 ### Final Verdict (Expanded)
 Codenames: The Original Game remains a staple for any tabletop night where you want fast paced play, clever banter, and the occasional moment of sheer chaos. It rewards teams that can think laterally and pun slingers who can conjure up a clue that threads multiple words together without pulling the assassin into the conversation. It scales well with groups, making it an accessible option for family gatherings, college dorms, or a casual night with friends after a long day of real work or pretending to be wizards on a video game forum. The original edition provides a strong baseline with a timeless design and a set of components that hold up to frequent play. The game’s simplicity is its genius: you can teach it in under five minutes, and suddenly you are deep in a debate about whether bank should ever be clued with money if your team thinks of a river rather than a vault.
