@@ -76,7 +76,7 @@ If you want tips on specific squad compositions for early play, see our legacy n
 
 ## Mid-game pivots: when danger shifts and gear shines
 As you accumulate loot and your crew levels up, the board becomes a different beast. Mid-game is about exploiting strengths while patching weaknesses that the scenario exposes. Here are dirty-but-effective moves to keep your momentum:
-- Leverage synergy gear: one player's gadget may extend another's weapon range or provide a shield at the critical moment. The most successful teams stitch three or four such combos into a single round.
+- Leverage synergy gear: one player’s gadget may extend another’s weapon range or provide a shield at the critical moment. The most successful teams stitch three or four such combos into a single round.
 - Control the tempo with zone denial: block access corridors to force zombs into kill zones. The map is a trap for the undead, and the right placement of a turret blade or energy barrier can turn a desperate exchange into a decisive counterattack.
 - Rotate the heavy hitters: as difficulty creeps up, the melee specialists mix it up at the front while the sharpshooters provide cover from a safe distance. Leave a fragile backline exposed and you pay the price in a single misroll.
 - Prioritize objective-driven actions: if the mission clock is ticking, don’t chase loot without checking the objective. It is easy to get distracted by shiny gear while the standstill objective grows old and you lose your chance to claim victory.
