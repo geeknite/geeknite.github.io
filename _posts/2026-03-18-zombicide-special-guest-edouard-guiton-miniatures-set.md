@@ -1,5 +1,5 @@
 ---
-title: Zombicide Special Guest Edouard Guiton Miniatures Set — A Geeknite Review (Updated)
+title: Zombicide Special Guest Edouard Guiton Miniatures Set — An Expanded Geeknite Review
 date: 2026-03-18
 tags:
   - Zombicide
@@ -9,10 +9,11 @@ tags:
   - Painting
   - Geeknite
   - Edouard Guiton
+  - Special Guest
 ---
 
 ## Introduction
-If you thought your Zombicide shelf was safe from celebrity miniatures, think again. This edition doubles down on painterly bravado by inviting a Special Guest: Edouard Guiton. If you’ve ever seen Edouard’s work, you know he can take a zombie model from snooze-worthy to cue the dramatic lighting and 4K macro closeups in one brushstroke. The Zombicide Special Guest Edouard Guiton Miniatures Set promises not only a handful of brand-new sculpts but also a wink to the painterly techniques that have become a signature in today’s tabletop hobby. And yes, it promises to make your Instagram look dangerously professional, even if your gameplay is still a chaotic sprint with dice and bad puns.
+If you thought your Zombicide shelf was safe from celebrity miniatures, think again. This edition doubles down on painterly bravado by inviting a Special Guest: Edouard Guiton. If you’ve ever seen Edouard’s work, you know he can take a zombie model from snooze-worthy to cue-the-dramatic-lighting-and-4K-macro-closeups in one brushstroke. The Zombicide Special Guest Edouard Guiton Miniatures Set promises not only a handful of brand-new sculpts but also a wink to the painterly techniques that have become a signature in today’s tabletop hobby. And yes, it promises to make your Instagram look dangerously professional, even if your gameplay is still a chaotic sprint with dice and bad puns.
 
 In Geeknite fashion we open the box with the volume turned up to eleven, roll a couple of dice, and immediately start asking the hard questions: Do these miniatures actually improve the game experience, or do they simply improve your lighting setup? Is the collaboration with Edouard a clever marketing angle, or a genuine attempt to push the hobby forward? And most importantly, will your cat declare the newly spruced-up set a personal chew toy? Let’s dig in.
 
