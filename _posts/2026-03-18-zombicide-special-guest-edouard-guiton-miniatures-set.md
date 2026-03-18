@@ -1,19 +1,20 @@
 ---
-title: Zombicide Special Guest Edouard Guiton Miniatures Set — A Geeknite Review
+title: Zombicide Special Guest Edouard Guiton Miniatures Set — A Geeknite Review (Updated)
 date: 2026-03-18
 tags:
   - Zombicide
   - Miniatures
   - Board Games
   - Reviews
+  - Painting
   - Geeknite
+  - Edouard Guiton
 ---
 
 ## Introduction
+If you thought your Zombicide shelf was safe from celebrity miniatures, think again. This edition doubles down on painterly bravado by inviting a Special Guest: Edouard Guiton. If you’ve ever seen Edouard’s work, you know he can take a zombie model from snooze-worthy to “cue the dramatic lighting and 4K macro closeups” in one brushstroke. The Zombicide Special Guest Edouard Guiton Miniatures Set promises not only a handful of brand-new sculpts but also a wink to the painterly techniques that have become a signature in today’s tabletop hobby. And yes, it promises to make your Instagram look dangerously professional, even if your gameplay is still a chaotic sprint with dice and bad puns.
 
-If you thought your Zombicide shelf was safe from celebrity miniatures, think again. This season CMON leaned into the cosplay of miniature-making by bringing in a Special Guest: Edouard Guiton. For the uninitiated, Edouard is the painter who could make a plastic zombie look like it just escaped a horror movie under a spotlight and then politely asked for a brush so it could look even more terrifying. The Zombicide Special Guest Edouard Guiton Miniatures Set promises not only a handful of brand new sculpts but also a wink and nod to the painterly techniques that have become a signature in the modern tabletop painting community.
-
-In Geeknite fashion we open the box with the volume turned up to eleven, roll a couple of dice, and immediately start asking the hard questions: Do these miniatures actually improve the game experience, or do they simply improve your Instagram lighting setup? Is the collaboration with Edouard a clever marketing angle, or is it a genuine attempt to push the hobby forward? And most importantly, will your cat immediately decide that the newly spruced up set is a personal chew toy? Let’s dig in.
+In Geeknite fashion we open the box with the volume turned up to eleven, roll a couple of dice, and immediately start asking the hard questions: Do these miniatures actually improve the game experience, or do they simply improve your lighting setup? Is the collaboration with Edouard a clever marketing angle, or a genuine attempt to push the hobby forward? And most importantly, will your cat declare the newly spruced-up set a personal chew toy? Let’s dig in.
 
 > Quick note before we dive too deep: this review treats the Special Guest set as a cohesive product. If you’re here strictly for the base game, you may want to skim to the sections that discuss compatibility and value. For the rest of you, brace yourselves for racks of red, green, and ghastly nightmarish armor that only a painter of Edouard’s caliber could conjure.
 
@@ -39,7 +40,6 @@ If you’re curious about the hardware details, you’ll notice the standard Zom
 The packaging leans into the collaboration vibe with a clean, art-forward design. It’s not garish; it’s cinematic in a way that makes you feel like you’re opening a limited edition figure set rather than a “just add base game” add-on. The miniatures are clearly boxed for safe transit, with the usual blisters and internal dividers that keep you from tossing limbs around during unboxing. If you’re one of those people who saves the packaging for display, this one won’t disappoint.
 
 ## The Miniatures: sculpt, pose, and paintability
-
 Edouard Guiton’s involvement shows in the sculpting ethos. The faces carry more personality than your average generic zombie, and the survivors glow with a more decisive character hue. The zombie range leans into bony textures and slightly oversized gore that reads well at standard gaming distances. A good rule of thumb when you look at these minis: you’ll notice the most striking details—eyes, teeth, and bruising—at a normal gaming distance, which means you’ll be painting with intent even if you’re not a full-time master painter.
 
 ### Sculpt quality and engineering
@@ -58,7 +58,6 @@ If you’re a painter who loves a challenge, this set provides a friendly worklo
 The typical Zombicide approach—snap-fit minis with occasional tiny pegs—holds steady here. There are no surprising fragilities; you’ll likely end up with all limbs intact after a month of shelf life or a year of weekly gaming sessions. The texture density means you’ll need a steady hand for edge highlighting, but the payoff is worth it when you tilt the miniature toward the light and watch the textures pop.
 
 ## The game experience: terrain, balance, and narrative boost
-
 Zombicide is all about a shared narrative with a heavy dose of chaos. The Special Guest set doesn’t tilt the base rules, but it adds a layer of thematic richness. The survivors, now sporting Edouard’s signature motifs, read more distinctly on the table when you’re sprinting through tight corridors and blasting through zombie lines. The new zombies are not just “more of the same”; they bring micro-narratives to each encounter, making the board feel more alive (and also a little more terrifying).
 
 ### Game balance and implementation
@@ -98,7 +97,6 @@ If you’re a consumer looking for a buying guide, the best approach is to check
 - Our look at The Green Horde edition and its painterly approach in {% post_url 2022-11-15-zombicide-green-horde-review %}
 
 ## Final verdict and recommendation
-
 If you are chasing a gift for a friend who paints miniatures the way a chef seasons a fava bean risotto, or if you simply want your Zombicide board to double as a tabletop art gallery, the Edouard Guiton Special Guest Miniatures Set delivers on its promise. The sculpts benefit from Edouard’s signature dramatic textures and color choices, the survivors pop with personality, and the overall package has a premium feel that just screams Collector’s Edition. The set makes the game feel new again by injecting story-driven details that you’ll want to talk about after a successful mission (or, let’s be honest, after a dramatic failure where you watched a zombie do the old stumbling-lurch-miss a katana trick).
 
 That said, it’s not a radical game-changer. If you’re chasing raw balance changes or the newest meta-shift, you may find the content a touch soft on the “gameplay impact” metric. But for narrative depth, display value, and the pure joy of painting with Edouard’s palette, this set is a solid pick. For completists, it’s a no-brainer. For casual players, it’s a fabulous way to up your table’s vibe without requiring a full rules rewrite.
@@ -106,7 +104,6 @@ That said, it’s not a radical game-changer. If you’re chasing raw balance ch
 If you’re reading this as part of your planning for a next gaming night, consider pairing the set with a dedicated painting session. The visual payoff is tangible, and you’ll walk away with a few new technique ideas that can be used on other minis as well. And if you’re a social media warrior, trust me: the lighting on these minis makes for some fantastic selfies that will make your followers drool with envy. It’s not just a game accessory; it’s a mood.
 
 ## Final call to action
-
 **Grab the Edouard Guiton Special Guest Miniatures Set today and bring a splash of painterly apocalypse to your table. Visit the official affiliate link to secure your set now and support Geeknite while you level up your hobby.**
 
 For those who like a direct kick: **Buy it here via our affiliate link: https://affiliate.example.com/zombicide-edouard-guiton-set**
