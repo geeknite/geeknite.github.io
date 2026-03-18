@@ -1,5 +1,5 @@
 ---
-title: Cerebria: The Inside World - Card Sleeves
+title: Cerebria: The Inside World - Card Sleeves (Revisited)
 date: 2026-03-18
 tags:
   - board games
@@ -7,7 +7,11 @@ tags:
   - card sleeves
   - accessories
   - review
+  - sleeves
+  - tabletop
 ---
+
+![Cerebria sleeves laid out on table](/assets/img/cerebria-sleeves-table.jpg)
 
 ## Overview
 
@@ -17,7 +21,6 @@ We will cover sizing basics, finishes that really matter, and how different bran
 
 > For those who want a quick map: this post links to general sleeve strategies via {% post_url 2024-11-02-sleeving-basics.md %} and then dives into Cerebria specific scenarios. External resource rabbit holes are also sprinkled throughout for people who like to compare Dragon Shield, Ultra Pro, and Mayday options.
 
-![Cerebria sleeves laid out on table](/assets/img/cerebria-sleeves-table.jpg)
 
 ## What card sleeves are and why they matter for Cerebria
 
@@ -142,7 +145,6 @@ External links are a good place to start for comparisons. If you want to see how
 For Cerebria expansion planning, you may also want to skim through some general sleeve strategies. See {% post_url 2024-11-02-sleeving-basics.md %} for the broader context, then tailor your loadout for the unique needs of the Inside World. If you want to compare a few specific product lines, you can read a side-by-side comparison in the linked articles from the brands above and determine which mix best suits your table.
 
 ### A quick brand showdown (for Cerebria fans on a mission)
-
 - Best for art fidelity: Dragon Shield Matte Clear outer sleeves with inner sleeves for mood cards.
 - Best for budget-conscious players: Mayday standard sleeves with a couple of inner sleeves for top-priority cards.
 - Best for premium feel: Arcane Tinmen in a matte or soft touch outer layer with clear inner sleeves for the key mood cards.
