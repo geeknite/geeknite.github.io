@@ -1,5 +1,5 @@
 ---
-title: Zombicide: Black Plague Wulfsburg Expansion Review
+title: Zombicide: Black Plague Wulfsburg Expansion Review (Expanded)
 date: 2026-03-18
 tags:
   - board-games
@@ -10,10 +10,11 @@ tags:
   - wulfsburg
   - wolfpack
   - solo-play
+  - campaign
 ---
 
 ## Introduction
-Welcome back, fellow monster slayers and dice hoarders. If the base Zombicide Black Plague feels like a medieval dungeon crawl conducted by strict librarians with axes, the Wulfsburg expansion crashes the party with wolves, city streets, and a social contract that demands you plan faster than you scream. Wulfsburg is not just an add on; it is a full blown remix that turns a familiar frame into a bustling, moonlit maze where every alley hides a paw print and every corner could become your doom or your greatest moment of tactical glory.
+Welcome back, fellow monster slayers and dice hoarders. If the base Zombicide Black Plague felt like a medieval dungeon crawl conducted by strict librarians with axes, the Wulfsburg expansion crashes the party with wolves, city streets, and a social contract that demands you plan faster than you scream. Wulfsburg is not just an add-on; it is a full blown remix that turns a familiar frame into a bustling, moonlit maze where every alley hides a paw print and every corner could become your doom or your greatest moment of tactical glory.
 
 If you crave a cooperative experience that pairs tight pacing with a bite of chaos, Wulfsburg offers a strong argument for a longer campaign and a longer memory of failed ambushes. It scales well with the base game, introduces new strategic axes, and somehow makes werewolves feel fresh rather than just wolves with better stats. For the completionists among us, it also lays groundwork for a sprawling, moonlit campaign that can stretch your group’s patience and friendship in delightful ways.
 
@@ -23,6 +24,8 @@ If you crave a cooperative experience that pairs tight pacing with a bite of cha
 The cover art keeps that signature vibe of moonlit streets and silhouettes that look like they are plotting a coordinated ambush and a tavern brawl at the same time. The map tiles carry the weight of a city map rather than a mere dungeon grid, with a touch of urban decay and the occasional torchlit alley that convinces you to trust the dice less than your own instincts. The wolves are metal and plastic with a little more character than your typical zombie, which means you will squint at their miniatures and still delight in their menace when the board flips a new ambush card.
 
 ![Wulfsburg Map](assets/images/wulfsburg-map.jpg)
+
+{% image assets/images/wulfsburg-map.jpg 'Wulfsburg Map' alt='Wulfsburg Map' %}
 
 The new gear cards echo the medieval vibe while leaning into mobility and cunning. Think stealthy options that let you slip through lines and set up a devastating follow up, rather than just bigger swords for louder people. The color palette leans into midnight blues and copper accents that make the city feel alive, if a little haunted, which is exactly how you want a city to feel when wolves are knocking on its door.
 
@@ -58,7 +61,7 @@ The expansion doesn’t rewrite Zombicide Black Plague; it refines it. The core 
 #### The Moon Dial and Werewolf Events
 A thematically strong feature is the moon dial that dictates certain werewolf events. When the moon shifts, a new card raises the stakes, often encouraging players to think several turns ahead, which is not always the base game strong suit. Expect nights when you hold your breath and hope the dice gods don’t deliver a cascade of wolf bites that wipe out two heroes in a single round. It’s scary in a good way and makes every moonrise feel earned.
 
-#### The Paw sitive side of loot
+#### The Paw-sitive side of loot
 Loot in Wulfsburg remains a satisfying mix of essential supplies and powerful gear. The new items lean toward mobility and stealth, enabling you to maneuver around ambush zones with better odds than in the base game. There are also weapons designed for multi hit combos, letting you string together sequences that feel like a victory dance in the middle of a siege.
 
 #### Map interactions
