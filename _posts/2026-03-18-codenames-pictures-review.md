@@ -1,10 +1,12 @@
 ---
-title: Codenames: Pictures — A Visual Clue-Fest Revisited
-date: 2026-03-18
+title: "Codenames: Pictures — The Kaleidoscopic Clue-Off Revisited"
+date: 2026-03-19
 tags:
   - board-games
   - reviews
   - party-games
+  - visuals
+  - accessibility
 ---
 
 {% picture assets/images/codenames-pictures-cover.jpg alt=\"Codenames: Pictures cover\" %}
