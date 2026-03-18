@@ -1,6 +1,6 @@
 ---
-title: "Zombicide: Special Guest Box 7 (Edouard Guiton) de Guillotine Games — COLGUG062"
-date: 2026-03-18 12:00:00 -0000
+title: Zombicide: Special Guest Box 7 (Edouard Guiton) de Guillotine Games — COLGUG062
+date: 2026-03-25 12:00:00 -0000
 tags:
   - board games
   - Zombicide
@@ -11,114 +11,122 @@ tags:
   - geeknite
 ---
 
-# Zombicide: Special Guest Box 7 (Edouard Guiton) — COLGUG062
+## Zombicide: Special Guest Box 7 (Edouard Guiton) — COLGUG062: A Cameo That Comes Alive
 
-If you ever wondered what happens when a tabletop game gets a celebrity cameo in the zombie apocalypse, wonder no more. Guillotine Games' Special Guest Box 7, featuring Edouard Guiton, lands with the quiet confidence of a decapitated zombie head that still nods to the beat. This is not just a box full of minis and cards; it’s a love letter to the art of sculpting, a wink to fans who have spent late nights arguing about balance and paint schemes, and a portable museum of the kind of miniatures that make you say, “Okay, I’ll paint again, I swear.” COLGUG062, the product code you’ll tattoo on your hobby heart, is here to remind you that sometimes collecting is a performance art piece. And yes, there will be jokes about brain matter. Obviously.
+If you ever wondered what happens when a tabletop game gets a celebrity cameo in the zombie apocalypse, wonder no more. Guillotine Games' Special Guest Box 7, featuring Edouard Guiton, lands with the calm swagger of a survivor who just realized the undead forgot to pay their parking tickets. This is not merely a box full of minis and cards; it is a love letter to the art of sculpting, a wink to fans who have spent late nights arguing about balance and paint schemes, and a portable museum of the kind of miniatures that make you say, okay, I’ll paint again, I swear—after one more session. COLGUG062, the product code etched into hobbyist memory, reminds you that sometimes collecting is an art form, not just a habit.
 
-As with every Special Guest Box, the goal is not just to add more plastic to your shelf—it's to inject personality into the Zombicide sandbox. This time, Edouard Guiton brings a distinctive brushstroke to both the sculpts and the narrative flavor. In Geeknite terms: it’s a cameo, a paint-by-numbers tribute, and a reminder that even the undead deserve a little celebrity glam before the final round of shooting themselves in the foot with a crossbow bolt—metaphorically, of course.
+As with every Special Guest Box, the goal isn’t to drown your shelf in more plastic; it’s to inject personality into the Zombicide sandbox. This time, Edouard Guiton leaves fingerprints everywhere—from the survivor’s silhouette to the flavor text on event cards that tilt the board toward clever surprises rather than pure dice luck. In Geeknite terms: it’s a cameo with consequences, a paint-by-numbers tribute that still leaves room for your own splash of chaos.
 
-If you want to look at the official details without spoilers (and you know you do), Guillotine Games’ product page is a good start: https://guillotinegames.com/products/zombicide-special-guest-box-7-edouard-guiton. For the curious, we also drop a friendly callout to our older Zombicide coverage to keep context sharp: {% post_url 2025-11-15-zombicide-special-guest-box-5 %}.
+If you want the official details without spoilers (and who doesn’t want to peek behind the curtain before a purchase), Guillotine Games’ product page is a fine starting point: https://guillotinegames.com/products/zombicide-special-guest-box-7-edouard-guiton. For context, we also drop a familiar breadcrumb to our earlier Zombicide coverage to keep the thread intact: {% post_url 2025-11-15-zombicide-special-guest-box-5 %}.
 
 > Image: Zombicide Special Guest Box 7 cover
 > ![Zombicide Special Guest Box 7 cover]({{ '/assets/images/zombicide-special-guest-box-7.jpg' | relative_url }})
 >
 > And a close-up of the line-up: ![Miniatures lineup]({{ '/assets/images/zombicide-special-guest-box-7-minis.jpg' | relative_url }})
 
-## Overview: what makes COLGUG062 tick?
+## Overview: what COLGUG062 ticks on the board
 
-Zombicide: Special Guest Box 7 is a flavored detour from the core game, designed to celebrate a guest designer while feeding the fans’ appetite for fresh survivor personalities and quirky undead threats. In this box, Edouard Guiton’s fingerprint is everywhere—from the new survivor design to the flavor of the event cards that drive the players toward interesting win/loss states. It’s not merely “more in the box”; it’s “more in the story,” and the story here leans into creativity, humor, and a few nods to Guiton’s career and style.
+Zombicide Special Guest Box 7 is a flavor detour that celebrates a designer while feeding players’ appetite for fresh survivor personalities and quirky undead threats. In this box, Edouard Guiton’s fingerprint is everywhere—from the new survivor design to the flavor of the event cards that nudge players toward creative win conditions and mini narrative arcs. It isn’t merely more stuff to fling onto the table; it’s a version of the game with a narrative pulse. The box asks you to lean into storytelling, to paint with a sense of whimsy, and to accept that the zombie apocalypse can be as stylish as it is deadly.
 
-The packaging itself is lean but robust, with the usual Zombicide charm—bright colors, bold typography, and the sense that you’re about to embark on a skirmish where the only thing you’re absolutely sure of is that the box contains at least one heroic failure and one glorious victory. The box content is designed to thrill painters and players alike: new survivor cards with unique abilities, new zombie types, fresh weapons, and mission sheets that tilt the balance toward creative problem solving rather than pure dice luck.
+Packaging remains true to Zombicide’s bright, punchy ethos: bold typography, vivid color palettes, and the sense that you’re about to embark on a skirmish where the only thing you’re absolutely sure of is that the box contains at least one heroic misstep and one glorious triumph. This release is a curated experience designed to thrill painters and players alike: new survivor cards with distinctive abilities, new zombie varieties, fresh weapons, and mission sheets that favor inventive problem solving over brute force. It’s not a sprayer of content; it’s a crafted piece of the puzzle that invites you to reframe how you approach a standard “kill all zombies” session.
 
-This is not your run-of-the-mill add-on pack. It’s a curated experience—one that invites you to peek behind the curtain of a designer’s mind while you shoot “zombies,” which, in board-game terms, means simultaneously satisfying and suspiciously guilty as charged for enjoying a game about a global undead infestation.
+The theme here is not just to reprint a skin but to expand the narrative space—an invitation to treat a tabletop encounter as a tiny, lively moment in a comic book you and your friends are co-authoring. It’s the sort of release that makes you grin when you realize the box contains not only toys but story hooks you’ll carry into your next gaming night.
 
 ## Box contents and Edouard Guiton’s design fingerprint
 
-### The new survivor and their unique toolkit (H3)
+### The new survivor and their unique toolkit
 
-The Special Guest Box 7 introduces a new survivor who, by design, feels like a character lifted from a concept sketch and placed into a live-action table-top skirmish. Expect a distinct ability that interacts with either stealth, resource management, or a new mechanic introduced in this pack. The vibe is creative, sometimes cheeky, and always mechanically distinctive enough to justify a few rounds of experimental playthroughs. The illustration on the card brings a smile before you even read the text, which is precisely the tone a guest designer aims for: a memorable personality with a power that nudges the game toward new tactics.
+A standout feature of COLGUG062 is the new survivor, a character who feels at once thematic and mechanically distinct. This isn’t a one-trick pony; the survivor’s ability interacts with stealth, dynamic resource management, or a newly minted mechanic introduced in this set. The design language leans into Edouard Guiton’s sensibilities: bold but approachable, clever without being cruel to new players. The card art gives the character a personality before you even read the power text, setting expectations for witty lines in the heat of a skirmish and a power that nudges players toward improvisation rather than a single optimal path.
 
-### The new zombie type and encounter flavor (H3)
+If you’re a painter, this survivor is a joy: the artwork invites you to give the character a signature base, a unique eye on the model, and perhaps a tiny narrative scene on the base itself. If you’re a player who loves micro-situations—the door you choose to split, the crate you decide to loot last—the survivor’s toolkit becomes a small sandbox of tactical decisions with meaningful consequences later in the scenario.
 
-Guest boxes tend to push the theme forward with a new zombie type or a variant that disrupts the usual cadence of “clear a room, loot a crate.” In COLGUG062, you’ll find a zombie design that couples menace with a hint of personality—an almost-professional undead creature that you’ll love to hate. The sculpt is crisp, the layout clean, and the standard “Zombicide chaos” vibe remains intact. It’s the sort of figure that makes your hobby room feel like a tiny museum where the art is trying to eat your brain.
+### The new zombie type and encounter flavor
 
-### Cards, tokens, and the narrative glue (H3)
+Guest boxes consistently push the theme forward with a new zombie type or a variant that disrupts the rhythm of typical play. COLGUG062 introduces a zombie that does more than lumber and bite; it carries a certain professional air, a hint of menace mixed with a dash of humor. The sculpt is crisp; the surface details read clearly under paint, which matters when you’re trying to distinguish friend from foe at a glance during a tense turn. The new zombie type isn’t just a stat bump; it’s a narrative thread that players can weave into their plan—perhaps requiring a different order of operations, or a new tactic to corral and convert their enemies without wasting resources.
 
-The event cards and objective tokens that come with the box are where the guest’s voice really shines. You’ll notice text boxes that feel inclusive of Edouard Guiton’s sensibilities—colorful, punchy, and occasionally punny. The tokens maintain Zombicide’s familiar readability, with a few new symbols that push players toward creative solutions rather than brute force. If you’re the kind of player who enjoys flipping a card and muttering, “This is way too clever for a zombie game,” you’ll be in your element here.
+The model’s presence on the table is a little reminder that this is a collaboration, not a factory drop. You’ll find a balance between menace and charm—the kind of undead you love to hate and hate to ignore.
 
-### Board overlays and terrain considerations (H3)
+### Cards, tokens, and the narrative glue
 
-Guiton’s box doesn’t just add minis; it adds ambiance. Expect small improvements to board overlays or mission-specific terrain pieces that make the table feel different without requiring a full terrain investment. It’s the kind of design choice that makes you feel like you’re playing in a top-tier board-game cafe, except the cafe is your dining room and the barista is a zombie with a taste for your timelines.
+Event cards and objective tokens stand out as the most overt signs of Edouard Guiton’s influence. The text boxes pop with color, punch, and a few well-placed puns that make you smile even as you’re debating whether to trigger a risk-laden objective. The tokens remain the same reliable workhorses, but with slightly redesigned icons that steer players toward creative solutions rather than brute-force tactics. If you’re the player who mutters, This is too clever for a zombie game, you’ll feel seen here.
 
-### Artwork and paint quality expectations (H3)
+The narrative glue—the way these elements tie together into a cohesive evening of play—is where the guest box earns its keep. You’ll notice subtle callbacks to Guiton’s other works, recurring motifs in the flavor text, and an overall tone that says you’re not just playing through a preset scenario; you’re stepping into a small authored moment with room for improvisation and shared jokes.
 
-Sculpt quality remains a core strength of Zombicide, and this box continues that tradition. The miniatures are crisp; lines are clean; there’s a tactile richness that invites you to pick up a brush and start layering highlights. If you’re into the painting subculture, you’ll enjoy the challenge and the payoff—the latter being a scream-worthy tabletop presence that lasts longer than your last attempt at a neon base layer. If you’re a casual painter, you’ll still appreciate the models’ readability and the satisfaction of seeing your table “pop” in photos.
+### Board overlays and terrain considerations
 
-## Design philosophy and Edouard Guiton’s fingerprints (H2)
+This box is not about turning your room into a modern art installation, but it does offer small terrain and overlay flourishes that alter the feel of the space. Expect mission-specific terrain to appear in miniature, enough to create new choke points and lines of sight without forcing you into a full terrain overhaul. It’s the difference between playing on a generic kitchen table and playing on a surface that feels like a proper setup for a dramatic skirmish. The goal is immersion without impractical setup time, and COLGUG062 delivers that balance with thoughtful, compact additions.
 
-Edouard Guiton’s involvement brings a certain playfulness to the design philosophy behind this box. It’s not about shattering the game’s core balance; it’s about injecting a personality that can be celebrated in both narrative and mechanics. The result is a box that feels like a collaboration rather than a mere product drop. You can sense a designer’s hand in the way the new survivor interacts with existing survivals, how the new zombie type disrupts normal expectations, and how the mission flow encourages players to adapt rather than default to “shoot everything that moves.”
+### Artwork and paint quality expectations
 
-From a gaming culture perspective, this is a win: it respects the core audience while inviting new players to discover what makes Zombicide more than a “kill zombies” title. The guest design also benefits the community by sparking discussion on balance, theme, and the often-overlooked storytelling potential of modular game kits. It’s a reminder that board games aren’t just about numbers and dice; they’re about shared experiences, puzzle-solving, and the occasional heroic mishap that becomes a storytelling moment you’ll retell at conventions and on your favorite hobby blog.
+If you’re a painter, this box is a treat. The miniatures demonstrate crisp line work, clean sculpt details, and a level of surface refinement that’s satisfying to bring to life with a few highlights and washes. Even if you’re not chasing hyper-real shading, the models have a readability that photographs well and reads beautifully in person. For casual painters, there’s plenty to enjoy: a few distinct silhouettes that don’t require heroic skill to paint cleanly, and a palette that stays approachable while still offering the opportunity to experiment with edging and shading. The result is a tabletop presence that elevates photos and table presence alike, without requiring three new paint techniques to achieve a good result.
 
-## How it plays: impact on gameplay and table dynamics (H2)
+## Design philosophy and Edouard Guiton’s fingerprints
 
-### Tactical shifts and player agency (H3)
+Edouard Guiton’s involvement brings a certain playful ambition to the design philosophy of this box. It’s not about breaking the game’s core balance; it’s about injecting personality that resonates in both the narrative and mechanical layers. COLGUG062 feels like a collaboration rather than a single designer tapping out a product. You can sense his hand in the way the new survivor interacts with the existing pool, how the zombie type disrupts conventional pacing, and how the mission flow encourages adaptation rather than static “shoot everything that moves.”
 
-The new survivor and ability(s) shift early-game decisions. Do you secure a corridor or press forward to discover a potential objective that could shift later turns? This box nudges players toward more diverse routes and less linear approaches. You’ll likely see smaller, more improvisational strategies emerge, which is a welcome breath of fresh air for players who felt the base game could lean heavy into “race to the objective” tactics.
+From a broader gaming culture perspective, this release reads as a win. It respects the core audience while inviting new players to discover the things that make Zombicide more than a simple “kill zombies” arcade. The guest design also prompts ongoing community discussion about balance, thematic cohesion, and the storytelling potential of modular kit design. It’s a reminder that board games thrive on shared experiences, crafted by the people who code the rules and paint the models—and sometimes those two jobs converge in a surprisingly witty, surprisingly meaningful way.
 
-### Resource management and risk-reward (H3)
+## How it plays: impact on gameplay and table dynamics
 
-Zombicide is a game of resource management, and this box adds a new layer to that equation. The cards and tokens encourage you to think beyond the usual “kill everything” instinct. The risk-reward calculus gets a little spicier, which is exactly the kind of design reinvigoration that keeps seasoned players invested while not scaring off newcomers. It’s not a sea change; it’s a tasteful remaster of the classic Zombicide rhythm with Edouard’s flavor additive.
+### Tactical shifts and player agency
 
-### Replayability and mission variety (H3)
+The new survivor and their signature ability alter early game decisions in meaningful ways. Should you secure a critical corridor, or push forward to uncover a new objective that could tilt the late game? This box nudges players toward more diverse routes and non-linear paths, which is a breath of fresh air for folks who felt the core game could lean into a predictable “go here, clear that, grab that” rhythm. You’ll see more improvisational approaches, a welcome change when the table consists of veterans who know every card synergy by heart.
 
-With new objectives and variant conditions, this box contributes to higher replayability. You’ll find yourself returning to play the same scenario with different survivor picks, different deck orders, and perhaps a few missteps that become legendary in your gaming group. The best guest boxes add depth without making you feel forced into a single “optimal” path; COLGUG062 succeeds at that balance, leaning into clever design choices rather than overpowering the game with raw stats.
+### Resource management and risk-reward
 
-## Comparisons: Special Guest Boxes then and now (H2)
+Zombicide is a resource management exercise with risk-reward at every turn. The new cards and tokens introduce decisions that require you to think beyond the immediate urge to shoot. Do you risk a risky maneuver to trigger a powerful objective, or play it safe and preserve your survivor’s life for a longer-term payoff? The added complexity isn’t punishing; it’s a thoughtful nudge toward smarter play without making newcomers feel overwhelmed.
 
-If you’ve kept a running tally of Special Guest Boxes, you’ll know that each one tends to reflect a different facet of Zombicide’s broader universe. Box 5 focused on a co-op narrative shift with heavy event-cards-driven play; Box 6 leaned into modular terrain and micro-objectives; Box 7, guided by Edouard Guiton, lands somewhere between thematic storytelling and tactical flavor. It doesn’t reinvent the wheel, but it glazes the wheel with a gloss that makes it fun to spin again.
+This isn’t a wholesale redesign of the game’s cadence. It’s a tasteful infusion of Edouard Guiton’s flavor into the existing engine, a reminder that the box is there to complement rather than overthrow the base experience.
 
-The big question: is it worth purchasing if you already own several other guest boxes? For many players, yes. The guest design adds fresh mechanics, a new personality, and a few “aha” moments that you won’t get from repackaging the same base content with a new cosmetic release. For casual players who only dust off Zombicide occasionally, it might be less essential—unless you’re chasing the collector’s itch or you want a special-edition talking point for your gaming group’s next meetup.
+### Replayability and mission variety
 
-## Value, price, and why you might want to pull the trigger (H2)
+With new objectives, variants, and a handful of clever rules tweaks, COLGUG062 boosts replayability without turning the table into a chore. You’ll enjoy running the same scenario with different survivor picks, reordering decks, or applying house rules that keep the tension fresh. The best guest boxes achieve a balance: they’re new enough to feel exciting, but grounded enough to slot into established campaigns without requiring a full reset. COLGUG062 pulls this off by leaning into creativity rather than raw power.
 
-Value here isn’t just about playing time; it’s about longevity. If you’re the kind of gamer who paints, collects, and catalogs your shelf like a miniatures museum, COLGUG062 is a nice addition. The survivors and zombies add not just new mortal threats but new tactical puzzles to solve. The cards bring a taste of Edouard Guiton’s stylistic sensibilities to the table, and that aesthetic payoff matters to a lot of players who want their games to feel personal rather than generic.
+## Comparisons: Special Guest Boxes then and now
 
-From a pure price-to-content perspective, this is a fair proposition for enthusiasts. For casual players who primarily want to play once a month and call it a day, you may want to weigh the cost against the number of play sessions you anticipate in the near future. Either way, this box doesn’t feel like a throwaway; it feels like a curated experience designed to inspire your next painting session, your next group game, and your next round of “what if we tried this modifier.”
+If you’ve kept a tally of Special Guest Boxes, you know they tend to reflect different facets of Zombicide’s broader universe. Box 5 leaned into a co-op narrative shift centered on event-card rhythm; Box 6 emphasized modular terrain and micro-objectives; Box 7, under Edouard Guiton’s guidance, leans into thematic storytelling with a strong tactical flavor. It doesn’t reinvent the wheel, but it glazes the wheel with a glossy finish that makes it fun to spin again.
 
-## Community and reception notes (H2)
+Is it worth buying if you already own several guest boxes? In many cases, yes. The guest designer’s fingerprint provides fresh mechanics, a new personality, and those little “aha” moments you won’t get from repackaging the same content with a cosmetic glow. For casual players who only dust off Zombicide every couple of months, the decision becomes a matter of whether you’re chasing mood and muse as much as models and dice. If collector pride or a desire to spark vivid table storytelling is your jam, this box is a nice add.
 
-As with any Special Guest Box, the reception tends to split along two lines: those who love a designer cameo and those who just want more plastic. The former will likely champion Edouard Guiton’s fingerprints and argue that this is among the stronger guest entries in recent memory. The latter group might voice concerns about balance or the box’s ability to integrate cleanly with every table setup. In Geeknite’s experience, balance concerns are mitigated by the quality of the kit’s components and the availability of optional house rules that you can adopt without breaking the game’s core experience.
+## Value, price, and why you might want to pull the trigger
 
-If you want to explore more community opinions, you can check out threads linked from other posts like {% post_url 2025-11-15-zombicide-special-guest-box-5 %} and our ongoing discussion about how guest designers influence game longevity. The dialog is part of what keeps Zombicide alive—the fans debating, painting, and tweaking rules until the table feels like a living, breathing part of the hobby.
+The value proposition here isn’t only about playtime and immediate shelf life. It’s about longevity—the sort of product that stays interesting as you assemble your display, prime your minis, and plan your next painting session while you imagine new ways to incorporate the guest box into ongoing campaigns.
 
-## Final verdict: should you add COLGUG062 to your shelf? (H2)
+From a price-to-content perspective, COLGUG062 remains a solid proposition for enthusiasts who want more than a cosmetic upgrade. For casual players or folks who only fit Zombicide into a once-a-month hobby night, you’ll want to weigh the cost against how often you expect to re-enter the scenario with a fresh mindset. The production quality is consistently high, the minis feel rewarding to assemble and paint, and Edouard Guiton’s signature style adds a layer of thematic cohesion that’s hard to replicate with a standard expansion.
 
-Short answer: it depends on your goals. If you crave fresh design DNA, if you enjoy the synergy between painterly minis and tabletop storytelling, and if you want to inject a new type of puzzle into your Zombicide rounds, then yes, this Special Guest Box earns its place. It respects the core game’s identity while offering enough novelty to justify a purchase beyond a mere completionist impulse.
+## Community and reception notes
 
-Long answer: yes, but with caveats. If you’re new to Zombicide, you might want to start with the core game or a previous guest box to understand the baseline before jumping into COLGUG062. If you’re a veteran who already owns several guest boxes, this one offers enough new twists to refresh your campaigns without feeling gimmicky. The production quality remains high, the minis are satisfying to assemble and paint, and the thematic edge Edouard Guiton brings makes the session feel like you’re hosting a tiny, chaotic exhibition rather than a rigid exercise in dungeon crawling.
+As with any Special Guest Box, reception tends to split. Some players celebrate a designer cameo as a celebration of the hobby’s creative ecosystem, praising the personality infusion and the clever mechanical hooks. Others may voice concerns about balance or integration with a wide range of table setups. In Geeknite’s experience, balance concerns are typically tempered by the kit’s well-thought-out components and the potential for house rules that tailor the experience to your group. The presence of new content often spurs a broader discussion about what balance really means in a game that thrives on player creativity as much as dice luck.
+
+If you want to dive into community opinions, you can check out threads linked from our earlier posts like {% post_url 2025-11-15-zombicide-special-guest-box-5 %} and our ongoing discussion about how guest designers influence game longevity. The dialogue around these boxes is part of the hobby’s charm—a living conversation that keeps Zombicide fresh for a decade and counting.
+
+## Final verdict: should you add COLGUG062 to your shelf?
+
+Short answer: probably yes, depending on your goals. If you crave fresh design DNA, if you want to blend painterly minis with storytelling, and you’re keen on injecting a new kind of puzzle into your Zombicide rounds, this Special Guest Box earns its keep. It respects the core game’s identity while offering enough novelty to justify a purchase beyond a completionist impulse.
+
+Long answer: yes, with caveats. If you’re new to Zombicide, you may want to start with the core game or an earlier guest box to establish baseline expectations before diving into COLGUG062. If you’re a veteran who already owns several guest boxes, this one introduces new twists that can refresh your campaigns without feeling gimmicky. Production quality remains high, the minis are satisfying to assemble and paint, and Edouard Guiton’s design sensibility injects a sense of playful chaos that makes the sessions feel like you’re curating a tiny, chaotic art exhibit rather than running a rigid campaign.
 
 ### Final recommendation
 
-- For collectors and painters: A solid upgrade with standout minis and a strong theme.
-- For players chasing fresh mechanics: A welcome pivot that encourages new tactics.
-- For casual players: It’s still a nice set, but consider whether the price aligns with how often you’ll play and paint.
+- For collectors and painters: A solid upgrade with standout minis and a bold theme.
+- For players chasing fresh mechanics: A welcome pivot that nudges you toward novel tactical choices.
+- For casual players: A nice set overall, but weigh the cost against how often you’ll actually run the scenarios and paint the minis.
 
-If you’re ready to enrich your Zombicide library with a guest designer’s signature, COLGUG062 is a worthwhile fetch. It won’t fix a bad group dynamic, but it’ll absolutely make good sessions better—especially when you’re assembling the victory photos for your next social media drop.
+If you’re ready to enrich your Zombicide library with a guest designer’s signature, COLGUG062 is a worthwhile fetch. It won’t fix every balance issue the base game might have encountered in your group, but it will absolutely elevate sessions that lean into improvisation, storytelling, and a little showmanship around the table—exactly the vibe you want when you’re painting miniatures that look as good as they play.
 
-## The Geeknite closing: post-ride thoughts and next steps (H2)
+## The Geeknite closing: post-ride thoughts and next steps
 
-Zombicide Special Guest Box 7 is a reminder that board games can be conversations as much as conflicts. The interplay between Edouard Guiton’s design cues and Guillotine Games’ mechanical spine creates a product that feels cohesive, playful, and a little audacious in the best possible way. It’s the kind of release that makes you reach for your paintbrush and a beer, in equal measure, and say to your group: “Let’s dim the lights, roll some dice, and pretend we’re in a zombie-themed art studio.” And yes, that’s a weird vibe, but it’s precisely the vibe that makes board games special when you’re playing with people who care about the process as much as the results.
+Zombicide Special Guest Box 7 is a reminder that board games can be conversations as much as conflicts. The interplay between Edouard Guiton’s design cues and Guillotine Games’ mechanical spine creates a product that feels cohesive, playful, and a little audacious in the best possible way. It’s the sort of release that makes you reach for your paintbrush and a beer in equal measure and say to your group, let’s dim the lights, roll some dice, and pretend we’re in a zombie-themed art studio. Yes, that’s a weird vibe, but it’s precisely the vibe that makes board games special when you’re playing with people who care about the process as much as the results.
 
-### Final thoughts and a quick note on accessibility
+### Accessibility and practical notes
 
-If you’re new to Zombicide or if you’re balancing play with a broader hobby budget, consider buying the box as a hobby impulse rather than a necessity. The minis are worth it for display and painting practice, the gameplay remains familiar but not stale, and Edouard Guiton’s concept integration demonstrates how guest designers can contribute meaningfully without derailing the core experience. As always, ensure your play space can accommodate the extra pieces and that your table space can handle the terrain variety this box encourages. A well-lit painting desk helps, too.
+If you’re new to Zombicide or balancing play with a broader hobby budget, treat the box as a hobby impulse rather than a necessity. The minis are tempting for display and painting practice, the gameplay remains familiar but with enough fresh ideas to keep it interesting, and Edouard Guiton’s design language demonstrates how guest designers can contribute meaningfully without derailing the core experience. Make sure your play area can handle the extra pieces and terrain variety this box encourages. A well-lit painting desk matters more than a perfectly organized game room when you’re trying to coax that neon green base to pop on the tabletop.
 
-## Where to go next (H2)
+## Where to go next
 
 - For more context on guest boxes and how they’ve evolved, check our archival reviews: {% post_url 2025-11-15-zombicide-special-guest-box-5 %} and {% post_url 2024-08-02-zombicide-special-guest-box-3 %}.
-- To plan your next painting session, here are a few recommended color palettes that pop well on undead figures: neon green, corpse-bloom purple, and rusted iron. Your mileage may vary, but your models will look legendary in photos.
-- If you want a direct purchase path, visit the official product page linked above, or use our affiliate link to support Geeknite while you add a block of bone-chilling fun to your shelf.
+- If you’re planning your next painting session, here are a few palettes that tend to photograph well on undead miniatures: neon green accents on bone, a corpse-bloom purple blend, and rusted iron effects on armor pieces. Your mileage may vary, but your models will stand out on stream or in photos.
+- If you want a direct purchase path, visit the official product page linked above, or use our affiliate path to support Geeknite while you add a block of bone-chilling fun to your shelf: https://guillotinegames.com/products/zombicide-special-guest-box-7-edouard-guiton
 
 ## Final call to action (affiliate)
 
