@@ -7,9 +7,10 @@ tags:
   - party-games
   - visuals
   - accessibility
+  - co-op
 ---
 
-{% picture assets/images/codenames-pictures-cover.jpg alt=\"Codenames: Pictures cover\" %}
+{% picture assets/images/codenames-pictures-cover.jpg alt='Codenames: Pictures cover' %}
 
 ![Codenames: Pictures cover](assets/images/codenames-pictures-cover.jpg)
 
@@ -39,7 +40,7 @@ In a typical setup you’ll encounter:
 
 To help you imagine the vibe, here is a quick visual cue from the box art:
 
-{% picture assets/images/codenames-pictures-setup.jpg alt=\"Codenames: Pictures board setup\" %}
+{% picture assets/images/codenames-pictures-setup.jpg alt='Codenames: Pictures board setup' %}
 
 ![Codenames: Pictures board setup](assets/images/codenames-pictures-setup.jpg)
 
@@ -111,6 +112,11 @@ If you’re after a party game that balances accessibility with cleverness, Code
 From production to playability, the game nails the sweet spot between graphics and gameplay. The 4x4 grid keeps rounds digestible, the tokens and board survive a few dishwasher cycles of game nights, and the concise rules prevent stalling while still allowing for Rule of Cool improvisation.
 
 If you’re curating a rotation of party games for a mixed crowd, Pictures earns a top-tier spot. It’s quick to teach, simple to pick up, and packed with moments that spark conversation—whether that’s about the artwork itself or the strange, surprising connections your team just discovered.
+
+### TL;DR for busy nights
+- Easy to teach, quicker to play, perfect for casual Fridays and family game nights.
+- Visual playstyle scales from kids to adults without losing bite or charm.
+- A superb bridge title that pairs well with Words and other wordless party games.
 
 ## Final verdict
 Codenames: Pictures is the perfect bridge between light party fun and a compact, collaborative brain-teaser. It welcomes newcomers with a friendly face and rewards the veteran players with the kind of delightful misreads that become inside jokes for weeks. It is not just a game; it’s a social ritual that invites you to lean in, share a laugh, and shout in triumph when the clue finally makes a glorious sense.
