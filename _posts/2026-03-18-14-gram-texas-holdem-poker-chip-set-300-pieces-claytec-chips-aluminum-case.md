@@ -1,13 +1,14 @@
 ---
 layout: post
-title: '14 Gram Texas Holdem Poker Chip Set: 300 Pieces, Claytec Chips, Aluminum Case — Geeknite Review'
-date: 2026-03-18 10:00:00 -0000
+title: '14 Gram Texas Holdem Poker Chip Set: 300 Pieces, Claytec Chips, Aluminum Case — Geeknite Review (Expanded)'
+date: 2026-03-18 12:00:00 -0000
 tags:
   - poker
   - gear
   - reviews
   - geeknite
   - holdem
+  - review-expanded
 ---
 
 ![](/assets/images/14g-texas-holdem-poker-chip-set.jpg)
