@@ -1,5 +1,5 @@
 ---
-title: Zombicide: Special Guest Box 7 (Edouard Guiton) de Guillotine Games — COLGUG062
+title: Zombicide: Special Guest Box 7 (Edouard Guiton) de Guillotine Games — Extended Review COLGUG062
 date: 2026-03-25 12:00:00 -0000
 tags:
   - board games
@@ -11,9 +11,9 @@ tags:
   - geeknite
 ---
 
-## Zombicide: Special Guest Box 7 (Edouard Guiton) — COLGUG062: A Cameo That Comes Alive
+## Zombicide: Special Guest Box 7 (Edouard Guiton) — COLGUG062: A Cameo That Comes Alive (Extended Edition)
 
-If you ever wondered what happens when a tabletop game gets a celebrity cameo in the zombie apocalypse, wonder no more. Guillotine Games' Special Guest Box 7, featuring Edouard Guiton, lands with the calm swagger of a survivor who just realized the undead forgot to pay their parking tickets. This is not merely a box full of minis and cards; it is a love letter to the art of sculpting, a wink to fans who have spent late nights arguing about balance and paint schemes, and a portable museum of the kind of miniatures that make you say, okay, I’ll paint again, I swear—after one more session. COLGUG062, the product code etched into hobbyist memory, reminds you that sometimes collecting is an art form, not just a habit.
+If you ever wondered what happens when a tabletop game gets a celebrity cameo in the zombie apocalypse, wonder no more. Guillotine Games' Special Guest Box 7, featuring Edouard Guiton, lands with the quiet swagger of a survivor who just realized the undead forgot to sign their insurance papers. This isn’t merely a box full of minis and cards; it’s a love letter to the art of sculpting, a wink to fans who have spent late nights arguing about balance and paint schemes, and a portable museum of the kind of miniatures that make you say, okay, I’ll paint again, I swear—after one more session. COLGUG062, the product code etched into hobbyist memory, reminds you that sometimes collecting is an art form, not just a habit.
 
 As with every Special Guest Box, the goal isn’t to drown your shelf in more plastic; it’s to inject personality into the Zombicide sandbox. This time, Edouard Guiton leaves fingerprints everywhere—from the survivor’s silhouette to the flavor text on event cards that tilt the board toward clever surprises rather than pure dice luck. In Geeknite terms: it’s a cameo with consequences, a paint-by-numbers tribute that still leaves room for your own splash of chaos.
 
