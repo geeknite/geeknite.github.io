@@ -12,7 +12,7 @@ tags:
 ---
 
 ## Introduction
-If you thought your Zombicide shelf was safe from celebrity miniatures, think again. This edition doubles down on painterly bravado by inviting a Special Guest: Edouard Guiton. If you’ve ever seen Edouard’s work, you know he can take a zombie model from snooze-worthy to “cue the dramatic lighting and 4K macro closeups” in one brushstroke. The Zombicide Special Guest Edouard Guiton Miniatures Set promises not only a handful of brand-new sculpts but also a wink to the painterly techniques that have become a signature in today’s tabletop hobby. And yes, it promises to make your Instagram look dangerously professional, even if your gameplay is still a chaotic sprint with dice and bad puns.
+If you thought your Zombicide shelf was safe from celebrity miniatures, think again. This edition doubles down on painterly bravado by inviting a Special Guest: Edouard Guiton. If you’ve ever seen Edouard’s work, you know he can take a zombie model from snooze-worthy to cue the dramatic lighting and 4K macro closeups in one brushstroke. The Zombicide Special Guest Edouard Guiton Miniatures Set promises not only a handful of brand-new sculpts but also a wink to the painterly techniques that have become a signature in today’s tabletop hobby. And yes, it promises to make your Instagram look dangerously professional, even if your gameplay is still a chaotic sprint with dice and bad puns.
 
 In Geeknite fashion we open the box with the volume turned up to eleven, roll a couple of dice, and immediately start asking the hard questions: Do these miniatures actually improve the game experience, or do they simply improve your lighting setup? Is the collaboration with Edouard a clever marketing angle, or a genuine attempt to push the hobby forward? And most importantly, will your cat declare the newly spruced-up set a personal chew toy? Let’s dig in.
 
@@ -81,7 +81,6 @@ If you’re reading Geeknite, you probably enjoy the painting journey as much as
 If you want to dig deeper into Edouard-inspired methods, we’ve linked a few resources in the related posts section below. You’ll notice that the art of painting miniatures is as much about practice as it is about technique, and this set is a surprisingly good catalyst for experimentation.
 
 ## Value, availability, and where to buy
-
 This Special Guest Edouard Guiton Miniatures Set sits at a slightly premium price point compared to base sets, but the qualitative payoff—texture, storytelling potential, and display value—makes it a compelling option for serious hobbyists and collectors. Availability can vary by region, and given the nature of limited collaborations, it’s not unusual to see short production windows followed by a restock cycle that often sells out faster than a critical hit.
 
 If you’re a consumer looking for a buying guide, the best approach is to check multiple sources: official Zombicide pages, major hobby retailers, and your local game store. The official pages offer the most direct information on the set contents and any bundled deals, while retailers might provide shipping options or bundling with base game accessories that better fit your collection.
@@ -89,7 +88,7 @@ If you’re a consumer looking for a buying guide, the best approach is to check
 ### External links
 - Official Zombicide site: https://www.zombicide.com
 - CMON official game pages: https://www.cmon.com/games/zombicide
-- Informative setup guides and painting tutorials: https://www.coolminiornot.com/ (community resource with Edouard-focused threads occasionally)
+- Informative setup guides and painting tutorials: https://www.coolminiornot.com/
 
 ### Related reading
 - Read more about the base game and its expansions in {% post_url 2020-10-01-zombicide-base-game-review %}
