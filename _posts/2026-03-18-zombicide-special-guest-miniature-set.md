@@ -1,13 +1,15 @@
 ---
-title: Zombicide Special Guest Miniature Set Review (Updated)
+title: Zombicide Special Guest Miniature Set Review (Expanded)
 date: 2026-03-18
 tags:
-- board games
-- zombicide
-- miniature set
-- tabletop
-- review
-- geeknite
+  - board games
+  - zombicide
+  - miniature set
+  - tabletop
+  - review
+  - geeknite
+  - hobby
+  - painting
 ---
 
 ![Zombicide Special Guest Miniatures]({{ site.baseurl }}/assets/images/zombicide_special_guest.jpg)
