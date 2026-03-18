@@ -43,13 +43,15 @@ Pacing in XXL tends to be lively, with a momentum that builds as teams warm up a
 
 If you are into pacing strategies, try this approach: let one player volunteer to be the first guesser for each round, which gives a natural rotation and keeps energy high. Another approach is to designate a time keeper who can gently nudge players when a guess gets stuck. In our tests, the spymaster rotated every two rounds and that helped sustain energy while preventing fatigue from dominating the table.
 
+As the table grows, you get more room for storytelling. A single clue can morph into a narrative that threads multiple words together in a way you could never fit on a standard board. That storytelling layer is what keeps XXL charming after several rotations: it rewards improvisation and a shared sense of humor. That said, the larger surface area also invites more stray hints and accidental associations, so it pays to appoint a gentle but firm facilitator to remind players that the goal is to connect, not to improvise a Broadway musical on the fly.
+
 ## Theme and Humor: Why XXL Works in English
 
 Codenames is at heart a party game about wordplay, and XXL preserves that core essence while giving it a bigger spotlight. The humor comes from how players misinterpret clues and how the team collaborates to build a shared mental image of the grid. The English version keeps a bright tone that suits casual gatherings and friendly rivalries. You do not need to be a linguistics nerd to enjoy the jokes; a good sense of wordplay and a willingness to embrace ridiculous associations is enough.
 
 We also want to highlight the moments when language quirks become the punchline. In English, certain homophones and near synonyms can explode on the table as players attempt to connect two or three words with a single clue. Those moments create memorable stories and frequent laughter long after the game ends. The XXL edition amplifies those moments because more cards and a larger grid yield more opportunities for clever misdirection.
 
-If you want more reading on the light hearted side of Codenames humor, there is a fun post about wordplay in games that you can enjoy [Wordplay in board games that sparks laughter]({% post_url 2024-02-14-wordplay-in-board-games %})
+If you want more reading on the light hearted side of Codenames humor, there is a fun post about wordplay in games that you can enjoy [Wordplay in board games that sparks laughter]({% post_url 2024-02-14-wordplay-in-board-games %}).
 
 ## Player Count and Table Presence
 
