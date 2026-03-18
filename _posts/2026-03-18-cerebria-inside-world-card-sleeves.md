@@ -14,10 +14,10 @@ tags:
 
 ![Cerebria sleeves laid out on table](/assets/img/cerebria-sleeves-table.jpg)
 
-## Executive Summary
-Cerebria is a game that wears its mood on its sleeve—literally. If you play without sleeves, you are brave; if you play with sleeves, you are organized, prepared, and probably also a little obsessed in the best possible way. This revisited guide dives deeper into the art of sleeve selection for Cerebria: The Inside World, covering sizing quirks, finish trade-offs, loadout philosophies, and practical hacks to keep your mood cards from turning into moodier cards after a few dozen sessions. Expect a healthy dose of nerdy humor, practical testing notes, and brand comparisons that help you balance protection, feel, and price without turning your table into a sleeve showroom.
+Execut ive Summary
+Cerebria is a game that wears its mood on its sleeve—literally. If you play without sleeves, you are brave; with sleeves, you are organized, prepared, and probably downright ceremonial about mood recognition. This revisited guide dives deeper into sleeve selection for Cerebria: The Inside World, covering sizing quirks, finish trade-offs, loadout philosophies, and practical hacks to keep mood cards from turning into moodier cards after a dozen sessions. Expect nerdy humor, practical testing notes, and brand comparisons that help balance protection, feel, and price without turning your table into a sleeve showroom.
 
-For those who want a quick map: this post links to general sleeve strategies via {% post_url 2024-11-02-sleeving-basics.md %} and then dives into Cerebria specific scenarios. External resource rabbit holes are sprinkled throughout for those who like to compare Dragon Shield, Ultra Pro, Mayday, and Arcane Tinmen options.
+For those who want a quick map: this post links to general sleeve strategies via {% post_url 2024-11-02-sleeving-basics.md %} and then dives into Cerebria-specific scenarios. External resource rabbit holes are sprinkled for those who like to compare Dragon Shield, Ultra Pro, Mayday, and Arcane Tinmen options.
 
 ## What card sleeves are and why they matter for Cerebria
 Sleeves do more than hide fingerprints and keep the art safe from table scrapes. They are the interface between Cerebria's mood-driven art and your actual hands as you execute dramatic turns. Here is what matters most in Cerebria-specific sleeving:
@@ -93,6 +93,8 @@ If space is tight, consider modular deck boxes with adjustable dividers. Cerebri
 
 ## A look at finishes in practice
 I tested sleeve-per-deck combos under different lighting. In bright light, matte finishes cut glare and improve icon recognition. In warmer ambient light, clear sleeves preserve the rich color of Cerebria’s inner world. Soft touch finishes feel nice but can slow quick shuffles if you get carried away with tactile exploration. A practical note: if you sleeve everything with soft touch, you may lose some tactile feedback that helps you read the table’s mood state during a tense moment.
+
+![Mood cards layout](/assets/img/cerebria-sleeves-layout2.jpg)
 
 ### Sleeve checklist for Cerebria
 - Confirm standard card size is 63.5 x 88 mm for most cards
