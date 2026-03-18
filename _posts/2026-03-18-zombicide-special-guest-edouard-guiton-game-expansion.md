@@ -1,13 +1,13 @@
 ---
-title: Zombicide: Special Guest - Edouard Guiton (Game Expansion) – A Geeknite Review (Updated)
+title: Zombicide: Special Guest - Edouard Guiton (Game Expansion) – A Geeknite Review (Expanded)
 date: 2026-03-18
-tags: [board games, Zombicide, expansion, Edouard Guiton, review, tabletop, co-op, designer-led]
+tags: [board games, Zombicide, expansion, Edouard Guiton, review, tabletop, co-op, designer-led, humor]
 layout: post
 ---
 
 ![Edouard Guiton expansion art](assets/zombicide-edouard-guiton.jpg)
 
-Welcome back to Geeknite, where we take an undead apocalypse and treat it like a chaotic art grant: messy, inspired, and somehow funded by a grandmother who still signs permission slips. Today we revisit the Zombicide Special Guest expansion featuring Edouard Guiton, because apparently the zombies needed a designer cameo and a brand-new color palette that could double as a highlighter in a neon-lit studio. If you thought the undead were scary, wait until you meet a guest designer who wields a sharp eye for illustration, a sharper sense of humor, and a rulebook that reads like a graphic novel with footnotes in lipstick-red ink. Strap in, because this review is going to be long, loud, and crowded with tiny plastic heroes shouting about the color palette while walkers politely queue up for their close-ups.
+Welcome back to Geeknite, the site where we treat an undead apocalypse like a chaotic art grant: messy, inspired, and surprisingly generous with a questionable per diem for color palettes. Today, we circle back to Zombicide Special Guest: Edouard Guiton, because apparently the zombies needed a designer cameo and a brand-new neon gloss that could double as a highlighter for your notes during a late-night painting session. If you thought the undead were scary, wait until you meet a guest designer who wields a sharp eye for illustration, a sharper sense of humor, and a rulebook that reads like a graphic novel with lipstick-red footnotes. Strap in, because this review is going to be long, loud, and crowded with tiny plastic heroes shouting about color palettes while walkers politely queue up for their close-ups.
 
 External Link: Official Zombicide page here: https://www.zombicide.com/
 
@@ -119,11 +119,3 @@ Overall, Zombicide Special Guest: Edouard Guiton is a welcome addition for the r
 If you’re ready to add a little gallery-curated chaos to your next Zombicide night, you know what to do. Grab the expansion, gather your crew, and prepare to outsmart the walking dead while being guided by a guest designer who clearly loves both the art and the chaos.
 
 **Purchase through our affiliate link to support Geeknite and get your copy in time for the next game night: https://shop.geeknite.com/aff/zombicide-special-guest-edouard-guiton**
-
----
-
-External Link: Official Zombicide page here: https://www.zombicide.com/
-
-For shinier context about how expansions shift pacing, you can skim our related posts: {% post_url 2025-04-12-zombicide-core-review %} and {% post_url 2025-09-03-zombicide-expansions-roundup %}.
-
-If you want to dive deeper into other sidebar ideas for Zombicide scenarios, we’ve got you covered in our catalog and in-boardgame-specific write-ups. And if you enjoyed Edouard’s flavor, you’ll probably want to peek at our general artist-led expansion roundups for other franchises as well. The cross-pollination is real, and the art is pretty enough to hang on your wall after the session ends.
