@@ -1,10 +1,10 @@
 ---
-title: "Monopoly: Fortnite Edition - Expanded Deep Dive"
+title: 'Monopoly: Fortnite Edition - Expanded Deep Dive'
 date: 2026-03-28 10:00:00 -0000
-tags: [boardgames, gaming, fortnite, monopoly, geeknite, crossover]
+tags: [boardgames, gaming, fortnite, monopoly, geeknite, crossover, review]
 ---
 
-{% include image.html src="/assets/fortnite-monopoly-cover.jpg" alt="Fortnite Monopoly cover" %}
+{% include image.html src='/assets/fortnite-monopoly-cover.jpg' alt='Fortnite Monopoly cover' %}
 
 ![Fortnite Monopoly cover](./assets/fortnite-monopoly-cover.jpg)
 
@@ -44,7 +44,7 @@ External links and references: for fans who want to peek beyond the table, Hasbr
 
 ## Strategy and Experience
 
-Fortnite Edition rewards players who balance aggression with prudence. Early on you want to secure a color set or two that give you the comfiest rents and the fastest route to V-Bucks. The Build phase is where the game truly shines. You gather Wood, Brick, and Metal tokens, and you decide which properties to upgrade. Upgrades increase rent but require more materials, so you must choose whether to invest in your own real estate empire or fund the storm-backed quest to eliminate your opponents from the map. The art of the game is in deciding when to chase a full color set versus leaning on Loot Chest cards to disrupt others’ plans. It is a game of tempo: a good move now can pay off later, but a misstep invites a storm-laden catastrophe that ruins your strategy faster than a badly timed emote in a public lobby.
+Fortnite Edition rewards players who balance aggression with prudence. Early on you want to secure a color set or two that give you the comfiest rents and the fastest route to V-Bucks. The Build phase is where the game truly shines. You gather Wood, Brick, and Metal tokens, and you decide which properties to upgrade. Upgrades increase rent but require more materials, so you must choose whether to invest in your own real estate empire or fund the storm-backed quest to eliminate your opponents from the map. The art of the game is in deciding when to chase a full color set versus leaning on Loot Chest cards to disrupt others plans. It is a game of tempo: a good move now can pay off later, but a misstep invites a storm-laden catastrophe that ruins your strategy faster than a badly timed emote in a public lobby.
 
 A few practical tips for new players: first, memorize location sets that align with your playstyle. Tilted Towers and Fatal Fields are popular because they offer reasonable rents with manageable building costs. Second, track your materials as if you were an accountant on a caffeine binge. Wood is plentiful, but brick and metal are scarcer. A good rule of thumb is to aim for one or two upgrades per turn, unless you want to financially bury a neighbor under a mortgage mountain. Third, use Loot Llamas strategically: invest in the future or make your rivals pay for the privilege of staying in the storm’s safe zone. The best players time upgrades and rents so they can weather the storm and still claim the central property with the most lucrative yield.
 
