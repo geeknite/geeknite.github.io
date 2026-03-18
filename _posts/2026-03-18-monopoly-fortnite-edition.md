@@ -1,8 +1,10 @@
 ---
-title: 'Monopoly: Fortnite Edition - When Mortgages Meet Battle Passes'
-date: 2026-03-19 12:00:00 -0000
-tags: [boardgames, gaming, fortnite, monopoly, geeknite]
+title: "Monopoly: Fortnite Edition - Expanded Deep Dive"
+date: 2026-03-28 10:00:00 -0000
+tags: [boardgames, gaming, fortnite, monopoly, geeknite, crossover]
 ---
+
+{% include image.html src="/assets/fortnite-monopoly-cover.jpg" alt="Fortnite Monopoly cover" %}
 
 ![Fortnite Monopoly cover](./assets/fortnite-monopoly-cover.jpg)
 
@@ -108,10 +110,6 @@ We are always eager to hear about your Fortnite Edition experiences. If you have
 ## Call to action
 
 If you want to see more of our content and support the site, consider checking our other posts and keeping an eye on our upcoming guides. For more about hosting a game night that blends video games with classic board games, see {% post_url 2025-12-15-geeknite-hosting-game-night-tips %}. And for a deeper dive into the economics of crossovers, you can read {% post_url 2023-04-09-geeknite-crossovers-and-gaming-economics %}. Want to buy Fortnite Edition right now? external link to Hasbro page: https://monopoly.hasbro.com/en-us/products/fortnite-edition. Now the final call to action: **Get your copy today using our trusted affiliate link: https://affiliates.geeknite.com/monopoly-fortnite-edition**.
-
-## Final thoughts on playtime and table presence
-
-In the end, Fortnite Edition is a welcome twist on a timeless classic. It invites players to discuss strategy numbers that only appear when you calculate build costs in the heat of a storm turn. The art is bold enough to be embraced by fans and not so busy that it distracts from the core decision making. The rulebook does a reasonable job of guiding players through the new mechanics without turning the table into a test lab. It’s a social game that respects the social bonds that keep friend groups alive through the long winter of modern life.
 
 ## Want to see more?
 
