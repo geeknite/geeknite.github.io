@@ -1,5 +1,5 @@
 ---
-title: 'City of Mist: Fortune Row Dice Set Review'
+title: 'City of Mist: Fortune Row Dice Set Review – Expanded'
 date: 2026-03-18
 tags:
   - Board Games
@@ -7,11 +7,15 @@ tags:
   - Dice
   - Fortune Row
   - Geeknite
+  - Review
+  - Narrative
 ---
 
-![Fortune Row Dice Set](/assets/images/fortune-row-dice-set.jpg)
+{% raw %}
+![Fortune Row Dice Set]({{ '/assets/images/fortune-row-dice-set.jpg' | relative_url }})
+{% endraw %}
 
-The city never sleeps, and apparently neither do its dice. In the neon-lit labyrinth of myth and rumor that is City of Mist, a new accessory has slipped into the underworld of tabletop prophecies: the Fortune Row Dice Set. If you somehow found yourself with a detective's badge, a trench coat, and a handful of suspicious six-siders, you might also want a dice set that fits the mood of shadowy alleys, whispered deals, and villains who reveal their master plan with a single roll. Welcome to Geeknite’s exhaustive, mildly caffeinated take on the Fortune Row Dice Set—the kit that claims to turn your city into a character and your character into a walking spoiler for your own campaign.
+The city never sleeps, and apparently neither do its dice. In the neon-lit labyrinth of myth and rumor that is City of Mist, a new accessory has slipped into the underworld of tabletop prophecies: the Fortune Row Dice Set. If you somehow found yourself with a detective's badge, a trench coat, and a handful of suspicious six-siders, you might also want a dice set that fits the mood of shadowy alleys, whispered deals, and villains who reveal their master plan with a single roll. Welcome to Geeknite’s expanded, mildly caffeinated take on the Fortune Row Dice Set—the kit that claims to turn your city into a character and your character into a walking spoiler for your own campaign.
 
 ## Introduction
 City of Mist is a game about mythic heroes walking the thin red line between legend and reality. To capture that vibe, you need more than generic dice; you need dice that feel like they’ve witnessed a life-changing betrayal in a rain-slick alley behind a speakeasy. The Fortune Row Dice Set promises to deliver that ambience with a curated mix of symbols, colors, and textures that nod to the game’s noir-souls-with-superpowers premise.
@@ -62,11 +66,8 @@ For fans who love to build lore around their city, the dice become a tangible sy
 External resources you might find helpful include the official City of Mist site for broader lore and production notes: https://cityofmist.com/. For more fan-driven interpretations of the world’s mythic undercurrents, you can explore the City of Mist wiki and community projects. If you’re curious about how other players have integrated distinct dice into their sessions, you can check out collaborative write-ups and reviews on fan-hosted sites and forums.
 
 [City of Mist Official Site](https://cityofmist.com/) |
-
 [City of Mist Fandom Wiki](https://cityofmist.fandom.com/) |
-
 [Core Rules and Narrative Tips]({% post_url 2024-05-12-city-of-mist-core-rules %})
-
 [Fortune Row: Narrative Dice Mechanics]({% post_url 2025-08-21-fortune-row-dice-mechanics %})
 
 ## Value, Pricing, and What You’re Getting
@@ -119,4 +120,4 @@ If your table loves to talk as much as it loves to roll, the Fortune Row Dice Se
 - Who should skip: Groups that prioritize raw numeric optimization, or players who prefer a minimalist aesthetic and are not drawn to glyph-based storytelling cues.
 - Overall rating: A solid addition for the right table, offering a blend of mood, quality, and practical storycraft that can elevate sessions beyond conventional dice rolling.
 
-**Buy the Fortune Row Dice Set now through our affiliate link: https://affiliates.geeknite.example/fortune-row?ref=geeknite**
+**Buy the Fortune Row Dice Set now through our affiliate link: https://affiliates.geeknite.example/fortune-row?ref=geeknite**</br>
