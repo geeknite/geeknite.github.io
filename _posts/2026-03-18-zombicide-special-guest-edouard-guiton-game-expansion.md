@@ -1,7 +1,7 @@
 ---
 title: Zombicide: Special Guest - Edouard Guiton (Game Expansion) – A Geeknite Review (Expanded)
 date: 2026-03-18
-tags: [board games, Zombicide, expansion, Edouard Guiton, review, tabletop, co-op, designer-led, humor]
+tags: [board games, Zombicide, expansion, Edouard Guiton, review, tabletop, co-op, designer-led, humor, expansion-update]
 layout: post
 ---
 
