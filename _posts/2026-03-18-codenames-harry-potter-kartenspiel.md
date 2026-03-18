@@ -1,5 +1,5 @@
 ---
-title: 'Codenames: Harry Potter – Kartenspiel Review (Updated)'
+title: 'Codenames: Harry Potter – Kartenspiel Review (Updated, 2.0)'
 date: 2026-03-18
 tags:
   - board games
@@ -8,16 +8,17 @@ tags:
   - review
   - kartenspiel
   - spin-offs
+  - party games
 ---
 
-Willkommen zu einer weiteren Ausgabe von Geeknite, dem Ort, an dem Wortspiele, Zauberstabhumor und eine Prise Chaos in derselben Schublade landen. Heute nehmen wir Codenames: Harry Potter – Kartenspiel unter die Lupe. Ja, ihr habt richtig gelesen: Ein Kartenspiel, das sich am wohl bekanntesten Universum der bösen Zauberer orientiert, aber im Kern immer noch das clevere, improvisierte Wort-Party-Gameplay von Codenames mitbringt. Die Frage, die sich uns stellt: Kann dieses HP-Spin-off die Magie des Originals in eine Kartenspiel-Form gießen, oder kracht es unter der Last der Erwartungen auseinander wie ein Horcrux unter der Kritik eines Quidditch-Tages? Wir testen, wir lachen, wir legen Karten auf den Tisch und hoffen, dass niemand versehentlich den Finsternis-Fluch auslöst. Spoiler: Es hat Potenzial, aber mehr dazu weiter unten.
+Willkommen zurück bei Geeknite, dem Ort, an dem Wortspiele, Zauberstabhumor und eine Prise Chaos in derselben Schublade landen. Heute nehmen wir Codenames: Harry Potter – Kartenspiel erneut unter die Lupe. Ja, ihr habt richtig gelesen: Ein Kartenspiel, das sich am wohl bekanntesten Universum der bösen Zauberer orientiert, aber im Kern immer noch das clevere, improvisierte Wort-Party-Gameplay von Codenames mitbringt. Die Frage, die sich uns stellt: Kann dieses HP-Spin-off die Magie des Originals in eine Kartenspiel-Form gießen, oder kracht es unter der Last der Erwartungen auseinander wie ein Horcrux unter dem kritischen Quidditch-Wetter? Wir testen, wir lachen, wir legen Karten auf den Tisch und hoffen, dass niemand versehentlich den Finsternis-Fluch auslöst. Spoiler: Es hat Potenzial, aber wir gehen klug vor, damit es nicht zu stark nach Butterbier riecht.
 
-![](/assets/images/codenames-harry-potter-kartenspiel-box.jpg)
+![]({{ '/assets/images/codenames-harry-potter-kartenspiel-box.jpg' | relative_url }})
 
-![](/assets/images/codenames-harry-potter-kartenspiel-play.jpg)
+![]({{ '/assets/images/codenames-harry-potter-kartenspiel-play.jpg' | relative_url }})
 
 ## Spielprinzip und Setup
-Codenames ist bekannt als ein lobenswerter Ausflug in die Welt der rätselhaften Assoziationen. In der klassischen Version verteilen sich Wörterkreationen auf dem Tisch, und zwei Teams versuchen, ihre Agenten anhand eines einzelnen Hinweises zu finden. Beim Harry Potter Kartenspiel wird dieses Fundament in eine kartengestützte Form gegossen. Die Karten zeigen HP-spezifische Begriffe, Zaubersprüche, Figuren oder Orte, die in Gruppen sortiert werden, ähnlich wie die Wörter im Original. Der Clou: Statt Wortkarten auszulegen, nutzt man Kartenstapel, Übungs-Karten für Clues und Zauberchips, die bestimmten Häusern oder Charakteren zugeordnet sind.
+Codenames ist bekannt als ein lobenswerter Ausflug in die Welt der rätselhaften Assoziationen. In der klassischen Version verteilen sich Wörterkreationen auf dem Tisch, und zwei Teams versuchen, ihre Agenten anhand eines einzigen Hinweises zu finden. Beim Harry Potter Kartenspiel wird dieses Fundament in eine kartengestützte Form gegossen. Die Karten zeigen HP-spezifische Begriffe, Zaubersprüche, Figuren oder Orte, die in Gruppen sortiert werden, ähnlich wie die Wörter im Original. Der Clou: Statt Wortkarten auszulegen, nutzt man Kartenstapel, Übungs-Karten für Clues und Zauberchips, die bestimmten Häusern oder Charakteren zugeordnet sind.
 
 Aufbau und Setup gehen schnell von der Hand – zwei Teams, jeweils ein Hinweisgeber pro Runde, eine bestimmte Anzahl an zu suchenden Agenten pro Team und eine zentrale Zielkarte pro Partie. Die Kartenstapel liegen bereit, die Spielbretter oder Unterlagen zeigen die House-Color-Codes – Gryffindor gegen Slytherin, wenn man so will – und los geht es. Wichtig: Die Hausfarben sind hier eher Stilmittel, denn echte Barrieren; der Fokus bleibt auf dem kreativen Verknüpfen von Hinweisen. Die Regeln sind leichter erfassbar als ein neues Zauberstab-Design mit seltsamen Schnallen, und genau das macht das Spiel zugänglich, sowohl für Potterheads als auch für Casual Gamers.
 
@@ -28,9 +29,9 @@ Die Karten fühlen sich gut an in der Hand, der Druck ist sauber, die Farben kr�
 
 Ein Highlight ist die grafische Umsetzung der House-Farbwelt. Auch wenn es sich um ein Kartenspiel handelt, sorgt die visuelle Trennung der House-Token dafür, dass das Spielgefühl von Hogwarts erhalten bleibt. Wer gerne thematische Details sammelt, wird hier glücklich – von Margen, die an die Hausfarben erinnern, bis hin zu kleinen Icons auf jeder Karte, die einen schnellen Überblick ermöglichen.
 
-Dass das Spiel so portabel ist, hat zwei Seiten. Einerseits spricht es unterwegs eine große Zielgruppe an: Familien, Pendler, spontane Spielrunden im Wohnzimmer. Andererseits kann die Portabilität zu einem Verlust an Drucktiefe führen, wenn man die Spielkarten zu flüchtig behandelt. Die Anleitung klärt das meiste, aber wir empfehlen trotzdem eine Box- oder Kartenhülle, wenn du oben Genannten zu Hause regelmäßig aufziehst.
+Portabilität hat zwei Seiten. Einerseits spricht es unterwegs eine große Zielgruppe an: Familien, Pendler, spontane Spielrunden im Wohnzimmer. Andererseits kann die Portabilität zu einem Verlust an Drucktiefe führen, wenn man die Spielkarten zu flüchtig behandelt. Die Anleitung klärt das Meiste, aber wir empfehlen trotzdem eine Box- oder Kartenhülle, wenn du oben Genannten zu Hause regelmäßig aufziehst.
 
-Wenn ihr wissen wollt, wie dieses HP-Spin-off im Vergleich zum Original abschneidet, schaut euch gerne diese externe Übersicht an: Codenames Harry Potter auf BoardGameGeek
+Wenn ihr wissen wollt, wie dieses HP-Spin-off im Vergleich zum Original abschneidet, schaut euch gerne diese externe Übersicht an: Codenames Harry Potter auf BoardGameGeek.
 
 ## Theme Integration: Zauberhafte Passung oder Nähe zum Cannon?
 Die Harry-Potter-Ästhetik hier zu greifen ist ein zweischneidiges Messer. Auf der einen Seite funktioniert es als Fanservice: NIcht wenige Karten erinnern an ikonische HP-Orte, Zaubersprüche oder Situationen, die vielen sofort ein Grinsen entlocken. Die Verbindung ist stark genug, um HP-Fans wirklich zu belustigen, ohne die Grundmechanik zu verlieren. Auf der anderen Seite kann die HP-Kollision zu einem Overload führen, wenn der Hinweisgeber zu sehr in die HP-typische Wortwelt abdriftet. Euer mileage wird stark davon abhängen, wie sicher ihr in der Materie seid: Wer in Hogwarts-Canon tief drin steckt, wird mit den Hinweisen viel kommunizieren können; Wer eher auf einfache Wortverbindungen abzielt, könnte sich schwer tun, die Brücke zwischen HP-Feat und Spielmechanik zu bauen.
