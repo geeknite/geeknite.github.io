@@ -7,6 +7,8 @@ tags:
   - family
   - kids
   - tabletop
+  - review
+  - family-night
 ---
 
 UNO is the plastic superstar of any family game night. It shows up with a rainbow of colors, a deck that somehow fits in a pocket, and the uncanny ability to make adults laugh and groan in equal measure when someone shouts UNO at the exact wrong moment. This post is about the standard UNO card game but with a twist: customizable options that make the game friendlier for kids, while preserving the chaos and excitement that adults secretly crave. If you are a board game enthusiast who loves tinkering, you will feel right at home here. If you are a parent trying to keep your sanity during a cartoon-echoing, coffee-fueled family session, you will also feel right at home. If you want a quick visual, here is a snapshot of the kind of setup we will discuss: ![UNO family playing cards](/assets/images/uno-family.jpg)
