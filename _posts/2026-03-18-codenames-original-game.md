@@ -1,5 +1,5 @@
 ---
-title: "Codenames: The Original Game — Geeknite Review (Expanded)"
+ttitle: 'Codenames: The Original Game — Geeknite Review (Expanded)'
 date: 2026-03-18
 tags:
   - Board Games
@@ -89,10 +89,10 @@ Cons:
 - Rotate spymasters. It helps everyone understand both sides of the equation and ensures that no single player dominates the entire night.
 - Use house rules cautiously. Some groups add a timer, others allow longer or shorter clue connections. The important thing is to maintain fair play and a sense of fun.
 
-### Visuals and aesthetic notes
+### Visuals and Aesthetic Notes
 A well-set table matters. The 5x5 grid looks like a crime-sc-scene photograph from a very organized crime thriller—minus the dramatic music and the dramatic tension. We recommend a dedicated playmat, or at least a reverent five-by-five layout that remains legible under coffee-splashed sunglasses. If you want to up the vibes, place a small notebook on the side for players to jot down their clues, which often becomes a treasure trove of inside jokes by round three.
 
-### Replayability and longevity
+### Replayability and Longevity
 Codenames rewards longer nights with a revolving door of spymaster strategies. The same grid can feel totally different when you switch from a pun-loving captain to a cryptic puzzle-master. Over time, you’ll notice patterns: some players lean into thematic clusters; others go for bold, risk-heavy cues. The key is keeping the room light and the banter merry. The more you play, the more you realize that the real product is not the board but the shared storytelling that happens around it.
 
 ### Final Verdict (Expanded)
