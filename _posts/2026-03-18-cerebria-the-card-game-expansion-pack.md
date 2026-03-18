@@ -4,9 +4,9 @@ date: 2026-03-18
 tags: [board-games, cerebria, expansion, card-games, geeknite]
 ---
 
-![Cerebria expansion art]( /assets/images/cerebria-expansion-art.jpg )
+![Cerebria expansion art](/assets/images/cerebria-expansion-art.jpg)
 
-Welcome back, fellow neurotransmitters and tabletop gladiators. If you thought Cerebria: The Card Game was already a dramatic soap opera in a box, hold onto your emotion chips: the Expansion Pack has arrived to turn dial-elevating mood swings into full-blown symphonies of chaos, strategy, and accidental shaming of your gaming group when you misread a single Spirit card and trigger a cascade of emotional misfires. This review dives into what the Expansion Pack adds, how it actually plays in the wild, and whether you should cough up your precious chips to invite more drama into your living room duel arena. Spoiler alert: burnout is not optional, but laughter is guaranteed.
+Welcome back, fellow neurotransmitters and tabletop gladiators. If you thought Cerebria: The Card Game was already a dramatic soap opera in a box, strap in, because the Expansion Pack has arrived to turn dial-elevating mood swings into full-blown symphonies of chaos, strategy, and the occasional public shaming of your gaming group when you misread a single Spirit card and trigger a cascade of emotional misfires. This review dives into what the Expansion Pack adds, how it actually plays in the wild, and whether you should cough up your precious chips to invite more drama into your living room duel arena. Spoiler alert: burnout is not optional, but laughter is guaranteed.
 
 ## What the Expansion Pack Actually Brings
 In Cerebria, you manage two sides of a cosmic emotional weather system. The base game already lets you pit Joy against Sorrow, Courage against Fear, and all the other glorious feelings that show up to ruin your kitchen table. The Expansion Pack leans into that chaos with three main pillars: new Spirit cards that twist the core emotions in surprising ways; additional Power cards that reward big swings or clever stalling; and a few new tokens and rounded corners to remind you that happiness and heartbreak can live side by side in exactly one simultaneous sigh.
