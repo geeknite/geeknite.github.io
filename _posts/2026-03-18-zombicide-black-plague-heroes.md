@@ -1,14 +1,14 @@
 ---
-title: Zombicide: Black Plague - Heroes (Updated Review)
+title: Zombicide: Black Plague - Heroes (Expanded Review)
 date: 2026-03-18 12:00:00 -0000
-tags: [board-games, zombie, zombs, expansion, coop, fantasy, review, update, geeknite]
+tags: [board-games, zombie, zombs, expansion, coop, fantasy, review, update, geeknite, heroes]
 ---
 
 ![](assets/images/zombicide-black-plague-heroes.jpg)
 
-Zombicide: Black Plague - Heroes is the spicy, breadcrumb-crunchy garnish that shows up halfway through a zombie siege to remind you that personality matters almost as much as planning. If the base game is a well-tuned siege engine, the Heroes expansion is the pepper spray of your night: it adds named, memorable protagonists who bring a little extra flavor, a dash of narrative, and yes, a few more dice to argue about. In Geeknite terms, it is the character pack you didn’t know you needed, but once you pop it into the box you wonder how you survived the campaign without a personality at the helm driving your turns.
+Zombicide: Black Plague - Heroes returns with a loud, dramatic entrance—flaming swords, a wounded dignity, and a rulebook that keeps smirking at you from under a coffee-stained napkin. If the base game is a siege engine, the Heroes expansion is the character-driven spice that makes the siege feel like a tavern brawl with narrative stakes. In Geeknite terms, it’s the party members you didn’t know you needed until you finally found them in the loot pile, and yes, they complain loudly about the dice just like your favorite tabletop crew.
 
-In this expanded review, we crash through the box again, reexamine the new mechanics with a veteran eye, measure the impact on table dynamics, and decide whether adding these heroes makes Black Plague worth revisiting after you have crushed the core game under a pile of dice and coffee cups. For a quick tease: the Heroes add unique abilities and a strong emphasis on synergy, but they also invite a new level of narrative chaos that can either elevate your campaign or derail it with a single heroic overreach. Let’s dive in, dice clenched and strategy cards at the ready.
+This expanded review gives the new mechanics a thorough once-over, replays a few memorable missions in slow-mo, measures how the table shifts when you add named survivors, and then decides whether the extra personality is worth the extra cardboard, paint, and dramatic trappings. Short version: Heroes introduces unique abilities, narrative moments, and a bit more chaos in a good way, but you’ll want to lean into the group dynamics to avoid a heroic overreach turning into a dramatic faceplant. Let’s dive in, with dice in hand and a beaker of coffee nearby for battlefield improvisation.
 
 If you want to jump around, here are quick anchors:
 - What the expansion adds to the core experience
@@ -22,9 +22,9 @@ External link for context and comparison: [BGG page for Zombicide: Black Plague]
 
 What is Zombicide: Black Plague - Heroes?
 
-Zombicide: Black Plague - Heroes is an official add-on that introduces named hero characters to the Black Plague system. Historically, Zombicide has funneled players into a shared identity with customizable survivors, but the Heroes expansion hands you four or more distinct personalities who come with special abilities and flavor text that can tilt the strategic mood of the table. In practical terms, you’re trading a bit of cookie-cutter optimization for a stronger sense of “these are my guys.” This matters because co-op experiences in Zombicide ride heavily on how well your team communicates and synchronizes actions. If your group plays by rolling four dice, cheering when a big melee happens, and describing a heroic moment with the gravitas of a low-budget fantasy epic, the Heroes add-on pays off with style.
+Zombicide: Black Plague - Heroes is an official add-on that introduces named hero characters to the Black Plague system. Historically, Zombicide has funneled players into a shared identity with customizable survivors, but the Heroes expansion hands you several distinct personalities who come with special abilities and flavor text that can tilt the strategic mood of the table. In practical terms, you’re trading a bit of cookie-cutter optimization for a stronger sense of “these are my guys.” This matters because co-op experiences in Zombicide hinge on how well your team communicates and synchronizes actions, especially when the board starts throwing curveballs shaped like dragon-crowns and rotting cathedrals.
 
-What you get in the box is a handful of named survivors, each with a unique set of skills that tilt the table toward certain playstyles. Some heroes lean into brute force, others into sleight of hand, and a few push the envelope with risky maneuvers that reward timing and risk assessment. The expansion typically includes new character cards, maybe some dedicated gear or mini-cards, and sometimes a couple of new zombie types or event cards that lean into the narrative arc. The exact contents can vary by print run, but the core experience is consistent: a more flavorful, story-driven experience layered on top of the familiar tactical grid-based chaos you already love or tolerate.
+What you get in the box is a set of named survivors, each with a unique set of skills that tilt the table toward certain playstyles. Some heroes lean into brute force, others into sleight of hand, and a few push the envelope with risky maneuvers that reward timing and risk assessment. The expansion typically includes new character cards, maybe some dedicated gear or mini-cards, and sometimes a couple of new zombie types or event cards that lean into the narrative arc. The exact contents can vary by print run, but the core experience is consistent: a more flavorful, story-driven experience layered on top of the familiar tactical grid-based chaos you already love or tolerate.
 
 For a sense of how it aligns with other expansions, you can compare it to {% post_url 2025-08-15-zombicide-black-plague-big-box-decision %} and to the survival-focused guides in {% post_url 2024-01-01-zombicide-survival-guide %}. These cross-links help you decide whether you want a single hero pack or a full augmentation of the core game with multiple little gods of probability on your side.
 
@@ -69,7 +69,7 @@ From a teaching and onboarding perspective, new players can benefit from the mor
 Tips for playing with Zombicide: Black Plague - Heroes
 
 - Start with a short, clean mission to see how your party handles the new mechanics. It will save you a lot of confusion in the long run.
-- Assign a facilitator or a rotating narrator to keep track of the hero abilities and how they interact with your mission objectives. A little storytelling helps keep everyone engaged and reduces the risk of my cards dont matter syndrome.
+- Assign a facilitator or a rotating narrator to keep track of the hero abilities and how they interact with your mission objectives. A little storytelling helps keep everyone engaged and reduces the risk of cards dont matter syndrome.
 - Use the post-mission discussion to map out recommended synergies. Even if your group doesn’t use a formal campaign tracker, a quick chat after each game helps you remember which hero pairs were the most effective and whether a certain combination felt overpowered or just right.
 - Don’t forget to reward narrative moments. If Sir Brakus saves the team with a dramatic talent, celebrate it with a shout-out or a small, thematic moment that seals the memory in your campaign’s lore.
 
