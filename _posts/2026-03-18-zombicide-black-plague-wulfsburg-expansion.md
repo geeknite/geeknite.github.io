@@ -1,5 +1,5 @@
 ---
-ttitle: Zombicide: Black Plague Wulfsburg Expansion Review (Expanded)
+title: Zombicide: Black Plague Wulfsburg Expansion — Expanded Review
 date: 2026-03-18
 tags:
   - board-games
@@ -40,7 +40,6 @@ The new gear cards echo the medieval vibe while leaning into mobility and cunnin
 
 If you want a visual tour, the image gallery on the official page is a decent companion, but the real joy is laying out the new map tiles and watching your party fumble through the first few rounds like a gang of learning ducks.
 
-
 ## Setup and first impressions
 Setting up Wulfsburg is not a simple drop-in upgrade; the city map is modular, which is excellent for replayability but can feel like a mini-puzzle when you first untangle the cardboard streets. The good news: the rulebook is designed for both the methodical and the impatient. It walks you through the basic layout, then teases out the more complex interactions in bite-sized sections. You won’t need a PhD in cryptography to know where to place the first spawn zone, but you may want to double-check color-coded zones if you’re new to cooperative board gaming.
 
@@ -51,11 +50,10 @@ The wolves and werewolves inject a new tempo into the opening rounds by introduc
 
 The design nudges players toward cooperative planning. The wolves slow your advance and create choke points that reward coordination. You’ll want a wall of shields and a trap line, but you’ll also need one hero ready to sprint to a distant objective when the map requires it. The net effect is a slower, more tactical tempo that rewards teamwork over brute force. If you enjoyed the base game’s crunchy tactical rhythm, Wulfsburg increases that rhythm—and then adds a wolf tooth on the dial for good measure.
 
-
 ## How Wulfsburg changes the core game experience
 The expansion doesn’t rewrite Zombicide Black Plague; it refines it. The core objective remains the same: survive waves of undead and complete mission-specific goals, but Wulfsburg injects a new axis of strategy through its urban layout and wolf-centric encounter design. Here are the key shifts you’ll notice on your first real playthrough:
 
-- Spatial complexity: A city map forces you to manage space with more care. Narrow streets create chokepoints ideal for a shield wall, but a wrong move can strand you with a pack of stylishly menacing wolves closing in from multiple angles.
+- Spatial complexity: A city map forces you to manage space with more care. Narrow streets create chokepoints ideal for a shield wall, but a wrong move can strand you with three packs moving in from different angles.
 - Dynamic encounters: Wolves trigger encounter cards that may alter the objective flow. Some encounters push you to loot quickly before ambushes slow you down; others reward backtracking to trigger double events that feel like a dungeon puzzle gone delightfully wrong.
 - New enemy behavior: Wolves aren’t mindless trackers. They have agile movement patterns, can traverse terrain in unique ways, and some wolf cards add temporary risk that makes the party choose between grabbing loot or sprinting through predator territory.
 - Character synergy: The hero roster nudges you toward thoughtful role assignment. Do you want a flexible hybrid who heals and harms, or a dedicated tank who invites wolves to focus on him? The balance invites exploring different party compositions to see which combos sing under the Wulfsburg sky.
@@ -71,7 +69,6 @@ Loot in Wulfsburg remains a satisfying mix of essential supplies and powerful ge
 #### Map interactions
 The city tiles include special interaction spaces that require players to coordinate across lines of sight. You’ll need to plan not just what to do this turn, but where the party will stand three turns from now to avoid a wolf-coded bloodbath. This dynamic rewards careful planning and punishes impulsive sprinting, which is exactly the honest gaming experience we crave in midlife crisis co-ops.
 
-
 ## New heroes and playstyles
 The Wulfsburg expansion introduces several distinct heroes, each with a knack for a particular playstyle. Here are a few examples to illustrate the flavor:
 
@@ -81,7 +78,6 @@ The Wulfsburg expansion introduces several distinct heroes, each with a knack fo
 
 Each hero carries a distinct ability that supports different team compositions. This is not a gimmick; it is a thoughtful design choice that rewards players who plan around synergy rather than simply stacking power. If you have ever wanted a game where choosing a hero with a supportive role actually matters in late-game wolf charges, Wulfsburg delivers.
 
-
 ## Encounters, events, and the soul of the city
 Are wolves scary? Yes. Are wolves in a medieval city with magical plague scares even more? Absolutely. The expansion leans into atmosphere with foreboding maps and cunning encounter cards that often require you to reach zones before wolves can spring ambushes, or force you to split up the party and live with the knowledge that one of your heroes might become the Li ll Red Riding Hood of doom this round.
 
@@ -90,7 +86,6 @@ Boss encounters are a highlight. They feel like proper final boss battles rather
 External resources for more flavor and flavor budgeting:
 - Official Zombicide page: https://www.cmon.com
 - BoardGameGeek page: https://boardgamegeek.com/boardgame/129246/zombicide-black-plague-wulfsburg
-
 
 ## Solo play and scalability
 One common concern with big expansions is whether they work in solo mode. Wulfsburg scales gracefully. The map’s modular nature downscales nicely to a two-handed solo run; you will need to track wolf movement carefully and decide which hero you trust with the critical loot. The new characters shine in a single-player run because you can effectively test different synergies without arguing over who misused a power card.
@@ -102,7 +97,6 @@ Wulfsburg tunes the difficulty in a way that feels fair and not punitive. Early 
 
 Balancing is well done overall. It does not erase the base zombies; it adds a new toxin to your decision tree. The wolves inject tempo and tension without overshadowing the core mechanics. The result is a cohesive experience that upgrades Black Plague rather than overshadowing what players already love.
 
-
 ## Strategy tips and hot takes
 - Start with board control: secure a choke point with your strongest melee hero. Wolves can be lured, but you do not want to be stuck in a corner with three packs moving in from different angles.
 - Use the heroes’ unique abilities to complement each other. If one hero can set up a damage-over-time zone while another covers a retreat, you’ll win more rounds than you deserve.
@@ -110,14 +104,12 @@ Balancing is well done overall. It does not erase the base zombies; it adds a ne
 - Plan for the moon phase. Werewolf encounters reward proactive planning and punish improvised play. If you love puzzle solving in your co-op, you will savor the moon-driven escalation.
 - Solo strategy: Treat each turn like a chess move while paying attention to the map geometry. Use your two hands deliberately; it is easier to juggle tasks with a plan rather than hoping dice will cooperate.
 
-
 ## Thematic and aesthetic notes
 Wulfsburg thrives on atmosphere. The map tiles, the art, and the distant howls when you have a properly lit room all contribute to a mood that feels like you are losing a battle against an army of cunning wolves in a medieval city. The expansion captures that tense energy: you are constantly asking what you should do this turn and how the city will look to your future self if you fail gloriously. The design team has done a fantastic job giving you a setting that feels alive without requiring a leap of faith to pretend you are reading a story through cardboard cutouts.
 
 External reading to immerse more deeply into flavor:
 - A thematic write-up on wolves and moon phases in fantasy games: https://example.com/wolves-in-fantasy-games
 - A fan-made piece on Wulfsburg’s best hero synergies: https://example.com/wulfsburg-hero-synergies
-
 
 ## Pros and cons at a glance
 ### Pros:
@@ -132,7 +124,6 @@ External reading to immerse more deeply into flavor:
 - A few new items can feel a bit overpowered on first run; you will want to read the card text carefully.
 - For absolute purists, some will crave even more variety or more expansions to truly mix up the wolf meta.
 
-
 ## Final recommendation and who should buy this
 If you enjoy cooperative board games with heavy emphasis on tactical movement, map geometry, and a pulse-pounding sense of danger that grows with every round, Zombicide Black Plague Wulfsburg is a must-have expansion. It is not a reimagining of the base game; it is a thoughtful augmentation that respects the core while adding ample new challenges and strategic depth. It is particularly good for groups that enjoy longer campaigns where every decision matters and where you can justify longer gaming sessions as lore immersion. Veteran players will likely appreciate the expanded toolbox of abilities and map interactions, while newer players will enjoy the accessible setup that gradually reveals complexity rather than dumping it all at once.
 
@@ -146,7 +137,6 @@ If you like your co-op with a bite, a hint of horror, and a city that can ambush
 - Component quality: 8.5/10
 
 Overall: A solid, entertaining expansion that respects the base game while delivering a strong wolfy punch to your gameplay nights. It might not convert every skeptic of long setups or people allergic to tactical planning, but for everyone else, Wulfsburg is a must-add to your Black Plague collection.
-
 
 ## Quick recaps for the table
 - If you like: Maps, wolves, tactical positioning, memorable boss fights.
