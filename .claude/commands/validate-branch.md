@@ -5,6 +5,7 @@ Validate all pending changes on the current branch against `main`: $ARGUMENTS
 Compares the working tree and staged changes with the `main` branch to ensure post renames, date changes, new posts, and deletions are coherent and safe to commit. Catches mistakes like accidental slug changes, nonsensical dates, missing redirects, orphaned internal links, and duplicate posts. Use subagents in parallel to validate multiple posts simultaneously.
 
 ## Safety Rules
+
 - **READ-ONLY validation** — this agent does NOT modify files, it only reports problems
 - **All issues are reported** with severity levels: 🔴 ERROR (must fix), 🟡 WARNING (should fix), 🔵 INFO (review)
 - If `$ARGUMENTS` specifies a filter (e.g., "2026-02", "board games", a slug), narrow validation to matching posts
@@ -13,6 +14,7 @@ Compares the working tree and staged changes with the `main` branch to ensure po
 ## Process
 
 ### Step 1: Gather Branch State
+
 Run these commands to understand the full scope of changes:
 
 1. `git diff --name-status main...HEAD -- _posts/` — committed changes on this branch vs main
@@ -21,6 +23,7 @@ Run these commands to understand the full scope of changes:
 4. `git status -- _posts/` — overall status summary
 
 Combine all three to build a complete picture of what will be pushed. For each changed post, classify the change type:
+
 - **A** (Added): New post not on main
 - **M** (Modified): Content changed, filename unchanged
 - **D** (Deleted): Post removed
@@ -30,6 +33,7 @@ Combine all three to build a complete picture of what will be pushed. For each c
 Also run `git ls-tree main --name-only -- _posts/` to get the full list of posts on `main` for comparison.
 
 ### Step 2: Validate Renames (R and RM changes)
+
 For each renamed post, check:
 
 1. **Slug preservation**: Extract the slug (everything after `YYYY-MM-DD-` without `.md`) from both old and new filenames. The slug MUST be identical — if it changed, flag as 🔴 ERROR.
@@ -47,6 +51,7 @@ For each renamed post, check:
 5. **Frontmatter date match**: The `date:` field in frontmatter should match the filename date prefix — flag as 🟡 WARNING if mismatched
 
 ### Step 3: Validate Deletions (D changes)
+
 For each deleted post:
 
 1. **Not a real deletion of unique content**: Check if the slug exists under a different date prefix (rename detection). If it's just one side of a rename, it's fine (🔵 INFO)
@@ -55,6 +60,7 @@ For each deleted post:
 4. **Duplicate deletion**: If multiple files with similar slugs are being deleted, verify this is intentional (e.g., deduplication) — flag as 🔵 INFO
 
 ### Step 4: Validate New Posts (A and ?? changes)
+
 For each new/untracked post:
 
 1. **Filename format**: Must match `YYYY-MM-DD-slug.md` — flag as 🔴 ERROR if malformed
@@ -65,6 +71,7 @@ For each new/untracked post:
 6. **Not a duplicate of a deleted post**: If a deleted file has the same slug, this is likely a rename — verify content is preserved (🔵 INFO)
 
 ### Step 5: Validate Modified Posts (M changes)
+
 For each modified post:
 
 1. **Frontmatter integrity**: Read the post and verify frontmatter is valid YAML with required fields
@@ -72,6 +79,7 @@ For each modified post:
 3. **No broken internal links**: Check any `post_url` references in the modified content against existing files — flag as 🔴 ERROR for references to non-existent posts
 
 ### Step 6: Cross-Validation
+
 Perform global checks across all changes:
 
 1. **Internal link integrity**: For ALL posts in `_posts/` (not just changed ones), run a quick scan for `post_url` references. Verify each referenced post exists (considering renames). Flag any broken links as 🔴 ERROR
@@ -86,63 +94,73 @@ Perform global checks across all changes:
 ## Branch Validation Report: [branch-name] vs main
 
 ### Overview
-| Metric | Count |
-|--------|-------|
-| Posts added | X |
-| Posts modified | X |
-| Posts renamed | X |
-| Posts deleted | X |
+
+| Metric            | Count |
+| ----------------- | ----- |
+| Posts added       | X     |
+| Posts modified    | X     |
+| Posts renamed     | X     |
+| Posts deleted     | X     |
 | **Total changes** | **X** |
 
 ### 🔴 Errors (Must Fix Before Commit)
-| # | Post | Issue | Details |
-|---|------|-------|---------|
-| 1 | slug.md | Slug changed in rename | Old: `old-slug`, New: `new-slug` |
-| 2 | slug.md | Missing redirect_from | Was on main at /2026/02/, now at /2017/06/ |
-| 3 | slug.md | Broken post_url ref | References `non-existent-post` |
+
+| #   | Post    | Issue                  | Details                                    |
+| --- | ------- | ---------------------- | ------------------------------------------ |
+| 1   | slug.md | Slug changed in rename | Old: `old-slug`, New: `new-slug`           |
+| 2   | slug.md | Missing redirect_from  | Was on main at /2026/02/, now at /2017/06/ |
+| 3   | slug.md | Broken post_url ref    | References `non-existent-post`             |
 
 ### 🟡 Warnings (Should Fix)
-| # | Post | Issue | Details |
-|---|------|-------|---------|
-| 1 | slug.md | Implausible date | Product from 2005 dated 2025-08 |
-| 2 | slug.md | Missing frontmatter field | No `description:` field |
-| 3 | slug.md | Potential duplicate | Same slug as `other-slug.md` |
+
+| #   | Post    | Issue                     | Details                         |
+| --- | ------- | ------------------------- | ------------------------------- |
+| 1   | slug.md | Implausible date          | Product from 2005 dated 2025-08 |
+| 2   | slug.md | Missing frontmatter field | No `description:` field         |
+| 3   | slug.md | Potential duplicate       | Same slug as `other-slug.md`    |
 
 ### 🔵 Info (For Review)
-| # | Post | Note |
-|---|------|------|
-| 1 | slug.md | Deletion is part of rename (slug found in new file) |
-| 2 | slug.md | Redirect stub deleted (had redirect_to:) |
+
+| #   | Post    | Note                                                |
+| --- | ------- | --------------------------------------------------- |
+| 1   | slug.md | Deletion is part of rename (slug found in new file) |
+| 2   | slug.md | Redirect stub deleted (had redirect_to:)            |
 
 ### Rename Validation (X renames)
-| # | Old Filename | New Filename | Slug Match | Date OK | Redirect OK |
-|---|-------------|-------------|------------|---------|-------------|
-| 1 | 2026-02-05-foo.md | 2017-06-15-foo.md | ✅ | ✅ | ✅ |
-| 2 | bar.md | 2019-03-15-bar.md | ✅ (legacy) | ✅ | N/A (new) |
+
+| #   | Old Filename      | New Filename      | Slug Match  | Date OK | Redirect OK |
+| --- | ----------------- | ----------------- | ----------- | ------- | ----------- |
+| 1   | 2026-02-05-foo.md | 2017-06-15-foo.md | ✅          | ✅      | ✅          |
+| 2   | bar.md            | 2019-03-15-bar.md | ✅ (legacy) | ✅      | N/A (new)   |
 
 ### Deletion Validation (X deletions)
-| # | Deleted File | Has Replacement | Had redirect_to | Orphaned Links |
-|---|-------------|----------------|-----------------|----------------|
-| 1 | 2026-02-05-foo.md | ✅ (renamed) | No | 0 |
-| 2 | duplicate-post.md | ❌ | No | 2 references |
+
+| #   | Deleted File      | Has Replacement | Had redirect_to | Orphaned Links |
+| --- | ----------------- | --------------- | --------------- | -------------- |
+| 1   | 2026-02-05-foo.md | ✅ (renamed)    | No              | 0              |
+| 2   | duplicate-post.md | ❌              | No              | 2 references   |
 
 ### New Post Validation (X new posts)
-| # | Filename | Format OK | Date OK | Frontmatter OK | Duplicate? |
-|---|----------|-----------|---------|----------------|------------|
-| 1 | 2019-03-15-new.md | ✅ | ✅ | ✅ | No |
+
+| #   | Filename          | Format OK | Date OK | Frontmatter OK | Duplicate? |
+| --- | ----------------- | --------- | ------- | -------------- | ---------- |
+| 1   | 2019-03-15-new.md | ✅        | ✅      | ✅             | No         |
 
 ### Date Density After Changes
-| Month | Post Count | Flag |
-|-------|-----------|------|
-| 2026-02 | 3 | ✅ OK |
-| 2017-06 | 12 | ⚠️ Dense |
+
+| Month   | Post Count | Flag     |
+| ------- | ---------- | -------- |
+| 2026-02 | 3          | ✅ OK    |
+| 2017-06 | 12         | ⚠️ Dense |
 
 ### Internal Link Health
+
 - Total `post_url` references scanned: X
 - Valid references: X
 - Broken references: X (listed in Errors above)
 
 ### Summary
+
 - 🔴 **X errors** — must fix before committing
 - 🟡 **X warnings** — recommended to fix
 - 🔵 **X info** — for your awareness

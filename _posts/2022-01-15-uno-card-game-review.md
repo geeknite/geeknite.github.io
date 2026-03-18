@@ -44,12 +44,14 @@ Uno podría parecer un juego de azar, pero hay un montón de estrategias que pue
 ### Pros y contras
 
 #### Pros:
+
 - **Fácil de aprender:** Incluso el abuelo lo entenderá en minutos.
 - **Diversión rápida:** Las partidas pueden ser tan cortas o largas como quieras.
 - **Versátil:** Perfecto para fiestas, noches familiares, o simplemente para pasar el rato.
 - **Barato:** No necesitas vender un riñón para comprarlo.
 
 #### Contras:
+
 - **Puede arruinar amistades:** No, en serio. Las cartas Comodín +4 pueden convertirse en enemistades +10.
 - **Azar:** A veces, la suerte no está de tu lado y eso puede ser frustrante.
 
@@ -58,6 +60,7 @@ Uno podría parecer un juego de azar, pero hay un montón de estrategias que pue
 Uno ha evolucionado a lo largo de los años con varias versiones y expansiones, incluyendo **Uno Flip!**, **Uno Attack!**, **Uno Dare!**, y muchos más. Cada versión añade su propio giro único, manteniendo el juego fresco y emocionante.
 
 #### Uno Flip!
+
 ![Uno Flip](assets/images/uno-flip.jpg){: .align-left}
 
 **Uno Flip!** introduce un mazo de doble cara con cartas de acción más potentes en el lado oscuro. El juego puede cambiar entre el lado claro y oscuro en cualquier momento, agregando una nueva capa de estrategia (¡y frustración!).

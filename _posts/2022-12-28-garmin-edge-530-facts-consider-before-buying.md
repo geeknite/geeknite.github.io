@@ -3,7 +3,7 @@ redirect_to: https://bikinggeek.github.io/2022/12/garmin-edge-530-facts-consider
 title: "Garmin Edge 530: What You Should Know Before Buying"
 date: "2022-12-28"
 tags: [garmin, review, gps, cycling]
-last_modified_at: '2023-07-24'
+last_modified_at: "2023-07-24"
 description: "Garmin Edge 530 Review: Key facts and considerations for prospective buyers."
 ---
 
@@ -11,7 +11,7 @@ description: "Garmin Edge 530 Review: Key facts and considerations for prospecti
 
 The Garmin Edge 530 is a cycling computer that offers a plethora of features to help riders track and enhance their performance on the bike. Whether you're a seasoned cyclist or a weekend warrior, this device is built to meet a variety of needs.
 
-*Looking for comparisons? Check out our [Edge 530 vs 540 detailed comparison]({% post_url 2023-12-23-garmin-edge-530-vs-540-comparison %}) or see how it performs against budget alternatives in our [Edge 530 vs iGPSPORT 630 battle]({% post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 %}).*
+_Looking for comparisons? Check out our [Edge 530 vs 540 detailed comparison]({% post_url 2023-12-23-garmin-edge-530-vs-540-comparison %}) or see how it performs against budget alternatives in our [Edge 530 vs iGPSPORT 630 battle]({% post_url 2023-07-24-garmin-edge-530-vs-igpsport-630 %})._
 
 ## Key Features
 

@@ -1,5 +1,5 @@
 ---
-title: 'Gudetama: The Tricky Egg Card Game Review'
+title: "Gudetama: The Tricky Egg Card Game Review"
 date: "2019-08-15"
 tags: [Gudetama, card game, review]
 description: "Dive into the whimsical world of Gudetama with this hilarious and insightful review. Find out why this game is the lazy egg's dream!"

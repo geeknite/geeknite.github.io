@@ -17,7 +17,7 @@ from difflib import SequenceMatcher
 
 # --- Configuration ---
 POSTS_DIR = "_posts"
-POST_URL_PATTERN = re.compile(r'post_url\s+([\w\-]+)')
+POST_URL_PATTERN = re.compile(r"post_url\s+([\w\-]+)")
 
 # Known fixes: broken_slug -> correct_slug (manually verified)
 KNOWN_FIXES = {
@@ -71,7 +71,9 @@ def fuzzy_match(broken_slug, post_index, threshold=0.55):
 
     for existing_lower, original_slug in post_index.items():
         existing_date = existing_lower[:10] if len(existing_lower) > 10 else ""
-        existing_name = existing_lower[11:] if len(existing_lower) > 11 else existing_lower
+        existing_name = (
+            existing_lower[11:] if len(existing_lower) > 11 else existing_lower
+        )
 
         # Strategy 1: Exact name match (just wrong date)
         if broken_name == existing_name:
@@ -144,7 +146,9 @@ def main():
 
     # Find all post_url references
     all_refs = extract_post_url_refs(POSTS_DIR)
-    print(f"Found {len(all_refs)} unique post_url slugs, {sum(len(v) for v in all_refs.values())} total references.\n")
+    print(
+        f"Found {len(all_refs)} unique post_url slugs, {sum(len(v) for v in all_refs.values())} total references.\n"
+    )
 
     # Identify broken ones
     broken_refs = {}
@@ -156,7 +160,9 @@ def main():
         print("No broken post_url references found!")
         return
 
-    print(f"Found {len(broken_refs)} broken slug(s) across {sum(len(v) for v in broken_refs.values())} reference(s).\n")
+    print(
+        f"Found {len(broken_refs)} broken slug(s) across {sum(len(v) for v in broken_refs.values())} reference(s).\n"
+    )
 
     total_files_fixed = 0
     unresolved = []
@@ -179,10 +185,14 @@ def main():
         # Verify target exists
         if correct_slug.lower() not in post_index:
             unresolved.append((broken_slug, len(files)))
-            print(f"  UNRESOLVED: '{broken_slug}' -> '{correct_slug}' but target doesn't exist")
+            print(
+                f"  UNRESOLVED: '{broken_slug}' -> '{correct_slug}' but target doesn't exist"
+            )
             continue
 
-        print(f"  FIX [{match_source}]: '{broken_slug}' -> '{correct_slug}' ({len(files)} files)")
+        print(
+            f"  FIX [{match_source}]: '{broken_slug}' -> '{correct_slug}' ({len(files)} files)"
+        )
 
         for filepath in files:
             changed = fix_file(filepath, broken_slug, correct_slug, dry_run=dry_run)
@@ -202,7 +212,9 @@ def main():
         for slug, count in unresolved:
             print(f"  - {slug} ({count} refs)")
     if dry_run:
-        print(f"\n(Dry run - no changes were made. Run without --dry-run to apply fixes.)")
+        print(
+            f"\n(Dry run - no changes were made. Run without --dry-run to apply fixes.)"
+        )
 
 
 if __name__ == "__main__":

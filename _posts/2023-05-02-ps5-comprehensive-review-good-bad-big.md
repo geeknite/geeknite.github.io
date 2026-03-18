@@ -1,12 +1,12 @@
 ---
 title: "The PS5 Comprehensive Review: Good, Bad, Bulky, and Slim"
 date: 2023-05-02
-last_modified_at: '2026-02-20T17:04:57.9332333Z'
+last_modified_at: "2026-02-20T17:04:57.9332333Z"
 tags: [gaming, PS5, review, consoles]
 description: "Join us for a hilarious and comprehensive review of the PS5 and the PS5 Slim available in 2026. From its impressive specs to the quirks that make you chuckle, we've got it all!"
 redirect_from:
-    - /2023/02/ps5-comprehensive-review-good-bad-big.html
-    - /2023/01/ps5-comprehensive-review-good-bad-big.html
+  - /2023/02/ps5-comprehensive-review-good-bad-big.html
+  - /2023/01/ps5-comprehensive-review-good-bad-big.html
 ---
 
 ![PS5](https://i.imgur.com/hfOlYVsm.jpg){: .align-right}]({{ site.constants.wsib }}ps5)
@@ -17,11 +17,11 @@ Welcome, fellow gamers and console enthusiasts! If you thought the PS5 saga ende
 
 ### The Good
 
-1. **Performance**: The PS5 Slim keeps the same beastly custom AMD RDNA 2 GPU and Zen 2 CPU from its chunky sibling. Whether you're running AAA titles or indie gems, the Slim handles them just as smoothly. If anything, it makes your living room look tidier. 
+1. **Performance**: The PS5 Slim keeps the same beastly custom AMD RDNA 2 GPU and Zen 2 CPU from its chunky sibling. Whether you're running AAA titles or indie gems, the Slim handles them just as smoothly. If anything, it makes your living room look tidier.
 
 2. **DualSense Controller**: The DualSense controller continues to shine. With its haptic feedback and adaptive triggers, it offers an immersive experience that will have your thumbs thanking you. Plus, the Slim version pairs beautifully with the controller's sleek design.
 
-3. **Exclusive Titles**: Games like *Demon's Souls* and *Ratchet & Clank: Rift Apart* highlight the PS5's capabilities. The Slim doesn't disappoint in bringing these titles to life—just make sure you haven't skimped on your TV.
+3. **Exclusive Titles**: Games like _Demon's Souls_ and _Ratchet & Clank: Rift Apart_ highlight the PS5's capabilities. The Slim doesn't disappoint in bringing these titles to life—just make sure you haven't skimped on your TV.
 
 ### The Bad
 

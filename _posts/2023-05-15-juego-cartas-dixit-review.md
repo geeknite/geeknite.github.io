@@ -2,7 +2,7 @@
 title: "Reseña del juego de cartas Dixit: ¡Imaginación al poder!"
 date: 2023-05-15
 last_modified_at: 2023-07-15
-categories: 
+categories:
   - Juegos de mesa
   - Reseñas
   - Diversión
@@ -26,7 +26,7 @@ Dixit es un juego de mesa que utiliza bellas ilustraciones para desafiar a los j
 - Tablero de puntuación
 - Fichas de votación
 - Peones de distintos colores
-- Manual de instrucciones 
+- Manual de instrucciones
 
 ### Objetivo del Juego
 

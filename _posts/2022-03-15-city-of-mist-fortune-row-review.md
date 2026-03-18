@@ -17,11 +17,12 @@ Let's don our trench coats, grab a magnifying glass, and embark on a thrilling r
 
 ## What is City of Mist: Fortune Row?
 
-*City of Mist: Fortune Row* is an expansion for the popular noir RPG *City of Mist*. This setting introduces new characters, locations, and scenarios that will have you solving mysteries and uncovering secrets like Sherlock Holmes on a caffeine high.
+_City of Mist: Fortune Row_ is an expansion for the popular noir RPG _City of Mist_. This setting introduces new characters, locations, and scenarios that will have you solving mysteries and uncovering secrets like Sherlock Holmes on a caffeine high.
 
 ### Components
 
 The expansion includes:
+
 - **Character Cards**: New mythic characters to add to your roster. Ever wanted to be a detective with the powers of an ancient god? Now you can!
 - **Location Maps**: Detailed maps of Fortune Row, the city's most mysterious and dangerous borough.
 - **Scenario Booklets**: Engaging scenarios that will challenge your deductive skills and keep you on the edge of your seat.

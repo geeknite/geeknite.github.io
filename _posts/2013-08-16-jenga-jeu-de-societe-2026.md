@@ -1,7 +1,7 @@
 ---
 title: "Jenga Jeu de Société: ¿El mejor juego para acabar con las amistades?"
 date: "2013-08-16"
-tags: 
+tags:
   - Jenga
   - Juego de mesa
   - Review
@@ -22,13 +22,13 @@ Para aquellos que han vivido bajo una roca (o tal vez bajo una pila de bloques J
 
 ## Especificaciones del juego
 
-| Característica | Detalle |
-| -------------- | ------- |
-| **Material** | Madera (probablemente mágica) |
-| **Número de piezas** | 54 bloques |
-| **Dimensiones** | Cada bloque mide aproximadamente 1.5 cm x 7.5 cm x 2.5 cm |
-| **Edad recomendada** | 6+ (pero seamos honestos, incluso los adultos lloran) |
-| **Tiempo de juego** | 5-20 minutos (dependiendo de cuánto disfrutes viendo a otros sufrir) |
+| Característica       | Detalle                                                              |
+| -------------------- | -------------------------------------------------------------------- |
+| **Material**         | Madera (probablemente mágica)                                        |
+| **Número de piezas** | 54 bloques                                                           |
+| **Dimensiones**      | Cada bloque mide aproximadamente 1.5 cm x 7.5 cm x 2.5 cm            |
+| **Edad recomendada** | 6+ (pero seamos honestos, incluso los adultos lloran)                |
+| **Tiempo de juego**  | 5-20 minutos (dependiendo de cuánto disfrutes viendo a otros sufrir) |
 
 ## ¿Cómo se juega?
 
@@ -67,4 +67,3 @@ Si buscas un juego que combine habilidad, estrategia y una pizca de crueldad ami
 **¡Compra Jenga Jeu de Société en [Amazon](https://www.amazon.com/jenga-jeu-de-societe/dp/B00ABA0ZO6) y prepárate para la diversión (y la destrucción) más épica!**
 
 Para más reseñas y recomendaciones de juegos, explora nuestros otros artículos:
-

@@ -2,13 +2,13 @@
 title: "Nintendo Switch 2 Review: The Next Level in Gaming?"
 date: 2025-08-13T22:17:09.3855684Z
 tags:
-- Nintendo Switch 2
-- Gaming
-- Review
-- Console
-- Technology
+  - Nintendo Switch 2
+  - Gaming
+  - Review
+  - Console
+  - Technology
 description: "Explore the Nintendo Switch 2: Is it the next level in gaming or just another console upgrade? Find out in our detailed review."
-last_modified_at: '2026-02-20T17:16:11.7238679Z'
+last_modified_at: "2026-02-20T17:16:11.7238679Z"
 ---
 
 [![Nintendo Switch 2](https://i.imgur.com/L1do4Nb.jpg){: .align-right}]({{ site.constants.wsib }}nintendo-switch-2)
@@ -35,7 +35,7 @@ One of the biggest complaints about the original Switch was the lack of storage.
 
 #### Versatility
 
-Just like its predecessor, the Switch 2 is incredibly versatile. You can play it at home, on a plane, or even in the waiting room at the dentist. Plus, it has exclusive titles like *Super Mario Odyssey 2* and *Metroid Prime 4*. Check out our [review of Tears of the Kingdom]({{ site.constants.wsib }}tears-of-the-kingdom) for another great game.
+Just like its predecessor, the Switch 2 is incredibly versatile. You can play it at home, on a plane, or even in the waiting room at the dentist. Plus, it has exclusive titles like _Super Mario Odyssey 2_ and _Metroid Prime 4_. Check out our [review of Tears of the Kingdom]({{ site.constants.wsib }}tears-of-the-kingdom) for another great game.
 
 #### 4K Graphics
 
@@ -95,13 +95,13 @@ With the Switch 2, Nintendo has expanded its online services. The Nintendo Onlin
 
 #### Nintendo Switch 2 vs Steam Deck
 
-| Feature                 | Nintendo Switch 2       | Steam Deck             |
-|-------------------------|-------------------------|-------------------------|
-| **Price**               | $399                    | $399-$649               |
-| **Graphics**            | 4K                      | 720p - 1080p            |
-| **Portability**         | Excellent               | Good but bulky          |
-| **Battery Life**        | 9 hours                 | 2-8 hours               |
-| **Exclusive Titles**    | Yes                     | No                      |
+| Feature              | Nintendo Switch 2 | Steam Deck     |
+| -------------------- | ----------------- | -------------- |
+| **Price**            | $399              | $399-$649      |
+| **Graphics**         | 4K                | 720p - 1080p   |
+| **Portability**      | Excellent         | Good but bulky |
+| **Battery Life**     | 9 hours           | 2-8 hours      |
+| **Exclusive Titles** | Yes               | No             |
 
 **Verdict:** The Switch 2 wins in portability and exclusive titles, while the Steam Deck excels in raw power and versatility with a broader range of PC games.
 

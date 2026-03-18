@@ -2,7 +2,14 @@
 redirect_to: https://bikinggeek.github.io/2023/06/cecotec-urban-electric-bike-review
 title: "Cecotec Urban Electric Bike Review: The Ultimate Urban Commute Companion"
 date: "2023-06-27"
-tags: ['electric bike', 'bike review', 'Cecotec Urban', 'urban mobility', 'electric vehicle']
+tags:
+  [
+    "electric bike",
+    "bike review",
+    "Cecotec Urban",
+    "urban mobility",
+    "electric vehicle",
+  ]
 description: "In-depth review of the Cecotec Urban Electric Bike: features, performance, and why it's great for city commuting."
 ---
 

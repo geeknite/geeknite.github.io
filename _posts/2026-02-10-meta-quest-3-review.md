@@ -1,10 +1,11 @@
 ---
 title: "Meta Quest 3 Review: The VR Experience That Will Make You Feel Like a Jedi"
 date: "2026-02-10"
-tags: ['VR', 'Meta Quest', 'gaming', 'review']
+tags: ["VR", "Meta Quest", "gaming", "review"]
 description: "An in-depth and hilariously insightful review of Meta Quest 3. Discover the immersive experience and see if it’s worth the hype!"
 last_modified_at: "2026-03-13"
-redirect_from: ["/2023/12/meta-quest-3-review.html", "/2026/03/meta-quest-3-review.html"]
+redirect_from:
+  ["/2023/12/meta-quest-3-review.html", "/2026/03/meta-quest-3-review.html"]
 ---
 
 [![Meta Quest 3](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}Meta Quest 3)
@@ -31,7 +32,7 @@ The visuals on the Meta Quest 3 are nothing short of spectacular. With improved 
 
 ### Tracking
 
-Tracking has seen significant improvements, making every movement feel more natural. Whether you're dodging arrows in *[Beat Saber]({{ site.constants.wsib }}Beat Saber Meta Quest)* or navigating the cosmos in *[Elite Dangerous]({{ site.constants.wsib }}Elite Dangerous)*, the Meta Quest 3 keeps up with your every move. You won’t have to worry about wandering off into your living room wall.
+Tracking has seen significant improvements, making every movement feel more natural. Whether you're dodging arrows in _[Beat Saber]({{ site.constants.wsib }}Beat Saber Meta Quest)_ or navigating the cosmos in _[Elite Dangerous]({{ site.constants.wsib }}Elite Dangerous)_, the Meta Quest 3 keeps up with your every move. You won’t have to worry about wandering off into your living room wall.
 
 ### Battery Life
 
@@ -79,6 +80,7 @@ The Meta Quest 3 is a fantastic VR headset that offers a truly immersive experie
 ---
 
 ### Related Posts
+
 - [Meta Quest 3S 256 GB VR Headset Review]({%- post_url 2025-12-18-meta-quest-3s-256-gb-vr-headset-review -%})
 - [Logitech G Astro A50 X Lightspeed Review]({%- post_url 2025-12-15-logitech-g-astro-a50-x-lightspeed-review -%})
 - [PS5 Slim Review]({%- post_url 2023-12-15-ps5-slim-review -%})

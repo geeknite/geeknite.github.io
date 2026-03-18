@@ -115,7 +115,6 @@ Apple Intelligence, Apple's on-device AI framework, is a game-changer for the [i
 - **Enhanced Siri**: Siri now understands natural language far more effectively, can reference on-screen content, and performs multi-step actions within and across apps. It is not perfect, but it is a dramatic improvement over previous iterations.
 - **Priority Notifications and Smart Summaries**: AI-powered notification summaries surface the most important alerts, reducing notification overload.
 
-
 ### Privacy and Security
 
 Face ID remains the gold standard in biometric authentication, and it is faster than ever on the [iPhone 16 Pro]({{ site.constants.wsib }}iPhone 16 Pro). The TrueDepth camera system recognizes you in milliseconds, even in complete darkness. iOS 18 also introduces new privacy features, including locked and hidden apps that require Face ID authentication to access, giving you granular control over who can see what on your device.

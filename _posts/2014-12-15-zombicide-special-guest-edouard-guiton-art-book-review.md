@@ -1,7 +1,7 @@
 ---
 title: "Zombicide: Special Guest - Edouard Guiton Art Book Review"
 date: "2014-12-15"
-tags: ['board games', 'zombicide', 'art book', 'review']
+tags: ["board games", "zombicide", "art book", "review"]
 description: "A humorous and detailed review of Zombicide: Special Guest - Edouard Guiton Art Book. Find out why this book is a must-have for zombie fans and board game enthusiasts!"
 last_modified_at: "2026-03-12"
 ---

@@ -1,8 +1,8 @@
 ---
-title: 'Phase 10 Card Game - Expansion Pack Review'
+title: "Phase 10 Card Game - Expansion Pack Review"
 date: "2014-06-15"
-tags: ['card games', 'review', 'Phase 10', 'expansions', 'strategy games']
-description: 'Complete Phase 10 Expansion Pack review: new cards, enhanced gameplay, and strategic depth. Is this card game expansion worth buying in 2026?'
+tags: ["card games", "review", "Phase 10", "expansions", "strategy games"]
+description: "Complete Phase 10 Expansion Pack review: new cards, enhanced gameplay, and strategic depth. Is this card game expansion worth buying in 2026?"
 last_modified_at: "2026-03-12"
 ---
 
@@ -97,6 +97,7 @@ Ready to embark on your own Phase 10 adventure? Check out [Phase 10: Expansion P
 **Call to Action:** Don't miss out on the ultimate Phase 10 adventure! Click [here]({{ site.constants.wsib }}Phase 10 Expansion Pack) to get your copy of Phase 10: Expansion Pack now! Happy gaming!
 
 ---
+
 For more reviews and card game recommendations, check out our previous posts:
 
 - [Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})

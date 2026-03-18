@@ -1,7 +1,15 @@
 ---
 title: "The Mind Card Game: A Hilarious Review"
 date: "2018-02-15"
-tags: [board games, review, The Mind, Wolfgang Warsch, card games, Pandasaurus Games]
+tags:
+  [
+    board games,
+    review,
+    The Mind,
+    Wolfgang Warsch,
+    card games,
+    Pandasaurus Games,
+  ]
 description: "A hilarious review of The Mind card game by Wolfgang Warsch. Discover if this silent cooperative game deserves a spot in your collection."
 last_modified_at: "2026-03-13"
 redirect_from: ["/2015/08/the-mind-card-game-review.html"]
@@ -22,6 +30,7 @@ The Mind is a cooperative card game where players work together to place cards i
 ### Components
 
 The game includes:
+
 - **Cards**: Numbered from 1 to 100, these are your key to victory (or defeat).
 - **Life Tokens**: Representing your team's remaining lives. Lose them all, and you're out.
 - **Throwing Stars**: Useful for discarding the lowest card in play.
@@ -47,12 +56,14 @@ The game progresses through levels, each adding more cards to the players' hands
 ## Pros and Cons
 
 ### Pros
+
 - **Engaging Gameplay**: The silent communication creates tension and excitement.
 - **Hilarious Moments**: The mistakes and miscommunications lead to loads of laughter.
 - **Easy Setup**: Quick to learn and play, making it perfect for game nights.
 - **Compact Size**: Great for travel and spontaneous gaming.
 
 ### Cons
+
 - **Silent Frustration**: Not everyone enjoys the silent treatment.
 - **Luck Factor**: Sometimes, the game feels more like luck than strategy.
 - **Limited Replayability**: Repetitive gameplay might lose its charm over time.
