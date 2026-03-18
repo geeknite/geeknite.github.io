@@ -34,7 +34,7 @@ Ventilation is the name of the game in a tiny footprint. Look for perforated doo
 ### How It Handles Hardware Fit
 - Rails and mounting: Standard 19-inch rails with a depth-compatible mounting frame. Heaviest items go bottom-most to lower center of gravity and reduce top-heaviness during maintenance.
 - Device depth considerations: In a 10-inch footprint, bulky 2U or 3U devices will eat into clearance. Double-check the depth spec for each device before you commit to a placement plan.
-- Weight balance: Acknowledge the “bottom heavy” rule of small racks. If you stack a couple of beefy NAS units on top, you’ll want good feet or casters to keep the unit sturdy and user-friendly during patching sessions.
+- Weight balance: Acknowledge the bottom heavy rule of small racks. If you stack a couple of beefy NAS units on top, you’ll want good feet or casters to keep the unit sturdy and user-friendly during patching sessions.
 
 ## Features and Practicalities: What You Get for 12U Height and Ten Inches of Depth
 
@@ -61,7 +61,7 @@ In the spirit of Geeknite, compare this to alternative enclosures. A full-size 1
 - Plan a compact PDU with surge protection and labeled cords
 - Consider a small fan kit if heat buildup is likely
 - Keep side panels clean to maintain showroom vibes
-- Avoid overloading the rack and maintain stable weight distribution
+- Avoid over loading the rack and maintain stable weight distribution
 - Label cables with color codes for quick identification
 - Document everything: device names, firmware versions, IP addresses, and port mappings
 - Have spare mounting hardware on hand for expansions
@@ -86,7 +86,7 @@ In the spirit of Geeknite, compare this to alternative enclosures. A full-size 1
 
 ## Real-World Performance: What End-Users Are Saying
 
-In practice, these desktop racks shine when you’re mindful of depth, airflow, and cable discipline. Users enjoy the compact footprint and the clean aesthetic, especially for demos and home labs. The side panels reveal a modest amount of hardware without exposing it to the dust portholes of an open bench. Common feedback includes appreciation for the easy installation of rails and the ability to drop in a few devices for a quick lab session. Some reviewers note warmth is a factor if you’re stacking energy-hungry devices, so a small fan kit or better ventilation becomes a recommended upgrade in hot environments. Don’t expect enterprise-grade reliability from a 10-inch depth, but do expect a reliable, compact, affordable platform for a lab or small office.
+In practice, these desktop racks shine when you’re mindful of depth, airflow, and cable discipline. Users enjoy the compact footprint and the clean aesthetic, especially for demos and home labs. The side panels reveal a modest amount of hardware without exposing it to the dust portholes of an open bench. Common feedback includes appreciation for the easy installation of rails and the ability to drop in a few devices for a quick lab session. Some reviewers note warmth is a factor if you’re stacking energy-hungry devices, so a small fan kit or better ventilation becomes a recommended upgrade in hot environments.
 
 For broader context on rack basics and deeper concepts, you might explore our primer on rack fundamentals in our earlier post: [Rack mounting basics and best practices]({% post_url '2025-01-01-rack-mounting-basics' %}). It’s a helpful companion when you’re deciding between depth, rails, and cabling strategies.
 
