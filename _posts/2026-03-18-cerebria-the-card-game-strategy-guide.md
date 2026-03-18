@@ -1,5 +1,5 @@
 ---
-title: Cerebria: The Card Game - Strategy Guide (Expanded Edition)
+ttitle: Cerebria: The Card Game - Strategy Guide (Expanded Edition) 2.0
 date: 2026-03-18
 tags:
   - board games
@@ -18,7 +18,7 @@ Greetings, fellow mood-sculptors and ex-trophy-case strategists. If Cerebria: Th
 
 ![Cerebria: The Card Game art]({{ site.baseurl }}/assets/img/cerebria-card-game-art.jpg)
 
-> If you re a newbie, Cerebria is basically a duel where you shape a tiny cosmos with your brain and a handful of feelings. If you re a veteran, it’s a playground where you test memory, timing, and emotional intelligence while your brain tries to predict what your opponent will do five steps ahead. Either way, strap in for a rollercoaster powered by mood tokens and the fear that your own brain might turn traitor at any moment.
+> If you’re a newbie, Cerebria is basically a duel where you shape a tiny cosmos with your brain and a handful of feelings. If you’re a veteran, it’s a playground where you test memory, timing, and emotional intelligence while your brain tries to predict what your opponent will do five steps ahead. Either way, strap in for a rollercoaster powered by mood tokens and the fear that your own brain might turn traitor at any moment.
 
 ## Overview: What Cerebria Actually Is
 Cerebria: The Card Game is a two-player skirmish that distills the essence of the Cerebria universe into a compact, hand-sized battlefield of mood tokens, location shenanigans, and cards with personalities so vivid you’ll swear they’re auditioning for a soap opera. You’ll be playing as one side of the Inside World’s emotional landscape, contending for influence over locations, resources, and the overall mood of the arena. The core remains deceptively simple on the surface—play cards, trigger abilities, move influence—yet it blooms into a labyrinth of tempo management, bluffing, and misdirection the moment you start weighing your options.
