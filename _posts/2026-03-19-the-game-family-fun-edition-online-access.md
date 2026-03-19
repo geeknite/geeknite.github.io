@@ -4,13 +4,13 @@ date: 2026-03-19
 tags: [games, family, online-access, review, geeknite]
 ---
 
-The Game: Family Fun Edition - Online Access is more than a digital board game; it's a subscription to chaos, learning, and the occasional moral victory when someone realizes it is their turn to fetch snacks. The online edition markets itself as a cross platform, kid friendly experience that can be played with grandma on her tablet and your nephew streaming from a dorm room.
+The Game: Family Fun Edition - Online Access is not just a digital board game; it's a subscription to chaos, learning, and the occasional moral victory when someone realizes it is their turn to fetch snacks. The online edition markets itself as a cross platform, kid-friendly experience that can be played with grandma on her tablet and your nephew streaming from a dorm room.
 
 We approach this with coffee in one hand and a laser pointer in the other, because nerds deserve to be excited about things that involve multiple screens and moral choices about should we skip the tutorial. The result is a review aimed at you dear reader whether you are a seasoned digital gamer, a parent negotiating screen time, or a cousin who only came for memes.
 
 ![]({{ site.baseurl }}/assets/images/family-fun-online.jpg)
 
-### The Setup: What you get in the box (or in the app)
+## The Setup: What you get in the box (or in the app)
 
 - One digital game board with bright colors and a cartoonish aesthetic.
 - A family planning guide (the app offers optional prompts for teachers, parents, and babysitters).
@@ -35,7 +35,7 @@ This mode embraces the chaos with grace. When a younger child gets stuck on a pr
 
 This is where an external link to an older post can be interesting: See our earlier review here: [our earlier review]({% post_url 2025-04-12-the-great-game-night %}). If you want to compare, check this other post: [Co-op mechanics deep-dive]({% post_url 2026-01-10-cooperative-puzzle-night %}).
 
-### Learnability and Appeal to Different Ages
+## Learnability and Appeal to Different Ages
 
 The onboarding curve is gentle: a 10-minute tutorial that introduces the main actions and a few practice rounds. It’s basically, you do this, then that, then we laugh. The tutorial uses a friendly narrator that explains rules without beating you over the head with terms like epsilon-dominance. For families with kids who range from 5 to 15, this is a tricky problem to solve in other contexts, but the game manages to keep everyone involved—grandparents included. It has an interface that hides advanced options until players are ready, which is a genius move to prevent early overwhelm.
 
@@ -43,7 +43,7 @@ It’s not a good fit for every family, of course; if you’re a group that thri
 
 [See another related post about family games]({% post_url 2024-07-30-family-games-roundup %}).
 
-### Hosting Tips for Online Family Nights
+## Hosting Tips for Online Family Nights
 
 To get the most out of The Game: Family Fun Edition - Online Access, a little pre-game planning goes a long way. Here are practical tips that help you avoid the chaos of did we just mute grandma again?
 
@@ -63,7 +63,7 @@ While solo experimentation is fun, real families want a schedule they can rely o
 
 - Mixed-age family night (4-6 players): Balanced engagement with a mix of cooperative and competitive rounds.
 - Short-form nights (2-3 players, 60 minutes): Focus on 4-5 rounds with a couple of micro-games between.
-- Full-family marathon (4-8 players, 90-120 minutes): Build a narrative through a series of connected micro-games and a final collaborative objective.
+- Full-family marathon (4-8 players, 90-120 minutes): Build a narrative through a series of connected micro-games and a final cooperative objective.
 - The tie-breaker night (4 players): Alternate rounds between quick mini-games and a puzzle challenge to determine the winner.
 
 ### Post-Launch Roadmap and What to Expect
@@ -79,6 +79,9 @@ A quick note on accessibility: the game offers a high-contrast mode and larger t
 - ![]({{ site.baseurl }}/assets/images/family-fun-online-2.jpg)
 - ![]({{ site.baseurl }}/assets/images/family-fun-online-3.jpg)
 - ![]({{ site.baseurl }}/assets/images/family-fun-online-4.jpg)
++ - ![]({{ site.baseurl }}/assets/images/family-fun-online-5.jpg)
++ - ![]({{ site.baseurl }}/assets/images/family-fun-online-6.jpg)
++ - ![]({{ site.baseurl }}/assets/images/family-fun-online-7.jpg)
 
 ### Final Word and Verdict
 
