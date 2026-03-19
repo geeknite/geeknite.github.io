@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Mind Card Game – Family Friendly Review'
+title: 'The Mind Card Game – Family Friendly Review (Expanded)'
 date: 2026-03-19 12:00:00 -0000
 tags:
   - board games
@@ -14,7 +14,7 @@ tags:
 {% include image.html src='/assets/images/the-mind-cover.jpg' alt='The Mind card game cover' %}
 
 ## Overview
-In the grand pantheon of party games that pretend to be brainy while secretly asking you to whisper to your friends through a cardboard lattice, The Mind stands out. It's the rare title that makes silence feel like a superpower and numbers feel like a shared secret. The Mind is a cooperative card game designed for 2-4 players (yes, that mysterious fourth person whose silent stare you once mistook for disdain can finally be included). The idea is simple and deliciously silly: you all try to play your cards in ascending order without talking, gesturing, or telepathically channeling your thoughts to a suspicious sibling. If you nail the order, the round passes. If someone jumps the gun, slips up, or simply breathes wrong, the team loses a life and pushes the clock on your silent-masquerade of a brainchild. The result is a game that feels like a party trick you can’t quite explain, with the maturity of a toddler's sticker book and the anxiety of a high-stakes elevator ride.
+In the grand pantheon of party games that pretend to be brainy while secretly asking you to whisper to your friends through a cardboard lattice, The Mind stands out. It’s the rare title that makes silence feel like a superpower and numbers feel like a shared secret. The Mind is a cooperative card game designed for 2-4 players (yes, that mysterious fourth person whose silent stare you once mistook for disdain can finally be included). The idea is simple and deliciously silly: you all try to play your cards in ascending order without talking, gesturing, or telepathically channeling your thoughts to a suspicious sibling. If you nail the order, the round passes. If someone jumps the gun, slips up, or simply breathes wrong, the team loses a life and pushes the clock on your silent-masquerade of a brainchild. The result is a game that feels like a party trick you can’t quite explain, with the maturity of a toddler's sticker book and the anxiety of a high-stakes elevator ride.
 
 ### The pitch in one paragraph
 If your family enjoys a mental puzzle and also appreciates the charm of everyone pretending to have read the same mind-reading manual, The Mind is your jam. It wears its minimalism on its sleeve: a handful of cards, a few tokens, and a whole lot of suspense. The magic trick here is not trick-taking or bluffing; it’s shared anticipation. You know your teammate has a card at exactly the same moment you do, but you’re not allowed to say it. The silence becomes a character, and the numbers become your only conversation.
@@ -62,7 +62,7 @@ Age recommendations are a rough guide, and The Mind does a surprisingly good job
 If you find your family wants more of The Mind, there are a few paths to explore. The original base game is compact, quick, and elegant, but the expansions exist to add more rounds, different timing elements, and sometimes a different vibe. Here are some ideas you might encounter or consider discussing before you buy:
 
 - Mind with more players: Some versions introduce more players with additional rules to balance the increased chaos. If you have a larger family or a rotating group of cousins, a variant that accommodates 5-6 players can be a good fit.
-- Difficulty toggles: Certain editions include optional rules that adjust how many lives you have or how quickly rounds escalate. If you’re dealing with a relatively favorably-skilled group, turning up the intensity can be a fun challenge.
+- Difficulty toggles: Certain editions include optional rules that adjust how many lives you have or how quickly rounds escalate. If you’re dealing with a relatively favorable-skilled group, turning up the intensity can be a fun challenge.
 - Thematic variants: Some products re-skin the basic mechanic with different art or a playful theme; they preserve the same core ethos—no talking, maximum synergy.
 
 ### Tips for families exploring expansions
