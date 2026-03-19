@@ -1,11 +1,16 @@
 ---
-title: 'Sushi Go! Card Game | Quick 2-5 Player Fun for Ages 8+ | Portable Entertainment'
+ttitle: 'Sushi Go! Card Game Recharged: Quick 2-5 Player Fun for All Ages, Portable Entertainment'
 date: 2026-03-19
 tags:
   - board games
   - reviews
   - tabletop
   - quick games
+  - party games
+  - family games
+  - travel games
+  - card drafting
+  - sushi
 ---
 
 ![Sushi Go! cards spread]({{ '/assets/images/sushi-go-cards.jpg' | relative_url }})
@@ -49,7 +54,7 @@ Sushi Go! uses a mixture of straightforward and tricky scoring lines. Nigiri car
 Once every player has drafted all the cards in their hand, the round ends. You tabulate points, discard everything, and start a fresh deck for the next round. The number of rounds depends on player count, but in practice you’ll be tearing through rounds in about 15–25 minutes, depending on how often someone brags about not needing instructions and then has to ask for them anyway.
 
 ### Two-Player Play and House Rules
-Sushi Go! plays surprisingly well with two players, but as the player count grows, the table talk escalates into delicious banter and strategic mind games. If you’re going 2-player, you can either call a time-out and simulate a two-handed drafting duel or use a slightly expanded scoring variant to keep things spicy. If you want to explore two-player variants, you can check out our dedicated write-up in the related post: [two-player variants and post-URL link]({% post_url 'sushi-go-two-player-variants' %}).
+Sushi Go! plays surprisingly well with two players, but as the player count grows, the table talk escalates into delicious banter and strategic mind games. If you’re going 2-player, you can either call a time-out and simulate a two-handed drafting duel or use a slightly expanded scoring variant to keep things spicy. If you want to explore two-player variants, you can check out our dedicated write-up in the related post: [Two-Player Variants]({% post_url 'sushi-go-two-player-variants' %}).
 
 ## The Good, The Bad, and The Snackable
 Like any snack, Sushi Go! has both bite-sized pros and the occasional crumbly edge.
@@ -111,7 +116,7 @@ In terms of purchase, you’re paying for glittery cards, instant fun, and a gam
 **Buy Sushi Go! now through our affiliate link: https://example.com/affiliate/sushigo**
 
 ### What’s Next on Geeknite
-If you enjoyed the candy-colored chaos of Sushi Go!, you might also like our look at Sushi Go Party!, a larger, more versatile cousin that cranks up the variety without turning the clock into a time- sink. Our comparison post delves into why some people love the extra choices and others miss the simplicity of the base game. Read it here: [Sushi Go Party! vs Sushi Go! which one fits your crowd?]({% post_url 'sushi-go-party-review' %}). If you want to see a broader discussion on drafting mechanics, dive into our Card Drafting 101: A Geeknite Primer: [Card Drafting 101]({% post_url 'card-drafting-guide' %}).
+If you enjoyed the candy-colored chaos of Sushi Go!, you might also like our look at Sushi Go Party!, a larger, more versatile cousin that cranks up the variety without turning the clock into a time-sink. Our comparison post delves into why some people love the extra choices and others miss the simplicity of the base game. Read it here: [Sushi Go Party! vs Sushi Go! which one fits your crowd?]({% post_url 'sushi-go-party-review' %}). If you want to see a broader discussion on drafting mechanics, dive into our Card Drafting 101: A Geeknite Primer: [Card Drafting 101]({% post_url 'card-drafting-guide' %}).
 
 ### External Resources
 - Official Sushi Go! page: https://boardgamegeek.com/boardgame/xxxxxx
