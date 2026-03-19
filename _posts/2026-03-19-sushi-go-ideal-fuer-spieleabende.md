@@ -1,5 +1,5 @@
 ---
-ttitle: Sushi Go! – Ideal für Spieleabende
+title: Sushi Go! – Ideal fuer Spieleabende
 date: 2026-03-19
 tags:
   - Brettspiele
@@ -12,9 +12,11 @@ tags:
 
 Wenn man an Sushi denkt, denkt man zuerst an gutes Essen, lange Warteschlangen und die stille Frage, ob man noch Platz für eines mehr hat. Bei Sushi Go! geht es allerdings um Karten, die wie kleine Bento-Boxen durch den Raum wandern – und zwar so schnell, dass dein Gehirn sich wünschte, es müsste aufmachen, statt zu denken. In dieser Geeknite-Review tauchen wir ein in das Spiel, das sich wie ein Picknick auf dem Spieltisch anfühlt: kompakt, hübsch gestaltet und mit einer Prise Strategie, die auch bei gemütlichen Abenden für Unterhaltung sorgt.
 
+> Hinweis für alle, die sich fragen, ob Sushi Go! wirklich ein „Spielabend“-Hit ist: Ja, es ist das perfekte Türöffner-Format – schnell erklärt, schnell gespielt, schwer zu widerstehen.
+
 ### Spielprinzip in Kürze – was steckt hinter Sushi Go!
 
-Sushi Go! ist ein Drafting-Kartenspiel für 2–5 Spieler, das in ungefähr 15 bis 20 Minuten pro Partie erledigt ist. Ziel ist es, am Ende des Spiels die meisten Punkte zu sammeln, und das durch das geschickte Sammeln von Kartenkombinationen wie Maki-Rollen, Nigiri, Sashimi und Gunkan. Der Clou: Jede Runde wählt jeder Spieler eine Karte aus seiner Hand und gibt den Rest an den Nachbarn weiter. Man sieht also nie die Karte, die man selbst ausgesucht hat, und muss aufgrund der gemachten Ausschläge schätzen, was die Nachbarn ausspielen könnten. Klingt chaotisch? Ist es auch – aber auf die gute, spielerische Art. 
+Sushi Go! ist ein Drafting-Kartenspiel für 2–5 Spieler, das in ungefähr 15 bis 20 Minuten pro Partie erledigt ist. Ziel ist es, am Ende des Spiels die meisten Punkte zu sammeln, und das durch das geschickte Sammeln von Kartenkombinationen wie Maki-Rollen, Nigiri, Sashimi und Gunkan. Der Clou: Jede Runde wählt jeder Spieler eine Karte aus seiner Hand und gibt den Rest an den Nachbarn weiter. Man sieht also nie die Karte, die man selbst ausgesucht hat, und muss aufgrund der gemachten Ausschläge schätzen, was die Nachbarn ausspielen könnten. Klingt chaotisch? Ist es auch – aber auf die gute, spielerische Art.
 
 ![Sushi Go Layout](/assets/images/sushi-go-layout.jpg)
 
@@ -77,7 +79,7 @@ Das Überzeugende ist, dass man in kurzer Zeit eine klare, matchbare Strategie e
 ### Empfehlungen und Zielgruppen – wer sollte Sushi Go! unbedingt mal ausprobieren?
 
 - Familien mit Kindern ab 8 Jahren: Die Regeln sind simpel genug, um sie zu vermitteln, und die fröhlichen Kartenbilder halten die Aufmerksamkeit der Kleinen.
-- Neueinsteiger in die Welt der modernen Kartenspiele: Wer erst einmal leichte Mechaniken verstehen will, findet in Sushi Go eine perfekte Einstiegsdroge – ähm, Einstiegsdroge für die Spielentwicklung.
+- Neueinsteiger in die Welt der modernen Kartenspiele: Wer erst einmal leichte Mechaniken verstehen will, findet in Sushi Go eine perfekte Einstiegsdroge – ähm, Einstiegsdroge für die Spielentwicklung. 
 - Spieleabende mit gemischten Fähigkeiten: Die 15–20 Minuten pro Partie ermöglichen es, mehrere Runden zu spielen, ohne jemanden zu überfordern.
 - Nerds mit Hang zu Design und Theme: Die Subtilität in der Kartengestaltung ist ein Witz für die Augen, aber hinter dem Witz steckt echte Spieltiefe.
 
