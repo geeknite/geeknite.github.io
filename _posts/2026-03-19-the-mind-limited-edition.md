@@ -1,16 +1,17 @@
 ---
 title: The Mind: Limited Edition - A Geeknite Review
-date: 2026-03-19
+date: 2026-03-26
 tags:
   - board-games
   - reviews
   - humor
   - cooperative
+  - puzzles
 ---
 
 Hello, hello, fellow geeks, and welcome to another expedition into the pocket-sized brain gymnasium that is The Mind: Limited Edition. If you have ever wanted to stretch your neural cortex while pretending you are not panicking at the concept of silent teamwork, strap in. This is a deep dive into the Limited Edition version of The Mind—the game where you and your friends try to synchronize thought without speaking, and if you fail, you get to pretend the universe is a gigantic group chat with zero notifications.
 
-![The Mind: Limited Edition box](assets/images/the-mind-limited-edition.jpg)
+![The Mind: Limited Edition box]({{ "/assets/images/the-mind-limited-edition.jpg" | relative_url }})
 
 But in this case, we have a new box, new art, and maybe a few more cards than a regular Tuesday at the puzzle parlor. The Mind itself is a cooperative card game designed by Wolfgang Warsch. The core mechanic is strange and beautiful: players must play cards in ascending order without communicating; you rely on the subtle vibe of your co-players, a shared sense of rhythm, and maybe a dash of divine RNG. In the Limited Edition, the packaging claims to deliver 'premium components' and 'sleek aesthetics' with a box so tight that it doubles as a tiny gym for your brain. Let’s lift those cognitive reps and see if the edition actually flexes the right muscles.
 
@@ -97,8 +98,13 @@ Cons:
 
 Bottom line: The Mind: Limited Edition is a tasteful, well-executed refinement of a beloved co-op classic. It preserves the core magic of silent collaboration while offering a more premium tactile experience that makes those quiet rounds feel a touch more cinematic. If your shelf is already home to a few co-op heavyweights, adding this edition is a smart choice that brings a little extra polish to your game nights. If you’re on the fence, borrow a copy from a friend first and see if the sense of shared breath and tempo translates to your crew.
 
-For more background on the game and to explore the official pages, you can visit the publisher or community hubs like https://boardgamegeek.com/boardgame/205246/the-mind-limited-edition. A culture of curious players awaits.
+### External links
 
-**Buy The Mind: Limited Edition here: https://affiliate.example.com/the-mind-limited-edition**
+- Official page and product details: https://boardgamegeek.com/boardgame/205246/the-mind-limited-edition
+- General The Mind entry on BoardGameGeek: https://boardgamegeek.com/boardgame/117818/the-mind
+
+### Buy + Quick Access
+
+**Purchase The Mind: Limited Edition here: https://affiliate.example.com/the-mind-limited-edition**
 
 And with that, fellow geeks, may your numbers align, your co-op be smooth, and your silence be nothing but stylish. Until next time, stay curious, stay nerdy, and stay wonderfully human.
