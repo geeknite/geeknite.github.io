@@ -12,7 +12,7 @@ tags:
 
 Port Royal. If you have a truly dedicated pirate complex, you probably think of it as the original sandbox MMORPG where explorers and swashbucklers logged in with nothing but a loaf of bread, a bottle of rum, and steam-powered swagger. Welcome to the English language guide to one of the Caribbean’s most infamous harbors, where every street corner whispers the word loot in a lovely patois and every cannonball has a backstory longer than your to-do list.
 
-In this deep-dive, we will voyage through history, the science of underwater archaeology, and the kind of travel tips that only occur when you treat a city that sank as part museum, part cautionary tale, and part live-action role-playing game. Yes, Port Royal used to be Jamaica's swaggering port of call; no, it did not curdle the coffee. Well, not immediately.
+In this deep-dive, we voyage through history, the science of underwater archaeology, and the kind of travel tips that only occur when you treat a city that sank as part museum, part cautionary tale, and part live-action role-playing game. Yes, Port Royal used to be Jamaica's swaggering port of call; no, it did not curdle the coffee. Well, not immediately.
 
 External links for late-night curiosity:
 
@@ -21,7 +21,7 @@ External links for late-night curiosity:
 
 If you enjoy links that pretend to be footnotes but are really just good excuses to browse memes of treasure maps, you have come to the right place. For fellow lore divers, we also drop some post_url calls to other Geeknite entries so you can chain your content like a pro (or a pirate with a very committed blog editor).
 
-![Port Royal underwater ruins]({{ site.baseurl }}/assets/images/port-royal-underwater.jpg)
+![Port Royal underwater ruins]( {{ site.baseurl }}/assets/images/port-royal-underwater.jpg )
 
 ## Port Royal in a Nutshell: Geography, Purpose, and Puns
 
