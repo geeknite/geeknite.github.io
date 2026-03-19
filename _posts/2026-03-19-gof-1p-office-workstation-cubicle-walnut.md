@@ -1,5 +1,5 @@
 ---
-title: GOF 1P Office Workstation Cubicle Walnut: A Geeknite Deep Dive 2.0
+title: GOF 1P Office Workstation Cubicle Walnut: The Geeknite Deep Dive 2.0
 date: 2026-03-19
 tags:
   - office-furniture
