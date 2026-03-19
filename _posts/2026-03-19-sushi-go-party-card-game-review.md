@@ -1,5 +1,5 @@
 ---
-title: Sushi Go! Party! Card Game Review (Updated 2026)
+title: Sushi Go! Party Card Game Review (Expanded 2026)
 date: 2026-03-19
 tags:
   - board games
@@ -9,6 +9,7 @@ tags:
   - review
   - drafting
   - family-friendly
+  - geeknite
 ---
 
 ## Introduction
@@ -81,6 +82,9 @@ The rules are short and the menus are approachable. The pace remains fast, which
 - The rulebook is concise and can be narrated aloud for players who prefer listening over reading.
 - For color-blind players, the menu icons and shapes provide redundancy that keeps everyone in the loop during scoring.
 
+### Image and Atmosphere
+The visuals intentionally lean cute and approachable. The goal is social ease, not intimidation. You want a vibe where a table full of adults and kids can lean into goofy theater—imagine a chorus of approving hums when someone nails a perfect sequence, or collective groans when a rival snags the last dumpling you needed to seal a big score. The art supports that mood without demanding a glossary of “how this interacts with that” every other hand.
+
 ## Variants, Expansions, and Longevity
 One of the reasons this edition shines is its inherent re-playability: different menus, different card pool, different passing directions, and the social variable of your table’s dynamics. There aren’t a ton of official expansions to load in, but the core game’s variability comes from the menu selection and what round you’re on. As you revisit the game with different groups, you’ll notice new synergies and new counter-plays. You can even create mini-challenges like “only score on two-color cards” or “no dessert cards after round three” to keep things fresh.
 
@@ -115,7 +119,7 @@ Cons:
 ## Final Verdict
 Sushi Go! Party! is a party-pleasant, lightweight drafting game that respects your time and your appetite for cute visuals. It offers enough variability to stay fresh across multiple sessions while remaining approachable for newcomers. If you’re stocking a collection of friendly, social games and you want something that brings a table together rather than turning it into a competition of who has the most complex strategy card, this one belongs on your shelf.
 
-### Rating: 8.5/10
+### Rating: 9.0/10
 
 Final Recommendation
 - Best for families, casual gamers, and groups who want a bright, breezy drafting experience with lots of smiles and only a pinch of strategic bite. If you crave a deeper engine or longer play times, you’ll prefer something heavier; if you want quick, charming table energy with friends who are more likely to actually talk to each other than sulk after a lost trick, Sushi Go! Party! is your go-to.
