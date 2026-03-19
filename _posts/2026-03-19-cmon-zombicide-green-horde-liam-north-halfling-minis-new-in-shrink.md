@@ -7,6 +7,10 @@ tags:
   - CMON
   - Zombicide
   - shrink wrap
+  - review
+  - geeknite
+  - unboxing
+  - painting
 ---
 
 # CMON - Zombicide: Green Horde – Liam & North the Halfling Minis - NEW IN SHRINK!
@@ -37,6 +41,7 @@ Liam the Halfling and North the Halfling are your classic mismatched duo: one is
 CMON’s current mini production uses a robust plastic that’s forgiving to novices while delivering crisp edges for seasoned painters. These two halflings: they’re not delicate, they’re not brittle, and they should survive a kitchen-table skirmish better than your average coffee mug habit. If you’ve ever had a meltdown over a broken hat pin or a tiny spear, rest easy knowing these minis are built to survive a few frantic dice rolls without turning into a sculpting project.
 
 ## Thematic fit and gameplay integration
+
 ### Halflings in the Green Horde milieu
 Green Horde is all about a different flavor of undead menace—hulking greenskins that feel like they pooled their aggression into a single, suspicious-looking goblin. Halflings in this setting bring a dash of stealth and cunning to the mission roster. They’re not front-line bruisers; they’re specialists who can disrupt creeps or flank a bigger target with a well-timed stab or rope trick.
 
@@ -49,6 +54,7 @@ If your table leans toward narrative campaigns, Liam and North can become the du
 The halfling duo injects personality into the game. In a setting where undead stampedes can feel repetitive, Liam’s bravado and North’s cunning give players memorable character moments—especially when the narrative demands you roll for stealth in a dungeon full of groaning chompers. The sculpts work with the environment, inviting players to paint them in slightly brighter tones to reflect halfling whimsy against the grim greens of the Horde.
 
 ## Painting and assembly tips
+
 ### Getting them on the table fast
 If you’re a hobbyist who hates lengthy assembly, these minis are a welcome addition. They come in a single piece per figure with little to no assembly required beyond the base and perhaps a thin pin for a slightly dynamic pose. If you want to prime quickly, use a light spray of gray or white to improve paint adhesion. For the base, a quick wash to bring out texture is all you need to avoid dull, flat surfaces.
 
@@ -66,6 +72,7 @@ If you’re a hobbyist who hates lengthy assembly, these minis are a welcome add
 - Seal with a matte varnish to prevent chipping during table chatter and heroic dice-tosses.
 
 ## Value, shrink wrap, and buying guidance
+
 ### Shrink wrap: is this a deal breaker?
 The “NEW IN SHRINK!” label is more than a badge—it's a promise of first-run plastic that hasn’t yet seen a dozen coffee rings or a misaligned helmet. For collectors and painters who savor the pristine look on day one, shrink-wrapped minis can be a seller’s dream. If you’re the type who bag-lifts minis from a shelf at a convention, you’ll appreciate the intact seals and the satisfaction of unwrapping something that feels fresh off the factory line. If you’re a zombie hobbyist who prefers unpainted figures for a weekend of painting therapy, you might be more inclined to buy unshrunk, but that crisp edge on the plastics is hard to resist.
 
@@ -78,6 +85,7 @@ Zombicide expansions and character packs tend to sit in the mid-to-upper tier of
 - If you’re cautious about tabletop balance, consider how Liam & North interact with your current survivors. Do they add a new skill arc that makes your team feel unique, or do they simply add a new model for the shelf? Either way, they look fantastic on the table and provide a solid narrative hook.
 
 ## Miniatures in context: comparisons and crossovers
+
 ### How Liam & North stack up against other Zombicide survivors
 Compared to some of the bigger survivors in the Zombicide line, Liam & North bring a smaller footprint and a different vibe. They don’t scream “tank” or “shock troop”; they whisper “scout and disrupt.” If you’re building a campaign where stealth and misdirection are as important as brute force, these two fit nicely. The sculpts have a crisp silhouette that reads well under a standard gaming light, which is a big win for streamers and hobbyists who display finished miniatures.
 
@@ -88,6 +96,7 @@ If you already own other halfling or elf-themed survivors from different Zombici
 CMON’s style for Green Horde leans into a grim yet approachable fantasy vibe. The Liam & North minis align with that tone: they’re not grotesque or excessively monstrous; they’re charming enough to be memorable, but the moment you squint your eyes at a die roll, you know they’re also deadly enough to contribute to a crunch turn. The balance is kept by the pairing—one can outthink a zombie, the other can outkeep the group’s morale.
 
 ## Community tips and inspiration
+
 ### Painting communities and showcases
 This pair is a great entry point for painters who want to try a quick, satisfying project. The crisp details encourage clean lines and careful shading. If you’re posting progress shots to your favorite painting forum, Liam’s cloak and North’s leather belt are the perfect cases for highlighting shading and edge highlighting.
 
