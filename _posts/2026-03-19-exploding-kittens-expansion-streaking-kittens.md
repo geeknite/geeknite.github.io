@@ -1,17 +1,16 @@
 ---
-title: 'Exploding Kittens: expansión Streaking Kittens'
+title: "Exploding Kittens: expansión Streaking Kittens"
 date: 2026-03-19
 tags: ['juegos de mesa', 'Exploding Kittens', 'Streaking Kittens', 'expansiones', 'reseña', 'Geeknite']
 ---
 
 ## Introducción
-Bienvenidos, intrépidos exploradores de lo random y lo adorablemente caótico. Si ya habéis sobrevivido a la ola de risas nerviosas que provocan Exploding Kittens, es posible que ya estéis mirando con deseo (o con miedo) a la expansión Streaking Kittens. Este añadido no es sólo un par de cartas bonitas con gatitos haciendo cosas locas; es una reconfiguración completa de la tensión, el ritmo y el humor que hace que el juego base se sienta como una montaña rusa: una curva suave que de pronto te lanza a un loop de risas, susurros y, en algún momento, un suspiro de alivio… o de resignación. En Geeknite, la hemos probado a fondo, entre cafés que ya no se distinguen entre café y azúcar, y hemos decidido traer una reseña que no se queda en la superficie: vamos a ver qué aporta, qué no, y si merece la pena convertir tu grupo de juego en un club de fans de estos gatitos traviesos. Para empezar, verás una historia, pero el conjunto está hecho para que la historia sea siempre mejor cuando se está jugando. Si quieres una imagen del caos, mira la carátula de la expansión: una pandilla de gatitos con mirada de “sí, somos adorables, pero también peligrosos”.
+Bienvenidos, intrépidos exploradores de lo random y lo adorablemente caótico. Si ya habéis sobrevivido a la ola de risas nerviosas que provocan Exploding Kittens, es posible que ya estéis mirando con deseo (o con miedo) a la expansión Streaking Kittens. Este añadido no es solo un par de cartas bonitas con gatitos haciendo cosas locas; es una reconfiguración completa de la tensión, el ritmo y el humor que hace que el juego base se sienta como una montaña rusa: una curva suave que de pronto te lanza a un loop de risas, susurros y, en algún momento, un suspiro de alivio… o de resignación. En Geeknite, la hemos probado a fondo, entre cafés que ya no se distinguen entre café y azúcar, y hemos decidido traer una reseña que no se queda en la superficie: vamos a ver qué aporta, qué no, y si merece la pena convertir tu grupo de juego en un club de fans de estos gatitos traviesos. Para empezar, verás una historia, pero el conjunto está hecho para que la historia sea siempre mejor cuando se está jugando. Si quieres una imagen del caos, mira la carátula de la expansión: una pandilla de gatitos con mirada de “sí, somos adorables, pero también peligrosos”.
 
 ![Streaking Kittens art]({{ site.baseurl }}/assets/images/streaking-kittens.jpg)
 
 ## Contenido de la caja
 La primera pregunta al abrir cualquier expansión es: ¿qué hay dentro? Streaking Kittens no decepciona en lo visual y, sobre todo, en el aporte de nuevas dinámicas. En la caja encontrarás:
-
 - 15 cartas nuevas que introducen una mezcla de efectos impredecibles y chistes de gatitos que harán que el grupo se ría, llore o se confunda (a veces simultáneamente).
 - 3 cartas de gatitos especiales que alteran la forma en que se resuelven las explosiones, lo que significa que ya no todo se resuelve con una buena mano de cartas de defensa: ahora hay consideración estratégica de momento y de humor.
 - 9 cartas de eventos que pueden cambiar el ritmo de la partida en un abrir y cerrar de ojos. Sí, gatitos traviesos, pero con un plan de dominación global del mazo… o del menos con el mazo y del humor de tus amigos.
@@ -21,7 +20,6 @@ La impresión de la calidad es notable. Las cartas conservan ese estilo de arte 
 
 ## Cómo encaja con el juego base
 La premisa de Exploding Kittens es simple en la superficie y brutal en la práctica: evitar quedarse sin cartas cuando aparece una bomba, usar cartas de defensa para evitar explosiones y, sí, reírse de las ocurrencias de las ilustraciones mientras la tensión se acumula. Streaking Kittens añade capas de variabilidad sin romper el equilibrio de la experiencia. En la práctica, eso se traduce en:
-
 - Más variedad de decisiones: ya no es simplemente “guardar carta de defensa” o “jugarla en este momento crítico”. Ahora hay gatitos que pueden cambiar las reglas de cómo funcionan las explosiones, o eventos que pueden obligarte a adaptar tu plan de juego en tiempo real.
 - Ritmo ajustable: la expansión puede acelerar o ralentizar la partida dependiendo de cuándo y cómo aparezcan las cartas nuevas. Esto es especialmente útil si tu grupo tiene una personalidad que tiende a sobreanalizar cada movimiento. Con Streaking Kittens, la diversión puede existir incluso cuando las decisiones se vuelven más dinámicas.
 - Mayor comicidad: el humor visual y los textos de las cartas se sienten más neutros que hirientes, con un tono que encaja en la cultura Geeknite: atrevido pero no cruel, ligero pero con una pizca de sarcasmo. Si te gusta el humor de memes de gatos, vas a sonreír muchas veces a lo largo de cada partida.
@@ -30,7 +28,6 @@ En resumen, la expansión no rompe el flujo del juego; lo reacomoda para que las
 
 ## Mecánicas nuevas y cómo afectan la estrategia
 Este apartado es donde la expansión empieza a brillar para jugadores que buscan profundidad sin complicar demasiado. A grandes rasgos, las cartas de Streaking Kittens introducen tres tipos de cambios principales:
-
 - Gatitos especiales que pueden tener efectos a medio plazo: en lugar de que una carta de defensa detenga de inmediato una explosión, podrías activar un gatito que modifica el mazo, o que cambia el objetivo del siguiente jugador.
 - Eventos que alteran el orden de turno: algunos eventos permiten que el turno de un jugador se desplace o que se cambie el flujo de la resolución de las explosiones. Esto añade una capa de negociación informal entre jugadores y de “lectura del grupo” sobre cuándo es mejor arriesgar o retirarte.
 - Nuevas cartas de acción que alojan sinergias con cartas base: con Streaking Kittens puedes combinar ciertas cartas para crear efectos humorísticos o devastadores, siempre manteniendo el sentido de que el juego debe ser rápido, claro y divertido.
@@ -45,7 +42,7 @@ El diseño de Streaking Kittens mantiene el ADN de Exploding Kittens: colores pl
 El tamaño de las cartas es cómodo; el material es robusto, sin volverse rígido o resbaladizo. Nuestras pruebas con múltiples partidas demuestran que las cartas resisten el trote de risas, maullidos y posibles gestos de frustración que vienen con el juego en grupo. En cuanto a la experiencia táctil, el acabado ayuda a distinguir rápido entre cartas de gatitos, eventos y acciones. Esto es particularmente valioso en partidas con iluminación irregular o cuando la mesa está cargada de snacks (sí, ese es un deporte paralelo a los juegos de mesa: comer y jugar a la vez).
 
 ## Duración y rejugabilidad
-La duración típica de una partida con la expansión tiende a similar a la del juego base: entre 15 y 20 minutos por sesión, dependiendo del tamaño del grupo y de cuánto tardas en girar cada carta para encontrar la sonrisa adecuada en cada jugada. La rejugabilidad se ve reforzada por la variedad de cartas nuevas: cada partida tiende a sentirse diferente, no sólo por la composición de tu mano, sino por las interacciones entre Gatitos y Eventos que emergen durante la partida. Aunque el núcleo del juego es sencillo de aprender, la expansión añade capas suficientes para que las sesiones repetidas mantengan su sabor sin convertirse en una repetición cansina.
+La duración típica de una partida con la expansión tiende a ser similar a la del juego base: entre 15 y 20 minutos por sesión, dependiendo del tamaño del grupo y de cuánto tardas en girar cada carta para encontrar la sonrisa adecuada en cada jugada. La rejugabilidad se ve reforzada por la variedad de cartas nuevas: cada partida tiende a sentirse diferente, no solo por la composición de tu mano, sino por las interacciones entre Gatitos y Eventos que emergen durante la partida. Aunque el núcleo del juego es sencillo de aprender, la expansión añade capas suficientes para que las sesiones repetidas mantengan su sabor sin convertirse en una repetición cansina.
 
 Para jugadores que buscan una experiencia más seria, hay partidas donde la expansión podría sentirse demasiado caótica. Pero ese tipo de encuentros suelen ser el propio atractivo: si quieres una experiencia estratégica pura, quizá debas acudir a otros títulos. Si, por el contrario, quieres una noche de risas conectadas con risas rápidas y absurdas, Streaking Kittens brilla con el canal de humor adecuado.
 
@@ -69,7 +66,7 @@ La edición Streaking Kittens es accesible para jugadores novatos, si ya teníai
 
 Para jugadores veteranos, la expansión ofrece suficiente novedad para mantener el interés sin que el conjunto se vuelva una lucha por la suprema complejidad. El equilibrio entre humor y estrategia está bien gestionado, y la presencia de los gatos como protagonistas aporta un elemento temático que hace que el juego sea más memorable que una simple lista de reglas. En cuanto a la accesibilidad física, las cartas son fáciles de barajar y manipular, y el peso de las tarjetas no es excesivo, lo que facilita que pequeños grupos de juego puedan disfrutar de sesiones largas sin fatiga innecesaria.
 
-## ¿Vale la pena? recomendación final
+## ¿Vale la pena? Recomendación final
 Si ya eres fan de Exploding Kittens y buscas una experiencia que refresque tu grupo, Streaking Kittens es una adición sólida. No se trata de una expansión que cambie el mundo, sino de una que añade chispa, sorpresa y, sobre todo, momentos de humor que ya te sabes de memoria cuando el mazo grita “sorpresa”. Es una compra que puedes justificar como una mejora de tu experiencia base: más risas, más interacciones y menos monotonía. Los grupos que ya han agotado las variantes del juego base encontrarán en Streaking Kittens un nuevo motor para convertir cada partida en una pequeña comedia de enredos.
 
 Si lo que buscas es una recomendación rápida:
