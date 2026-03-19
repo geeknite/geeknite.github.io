@@ -1,7 +1,7 @@
 ---
-title: Exploding Kittens Party Pack: Play Exploding Kittens with up to 10 players!
+ttitle: Exploding Kittens Party Pack: A 10-Player Carnival of Cat-astrophe
 date: 2026-03-19
-tags: [board games, party games, card games, Exploding Kittens, review, geeks, multiplayer, chaos]
+tags: [board games, party games, card games, Exploding Kittens, review, geeks, multiplayer, chaos, party-night, laughter]
 ---
 
 # Exploding Kittens Party Pack: Play Exploding Kittens with up to 10 players!
@@ -61,7 +61,7 @@ The Party Pack uses simple mechanics that scale with chaos as you add players. I
 
 The real magic of the Party Pack is not in the cards themselves but in how people interact around the table. When ten players are involved, the room transforms into a microcosm of a social experiment: who will cooperate with what and when will someone betray everyone else for a cheaper shot at glory. Expect a lot of playful heckling, playful cheating (in the world of board games we call that strategic misreporting), and the occasional dramatic gasp when someone narrowly avoids an explosion and then blames the nearest neighbor for their misfortune.
 
-External link for more party game vibes: https://boardgamegeek.com/boardgame/252531/exploding-kittens-party-pack
+External link for more party vibes: https://boardgamegeek.com/boardgame/252531/exploding-kittens-party-pack
 
 ## Design, art, and components: does it survive a gaming night?
 
@@ -164,4 +164,4 @@ A few quick links worth bookmarking for later: official Exploding Kittens page, 
 
 To wrap up, the Party Pack offers a bright, silly, and surprisingly robust way to bring a room together for a night of unapologetic laughter and friendly sabotage. It doesn’t pretend to be a serious strategic triumph; it proudly declares itself a celebration of chaos, and it delivers with style.
 
-**[Buy the Exploding Kittens Party Pack now on Amazon](https://amzn.to/EXP-KITTENS)**
+**[Buy the Exploding Kittens Party Pack now on Amazon](https://www.amazon.com/Exploding-Kittens-Party-Pack/dp/B07F2V8KZP/)**
