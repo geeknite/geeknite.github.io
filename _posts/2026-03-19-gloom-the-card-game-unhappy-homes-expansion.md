@@ -1,5 +1,5 @@
 ---
-title: Gloom - The Card Game Unhappy Homes Expansion Review
+title: Gloom - The Card Game: Unhappy Homes Expansion Review Expanded
 date: 2026-03-19
 tags:
 - board-games
