@@ -1,5 +1,5 @@
 ---
-title: 'Zombicide: Toxic City Mall - Expansion'
+title: "Zombicide: Toxic City Mall - Expansion (UPDATED)"
 date: 2026-03-19
 tags:
   - board-games
@@ -7,15 +7,21 @@ tags:
   - review
   - zombicide
   - toxic-city-mall
+  - expansion
+layout: post
 ---
 
-![Zombicide: Toxic City Mall expansion art](assets/images/zombicide-toxic-city-mall-expansion.jpg "Zombicide: Toxic City Mall expansion")
+![Zombicide: Toxic City Mall expansion art](assets/images/zombicide-toxic-city-mall-expansion.jpg)
+
+Introduction
 
 If you ever wanted to see a zombie apocalypse set inside a mall that looks like a storyboard for a late-night shopping channel, Zombicide: Toxic City Mall expansion is your ticket. It arrives with the confidence of a department-store mannequin who has clearly seen the price tag and decided nothing is too expensive for a good survival story. In true Geeknite fashion, we treat our zombie retail therapy with equal parts reverence and ridiculous enthusiasm. Grab your crossbow, your mop handle of destiny, and yes, your obsession with puns about clearance racks, because this expansion turns the base game into a neon-lit gauntlet of risk and reward.
 
-## Overview
+Overview
+
 ### A mall that’s not afraid to toxic you
-The Toxic City Mall expansion drops a modular mall setting into your gaming table, complete with neon flickers, toxic vibes, and enough store fronts to make a mall walker cry tears of joy and tears of toxic gas. The theme lands with a confident shrug: if you’re going to fight the undead, you might as well do it while pretending you’re hunting for a one-day sale that’s actually a life-or-death trap.
+
+The Toxic City Mall expansion drops a modular mall setting into your gaming table, complete with neon flickers, toxic vibes, and enough storefronts to make a mall walker cry tears of joy and tears of toxic gas. The theme lands with a confident shrug: if you’re going to fight the undead, you might as well do it while pretending you’re hunting for a one-day sale that’s actually a life-or-death trap.
 
 What follows is not merely a new map. It’s a set of design decisions that refresh the rhythm without reinventing the wheel. Toxic gas zones push you to plan routes, escalators inject vertical depth (yes, verticality in a Zombicide expansion—the dream of every power-gamer with a stair fetish), and shop-fronts act as both cover and potential hazards. The expansion also adds new survivors, fresh zombie types, and a pack of mission cards that reward multi-step objectives rather than simple “kill everything that moves.”
 
@@ -28,6 +34,7 @@ External notes: official context can be found on the official page and community
 For more on how this expansion stacks up against the base game’s rhythm, see {% post_url 2023-04-12-zombicide-base-game-review.md %} and if you’re chasing a longer-form misadventure, check {% post_url 2025-08-28-geek-night-ramblings.md %}.
 
 ## What's in the box
+
 The box content reads like a mall employee’s equipment list, with a healthy dash of “this is totally necessary.” Here’s what you’ll typically find inside:
 
 - A modular mall map with multiple floors, escalators, and hazardous zones. The tiles interlock cleanly with the base game boards, allowing you to build a two-level department-store cluster or a sprawling food-court megastructure that would make a megachain blush.
@@ -40,11 +47,13 @@ The box content reads like a mall employee’s equipment list, with a healthy da
 If you’re a parent of two cats who loves a good puzzle, you’ll especially appreciate the scenario cards that require multi-objective management. It’s not a spoonful of sugar, but it’s a well-balanced dose of complexity that keeps things interesting without making you regret the box’s existence.
 
 ## Setup and quick start
+
 Setup is a touch more involved than a typical base-game round, but not by much. The mall tiles click together with satisfying firmness, and the hazard markers lay out quickly once you’ve organized tokens ahead of time. A practical approach is to split players into two crews: one handles the grid of stores, the other tracks hazard progression. It might feel like you’re running a tiny security operation, but you’ll appreciate the clarity when the first toxic cloud rolls in and you realize you forgot to close the elevator-shaft trap.
 
 The first turns are about stabilization: close a few doors, secure a path to the safe zone, and decide which stores will serve as barricades. If you’re using new survivors, test out their abilities in small skirmishes before unleashing them on a full mall siege. Expect a learning curve, but one that smooths out after a round or two.
 
 ## Mechanics and design philosophy
+
 The Toxic City Mall expansion doesn’t reinvent Zombicide’s wheel; it refines it with neon polish and hazard decals. Here are core notes worth knowing:
 
 - Toxic zones: These zones gradually contract the playable area, forcing movement and map control decisions. Entering or staying in a toxin area inflicts a small ongoing penalty, which makes every action feel consequential.
@@ -53,32 +62,38 @@ The Toxic City Mall expansion doesn’t reinvent Zombicide’s wheel; it refines
 - New survivor synergy: Some survivors are built to work in tandem with others in particular storefronts or hazards. This makes party composition feel meaningful beyond “who has the biggest damage die.”
 - Balance and difficulty: The expansion sits in a reasonable difficulty range. It offers a fresh challenge for veterans without punishing newcomers into quitting. If you’re mixing players, consider trimming a hazard or toning down a particularly punishing mission.
 
-Scenarios and campaign structure
+### Scenarios and campaign structure
+
 The expansion ships with several scenarios that can be played as standalone sessions or chained into a light campaign. The scenarios emphasize varied map interactions and objective flows.
 
 - Scenario variety: Tasks might include securing the medical wing while toxic zones push toward the central atrium, or rescuing survivors from a store suddenly overrun by toxic gas and disoriented shoppers.
 - Campaign arc: When you chain scenarios, you get a gentle difficulty progression. New hazards tilt the balance, making later missions feel consequential rather than repetitive.
 - Difficulty scaling: The designers provide guidelines to tailor the challenge to different groups. New players can start with simplified missions and gradually unlock more complex objectives; veterans can jump into meatier missions with tougher toxin management.
 
-Artwork, components, and production quality
+### Artwork, components, and production quality
+
 Quality sits in line with other Zombicide expansions: sturdy map tiles, clearly differentiated tokens, and miniatures that pop on the table. The mall aesthetic is a riot of color: neon signage, flickering lights, and hazard tokens with a clear visual language. The survivor and zombie sculpts keep the brand’s recognizable blend of functional, over-the-top, and distinctly capable of generating post-game banter.
 
 In terms of durability, the map tiles withstand repeated shuffles and repositioning due to thicker cardstock and interlocking design. As with most Zombicide releases, proper storage and a dry, cool environment will help preserve the color contrast on hazard tokens.
 
-Theme and tone
+### Theme and tone
+
 The expansion leans into a buoyant, goofy horror vibe that aligns with the base game’s humor without tipping into parody. It’s not a spoof expansion; it respects the source material while leaning into a setting that invites kitchen-sink chaos and clever trap planning. It’s the kind of session where a player jokes about “mall cops” or “escalator ambush” and the whole table nods in conspiratorial amusement. The tone stays light but grounded by tactical constraints; you’re not playing a cartoon, but you’ll still laugh when a plan collapses into a cloud of neon gas and a chorus of store-brand alarms.
 
-Solo play and party dynamics
+### Solo play and party dynamics
+
 Solo play here is interesting, delivering crisp decisions without a human shield to lean on. Toxic zones feel isolating, which is a refreshing challenge. The escalators offer new pacing for a solo run, letting you simulate a store security program while the map demands resource management. The campaign structure benefits from a table full of players, but the solo curve remains satisfying for those who want to test fortress-building on their own.
 
 For groups, the expansion sings when you have a tight crew and clear communication. It rewards planning, quick adaptation, and a shared sense of ridiculous triumph. You’ll want to shout lines like “We need eyes on the escalator!” and “Cover the corridor; the toxin is creeping in.” It’s cooperative in the way Zombicide excels: turning a bunch of players into a coordinated zombie-slaying machine with a side of sarcasm.
 
-How it compares to other Zombicide expansions
+### How it compares to other Zombicide expansions
+
 If you’ve played other Zombicide expansions, Toxic City Mall will feel familiar in its core: solid components, well-integrated new rules, and a theme that slots neatly into the base game's DNA. The mall setting stands out with verticality and well-tuned hazards. Some players may crave more store-specific abilities or new zombie types to shake up the meta; others will praise the balance that keeps the expansion approachable yet challenging.
 
 Compared with expansions that lean heavily on new mechanics, Toxic City Mall sits closer to the accessible end of the spectrum. If you want more puzzle than brawn, it’s a strong pick. If you crave big power and brute force, you might wish for a few more showpiece tools in the survivors’ kit. Either way, it’s a strong addition for anyone who enjoys the usually chaotic Walker-to-Store-Manager fantasy that Zombicide does with a wink.
 
-The geeky nitty-gritty: strategy tips and suggestions
+### The geeky nitty-gritty: strategy tips and suggestions
+
 Here are practical tips to juice up your Toxic City Mall sessions without losing your cool (or appetite for mall pretzels):
 
 - Prioritize barrier placement early: Use barricades to pin zombies along chokepoints. The mall already has hazards; you don’t want to drown in a flood of zombies while toxins creep along the edges.
@@ -88,7 +103,8 @@ Here are practical tips to juice up your Toxic City Mall sessions without losing
 - Don’t neglect objective cards: The missions reward multi-step planning. Sometimes the best move is to pivot to a mid-map objective that buys you a turn.
 - Build a memory: The mall’s stores and hazards can be used as leverage in later rounds. Remember which stores grant temporary buffs or salvage gear for later use.
 
-Final verdict and who should buy this
+### Final verdict and who should buy this
+
 Zombicide: Toxic City Mall is a well-executed expansion that brings a fresh flavor to the table without turning the game into a headache. It’s best for groups who enjoy thoughtful planning, tactical map control, and a steady drip of chaos as the toxins spread. It’s also an excellent entry point for players who love the mall setting but still want strategic depth.
 
 Pros:
