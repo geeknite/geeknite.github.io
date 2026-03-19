@@ -1,7 +1,7 @@
 ---
-title: Hand-Tufted New Zealand Wool Rug: Modern Geometric Arcs
-date: 2026-03-19
-tags:
+ttitle: Hand-Tufted New Zealand Wool Rug: Modern Geometric Arcs
+-date: 2026-03-19
+-tags:
   - rug
   - design
   - hand-tufted
@@ -32,7 +32,7 @@ New Zealand wool is the star here. The wool fibers are long, resilient, and natu
 Design and Arc Geometry in Detail
 ---------------------------------
 
-The geometric arcs in this rug are not random doodles. They are careful, measured curves that play with scale and rhythm. Some arcs are broad and sweeping, others are tight and intimate. When placed in a room, the arcs can guide the eye along the floor plane, creating the illusion of more space or a cozier nook depending on lighting and furniture placement. The arc pattern can engage in delightful conversations with other patterns in the room, like a bold conversation between a mid-century chair and a sleek modern coffee table. If you like math, you will love the symmetry; if you hate math, you’ll still appreciate the way it looks like a snazzy fingerprint from the textile gods.
+The geometric arcs in this rug are not random doodles. They are careful, measured curves that play with scale and rhythm. Some arcs are broad and sweeping, others are tight and intimate. When placed in a room, the arcs can guide the eye along the floor plane, creating the illusion of more space or a cosier nook depending on lighting and furniture placement. The arc pattern can engage in delightful conversations with other patterns in the room, like a bold conversation between a mid-century chair and a sleek modern coffee table. If you like math, you will love the symmetry; if you hate math, you’ll still appreciate the way it looks like a snazzy fingerprint from the textile gods.
 
 Color Story and Customization
 ------------------------------
@@ -68,6 +68,11 @@ Comparisons: Hand-Tufted vs Other Wool Treatments
 
 This rug sits somewhere between plush hand-knotted luxury and more affordable machine-made options. Hand-tufted means more hands on deck than a factory conveyor, which translates to a price premium but also a stronger sense of character and craftsmanship. Compared to hand-knotted rugs, tufted pieces often have a more uniform surface with a soft, cushioned feel underfoot. If you crave the exacting tension of hand knots, you might opt for a different silhouette, but for most living rooms, the hand-tufted approach offers a satisfying balance of durability, texture, and cost. When you pair this rug with a low-pile sofa and a crisp coffee table, you get a space that reads as intentional and comfortable without shouting Look at me, I am designer art with legs.
 
+The Geometric Arc: A Brief History
+-----------------------------
+
+Arcs are not new to interior aesthetics. From Moorish arches that shaped grand interiors to mid-century modern curved sofas that softened the edges of space-age materials, arcs have been quietly guiding our perception of room scale. The modern geometric arc rug taps into that lineage, translating historical curvature into a contemporary floor-based canvas. The arc pattern acts as a visual barcode for the room: it tells your eye where to land, how to move, and when to pause to admire the texture underfoot. It’s design language with a sense of humor—like a friendly wave from the floor saying, Hello, I’m sophisticated but I still enjoy a good pun.
+
 Where to Buy and External Resources
 -----------------------------------
 
@@ -84,6 +89,8 @@ If you enjoyed the vibe of arc geometry on the floor, you might also enjoy these
 
 - Related post about tufting tricks and handy setup tips: {% post_url 2025-05-handcrafted-rugs-tips %}
 - A deeper dive into geometric patterns in interior design: {% post_url 2025-02-geometric-rug-designs-nz-tufting %}
+- NZ wool quality and care deep dive: {% post_url 2025-03-nz-wool-quality-rug-guide %}
+- Design case study: integrating geometric patterns in small apartments: {% post_url 2025-08-tilt-shift-geometric-rugs-small-spaces %}
 
 Final Verdict
 -------------
