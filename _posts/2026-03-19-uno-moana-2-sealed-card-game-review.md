@@ -1,5 +1,5 @@
 ---
-title: 'UNO Moana 2 — Sealed Card Game Review'
+title: 'UNO Moana 2 — Sealed Card Game Review (Expanded)'
 date: 2026-03-19
 tags:
   - board games
@@ -8,6 +8,7 @@ tags:
   - family games
   - Moana
   - review
+  - sealed deck
 ---
 
 ![]({{ '/assets/img/uno-moana-2-sealed.jpg' | relative_url }})
@@ -49,7 +50,7 @@ Getting Moana 2 ready for a session is straightforward, but the sealed deck elem
 - Shuffle the central UNO action cards into a discard pile, just as you would in a normal UNO match. This helps keep the pace quick while you establish the new order of operations for sealed deck interactions.
 - Start the play by matching color or number as usual, but keep a lookout for the Moana specific cards that can shift the ring of play and force the table into a new rhythm.
 
-A few practical tips for setup: do not over-stuff the table with 12 stacks of sealed cards. The joy of Moana 2 lies in the moment of reveal and the decision of which elements to adopt for that session. Also, declare any “house rules” you want to try before the first round—this saves you from 15 minutes of “that card shouldn’t work that way” arguments after the first sweep.
+A few practical tips for setup: do not over-stuff the table with 12 stacks of sealed cards. The joy of Moana 2 lies in the moment of reveal and the decision of which elements to adopt for that session. Also, declare any house rules you want to try before the first round—this saves you from 15 minutes of that card shouldn’t work that way arguments after the first sweep.
 
 ## Rules Deep Dive: Core Mechanics and Interactions
 Let us break down the core mechanics in a way that helps you plan your moves rather than just react to them. The sealed deck creates a dynamic where you’re constantly reading the board and calculating two to three steps ahead, which is a surprisingly satisfying mental exercise in a party game.
@@ -121,7 +122,7 @@ If you enjoy digging into comparable games with a sealed deck mechanic, you migh
 ## Final Verdict: Should You Pick It Up?
 If you love UNO for its fast tempo and social banter, and you have a Moana fan or two in your circle, UNO Moana 2 — Sealed Card Game is a worthwhile pick. It respects the core UNO experience while injecting a respectable dose of discovery and thematic flavor. It does not pretend to be a heavyweight strategy title; it’s a party-friendly, family-appropriate, visually vibrant variant that invites experimentation and story-sharing. The sealed deck mechanic adds enough novelty to justify a purchase for those nights when your usual UNO game has grown a little stale.
 
-That said, if you value minimal setup and a pure card-draw experience, you might prefer to skip Moana 2 or treat it as a special occasion title for weekends or celebrations. The joy of this edition is not just in winning; it is in the journey of revealing your sealed deck and leaning into the Moana spirit as a group. When you hit that moment where the final few cards slip away and someone shouts a triumphant, “We did it,” you’ll understand why this edition exists—because it makes a familiar game feel delightfully novel without sacrificing the familiar, friendly rhythm that makes UNO such a staple for families.
+That said, if you value minimal setup and a pure card-draw experience, you might prefer to skip Moana 2 or treat it as a special occasion title for weekends or celebrations. The joy of this edition is not just in winning; it is in the journey of revealing your sealed deck and leaning into the Moana spirit as a group. When you hit that moment where the final few cards slip away and someone shouts a triumphant, We did it, you’ll understand why this edition exists—because it makes a familiar game feel delightfully novel without sacrificing the familiar, friendly rhythm that makes UNO such a staple for families.
 
 ## Where to Buy and Final Tips
 - Official source for the product page (for latest pricing and availability): https://www.mattelgames.com/en-us/products/uno-moana-2-sealed-card-game
