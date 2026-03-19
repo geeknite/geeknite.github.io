@@ -1,5 +1,5 @@
 ---
-title: 'Sushi Go! - Édition originale — Revue Geeknite'
+title: 'Sushi Go! - Édition originale — Revue Geeknite (Mise à jour 2026)'
 date: 2026-03-19
 layout: post
 tags:
@@ -12,24 +12,24 @@ image: /assets/images/sushi-go-original.jpg
 ---
 
 ## Introduction
-Bienvenue dans le petit atelier de cuisine visuelle de Geeknite, où l’on assemble des plateaux de sushis comme on assemble des puzzles mentaux et des blagues douteuses. Aujourd’hui, on dévore une vieille recette: Sushi Go! — Édition originale. Ce n’est pas seulement un jeu: c’est une promenade de 10 à 20 minutes dans un univers de petits papiers colorés qui sentent bon le poisson-robot et le riz parfait. Verdict rapide: oui, c’est simple, mais c’est exactement ce qui en fait une arme secrète pour les soirées où l’adrénaline se mesure en points de score et où les discussions politiques autour de l’ordre des baguettes deviennent soudainement profondes.
+Bienvenue dans l’atelier de cuisine ludique de Geeknite, où l’on assemble des plateaux de sushis comme on assemble des puzzles mentaux et des blagues douteuses. Aujourd’hui, on revisite une vieille recette: Sushi Go! — Édition originale. Ce n’est pas juste un jeu: c’est une échappée rapide dans un univers de cartes couleur pastel qui sentent bon le poisson-robot et le riz parfait. Petit verdict en mode rapide: oui, c’est simple — et c’est précisément ce qui en fait une arme secrète pour les soirées où l’adrénaline se mesure en points et où les discussions sur l’ordre des baguettes deviennent philosophiques.
 
-Pour les curieux qui veulent revisiter ce classique, ce billet va s’étendre sur le concept, les mécaniques, les composants, et surtout, ce qui le rend encore pertinent aujourd’hui. Spoiler: le rire est garanti; les points, eux aussi; et la convivialité peut atteindre des niveaux dignes d’un plateau télévisé de cuisine, mais sans les risques d’incendie. On va aussi parler de design, d’accessibilité, et des petites astuces qui font toute la différence entre “je gagne” et “je gagne avec style”.
+Pour les curieux qui veulent revisiter ce classique, ce billet va s’étendre sur le concept, les mécaniques, les composants, et surtout ce qui le rend encore pertinent aujourd’hui. Spoiler alert: le rire est garanti; les points aussi; et la convivialité peut atteindre des niveaux dignes d’un plateau télévisé de cuisine — sans les risques d’incendie. On va aussi parler de design, d’accessibilité et des petites astuces qui font toute la différence entre “je gagne” et “je gagne avec style”.
 
 > Et si vous voulez poursuivre sur la suite des aventures du gag et du poisson, regardez aussi mon billet sur Sushi Go Party! — c’est le même esprit, mais avec plus de mises en page et de variétés (et peut-être un peu plus de chaos): {% post_url 2024-11-15-sushi-go-party-review %}.
 
-![Sushi Go! Original Edition]( /assets/images/sushi-go-original.jpg )
+![Sushi Go! Original Edition]({{ '/assets/images/sushi-go-original.jpg' | relative_url }})
 
 ## Contexte et présentation générale
 ### Le concept clé: drafting et set collection en douceur
-Sushi Go! est un jeu de draft simultané: à chaque tour, vous voyez une main de cartes et vous en choisissez une avant de passer le reste à votre voisin. Le concept est aussi simple qu’un menu de fast-food japonais: prenez une carte, passez le reste, puis ainsi de suite jusqu’à épuisement. L’objectif? Constituer les meilleures combinaisons pour marquer des points—mais sans que vos adversaires aient trop le temps de vous piquer les plateaux de nigiri ou les sashimis qui font parler d’eux.
+Sushi Go! est un jeu de draft simultané: à chaque tour, vous voyez une main de cartes et vous en choisissez une avant de passer le reste à votre voisin. Le concept est aussi simple qu’un menu de fast-food japonais: prenez une carte, passez le reste, puis ainsi de suite jusqu’à épuisement. L’objectif? Constituer les meilleures combinaisons pour marquer des points — mais sans que vos adversaires aient trop le temps de vous piquer les plateaux de nigiri ou les sashimis qui font parler d’eux.
 
 Cette version originale pose les bases d’un ensemble de personnages culinaires: nigiri, maki, sashimi, tempura, edamame, et plus encore. Chaque type de carte réagit différemment à l’addition des autres, et c’est là que le jeu montre son équilibre délicat: trop de patience et vous manquez les opportunités; trop impulsif et vous laissez vos voisins construire des combos qui vous font pâlir d’envie lorsque le score final est compté.
 
 ### Contenu et design: un paquet de cartes qui respire l’innocence et le caramel de sucre
 La boîte d’origine offre une multitude de cartes colorées avec des illustrations simples et charmantes, où les personnages de sushi se prennent pour des joueurs de poker miniatures. Le design est clair, lisible et, surtout, rapide à prendre en main. Les chiffres et les illustrations s’imbriquent comme les morceaux d’un plateau technique: vous voyez immédiatement quelles combinaisons sont possibles et où vous pourriez vous concentrer pour le tour prochain.
 
-Les composants typiques comprennent des cartes Nigiri (trois variantes), des sashimis, des makis, des tempuras, et quelques jokers/bonus selon les éditions. L’ensemble est compact, idéal pour le transport lors d’un meetup ou d’un voyage en train, et le jeu refuse obstinément de prendre plus de place que votre sac à dos. Pour les puristes du détail, l’édition originale brille par sa lisibilité et sa simplicité—un mariage parfait pour les joueurs débutants et les charlatans du café qui veulent impressionner leurs amis sans avoir besoin d’un manuel épais.
+Les composants typiques comprennent des cartes Nigiri (trois variantes), des sashimis, des makis, des tempuras, et quelques jokers/bonus selon les éditions. L’ensemble est compact, idéal pour le transport lors d’un meetup ou d’un voyage en train, et le jeu refuse obstinément de prendre plus de place que votre sac à dos. Pour les puristes du détail, l’édition originale brille par sa lisibilité et sa simplicité — un mariage parfait pour les joueurs débutants et les charlatans du café qui veulent impressionner leurs amis sans avoir besoin d’un manuel épais.
 
 ## Mécaniques centrales et rythme de jeu
 ### Le draft simultané et la vitesse d’exécution
@@ -38,7 +38,7 @@ Le cœur du jeu est son drafting: chaque joueur choisit une carte de sa main et 
 La rapidité est un atout ici. Un party game comme Sushi Go! peut s’étriper verbalement sur le choix des nigiris, mais cela se passe dans une ambiance légère et sans pression. Vous aurez des choix qui semblent anodins sur le moment (peut-être vous vous demandez si vous devriez prendre une carte Tempura ou une autre carte qui récompensera les paires plus tard), mais en fin de partie, petit à petit, vous observez les chaînes de décisions qui vous mèneront à la victoire ou à la défaite amicale.
 
 ### Les combinaisons et le système de scoring
-Le système de score est relativement simple mais régalement ingénieux: certaines combinaisons donnent des points directs, d’autres vous donnent des points seulement si vous avez deux ou trois éléments du même type. Par exemple, vous pourriez marquer des points pour chaque Nigiri accumulé ou pour des paires de Tempura; les Maki donnent des points au plus rapide de leurs tours. Le charme réside dans l’anticipation et dans la capacité à lire les intentions des adversaires sans avoir à endosser des monologues de psi?chologie sociale… juste assez pour éclater de rire lorsque quelqu’un révèle une carte prête à faire exploser l’ordre du tableau.
+Le système de score est relativement simple mais ingénieux: certaines combinaisons donnent des points directs, d’autres vous donnent des points seulement si vous avez deux ou trois éléments du même type. Par exemple, vous pourriez marquer des points pour chaque Nigiri accumulé ou pour des paires de Tempura; les Maki donnent des points au plus rapide de leurs tours. Le charme réside dans l’anticipation et dans la capacité à lire les intentions des adversaires sans avoir à endosser des monologues de psychologie sociale… juste assez pour éclater de rire lorsque quelqu’un révèle une carte prête à faire exploser l’ordre du tableau.
 
 ### Éléments de tension et conditions de victoire
 La tension ne vient pas d’un compte à rebours artificiel, mais du timing: vous évaluez le moment où vous devez prendre la carte qui déclenche une chaîne de points ou éviter d’être bloqué par le voisin qui a compris votre plan. Le jeu est court, mais les interactions restent vives et le niveau de satisfaction à la fin est proportionnel à la manière dont vous avez géré vos ensembles. L’édition originale réussit ce pari: vous repartez avec un sentiment d’avoir joué à un mini-jeu qui peut être rejoué en 20 minutes sans que l’effet fatigue n’emporte tout le monde.
@@ -53,7 +53,7 @@ La tension ne vient pas d’un compte à rebours artificiel, mais du timing: vou
 ### Astuces spécifiques pour améliorer son score sans passer par la case improbable de la chance
 - Si vous voyez qu’un type de carte offre une progression stable (par exemple des maki qui s’empilent rapidement), ciblez les duos ou trios qui vous donneront le maximum de points en fin de partie.
 - Priorisez les paires et triplets qui prospèrent lorsque vous pouvez coïncider avec ce que les autres veulent faire. Souvent, bloquer une paire stratégique est aussi important que d’assembler votre propre lot.
-- Utilisez les cartes de type bonus avec parcimonie et à des moments où elles peuvent faire basculer une manche. L'utilisation malheureuse d’un bonus peut vous coûter plus tard dans le match.
+- Utilisez les cartes de type bonus avec parcimonie et à des moments où elles peuvent faire basculer une manche. L’utilisation malheureuse d’un bonus peut vous coûter plus tard dans le match.
 
 ### Lecture des adversaires et adaptation en temps réel
 Le plus grand art du Sushi Go! reste l’observation: qui a commencé à assembler quel type de carte, qui bloque les combinaisons, et qui reste susceptible de paniquer si vous servez une nouvelle chaîne de cartes qui contourne ses plans. Vous n’avez pas besoin d’un manuel de psychologie sociale pour cela; un œil sur les gestes des autres joueurs et une intuition légère suffisent. Et si vous ratez totalement votre estimation, vous pouvez toujours rire de vous-même et relancer une partie—parfois le meilleur plan est de recommencer tout simplement.
@@ -92,7 +92,7 @@ Sushi Go! excelle lors des soirées at home courts, des voyages en train ou des 
 Pour les acheteurs conscients du budget et de la qualité, Sushi Go! reste une valeur sûre qui se revend bien sur le marché d’occasion, en particulier l’édition originale qui a vécu quelques vendanges et qui continue de fonctionner sans problème.
 
 ### Pourquoi ce choix et non un autre dans la même veine
-Le choix de Sushi Go! par rapport à d’autres jeux de rédaction/collection est simple: la capacité de générer des échanges dynamiques et une compétition légère est rare dans des jeux très simples. La version originale innove tout en restant fidèle à l’esprit du concept: rapide, convivial, et accessible. Si vous cherchez un mélange de compétition et d’amusement sans prise de tête, c’est un excellent candidat à ajouter à votre collection.
+Le choix de Sushi Go! par rapport à d’autres jeux de rédaction/collection est simple: la capacité de générer des échanges dynamiques et une compétition légère est rare dans des jeux très simples. La version originale innove tout en restant fidèle à l’esprit du concept: rapide, convivial et accessible. Si vous cherchez un mélange de compétition et d’amusement sans prise de tête, c’est un excellent candidat à ajouter à votre collection.
 
 ## Recommandation Geeknite et verdict final
 ### Notre verdict
