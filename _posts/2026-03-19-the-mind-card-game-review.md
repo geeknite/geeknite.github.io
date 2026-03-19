@@ -1,5 +1,5 @@
 ---
-title: "The Mind Card Game Review Revisited: A Psyche-Delving Party Experience"
+title: The Mind Card Game Review Revisited: A Psyche-Delving Party Experience
 date: 2026-03-19
 tags:
   - board games
@@ -29,7 +29,7 @@ For visual mood lighting, here’s a sneak peek image—because sometimes the vi
 
 ![The Mind card art](assets/images/the-mind.jpg)
 
-## The Mind in a Nutshell: The Core Idea Revisited
+## The Mind in a Nutshell: Core Idea Revisited
 
 The Mind sits in a sweet spot between deck-building-ish simplicity and social experiment boredom buster. Each round, players receive a number of cards equal to the current round (Round 1 = 1 card per player, Round 2 = 2 cards, and so on). The objective is straightforward yet surprisingly tricky: place your cards on a central pile in ascending order without uttering a syllable. If anyone talks, or if a card lands out of turn, penalties stack up. The round ends once a threshold of penalties is reached, and you move to the next round with higher stakes and higher suspense.
 
@@ -39,7 +39,7 @@ For some players, the lack of crunchy decisions is exactly what they want: a rem
 
 Extending beyond a mere card game, The Mind taps into a shared cognitive tempo. It asks you to calibrate your expectations with the room, to trust a neighbor’s unspoken signal, and to accept a misstep as a shared joke rather than a personal failure. The elegance lies in how little the rules demand and how much the room can provide: suspense, empathy, and a surprisingly loud cheer when the sequence finally aligns.
 
-## What You Need and What’s in the Box: A Lean, Travel-Ready Package
+## The Box, Components, and the Lean Package
 
 The Mind is refreshingly lean. The core box is designed for speed, portability, and easy re-playability. Here’s what you’re likely to encounter on the table:
 
@@ -58,7 +58,7 @@ Beyond the floor and the coffee table, there’s a broader ecosystem of light, q
 
 The Mind is famous for its tiny rulebook and outsized effect. Here’s a tightened, practical walkthrough you can skim before your first round:
 
-- Setup: The number of cards each player receives equals the current round number. Round 1 = 1 card per player; Round 2 = 2 cards per player; and so on. The goal is to add cards to the center pile in ascending order without speaking.
+- Setup: The number of cards each player receives equals the current round number. Round 1 = 1 card per player; Round 2 = 2 cards per player; and so on. The goal is to add cards to the center pile in ascending order without speaking. 
 - Turn order: Everyone acts simultaneously in spirit, not in words. You may hold cards, but you can only place a card if it is the next in the global sequence relative to those already played. If you’re unsure, you can pass with a silent nod or a focused stare—though the boundary between nodding and muting will blur as suspense intensifies.
 - Penalties: Speak up, misplay, or let a card slip out of order, and penalties pile up. When the round’s penalty threshold is reached, you stop, tally the score, and move on to the next round (if you survive the emotional gauntlet, that is).
 - Endgame: A typical session lasts about 15 to 25 minutes, but the actual hour of laughter and whispered fear can feel longer depending on your crew. The point isn’t to out-wait a puzzle; it’s to synchronize your mental tempo with your friends’ breath and posture.
@@ -74,7 +74,7 @@ If you’re after a quick taste of that social experiment vibe, consider a few s
 
 - Time pressure: a soft timer that nudges rounds along without breaking the no-talking rule.
 - Non-verbal signaling: agreed-upon table patterns or gestures to hint at intent, kept light and goofy.
-- Rotating judge: a non-playing participant who gently “flags” rule breaks to maintain the social governance without sour notes.
+- Rotating judge: a non-playing participant who gently can flag rule breaks to maintain the social governance without sour notes.
 
 ## The Social Experience: When Silence Becomes Comedy Gold
 
@@ -106,7 +106,7 @@ If heavier or more tactical play is your jam, you can browse our Best Co-Op Part
 - Social groups that enjoy playful experimentation and the thrill of shared risk under a calm, silent framework. If you like micro-competition and a pinch of luck, you’ll feel right at home.
 - Casual party gamers who want a palate cleanser between longer, heavier sessions. The Mind can be a fast reset after dinner when you want a quick sparkle of tension without pulling out a giant rulebook.
 
-On the flip side, if your table loves deep strategic planning, long-term puzzle solving, or boisterous verbal banter, The Mind’s quiet, non-verbal approach can feel like a mismatch. It’s not that the game is exclusive; it’s that the vibe isn’t a natural fit for groups who measure every round by deep strategy rather than shared experience. If that sounds like your crew, consider pairing with more robust co-ops or strategy games and then return to The Mind for a short, sharp finale.
+On the flip side, if your table loves deep strategic planning, long-form puzzle solving, or boisterous verbal banter, The Mind’s quiet, non-verbal approach can feel like a mismatch. It’s not that the game is exclusive; it’s that the vibe isn’t a natural fit for groups who measure every round by deep strategy rather than shared experience. If that sounds like your crew, consider pairing with more robust co-ops or strategy games and then return to The Mind for a short, sharp finale.
 
 ## Variants, Expansions, and Longevity Tips
 
