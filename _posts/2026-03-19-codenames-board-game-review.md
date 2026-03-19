@@ -1,5 +1,5 @@
 ---
-ttitle: Codenames Board Game Review — Geeknite Reloaded
+title: Codenames Board Game Review — Geeknite Reloaded
 date: 2026-03-19
 tags:
   - board games
@@ -11,18 +11,18 @@ tags:
 ---
 
 ## Introduction
-Codenames is the kind of board game that makes your friends rethink their definition of a good time. It is simple to learn, brutal in practice, and somehow manages to turn a quiet living room into a high stakes sprint for wittiness. This is a brand new, sealed copy of the classic word-linking showdown crafted by Vlaada Chvátil and published by Czech Games Edition back in 2015. If you want to test your team building without signing up for a trust fall exercise, Codenames is your playground — and yes, it ages gracefully with every re-pact to reach for the assassin word without screaming in chaos.
+Codenames is the kind of board game that makes your friends rethink their definition of a good time. It is simple to learn, brutal in practice, and somehow manages to turn a quiet living room into a high-stakes sprint for wit and word cheese. This is a brand-new, sealed copy of the classic word-linking showdown crafted by Vlaada Chvátil and published by Czech Games Edition back in 2015. If you want to test your team-building without signing up for a trust-fall exercise, Codenames is your playground — and yes, it ages gracefully with every re-release, new variant, and frantic improv clue you toss into the mix.
 
-In Geeknite fashion we treat this game not as a mere pastime but as a social experiment in language, deduction, and the occasional betrayal of a teammate. The goal is not to reveal every word on the grid, but to reveal the right words so your team can celebrate like they also won the spelling bee for grownups. Spoiler alert: it rarely ends with everyone clapping politely. More often it ends with a triumphant yell and a sprint to the card box to add another round to the score sheet.
+In Geeknite fashion we treat this game not as a mere pastime but as a social experiment in language, deduction, and the occasional betrayal of a teammate (in the name of victory, of course). The goal is not to reveal every word on the grid, but to reveal the right words so your team can celebrate like they just won the spelling bee for grownups. Spoiler: it rarely ends with everyone clapping politely. More often it ends with a triumphant yell and a sprint to the card box to add another round to the score sheet.
 
 ![Codenames board game cover]({{ '/assets/images/codenames-board-game.jpg' | relative_url }})
 
-In this updated take, we roll up the sleeves, sharpen the puns, and add a few field notes from nights that felt like improv class with a dictionary and a timer. If you’ve played Codenames before, expect a few fresh riffs on the same core mechanic. If you’re new, buckle up: you’re about to discover a game that teaches you how to think fast, how to trust your gut, and how to steer a conversation away from “Is that a car or a cat?” toward team victory.
+In this Geeknite Reloaded update we roll up the sleeves, sharpen the puns, and add a few field notes from nights that felt like improv class with a dictionary and a ticking timer. If you’ve played Codenames before, expect a few fresh riffs on the same core mechanic. If you’re new, buckle up: you’re about to discover a game that teaches you how to think fast, how to trust your gut, and how to steer a conversation away from “Is that a car or a cat?” toward team victory. And yes, we will repeat the wordplay until the room politely begs for mercy and a fresh cup of coffee.
 
 ## Origin and designer
-Codenames was designed by the wizard of witty wordplay, Vlaada Chvátil. The game is published by Czech Games Edition, a company known for its crisp components and clever pack-in surprises. The premise is deceptively simple: two teams compete to contact all of their agents by giving one word clues that link several codename words on the board. The catch is that you cannot reveal the assassin word, because if you do you lose the game instantly. It is a high wire act of language and strategy, performed without a safety net.
+Codenames was designed by the wizard of witty wordplay, Vlaada Chvátil. The game is published by Czech Games Edition, a company known for crisp components and clever pack-in surprises. The premise is deceptively simple: two teams compete to contact all of their agents by giving one-word clues that link several codename words on the board. The catch is that you cannot reveal the assassin word, because if you do you lose the game instantly. It is a high-wire act of language and strategy, performed without a safety net.
 
-For the uninitiated, the board contains 25 codename cards arranged in a 5 by 5 grid. Each card bears a word. Some words are red team words, some blue team words, some are innocent bystander words, and one is the assassin. The Spymaster — ideally the team member who loves olive-oil-level puns and terrible puns at the same time — gives a one word clue and a number indicating how many words on the board relate to that clue. The rest of the team then tries to guess those words in the correct order without stepping on any trap cards. Simple, elegant, and occasionally brutal.
+For the uninitiated, the board contains 25 codename cards arranged in a 5 by 5 grid. Each card bears a word. Some words are red team words, some blue team words, some are innocent bystander words, and one is the assassin. The Spymaster — ideally the team member who loves olive-oil-level puns and terrible puns at the same time — gives a one-word clue and a number indicating how many words on the board relate to that clue. The rest of the team then tries to guess those words in the correct order without stepping on any trap cards. Simple, elegant, and occasionally brutal.
 
 Over the years Codenames has become a template more than a single game. It spawned variants, theme decks, and cooperative siblings that test whether you should keep your friends or trash your living room cushions after a bad clue. Vlaada’s design philosophy here is worth a quick note: give players a shared playground, give them a nudge (the clue), and then trust the human brain to do the rest. The assassin word is not a puzzle to solve but a safety valve — a reminder that some words are better left unsaid.
 
@@ -35,7 +35,7 @@ Yes, you can grasp the gist in under a minute, but good play takes hours of prac
 - The Spymaster looks at the key card and explains the plan to their team using a single word clue and a number. The rest of the team scribbles like a grad student trying to survive finals, but with more laughter and less caffeine-induced panic.
 
 ### The turn
-- The Spymaster gives a one word clue plus a number. The clue must relate to one or more words on the board. The number indicates how many words on the board connect to that clue.
+- The Spymaster gives a one-word clue plus a number. The clue must relate to one or more words on the board. The number indicates how many words on the board connect to that clue.
 - The players discuss and guess words, one at a time. They can stop guessing at any time and turn the turn over to the other team if they think they have all the matches. If a guessed word belongs to their team, it is covered with their color card. If it belongs to the opposing team, it is covered with the opposing color card and that team gets a turn. If an innocent bystander word is chosen, the turn ends. If the assassin word is chosen, the guessing team instantly loses. Remember: nerves are allowed, but not the assassin.
 
 ### Endgame
@@ -69,7 +69,7 @@ Even when you think you have the hang of it, a misfire can turn a win into a cra
 Codenames has grown into a little ecosystem of variants and expansions that keep the core idea fresh while letting you tweak the vibe.
 
 ### Codenames Pictures
-In Pictures, the grid cards replace words with pictures. The guessing dynamic remains the same, but the bridge between clue and image invites a different kind of creativity. Picture clues can be more visual and less textual, which often reduces the risk of pun overload and increases the hilarity of interpretation. It is a, dare we say, postcard from a brain where a doodle can beat a sentence in a spelling bee.
+In Pictures, the grid cards replace words with pictures. The guessing dynamic remains the same, but the bridge between clue and image invites a different kind of creativity. Picture clues can be more visual and less textual, which often reduces the risk of pun overload and increases the hilarity of interpretation. It is a postcard from a brain where a doodle can beat a sentence in a spelling bee.
 
 ### Codenames Duet
 Duet pivots to a cooperative experience for two players. The shared objective is to work together to contact all their words without triggering the assassin. The dynamic changes from competition to collaboration, offering a different flavor of tension where you both root for the same success rather than outsmarting a rival team. It scales well for a quiet date night that somehow ends with a victory royale and a celebratory pizza.
@@ -89,7 +89,7 @@ A note on ambient chaos: do not play this in a room with a strict no-laugh polic
 ## Components and aesthetics
 Codenames keeps it clean and accessible. The components are sturdy and functional, designed to support quick setup and teardown without sacrificing tactile charm. The words on the codename cards are bold enough to be legible in dim lighting but not so busy that they steal the spotlight from your clues. The grid layout stays stable on most tables, and the marker cards stay put, which matters when your team suddenly erupts into a giddy ruckus and you forget which side you’re on.
 
-In the end, the tactile experience matters. The cards shuffle smoothly, the grid sits flat on a coffee table without drifting into the land of accidental spillover, and the Spymaster’s key card is the kind of slyly simple tool that makes you wonder why more games don’t include a tiny brain at the table. The components are not flashy, but they are dependable, like a favorite pair of sneakers that you trust to carry you through a night of questionable decicions and triumphant wordplay alike.
+In the end, the tactile experience matters. The cards shuffle smoothly, the grid sits flat on a coffee table without drifting into the land of accidental spillover, and the Spymaster’s key card is the kind of slyly simple tool that makes you wonder why more games don’t include a tiny brain at the table. The components are not flashy, but they are dependable, like a favorite pair of sneakers that you trust to carry you through a night of questionable decisons and triumphant wordplay alike.
 
 ## Strategy tips for new teams
 If you want to boost your odds without turning into a crossword encyclopedia, try these quick strategies:
@@ -147,7 +147,7 @@ Codenames remains a gem because it respects your brain without demanding a degre
 If you crave a party game that scales from a few players to a larger group, with enough variety to keep things interesting, Codenames is a top pick on the Geeknite shelf. It is not just about victory; it is about the energy you create on game night and the stories you carry forward to the next session. The right blend of wordplay, misdirection, and camaraderie means you will reach for this one again when the crew gathers and the room smells faintly of coffee and potential reputations being rebuilt word by word.
 
 ## Final recommendation
-For most groups looking for a fast, funny, wordy experience that has room for both clever play and silly mistakes, Codenames is a must try. It shines in mixed company and gives you a reason to judge your friends by their ability to connect words in a sentence that somehow makes sense to everyone else at the table. It rewards creativity, pun lovers, and teams with equally sharp wits. It rewards patience and punishing misfires with equal gusto, which is exactly what makes it memorable.
+For most groups looking for a fast, funny, wordy experience that has room for both clever play and silly mistakes, Codenames is a must-try. It shines in mixed company and gives you a reason to judge your friends by their ability to connect words in a sentence that somehow makes sense to everyone else at the table. It rewards creativity, pun lovers, and teams with equally sharp wits. It rewards patience and punishing misfires with equal gusto, which is exactly what makes it memorable.
 
 If you want to bring the energy of the night to your home, pick up Codenames and its variants, gather a crew, and prepare for a cascade of wordplay that will haunt your dreams and your conversations for weeks to come. The table will fill with laughter, the room will buzz with ideas, and you will realize that a single word can open up a universe of misinterpretation and delight.
 
