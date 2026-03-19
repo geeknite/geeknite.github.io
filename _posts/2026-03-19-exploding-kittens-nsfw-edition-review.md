@@ -122,7 +122,89 @@ Given the balance of accessible rules, a strong social component, and a humor do
 
 **Buy it now via our affiliate link: https://amzn.to/EXKNSFW**
 
-## Expanded appendix: play feel, anecdotes, and a couple of redacted stories
+Expanded appendix: play feel, anecdotes, and a couple of redacted stories
+Here are a few quick vignettes from actual sessions (names redacted for privacy but the chaos remains intact):
+- In one round, a defender card was claimed with a confident wink and a line about “protecting feline heritage,” which caused three attendees to snort coffee and almost volatilize a couch cushion. Lesson: bold just works, if you read the room.
+- A misdirection line about “napping like a calendar invite” somehow convinced a skeptical player to bluff, resulting in a wildly funny exchange that ended in a mutual agreement to never speak of that exact hand again outside the group chat.
+- A boundary-setting moment almost derailed the evening but was handled with a quick pause, a sip of water, and a gentle nudge back toward the silly. The rest of the night was a blur of jokes, giggles, and a few suspicious stares directed at the Exploding Kitten card.
+
+If you want more play-by-play, we detail a couple of full rounds in a later post, including the exact cards in play, the statements used to bluff, and the moment a joke landed so perfectly that the table declared a “Laugh-Stop” to reset for the next round.
+
+## Quick setup and teardown checklist
+- Pre-game vibe check: five minutes to confirm comfort levels and safe words.
+- Table space: clear a wide ring around the play area so cards don’t vanish into couch cushions.
+- Lighting: soft but enough to read the jokes without eye strain; dim lighting can make the puns land better or worse depending on misdirection.
+- Snack plan: something easy to eat with one hand; avoid saucy dips that could ruin the cards.
+- Post-game debrief: a quick memo about what jokes landed best and which topics to avoid next time keeps the mood light and the stories circulating.
+
+## Accessibility and inclusivity notes
+We recognize that NSFW content can land differently across communities. The NSFW Edition remains a conversation starter about consent and boundaries. The key is to set expectations clearly: what topics are on the table, which lines are off-limits, and how to pause or reframe if a line goes too far. For players who need accommodations, we appreciate font clarity, contrasting icons, and legible typography in the card art. The design team has attempted to balance humor with readability and inclusivity, but every table will have its own rhythm. If you have a friend who benefits from bigger text or clear color cues, you’ll likely notice the micro-choices in the art and layout that help everyone stay in the game—and the joke.
+
+## Box contents: value, expansions, and future keepsakes
+The NSFW Edition has enough content to justify a second box if your group loves the format. The base deck is a gateway to expansions or add-ons that dial humor up or down as needed. If you are price-conscious, you might want to test the waters with the core deck first and then decide if the jokes are worth the upgrade for your crew. In practice, the box is a party you can unpack, and each box opening has the potential to become a memory in your group’s lore.
+
+## A note on pacing across sessions
+Even though the NSFW Edition keeps the base-punch-line structure, the energy in your table shifts from night to night. Some sessions feel like a rapid-fire improv set; others drift into lengthy banter about life choices as lascivious as a cat’s calendar. The key is to ride the wave: don’t force the pace, allow players to savor a good pun, and recognize when a round needs a reset to preserve the fun rather than burn out the vibe.
+
+## External looks and references
+For readers curious about broader table-top humor and tone management, you can explore our discussion on party-game dynamics in articles such as our guide to party games and tone, and a deeper dive into audience alignment. External resources can provide helpful frameworks for deciding what to bring to a social night and how to read a room before cracking the first card. If you’re into the bigger picture of game-night etiquette, check out our recommended reads and community notes linked here.
+
+## A few closing thoughts on the NSFW flavor
+If you want a quick baseline: the NSFW Edition is the same core game with a much spicier personality. It thrives in rooms where people know how to laugh with each other and at themselves. It falters when a room uses humor as a hammer rather than a spark. The decision to bring this edition to your table should come with a conversation about boundaries, not just bravado. If you and your crew enjoy the blend of chaos, risk, and cat-themed one-liners, you’ve found a great match. If that sounds like torture to you, there are plenty of milder party games that will scratch the same gaming itch without the risqué flair.
+
+## The final scoreboard: who should buy this edition?
+- Best fit: groups that want a high-energy, ultra-social experience with a quick round timer and a lot of shared storytelling.
+- Okay fit: players who enjoy edgy humor but want some safety rails and a handful of pre-agreed boundaries.
+- Not a fit: players who crave long-form strategy or a strictly clean humor environment; for them, this edition will feel like wearing sunglasses indoors at a ballet.
+
+If you are still on the fence, remember that the best moments come not from the cards themselves but from the people around the table who decide to lean into the chaos together. When the room chooses to laugh, the jokes land harder, and the game becomes a memory you’ll retell at future game nights with the same gleeful shudder every time an Exploding Kitten lands on the table.
+
+**Grab your copy and join the mischief this edition is built to get the room roaring and the dice sweating.**
+
+**Buy it now via our affiliate link: https://amzn.to/EXKNSFW**
+
+Expanded appendix: play feel, anecdotes, and a couple of redacted stories
+Here are a few quick vignettes from actual sessions (names redacted for privacy but the chaos remains intact):
+- In one round, a defender card was claimed with a confident wink and a line about “protecting feline heritage,” which caused three attendees to snort coffee and almost volatilize a couch cushion. Lesson: bold just works, if you read the room.
+- A misdirection line about “napping like a calendar invite” somehow convinced a skeptical player to bluff, resulting in a wildly funny exchange that ended in a mutual agreement to never speak of that exact hand again outside the group chat.
+- A boundary-setting moment almost derailed the evening but was handled with a quick pause, a sip of water, and a gentle nudge back toward the silly. The rest of the night was a blur of jokes, giggles, and a few suspicious stares directed at the Exploding Kitten card.
+
+If you want more play-by-play, we detail a couple of full rounds in a later post, including the exact cards in play, the statements used to bluff, and the moment a joke landed so perfectly that the table declared a “Laugh-Stop” to reset for the next round.
+
+## Quick setup and teardown checklist
+- Pre-game vibe check: five minutes to confirm comfort levels and safe words.
+- Table space: clear a wide ring around the play area so cards don’t vanish into couch cushions.
+- Lighting: soft but enough to read the jokes without eye strain; dim lighting can make the puns land better or worse depending on misdirection.
+- Snack plan: something easy to eat with one hand; avoid saucy dips that could ruin the cards.
+- Post-game debrief: a quick memo about what jokes landed best and which topics to avoid next time keeps the mood light and the stories circulating.
+
+## Accessibility and inclusivity notes
+We recognize that NSFW content can land differently across communities. The NSFW Edition remains a conversation starter about consent and boundaries. The key is to set expectations clearly: what topics are on the table, which lines are off-limits, and how to pause or reframe if a line goes too far. For players who need accommodations, we appreciate font clarity, contrasting icons, and legible typography in the card art. The design team has attempted to balance humor with readability and inclusivity, but every table will have its own rhythm. If you have a friend who benefits from bigger text or clear color cues, you’ll likely notice the micro-choices in the art and layout that help everyone stay in the game—and the joke.
+
+## Box contents: value, expansions, and future keepsakes
+The NSFW Edition has enough content to justify a second box if your group loves the format. The base deck is a gateway to expansions or add-ons that dial humor up or down as needed. If you are price-conscious, you might want to test the waters with the core deck first and then decide if the jokes are worth the upgrade for your crew. In practice, the box is a party you can unpack, and each box opening has the potential to become a memory in your group’s lore.
+
+## A note on pacing across sessions
+Even though the NSFW Edition keeps the base-punch-line structure, the energy in your table shifts from night to night. Some sessions feel like a rapid-fire improv set; others drift into lengthy banter about life choices as lascivious as a cat’s calendar. The key is to ride the wave: don’t force the pace, allow players to savor a good pun, and recognize when a round needs a reset to preserve the fun rather than burn out the vibe.
+
+## External looks and references
+For readers curious about broader table-top humor and tone management, you can explore our discussion on party-game dynamics in articles such as our guide to party games and tone, and a deeper dive into audience alignment. External resources can provide helpful frameworks for deciding what to bring to a social night and how to read a room before cracking the first card. If you’re into the bigger picture of game-night etiquette, check out our recommended reads and community notes linked here.
+
+## A few closing thoughts on the NSFW flavor
+If you want a quick baseline: the NSFW Edition is the same core game with a much spicier personality. It thrives in rooms where people know how to laugh with each other and at themselves. It falters when a room uses humor as a hammer rather than a spark. The decision to bring this edition to your table should come with a conversation about boundaries, not just bravado. If you and your crew enjoy the blend of chaos, risk, and cat-themed one-liners, you’ve found a great match. If that sounds like torture to you, there are plenty of milder party games that will scratch the same gaming itch without the risqué flair.
+
+## The final scoreboard: who should buy this edition?
+- Best fit: groups that want a high-energy, ultra-social experience with a quick round timer and a lot of shared storytelling.
+- Okay fit: players who enjoy edgy humor but want some safety rails and a handful of pre-agreed boundaries.
+- Not a fit: players who crave long-form strategy or a strictly clean humor environment; for them, this edition will feel like wearing sunglasses indoors at a ballet.
+
+If you are still on the fence, remember that the best moments come not from the cards themselves but from the people around the table who decide to lean into the chaos together. When the room chooses to laugh, the jokes land harder, and the game becomes a memory you’ll retell at future game nights with the same gleeful shudder every time an Exploding Kitten lands on the table.
+
+**Grab your copy and join the mischief this edition is built to get the room roaring and the dice sweating.**
+
+**Buy it now via our affiliate link: https://amzn.to/EXKNSFW**
+
+Expanded appendix: play feel, anecdotes, and a couple of redacted stories
 Here are a few quick vignettes from actual sessions (names redacted for privacy but the chaos remains intact):
 - In one round, a defender card was claimed with a confident wink and a line about “protecting feline heritage,” which caused three attendees to snort coffee and almost volatilize a couch cushion. Lesson: bold just works, if you read the room.
 - A misdirection line about “napping like a calendar invite” somehow convinced a skeptical player to bluff, resulting in a wildly funny exchange that ended in a mutual agreement to never speak of that exact hand again outside the group chat.
