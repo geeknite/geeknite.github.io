@@ -1,5 +1,5 @@
 ---
-title: 'The Saboteur PS3 CIB Revisited: A Geeknite Open-Box Revisit, Expanded (2.0)'
+ttitle: 'The Saboteur PS3 CIB Revisited: A Geeknite Open-Box Revisit, Expanded (2.0)'
 date: 2026-03-19
 tags:
   - retro
@@ -21,13 +21,13 @@ tags:
 
 ![Saboteur PS3 cover]({{ site.baseurl }}/assets/images/the-saboteur-ps3-cover.jpg)
 
-The Saboteur on the PlayStation 3 wears its late-2000s cinema influences like a neon scarf and a fedora that refuses to stay put. It leans into big cinematic swings while sneaking in a color mechanic that could double as a rebellious mood ring for your TV. If you happen to stumble upon a pristine CIB (complete-in-box) copy, you’re not just buying a disc—you’re acquiring a small, dusty diorama of an era when packaging was part of the show. Welcome to Geeknite’s expanded, dustier, louder revisit of The Saboteur, now with extra gloss, extra grit, and a manual that smells like a garage-sale bookmark. Let’s crack the box and dive into a review that treats a box as a gateway to Parisian intrigue and neon-red revolution.
+The Saboteur on the PlayStation 3 wears its late-2000s cinema influences like a neon scarf and a fedora that refuses to stay put. It swings for big cinematic moments while sneaking in a color mechanic that could double as a rebellious mood ring for your TV. If you happen to stumble upon a pristine CIB (complete-in-box) copy, you’re not just buying a disc—you’re acquiring a small, dusty diorama of an era when packaging was part of the show. Welcome to Geeknite’s expanded, dustier, louder revisit of The Saboteur, now with extra gloss, extra grit, and a manual that smells like a garage-sale bookmark. Let’s crack the box and dive into a review that treats a box as a gateway to Parisian intrigue and neon-red revolution.
 
 ## Introduction: cinema, chaos, and color revisited (with more dust)
 
 The Saboteur drops you into Nazi-occupied Paris with a setup that sounds like a weekend binge of vintage noir: Sean, a racer-turned-resistance operative, must blend stealth, brawler action, and a dash of platforming into a package that says: “We’re going to paint Paris in color because color is rebellion.” The PS3 version—one of the late-gen showcases—aims for cinematic spectacle while juggling an ambitious sandbox promise. And yes, the color mechanic remains the star: grayscale streets bloom into technicolor rebellion at your touch. It’s not just pretty; it’s a storytelling device you literally paint with your choices.
 
-The tangible magic of CIB packaging isn’t a relic; it’s a time capsule you can physically flip through, a small ritual that says: “You owned this moment.” If you’ve found a CG-free, lightly scuffed, lovingly wrapped CIB copy, you’re not just buying a game—you’re buying a page from a diary where art direction and packaging design mattered as much as the code that runs the console. The Saboteur’s physical presentation acts as a conversation starter at least as much as a justification for the time you’ll waste chasing color blooms across a city that’s learned to breathe in neon. 
+The tangible magic of CIB packaging isn’t a relic; it’s a time capsule you can physically flip through, a small ritual that says: “You owned this moment.” If you’ve found a CG-free, lightly scuffed, lovingly wrapped CIB copy, you’re not just buying a game—you’re buying a page from a diary where art direction and packaging design mattered as much as the code that runs the console. The Saboteur’s physical presentation acts as a conversation starter at least as much as a justification for the time you’ll waste chasing color blooms across a city that’s learned to breathe in neon.
 
 ### The tangible thrill of CIB is real, amplified by a well-kept spine
 
