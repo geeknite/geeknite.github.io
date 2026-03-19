@@ -77,7 +77,7 @@ The NSFW Edition does not reinvent the wheel; it refashions the wheel with sharp
 
 The design team also pays attention to accessibility cues more than you might expect. Font sizing, iconography, and color contrast are chosen to keep players engaged even after a long week at the office. If you’ve got a friend who benefits from larger text or clearer contrast, you’ll appreciate that the visual language isn’t a single joke slapped onto a card—it's a system that can be parsed quickly even when the room is roaring.
 
-## Tips for getting the most out of your NSFW game night
+## Tips for getting the most out of your NSFW game night (part deux)
 - Set ground rules before you start. A quick “no crossing lines” chat can save everyone from awkward pauses later. Consider a one-sentence exit phrase if a joke lands too hard.
 - Use a mix of ambient drinks and casual dare elements if your group is up for it, but keep water handy for those moments you realize your hand is about to hash itself into oblivion.
 - Rotate the “narrator” role to keep the energy fresh. The person describing the action tends to set the tone for the round, so let someone confident lead the silly commentary at least once per session.
@@ -91,6 +91,7 @@ If you want to stretch your NSFW night beyond chaotic laughter, lean into social
 - Use storytelling to disguise your hand. If you’re short on cards, craft a mini-narrative about how your next move will “sprout wings and fly the kitten away”—some players will buy it, especially if you pepper it with believable tells.
 - Exploit table inertia. People are more likely to play aggressively after a string of safe rounds. If you sense rider fatigue, introduce a bold move that shifts the tempo and reignites tension.
 - Keep track of safe words and pre-agreements. If someone uses a phrase like “that crossed a line” during a round, honor it with a quick pause and possibly a tactical re-roll or a shift in the banter direction.
+- Build small meta-threads: a running gag about a single character or catchphrase can provide continuity that makes subsequent rounds land harder or funnier.
 
 ## Pros and Cons, a quick field report
 - Pros:
@@ -130,12 +131,13 @@ The NSFW Edition does not re-invent the wheel; it refashions the wheel with shar
 
 The design team also pays attention to accessibility cues more than you might expect. Font sizing, iconography, and color contrast are meant to be inclusive for a wide range of players who may be joining in after a long week at the office. If you’ve got a friend with mild visual impairment or a preference for larger text, you’ll find that a lot of the visual work translates reasonably well to a peripheral glance—though the humor itself may require a second setup for some players who want to really savor each punchline.
 
-## Tips for getting the most out of your NSFW game night (part deux)
+## Tips for getting the most out of your NSFW game night (part trois)
 - Add a pre-game vibe check. A quick “are we good with this?” goes a long way toward avoiding mood derailments before the first card is drawn.
 - Consider adding a rotation of mini-challenges between rounds. A one-word story, a quick improv gag, or a silly face-off can reset the room when jokes drift into repetitive territory.
 - Keep a small “safe words” stash visible. A single agreed term can save a session from turning awkward into awkward silence.
 - Use a few light, optional power-ups for spice without tipping the balance. For example, allow one “gag rule” per game where a player’s misdirection must be exaggerated for comedic effect, not for personal attack.
 - If your group is new to NSFW content, start with a milder expansion or a few House Rules to set expectations. You can escalate as comfort grows.
+- Capture the funny moments. A quick phone note about a particularly wild line can be a souvenir worthy of a future game night montage.
 
 ## The Geeknite verdict
 - Is it the best pick for a late-night adult game session? It’s in the running if your crew loves fast rounds, bold jokes, and rapid-fire decisions.
@@ -150,4 +152,4 @@ Given the balance of accessible rules, a strong social component, and a humor do
 ### The final call to action
 **Grab your copy and join the mischief—this edition is built to get the room roaring and the dice sweating.**
 
-**Buy it now via our affiliate link: https://amzn.to/EXKNSFW**
+**Buy it now via our affiliate link: https://amzn.to/EXKNSFW
