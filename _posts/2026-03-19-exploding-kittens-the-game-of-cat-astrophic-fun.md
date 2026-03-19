@@ -1,5 +1,5 @@
 ---
-title: Exploding Kittens: The Game of Cat-astrophic Fun (Reloaded)
+title: "Exploding Kittens: The Game of Cat-astrophic Fun (Reloaded)"
 date: 2026-03-19
 tags:
   - board games
@@ -15,7 +15,9 @@ Exploding Kittens is the kind of game that makes you question every life choice 
 
 If you have ever whispered a pun at a table full of players while the draw pile shrieks with impending doom, you know this vibe. The aim is simple: dodge the Exploding Kitten, use Defuse cards to survive, and cultivate a reputation for being either a tactical genius or a reckless chaos magnet—depending on who you ask mid-game. And yes, you’ll probably use a few kitten GIFs in your victory lap, because memes are the official language of Exploding Kittens.
 
-A lot of players treat Exploding Kittens as a dumb party game with cat content for days, and that characterization isn’t entirely wrong. But the genius here isn’t merely the jokes. It’s the mechanics that keep everyone at the table on their toes, the social mischief that unfolds as players bluff, bluff again, and then act surprised when the deck betrays them. It plays fast, scales from 2 to 5 players in the base box, and with expansions or house rules, you can push the chaos to glorious new levels. For a more chaotic but equally entertaining alternative, see our post on party card games that will destroy friendships in the best possible way {% post_url 2024-12-03-best-party-games %}.
+A lot of players treat Exploding Kittens as a dumb party game with cat content for days, and that characterization isn’t entirely wrong. But the genius here isn’t merely the jokes. It’s the mechanics that keep everyone at the table on their toes, the social mischief that unfolds as players bluff, bluff again, and then act surprised when the deck betrays them. It plays fast, scales from 2 to 5 players in the base box, and with expansions or house rules, you can push the chaos to glorious new levels.
+
+For a more chaotic but equally entertaining alternative, see our post on party card games that will destroy friendships in the best possible way {% post_url 2024-12-03-best-party-games %}.
 
 And for those curious minds who prefer a visual vibe to their prose, I’ve tucked in a banner below to capture the vibe of a table that suddenly erupts into cat-themed chaos.
 
