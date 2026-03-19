@@ -7,10 +7,11 @@ tags:
   - Review
   - Geeknite
   - German
+  - Herd Mentality
 ---
 
 ## Einleitung
-Herd Mentality ist kein klassisches Denkspiel. Es ist eher eine psychologische Achterbahn, verpackt in Karton, Glitzer und die Sehnsucht nach einer gemeinsamen Lachphase. In jeder Runde geht es darum, die Mehrheitsantwort zu erraten, doch die wahren Gewinne liegen in der Art, wie Gruppe, Spielfreundschaften und Ego miteinander tanzen. Für Geeknite ist dieses Spiel ein Paradebeispiel dafür, wie leicht sich menschliche Neigungen in einem Kartendeck widerspiegeln lassen – und wie großartig es ist, wenn man darüber lachen kann. Wir haben Herd Mentality in mehreren Gruppen getestet: mit Nerds, mit Familien, mit Team-Building-Experten und sogar mit einer Katze, die offensichtlich die Meta-Ebene verpasst hat. Das Ergebnis: Es funktioniert am besten, wenn man es locker nimmt und sich darauf einlässt, gelegentlich völlig absurde Antworten zu geben – denn genau diese Antworten machen die Runde so erinnerungswürdig.
+Herd Mentality ist kein klassisches Denkspiel. Es ist eine psychologische Achterbahn, verpackt in Karton, Glitzer und die Sehnsucht nach einer gemeinschaftlichen Lachphase. In jeder Runde geht es darum, die Mehrheitsantwort zu erraten, doch die wahren Gewinne liegen in der Art, wie Gruppe, Spielfreundschaften und Ego miteinander tanzen. Für Geeknite ist dieses Spiel ein Paradebeispiel dafür, wie leicht sich menschliche Neigungen in einem Kartendeck widerspiegeln lassen – und wie großartig es ist, wenn man darüber lachen kann. Wir haben Herd Mentality in mehreren Gruppen getestet: mit Nerds, mit Familien, mit Team-Building-Experten und sogar mit einer Katze, die offensichtlich die Meta-Ebene verpasst hat. Das Ergebnis: Es funktioniert am besten, wenn man es locker nimmt und sich darauf einlässt, gelegentlich völlig absurde Antworten zu geben – denn genau diese Antworten machen die Runde so erinnerungswürdig.
 
 ### Warum dieses Spiel?
 Viele Denksportspiele verlangen Konzentration, logische Schlüsse oder strikte Regeln. Herd Mentality kehrt das Prinzip um: Es belohnt nicht, wer am scharfsinnigsten denkt, sondern wer am treffendsten die Gedanken der Gruppe vorhersagt – und dabei selbst ein wenig seine eigenen Vorannahmen reflektiert. Das ist eine wunderbare Gelegenheit, in einer sicheren Umgebung mit Freunden zu experimentieren, zu scheitern und anschließend gemeinsam zu lachen. Und ja, es gibt Momente, in denen du plötzlich weißt, dass deine Mutter besser in Popkultur verankert ist als du, und das ist völlig in Ordnung.
@@ -76,6 +77,12 @@ Die Grafik ist modern, nicht retro-pickle, was dem Spiel eine frische Note gibt.
 - Familiennächte: Haustiere, Familienhumor, Nostalgie – egal, die Familie wird lachen, und ihr könnt am Ende eine Debatte über Nostalgie führen. Wenn Oma gern mitspielt, passen die Prompts oft so, dass niemand überfordert ist.
 - Team-Events: Eine gute Option für Team-Building-Events, um Kommunikation und Verständnis füreinander zu fördern. Dabei zahlt sich aus, dass Moderation klare Zeitfenster festlegt und gegebenenfalls Punkte visualisiert werden, damit niemand im Raum seine Kaffeepause verpasst.
 - Geek-Events: Perfekt, um bei Conventions oder Nerd-Meetups einen Abend mit Stand-up-Spaß und Denksport zu kombinieren. Die Partysession lässt sich gut als Programmpunkt in einem Panel oder Workshop integrieren.
+
+### Praktische Tipps für den Einsatz
+- Beginnt mit leichten Prompts, damit sich Neulinge nicht sofort unter Druck gesetzt fühlen. Ein sanfter Einstieg sorgt für mehr Mut bei den späteren Runden.
+- Plant eine kurze Pause nach drei bis vier Runden. Gruppendynamik braucht manchmal eine Verschnaufpause, damit niemand die Nerven verliert.
+- Tauscht Rotationen aus: Lasst abwechselnd Moderatoren, um unterschiedliche Spielstile zu testen. So vermeidet ihr, dass eine einzige Spielstrategie zu dominant wird.
+- Notiert vor der Runde, welche Referenzen in eurer Gruppe wahrscheinlich gut funktionieren. Das spart Zeit und erhöht die Trefferquote bei Mehrheitsantworten.
 
 ## Vergleich mit ähnlichen Denksportspielen
 Im Themenraum der Partyspiele mischt Herd Mentality Elemente von Dixit, Time's Up und Codenames, mischt aber die soziale Dynamik so, dass die Gruppe im Vordergrund bleibt. Während Dixit stark auf Bilder setzt und Codenames auf Wortassoziationen baut, legt Herd Mentality den Fokus darauf, wie die Gruppe denkt – und wie du dich in dieser Gruppe verhältst. Es ist keine Taktik, die in Spielen mit komplexen Mechaniken trennt, aber es ist eine Taktik, die im echten Leben oft den Unterschied macht: Wie du mit anderen interagierst, wie du dich anpasst, wie du dein Publikum liest. Die Herausforderung ist, die Balance zwischen Ehrlichkeit und Spielwitz zu finden – und das gelingt in den meisten Runden erstaunlich gut.
