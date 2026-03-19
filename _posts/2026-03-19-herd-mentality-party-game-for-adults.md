@@ -20,6 +20,8 @@ The core mechanic translates to a few friendly rules you can memorize during the
 
 If you want a quick product overview, Herd Mentality typically supports 3–20 players, with playtime around 20–30 minutes per round set. It’s designed for ages 14 and up, but as any responsible adult will tell you, maturity is overrated on a Friday. The box usually includes a deck of prompt cards, answer tokens, voting chips, and a timer or turn tracker depending on the edition. The quality of cards ranges from clever and insightful to delightfully silly, which is exactly the bandwidth you want for a party game that relies on quick thinking and even quicker judgments about what people will say.
 
+![Herd in action](https://example.com/images/herd-mentality-in-action.jpg)
+
 ## What’s in the box?
 
 In a typical Herd Mentality box, you should expect the following core components:
