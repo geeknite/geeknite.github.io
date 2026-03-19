@@ -18,6 +18,8 @@ Fortune Row is a themed subset of City of Mist that gives players access to a cu
 
 The set slots nicely into the Fate/M Mythos framework you already know, but leans into misdirection, ambiguity, and the drama of spectacle. The characters aren’t “bosses” in the traditional sense; they’re lenses—through which scenes refract into moral gray zones, tense negotiations, and cinematic reversals. That design choice matters: it means Fortune Row can feel both fresh and familiar, depending on how you deploy it.
 
+> Pro tip for GMs: these characters work best when you lean into narrative leverage rather than trying to make them damage sponges. They’re sacred artifacts of story momentum, not stat-sticky tanks that go punch-for-punch with the city’s toughest villains.
+
 ## Components and quality
 Mysteries and neon aside, Fortune Row’s physical package is a compact but sturdy affair. The kit typically includes new character sheets, a handful of story hooks, a set of flavor texts, and the usual rune-covered representation of fate and chance in City of Mist’s vocabulary. The art direction stays tight with the game’s established neon noir mood, but with enough distinct flavor to make the set feel like a legitimate “new chapter” rather than a cosmetic rebrand.
 
@@ -32,7 +34,12 @@ From a physical standpoint, the card stock feels substantial, with clean perfora
 If you’re the kind of GM who uses visual cues to cue a scene’s tonal shift, you’ll appreciate how Fortune Row’s presentation supports rapid scene setup. The visuals aren’t just pretty wallpaper; they’re narrative scaffolding that helps players lean into the theme of luck, fate, and the unpredictability of the city itself.
 
 ## Mechanics and design philosophy
-Fortune Row doubles down on the core City of Mist idea: the character’s power isn’t raw subtraction of a villain’s health bar; it’s a narrative catalyst. The Special Characters in this set are built around tags such as Fate, Coin, Echo, and Crowd. Each tag acts as a lever: Fate invites you to reframe outcomes, Coin leans into probability and luck, Echo makes history loop back or reverberate through scenes, and Crowd introduces social momentum and the crowd’s mood as a driving force.
+Fortune Row doubles down on the core City of Mist idea: the character’s power isn’t raw subtraction of a villain’s health bar; it’s a narrative catalyst. The Special Characters in this set are built around tags such as Fate, Coin, Echo, and Crowd. Each tag acts as a lever:
+
+- Fate invites you to reframe outcomes
+- Coin leans into probability and luck
+- Echo makes history loop back or reverberate through scenes
+- Crowd introduces social momentum and the crowd’s mood as a driving force
 
 This isn’t about rolling harder; it’s about storytelling leverage. When a player taps into Fate, for instance, a failed attempt may not be a setback, but a pivot that reframes the scene’s stakes. The design intention is clear: misfortune should function as a “story engine” rather than a roadblock. It’s a tonal gamble that pays off if your table buys into mythic storytelling where consequences matter as much as actions.
 
@@ -72,7 +79,7 @@ What does this mean in practice? You can build a character that slots into an on
 To speed things up, we suggest a three-phase approach: (1) pick a core fate tag and a backbone motivation, (2) choose two supporting prompts that tie into potential story threads, and (3) map how other players’ Fate and Mythos elements intersect with your character’s journey. You’ll end up with a character who feels like a living rumor rather than a static stat sheet.
 
 ## Story hooks and themes
-Fortune Row’s story hooks sit comfortably in the city’s moral fog. The arcs tend toward luck cycles, caper-like heists, and illusions that reveal a harsher truth beneath the neon shimmer. A session can begin with a fortune seemingly aligned with the party’s goal that then unravels, only to yield a better outcome once the party learns to read the city’s signs differently. The GM is equipped with ready-made hooks, but the real joy comes from improvising around the party’s actions and the fate dice’ tilt.
+Fortune Row’s story hooks sit comfortably in the city’s moral fog. The arcs tend toward luck cycles, caper-like heists, and illusions that reveal a harsher truth beneath the neon shimmer. A session can begin with a fortune seemingly aligned with the party’s goal that then unravels, only to yield a better outcome once the party learns to read the city’s signs differently. The GM is equipped with ready-made hooks, but the real joy comes from improvising around the party’s actions and the fate dice tilt.
 
 Some recurring motifs you’ll notice when you run Fortune Row: the idea that fate is communal and contested, the tension between personal masks and public masks, and the city’s insistence that perception shapes reality. The Special Characters are particularly well-suited to playing with these themes because their powers are explicit about how truth and chance interact in a crowd-driven, rumor-fueled environment.
 
@@ -87,7 +94,7 @@ Running Fortune Row is about embracing the city’s kinetic energy rather than a
 4) Use a soft escalation: let the scene look like it’s spiraling toward catastrophe, then reveal how the city’s underlying truth shifts the odds in the party’s favor—when they least expect it.
 5) End with a twist that reframes the group’s perception of who the heroes are. Fortune Row loves stories where the “solution” reveals a new kind of moral complexity.
 
-In terms of table setup, Fortune Row plays best with a few unobtrusive props or visual aids: a deck of fate cards, a small prop “clock” to mark time-sensitive scenes, and a place where players can tuck short prompts for quick reference. If you run a longer campaign, consider weaving Fortune Row’s stories into a city-wide arc that gradually unravels a larger conspiracy or mythic truth about the city itself.
+In terms of table setup, Fortune Row plays best with a few unobtrusive props or visual aids: a deck of fate cards, a small prop clock to mark time-sensitive scenes, and a place where players can tuck short prompts for quick reference. If you run a longer campaign, consider weaving Fortune Row’s stories into a city-wide arc that gradually unravels a larger conspiracy or mythic truth about the city itself.
 
 ## Balance and pacing
 As with many City of Mist expansions, Fortune Row isn’t a power spike. It’s a tonal and narrative amplifier. Pacing can accelerate when the GM leans into mystery and misdirection, or slow down for character-driven revelations that require careful interpretation of signals and clues. The useful trick is to avoid forcing big set pieces on every encounter; instead, allow sessions to breathe, letting misfortune fold into the story as a natural stage cue.
@@ -101,6 +108,8 @@ If you have guests who are new to the game, consider a short onboarding session 
 
 ## Where to buy and price
 Pricing and availability vary by retailer and region, but Fortune Row tends to be sold through major hobby stores and the official City of Mist storefront. We won’t quote an exact price here to avoid outdated numbers—but the kit is typically priced in a range that makes it accessible as a mid-tier expansion, especially for groups already invested in the base game. If you want a one-stop shop, the official product page is a reliable starting point, and you can cross-check with your favorite local retailer for bundle options, bundles with other expansions, or discounts during seasonal sales.
+
+For context on how this fits into a larger purchase strategy, you can check discussions in our guides on buying into City of Mist expansions and choosing bundles that fit your campaign cadence. See also our post on stock and availability trends for RPG loot at major retailers.
 
 ## Thematic fit and how it changes your table
 Fortune Row doesn’t try to rewrite City of Mist’s core vibe. Instead, it heightens it by giving your table a sharper instrument for exploring fate’s capricious nature. It’s about turning near-disasters into clever scene shifts and turning clever scene shifts into revelations that bend the party’s understanding of who the heroes are. If you love the idea of masks as more than disguises—if you enjoy the sense that every choice has both a visible consequence and a hidden ripple—the Fortune Row set will resonate.
@@ -123,6 +132,9 @@ For more context see our City of Mist core rules review {% post_url 2025-06-01-c
 ## External resources
 - Official product page: https://cityofmist.com/store/fortune-row
 - City of Mist wiki: https://cityofmist.fandom.com
+
+## How Fortune Row ties into other posts
+If you want a deeper dive into how Fate interacts with larger city arcs, check our long-form analysis with examples from ongoing campaigns {% post_url 2025-03-14-city-of-mist-campaigns-overview %} and our exploration of mythos texture and how symbols drive session arcs {% post_url 2024-09-07-city-of-mist-mythos-and-symbols %}.
 
 ## Final call to action
 **Grab your Fortune Row Special Character Set now through our Geeknite affiliate link: https://affiliate.example.com/fortune-row**
