@@ -95,14 +95,14 @@ Choosing custom size over standard sizes is about alignment with your space’s 
 
 For a broader perspective on choosing the right rug size, see our guide on rug sizing myths and truths. {% post_url 2025-04-21-rug-size-101.html %}
 
-External piece on sizing strategies can be handy if you want to avoid the misstep of buying a rug that’s either too large or too small for your living area: [Rug sizing and space planning](https://www.houzz.com/magazine/area-rugs-101) 
+External piece on sizing strategies can be handy if you want to avoid the misstep of buying a rug that’s either too large or too small for your living area: [Rug sizing and space planning](https://www.houzz.com/magazine/area-rugs-101)
 
 ## Value, pricing, and the geeky math behind the charm
 The value proposition for a custom 4x6 Quarry Oyster rug hinges on a blend of aesthetic payoff and practical longevity. You’re paying for a tailored fit, a timeless colorway that hides the occasional spill, and a surface that remains comfortable under everyday use. The price tag reflects customization and the material choice, but the rug tends to hold color well and resist wear, which means fewer replacements over time. When you think about cost per year of use, the rug often proves itself to be a practical upgrade that upgrades your space without a full-on remodeling project.
 
 We compared several similar options from different brands in the same size and color family, noting differences in pile height, backing, and edge finishing. The Quarry Oyster’s balance of texture and restraint keeps it relevant across multiple interiors—navy-blue rooms get a warm counterpoint, white or gray rooms gain a soft anchor, and green-toned spaces receive a natural, earthy pairing. If you want to explore similar options, you can check our round-up of rugs for mid-century modern spaces and beyond. {% post_url 2025-03-29-mid-century-rug-roundup.html %}
 
-External shopping guides and product archetypes can help you compare specs side-by-side. For a general overview of what to expect when shopping for custom-sized area rugs, this retailer’s guide can be insightful: [Custom rug buying guide](https://www.roomandboard.com/catalog/rugs-you-can-customize). 
+External shopping guides and product archetypes can help you compare specs side-by-side. For a general overview of what to expect when shopping for custom-sized area rugs, this retailer’s guide can be insightful: [Custom rug buying guide](https://www.roomandboard.com/catalog/rugs-you-can-customize).
 
 ## Pros and Cons: a balanced checkout
 Here’s a quick synthesis for those who want the punchline before the setup:
