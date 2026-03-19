@@ -1,12 +1,12 @@
 ---
-title: "Exploding Kittens Expansion Bundle: Imploding, Streaking, and Barking Pack"
+title: "Exploding Kittens Expansion Bundle: Imploding, Streaking, and Barking Pack (Expanded Review)"
 date: 2026-03-19
-tags: [board games, expansions, Exploding Kittens, humor, geek culture]
+tags: [board games, expansions, Exploding Kittens, humor, geek culture, party games]
 ---
 
-![Exploding Kittens Expansion Bundle art](https://example.com/images/ek-expansion-bundle.jpg)
+![]({{ '/images/ek-expansion-bundle.jpg' | relative_url }})
 
-Welcome back, you glorious, snack-collecting, rule-reading gamer geeks. Today we dive into a trio of chaos-spreading cards that promises to turn your cozy game night into a chaos pentagram of giggles and groans. The Exploding Kittens Expansion Bundle—featuring Imploding Kitten, Streaking Kitten, and Barking Kittens—arrives like a rogue AI in a retro arcade cabinet: loud, a little dangerous, and somehow somehow adorable enough to convince you to press start again.
+Welcome back, you glorious snack-snatched, rule-cracking geeks. Today we dive into a trio of chaos-spreading cards that promises to turn your cozy game night into a chaos pentagram of giggles and groans. The Exploding Kittens Expansion Bundle—featuring Imploding Kitten, Streaking Kitten, and Barking Kittens—drops like a rogue AI in a retro arcade cabinet: loud, a little dangerous, and somehow adorable enough to convince you to press start again.
 
 If you’ve ever wondered what happens when you take a perfectly simple hot potato of a party game and sprinkle in radioactive glitter, this bundle is your answer. It doesn’t just add cards; it adds personality. It adds dramatic pauses. It adds odds you didn’t know you could fear and fractions you didn’t know you could calculate while laughing maniacally. Strap in. We’re going to riff on this bundle the way a cat riffs on a laser pointer: with enthusiasm, a dash of chaos, and a suspicious amount of pawing at the rules until something magical happens.
 
@@ -86,7 +86,7 @@ If your group tends toward hyper-competitive timing games, you might want to int
 
 ## In-Game Strategy: How to Approach the Bundle
 ### General tips
-- Read the room: If your table loves theater, create short “scene-setting” moments around each big reveal. If you’re with more typeof group, keep commentary light and avoid overthinking every draw.
+- Read the room: If your table loves theater, create short “scene-setting” moments around each big reveal. If you’re with a more type-group, keep commentary light and avoid overthinking every draw.
 - Balance is king: Don’t chase every high-risk move; sometimes a safe discarding plan buys you more longevity than a flashy Goliath play.
 - Utilize the new cards to set traps for your friends but avoid becoming the table’s resident menace. Nobody wants to be the villain who monologues during a six-card chain of doom.
 
@@ -124,8 +124,18 @@ External resources for deeper dives:
 - Official product page: https://www.explodingkittens.com/
 - Additional reviews and unboxings from other outlets (for comparison): [Exploding Kittens – Expansion Bundle Review]({% post_url 2025-03-30-exploding-kittens-expansion-bundle-review %})
 
-If you’ve got a group that thrives on humor and a little healthy mayhem, this bundle is your next party upgrade. The night will be ridiculous. The deck will be dangerous. Your friendships will survive to tell the tale. And if anything goes wrong, just blame the Streaking Kitten for that last minute “one more game” impulse—because isn’t that what friends (and cats) are for?
+If you’ve got a group that thrives on humor and a little healthy mayhem, this bundle is your next party upgrade. The night will be ridiculous. The deck will be dangerous. Your friendships will survive to tell the tale. And if anything goes wrong, just blame the Streaking Kitten for that last-minute “one more game” impulse—because isn’t that what friends (and cats) are for?
 
 **Where to buy (affiliate):** https://affiliate.geeknite.com/exploding-kittens-expansion-bundle
 
-Bold Call-to-Action: Buy the Exploding Kittens Expansion Bundle now and unleash the chaos you didn’t know you needed. The kitty awaits. Buy now and let the mayhem begin: https://affiliate.geeknite.com/exploding-kittens-expansion-bundle
+**Bold Call-to-Action:** Buy the Exploding Kittens Expansion Bundle now and unleash the chaos you didn’t know you needed. The kitty awaits. Buy now and let the mayhem begin: https://affiliate.geeknite.com/exploding-kittens-expansion-bundle
+
+- - -
+
+If you enjoyed this expanded dive, check out more of our EK coverage and related party-game banter:
+- 2024-02-29-exploding-kittens-strategy-guide
+- 2023-11-05-exploding-kittens-nerds-guide
+- 2025-08-15-night-mode-game-night-guide
+- 2026-01-12-hardware-vs-software-party-games
+
+And as always, bring the chaos, bring the snacks, and may your cat cards land in your favor more often than not. Happy gaming, geeks!
