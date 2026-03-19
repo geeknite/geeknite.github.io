@@ -1,5 +1,5 @@
 ---
-title: "Quarry Fossil Synthetic Area Rug - 6x9: A Geeknite Review (Expanded)"
+title: "Quarry Fossil Synthetic Area Rug - 6x9: A Geeknite Review Expanded"
 date: 2026-03-19
 tags:
   - home-decor
@@ -11,6 +11,7 @@ tags:
   - sustainability
   - durability
   - underlays
+  - ecology
 ---
 
 ![Quarry Fossil Synthetic Area Rug in 6x9]({{ site.baseurl }}/assets/images/quarry-fossil-6x9.jpg)
@@ -133,9 +134,9 @@ We tested this rug in a cozy living space with a mix of hardwood floors and a li
 The Quarry Fossil Synthetic Area Rug in 6x9 is a thoughtful pick for people who want style without sacrificing practicality. It is not the softest option on the market, nor does it pretend to be natural wool art. It is, however, a well-rounded anchor piece that can ground a living space, handle daily life with relative ease, and spark conversations about geology and geometry alike. If you are after a rug that blends fossil charm with modern stain resistance and a sensible price tag, this one earns a solid nod.
 
 If you enjoyed this review, check out our other posts for more geek-friendly home decor ideas:
-- [Sci-Fi Living Room Guide]({% post_url 2024-11-08-sci-fi-living-room-guide.md %})
-- [Budget Geek Living Room]({% post_url 2025-07-14-budget-geek-living-room.md %})
-- [Interior Design Easy Wins]({% post_url 2024-12-02-interior-design-easy-wins.md %})
+- Sci-Fi Living Room Guide
+- Budget Geek Living Room
+- Interior Design Easy Wins
 
 External resources
 - Rug care tips: https://www.hgtv.com/home-improvement/flooring/how-to-clean-a-rug
