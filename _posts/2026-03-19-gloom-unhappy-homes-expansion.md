@@ -1,5 +1,5 @@
 ---
-title: Gloom - The Card Game: Unhappy Homes Expansion
+title: Gloom - The Card Game: Unhappy Homes Expansion (Updated Review)
 date: 2026-03-19
 tags: [board-games, card-games, expansions, gloom, geeknite, humor]
 ---
@@ -69,13 +69,16 @@ As with base Gloom, the core of success lies in balancing your own misery with y
 
 Play style matters here. If you and your group enjoy spicy banter and theater, this expansion rewards you for storytelling as much as for card management. If you prefer tight mechanical optimization, you’ll still get a lot of value from the extra targets and forced choices because they create memorable moments you’ll retell at future game nights.
 
+### Sample round, in action
+A quick vignette: you draw a House card that forces every neighbor walking through a specific hallway to roll a gloom check with a slight penalty. Your rival blinks, tries to bluff a counterplay, and you spin it into a mini-narrative about the haunted stairs that always “eat a turn.” Meanwhile, a Neighborhood card triggers a petty feud about fence height, which blows up into a four-card chain of misfortune. The table erupts in groans, a few giggles, and someone declares, “I’m not mad, I’m inspired by your misery.” That’s the sweet spot—the shared drama that Gloom is all about.
+
 ## Thematic notes: humor, horror, and heartless furniture
 
 Gloom has always walked a line between macabre and mischievous. Unhappy Homes leans into that vibe even more, by giving you a haunted hallway to wander and more jokes about bad furniture than a poorly organized IKEA showroom. The humor is gentle enough to avoid crossing into cruelty while simultaneously delivering that satisfying dose of doom that fans crave.
 
 Thematically, the expansion shines when you lean into roleplay. It invites you to craft elaborate backstories for each room and to narrate the misfortunes like a soap opera script. The furniture cards often come with little one-liners that land if you give them the right moment, turning a simple draw into a laugh that echoes around the table for the rest of the night.
 
-One minor caveat: if you are playing with a group that takes long turns very seriously, the Neighborhood events can feel a bit punishing. It’s not an unfair mechanic, but it does tilt the table toward more dynamic, less predictable rounds. If you want more control, you can tweak the frequency of Neighborhood cards or set house rules that cap the number of neighborhood events per round. Our recommendation is to try it as written a few times, then tailor to your group’s taste if needed.
+One note for groups that take turns very seriously: the Neighborhood events can feel punishing because they increase dynamic pressure. If you want more control, you can tune the frequency of Neighborhood cards or set house rules that cap the number of neighborhood events per round. Our default is to try it as written a few times, then tailor to your group’s taste.
 
 ## Artwork and production quality
 
@@ -140,3 +143,34 @@ In the end, Unhappy Homes is a celebratory addition to a game about celebrating 
 If you want to re-live the best parts with a friend, or if you want to remind your group that bad luck can be entertaining, this expansion is a solid asterisk next to a triumphant exclamation mark. You will smile, you will groan, and you will shuffle cards like an over-caffeinated DJ mixing a melancholy soundtrack for a haunted living room.
 
 **Buy Unhappy Homes now through our affiliate link: https://example.com/affiliate/gloom-unhappy-homes**
+
+For more context and cross-links, you can explore:
+- Official publisher page: https://atlas-games.com/products/gloom
+- Community impressions: https://boardgamegeek.com/thread/xxxxxx/gloom-unhappy-homes-impressions
+- Our comparison post with synergies: {% post_url 2025-12-20-gloom-synergy-table %}
+
+Note: If you want to dive deeper into how Unhappy Homes sits between flavor and mechanics, check out our mid-series refresh where we break down the family-tree structure of Gloom expansions and how a single new Neighborhood card can change endgame tension. The link above to the “synergy table” post is a great starting point for that exploration.
+
+## Quick aside: accessibility, inclusivity, and pacing
+
+Gloom and Unhappy Homes gently push toward more narrative play without throwing new barriers at players. The rules remain approachable, but the added Neighborhood layer can be a little more talky. If your group runs hot, consider a few pacing tweaks: shorter turns, a soft timer for turns, or a “banter window” between actions to keep everyone engaged without derailment. For players seeking inclusivity, the expansion offers plenty of room to share stories and celebrate diverse family stories and backgrounds—just keep it friendly, folks. The best sessions are the ones where everyone can contribute a moment of melodrama without one player monopolizing the mic.
+
+## Final housekeeping
+
+- The box size and component quality remain solid for a mid-range expansion. It slots into your current Gloom collection without forcing you to re-slot the entire pace into a new system.
+- The recommended play time nudges a touch longer than base Gloom, but in exchange you gain more lively interactions and richer mini-stories per round.
+- If you run weekly games, Unhappy Homes is the kind of expansion that creates a reason to revisit and re-tell old stories with fresh context, which is what keeps tabletop nights memorable.
+
+If you’re undecided, consider a quick table test: play a couple of rounds with two Neighborhood cards in play. If your group starts riffing on the furniture and coaching each other through the rooms, you’ve found your vibe. If it feels heavy and draggy, tone down the Neighborhood density and keep it playful.
+
+In short: Unhappy Homes is a cheerful misfortune machine—fun to play, fun to narrate, and fun to watch your rivals squirm as their once-sturdy staircase collapses into a cascade of gloom.
+
+- Buy link: bold and bright: https://example.com/affiliate/gloom-unhappy-homes
+
+If you want to see more of our coverage, don’t forget to check other Gloom content:
+- Previous Gloom review: {% post_url 2025-11-15-gloom-review %}
+- Gloom expansion roundups: {% post_url 2025-12-04-gloom-expansions-wrap %}
+
+And as always, may your gloom be colorful, your furniture be haunted, and your neighbors forever jealous of your imaginary creaking estate.
+
+**Purchase Unhappy Homes today through our affiliate link and start your neighborhood feud in high style: https://example.com/affiliate/gloom-unhappy-homes**
