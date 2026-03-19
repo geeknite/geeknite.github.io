@@ -1,16 +1,16 @@
 ---
-title: Codenames Card Game — Back to Hogwarts Edition
+ttitle: Codenames Card Game — Back to Hogwarts Edition
 date: 2026-03-19
 tags: [board-games, codenames, hogwarts, geeks, review, party-games, family-friendly]
 ---
 
 {% include image.html src='/assets/images/hogwarts-codenames-back.jpg' alt='Codenames Hogwarts Edition box art' %}
 
-Introductory note: Welcome to the chaos of spellbound wordplay, where your house badge is as important as your ability to deduce that basilisk might be hiding behind the Diagon Alley clue. If you have ever tried to host a movie night that spirals into a scavenger hunt through your own bookshelf, the Back to Hogwarts Edition of Codenames Card Game is the patronus you never asked for but secretly needed. Yes, we are talking about a card game that recharges the spellbook, twirls a wand at a suspiciously perfect angle, and serves up more dad jokes per minute than a Gryffindor common room after hours. Buckle up for a ride that tastes like butterbeer and feels like a pop quiz in a moving staircase.
+Introductory note: Welcome to the chaos of spellbound wordplay, where your house badge is as important as your ability to deduce that basilisk might be hiding behind the Diagon Alley clue. If you have ever tried to host a movie night that spirals into a scavenger hunt through your own bookshelf, the Back to Hogwarts Edition of Codenames Card Game is the patronus you never asked for but secretly needed. Yes, we are talking about a card game that recharges the spellbook, twirls a wand at a suspiciously perfect angle, and serves up more dad jokes per minute than a Gryffindor common room after hours. Buckle up for a ride that tastes like butterbeer and feels like a pop quiz on a moving staircase.
 
 ## What is the Hogwarts Edition
 
-Codenames Card Game — Back to Hogwarts Edition takes the classic tug of war between two teams and drops you into the magical campus of Hogwarts, where professors, mischief, and magical creatures collide with wordplay. The setup mirrors the familiar 5x5 grid of word cards, but every card is now a Hogwarts-flavored term or phrase. Think basilisk, quaffle, patronus, transfiguration, and a few cheeky in-jokes that only long-time HP fans will catch. The board becomes a map of Hogwarts life rather than a plain word field, and the spymasters wield clues that lean on spellcasting, House allegiances, and the occasional inevitable misfire.
+Codenames Card Game — Back to Hogwarts Edition takes the classic tug-of-war between two teams and drops you into the magical campus of Hogwarts, where professors, mischief, and magical creatures collide with wordplay. The setup mirrors the familiar 5x5 grid of word cards, but every card is now a Hogwarts-flavored term or phrase. Think basilisk, quaffle, patronus, transfiguration, and a few cheeky in-jokes that only long-time HP fans will catch. The board becomes a map of Hogwarts life rather than a plain word field, and the spymasters wield clues that lean on spellcasting, House allegiances, and the occasional inevitable misfire.
 
 The core mechanics stay true to Codenames: two teams, red and blue, with a spymaster giving one word clues along with a number, guiding teammates to guess their agents without stepping on the assassin card. The Hogwarts edition spices up the flavor but leaves the game’s skeleton intact. That means if you know the original rules, you can jump into this edition with minimal confusion, but there is enough theme here to feel fresh and delightfully ridiculous in the right group dynamic.
 
