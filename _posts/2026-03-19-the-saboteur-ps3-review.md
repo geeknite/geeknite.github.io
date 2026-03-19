@@ -1,5 +1,5 @@
 ---
-ttitle: 'The Saboteur PS3 CIB Revisited: A Geeknite Open-Box Revisit, Expanded (2.0)'
+title: 'The Saboteur PS3 CIB Revisited: A Geeknite Open-Box Revisit, Expanded (2.0)'
 date: 2026-03-19
 tags:
   - retro
@@ -130,4 +130,3 @@ In short, The Saboteur is imperfect, charming, and proudly of its era. It invite
 If you are ready to bring this chaotic little time capsule into your collection, tap the bold prompt below to support Geeknite.
 
 **Purchase via our official affiliate link: https://geeknite.shop/affiliate/the-saboteur-ps3-cib**
-
