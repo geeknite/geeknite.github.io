@@ -1,13 +1,13 @@
 ---
 title: Baraja Española 40 Cartas - Set de Naipes para Juegos de Mesa (Actualizado)
 date: 2026-03-20
-tags: [barajas, juegos-de-mesa, baraja-española, naipes, revisiones, madera]
+tags: [barajas, juegos-de-mesa, baraja-española, naipes, revisiones, madera, geeknite]
 layout: post
 ---
 
 ![Baraja Española 40 Cartas](/assets/images/baraja-espanola-40.jpg)
 
-En Geeknite, cuando la mesa se llena de cartas con historia, diseño y ese toque de mística que solo una baraja puede dar, ya sabemos que la partida va a ser épica, o al menos divertida hasta la última carta. Esta revisión amplía lo clásico y se atreve con la versión en madera: porque a veces el tacto vale tanto como la historia que cada carta cuenta. Si te gustan los juegos de mesa que requieren estrategia, memoria y una pizca de nostalgia, la Baraja Española de 40 cartas es un personaje principal que merece un lugar en tu cajón de trucos. Vamos a desglosarla, desde su origen hasta ideas para jugar con colegas geeks que adoran reglas con sabor a código fuente.
+En Geeknite, cuando la mesa se llena de cartas con historia, diseño y ese toque de mística que solo una baraja puede dar, ya sabemos que la partida va a ser épica, o al menos divertida hasta la última carta. Esta revisión no solo actualiza el formato clásico: amplía la lectura hacia la versión en madera, porque a veces el tacto vale tanto como la historia que cada carta cuenta. Si te gustan los juegos de mesa que requieren estrategia, memoria y una pizca de nostalgia, la Baraja Española de 40 cartas es un personaje principal que merece un lugar en tu cajón de trucos. Acompáñanos mientras desglosamos su origen, su mecánica y, sobre todo, las maneras en las que puedes convertirla en una experiencia geek inolvidable, ya sea para una noche de juegos con amigos o para una quedada de desarrolladores que buscan reglas con sabor a código fuente.
 
 ## ¿Qué es la Baraja Española de 40 cartas?
 La Baraja Española de 40 cartas es un mazo tradicional que usa cuatro palos: oros, copas, espadas y bastos. Cada palo contiene 10 cartas: 1, 2, 3, 4, 5, 6, 7 y las tres figuras llamadas sota, caballo y rey. La versión de 40 cartas elimina los 8 y 9, dejando un conjunto compacto que favorece la precisión y el ritmo de juego. En comparación con las barajas modernas de 52 cartas, la 40 ofrece una economía de reglas y un recorte de complejidad que a los geeks les encanta explorar.
@@ -126,7 +126,7 @@ Si vas a una quedada de juegos y quieres una experiencia que combine historia, e
 - Reglas de tute y brisca (guías generales): https://www.barajeshistoricas.example/reglas
 - Revisión de barajas de estudio: https://geeknite.com/barajas-estudio-40-cartas
 
-### Recomiendae y cierre
+### Recomendación y cierre
 - Si te preocupa la durabilidad, busca una versión con laminado de alta calidad y un cartón grueso.
 - Si quieres una baraja para un club o evento, no dudes en adquirir varias copias para evitar quedarte sin cartas durante el juego.
 
