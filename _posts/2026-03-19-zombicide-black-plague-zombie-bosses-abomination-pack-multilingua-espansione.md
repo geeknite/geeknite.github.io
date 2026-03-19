@@ -6,9 +6,9 @@ tags: [Zombicide, Black Plague, Abomination Pack, Bosses, Expansion, Multilingua
 
 # Zombicide Black Plague: Zombie Bosses Abomination Pack Multilingua Espansione
 
-Benvenuti, capitani di tavolo e esperti di zombi, a una nuova tappa dell apocalisse colorata e rumorosa che è Zombicide Black Plague. Oggi parliamo dell Abomination Pack, la scatola che trasforma la vostra griglia in una pista di atterraggio per mostri giganti e i vostri parametri di sopravvivenza in una grafica di crescendo epico. E sì, questa espansione arriva con Multilingua Espansione, perché anche i gingilli più giganteschi meritano un regolamento in cucina, in castelli o in qualsiasi lingua tu scelga di gridare durante la perdita di sanità mentale in stile zombie.
+Benvenuti, capitani di tavolo e esperti di zombi, in una nuova tappa dell apocalisse colorata e rumorosa che è Zombicide Black Plague. Oggi esploriamo l Abomination Pack, la scatola che trasforma la vostra griglia in una pista di atterraggio per mostri giganti e i vostri parametri di sopravvivenza in una grafica di crescendo epico. E sì, questa espansione arriva con Multilingua Espansione, perché anche i gingilli più giganteschi meritano un regolamento in cucina, in castelli o in qualsiasi lingua tu scelga di gridare durante la perdita di sanità mentale in stile zombie.
 
-![Abomination Miniature](assets/images/zombicide-abomination.jpg "Abomination Boss nelle vesti di metallo e timide fusa di plastica")
+![Abomination Miniature](assets/images/zombicide-abomination.jpg 'Abomination Boss nelle vesti di metallo e timide fusa di plastica')
 
 L Abomination Pack non è solo una collezione di miniature giganti da guardare con gli occhi sognanti. È una rivoluzione di ritmo nel gioco. Piuttosto che aumentare la quantità di zombi comuni, alza la posta con boss che cambiano le regole del tavolo, costringendo te e i tuoi compagni a ricalibrare le strategie all istante. Se il base game è una corsa a ostacoli con dei palloncini, l Abomination Pack è una maratona con ostacoli mobili e guard-rail di fuoco verde fluorescente.
 
@@ -26,7 +26,7 @@ L Abomination Pack non è solo una collezione di miniature giganti da guardare c
 
 La parte Multilingua non è una chicca inutile: è una vera comodità per chi gioca in contesti non anglofoni. Ecco cosa aspettarsi:
 
-- Manuali & schede tradotte: regole di combattimento, norme su danni, e indicazioni tattiche tradotte in diverse lingue, senza dover tradurre a mano durante una partita. 
+- Manuali & schede tradotte: regole di combattimento, norme su danni, e indicazioni tattiche tradotte in diverse lingue, senza dover tradurre a mano durante una partita.
 - Simboli chiari: grafica universale che funziona bene anche senza una traduzione pixel-by-pixel, riducendo tempi di consultazione durante i turni più concitati.
 - Layout ottimizzato: traduzioni allineate alle illustrazioni, per evitare incongruenze tra testo e immagini delle carte o del boss.
 
@@ -51,7 +51,7 @@ L Abomination Pack si integra senza problemi con i contenuti esistenti di Black 
 - Missioni a tema: se avete già una campagna di Zombicide, le missioni incluse nell Abomination Pack si possono intrecciare con quelle esistenti per creare un arco narrativo più lungo. È come aggiungere un livello extra di stagione a una serie TV: non è necessario, ma la visione è molto più gustosa.
 - Scalabilità: non c è bisogno di un master avanzato. Le meccaniche di boss sono concepite per essere gestite sia da giocatori esperti sia da neofiti, con opzioni di difficoltà che si adattano al gruppo. Così, se avete una squadra mista di veterani e novizi, potete permettervi di iniziare con una difficoltà moderata e aumentarla man mano che l abilità della vostra crew cresce.
 
-Per chi cerca ulteriori riferimenti, in passato abbiamo discusso del base game e di altre espansioni in articoli mirati. Se vuoi fare una lettura rapida, dai un occhio alla nostra guida su Zombicide Black Plague base (post_url): {% post_url 2025-08-10-zombicide-black-plague-base-guide %} e dai un occhiata alle nostre strategie avanzate su Bosses (post_url): {% post_url 2024-11-05-zombicide-bosses-strategies %}.
+Per chi cerca ulteriori riferimenti, in passato abbiamo discusso del base game e di altre espansioni in articoli mirati. Se vuoi fare una lettura rapida, dai un occhio alla nostra guida su Zombicide Black Plague base (post_url: {% post_url 2025-08-10-zombicide-black-plague-base-guide %}) e dai un occhiata alle nostre strategie avanzate su Bosses (post_url: {% post_url 2024-11-05-zombicide-bosses-strategies %}).
 
 ## Qualità costruttiva: miniature, componenti e usabilità
 
@@ -59,9 +59,9 @@ Il pacchetto Abomination si distingue per la qualità delle miniature e per la p
 
 In aggiunta, il libro di regole e le carte di boss presentano una grafica coerente con il tema medievale e gotico di Black Plague. Le illustrazioni accompagnano bene la narrativa della partita, offrendo ispirazioni durante i turni lotta e tornando utili per spiegare agli occhi curiosi cosa sta accadendo sul campo.
 
-Le scatole di contenuto hanno una logistica chiara: elementi piccoli e grandi riposti con logicità, segnalini in diverse forme per evitare confusione durante il gioco. L esperienza di allestimento può richiedere qualche minuto in più rispetto al base game, ma la ricompensa in atmosfera e in tensione narrativa vale l impegno. Ricordate: una parte della gioia di Zombicide è nel choreography: come posizionate le miniature, come girate le carte, come stabilize le risorse tra un turno e l altro.
+Le scatole di contenuto hanno una logistica chiara: elementi piccoli e grandi riposti con logicità, segnalini in diverse forme per evitare confusione durante il gioco. L esperienza di allestimento può richiedere qualche minuto in più rispetto al base game, ma la ricompensa in atmosfera e in tensione narrativa vale l impegno. Ricordate: una parte della gioia di Zombicide è nel choreography: come posizionate le miniature, come girate le carte, come stabilite le risorse tra un turno e l altro.
 
-## Strategie rapide e consigli pratici per vincere contro gli Abomini
+### Strategie rapide e consigli pratici per vincere contro gli Abomini
 
 - Coordinate gli attacchi: i boss hanno immunità e zone vulnerabili. È facile sprecare un turno su un bersaglio con resistenze e scoprire che l altro boss ha già fatto danni massicci. Quindi, prima di lanciare una serie di attacchi, identificate le debolezze e sincronizzate gli eroi per massimizzare l effetto.
 - Gestione delle risorse: i boss possono annusare la vulnerabilità di un eroe e aprire la porta a turni extra per il nemico. Utilizzate carte di potenziamento e oggetti utili per mantenere i vostri eroi vivi a lungo, soprattutto in fasi avanzate.
@@ -69,7 +69,7 @@ Le scatole di contenuto hanno una logistica chiara: elementi piccoli e grandi ri
 - Sfruttate i punti di controllo: le regole e i props multilingua vi permettono di interpretare i punti di controllo e i recuperi di danno senza dover rallentare per leggere. Non sottovalutate l importanza di avere una mappa chiara e di consultare i nodi di controllo in tempo reale.
 - Adattabilità: i boss sono progettati per sfidare la vostra flessibilità. Se un piano fallisce, non è una sconfitta: ribilanciate subito la strategia e sfruttate le opportunità offerte dagli eventi ambientali. In Zombicide, l adattabilità è spesso la chiave della vittoria.
 
-Se vuoi ulteriori suggerimenti pratici, leggi la guida alle tattiche per Zombicide Black Plague base (post_url): {% post_url 2025-08-10-zombicide-black-plague-base-guide %} che offre principi generali utili anche in questa espansione.
+Se vuoi ulteriori suggerimenti pratici, leggi la guida alle tattiche per Zombicide Black Plague base (post_url: {% post_url 2025-08-10-zombicide-black-plague-base-guide %}) che offre principi generali utili anche in questa espansione.
 
 ## Esperienza di gioco: cosa rende speciale questa espansione
 
@@ -79,7 +79,7 @@ L Abomination Pack si distingue per tre elementi centrali:
 - Tattica cooperativa avanzata: per gestire i boss non basta l aa di potenza; serve coordinazione tra i membri del team. È la tua abilità di comunicare, pianificare e reagire alle mosse del nemico a fare la differenza tra una resa in faccia all Abominazione e una vittoria memorabile.
 - Qualità e presentazione: le miniature di boss hanno una presenza scenica molto superiore rispetto agli zombi comuni. La confezione e il layout sono curati, con una estetica coerente che si integra bene con il resto della grafica di Black Plague.
 
-Se siete curiosi di altre recensioni di espansioni simili, potete dare un occhiata alle nostre valutazioni su altre scatole (post_url): {% post_url 2023-09-22-zombicide-expansion-overview %} e a una discussione su bilanciamento di boss (post_url): {% post_url 2024-04-15-boss-balance-discussion %}.
+Se siete curiosi di altre recensioni di espansioni simili, potete dare un occhiata alle nostre valutazioni su altre scatole (post_url: {% post_url 2023-09-22-zombicide-expansion-overview %}) e a una discussione sul bilanciamento dei boss (post_url: {% post_url 2024-04-15-boss-balance-discussion %}).
 
 ## Pro e contro: riassunto pratico
 
