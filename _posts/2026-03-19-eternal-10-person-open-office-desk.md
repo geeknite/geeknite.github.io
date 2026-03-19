@@ -9,10 +9,11 @@ tags:
   - geeknite
   - modular
   - collaboration
+  - review
 ---
 
 ## Introduction
-In the grand theatre of concrete floors and ceiling grids, the Eternal 10 Person Open Office Desk stands as a bold promise: a single surface to rule ten colleagues, a cable spaghetti al dente that remains mostly dignified, and enough bragging rights to fill a conference room with tall tales about guacamole operations. Geeknite took a long lunch break to test whether this leviathan lives up to its hype or collapses under the weight of a coffee mug prank gone wrong. Spoiler alert: we brought extra mugs.
+In the grand theatre of concrete floors and ceiling grids, the Eternal 10 Person Open Office Desk strides onto the stage like a legend wrapped in a laminated veneer. It promises one surface to rule ten colleagues, a cable spaghetti al dente that somehow stays dignified, and enough bragging rights to fill a conference room with tall tales about guacamole operations. Geeknite took a long lunch break to test whether this leviathan lives up to its hype or collapses under the weight of a coffee mug prank gone wrong. Spoiler alert: we brought extra mugs.
 
 ![Eternal 10 Person Open Office Desk]({{ '/assets/images/eternal-ten-person-desk.jpg' | relative_url }})
 
@@ -26,6 +27,9 @@ The frame uses a powder-coated steel skeleton that stays rigid when ten laptops 
 
 ## Ergonomics and Comfort
 Ergonomics matter more than brand recognition in a shared workspace, and the Eternal takes this seriously without turning the entire setup into a medical device. The desk offers adjustable height settings and a depth that accommodates two full-size keyboards side by side with room to spare for desk toys and a plant not yet killed by neglect. We tested with users across the spectrum of height and posture, including folks who sit and others who kneel—okay, not really, but you get the idea. The result: a comfortable posture after a few minutes of tweaking. The center seats tend to be the champions, so allocate a little more leg room there. If you follow a no chair left behind rule, bring cushions; the ends can be a bit more exposed, creating a soft, wave-like seating comfort along the row.
+
+### Alternative Seating Strategies
+A ten-person desk can turn into a surprisingly dynamic seating puzzle. We experimented with alternating seated/standing mini-stations and even a “stool baton” approach where a single swivel stool gave someone a dramatic vantage point for instant standups. The moral: if your team thrives on fluid movement, plan for modular seating that can morph from collaborative huddle to quiet deep-work zone in under five minutes. The Eternal’s wings help here, letting you reconfigure the geometry without rearranging the whole office like a chessboard knocked over by a windstorm.
 
 ### Cable Management and Tech Integration
 One of the biggest pain points in any shared desk is cable chaos. The Eternal ships with a modular grommet system and a series of cable trays that snap into place. In practice, we saw a clean setup after a little organization discipline, followed by a late-afternoon sprawl as teams stacked chargers and dongles in a modern archaeology of cables. The desk includes integrated channels for power and data that let you route a dozen USB-C hubs to a central hub without creating an obstacle course. For teams with lots of peripherals, the ability to pass cables along the entire row reduces the temptation to create a spaghetti disaster under each chair.
