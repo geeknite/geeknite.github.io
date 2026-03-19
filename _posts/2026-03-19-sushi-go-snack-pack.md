@@ -43,7 +43,7 @@ Sushi Go! Snack Pack follows a simple loop that captures the essence of faster c
 
 - End of round: After a fixed number of rounds, players tally their points using the scoring rules printed on the cards. The Snack Pack reuses familiar scoring logic from the original: different sushi types yield different points depending on their counts, with some cards offering set bonuses or unique effects. There’s no complicated resource management or heavy arithmetic to slow you down; you’ll be counting yen in your head like a street vendor counting coins, but with fewer existential questions.
 
-- Victory: The winner is the player with the most points after all rounds are complete. Tie-breakers exist in the rules, of course, often decided by who got the most of that one valuable piece of sushi you can’t seem to stop collecting. The result is typically a friendly, positive ending with a chorus of “Next game!” and a promise to try a different variant next time.
+- Victory: The winner is the player with the most points after all rounds are complete. Tie-breakers exist in the rules, of course, often decided by who got the most of that one valuable piece of sushi you can’t seem to stop collecting. The result is typically a friendly, positive ending with a chorus of Next game! and a promise to try a different variant next time.
 
 If you want to see a more formal breakdown of the turn order and scoring, you can consult the official rules (the Snack Pack rules are deliberately compact so you can pick up and go). For players who adore the nuance of the original, you’ll be pleasantly surprised that the Snack Pack maintains the core loop while trimming the fat.
 
@@ -69,13 +69,13 @@ If you’ve ever attended a game night where half the group shows up late with t
 
 - Replayability in a Compact Form: While the Snack Pack may not have as many moving parts as the original, the variability in card distribution and hand luck ensures that no two sessions feel identical. You can experiment with different passing directions or try odd strategies to see what sticks, which is a big part of what keeps mini-games like this fresh.
 
-- Accessibility Across Ages: It’s friendly for kids but still engaging for adults, especially if you enjoy light-hearted competition and a little “you got me” humor as your opponents snatch the needed sashimi. The game’s quick pacing makes it ideal for mixed-age groups.
+- Accessibility Across Ages: It’s friendly for kids but still engaging for adults, especially if you enjoy light-hearted competition and a little you got me humor as your opponents snatch the needed sashimi. The game’s quick pacing makes it ideal for mixed-age groups.
 
 - Portability and Convenience: The snack-sized packaging is obviously the star here. You can toss it into a backpack or a lunchbox, and you’re ready to go. If you’re the kind of person who travels for work or attends conventions, Snack Pack is a welcome companion that won’t weigh you down.
 
 For players seeking a more intense experience, you can still combine Snack Pack with its bigger siblings for variety. A few participants can bring a fuller Sushi Go! box for longer sessions while the rest enjoy the Snack Pack for lighter rounds in between. It’s a great way to segment a game night into a palate-cleansing interlude between longer titles.
 
-If you’re looking for deeper mechanics behind why quick drafting games click so well with groups, we recommend checking out our post on [card drafting strategies for beginners]({% post_url 2023-11-07-card-drafting-beginners %}) and the [advanced tournament-style play guide]({% post_url 2025-01-15-tournament-drafting %}). The idea is to expose you to different ways of thinking during drafting without making you lose your sense of humor.
+If you’re looking for deeper mechanics behind why quick drafting games click so well with groups, we recommend checking out our post on card drafting strategies for beginners and the advanced tournament-style play guide. The idea is to expose you to different ways of thinking during drafting without making you lose your sense of humor.
 
 ### Variant rules and house rules for extra spice
 For groups that want a touch more strategy without tipping into heavy complexity, here are a few optional rules you can try:
@@ -105,7 +105,7 @@ When we played our own sample sessions, we found a few meta-nuggets worth sharin
 
 - Read your table: In a casual game night, the table’s dynamic matters more than a perfect score sheet. If someone is new, you may want to adjust the tone to more forgiving, ensuring they stay engaged rather than overwhelmed.
 
-For players who want to explore more about how to optimize these decisions, we recommend checking out our post on [card drafting strategies for beginners]({% post_url 2023-11-07-card-drafting-beginners %}) and the [advanced tournament-style play guide]({% post_url 2025-01-15-tournament-drafting %}). The idea is to expose you to different ways of thinking during drafting without making you lose your sense of humor.
+For players who want to explore more about how to optimize these decisions, we recommend checking out our post on card drafting strategies for beginners and the advanced tournament-style play guide. The idea is to expose you to different ways of thinking during drafting without making you lose your sense of humor.
 
 ## Accessibility and Family-Friendliness
 
@@ -113,23 +113,23 @@ Sushi Go! Snack Pack is a perfect fit for families, co-workers, and groups who w
 
 The snack-pack format means you don’t have to worry about a complicated setup that keeps kids waiting. It’s a game you can play during a long car ride or at a dinner table without turning the evening into a logistics nightmare. The approachability also translates well to non-gamers who want to engage in something interactive but not too intimidating. The result is a product that invites a larger audience into the hobby rather than turning them away at the doorstep.
 
-If you’re curious about broader accessibility topics in board games, you can explore [the accessibility guidelines for family games](https://www.geeknite.example/accessibility-family-games). This is not just about color choices or font sizes; it’s about how the game feels when you hold it, how intuitive its rules are, and how welcoming the overall package is to new players.
+If you’re curious about broader accessibility topics in board games, you can explore the accessibility guidelines for family games: https://www.geeknite.example/accessibility-family-games. This is not just about color choices or font sizes; it’s about how the game feels when you hold it, how intuitive its rules are, and how welcoming the overall package is to new players.
 
-## Comparisons: Sushi Go! Original vs. Snack Pack vs. Sushi Go Party!
+## Comparisons: Sushi Go Original vs Snack Pack vs Sushi Go Party
 
-- Sushi Go! (the original): The original version offers a larger deck, more card variety, and longer playtime. It’s a step up in depth and complexity and, for many, a reason to host a longer game night. The Snack Pack, by contrast, trims the fat, focusing on the core experience and delivering it in a shorter, more portable experience. For some players, the Snack Pack is a gateway to the full version; for others, it’s the perfect “I want sushi vibes without the marathon” option.
+- Sushi Go (the original): The original version offers a larger deck, more card variety, and longer playtime. It’s a step up in depth and complexity and, for many, a reason to host a longer game night. The Snack Pack, by contrast, trims the fat, focusing on the core experience and delivering it in a shorter, more portable experience. For some players, the Snack Pack is a gateway to the full version; for others, it’s the perfect “I want sushi vibes without the marathon” option.
 
 - Sushi Go Party!: The party edition expands with more players, more cards, and more scoring permutations. It’s great for bigger groups who want more variety, but it’s not as quickly digestible as Snack Pack. If you want a longer evening with a broader set of options, Party! is your friend; if you want a quick bite that you can finish before the coffee loses its kick, Snack Pack is your friend.
 
 - The Avatar of speed and simplicity: Snack Pack sits in the middle ground—faster than the original, easier to pick up than Party!, and still offering enough strategic levers to keep players engaged.
 
-For readers who want more nuance on how these variants compare, we’ll link to our extended discussion on the subject in our post about Sushi Go! mechanics and the different formats we’ve tested: [A look at Sushi Go! mechanics across formats]({% post_url 2024-07-22-sushi-go-mechanics-formats %}).
+For readers who want more nuance on how these variants compare, we’ll link to our extended discussion on the subject in our post about Sushi Go mechanics across formats: [{% post_url 2024-07-22-sushi-go-mechanics-formats %}].
 
 ## Replayability, Longevity, and Expandability
 
 Snack Pack offers solid replayability for a micro-game. The variations come from the distribution of cards, the choices you make in a given round, and the way your opponents approach the same problem: maximizing points while trying to pre-empt their own plans. The rules are simple enough that you can easily introduce new players to a different style of scoring, or spice things up with optional rules (like multiplayer variants or variant starting hands) if your group wants something that feels a bit different from the standard play.
 
-Because it’s a Snack Pack, there’s not a ton of room for expansions, but that’s part of the charm. The smaller footprint makes sense for a game designed to be quick and accessible. The upside is that you can pair Snack Pack with other, more expansive Sushi Go! titles to create a layered gaming session: start with Snack Pack to warm up, then move on to the full game if the group is in the mood for more.
+Because it’s a Snack Pack, there’s not a ton of room for expansions, but that’s part of the charm. The smaller footprint makes sense for a game designed to be quick and accessible. The upside is that you can pair Snack Pack with other, more expansive Sushi Go titles to create a layered gaming session: start with Snack Pack to warm up, then move on to the full game if the group is in the mood for more.
 
 If you want to read more about expansion and scaling in light-weight games, we’ve got a piece that discusses how to scale up or down a game for your table: [Scaling micro-games for bigger groups]({% post_url 2023-08-02-scaling-micro-games %}).
 
@@ -147,7 +147,7 @@ If you want to read more about expansion and scaling in light-weight games, we�
 
 Sushi Go! Snack Pack excels not as a replacement for the deeper Sushi Go! games but as a friendly, drop-in alternative that respects time, space, and attention. It captures the essence of the original experience—fast decisions, playful theme, satisfying combos—while trimming away the heavy constraints that sometimes push people away from board games. It’s the kind of game you pull out when you want to share something light and bubbly without dominating an entire night.
 
-The design choices—compact packaging, bright art, simple rules, quick rounds—make Snack Pack a strong recommendation for families, casual gamers, and anyone who wants to experience the core Sushi Go! vibe without the serious time commitment. It’s also a handy travel companion for those who are always on the move. The one caveat is that the Snack Pack isn’t going to scratch the itch for depth or competitive intensity if you’re looking for a long, intricate game. If your group thrives on longer campaigns or strategy trees, you’ll likely prefer the original or Party!
+The design choices—compact packaging, bright art, simple rules, quick rounds—make Snack Pack a strong recommendation for families, casual gamers, and anyone who wants to experience the core Sushi Go vibe without the serious time commitment. It’s also a handy travel companion for those who are always on the move. The one caveat is that the Snack Pack isn’t going to scratch the itch for depth or competitive intensity if you’re looking for a long, intricate game. If your group thrives on longer campaigns or strategy trees, you’ll likely prefer the original or Party!
 
 With all of this in mind, the Snack Pack earns a solid thumbs-up and a place in the rotation of quick, friendly games. It’s the sushi roll you can take with you on a lunch break, the pocket-sized reminder that gaming can be breezy, fun, and still deliciously satisfying.
 
