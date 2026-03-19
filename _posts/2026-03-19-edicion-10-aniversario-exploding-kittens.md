@@ -1,94 +1,108 @@
-{"post_name": "2026-03-19-edicion-10-aniversario-exploding-kittens.md", "new_content": "---\ntitle: Edición 10º Aniversario de Exploding Kittens\ndate: 2026-03-19\ntags:\n  - juegos\n  - mesa\n  - humor\n  - ExplodingKittens\n  - aniversario\n---
+---
+title: Edición 10º Aniversario de Exploding Kittens
+date: 2026-03-19
+tags:
+  - juegos
+  - mesa
+  - humor
+  - ExplodingKittens
+  - aniversario
+---
 
 ## Introducción
 
-Bienvenidos, intrépidos amantes de las risas que terminan en mazos de cartas. Hoy nos sumergimos en la Edición 10º Aniversario de Exploding Kittens, el juego que convirtió a las bombas improvables en una franquicia de culto entre cenas, fiestas y reuniones donde nadie sabe si está jugando o participando en un sketch de comedia. Si creían que la palabra “edición especial” era solo marketing, prepárense para descubrir que, a veces, el marketing tiene un toque de magia felina y explosiones psicológicas que hacen que tu grupo de juego se pregunte si debe llamar a emergencias o a un comediante de stand-up.
+Bienvenidos, exploradores del caos divertido. Hoy en Geeknite revisamos la Edición 10º Aniversario de Exploding Kittens, el juego que convirtió lo que podría parecer una simple desbandada de cartas en una experiencia de mesa cargada de risas, nervios y la oportunidad de que alguien grite EXPLOSIÓN justo cuando estabas a punto de robar la carta de DEFUSE. Este título nació como una de esas ideas que parecen simples pero que, con un poco de azar y mucho humor, se convierte en tradición de fiestas. Diez años después, la edición conmemorativa llega con la misión de celebrar sin traicionar el espíritu del original: rapidez, accesibilidad y un toque de locura gatuna que deja a todos con una historia para contar.
 
-Exploding Kittens nació como un juego de cartas rápido, tonto y adictivo, y la edición de aniversario llega para recordarnos que la risa y el conflicto amistoso pueden coexistir con un mazo de cartas que huelen a chiste nuevo y a aceite de cocina mal cuidado. En este artículo, vamos a despotricar, elogiar y analizar todo lo que trae esta edición con el mismo cariño con el que una carta de “defuse” salva el día (o al menos te da una oportunidad de reírte de tu propio mal ojo).
+Si llegaste buscando una reseña seria y tecnicista, quizá este no sea tu post. Aquí vamos a desmenuzar la Edición 10º Aniversario con la alegría de quien ya conoce la casa, pero con la curiosidad de quien quiere entender si la decoración de la fiesta realmente mejora la experiencia de juego o solo la hace más bonita para redes sociales. Preparad palomitas, tacos de ketchup y, si podéis, un Defuse a mano; porque vamos a hablar de arte, mecánicas, durabilidad, valor para coleccionistas y, sobre todo, de cuánto puede mejorar (o no) vuestro próximo encuentro con Exploding Kittens.
 
-> Nota rápida para curiosos: si eres nuevo en Exploding Kittens, no te asustes. Este juego es literalmente el equivalente lúdico a abrir una caja de galletas sorpresa: podrías terminar con una galleta deliciosa, o con una explosión de risas que te haga cuestionar tus habilidades estratégicas. Pero no te asustes; aquí no hay spoilers mortales, solo humor, mazos bien dispuestos y, a veces, un poco de caos apuñalado por una carta de cuchillo imaginario.
+> Nota para principiantes: Exploding Kittens es, en esencia, un juego de cartas de ritmo rápido donde la principal amenaza no es un oponente, sino un mazo que te puede hacer perder una partida en un parpadeo. Si te asusta la posibilidad de perder, ten por seguro que aquí se premia la risa por encima de la victoria.
 
-En esta revisión, vamos a cubrir qué trae la edición de aniversario, cómo se siente en la mesa, cómo se compara con la versión original, para quién está pensada y, por supuesto, una recomendación final para ayudarte a decidir si merece la pena hacer hueco en tu estantería, bolsillos y ego de jugador veterano.
+![Exploding Kittens 10º aniversario art]({{ '/assets/images/exploding-kittens-10th-anniversary.jpg' | relative_url }} )
 
 ## ¿Qué es la Edición 10º Aniversario de Exploding Kittens?
 
-La Edición 10º Aniversario de Exploding Kittens es una revisión conmemorativa del juego que, en su día, popularizó la interacción de “pull-no-triggery” entre amigos, familiares y completos desconocidos que se encuentran en la misma sala de juegos. Esta edición llega con una promesa: arte renovado, componentes mejorados y una experiencia que se siente como una celebración de una década de locuras cat-adictivas, gatitos explosivos y momentos de puro caos humorístico.
+La Edición 10º Aniversario es una revisión conmemorativa que llega para celebrar una década de gatitos explosivos, risas compartidas y espectáculos de mesa que ni siquiera el chat de memes puede explicar. Conserva la idea central del juego —robar cartas, usar cartas para manipular el mazo y evitar que te explote la mano—, pero añade capas de pulido que se aprecian desde la primera partida.
 
-### ¿Qué hay en la caja?
+### Contenido de la caja
 
-- Un mazo de cartas principal con ilustraciones actualizadas y, según las notas del fabricante, un reposicionamiento de balance para hacer que las partidas sean un poco más equilibradas (o al menos, menos tortuosas para el que se cree maître estratega).
-- Nuevas cartas temáticas para conmemorar el décimo aniversario, diseñadas para provocar la risa y, en algunos casos, la mueca de “¿en serio?” en los jugadores.
-- Indicadores y tokens rediseñados que se sienten más resistentes y, quizá, menos propensos a perderse entre la comedia de la mesa.
-- Manual de reglas con aclaraciones, rumores del fandom y un vistazo rápido a variantes para partidas con más público o con menos paciencia para leer 14 párrafos de reglas que nadie va a recordar.
+- Mazo principal con arte renovado y un balance ajustado para partidas más fluidas.
+- Cartas temáticas de aniversario que funcionan como chistes rápidos y remates visuales.
+- Tokens y indicadores rediseñados que se sienten más robustos y fáciles de manejar en mesa.
+- Manual de reglas con aclaraciones rápidas, variantes para grupos y consejos para adaptar la experiencia a fiestas más grandes.
 
-En general, la edición llega con el objetivo de hacer que los momentos de juego sean más felices, más coloridos y un poco menos confusos que la versión que la mayoría de nosotros aprendimos a amar (y a maldecir) en sus primeras partidas.
+En resumen, la edición de aniversario se propone como una experiencia más limpia, más colorida y, en general, más divertida sin perder el alma del juego original.
 
 ## Contenido y diseño: un vistazo al corazón de la caja
 
 ### Arte, toma dos: la renovación visual
 
-Una de las quejas clásicas de las primeras ediciones fue el arte y la iconografía que, si bien icónicas, podían verse obsoletas frente a una comunidad que quiere más “pop” y menos murciélagos estilizados en cada carta. En esta edición de aniversario, el arte ha sido rediseñado para ser más audaz, más claro y, sobre todo, más divertido por la diversidad de expresiones gatunas y de explosionadas que adornan cada página del mazo.
+El arte de Exploding Kittens siempre ha sido icónico, pero en la edición de aniversario se ha subido de tono. Se busca claridad sin perder la chispa humorística: expresiones gatunas más pronunciadas, colores más vivos y una iconografía que se entiende a primera vista, incluso en la mesa más ruidosa. Esta renovación va más allá de lo estético: facilita la lectura de las cartas, reduce dudas en las primeras rondas y añade un factor de sorpresa visual que funciona como un combustible de risas.
 
-Si te gusta la estética que grita “fiesta de mesa”, esta edición cumple: las cartas tienen colores más vivos, tipografías más legibles y un estilo que facilita que alguien, en la primera ronda, entienda qué carta está a punto de arruinar su vida (y la de sus amigos) con una simple mueca felina. En resumen: se ve mejor, se siente más sólido y, sobre todo, se lee con mayor rapidez en medio de la navidad de carcajadas que se desata cada vez que alguien roba una carta clave.
+Si te gusta la estética que grita fiesta de mesa, esta edición cumple: colores más vivos, tipografías más legibles y un estilo que facilita que alguien, en la primera ronda, entienda qué carta está a punto de arruinar su vida (y la de sus amigos) con una mueca felina. En resumen: se ve mejor, se siente más sólido y se lee con mayor rapidez entre carcajadas.
 
 ### Componentes y durabilidad
 
-La durabilidad de los componentes es una promesa que Claramente se mantiene en esta versión. El material de las cartas es más grueso, la laminación se percibe de mayor calidad y, si eres de los que juegan a ciegas, el acabado mate evita reflejos que te hagan perder la pista de qué carta tienes en la mano por culpa del sol que entra por la ventana.
+La edición 10º Aniversario destaca por la calidad de los componentes. Las cartas se sienten más gruesas, con un acabado que resiste el ajetreo de varias rondas sin doblarse ni desgastarse. Los tokens se perciben más resistentes y los modelos de marca, en su mayor parte, son menos propensos a perderse entre las losas de snacks de la mesa.
 
-Aunque el juego no cambia su dinámica central (un conjunto de cartas de Exploding Kittens que deben evitar que te exploten las manos), el hecho de que los tokens y las cartas se sientan más robustos añade un sentido de legitimidad a jornadas largas de juego, peleas sanas y debates sobre si el “defuse” debe tener una versión de seguridad social.
+Este incremento de durabilidad es especialmente valioso para grupos que juegan con frecuencia, o para familias que quieren pasar el control de las cartas sin peleas por quedar de pie. En este sentido, la edición se posiciona como una inversión a medio plazo: durabilidad, estética y juego rápido, todo en un paquete que cabe en casi cualquier estantería de juegos.
 
-### Tamaño y ergonomía en mesa
+### Ergonomía y tamaño en mesa
 
-En este punto, la experiencia de mesa se nota. Si antes la caja parecía un libro de sudoku, ahora es más compacta y malabar, con un mazo que se baraja con la facilidad de quien está practicando ejercicios de calistenia para dedos. Esta mejora de ergonomía puede marcar la diferencia en partidas con grupos grandes, donde la velocidad de juego y la claridad de reinterpretación de reglas (que, digamos, siempre es necesaria) pueden hacer que la experiencia fluya mejor que un chiste que empieza fuerte y termina con un silencio incómodo.
+La experiencia de mesa mejora notablemente. Si antes la caja parecía un libro de sudoku de tamaño XL, ahora es más compacto y cómodo de manejar. Los mazos se barajan con mayor facilidad, y la distribución de las cartas facilita que cualquiera entienda qué carta está jugando y por qué. En grupos grandes, esta mejora de ergonomía puede marcar la diferencia entre una partida fluida y una sesión interminable de buscar la carta que salva la ronda.
 
 ## Mecánicas y balance: ¿qué cambia respecto a la edición original?
 
-Exploding Kittens se apoya en mecánicas simples pero estratégicamente juguetonas: robar cartas, jugar cartas para manipular el mazo, y evitar que una carta de “explosión” retire de forma definitiva a un jugador del juego. La edición de aniversario intenta conservar esa esencia mientras pule detalles que suelen importar en grupos mixtos de jugadores.
+Exploding Kittens se apoya en mecánicas simples pero con una dosis de picardía estratégica: robar cartas, jugar cartas para manipular el mazo y evitar que la inevitabilidad de una explosión te gane. La edición de aniversario mantiene esa esencia y pule algunos detalles para grupos de juego mixtos.
 
-### ¿Qué tan diferente es la experiencia de juego?
+### ¿Qué tan diferente es la experiencia?
 
-- Ritmo de juego: las partidas pueden sentirse un poco más limpias en la edición de aniversario, con reglas clarificadas que evitan interpretaciones ambiguas en las que un jugador reclama que “el gato quiere otra cosa”. No es un cambio radical en la dinámica, pero sí una mejora en la experiencia general.
+- Ritmo de juego: la edición de aniversario puede sentirse más limpia, con reglas aclaradas que evitan disputas sobre si el gato quiere otra cosa. No es una revolución, pero sí una mejora de experiencia.
+- Equilibrio de cartas: se han retocado ciertas cartas para evitar rachas que desbalanceen la partida en un solo giro. En la práctica, la experiencia es más sostenible, con menos partidas que parecen decidirse en la primera maniobra de un jugador.
+- Cartas temáticas: las cartas exclusivas del aniversario introducen humor sin sacrificar la estrategia básica. Estas cartas sirven como comodines útiles para dinámicas de grupo, pero no deben verse como un reemplazo de las cartas clásicas.
 
-- Equilibrio de cartas: algunas cartas han recibido retoques menores que buscan reducir el “efecto loco” de una sola carta que puede decidir una partida con un par de jugadas mal hechas. En la práctica, esto significa menos partidas donde un jugador obtiene una racha absurda que hace que la victoria parezca inevitable para el resto del grupo.
+### Bluff, engaño y negacion
 
-- Nuevas cartas con humor temático: el aniversario trae cartas exclusivas que funcionan como chistes rápidos o remates temáticos para el 10º aniversario. No alteran el núcleo del juego, pero sí agregan capas de interacción que brilla cuando el grupo ya está cómodo con la mecánica base.
-
-### ¿Qué pasa con la experiencia de bluff y negación?
-
-La experiencia de bluff, engaño y negación sigue siendo el núcleo. En la edición nueva, el “engaño” se siente más fresco gracias a ilustraciones más nítidas y a una distribución de cartas que facilita que todos puedan entender qué carta están jugando y por qué. Para los jugadores que aman el arte de la distracción, estas cartas son una pequeña espada de dos filos: pueden distraer a tus oponentes con su diseño bonito mientras tú planificas el siguiente movimiento.
+El bluff y la negacion siguen siendo parte del ADN del juego. En la edición de aniversario, las ilustraciones y la claridad de texto ayudan a entender mejor lo que cada carta pretende hacer, lo que facilita que los jugadores lean y evalúen la situación con rapidez. Es el tipo de mejora que beneficia tanto a novatos como a veteranos sin alienar a nadie.
 
 ## Experiencia de juego en la mesa
 
 ### Presentación de la mesa
 
-La edición de aniversario invita a una mesa con más color, más risas y, si te gusta, más ruido. Exploding Kittens nunca ha sido un juego que pretenda ser silencioso. Es un juego que celebra el caos como motor de la diversión, y en este sentido la edición conmemora el espíritu de forma respetuosa con su público.
+La edición conmemorativa invita a una mesa más colorida y con más ritmo. No es un juego que busque el silencio: Exploding Kittens celebra el sonido de la risa, el murmullo del debate y el momento en que alguien roba una carta clave y grita por primera vez. La estética renovada y la selección de cartas temáticas elevan el tono general sin perder la esencia del caos informal que todos amamos.
 
 ### Ritmo y duración
 
-Las partidas siguen siendo rápidas, con una duración típica de 15 a 30 minutos, dependiendo del tamaño del grupo y del grado de drama que le pidas a cada carta. En la práctica, este rango significa que puedes meter varias rondas en una misma sesión de juego, concluyendo con risas y anécdotas que solo se entienden si has visto a tu amigo robar la carta equivocada en el momento adecuado.
+Las partidas siguen siendo cortas, con una duración aproximada de 15 a 30 minutos, dependiendo del equipo y del grado de drama que cada jugador añade a la mesa. En la práctica, esto permite encadenar varias rondas por sesión y terminar con historias que valen la pena contar, incluso si nadie recuerda por qué se mezclaron las cartas en la primera ronda.
 
-### ¿Para quién está pensada esta edición?
+### ¿Para quién está pensada?
 
-- Grupos que buscan risas rápidas y dinámicas de socialización: perfectas para fiestas, noches de juegos familiares o encuentros informales en los que el objetivo es divertirse sin complicaciones.
-- Coleccionistas de ediciones y aficionados al diseño gráfico: si te atrae el arte renovado y las cartas temáticas, esta edición te ofrece un conjunto visualmente atractivo que complementa tu estantería.
-- Jugadores casuales que quieren entrar al universo de Exploding Kittens sin tener que invadir una mesa sacrificando horas de estudio: la edición de aniversario mantiene la accesibilidad que ha caracterizado al título desde sus inicios.
+- Grupos que buscan risas rápidas y socialización: ideales para fiestas, reuniones familiares o noches de juegos en las que el objetivo es la diversión sin complicaciones.
+- Coleccionistas y aficionados al diseño: arte renovado, componentes robustos y una experiencia de presentación que hace la diferencia en una estantería temática.
+- Jugadores casuales que quieren entrar al universo de Exploding Kittens sin invertir semanas en reglas: la edición mantiene la accesibilidad que hizo famoso al juego.
 
-Sin embargo, para puristas de la estrategia profunda, quizá esta edición no ofrezca un cambio radical en la profundidad táctica. Si lo que buscas es una experiencia que te haga pensar paso a paso cada decisión, podrías sentir que estás jugando a una versión mejorada de la misma idea, no a un “nuevo” juego radicalmente distinto.
+Sin embargo, para puristas de una profundidad táctica, quizá no ofrezca un salto de complejidad. Es, en esencia, una edición que pule la experiencia y la hace más amable para grupos variados.
 
 ## Estrategias y recomendaciones de juego
 
-A continuación, compartimos algunas ideas para sacar el mayor provecho de la Edición 10º Aniversario sin perder la actitud juguetona que la caracteriza.
+A continuación, algunas ideas para sacar el mayor provecho de la Edición 10º Aniversario sin perder la actitud juguetona:
 
-- Ritmo de lectura de la mesa: la rapidez de lectura de cartas es clave. Si la mesa tiende a la lentitud, considera un turno de “literatura rápida” donde cada jugador solo describa la carta que juega y no se extienda en cháchara sobre narrativas. Esto mantiene el flujo y el humor sin perder la oportunidad de reír.
-- Gestión de risas vs. tensión: Exploding Kittens es, ante todo, una comedia de acción. No tengas miedo de saltar de una situación tensa a un chiste absurdo en el siguiente turno. Esa alternancia es la gracia del juego.
-- Integración de novedades: prueba las cartas exclusivas del aniversario junto con las cartas clásicas, como si fueran un equipo de música donde cada integrante aporta un solo distinto. Podrías descubrir que un nuevo personaje o una nueva mecánica te da la chispa que le faltaba a tu grupo para mantener la emoción en cada partida.
-- Variantes para grupos grandes: si juegas con más de 6 jugadores, usa variantes ligeras de reglas para asegurar que cada turno no se vuelva una maratón. Mantén la experiencia central, pero añade reglas simples para acelerar la rotación de cartas y evitar esperas interminables.
+- Ritmo de lectura de la mesa: la velocidad de lectura es clave. Si la mesa tiende a la lentitud, prueba un turno de lectura rápida donde cada jugador describe la carta sin entrar en largas descripciones. Mantiene el flujo y el humor sin perder el hilo de la partida.
+- Gestión de risas vs tensión: Exploding Kittens es una comedia de acción. Puedes moverte entre momentos de tensión y saltos de humor para mantener a todos atentos y a la vez reír a carcajadas.
+- Integración de novedades: prueba las cartas exclusivas del aniversario junto a las clásicas, para ver si la mesa responde mejor como banda de rock que como orquesta sinfónica.
+- Variantes para grupos grandes: si juegas con más de 6 jugadores, prueba variantes simples para acelerar la rotación de cartas y evitar esperas interminables.
+- Consejos de visualización: usa la vista de las cartas a distancia para que todos puedan ver las jugadas. Una mesa donde todos pueden ver es una mesa que ríe con mayor facilidad.
+
+### Consejos para jugadores veteranos
+
+- Mantén la humildad: a veces la partida la define la pequeña anomalía que nadie esperaba. No te obsesiones con una estrategia concreta, sino disfruta del caos guiado por el humor del grupo.
+- Aprovecha las nuevas cartas: las cartas temáticas pueden suponer un cambio de ritmo si se introducen correctamente. Observa la mesa y decide cuándo introducirlas para que el tono no se descontrole.
+- Ten a mano el Defuse y el ojo del halcón: va a ocurrir, y cuando ocurra, vas a agradecer haberlo visto venir.
 
 ## Enlaces útiles y referencias de la comunidad
 
-- Si quieres ampliar tu conocimiento sobre la franquicia y ver cómo otras personas han vivido el aniversario, mira la página de información general de Exploding Kittens en [BoardGameGeek](https://boardgamegeek.com/boardgame/). Es probable que encuentres hilos de usuarios compartiendo estrategias, fotos creativas de sus configuraciones en mesa y, por supuesto, memes que te harán sonreír en medio de una ronda.
+- Si quieres ampliar tu conocimiento sobre la franquicia y ver cómo otras personas celebran el aniversario, consulta la página de información general de Exploding Kittens en [BoardGameGeek](https://boardgamegeek.com/boardgame/150398/exploding-kittens). Es probable que encuentres hilos de usuarios compartiendo estrategias y fotos de sus configuraciones en mesa, así como memes que te sacarán una sonrisa.
 - Para entender mejor las bases de las mecánicas de cartas que componen Exploding Kittens, consulta nuestra [Guía de mecánicas de cartas]({% post_url 2024-02-14-guia-mec-cartas %}) y no te sorprendas si descubres que puedes combinar ideas para crear tu propio estilo de juego.
-- Si te interesa leer comparativas entre la edición original y esta edición de aniversario, echa un vistazo a nuestro artículo anterior titulado [Diferencias entre ediciones clásicas y conmemorativas]({% post_url 2025-11-20-diferencias-ediciones %}). No es el mismo post, pero puede darte el contexto sobre cómo tratamos estas transiciones en Geeknite.
+- Si te interesa leer comparativas entre la edición original y esta edición de aniversario, echa un vistazo a nuestro artículo anterior titulado [Diferencias entre ediciones clásicas y conmemorativas]({% post_url 2025-11-20-diferencias-ediciones %}). No es el mismo post, pero puede darte el contexto sobre como tratamos estas transiciones en Geeknite.
 
 ## Experiencia de compra y valor
 
@@ -102,7 +116,7 @@ La edición de aniversario, como suele ocurrir con estas versiones conmemorativa
 
 ## Conclusión
 
-La Edición 10º Aniversario de Exploding Kittens es, ante todo, una celebración de una década de humor y caos amable. Si te atrae la idea de tener una versión actualizada con arte renovado, componentes más robustos y cartas temáticas que agregan chispa a las risas, esta edición tiene bastante para ofrecer. No es una revolución en la jugabilidad, pero sí una mejora agradable que puede hacer que las jornadas de juego en grupo sean más fluidas, más coloridas y, por qué no, más memorables.
+La Edicion 10º Aniversario de Exploding Kittens es, ante todo, una celebración de una década de humor y caos amable. Si te atrae la idea de tener una versión actualizada con arte renovado, componentes más robustos y cartas temáticas que agregan chispa a las risas, esta edición tiene bastante para ofrecer. No es una revolución en la jugabilidad, pero sí una mejora agradable que puede hacer que las jornadas de juego en grupo sean más fluidas, más coloridas y, por qué no, más memorables.
 
 En Geeknite, valoramos aquello que une a las personas a través del juego ligero y el humor. Si tu objetivo es pasar un buen rato con amigos, sin complicaciones y con la posibilidad de quebrar el hielo con un chiste rápido cada 5 minutos, esta edición podría convertirse en una de tus favoritas para reuniones casuales. Las piezas estéticas, la ergonomía de los componentes y la filosofía de juego centrada en la diversión la convierten en una compra razonable para quienes buscan una experiencia de fiesta sin humo de estrategia excesiva.
 
@@ -111,10 +125,8 @@ En Geeknite, valoramos aquello que une a las personas a través del juego ligero
 - Si quieres una experiencia de juego fácil de arrancar, con un esteticismo renovado y la emoción de un aniversario, adelante, la edición de aniversario es para ti.
 - Si prefieres algo con mayor profundidad estratégica y un conjunto de reglas que puedas hornear durante semanas, quizá quieras mantener la edición original como tu base de juego.
 
-En resumen: Exploding Kittens 10th Anniversary Edition es una celebración de lo que funciona en el juego: risas, interacción y la posibilidad de que alguien se quede con la carta que salva el turno cuando menos te lo esperas. Es probable que te haga sonreír cada vez que veas las cartas de aniversario saliendo del mazo, y la próxima vez que alguien grite “¡EXPLOSIÓN!” en la mesa, te reirás más que preocuparte.
+En resumen: Exploding Kittens 10th Anniversary Edition es una celebración de lo que funciona en el juego: risas, interacción y la posibilidad de que alguien se quede con la carta que salva el turno cuando menos te lo esperas. Es probable que te haga sonreír cada vez que veas las cartas de aniversario saliendo del mazo, y la próxima vez que alguien grite la palabra explosion en la mesa, te reirás más que preocuparte.
 
 Si te gustó este análisis y quieres apoyar a Geeknite mientras mejoras tus tardes de juego, no dudes en hacer clic en el enlace afiliado a continuación y, si ya lo tienes, cuéntanos tus mejores historias con esta edición en los comentarios.
 
-**Compra la Edición 10º Aniversario aquí: https://affiliate.example.com/product/exploding-kittens-10th**
-
-"}
+**Compra la Edicion 10º Aniversario aqui: https://affiliate.example.com/product/exploding-kittens-10th**
