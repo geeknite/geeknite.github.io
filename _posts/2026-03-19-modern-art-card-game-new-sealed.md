@@ -14,6 +14,8 @@ If you have ever peeled back the shrink wrap on a brand new board game and felt 
 
 ![Modern Art NEW SEALED Box]( /assets/images/modern-art-sealed.jpg)
 
+{% include image.html src='/assets/images/modern-art-sealed.jpg' alt='Modern Art NEW SEALED Box' %}
+
 > Note for our future selves: the first step in any review is admitting you own too many sealed games. The second step is realizing you also own too many unplayed games. Here is the middle ground: a sealed copy that nonetheless dares to be talked about.
 
 ## What Modern Art Is in 2026
@@ -87,6 +89,10 @@ The artwork on the cards mimics modern art sensibilities without becoming bossy 
 
 Performance-wise, the game scales well from two players to four, and the pacing remains brisk in larger groups. The tension never feels overbearing; instead it lands somewhere between a friendly debate at a gallery opening and a friendly poker night. It is the kind of experience that makes you want to bring friends who are not necessarily into board games, just to witness their reactions to the bidding theatrics and the occasional art critique that slips into the dialogue uninvited.
 
+### Visual Design and Accessibility Notes
+
+Visuals are punchy in person, and that matters when you only have 30 to 40 minutes to feel like a curator rather than a college sophomore. The clear typography on the cards makes it easy to scan values at a glance, which keeps the flow of the game snappy. For players with some light color vision challenges, the artist choices lean into high-contrast shapes and silhouettes, which helps differentiation between cards at a table with four voices shouting about who owns the banana. The compact footprint means this one travels well to game nights at a cafe, a convention hall, or a friend’s living room that smells faintly of coffee and distant wood polish.
+
 ## Replayability: Is This a One-and-Done or a Multi-Visit Gallery?
 
 Any card game that survives beyond a single session with a sealed copy in hand owes a debt to replayability. Modern Art: Card Game NEW SEALED delivers enough variability to keep it fresh. Each round presents a new subset of art cards, which ensures that no two plays feel identical. The interplay of bidding strategies shifts with every shuffle, and the presence of different card abilities across runs means you can develop new tells and counterplays each time you sit down to play.
@@ -126,5 +132,4 @@ If your group loves art jokes, re-shaping your strategy mid-game, and the occasi
 
 If you want to add a dash of art-world swagger to your next game night, this sealed edition is a safe bet. It is the kind of game that invites laughter, friendly jabs, and a wry smile at your own questionable taste in art.
 
-**Shop Modern Art: Card Game NEW SEALED via our affiliate link now and unlock a little piece of the gallery at your table.** https://affiliates.example.com/modern-art-new-sealed?ref=geeknite
-
+**Shop Modern Art: Card Game NEW SEALED via our affiliate link now and unlock a little piece of the gallery at your table: https://affiliates.example.com/modern-art-new-sealed?ref=geeknite**
