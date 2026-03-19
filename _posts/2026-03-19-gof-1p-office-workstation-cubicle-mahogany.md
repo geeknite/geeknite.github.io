@@ -14,6 +14,7 @@ tags:
   - modular
   - home-office
   - workstation
+  - interior-design
 ---
 
 ## Expanded overview
@@ -33,7 +34,7 @@ Another mood setter: a staged in-use shot that proves the GOF 1P can handle the 
 ### Updated quick specs (as commonly advertised)
 - Model: GOF 1P Office Workstation Cubicle with Desk
 - Finish: Mahogany laminate with a readable grain texture that photographs well, masks stubborn fingerprints during Zoom, and doubles as a mood board for your next sprint
-- Overall footprint: roughly 6 feet deep by 7 feet wide; height options range from 4 to 6 feet depending on sub-model and configuration
+- Dimensions: Depth around 5.5 feet (5.5D), width around 6.5 feet (6.5W); height adjustable from roughly 4 feet to 6 feet depending on sub-model and configuration
 - Features: integrated desk space, cable management troughs, modest storage, modular layout configurable for left- or right-handed workflows
 - Build: steel frame with reinforced joints and a laminated panel system designed to resist spills and the occasional coffee catastrophe
 - Assembly: standard DIY-level assembly with labeled parts, color-coded hardware, and an Allen key that becomes your tiny exoskeleton for the day
@@ -53,14 +54,14 @@ One practical note: the mahogany laminate can reflect bright light in certain of
 - Joint integrity: the modular joints lock in with a satisfying click that says you made a confident choice rather than a lucky guess.
 
 ## Dimensions, space planning, and layout options
-The GOF 1P is advertised with a depth around 6 feet and a width around 7 feet, placing it squarely in the range of a generous single-occupant station or a compact team hub when configured with partitions. A 6-foot depth means substantial desk real estate for a monitor, keyboard, notebook, and a stack of Post-its threatening to achieve critical mass by mid-afternoon. The 7-foot width provides a broad desk surface for dual-monitor setups, a laptop perch, or the occasional coffee mug that has learned to defy gravity through stubborn determination.
+The GOF 1P is advertised with a depth around 5.5 feet (5.5D) and a width around 6.5 feet (6.5W), placing it squarely in the range of a generous single-occupant station or a compact team hub when configured with partitions. A 5.5D depth means substantial desk real estate for a monitor, keyboard, notebook, and a stack of Post-its threatening to achieve critical mass by mid-afternoon. The 6.5W width provides a broad desk surface for dual-monitor setups, a laptop perch, or the occasional coffee mug that has learned to defy gravity through stubborn determination.
 
 Height options range from about 4 to 6 feet, depending on the model. This is important in open-plan offices where ceiling heights vary and ergonomic goals shift from person to person. The key ergonomic takeaway: surface height should allow your elbows to rest at about 90 degrees, wrists straight, and screen top at or slightly below eye level.
 
 Pro tip for space planning: place the cubicle where natural light is available but not directly on screens. Light is wonderful, but glare is not. The built-in cable troughs and grommets will be your best friends for keeping power strips neat and avoiding a modern sculpture of tangled cords that rivals a lava lamp in chaotic potential.
 
 ### Practical layout scenarios
-- Solo powerhouse setup: a single wide monitor with a secondary laptop dock, a compact speaker, and a cup warmer. The 6x7 footprint leaves room for a document scanner on the side shelf if you steal a little extra space from your Pringles jar of productivity.
+- Solo powerhouse setup: a single wide monitor with a secondary laptop dock, a compact speaker, and a cup warmer. The 5.5x6.5 footprint leaves room for a document scanner on the side shelf if you steal a little extra space from your Pringles jar of productivity.
 - Small team nook: configure with short partitions and shared access to a central cable trough. Bubble in a second desk surface for collaborative tasks while maintaining personal space for focused work.
 - Designer cheat sheet corner: allocate extra space for a drawing tablet, sketchbooks, and a reference wall of sticky notes. The mahogany backdrop provides a refined canvas for your creative notes.
 
