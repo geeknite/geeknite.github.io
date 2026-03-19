@@ -17,6 +17,7 @@ tags:
   - installation
   - durability
   - reliability
+  - rubber-meets-rope
 ---
 
 ![ATV winch setup]({{ '/assets/images/atv-winch-setup.jpg' | relative_url }})
@@ -49,7 +50,7 @@ The synthetic rope deserves its time in the spotlight. It is lighter than steel,
 - Gear reduction: Roughly 140:1, meaning lots of torque and modest speed
 - Brake: Automatic load-holding (yes, it is that feature you almost forget exists until you need it)
 - Remote: Wireless, roughly 50–60 ft range
-- Mounting: Typical 3- or 4-bolt pattern; mounting plate may be included or sold separately
+- mounting: Typical 3- or 4-bolt pattern; mounting plate may be included or sold separately
 - IP rating: Weather-sealed for dust and water exposure (not a submarine, but you can splash it without panic)
 
 If you prefer to measure by your own odometer, here is a practical takeaway: you get solid, controllable pulls on rock-laden trails and manageable recoveries on muddy inclines. This is not a miracle device that will yank a bus out of a snowbank, but it is designed for recreational recoveries where leverage, technique, and a touch of winch drama can rescue your weekend plans without turning the event into a miniature construction project.
@@ -116,6 +117,11 @@ We mounted the unit on an ATV and subjected it to a broad spectrum of real-world
 - Wipe down the drum housing to prevent grit from sneaking into bearings.
 - Verify mounting bolts and locknuts are torqued to spec and keep an eye on any signs of loosening after rugged use.
 - Store the winch in a dry place away from direct sunlight. UV exposure is the long game enemy of synthetic fibers.
+
+### Rope care cheat sheet
+- Inspect before every trip. Look for cuts, fuzzing, or glazing on the sheath.
+- Dry storage matters. If you must leave it mounted outdoors, consider a protective sleeve to shield UV and grit.
+- Avoid sharp edges. If you must feed rope around a sharp corner, use a proper fairlead and watch for heat buildup during long pulls.
 
 ## Troubleshooting quick-guide (expanded)
 - Slow winching or stuttering: check battery voltage. A weak battery robs the motor of torque. Consider upgrading the battery or adding a second one for longer sessions.
