@@ -30,6 +30,7 @@ For the visual folks, here’s a quick stop-motion vibe of the unboxing: the box
 External reading: if you want the official spin on the product, you can check Exploding Kittens’ official site for brand values and the balance between cute and terrifying on your table. https://www.explodingkittens.com/
 
 ### The box that wears its chaos well
+
 The sealed 2020 Party Pack also serves as a display piece. It sits on a shelf like a trophy for people who believe that memes are a legitimate form of strategy. The graphics are loud in the best possible way, which is to say they tell you exactly what you’re signing up for: fast rounds, big reactions, and a table full of people who will remember the night for a pun that will haunt them for years.
 
 ---
