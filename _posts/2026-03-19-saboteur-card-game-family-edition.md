@@ -12,7 +12,7 @@ tags:
 
 ![Saboteur Family Edition](/assets/images/saboteur-family-edition.jpg)
 
-Sometimes a card game needs to sneak into your living room wearing a goofy beard and a neon vest. Saboteur Card Game - Family Edition does exactly that, slipping past your grown-up pretensions with a wink and a nudge. It takes the cheeky crime caper vibe of the original Saboteur and tailors it for family game night: big laughs, little fights over the best tunnel, and exactly zero existential dread about goblin tyrants. If you know where the gold is, you might be tempted to lie about it. If you don’t, well, you’ll still have a blast pretending you do. This expanded review dives deeper into the family-friendly core, the tiny choices that keep kids giggling, and the moments that make grown-ups go “uh-huh, I see what you did there.”
+Sometimes a card game needs to sneak into your living room wearing a goofy beard and a neon vest. Saboteur Card Game - Family Edition does exactly that, slipping past your grown-up pretensions with a wink and a nudge. It takes the cheeky crime caper vibe of the original Saboteur and tailors it for family game night: big laughs, little fights over the best tunnel, and exactly zero existential dread about goblin tyrants. If you know where the gold is, you might be tempted to lie about it. If you don’t, well, you’ll still have a blast pretending you do. This updated review dives deeper into the family-friendly core, the tiny choices that keep kids giggling, and the moments that make grown-ups go “uh-huh, I see what you did there.”
 
 ## Overview and vibe: what this edition really is
 ### What Saboteur Family Edition is trying to be
@@ -79,7 +79,7 @@ Accessibility is a major win here. The rules are short, the actions intuitive, a
 
 ## Comparison with the original Saboteur (a quick, friendly contrast)
 - Tone: Family Edition is warmer and louder in laughter, while the original Saboteur can be sharper and more cynical depending on variant rules.
-- Complexity: Family Edition trims the more fiddly strategies for clarity and speed; the base game rewards real deduction and longer play sessions.
+- Complexity: Family Edition trims the fiddly strategies for clarity and speed; the base game rewards real deduction and longer play sessions.
 - Player interaction: both rely on social dynamics, but the family version nudges toward open discussion and quick pivots toward teamwork.
 - Replayability: both scale with player count, but the family edition shines when you want a brisk, repeatable session that remains accessible to younger players.
 
@@ -101,7 +101,7 @@ Long answer: if you want a game night that blends light deception with a strong 
 
 If you’re shopping for a game that will entertain both the gamer and the family dog, this is a strong contender. It doesn’t try to be more than what it is: a family-friendly heist caper where the treasure might be imaginary but the memories are very real. It’s a game night staple-in-waiting, destined to reappear whenever there’s a birthday, a rainy afternoon, or the rare moment when everyone agrees to put down their devices and pretend to be dwarves for a couple of hours.
 
-## Practical buying notes and recommendations
+### Practical buying notes and recommendations
 - Player count: great for 3–6 players, expandable with house rules for more if your family is up for a longer session. If you’re down to two players, you might want to pair it with a second game to keep the momentum high.
 - Age range: typically suitable for ages 7+, but a sharp older player can coach younger ones and still enjoy the banter.
 - Setup time: quick. Expect about 5 minutes once you’ve memorized the layout. The big win is the rest of the evening—game on, pack away, repeat.
