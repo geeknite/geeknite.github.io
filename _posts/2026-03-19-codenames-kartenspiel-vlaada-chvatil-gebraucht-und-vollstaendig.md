@@ -1,13 +1,15 @@
 ---
-title: Codenames Kartenspiel von Vlaada Chvatil - gebraucht und vollständig
+title: Codenames Kartenspiel von Vlaada Chvátil – gebraucht und vollständig (aktualisiert)
 date: 2026-03-19
-tags: [Spiele, Rezension, Kartenspiel, Vlaada Chvatil]
+tags: [Spiele, Rezension, Kartenspiel, Vlaada Chvatil, Gebrauchtkauf, Geeknite]
 ---
 
-## Einordnung
-Codenames Kartenspiel von Vlaada Chvatil – gebraucht und vollständig ist mehr als nur eine Box voller Karten. Es ist eine Einladung zu kurzen, scharf getakteten Denkspielen, bei dem Wort-Assoziationen zu einem Taktstock werden und Teams gegeneinander antreten, um die richtigen Deckel zu lüften. Die Grundidee bleibt dieselbe wie beim Original: Spymaster geben einheitliche Hinweise, die die anderen Spieler dazu bringen sollen, die richtigen Karten auf dem Tisch zu identifizieren. In der Kartenspiel-Variante wird dieser Mechanismus oft über ein Kompakt-Deck abgebildet, das Wortkarten, Agentenmarkierungen und die ikonische Spymaster-Karte enthält. Wer eine gebrauchte Kopie ergattert, erhält außerdem eine kleine Prise Charakter – denn jede gebrauchte Ausgabe erzählt eine eigene Story: der Vorbesitzer hat eventuell die Packung geöffnet, die Ecken gebeugt oder die Karten kurzzeitig gegen die Tischplatte gerieben, um die Stimmung aufzuwärmen. Und genau hier liegt der Charme: Gebraucht bedeutet oft, dass das Spiel schon öfter gelacht, gerochen und vielleicht sogar im Urlaub überlebt hat.
+![](/assets/images/codenames-kartenspiel.jpg)
 
-Hier bei Geeknite lieben wir solche Geschichten. Ein gut erhaltenes Gebrauchtexemplar kann genauso viel Freude liefern wie eine brandneue Verpackung – nur liegt der Preisfaktor davon nicht in der Verpackung, sondern in der Geschichte, die die Karten mit sich bringen. Wenn du also gerade ein gebrauchtes Exemplar aus dem Freundeskreis oder aus dem lokalen Spielwarengeschäft in Erwägung ziehst, bist du hier richtig. Wir schauen auf Rollen, Materialien, Spielgefühl sowie auf typische Fallstricke beim Kauf eines gebrauchten Kartenspiels – und geben am Ende eine klare Empfehlung.
+## Einordnung
+Codenames Kartenspiel von Vlaada Chvátil – gebraucht und vollständig ist mehr als nur eine Box voller Karten. Es ist eine Einladung zu kurzen, scharf getakteten Denkspielen, bei dem Wort-Assoziationen zu einem Taktstock werden und Teams gegeneinander antreten, um die richtigen Deckel zu lüften. Die Grundidee bleibt dieselbe wie beim Original: Spymaster geben einheitliche Hinweise, die die anderen Spieler dazu bringen sollen, die richtigen Karten auf dem Tisch zu identifizieren. In der Kartenspiel-Variante wird dieser Mechanismus oft über ein Kompakt-Deck abgebildet, das Wortkarten, Agentenmarkierungen und die ikonische Spymaster-Karte enthält. Wer eine gebrauchte Kopie ergattert, erhält außerdem eine kleine Prise Charakter – denn jede gebrauchte Ausgabe erzählt eine eigene Story: Der Vorbesitzer hat eventuell die Packung geöffnet, die Ecken gebeugt oder die Karten kurzzeitig gegen die Tischplatte gerieben, um die Stimmung aufzuwärmen. Und genau hier liegt der Charme: Gebraucht bedeutet oft, dass das Spiel schon öfter gelacht, gerochen und vielleicht sogar im Urlaub überlebt hat.
+
+Hier bei Geeknite lieben wir solche Geschichten. Ein gut erhaltenes Gebrauchsexemplar kann genauso viel Freude liefern wie eine brandneue Verpackung – nur liegt der Preisfaktor davon nicht in der Verpackung, sondern in der Geschichte, die die Karten mit sich bringen. Wenn du also gerade ein gebrauchtes Exemplar aus dem Freundeskreis oder aus dem lokalen Spielwarengeschäft in Erwägung ziehst, bist du hier richtig. Wir schauen auf Rollen, Materialien, Spielgefühl sowie auf typische Fallstricke beim Kauf eines gebrauchten Kartenspiels – und geben am Ende eine klare Empfehlung.
 
 Zuallererst ist wichtig zu sagen, dass Codenames Kartenspiel in der Praxis eine kompakte, reisegeeignete Variante der Originalidee darstellt. Das Ziel bleibt einfach: so viele richtige Karten wie möglich zu identifizieren, bevor die Zeit knapp wird oder das Gegenüber zu gut legt. Die Kooperation zwischen Spymaster und Team ist zentral. Der Spymaster spendet kurze, prägnante Hinweise, die aus genau einem Wort bestehen, gefolgt von einer Nummer, die angibt, wie viele Karten der Hinweis deckt. Die Spieler müssen dann die Karten auf dem Tisch interpretieren, die zu diesem Wort passen könnten. Der Reiz liegt in der Balance: Ein gut formulierter Hinweis öffnet Türen, ein schlecht formulierter führt zu Irrwegen oder – im schlimmsten Fall – zum Verrat durch eine falsche Karte.
 
@@ -38,7 +40,7 @@ Wenn du eine gebrauch­te Kopie suchst, kann es, je nach Zustand, auch bedeuten,
 - Textlesbarkeit prüfen: Karten sollten lesbar bleiben, kein Verschmieren der Wörter.
 - Vorbesitzer Notizen? Ein Sticker oder eine Randnotiz kann witzig sein, sollte aber die Verständlichkeit nicht beeinträchtigen.
 - Sleeve-Optionen prüfen: Sleeve-Vorschläge können das Spiel effektiv schützen, besonders auf Reisen.
-- Preisvergleich: Gebrauchtpreise schwanken stark – stelle sicher, dass der Preis fair ist im Vergleich zum Neupreis und Zustand. 
+- Preisvergleich: Gebrauchtpreise variieren stark – stelle sicher, dass der Preis fair ist im Vergleich zum Neupreis und Zustand. 
 - Ersatzteile klären: Falls Teile fehlen, erkundige dich nach Nachkäufen oder Ersatzkarten.
 - Transportfreundlichkeit: Passt das Spiel in deinen Koffer oder die Handtasche, oder ist es besser, es zuhause zu lassen?
 - Erste Spieleinführung planen: Wenn du das Kartenspiel neu kennst, plane eine kurze Einführung, damit alle Mitspieler schnell ins Spiel finden.
