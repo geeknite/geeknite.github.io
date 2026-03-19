@@ -64,7 +64,7 @@ The magic of Exploding Kittens lies in its unpredictable social dynamics. It is 
 
 This is not a solo contemplative game it is a shared joke with friends who can lean in, raise an eyebrow, and shout silly lines when fate is outsourced to a floppy cat card. It wants to be a comedy sketch at a board game convention, and in that aim, it lands with a satisfying explosion of giggles every time the wrap up totals appear on See the Future cards.
 
-## Player count and replayability
+### Player count and replayability
 
 The game scales gracefully from 2 to 5 players, with the sweet spot often sitting around 4 or 5. At 2 players you get a tighter duel with less chaos, which some groups adore for its focus. At 4 or 5 players you get maximum social combustion alliances form and reform, table talk escalates into theatrical performances, and the room reverberates with a chorus of cat themed gasps and groans.
 
@@ -99,6 +99,10 @@ Humor is the secret sauce that makes Exploding Kittens memorable. The characterf
 ## How it compares to other party games
 
 Compared to purer bluffing games or heavier party titles, Exploding Kittens sits in a sweet, low-stakes middle ground. Rules are simple, sessions are short, and the unpredictability keeps players engaged even when a bad draw seems likely. It slots nicely alongside lighter classics like Uno while offering a distinct theme and personality that makes it feel more than just another deck of cards. If your crew loves a hint of chaos, a bit of theater, and a lot of goofy art, this title should be in heavy rotation.
+
+## Expansions and variations
+
+For years, people have asked, "Can exploded kittens get bigger?" The answer is yes: you can tack on expansions like Imploding Kittens and Party Pack to refresh the chaos without turning it into a math symposium. Imploding Kittens introduces a new type of cat that can blow up differently, plus a few extra mechanics that encourage riskier plays. Party Pack broadens the player range and includes more cards to juice the chaos for large groups. If you are bringing this to a bigger game night, consider the 2-player hack variant that many groups adopt, where players use a small deck and an extra rule to keep tension high when only two humans remain.
 
 ## Value and longevity
 
