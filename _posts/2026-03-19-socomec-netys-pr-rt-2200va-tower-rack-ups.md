@@ -1,5 +1,5 @@
 ---
-ttitle: 'Geeking Out on the Socomec Netys PR RT 2200VA: Tower or Rack, This UPS Has Jokes'
+title: 'Geeking Out on the Socomec Netys PR RT 2200VA: Tower or Rack, This UPS Has Jokes'
 date: 2026-03-19
 tags:
   - ups
@@ -8,11 +8,13 @@ tags:
   - rack-mount
   - tower-ups
   - power-management
+  - small-business
+  - home-lab
 ---
 
-Welcome to Geeknite, where we turn power bricks into punchlines and battery backups into life hacks. If your servers could talk, they would probably ask for more coffee and fewer power outages. Today we dive into a device that pretends to be a stubborn wizard, but secretly runs on lead-acid valor and good vibes: the Socomec Netys PR RT 2200VA. In plain human terms, this is a 2.2 kVA UPS that can sit pretty as a tower or tuck neatly into a rack. It wants to be your bridge between the power grid and your precious data throne, and it will argue with you politely if you try to squeeze it into a place it doesn’t fit. Spoiler: it fits most places where you’d store a slightly serious, powered plant in a cabinet with fans.
+Welcome to Geeknite, where we turn power bricks into punchlines and battery backups into life hacks. If your servers could talk, they would probably ask for more coffee and fewer outages. Today we dive into a device that pretends to be a stubborn wizard, but secretly runs on lead-acid valor and good vibes: the Socomec Netys PR RT 2200VA. In plain human terms, this is a 2.2 kVA UPS that can sit pretty as a tower or tuck neatly into a rack. It wants to be your bridge between the power grid and your precious data throne, and it will argue with you politely if you try to squeeze it into a place it doesn’t fit. Spoiler: it fits most places where you’d store a slightly serious, powered plant in a cabinet with fans.
 
-![Netys PR RT 2200VA in Tower mode](/assets/images/netys-pr-rt-2200va.jpg)
+![]({{ '/assets/images/netys-pr-rt-2200va.jpg' | relative_url }})
 
 External sanity check comes in the form of the official product page, which you can peek at here: [Official Socomec Netys PR RT 2200VA page](https://www.socomec.com/ups/netys-pr-rt-2200va). It’s the grown-up version of a power strip with a PhD in redundancy. If you want the marketing bullet points straight from the horse’s mouth, that page is your best friend. For the curious nerd who wants to compare against our favorite coffee mug, we’ll walk you through everything in this review, plus a few jokes that only an uninterruptible power supply could appreciate.
 
@@ -66,7 +68,12 @@ Okay, enough techy bragging. Let’s talk about why this kind of UPS matters in 
 Before you unbox the Netys, a little planning goes a long way. If you opt for rack mounting, ensure you have the right rail kit and clearance for airflow. If you choose a tower, make sure the unit has stable footing and a clean path for cable routing. Cable management matters here; a well-organized front panel with neatly routed power and data cables makes preventive maintenance easier and reduces the chance of accidental disconnections during a storm.
 
 ### Initial Setup Steps (High-Level)
-1. Position the UPS in your chosen form factor (tower or rack). 2. Connect the input power and the critical load circuits. 3. Install and configure the optional communications card if you want network management. 4. Connect USB/serial/network to your management host. 5. Power up, run a self-test, and calibrate the battery health if your manual suggests it. 6. Schedule an initial battery test and verify all connected devices respond to a simulated power-off event.
+1. Position the UPS in your chosen form factor (tower or rack).
+2. Connect the input power and the critical load circuits.
+3. Install and configure the optional communications card if you want network management.
+4. Connect USB/serial/network to your management host.
+5. Power up, run a self-test, and calibrate the battery health if your manual suggests it.
+6. Schedule an initial battery test and verify all connected devices respond to a simulated power-off event.
 
 ### Battery Replacement and Maintenance
 A UPS is only as good as its batteries. Netys devices typically use VRLA-type battery packs, which are designed for reliable performance over several years. Battery health degrades with time and cycles, so keep an eye on the battery health indicators in Netys. Schedule periodic battery tests, especially in environments with frequent outages or long outages that push the battery to its limits. When it’s time for a swap, follow the manufacturer’s guidance for safe replacement to avoid the inevitable dramatic moment when you discover a used battery looks suspiciously older than your first laptop.
@@ -86,7 +93,7 @@ If your uptime requirements are moderate to high and you value a device with a c
 - Pros: Flexible mounting (tower or rack), solid management integration, AVR to handle grid quirks, a readable display, sensible port options, and a clean design that doesn’t scream overkill.
 - Cons: It’s not the cheapest device in its class, and if you push a heavy load with long runtimes, you’ll certainly feel the weight (and the watts). The exact feature set may depend on regional availability of optional cards, so check what is included in your market.
 
-If you’ve read this far and you’re comparing it to other brands, you may want to peek at a few other posts for broader context. Check out our earlier [ups comparison guide]({% post_url '2025-05-14-ups-comparison-roundup' %}) and a field report on [VRLA battery longevity]( {% post_url '2024-12-22-vrla-battery-longevity' %} ). These internal posts can help you calibrate expectations and build a decision framework for your unique setup.
+If you’ve read this far and you’re comparing it to other brands, you may want to peek at a few other posts for broader context. Check out our earlier [ups comparison guide]({% post_url '2025-05-14-ups-comparison-roundup' %}) and a field report on [VRLA battery longevity]({% post_url '2024-12-22-vrla-battery-longevity' %}). These internal posts can help you calibrate expectations and build a decision framework for your unique setup.
 
 ## Final Verdict
 The Socomec Netys PR RT 2200VA is not a flashy toy, and it’s not a mysterious black box of secrets. It’s a well-rounded, thoughtfully designed UPS that gives you a flexible form factor, reliable protection for a moderate footprint, and management capabilities that can scale with your growing needs. It’s the kind of device that earns respect in the server room by doing its job without drawing attention to itself, which, in tech terms, is the highest compliment you can give a power protection device.
