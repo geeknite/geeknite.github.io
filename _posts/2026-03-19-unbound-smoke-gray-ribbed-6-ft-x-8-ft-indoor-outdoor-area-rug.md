@@ -1,5 +1,5 @@
 ---
-ttitle: 'Unbound Smoke Gray Ribbed 6 Ft x 8 Ft Indoor/Outdoor Area Rug Review'
+title: 'Unbound Smoke Gray Ribbed 6 Ft x 8 Ft Indoor/Outdoor Area Rug Review'
 date: 2026-03-19
 tags:
   - home
@@ -37,7 +37,7 @@ This rug exudes calm competence. It’s the kind of piece that looks restrained 
 ## Design and aesthetics: why color and texture matter
 
 ### Visual impact
-Smoke gray is the dependable sidekick to almost any palette. It whispers, “I belong here,” without shouting. The ribbed texture adds a tactile dimension that invites a quick moment of touch—tiny victories for folks who like to appreciatively feel their decor while chasing a quest in a sci-fi marathon. In geek terms, it’s like marrying a battle-droid chassis with a stealth folder: practical, unshowy, and ready for whatever the universe throws at it.
+Smoke gray is the dependable sidekick to almost any palette. It whispers, ‘I belong here,’ without shouting. The ribbed texture adds a tactile dimension that invites a quick moment of touch—tiny victories for folks who like to appreciatively feel their decor while chasing a quest in a sci-fi marathon. In geek terms, it’s like marrying a battle-droid chassis with a stealth folder: practical, unshowy, and ready for whatever the universe throws at it.
 
 ### Pattern and texture synergy
 - The ribbing creates lines that subtly guide the eye, helping define seating zones in open-plan spaces.
