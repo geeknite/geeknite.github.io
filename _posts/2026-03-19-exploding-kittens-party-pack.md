@@ -1,7 +1,7 @@
 ---
 title: Exploding Kittens Party Pack: Play Exploding Kittens with up to 10 players!
 date: 2026-03-19
-tags: [board games, party games, card games, Exploding Kittens, review, geeks]
+tags: [board games, party games, card games, Exploding Kittens, review, geeks, multiplayer, chaos]
 ---
 
 # Exploding Kittens Party Pack: Play Exploding Kittens with up to 10 players!
@@ -16,7 +16,7 @@ External link for the curious cat: https://www.explodingkittens.com/
 
 For the lore nerds and number crunchers among you, you’ll find a lot of the same card art and ridiculous humor from the base game, just spread across more hands and louder laughter. If you have already dug into the base game, this expansion pack is more of the same but with a bigger stage, which is to say the same chaotic rhythm but the tempo dialed up to eleven. If you prefer the quiet tension of “one person gets the bomb,” this is not your jazz club. If you like a room full of friends who pretend to be quiet while plotting your downfall, you’ve found a winner.
 
-## What is in the box and how it scales up
+## What is in the box (and what it means for a ten-player showdown)
 
 Let’s break down what you actually get in the Party Pack and why it matters when you are orchestrating a full-blown, 10-person chaos orchestra.
 
