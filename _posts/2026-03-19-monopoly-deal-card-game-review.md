@@ -1,6 +1,6 @@
 ---
 title: Monopoly Deal Card Game Review — Updated Chaos in a Pocket Deck
-date: 2026-03-26
+date: 2026-03-19
 tags:
   - games
   - board games
@@ -17,7 +17,7 @@ tags:
 
 ## Introduction
 
-Monopoly Deal Card Game is the pocket thunderbolt version of a sprawling property empire. If the classic Monopoly board game is a long flight, Monopoly Deal is a sprint through a neon city block where you still chase rent, still bluff about owning the big color sets, but you do it with a deck that fits in a bag and a coffee break friendly pace. This updated review dives deeper into the 2–5 player, ready-to-play reality you might encounter at a game night or a convention where the dice are smiling and the cards are ready to hustle your wallet. If speed, chaos, and a dash of friendly treachery tickle your fancy, this compact card game has a shelf spot waiting for you.
+Monopoly Deal Card Game is what you get when you take the grand, sprawling board game empire and shrink it down to a pocket-sized chaos engine. If the classic Monopoly is a long flight with luggage that squeaks under the weight of your own ambition, Monopoly Deal is the sprint through a neon city block where you still chase rent and still bluff about owning the big color sets, but you do it with a deck that fits in a bag and a coffee break friendly pace. This updated review dives into the 2–5 player reality you’ll likely encounter at game night or a convention where the dice are smug and the cards are ready to hustle your wallet. If speed, chaos, and a dash of friendly treachery tickle your fancy, this compact card game has a shelf spot waiting for you.
 
 This post leans into the Parker Brothers legacy under the Hasbro umbrella while preserving Geeknite’s appetite for what actually matters: how much chaos a game can generate in minutes, not hours. We’ll dig into what Monopoly Deal is, how its core loop works, where it shines, and where it tests the nerves of even the luckiest banker. Expect brisk rounds, bickering about rent, and the occasional dramatic swing that proves you can win on a single card and a great bluff. And yes, this copy is new sealed, because some jokes play better when the plastic is still crisp.
 
@@ -66,7 +66,7 @@ If you want to accelerate your setup, try pre-sorting the deck by color groups (
 On your turn you may perform up to three actions, or you may draw up to two cards and then perform actions. The twist is that actions can be chained if you hold the right cards, so your turn can escalate rapidly from a single rent charge to a full property heist with a villainous grin. The core card types are:
 - Property cards: the colored cores of your dream portfolio. Sets of a given color require a target size; wildcards can substitute for missing colors, which adds a strategic wrinkle.
 - Money cards: the lifeblood of defense and rent payment. They are not just resources; they are a shield they want to spite you with when you try to cash out.
-- Rent cards: the income stream that can be boosted by combining color sets. They are the raison d être of the game’s tempo, especially when used in combination with other effects.
+- Rent cards: the income stream that can be boosted by combining color sets. They are the raison d etre of the game’s tempo, especially when used in combination with other effects.
 - Action cards: Deal Breaker, Sly Deal, Debt Collector, Just Say No and more. These are the dramatic fireworks that shape who wins and who gnashes their teeth after a bad draw.
 
 ### Ending conditions and board tensions
@@ -115,7 +115,7 @@ Monopoly Deal has inspired expansions and variants that add new color palettes, 
 
 ## The table talk factor: social dynamics and the joy of scheming
 
-This is where Monopoly Deal really shines. The negotiation, trades, and occasional uneasy alliances create a social dynamic that is as important as any set-collection math. The tempo encourages banter, light betrayal, and moments when a single card changes a relationship on the table. It is a party game with real consequences, and that mix of social play and strategic play is what keeps players coming back for more. The table becomes a stage, and you’re the overconfident director who suddenly realizes you’re not the only one with a great plan—and that plan might involve stealing your own sister’s property. It’s ridiculous, it’s dramatic, and it’s glorious in the right group.
+This is where Monopoly Deal really shines. The negotiation, trades, and occasional uneasy alliances create a social dynamic that is as important as any set-collection math. The tempo encourages banter, light betrayal, and moments when a single card changes a relationship on the table. It is a party game with real consequences, and that mix of social play and strategic play is what keeps players coming back for more. The table becomes a stage, and you’re the overconfident director who suddenly realizes you’re not the only one with a great plan—and that plan might involve stealing your own sister property. It’s ridiculous, it’s dramatic, and it’s glorious in the right group.
 
 ## Design choices that matter
 
@@ -134,13 +134,13 @@ You will find Monopoly Deal widely available from major retailers. New copies co
 
 ## Visuals: a look at the card art and layout
 
-![Monopoly Deal Artwork](/assets/images/monopoly-deal.jpg)
+![Monopoly Deal Artwork]({{ '/assets/images/monopoly-deal.jpg' | relative_url }})
 
 The image above captures the card art energy: bold cash imagery, bright property colors, and the familiar Monopoly font reimagined for a card game audience. The visual design is not just decoration; it helps players rapidly distinguish property colors, cash values, and action types during heated moments. If you have ever wanted a game that looks as lively as it plays, Monopoly Deal nails the aesthetic relentlessly.
 
 But we also appreciate a little extra mood lighting. For the curious, here are a couple more views from the deck to show how the art evolves across print runs:
 
-![Monopoly Deal Cards](/assets/images/monopoly-deal-cards.jpg)
+![Monopoly Deal Cards]({{ '/assets/images/monopoly-deal-cards.jpg' | relative_url }})
 
 ## What makes Monopoly Deal worth a player’s shelf space
 
