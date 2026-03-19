@@ -1,5 +1,5 @@
 ---
-title: Kaldheim Commons Expanded: The Unsung Heroes of MTG's Norse-Inspired Battlefields
+title: Kaldheim Commons Expanded: The Unsung Heroes of MTG's Norse-Inspired Battlefields (Expanded & Updated)
 date: 2026-03-19
 tags:
   - MTG
@@ -10,13 +10,15 @@ tags:
   - set-review
   - limited
   - budget
+  - constructed
+  - foretell
 ---
 
 ![Kaldheim Commons Banner](/assets/images/kaldheim-commons-banner.jpg)
 
-## Introduction: The Quiet Giants of Kaldheim
+## Introduction: The Quiet Giants of Kaldheim Expanded
 
-Kaldheim arrived with the bite of a frost wind and the swagger of a shieldmaiden marching through a blizzard. We all ooh and aah at the mythic beasts and the spell-slinging drama, but somewhere in the corner of the draft table, a band of underappreciated veterans quietly does the homework: the commons. Those cards that are never the centerpiece on a billboard’s showcase, yet are responsible for 90 percent of the actual gameplay in any Limited format. In this expanded edition, we’ll revisit KHM commons with fresh eyes, tally their contributions to Limited and Constructed, and yes, celebrate those small cards that can turn a close game into a comfortable victory with a well-timed foretell or a stubborn two-drop that refuses to die.
+Kaldheim arrived with the bite of a frost wind and the swagger of a shieldmaiden marching through a blizzard. We all ooh and aah at the mythics and the spell-slinging drama, but somewhere in the corner of the draft table, a cadre of underappreciated veterans quietly does the homework: the commons. Those cards that aren’t the centerpiece on a billboard’s showcase, yet are responsible for roughly 90 percent of the actual gameplay in Limited formats. In this expanded edition, we’ll revisit KHM commons with fresh eyes, tally their contributions to Limited and Constructed, and celebrate those tiny powerhouses that can flip a win from “I guess I’ll stabilize” to “I’ll snack on you while you draw your bomb.”
 
 Foretell is the flavor and the function: it invites you to plan ahead, while remaining forgiving if the game refuses to cooperate. This is not a gimmick; it’s a design ethos that gives commons an outsized impact in the right shell.
 
