@@ -15,20 +15,27 @@ tags:
 ![]({{ site.baseurl }}/assets/images/exploding-kittens-2p-cover.jpg)
 
 ## Overview
-If two players, a peppering of chaos, and a cat shaped existential crisis had a baby, the result would be Exploding Kittens 2-Player Edition. This is the compact, caffeinated cousin of the big party version: still mischievous, still lightning-fast, but tuned for a duel rather than a crowd. It shrinks the chaos into a two-person duel where savvy bluffing and well-timed Defuse cards can save your dignity (and your score) against a rival who is clearly plotting your doom with a purr of faux innocence.
+If two players, a peppering of chaos, and a cat-shaped existential crisis had a baby, the result would be Exploding Kittens 2-Player Edition. This is the compact, caffeinated cousin of the big party version: still mischievous, still lightning-fast, but tuned for a duel rather than a crowd. It shrinks the chaos into a two-person duel where savvy bluffing and well-timed Defuse cards can save your dignity (and your score) against a rival who is clearly plotting your doom with a purr of faux innocence.
 
 > Pro tip: if you want the game to feel fair, you can add a timer to speed things up. If you want it to feel legendary, narrate every draw with the melodrama of a soap opera cliffhanger.
 
 In short, this edition is where Exploding Kittens meets a spicy two-player duel, with more cat puns per minute than your average group chat and fewer people negotiating over who shuffled last. It respects the heart of the original while trading up the tension, speed, and bite-sized drama for two players who want to duel, not dally.
 
+## What’s new in the two-player edition (and why it matters)
+This is not just the base game shrunk down with a rule tweak. The 2-Player Edition introduces a tighter closure on exploitation and a sharper focus on direct interaction. The tempo is designed for quick, laugh-heavy rounds that still reward memory and misdirection. You’ll notice a few tweaks that matter in practice:
+- Fewer cards to reduce dead air slots between turns while keeping the core surprise elements intact.
+- A stronger emphasis on bluffing and counter-bluffing, because two players can be fiery and petty in equal measure.
+- See the Future and Attack cards play into a brisk little tug-of-war that often ends with a glorious misread and a squeal of delight (or despair).
+
+If you loved the chaos of Exploding Kittens but wanted something you could actually finish before dessert, this is your edition. It respects the chaos, adds the bite-sized tension, and makes the table feel like a tiny battlefield where every draw is a mic drop moment.
+
 ## What’s in the box (and what it means for your nerves)
 A compact, travel-friendly deck with two big ideas: you want to survive the explosion and you want to taunt your opponent into a meltdown of excuses. Here’s what you get and why it matters.
-
-- A trimmed deck that fits in a slim box, ideal for quick play on a coffee table or a couch battlefield
-- A handful of Defuse cards that rescue you from doom (and from ordering a second pizza, which is also chaos-free)
-- A small instruction sheet that fits in a pocket and still reads like it was written during a caffeine-fueled nap
-- A handful of cheeky tokens and a clean, cat-inspired aesthetic that keeps the mood buoyant even when your strategy goes sideways
-- A couple of quick reference cards that spare you from rereading the Rulebook of Doom every two minutes
+- A trimmed deck that fits in a slim box, ideal for quick play on a coffee table or a couch battlefield.
+- A handful of Defuse cards that rescue you from doom (and from ordering a second pizza, which is also chaos-free).
+- A small instruction sheet that fits in a pocket and still reads like it was written during a caffeine-fueled nap.
+- A handful of cheeky tokens and a clean, cat-inspired aesthetic that keeps the mood buoyant even when your strategy goes sideways.
+- A couple of quick reference cards that spare you from rereading the Rulebook of Doom every two minutes.
 
 ![Two-player setup image]({{ site.baseurl }}/assets/images/exploding-kittens-2p-play.jpg)
 
@@ -64,7 +71,7 @@ A turn is straightforward but there’s room for mind games to flourish:
 The end occurs when a player draws an Exploding Kitten without a Defuse. The other player wins, proving that they’ve mastered the sacred art of tempting fate and laughing at misfortune. In two-player mode, the end tends to come faster than the multi-player chaos—though the laughs are just as loud and the trash talk just as petty.
 
 ## Why this edition exists (and why you should care)
-The two-player format is a clever evolution of a party staple. It preserves the chaotic energy while focusing the play on a direct duel. The smaller pace and tighter decision points create a rhythm that feels like a high-stakes mini-boss fight rather than a long, sprawling campaign. It’s basically a duel where you hurl kittens at your friend and hope your luck aligns with a few defuses and well-timed See the Future reveals.
+The two-player format is a clever evolution of a party staple. It preserves the chaotic energy while focusing the play on a direct duel. The smaller pace and tighter decision points create a rhythm that feels like a high-stakes mini-boss fight rather than a long, sprawling campaign. It’s basically a duel where you hurl kittens at your friend and hope your luck aligns with a few Defuses and well-timed See the Future reveals.
 
 ### Comparison with the base game (expanded)
 - Number of players: base game supports 2-5; this edition optimizes for 2. Think of it as a speedrun version of the chaotic party favorite.
@@ -123,7 +130,7 @@ The tension builds as you map out a few plausible futures, weighing the risk of 
 That is the rhythm of Exploding Kittens 2-Player Edition: fast, funny, and fondly ridiculous. It asks you to take a risk, to bluff, to laugh when you fail, and to accept that sometimes your opponent simply had the better draw. It is a two-player duel that knows how to crash a party without burning the house down.
 
 ## Design, vibe, and what that means for your table (beyond the jokes)
-The art direction stays cheeky, with a cat centered chaos that feels just right for a two-player duel. The minimalist box design and trimmed deck mean fewer faff factors at setup, which translates to more time for banter and more chances to misplay with style. The vibe is not just cute chaos; it is chaotic casual, the sort of energy you want when you have 15 minutes before a different obligation but still want to feel heroic for a moment.
+The art direction stays cheeky, with a cat-centered chaos that feels just right for a two-player duel. The minimalist box design and trimmed deck mean fewer faff factors at setup, which translates to more time for banter and more chances to misplay with style. The vibe is not just cute chaos; it is chaotic casual, the sort of energy you want when you have 15 minutes before a different obligation but still want to feel heroic for a moment.
 
 The humor lands because it stays character consistent. It isn’t trying to be high art; it aims to be the perfect snack: quick, satisfying, and a little indulgent. The two-player format lets those jokes land faster, but it also gives players a chance to craft micro-narratives around each draw, each counter move, and each glorious misstep.
 
