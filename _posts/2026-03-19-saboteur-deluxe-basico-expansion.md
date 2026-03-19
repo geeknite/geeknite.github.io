@@ -4,7 +4,7 @@ date: 2026-03-19
 tags: [board-games, reviews, Saboteur Deluxe, expansions, party-games, juegos-de-mesa]
 ---
 
-![](/assets/images/saboteur-deluxe-cover.jpg)
+![]({{ site.baseurl }}/assets/images/saboteur-deluxe-cover.jpg)
 
 Bienvenidos, intrépidos lectores de Geeknite, a una nueva odisea de túneles, risas y traiciones que podría oler a oro pero que, en la práctica, huele a pastel de manzana y a sospechas traicioneras. Saboteur Deluxe es la versión que une el Básico con su Expansión en un cofre que brilla como una veta de oro... de la ironía. Si te atrae el bluff sutil, la lectura fría de la mesa y la emoción de descubrir quién de tus amigos ha estado fingiendo ser el minero más honesto desde el primer turno, este pack promete ayudarte a convertir una tarde cualquiera en una comedia de espías con sombrero de pico.
 
@@ -36,7 +36,7 @@ Saboteur Deluxe es un juego de roles ocultos con un objetivo claro: llegar a un 
 - Saboteadores: su función es obstaculizar a los exploradores de forma sutil o contundente. Pueden desviar túneles, sabotear caminos o robar oportunidades para que el equipo contrario tome decisiones que terminen en derrota. Este rol añade la tensión que da sabor al juego: cada vez que alguien coloca una carta de túnel, la mesa se pregunta, con un susurro y un martilleo de fondo, quién sabotea a quién esta vez. En el Deluxe, algunos roles traicioneros traen habilidades que obligan a replantear el plan central de la expedición: de repente, lo que parecía una ruta obvia se convierte en una encrucijada de dudas.
 
 ### Cartas de túneles, oro y sabotaje
-La jugabilidad se apoya en la gestión de la mano y en la lectura de la mesa. Cada turno, un jugador puede construir un túnel, jugar una carta de ruta o intentar sabotear la estrategia de otros. Las cartas de oro funcionan como combustible: si reúnes el oro correcto para tu túnel, puedes activar una ruta que te acerque al objetivo. Pero cada desvío o sabotaje viene con un costo de confianza entre jugadores, a veces en forma de miradas en blanco o confesiones forzadas tras el giro de una carta de misión. 
+La jugabilidad se apoya en la gestión de la mano y en la lectura de la mesa. Cada turno, un jugador puede construir un túnel, jugar una carta de ruta o intentar sabotear la estrategia de otros. Las cartas de oro funcionan como combustible: si reúnes el oro correcto para tu túnel, puedes activar una ruta que te acerque al objetivo. Pero cada desvío o sabotaje viene con un costo de confianza entre jugadores, a veces en forma de miradas en blanco o confesiones forzadas tras el giro de una carta de misión.
 
 Con la expansión, la experiencia gana variabilidad adicional. Hay cartas para crear rutas secretas, activar trampas y revelar información de manera selectiva. También existen cartas que obligan a otros a tomar decisiones estratégicas cuando la presión sube. En resumen: cada partida se siente distinta, incluso con los mismos jugadores, porque la mesa puede activar variantes nuevas que cambian el ritmo y la mentalidad con la que se aborda cada turno.
 
