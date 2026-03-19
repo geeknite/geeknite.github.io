@@ -1,10 +1,10 @@
 ---
-title: 'Sushi Go! Card Game - Special Edition: A Geeknite Review'
+title: 'Sushi Go! Card Game - Special Edition: A Geeknite Review (Expanded)'
 date: 2026-03-19 12:00:00 -0000
 tags: ['board games', 'card games', 'reviews', 'Sushi Go!', 'Special Edition', 'geeknite']
 ---
 
-{% image src="/assets/images/sushi-go-special-edition.jpg" alt="Sushi Go Special Edition" %}
+{% image src='/assets/images/sushi-go-special-edition.jpg' alt='Sushi Go Special Edition' %}
 
 ![Sushi Go Special Edition](/assets/images/sushi-go-special-edition.jpg)
 
