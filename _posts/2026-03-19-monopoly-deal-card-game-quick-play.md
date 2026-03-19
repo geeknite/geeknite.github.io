@@ -10,6 +10,7 @@ tags:
   - geeks
   - expanded
   - quick-play edition
+  - humor
 ---
 
 Monopoly Deal Card Game - Quick Play: Expanded Geeknite Review
