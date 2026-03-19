@@ -10,15 +10,15 @@ tags:
   - geeknite
 ---
 
-# Cards' Lair PRO Altered Edition Rulebook: A Geeknite Deep Dive
+## Cards' Lair PRO Altered Edition Rulebook: A Geeknite Deep Dive
 
-If you ever muttered under your breath about rulebooks being the true boss of any tabletop experience, congratulations: you’ve met Cards' Lair PRO Altered Edition Rulebook. This is not merely a booklet that explains how many dice to roll or which card beats which; this is a compact manifesto for nocturnal strategy sessions, coffee-fueled clutch moments, and the occasional dramatic glare at your opponent as you execute a perfect play that somehow makes you feel like a very clever raccoon rummaging through a pirate's treasure chest.
+If you’ve ever muttered under your breath about rulebooks being the true boss of any tabletop experience, congratulations: you’ve met Cards' Lair PRO Altered Edition Rulebook. This is not merely a booklet that explains how many dice to roll or which card beats which; this is a compact manifesto for nocturnal strategy sessions, coffee-fueled clutch moments, and the occasional dramatic glare at your opponent as you execute a perfect play that somehow makes you feel like a very clever raccoon rummaging through a pirate's treasure chest.
 
-![Cards' Lair PRO Altered Edition Rulebook Art](https://cdn.geeknite.assets/cards-lair-pro-altered-edition-rulebook.jpg)
+![Cards' Lair PRO Altered Edition Rulebook Art]({{ site.baseurl }}/assets/cards-lair-pro-altered-edition-rulebook.jpg)
 
 The Altered Edition promises more flavor, fewer loopholes, and enough re-balance patches to make your aunt who only plays once a year feel you are cheating—without actually cheating. If you own the original or the standard edition, this rulebook is the upgrade you never knew you needed, packaged with the charm of a late-night programming sprint and the chaos of a cat walking across a keyboard during your teach-and-tie session.
 
-In this review, we break down the rules clarity, design sensibilities, and how this edition actually affects the feel of the game. Spoiler: it’s not just a glossy reprint with a few extra terms; it’s a conscious evolution that attempts to respect both veterans and new players. And yes, there are jokes. Lots of jokes. Because if you’re reading a rulebook and you’re not laughing at least once, you might be reading the wrong rulebook.
+In this expanded review, we break down rules clarity, design sensibilities, and how this edition actually affects the feel of the game. Spoiler: it’s not just a glossy reprint with a few extra terms; it’s a conscious evolution that attempts to respect both veterans and new players. And yes, there are jokes. Lots of jokes. Because if you’re reading a rulebook and you’re not laughing at least once, you might be reading the wrong rulebook.
 
 ## What is Cards' Lair PRO Altered Edition?
 
@@ -44,6 +44,7 @@ To be a truly great rulebook, you need clarity, pace, and a sense of humor that 
 - Illustrations: The images include diagrams of setups, with step-by-step arrows. They’re not overly busy, and they actually help you conceptually understand a difficult interaction rather than leaving you to guess what the artist meant by that perplexing curly line.
 
 ### Quickstart and reference sections
+
 The rulebook includes a robust quickstart: a two-page blister-pop of setup, turn sequence, and an example round that you can watch in under five minutes. If you’re the type who hates scanning pages for answers in the middle of a heated game, you’ll appreciate the callouts, tables, and color-coding that make the reference feel more like your favorite smartphone app than a printed tome.
 
 ## Gameplay experience: what changes in practice
@@ -52,7 +53,7 @@ The Altered Edition promises smoother onboarding and more dramatic late-game dec
 
 ### Setup, pacing, and onboarding
 - Setup simplicity: The altered setup instructions reduce the number of independent pieces you must assemble before you can play. It’s like the game finally realized you didn’t come here to solve a puzzle only five people in the room can solve.
-- Pacing: Early rounds are brisk, mid-game has tension, and late-game decisions carry a satisfying weight. The pacing improvements mean you’re less likely to burn out half-way through a night of gaming and more likely to finish a full campaign without an existential crisis about your life choices.
+- Pacing: Early rounds are brisk, mid-game has tension, and late-game decisions carry a satisfying weight. The pacing improvements mean you’re less likely to burn out halfway through a night of gaming and more likely to finish a full campaign without an existential crisis about your life choices.
 
 ### Strategy depth and replayability
 - Depth: The rebalanced economies and altered card effects add layers for those who enjoy planning several turns ahead and punishing players who misread the board. It’s the kind of depth that makes your brain feel like a muscle you haven’t worked out since college, in a good way.
