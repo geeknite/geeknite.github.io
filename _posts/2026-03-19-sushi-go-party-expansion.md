@@ -1,5 +1,5 @@
 ---
-title: Sushi Go! Party Expansion
+title: Sushi Go! Party Expansion: A Geeknite Deep-Dish Review Revisited
 date: 2026-03-19
 tags:
   - board games
@@ -7,15 +7,19 @@ tags:
   - party expansion
   - reviews
   - geeknite
+  - drafting
+  - party games
 ---
 
-# Sushi Go! Party Expansion: A Geeknite Deep-Dish Review of Card Sushi for the Social Set
+# Sushi Go! Party Expansion: A Geeknite Deep-Dish Review Revisited
 
-When the party size spikes and the fridge is full of tiny plates that scream for attention, you reach for Sushi Go! Party Expansion. That sentence sounds like a mouthful, but so is the mouthful of delicious puns you’ll be spitting out after your third round of drafting, because this expansion is all about giving you more cards, more chaos, and more opportunities to politely argue over who drafted the wasabi dumpling first. If you thought the base Sushi Go! was a brisk little sushi sprint, this expansion brings a festival of plates, a parade of choices, and just enough chaos to remind you that yes, you do love your friends even when they steal your tempura with surgical precision.
+When the party size spikes and the fridge is full of tiny plates that scream for attention, you reach for Sushi Go! Party Expansion. That sentence alone sounds like a mouthful, but so is the mouthful of delicious puns you’ll be spitting out after your third round of drafting, because this expansion is all about giving you more cards, more chaos, and more opportunities to politely argue over who drafted the wasabi dumpling first. If you thought the base Sushi Go! was a brisk little sushi sprint, this expansion brings a festival of plates, a parade of choices, and just enough chaos to remind you that yes, you do love your friends even when they nimbly slide in with that perfect tempura steal.
 
-Below, we dive into what the expansion actually changes, what it adds to the table (yes, literally), and whether you should pick it up with the confidence of a chef presenting a perfectly plated nigiri. We’ll ping the nerdy details, toss in some jokes, and keep things crunchy and accessible for both rookies and seasoned table-flippers. And if you want to skip to the verdict, scroll to the Final Recommendation at the bottom. But trust me, you’ll want to read the entire menu before you order.
+Below, we dive deeper into what the expansion actually changes, what it adds to the table (yes, literally), and whether you should pick it up with the confidence of a chef presenting a perfectly plated nigiri. We’ll ping the nerdy details, toss in some jokes, and keep things crunchy and accessible for both rookies and seasoned table-flippers. And if you want to skip to the verdict, scroll to the Final Recommendation at the bottom. But trust me, you’ll want to read the entire menu before you order.
 
 ![Sushi Go Party Expansion]( /assets/images/sushi-go-party-expansion.jpg )
+
+{% include image.html path="/assets/images/sushi-go-party-expansion.jpg" alt="Sushi Go Party Expansion" %}
 
 For a quick smart-link nod to other Geeknite dishware, we also compare this to our thoughts on other fast drafting games in the party space, like [Best Party Card Games]({% post_url 2025-05-10-best-party-card-games %}) and the classic sushi-stacking original, Sushi Go! Guide, which you can revisit here: [Sushi Go Guide]({% post_url 2024-08-14-sushi-go-complete-guide %}). If you want more context on how to approach simultaneous drafting in a casual setting, check out the write-up on how to run a perfect game night with our friends in [Host Night with Confidence]({% post_url 2023-11-07-host-night-with-confidence %}).
 
@@ -27,13 +31,13 @@ Sushi Go! Party Expansion is not a brand new game; it’s a supplement that expa
 
 What does this mean in practical terms? More cards means more combos, more scoring paths, and more ways to dunk on your friends without saying a word. The expansion typically includes: a larger pool of menu cards, new scoring criteria, and occasional thematic twists that let you lean into a particular approach—whether you want to go purely power-crafting (maximizing points) or more social chaos (scoring variability that rewards people who can bluff without saying a word).
 
-This is the kind of expansion that doesn’t remove the core rhythm; it simply adds more lanes to the drafting highway. If you’ve played the base game with a fixed group for a while, you’ll likely notice how the new cards change the calculus. It’s not about “more is better” so much as “more ways to win with different slices of your personality.” And if your table loves theme cards and clever micro-interactions, the expansion is basically your salt nigiri: optional, but you’ll be glad you have it when the evening gets spicy.
+This is the kind of expansion that doesn’t remove the core rhythm; it simply adds more lanes to the drafting highway. If you’ve played the base game with a fixed group for a while, you’ll notice how the new cards shift the calculus. It’s not about “more is better” so much as “more ways to win with different slices of your personality.” And if your table loves theme cards and clever micro-interactions, the expansion is basically your salt nigiri: optional, but you’ll be glad you have it when the evening gets spicy.
 
 ## Components and design quality
 
-The physical quality of the expansion is in the same wheelhouse as the base game: compact, kid-friendly, and clearly illustrated with a bite-sized visual identity. You’ll recognize the familiar fan-art-y style that makes Sushi Go! approachable even when your hands are clumsy from laughing too hard. The new cards blend seamlessly with the existing deck, which means you won’t spend a round searching for a single card that looks out of place.
+The physical quality of the expansion sits in the same wheelhouse as the base game: compact, kid-friendly, and clearly illustrated with a bite-sized visual identity. You’ll recognize the familiar fan-art-y style that makes Sushi Go! approachable even when your hands are clumsy from laughing too hard. The new cards blend seamlessly with the existing deck, which means you won’t spend a round searching for a single card that looks out of place.
 
-- Card count: The expansion adds a healthy tranche of new cards. There are new combos and new scoring cards that feel like they belong in the same family as the originals, but with a few cheeky twists. 
+- Card count: The expansion adds a healthy tranche of new cards. There are new combos and new scoring cards that feel like they belong in the same family as the originals, but with a few cheeky twists.
 - Artwork: The art remains bright, clean, and mouth-watering. The designers didn’t go wild with neon horror; they kept the same warm palette that makes you want to instantaneously order a hibachi party just from looking at it.
 - Components: If you’ve ever knocked a card deck against a chair and watched a couple of edges get a little fuzzier, fear not. The cardstock holds up; shuffling is smooth; and there’s enough heft to feel like you’re actually playing a grown-up game without losing the lightness that makes Sushi Go! approachable.
 
@@ -41,7 +45,7 @@ For the purity of comparison, you can drool over the official product page here:
 
 ## Setup and teach: how long does it actually take?
 
-The expansion is designed to slot into a standard Sushi Go! night with the minimum of fuss. If you’re a smooth operator, you can teach the rules in under five minutes and be drafting within the fifth round. The trick is: there are more cards, so there are more interactions to cover. Here’s a practical walkthrough:
+The expansion slots into a standard Sushi Go! night with the minimum of fuss. If you’re a smooth operator, you can teach the rules in under five minutes and be drafting within the fifth round. The trick is: there are more cards, so there are more interactions to cover. Here’s a practical walkthrough:
 
 - Shuffle the new cards with the base deck. Depending on the number of players, you might want to modulate the ratio so you don’t drown in choices.
 - Deal the appropriate number of cards to each player per round (same as the base game, but with more options to consider).
@@ -109,7 +113,7 @@ If you want to compare pricing and availability, you can browse the official pro
 
 ## Final verdict: who should pick up the expansion?
 
-- You like Sushi Go! but crave more variety without sacrificing the quick tempo. 
+- You like Sushi Go! but crave more variety without sacrificing the quick tempo.
 - Your game nights feature a range of players, from casual to competitive, who enjoy light strategy plus social banter.
 - You want a flexible system that can scale up for larger groups or scale down for a cozy two-person evening.
 - You love the sense of discovery that comes with new cards, new scoring paths, and new ways to catch your friends off guard with a well-timed bluff or a brutal, delicious punt at a single perfect combo.
