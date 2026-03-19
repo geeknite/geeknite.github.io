@@ -1,5 +1,5 @@
 ---
-title: 1000 MTG Cards Bulk Collection: Commons, Uncommons, and the Quest for the Snobby Rare
+title: '1000 MTG Cards Bulk Collection: Commons, Uncommons, and the Quest for the Snobby Rare (Expanded)'
 date: 2026-03-19
 tags:
   - MTG
@@ -53,26 +53,26 @@ Sorting bulk efficiently is the kind of meditative chaos that works best with a 
 - A solid playlist: Sorting is a long-term relationship with repetitive tasks; a good beat helps. You’ll thank your favorite lo-fi or heavy-metal alter-ego when you’re down to the last 150 cards.
 
 ### Step 1: Pull the obvious value
-Start by scanning for the obvious winners: rares, mythics, and any foil that shines through the dull mass. Even in bulk, a strong foil can spark joy and justify the entire purchase, and sometimes creates a mini-hunt that makes sorting feel like a treasure map.
+Start by scanning for the obvious winners: rares, mythics, and any foil that shines through the dull mass. Even in bulk, a strong foil can spark joy and justify the entire purchase, and sometimes creates a mini-hunt that makes sorting feel like a treasure map. Don’t forget to check for structurally interesting cards: double-faced cards, split cards, or those with quirky art that collectors secretly crave.
 
 ### Step 2: Separate by rarity families
-Divide the pile into three main sections: commons, uncommons, and rares/mythics. Within the uncommon and rare groups, you can separate by set to preserve value for those collectors who want the perfect pack copy from a particular year.
+Divide the pile into three main sections: commons, uncommons, and rares/mythics. Within the uncommon and rare groups, you can separate by set to preserve value for those collectors who want the perfect pack copy from a particular year. This is where you’ll start building decks in your head and a spreadsheet on your desk—two things that pair nicely with strong coffee.
 
 ### Step 3: Separate by set and language
-If you’re the type who loves assembling a “complete set” experience, you’ll want to label cards by set. Language variants can be a neat side hustle—foreign-language cards are often a little more collectible to the right buyer.
+If you’re the type who loves assembling a “complete set” experience, you’ll want to label cards by set. Language variants can be a neat side hustle—foreign-language cards are often a little more collectible to the right buyer. A surprising number of players love the “Español” or “Deutsch” version of a card because it fits their playgroup’s vibe or their bookshelf’s aesthetic.
 
 ### Step 4: Check for playability and condition
-Condition matters, especially for anything you intend to sell. Look for scratches, bends, whitening, and edge wear. A bulk lot that’s mostly near-mint will fetch a higher price in the long run than a pile that requires a recovery project. Don’t panic about minor surface scratches—they happen. But be honest with yourself and your potential buyers about what you’re selling.
+Condition matters, especially for anything you intend to sell. Look for scratches, bends, whitening, and edge wear. A bulk lot that’s mostly near-mint will fetch a higher price in the long run than a pile that requires a recovery project. Don’t panic about minor surface scratches—they happen. But be honest with yourself and your potential buyers about what you’re selling. A transparent listing saves you time and a few virtual gossip sessions about “the deal that got away.”
 
 ### Step 5: Create a simple pricing framework
-This is where the spreadsheet becomes your best friend. A practical approach is to price: 
+This is where the spreadsheet becomes your best friend. A practical approach is to price:
 - Common cards: $0.01–0.03 each depending on set, rarity, and demand.
 - Uncommons: $0.05–0.25 each; higher for well-known or highly used ones.
 - Rare/Mythic: $0.50–$5.00 each on average, with the occasional big-ticket outliers.
 - Foils: $0.50–$3.00 for most; special foils can break the bank if you’re lucky.
 - Lands and bulk fillers: usually included as freebies to sweeten the deal, or priced by set if you want to be extra precise.
 
-This is not sacred scripture. It’s a starting point, and your local market will adjust the numbers in real-time. If you’re selling, be mindful of platform fees and shipping costs when you calculate what you actually make per card.
+This is not sacred scripture. It’s a starting point, and your local market will adjust the numbers in real-time. If you’re selling, be mindful of platform fees and shipping costs when you calculate what you actually make per card. And yes, the occasional “bundled discount” strategy can be your friend—bundle the commons in sets of 100 and watch the math look friendlier.
 
 ## Pricing and value: is bulk worth it?
 The short answer is: it depends on your goals. The longer answer is: bulk is a buffet. You can feast on a few high-value cards and be perfectly content, or you can swallow the entire spread and realize you didn’t like every dish the chef prepared. Here are a few angles to consider.
@@ -140,12 +140,7 @@ This guide is not a magic incantation that will instantly turn a thousand cards 
 
 If you’re ready to dive in, grab your sorter’s hat and a good playlist, and start the quest. Bulk is chaotic, unpredictable, and deeply, deeply MTG. And that’s exactly why it’s worth exploring, even if you end up with a few extra basic lands and a memory you’ll tell at every tournament you attend.
 
-## Related posts and quick reads
-- The long game of bulk sorting: [Bulk Sorting Strategy]({% post_url 2025-04-09-bulk-sorting-strategy %})
-- A practical guide to card storage: [Storage Solutions for Card Collectors]({% post_url 2023-12-02-storage-solutions %})
-- Market dynamics and bulk value: [Pricing Drills for Card Merchants]({% post_url 2022-09-14-pricing-drills %})
-
-## Final recommendation
+### Final recommendation
 If you’re new to bulk or returning with a stubborn pile that’s refused to sort itself into a playable order, start with an anchor plan: decide what you want to extract (playables, trades, or resale value), assemble your sorting station, and set a time target for your first pass. You’ll be surprised how much you can learn about card values by simply sorting with intent. And if you want a little extra motivation, remember: even a thousand commons can become a deck-building spark—the tiny flame that lights your next FNM win or cozy night of casual play with friends.
 
 **Grabbing a bulk lot can be a gateway to more joy in MTG than you might expect. Ready to start sorting? Check out our affiliate partner for recommended storage and sorting kits to keep your bulk organized and your vibes high.**
