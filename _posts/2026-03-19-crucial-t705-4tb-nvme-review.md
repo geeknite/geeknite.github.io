@@ -1,5 +1,5 @@
 ---
-title: "Crucial T705 4 TB NVMe SSD Review: The One-Stop Speed Demigod"
+title: Crucial T705 4 TB NVMe SSD Review: The One-Stop Speed Demigod
 date: 2026-03-19
 tags:
   - storage
