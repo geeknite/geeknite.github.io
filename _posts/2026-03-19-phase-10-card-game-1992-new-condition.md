@@ -16,7 +16,7 @@ tags:
 
 Phase 10 is not just a card game; it is a social experiment wearing a tuxedo and calling itself a party game. Since it first shuffled into consciousness in 1992, Phase 10 has weathered more family game nights than Aunt Linda has weathered guilt trips about chair cushions. The New Condition edition, which we are digging into here, gives the old classic a refresh without erasing its soul. It preserves the core thrill of assembling ten phases while polishing components, readability, and the overall vibe of the table when the tension peaks and someone yells an excited banjo riff because they just finished a phase ahead of schedule.
 
-![Phase 10 Setup](/assets/images/phase10-setup.jpg)
+![Phase 10 Setup]({{ '/assets/images/phase10-setup.jpg' | relative_url }})
 
 In the spirit of great retro upgrades, New Condition is all about making the experience smoother without turning the game into a secret calculus problem. The aim is to deliver a tactile, readable, and visually satisfying product while keeping the goofy chaos that makes Phase 10 so endearing. If you remember the old deck with its sturdy cards and the slightly confusing rule sheet, this edition is likely to feel like meeting a long-lost friend who finally learned how to use a napkin properly.
 
@@ -26,23 +26,23 @@ Phase 10 is a card game with a simple hook: complete ten different phases to win
 
 The deck includes color coded number cards and a few special cards that can alter the flow of play, such as Wild cards that can stand in for anything and Skip cards that banish a turn for a player. The New Condition edition keeps the core mechanic intact—the chaos of the draw, the struggle to assemble your phase, the moment when you slam a finished set on the table with triumphant gusto—but it sharpens the edges just enough to feel modern without losing the nostalgic charm.
 
-External link: https://en.wikipedia.org/wiki/Phase_10
+[Wikipedia: Phase 10](https://en.wikipedia.org/wiki/Phase_10)
 
 ## New Condition Edition: Whats Actually New?
 
 ### Card Stock, Color, and Clarity
 
-The New Condition edition is supposed to feel crisper in your hands. The stock is thicker, the color contrasts are more clean, and glare is minimized for those mega table moments when the overhead light hits the cards just right and you can pretend you are analyzing a piece of artwork rather than counting pips. The tactile feel matters in a long game because you want to enjoy reshuffling and sorting, not fight with a card that bends at the slightest breeze.
+The New Condition edition is supposed to feel crisper in your hands. The stock is thicker, the color contrasts are more clean, and glare is minimized for those mega table moments when the overhead light hits the cards just right and you can pretend you are analyzing a piece of artwork rather than counting pips. The tactile feel matters in a long game because you want to enjoy reshuffling and sorting, not fight with a card that bends at the slightest breeze. The upgraded stock also makes fanning easier, which translates to dramatically less whine when someone next to you asks if you’re done yet.
 
 ### Rulebook and UX
 
-The rulebook has been rewritten with greater clarity. Rules that might have caused discussions at 1 am are now explained with simple examples and a few laugh out loud side notes about typical family scenarios. The goal is to reduce the number of house rule debates and increase the moments of shared amusement when someone indecisively discards a card that makes everyone sigh with relief or groan with mock disappointment.
+The rulebook has been rewritten with greater clarity. Rules that might have caused discussions at 1 am are now explained with simple examples and a few laugh out loud side notes about typical family scenarios. The goal is to reduce the number of house rule debates and increase the moments of shared amusement when someone indecisively discards a card that makes everyone sigh with relief or groan with mock disappointment. The result is a kinder onboarding experience for first-timers and a gentle streamlining for veterans who have developed a catalog of “house rule bingo” references.
 
 ### Art Direction
 
 The art direction has a modern gloss while keeping the color coding that players rely on to stay oriented during the chaos. It feels fresh but familiar, a visual update that respects the original layout and cues that seasoned players expect. The art is not trying to win design awards; it is trying to make your eye land on the right card at the right moment without needing a degree in typography to interpret it.
 
-External link: https://boardgamegeek.com/boardgame/82/phase-10
+[BoardGameGeek: Phase 10](https://boardgamegeek.com/boardgame/82/phase-10)
 
 ## Components and Design
 
@@ -54,7 +54,7 @@ The 1992 Phase 10 deck carried a certain romance—the kind you feel when your o
 
 In this section we also assess the alignment of the card design with usability. The goal is to make it easy to distinguish phases at a glance and to avoid the classic moment where a player asks if a card counts as a run or a set and everyone pretends not to hear the room temperature clock ticking as the suspense climbs.
 
-External link: https://boardgamegeek.com/boardgame/82/phase-10
+[External link: Phase 10 on BoardGameGeek](https://boardgamegeek.com/boardgame/82/phase-10)
 
 ## How to Play: A 101 Level Card Game Summary
 
@@ -67,9 +67,9 @@ If you have never played Phase 10, the entry path is short and friendly. Here is
 
 For deeper dives see {% post_url 2023-11-21-phase-10-rules-breakdown %} and the broader discourse at {% post_url 2024-07-15-geeknite-top-card-games-not-to-miss %}.
 
-External link: https://en.wikipedia.org/wiki/Phase_10
+[Wikipedia: Phase 10](https://en.wikipedia.org/wiki/Phase_10)
 
-## Strategies, Luck, and the Spiritual Aspect of Phase 10
+## Strategies, Luck, and The Spiritual Aspect of Phase 10
 
 Phase 10 is a delicate balance of luck and strategic planning. It is not a pure puzzle game, but it rewards memory and a willingness to improvise when the draw goes from friendly to downright petty.
 
@@ -79,7 +79,9 @@ Phase 10 is a delicate balance of luck and strategic planning. It is not a pure 
 
 In the New Condition edition, late game tensions can feel less punishing because the cards and rules are more accessible. The real magic is the social ritual: jokes at the table, the tempting lure of a perfect discard, and the catharsis of a well-timed wild card that reshapes the entire round.
 
-External link: https://www.reddit.com/r/boardgames/comments/phase10_strategy
+[Reddit discussion: Phase 10 strategy](https://www.reddit.com/r/boardgames/comments/phase10_strategy)
+
+> The 1992 deck had romance in its corners; the New Condition edition adds clarity in the middle and polish on the edges. It’s like upgrading from a family sedan to a well-dressed minivan that still fits the family, the dog, and the aura of chaos around a kid who has finally finished Phase 9.
 
 ## Phase by Phase: The 10 Phases Overview
 
@@ -87,16 +89,16 @@ Phase 1 through Phase 10 are a built in ladder of challenges. The New Condition 
 
 We wont quote the exact counts here, because the exact counts are in the rules. The key takeaway is that the phases add variety and a sense of progression that makes the game feel long enough to be satisfying without becoming a slog.
 
-External link: https://boardgamegeek.com/boardgame/82/phase-10
+[BoardGameGeek: Phase 10 Overview](https://boardgamegeek.com/boardgame/82/phase-10)
 
 ## Design, Accessibility, and The Social Layer
 
 Phase 10 is a social cassette tape in a box: every player adds a little hiss of drama, and somehow the clicks of the discs add up to memories rather than misplays. The New Condition edition leans into accessibility: larger print in some areas, clearer icons, and a layout that reduces the cognitive gymnastics required to interpret a hand while someone else mutters, “I swear this is the phase where I need to hold a parade of cards.”
 
-- Accessibility: larger numbers, clearer suits, and more intuitive phase indicators help players with sight variations eases into the chaos without a meltdown.
+- Accessibility: larger numbers, clearer suits, and more intuitive phase indicators help players with sight variations ease into the chaos without a meltdown.
 - Social dynamics: the game thrives when players tease each other, bluff with a smile, and tolerate the inevitable groan when someone reveals a phase they’ve been quietly hoarding for three rounds. New Condition supports that through better component separations and predictable card placement during play.
 
-External link: https://boardgamegeek.com/boardgame/82/phase-10
+[BoardGameGeek: Phase 10 Accessibility](https://boardgamegeek.com/boardgame/82/phase-10)
 
 ## The Experience: Live at the Table
 
@@ -104,7 +106,7 @@ The New Condition edition shines when you actually play it with a mixed crowd: k
 
 One of the most fun things about Phase 10 is how a single discard can flip everything. A misread Wild card or a skipped turn can cascade into a chain reaction that leaves someone triumphant and another person interrogating their own life choices. New Condition keeps that energy intact while smoothing the rough edges that used to cause arguments about whether a card counts as a run or a set.
 
-External link: https://www.reddit.com/r/boardgames/comments/phase10_strategy
+[Reddit: Phase 10 strategy and stories](https://www.reddit.com/r/boardgames/comments/phase10_strategy)
 
 > The 1992 deck had romance in its corners; the New Condition edition adds clarity in the middle and polish on the edges. It’s like upgrading from a family sedan to a well-dressed minivan that still fits the family, the dog, and the aura of chaos around a kid who has finally finished Phase 9.
 
@@ -114,7 +116,7 @@ Phase 1: Two sets of two – the classic starter pack. Phase 2: One set and a ru
 
 If you want even more nerdy detail, the official rules are mercifully short and the rest is history made of the “just one more round” promise we all pretend we can keep.
 
-## Final Word: Is This Edition Worth It?
+## The Final Word: Is This Edition Worth It?
 
 The New Condition edition is not a radical reimagination. It is a polished, modernized version of a classic. If you own an older copy or if you are introducing Phase 10 to a new group, this edition is a strong choice. If you already own a pristine original, the upgrade is optional but pleasant—like replacing a well used mug with one that has a slightly less chaotic glaze.
 
