@@ -1,5 +1,5 @@
 ---
-ttitle: 'Codex Starter Set: Card Time Strategy - Bashing vs Finesse (Opened, Never Played) — Expanded Review'
+title: 'Codex Starter Set: Card Time Strategy - Bashing vs Finesse (Opened, Never Played) — Expanded Review'
 date: 2026-03-19 12:00:00 -0000
 tags:
   - board-games
@@ -11,6 +11,7 @@ tags:
   - opened-never-played
   - two-archetypes
   - hobby-essentials
+  - two-player
 ---
 
 ![(Codex Starter Set Artwork)]({{ '/assets/images/codex-starter.jpg' | relative_url }})
@@ -129,7 +130,6 @@ In the end, the Codex Starter Set delivering a dual path of Time Strategy Bashin
 
 Because the set is opened but never played, you may want to invest in a small organizer to keep tokens and cards aligned during your first few sessions. The modular nature of the kit means you can separate Time tokens, Bashing cards, and Finesse cards to speed up setup as you play more. The initial organization might feel a bit fiddly, but once you have a routine, you will appreciate the speed and clarity it affords on busy evenings.
 
-
 ### How to Approach Your First Real Game Night
 
 - Gather your partner or a small group of friends who enjoy mind games and a touch of chaos.
@@ -150,8 +150,6 @@ The Codex Starter Set is not a finished symphony on arrival, but it does offer a
 ### Final Geeknite Recommendation
 
 If you crave a compact engine-building sandbox with two very different voices, give Codex a try. You might discover a new favorite rhythm, or you may discover a fun way to blend two opposing styles into something uniquely yours. Either way, you win time with a deck that asks you to think, plan, and sometimes improvise with style.
-
-Bold affiliate call to action
 
 **[Buy via our affiliate link](https://www.amazon.com/dp/B001234567?tag=geeknite-20)**
 
