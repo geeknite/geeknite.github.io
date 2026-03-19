@@ -11,10 +11,9 @@ tags:
   - giant-games
 ---
 
-<figure>
-  <img src="/assets/images/giant-uno-108-cards.jpg" alt="Giant UNO cards spread across a living room table">
-  <figcaption>Giant UNO cards spread across a living room battlefield — the ultimate party upgrade.</figcaption>
-</figure>
+![Giant UNO cards spread across a living room table](/assets/images/giant-uno-108-cards.jpg)
+
+*Giant UNO cards spread across a living room battlefield — the ultimate party upgrade.*
 
 ## Introduction: The Night Your Living Room Went to the Gym
 If you’ve ever looked at a stack of standard UNO cards and thought, Boy, I could really use fewer inches between my face and a red number 7, then this review is for you. The Giant UNO Card Game is the 108-card behemoth that takes the tiny, portable classic and sets it on a coffee-table steroids cycle. It’s UNO, but with enough surface area to host a small, card-flinging meteor shower when a Wild card hits. The result is equal parts family-friendly party game and cardio workout video without the treadmill. In Geeknite terms: a high-score multiplier for chaos in the best possible way.
@@ -76,7 +75,7 @@ Giant UNO cards are thick enough to handle enthusiastic players and curious pets
 - Cleanliness: Wipe the cards down occasionally with a dry cloth if there are sticky fingers on the table—this is especially useful after snacks or a celebratory round of pizza. A little wipe-down helps prevent greasy fingerprints from ruining the color clarity during the next critical move.
 
 ## Value and Longevity: Is It a One-Season Wonder or a Staple?
-Pricing for a product like this fluctuates by retailer and sales events, but you can reasonably expect a price range around $20 to $40 in many markets. That puts Giant UNO squarely in the mid-range for party games: not budget-basement, but not bank-breaking either. If you host a lot of game nights or you want a reliable party centerpiece that’s approachable to players of all ages, it’s a compelling buy.
+Pricing for a product like this fluctuates by retailer and sales events, but you can reasonably expect a price range around 20 to 40 dollars in many markets. That puts Giant UNO squarely in the mid-range for party games: not budget-basement, but not bank-breaking either. If you host a lot of game nights or you want a reliable party centerpiece that’s approachable to players of all ages, it’s a compelling buy.
 
 Pair it with a couple of light-hearted party games and a sturdy outdoor table, and you’ve got a recipe for recurring weekend gatherings. If your crew is the kind that values quick starts and instant gratification, this giant card deck scratches that itch without forcing you into a board-game store’s labyrinth of tiles and tokens.
 
@@ -91,7 +90,7 @@ The core UNO rules still apply, but here are a few practical tips to maximize th
 - Add periodic “mini-games” between rounds: Quick rounds where everyone has to perform a silly task (like performing a tiny improv bit or telling a quick nerdy anecdote) before continuing can help to keep the vibes positive, especially with younger players.
 - Outdoor play tips: If you’re playing on grass or a deck, keep a roll-out mat or a large towel as a base to prevent slips and to provide a stable picking surface for the cards.
 
-## Visual and Thematic Comparisons: Giant UNO vs. Other Giant Card Games
+## Visual and Thematic Comparisons: Giant UNO vs Other Giant Card Games
 If you’re weighing this giant UNO against other oversized card games, a few factors tend to tilt the discussion:
 
 - Accessibility: Giant UNO is instantly accessible; the color coding and numbers are easy to read, which reduces the barrier to join mid-game for late arrivals.
