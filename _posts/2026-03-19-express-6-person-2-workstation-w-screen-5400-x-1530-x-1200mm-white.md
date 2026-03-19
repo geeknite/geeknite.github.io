@@ -7,9 +7,10 @@ tags:
   - geek-nite
   - workspace
   - ergonomics
+  - open-office
 ---
 
-Hello, fellow geeks and spreadsheet samurais. If your open-plan office is crying out for a hero with a white, straight edge and a screen in every direction, the Express 6 Person 2 Workstation with Screen just might be your midnight savior.
+Hello, fellow geeks and spreadsheet samurais. If your open-plan office is crying out for a hero with a white, straight edge and a screen in every direction, the Express 6 Person 2 Workstation with Screen just might be your midnight savior. This is not a desk you assemble with a sense of swagger; it’s a modular behemoth designed to stitch six minds together into a cooperative, mildly confused, coffee-fueled chorus.
 
 ![Express 6 Person 2 Workstation]({{ '/assets/images/express-6-person-2-workstation.jpg' | relative_url }})
 
