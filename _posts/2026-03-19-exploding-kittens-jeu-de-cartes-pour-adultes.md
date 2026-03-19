@@ -86,4 +86,4 @@ Si vous cherchez un titre qui balance parfaitement entre jeu rapide, humour et i
 
 Et si vous aimez ce type de contenu, restez connectés pour plus de critiques de jeux de société et de cartes sur Geeknite. On ne cesse jamais de découvrir les arcs marrants et les mécanismes qui font pétiller une soirée entre amis.
 
-**Acheter Exploding Kittens via notre partenaire affilié pour soutenir Geeknite et profiter d offres exclusives. Cliquez ici pour profiter de l offre affiliée et lancer votre prochaine soirée explosive et hilarante: https://affiliate.example.com/exploding-kittens?ref=geeknite**
+**Acheter Exploding Kittens via notre partenaire affilié pour soutenir Geeknite et profiter d offres exclusives. Cliquez ici pour lancer votre prochaine soirée explosive et hilarante: https://affiliate.example.com/exploding-kittens?ref=geeknite**
