@@ -1,14 +1,14 @@
 ---
-title: The Mind by Pandasaurus: Silence, Timing, and Tiny Telepathy (updated)
-date: 2026-03-19
-tags: [board-games, review, pandasaurus, wolfgang-warsch, 2-4 players, 8+, cooperative]
+title: The Mind by Pandasaurus: Silence, Timing, and Tiny Telepathy (Expanded)
+date: 2026-03-25
+tags: [board-games, review, pandasaurus, wolfgang-warsch, 2-4 players, 8+, cooperative, silent-play, party-game]
 ---
 
 ![The Mind cover art](https://pandasaurusgames.com/wp-content/uploads/2018/04/themind.jpg)
 
 ## The Mind: a quiet riot in a hand of cards
 
-If you had told me that a card game about counting without talking could be one of the loudest experiences in a quiet room, I would have asked you to repeat that sentence a little louder so I could hear it over my own brain buzzing. The Mind, a design tour de force by Wolfgang Warsch and published by Pandasaurus Games, is that exact contradiction: a game that looks like a simple math exercise and ends up feeling like a high-stakes telepathy tournament for bored grown-ups and bright-eyed kids alike.
+If you told me that a card game about counting without talking could be one of the loudest experiences in a quiet room, I’d have asked you to repeat that sentence a little louder so I could hear it over my own brain buzzing. The Mind, a design tour de force by Wolfgang Warsch and published by Pandasaurus Games, is that exact contradiction: a game that looks like a simple math exercise and ends up feeling like a high-stakes telepathy tournament for bored grown-ups and bright-eyed kids alike.
 
 What you hold in your hand isn’t a hand of numbers as much as a pulse you share with your tablemates. The Mind dares you to trust the rhythm of your own nerves and the subtle, unspoken signals that exist only in a group trying not to talk. It’s cooperative in name, but its heartbeat is distrustful, playful, and incredibly human in practice. And for a game that forbids speech, it becomes a loud, mischievous comedy of errors where every near-perfect play glows brighter than a loudmouth brag in a poker room.
 
@@ -99,7 +99,7 @@ For more on how this vibe translates to other games in the catalog, see our post
 
 - Best for: groups who enjoy social deduction vibes without talking, families who want a quick brain workout, and friends who like a good-natured competition that doesn’t hinge on perfect information. If you love games where timing and trust are central, The Mind is a top-tier pick.
 - Not ideal for: players who want heavy betrayal mechanics, those who insist on verbal strategies, or anyone who needs a strict competitive framework with clear turns and micro-decisions.
-- With expansions: The Mind scales with additional rules, rounds, or added complexity. If you crave more variables without losing the core experience, consider trying the Level-Up or Beyond add-ons, which ramp up the challenge while keeping the same silent heart.
+- With extensions: The Mind scales with additional rules, rounds, or added complexity. If you crave more variables without losing the core experience, consider trying the Level-Up or Beyond add-ons, which ramp up the challenge while keeping the same silent heart.
 
 If you’re browsing for a light, highly replayable experience that still scratches the brain-nerd itch, The Mind by Pandasaurus is a compelling choice. It’s a game that teaches you to trust your peers and to enjoy the tiny, silent victories that come from a perfectly timed card drop. It’s easy to teach, quick to play, and perfect for those evenings when your table wants to feel clever without needing a whiteboard.
 
