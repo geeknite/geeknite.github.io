@@ -1,5 +1,5 @@
 ---
-title: "Sushi Go Party! - Reseña ampliada: el pick & pass party que ilumina cualquier mesa (Actualización Geeknite)"
+title: 'Sushi Go Party! - Reseña ampliada y fiestera: el pick & pass que ilumina cualquier mesa (Actualización Geeknite)'
 date: 2026-03-19
 tags:
   - juegos de mesa
@@ -118,7 +118,7 @@ En mi experiencia, Sushi Go Party en lata de lujo ofrece mucho valor para su pre
 ### Enlaces a otras reseñas y recursos de Geeknite (navegación interna con post_url)
 Puede interesarte leer otras reseñas de juegos de cartas en Geeknite. Por ejemplo, nuestra entrada sobre Sushi Go en formato anterior, o comparativas con otros títulos. También puedes explorar el post_url de nuestras entradas previas para ver cómo se evalúan otros juegos de la misma familia:
 - Otra reseña de sushi go en Geeknite: {% post_url 2025-04-20-sushi-go-review %}
-- Guía básica de juegos de mesa: {% post_url 2024-11-02-beginners-guide-board-games %}
+- Guía básica de juegos de mesa para principiantes: {% post_url 2024-11-02-beginners-guide-board-games %}
 - Nuestro top de juegos para fiestas: {% post_url 2025-02-10-party-games-top %}
 
 ### ¿Qué tan rápido se aprende y cuánto tarda una sesión? (cronometraje práctico)
