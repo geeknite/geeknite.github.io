@@ -17,7 +17,7 @@ If your living room is missing that certain spark, and your last brick-red acces
 
 If you’re new to the world of hand-tufted wool rugs, fear not. This guide is your friendly neighborhood romp through crimson spirals, cream halos, and all the hygge vibes that come with a properly curated floor narrative. And yes, we’re going to cover everything from weave science to stain handling, from New Zealand craftsmanship vibes to how to pair this rug with your questionable-but-charming mid-century chairs.
 
-> For the uninitiated: hand-tufted means a human with serious patience and a tufting gun (yes, that’s a thing) stitches loops of wool into a mesh foundation. The results tend to be plush, durable, and delightfully tactile—like stepping into a cloud that’s been watching late-night sci-fi marathons.
+> For the uninitiated: hand-tufted means a human with serious patience and a tufting gun stitches loops of wool into a mesh foundation. The results tend to be plush, durable, and delightfully tactile—like stepping into a cloud that’s been watching late-night sci-fi marathons.
 
 ![Hand-Tufted Crimson & Cream Wool Area Rug]({{ "/assets/images/hand-tufted-crimson-cream-wool-area-rug.jpg" | relative_url }})
 
@@ -29,7 +29,7 @@ There’s something timeless about crimson and cream—the color duo that manage
 
 ### Design language and color theory
 
-Crimson is a color with a personality—bold, energetic, and not shy about boundary-pushing. Cream, by contrast, provides warmth, balance, and a bit of cream-veil sophistication. Put together on a hand-tufted wool rug, they offer a timeless contrast: the crimson as the floor-level accent and the cream as the breath of air that prevents the room from tipping over into over-saturation. If you’re into interior design memes, this rug is the “keep calm and color-block” of your home.
+Crimson is a color with a personality—bold, energetic, and not shy about boundary-pushing. Cream, by contrast, provides warmth, balance, and a bit of cream-veil sophistication. Put together on a hand-tufted wool rug, they offer a timeless contrast: the crimson as the floor-level accent and the cream as the breath of air that prevents the room from tipping over into over-saturation. If you’re into interior design memes, this rug is the keep calm and color-block of your home.
 
 In practice, the color story helps anchor a room that might otherwise feel like a color wheel threw up after a wild software update. You can pair crimson with charcoal or navy furniture and let the cream act as a clarifying agent—kind of like a designer-friendly white noise. And if your furniture is already loud (a neon green sofa, perhaps), the cream in the rug tends to play referee instead of becoming another loud voice in the room.
 
@@ -43,7 +43,7 @@ Material matters, especially when you’re dealing with something you’ll step 
 
 ### Pile height and texture
 
-Tufted rugs come in varying pile heights, and while the exact spec for this specimen is score-appropriate, we’re talking something that’s comfortably plush without turning your hallway into a shag storm. A typical mid-range pile height offers a cushiony feel underfoot while remaining practical for vacuuming and daily wear. In my miles of testing, a good mid-pile wool rug maintains form after a couple of chairs are pulled across it and still feels soft enough to let you do the whole “barefoot Sunday morning” thing without grimacing.
+Tufted rugs come in varying pile heights, and while the exact spec for this specimen is score-appropriate, we’re talking something that’s comfortably plush without turning your hallway into a shag storm. A typical mid-range pile height offers a cushiony feel underfoot while remaining practical for vacuuming and daily wear. In my miles of testing, a good mid-pile wool rug maintains form after a couple of chairs are pulled across it and still feels soft enough to let you do the whole bare-foot Sunday morning thing without grimacing.
 
 ### Longevity and durability
 
@@ -60,7 +60,7 @@ If you want to nerd out on wool care, this is a great starter read: [Wool rug ca
 ## How this rug fits into your space
 
 ### Room pairings and styling ideas
-- Living rooms: A crimson and cream rug anchors a sofa in cool neutrals (grays, charcoals, and blues) while letting a few color-block cushions pop. If your sofa is tan or beige, the rug can be the central hero, a hero cape that says, “Yes, I planned this.”
+- Living rooms: A crimson and cream rug anchors a sofa in cool neutrals (grays, charcoals, and blues) while letting a few color-block cushions pop. If your sofa is tan or beige, the rug can be the central hero, a hero cape that says yes I planned this.
 - Dining rooms: A rug of this scale can define the space, especially in open-plan living areas. The crimson adds warmth beneath the dining table, while the cream helps keep the space visually light even with busy chairs and tabletop decor.
 - Bedrooms: A rug like this beneath the bed creates a soft landing and adds a touch of drama to offset bedrooms that lean minimalist. It’s the kind of rug that makes you want to crawl back into bed after the day’s chaos—though you’ll resist, because you’ll want to admire the pattern when you walk past.
 
