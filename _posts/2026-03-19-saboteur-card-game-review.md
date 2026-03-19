@@ -1,5 +1,5 @@
 ---
-title: Saboteur Card Game Review: Glitter, Betrayal, and Miners with Shovels
+title: Saboteur Card Game Review: Glitter, Betrayal, and Miners with Shovels (Amigo English Edition)
 date: 2026-03-19
 tags:
   - board games
@@ -9,11 +9,16 @@ tags:
   - geeknite
   - hidden-role
   - party-game
+  - family-game
+  - Amigo
+  - english-edition
+  - three-to-ten-players
+  - age8plus
 ---
 
 ## Saboteur Card Game Review: Glitter, Betrayal, and a Pickaxe Shortage
 
-Welcome back, fellow geeks and snack enthusiasts. Today we mine for gold in a very small box that somehow contains enough drama to power a thousand social deductions. Saboteur is the kind of game you bring to a party and leave with a new legend about a dwarf who could not stop smiling after turning a straight path into a detour maze. In short: it’s tiny, it’s cheeky, and it makes every table feel like a film set where everyone is auditioning for the role of “Most Suspicious Miner.” If you like your tabletop gaming with shiny gold, a dash of deception, and a few perfectly timed “ooh, I didn’t see that coming” moments, Saboteur will treat you like a glittery treasure chest that’s just begging to be opened—after a few well-placed suspicious glances, of course.
+Welcome back, fellow geeks and snack enthusiasts. Today we mine for gold in a very compact box that somehow contains enough drama to power a thousand social deductions. Saboteur is the kind of game you bring to a party and leave with a new legend about a dwarf who could not stop smiling after turning a straight path into a detour maze. In short: it’s tiny, it’s cheeky, and it makes every table feel like a film set where everyone is auditioning for the role of “Most Suspicious Miner.” If you like your tabletop gaming with shiny gold, a dash of deception, and a few perfectly timed “ooh, I didn’t see that coming” moments, Saboteur will treat you like a glittery treasure chest that’s just begging to be opened—after a few well-placed suspicious glances, of course.
 
 If you haven’t heard of Saboteur, picture a merry band of miners attempting to carve a path to treasure, while some players secretly twist the route with sneaky cards. It’s a game about cooperation and betrayal that you can play in one sitting, preferably with snacks that disappear suspiciously fast when the crew gets into a card-flinging mood. The rules are approachable, the characters are (mostly) friendly-looking dwarves, and the tension is deliciously low-stakes until someone plays a long, dramatic Path card that triggers a chorus of groans and triumphs in equal measure.
 
@@ -31,6 +36,8 @@ Before we dive deeper, here are some quick anchors:
 Saboteur is a card game designed around hidden roles and path-building. The core objective is simple and elegant: be the first team to reach the treasure by placing a valid path from the start to the treasure card. There’s one catch: not everyone is on your team. Some players are Saboteurs, set on steering the path away from treasure or otherwise tangling the route so that no one can win. The game thrives on people pretending they’re on your side, then pulling a fast one when you least expect it.
 
 The design is light-hearted and colorful, with cartoonish dwarves and gleaming gold that looks suspiciously like it belongs in a pirate’s treasure chest. The art communicates rules cleanly and invites everyone to jump in without needing a degree in Mineshaft Etiquette. It’s the sort of package that makes you want to lay out a mat, grab a bag of chips, and declare a mining expedition worthy of a sitcom spin-off.
+
+> In this updated take, we’re specifically talking about the Amigo English edition, a NEW SEALED variant that keeps the core chaos intact while making sure the font is readable for family game nights and the box fits in a backpack without needing a hero’s belt clip.
 
 ### Why Saboteur shines on a game night
 - Easy to learn, hard to master: The rules are straightforward, but the social dynamics keep evolving as players switch from builders to saboteurs and back again.
