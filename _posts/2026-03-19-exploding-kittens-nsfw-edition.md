@@ -10,11 +10,11 @@ tags:
   - expansion
 ---
 
-{% image assets/images/exploding-kittens-nsfw.jpg alt="Exploding Kittens NSFW Edition art" %}
+{% image assets/images/exploding-kittens-nsfw.jpg alt='Exploding Kittens NSFW Edition art' %}
 
 Exploding Kittens NSFW Edition lands on Geeknite with the confidence of a cat claiming the keyboard: it knows it is not meant for all audiences, but for those who enjoy a little chaos sprinkled with crude humor, it is absolutely delightful chaos. If the standard Exploding Kittens is a mischievous puppy, the NSFW Edition is the prankster who wears sunglasses at night and laughs in the rain. It is loud, it is silly, and yes, some people may blush—while others simply howl with laughter.
 
-In this expanded review, we dissect the NSFW Edition from top to bottom: what is inside the box, how the gameplay differs (or doesn t) from the classic, the quality of the art and jokes, who should play it, and whether the price tag is a blessing or a budgetary heartbreak. We will also sprinkle in some Geeknite flair, because this site loves to overanalyze a party game the way a bot analyzes a meme.
+In this expanded review, we dissect the NSFW Edition from top to bottom: what is inside the box, how the gameplay differs (or doesn’t) from the classic, the quality of the art and jokes, who should play it, and whether the price tag is a blessing or a budgetary heartbreak. We will also sprinkle in some Geeknite flair, because this site loves to overanalyze a party game the way a bot analyzes a meme.
 
 If you are curious about the broader Exploding Kittens universe, fear not: we will occasionally wink to the parent game to provide context, but this review centers on the NSFW Edition as its own beast. To keep things lively, we will pepper in a few internal references to related Geeknite posts using post_url, so you can bounce around the site like a curious kitten in a yarn shop.
 
@@ -28,15 +28,15 @@ A word on tone: the NSFW edition is unapologetic. Some cards lean into sexual in
 
 If you want a quick primer on the enduring appeal of Exploding Kittens, check our broader discussion in the party games space here: {% post_url 2025-08-20-party-games-101.md %} and for a look at how humor shapes play, see {% post_url 2024-09-15-humor-driven-card-games.md %}.
 
-{% image assets/images/exploding-kittens-nsfw-cards.jpg alt="Card art from NSFW edition" %}
+{% image assets/images/exploding-kittens-nsfw-cards.jpg alt='Card art from NSFW edition' %}
 
-## What s inside the box
+## What’s inside the box
 
 The NSFW edition keeps the familiar deck structure but injects adult energy into almost every card. Here is what you will typically find in the box:
 
-- A deck of NSFW edition cards including Exploding Kitten cards, Defuse cards, and a roster of outrageous action cards. 
-- A handful of humorous stand ins for standard card components to drive the adult jokes without complicating the base rules. 
-- A quick start guide designed to get you laughing in under five minutes, with setup time on the brisk side for most groups. 
+- A deck of NSFW edition cards including Exploding Kitten cards, Defuse cards, and a roster of outrageous action cards.
+- A handful of humorous stand ins for standard card components to drive the adult jokes without complicating the base rules.
+- A quick start guide designed to get you laughing in under five minutes, with setup time on the brisk side for most groups.
 - A snarky but readable rulebook that reminds you this game is about mischief first, strategy second.
 
 The art style stays faithful to Exploding Kittens original cartoony vibe—bright colors, bold lines, and creatures with expressions that say, We know this is ridiculous, and we love it. The NSFW edition nudges the art toward cheekier imagery and jokes that will prompt more blushes and shrugs than gasps in a normal group. If you are into high contrast, irreverent visuals, you will feel right at home.
@@ -122,7 +122,7 @@ Recommendation: If your party nights hinge on laughter, relish friendly perversi
 
 External links:
 - Official Exploding Kittens page: https://explodingkittens.com/
-- NSFW Edition product page (retailer examples): https://www.amazon.com/dp/B07XYZNSFW
+- NSFW Edition product page (retailer examples): https://www.amazon.com/dp/B07XYZNSFWn
 
 As a reminder, always consider your audience before buying. If you re in doubt, run a quick poll or a playful consent check. If you want to compare this with other humorous party games available on Geeknite, see our related posts on humor driven card games and party game pacing.
 
