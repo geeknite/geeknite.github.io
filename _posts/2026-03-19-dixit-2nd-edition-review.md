@@ -1,6 +1,6 @@
 ---
-ttitle: Dixit: 2nd Edition — A Dreamy Review for Party-Goers
-Date: 2026-03-19
+title: Dixit: 2nd Edition — A Dreamy Review for Party-Goers
+date: 2026-03-19
 tags:
   - board-games
   - reviews
