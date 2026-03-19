@@ -1,7 +1,7 @@
 ---
-title: Edouard Guiton Special Guest Zombicide Expansion for CMON Zombie Survivors
+ttitle: Edouard Guiton Special Guest: Zombicide Expansion for CMON Zombie Survivors
 date: 2026-03-19
-tags: [board games, Zombicide, CMON, expansions, Edouard Guiton, Zombie Survivors, gaming]
+tags: [board games, Zombicide, CMON, expansions, Edouard Guiton, Zombie Survivors, gaming, review, guest designer]
 ---
 
 # Edouard Guiton Special Guest: Zombicide Expansion for CMON Zombie Survivors
