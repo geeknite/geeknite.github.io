@@ -1,5 +1,5 @@
 ---
-title: 'Go Fuc Yourself: The Ultimate Adult Go Fish Game'
+title: 'Go Fuc Yourself: The Ultimate Adult Go Fish Game (Expanded Review)'
 date: 2026-03-19
 tags:
   - games
@@ -7,6 +7,8 @@ tags:
   - card-games
   - adult
   - review
+  - party-games
+  - social
 ---
 
 ![Go Fuc Yourself Cover]({{ '/assets/images/go-fuc-yourself-cover.jpg' | relative_url }})
@@ -34,6 +36,8 @@ If Go Fish is a picnic with a lemonade stand, Go Fuc Yourself is an after‑hour
 ### The Box, Build Quality, and The Cursed Yet Endearing Rulebook
 
 The box radiates party game energy: bold typography, a glossy, scratch‑resistant finish, and artwork that invites you to become the villain of a brunch‑time escapade. Inside, you’ll find a sturdy deck of Go Fish cards with a playful art overhaul, a compact rulebook that acts as both map and safety manual, a set of prompts, some dares, and a handful of wild cards that flip the entire table dynamic. The card stock is sturdy enough to survive a night of enthusiastic shuffles and dramatic card slams, should someone dare you with a bold prompt. The rulebook keeps things moving and includes safety guidance to help players navigate spicy humor without crossing lines.
+
+![Prompt Deck Art]({{ '/assets/images/go-fuc-yourself-prompt-deck.jpg' | relative_url }})
 
 ## How to Play: The Grand Remix (In Depth)
 
