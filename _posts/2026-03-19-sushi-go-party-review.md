@@ -1,5 +1,5 @@
 ---
-title: 'Sushi Go Party! - Reseña ampliada y fiestera: el pick & pass que ilumina cualquier mesa (Actualización Geeknite)'
+ttitle: 'Sushi Go Party! - Reseña ampliada y fiestera: el pick & pass que ilumina cualquier mesa (Actualización Geeknite)'
 date: 2026-03-19
 tags:
   - juegos de mesa
@@ -18,12 +18,16 @@ tags:
 ![Sushi Go Party en lata]({{ '/assets/images/sushi-go-party.jpg' | relative_url }})
 
 ## Introducción: una lata que grita fiesta y buen humor (con un toque de gourmet nerd)
-Bienvenidos a Geeknite, la guarida de las risas, las tiradas de dados imposibles y las reseñas que huelen a nigiri recién hecho. Hoy volvemos a la carga con Sushi Go Party!, esa versión deluxe, modular y, por qué no decirlo, con aletas de atún que muestran un afán de fiesta que haría sonreír incluso al señor Miyagi. Si en Sushi Go original la emoción estaba en la anticipación de la siguiente carta, en Sushi Go Party la pista de baile se extiende: más menús, más reglas intercambiables y, por supuesto, una lata que hace que abrir la caja sea tan satisfactorio como destapar un postre tras una buena cena. En esta actualización extendida, vamos a recorrer desde la apertura hasta las reglas refinadas, pasando por el pick & pass que sigue funcionando igual de adictivo, hasta los platillos de puntuación que pueden convertir una ronda inocente en una pequeña epopeya culinaria. Prepárate para un viaje que combina la sencillez de un juego de cartas con la celebración de una mesa llena de amigos y familia. Y sí, habrá humor, porque si no hay un chiste sobre maki en una reseña de sushi, ¿qué estamos haciendo aquí?
+Bienvenidos a Geeknite, la guarida de las risas, las tiradas de dados imposibles y las reseñas que huelen a nigiri recién hecho. Hoy volvemos a la carga con Sushi Go Party!, esa versión deluxe, modular y, por qué no decirlo, con aletas de atún que muestran un afán de fiesta que haría sonreír incluso al señor Miyagi. Si en Sushi Go original la emoción estaba en la anticipación de la siguiente carta, en Sushi Go Party la pista de baile se extiende: más menús, más reglas intercambiables y, por supuesto, una lata que hace que abrir la caja sea tan satisfactorio como destapar un postre tras una buena cena.
+
+En esta actualización extendida, vamos a recorrer desde la apertura hasta las reglas refinadas, pasando por el pick & pass que sigue funcionando igual de adictivo, hasta los platillos de puntuación que pueden convertir una ronda inocente en una pequeña epopeya culinaria. Prepárate para un viaje que combina la sencillez de un juego de cartas con la celebración de una mesa llena de amigos y familia. Y sí, habrá humor, porque si no hay un chiste sobre maki en una reseña de sushi, ¿qué estamos haciendo aquí?
 
 > Nota de estilo Geeknite: cuando una lata dice lujo, nosotros seguimos la pista de una experiencia que se siente premium sin perder el alma de fiesta. Sushi Go Party no pretende ser una simulación gastronómica sofisticada; quiere ser la excusa perfecta para sacar a relucir el anfitrión que todos llevamos dentro y, de paso, dejar recuerdos divertidos en cada ronda.
 
 ## ¿Qué es Sushi Go Party! y por qué debería importarte? (Versión ampliada)
-Sushi Go Party! es la versión Party de Sushi Go, pero con una diferencia clave que lo pone en otra liga: no te obligan a un solo mazo estático. En su lugar, Gamewright propone varios menús predefinidos (y algunos que puedes personalizar) que ajustan el ritmo, la complejidad y el tipo de combos que perseguir. Es como tener varios mini-juegos en uno, pero con el mismo conjunto de cartas y, por si acaso, una lata que quiere robarse el protagonismo de la mesa. A grandes rasgos, cada ronda se resuelve igual: cada jugador toma una carta de su mano y la pasa al vecino; cuando llega a tu turno, vuelves a hacer lo mismo. Pero la magia está en el menú de puntuación que guía qué combinaciones sumarás y cómo se premiarán. La gracia adicional es la variabilidad de los menús: desde combinaciones simples que premian pares de nigiri hasta configuraciones temáticas que requieren lógica de rompecabezas para optimizar puntos a lo largo de varias rondas.
+Sushi Go Party! es la versión Party de Sushi Go, pero con una diferencia clave que lo pone en otra liga: no te obligan a un solo mazo estático. En su lugar, Gamewright propone varios menús predefinidos (y algunos que puedes personalizar) que ajustan el ritmo, la complejidad y el tipo de combos que perseguir. Es como tener varios mini-juegos en uno, pero con el mismo conjunto de cartas y, por si acaso, una lata que quiere robarse el protagonismo de la mesa.
+
+A grandes rasgos, cada ronda se resuelve igual: cada jugador toma una carta de su mano y la pasa al vecino; cuando llega a tu turno, vuelves a hacer lo mismo. Pero la magia está en el menú de puntuación que guía qué combinaciones sumarás y cómo se premiarán. La gracia adicional es la variabilidad de los menús: desde combinaciones simples que premian pares de nigiri hasta configuraciones temáticas que requieren lógica de rompecabezas para optimizar puntos a lo largo de varias rondas.
 
 La lata en sí no es un simple contenedor; es una declaración de intenciones. Un objeto de colección que, cuando la abres, convierte la apertura en una pequeña ceremonia de inauguración de una colección de sushi. Es tactile, visual y, para muchos, parece un recordatorio de que una experiencia de juego bien diseñada también puede sentirse como un ritual de bienvenida a la mesa.
 
@@ -52,18 +56,18 @@ En Sushi Go Party, el objetivo no es solo recolectar cartas de comida, sino ente
 A continuación, una guía ampliada para empezar con soltura sin perderse en reglamentos enrevesados. Esta sección está pensada para lectores que quieren entrar en acción sin perder dos horas buscando el reglamento.
 
 ### Preparación (con trucos para acelerar la sesión)
-- Escoge un conjunto de menús para la sesión: puedes usar uno de los menús predefinidos o diseñar una configuración propia, si te sientes particularmente creativo. 
-- Cada jugador toma su carta de inicio y la lata de puntuación para controlar la mesa de puntuación. 
-- Mezcla las cartas de sushi y reparte una cantidad igual a cada jugador, dejando algunas cartas extra para el primer turno. 
+- Escoge un conjunto de menús para la sesión: puedes usar uno de los menús predefinidos o diseñar una configuración propia, si te sientes particularmente creativo.
+- Cada jugador toma su carta de inicio y la lata de puntuación para controlar la mesa de puntuación.
+- Mezcla las cartas de sushi y reparte una cantidad igual a cada jugador, dejando algunas cartas extra para el primer turno.
 - Prepara el área de juego y elige al azar quién empieza. Si quieres una experiencia más teatral, designa un maestro de menús que declare la puntuación final de cada ronda y haga comentarios irónicos cuando alguien olvida que un as de atún suma puntos extra por simetría.
 
 > Consejos prácticos: si hay niños en la mesa, mantén la explicación corta; la facilidad de aprendizaje está en la superficie, pero la diversión está en la interacción. Si hay adultos, añade un par de menús más desafiantes para ver quién llega a la última ronda con margen.
 
 ### Turno típico (con variaciones útiles)
-- El jugador activo elige una carta de su mano y la coloca en su área de puntuación. 
-- El jugador pasa el resto de cartas al vecino, de forma que cada jugador reciba una nueva mano para escoger en la siguiente ronda. 
-- Cuando no quedan cartas para pasar, cada jugador procede a puntuar las cartas de su área de puntuación según el menú escogido. 
-- Repite el proceso hasta que se agoten las cartas. 
+- El jugador activo elige una carta de su mano y la coloca en su área de puntuación.
+- El jugador pasa el resto de cartas al vecino, de forma que cada jugador reciba una nueva mano para escoger en la siguiente ronda.
+- Cuando no quedan cartas para pasar, cada jugador procede a puntuar las cartas de su área de puntuación según el menú escogido.
+- Repite el proceso hasta que se agoten las cartas.
 - Suma puntos y descarte para preparar la siguiente ronda con un nuevo menú, si se decide cambiar la configuración.
 
 ### Reglas rápidas y trampas comunes (sin spoilers de alto riesgo)
@@ -159,6 +163,5 @@ Sushi Go Party de Gamewright llega para convertirse en un compañero fiable para
 ### Nota final para lectores que llegan al final del post
 Si estás buscando una experiencia de fiesta que se sienta tan bien como se ve, y que permita que cada persona aporte humor, estrategia ligera y conversación a la mesa, Sushi Go Party en lata es la opción a batir. No es un juego de cocina molecular; es un juego de cartas que sabe convertir una cena entre amigos en una pequeña celebración de micro-reglas, risas compartidas y recuerdos que duran más que el postre. ¿Listos para cortar, rolar y pasar? La lata está esperando.
 
----
 
 **Compra Sushi Go Party en nuestra tienda afiliada y haz que Geeknite siga existiendo para traerte reseñas con sabor.**
