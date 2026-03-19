@@ -102,14 +102,6 @@ From a longevity perspective, it scales nicely with your group size. Three to si
 
 If heavier or more tactical play is your jam, you can browse our Best Co-Op Party Games for a complementary experience: {% post_url 2025-03-22-best-co-op-party-games %}. If you want to keep leaning minimalist, Silent Strategy Games remains a good companion read: {% post_url 2025-08-15-silent-strategy-games %}.
 
-## Who Should Buy The Mind? Target Audience and Use-Cases
-
-- Families and mixed-age groups seeking a gentle, high-energy, low-setup experience. It’s easy to teach to kids and still engaging for adults who want a playful challenge without a long rules lecture.
-- Social groups that enjoy playful experimentation and the thrill of shared risk under a calm, silent framework. If you like micro-competition and a pinch of luck, you’ll feel right at home.
-- Casual party gamers who want a palate cleanser between longer, heavier sessions. The Mind can be a fast reset after dinner when you want a quick sparkle of tension without pulling out a giant rulebook.
-
-On the flip side, if your table loves deep strategic planning, long-form puzzle solving, or boisterous verbal banter, The Mind’s quiet, non-verbal approach can feel like a mismatch. It’s not that the game is exclusive; it’s that the vibe isn’t a natural fit for groups who measure every round by deep strategy rather than shared experience. If that sounds like your crew, consider pairing with more robust co-ops or strategy games and then return to The Mind for a short, sharp finale.
-
 ## Variants, Expansions, and Longevity Tips
 
 The Mind does not demand expansions to shine, which is a major plus for players who want to keep things lean. That said, a few tasteful variants can freshen sessions without destroying the core ethos:
@@ -124,7 +116,7 @@ If you’re a completionist and want to explore expansions, you’ll discover Th
 
 The Mind embodies a particular kind of magic: a game that thrives on the human moment rather than on complex mechanistic mastery. It rewards social sensitivity, timing, and a willingness to lean into silence together as a group. It shines in intimate settings where a circle of friends or family can lean in, exchange a few glances, and ride a shared wave of tension to a satisfying conclusion. It’s not the heavyweight champion of party games, but it is the quiet champion of quick, meaningful connection—one that can generate more laughs per minute than many louder games with far more components.
 
-In terms of value, The Mind is an excellent pick for families and casual gamers who want a light, approachable spark of that classic party-night glow. It’s also a dependable centerpiece for a broader game night when you want a breather between heavier titles or a quick, mood-setting closer to end the evening with smiles and disbelief at how perfectly aligned everyone felt in the moment.
+In terms of value, The Mind is an excellent pick for families and casual gamers who want a light, approachable spark of that classic party-night glow. It’s also a dependable centerpiece for a broader game night when you want a quick, mood-setting closer to end the evening with smiles and disbelief at how perfectly aligned everyone felt in the moment.
 
 Pros:
 - Ultra-simple rules and quick onboarding
