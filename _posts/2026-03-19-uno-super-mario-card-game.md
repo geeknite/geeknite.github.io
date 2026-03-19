@@ -1,5 +1,5 @@
 ---
-title: UNO Super Mario Card Game Review: A Geeknite Saga
+title: UNO Super Mario Card Game Review: A Geeknite Saga Expanded
 date: 2026-03-19
 tags:
   - board games
@@ -22,9 +22,11 @@ Inside the box, you’ll find the standard UNO deck with Mario flavor, plus a ha
 
 Also included in the box is a mystery: a tiny plastic coin that bears a miniature Mario hat. This is not a stake, but you will treat it as one because the existence of such a thing makes your table look like a cross between a charity gala and a speedrun arena. It’s cute, it’s quirky, and it’s a helpful memento of the fact that you can now own a “Power-Up” card that occasionally resets the game in dramatic fashion.
 
+![Mario chaos on the table]({{ site.baseurl }}/assets/images/uno-mario-chaos.jpg)
+
 ## Thematic Integration: Does Mario Fit Here?
 
-The core appeal of the Mario partnership is the nostalgia factor. If you grew up shouting “It’s-a me, Mario!” while trying to dodge Koopa shells in a pixelated world, you’ll feel that familiar tug. The card illustrations are charming, with Mario, Luigi, Princess Peach, Bowser, Yoshi, and other iconic faces peppered across the suits. The figurines on the cards are tastefully small, like little cameos rather than a full-on Mario party in your hand.
+The core appeal of the Mario partnership is the nostalgia factor. If you grew up shouting It’s-a me, Mario! while trying to dodge Koopa shells in a pixelated world, you’ll feel that familiar tug. The card illustrations are charming, with Mario, Luigi, Princess Peach, Bowser, Yoshi, and other iconic faces peppered across the suits. The figurines on the cards are tastefully small, like little cameos rather than a full-on Mario party in your hand.
 
 But the real question is: does Mario change UNO, or does UNO simply wear a Mario costume? The answer is a little of both, with more emphasis on “a little.” You’ll notice three kinds of changes in play:
 
@@ -51,7 +53,7 @@ Setup and playthrough examples:
 - Quick game (3-4 players): Deal seven cards, place the draw pile in the center, flip the top card, and go. The Warp Pipe card appears, you swap hands with your neighbor, and your table erupts into giggles as the neighbor suddenly has a hand full of the wrong color and a random Mushroom on top. The next player, inspired by the sudden chaos, whips out a Star card and wipes out the entire table’s color alignment in a dramatic flourish.
 - Extended session (5-6 players): The game extends naturally because more players mean more Warp Pipes and Power-Ups in circulation. You’ll get those moments when a single card changes the entire leaderboard, which is exactly what you want from a party game designed to be chaotic in a wholesome way.
 
-If you want a dedicated guide to how these new cards interact, the official rule sheet is helpful, and there are a few fan-creations circulating online that help you tailor the experience for younger players or for folks who want to play without certain card types. For a deeper dive into UNO’s history and how the Mario edition fits into the broader family of UNO expansions, you can check out the historical overview in our previous post on UNO evolutions here: [A quick UNO showdown: standard UNO vs. off-brand chaos]({% post_url 2024-08-22-uno-showdown %}). For a broader dive into crossovers in board games, see our Mario-meets-board-games piece here: [Mario and board games: why nostalgia sells]({% post_url 2025-12-12-mario-board-games-nostalgia %}). And if you’re curious about how this edition stacks up against other Nintendo crossovers, take a peek at this older analysis: [Nintendo crossovers in tabletop games]({% post_url 2023-05-16-nintendo-tabletop-analysis %}).
+If you want a dedicated guide to how these new cards interact, the official rule sheet is helpful, and there are a few fan-creations circulating online that help you tailor the experience for younger players or for folks who want to play without certain card types. For a deeper dive into UNO’s history and how the Mario edition fits into the broader family of UNO expansions, you can check out the historical overview in our previous post on UNO evolutions here: {% post_url 2024-08-22-uno-showdown %}. For a broader dive into crossovers in board games, see our Mario-meets-board-games piece here: {% post_url 2025-12-12-mario-board-games-nostalgia %}. And if you’re curious about how this edition stacks up against other Nintendo crossovers, take a peek at this older analysis: {% post_url 2023-05-16-nintendo-tabletop-analysis %}.
 
 For those who want to dead-clarify the rules before they play, here’s a compact setup-to-finish flow:
 
@@ -66,11 +68,11 @@ The important thing to remember is that Mario’s theme is additive, not subtrac
 
 ## Playtesting Notes: Social Dynamics and Family Chaos
 
-We tested the UNO Super Mario Card Game across a spectrum of players: casual gamers, hardcore board game enthusiasts, and a five-year-old who has discovered the power of the “boop” sound when moving pieces around. The results were almost universal: the kids loved the visuals and the new cards; the adults enjoyed the nostalgia and the renewed pressure of a race to UNO while juggling Warp Pipes with a straight face.
+We tested the UNO Super Mario Card Game across a spectrum of players: casual gamers, hardcore board game enthusiasts, and a five-year-old who has discovered the power of the boop sound when moving pieces around. The results were almost universal: the kids loved the visuals and the new cards; the adults enjoyed the nostalgia and the renewed pressure of a race to UNO while juggling Warp Pipes with a straight face.
 
 - The kids (ages 6–11) caught on quickly to Power-Up logic and enjoyed the frenetic pace. The artwork helps them recognize what to do next, and the warp effects encourage social interaction rather than pure competition.
-- The casual players appreciated the familiar core of UNO but loved the Mario-y flair. The rule variations were explained clearly on the included sheets, which reduced the “call a friend to google the rules” moments that sometimes drag down a family game night.
-- The veterans (written in our crew as “the people who could beat me at rock, paper, scissors while solving a Rubik’s cube blindfolded”) enjoyed the increased unpredictability. The Warp Pipe cards created memorable moments that would become stories: someone losing their last card because a random Power-Up forced them to draw, then sneaking away with a triumphant grin as the table groans in shared recognition of chaos.
+- The casual players appreciated the familiar core of UNO but loved the Mario-y flair. The rule variations were explained clearly on the included sheets, which reduced the call-a-friend-to-google-the-rules moments that sometimes drag down a family game night.
+- The veterans (in our crew, the people who could beat us at rock, paper, scissors while solving a Rubik’s cube blindfolded) enjoyed the increased unpredictability. The Warp Pipe cards created memorable moments that would become stories: someone losing their last card because a random Power-Up forced them to draw, then sneaking away with a triumphant grin as the table groans in shared recognition of chaos.
 
 One thing to highlight: with more players, the duration can drift longer than a typical UNO round. If your game group has a long coffee break or loves marathon card games, you’ll appreciate the extended session option. If your nights require swifter turnarounds, you can implement house rules to speed up the endgame or ban certain Power-Ups after a threshold. The kit plays nicely with modular rules, which is essential for a modern board-game night that often needs to adapt on the fly.
 
@@ -92,7 +94,7 @@ If you’re deciding between buying this edition or the standard UNO plus a sepa
 
 - Families and kids who want something quick to pick up but still fun to play together. The Power-Ups and Warp Pipelines give younger players bright moments of triumph and narrative satisfaction without requiring grown-up-level strategy.
 - Casual game groups who want a Mario-themed party game that’s not overtly competitive. You’ll get laughs and occasional moments of real tactical play, which is a rare combination for a license-based product.
-- Nerdy collectors who enjoy visual design and cross-pcontent experiences. If you collect Mario memorabilia or UNO variants, this edition is right in your wheelhouse.
+- Nerdy collectors who enjoy visual design and crossovers in general. If you collect Mario memorabilia or UNO variants, this edition is right in your wheelhouse.
 - Regular UNO players who want a fresh spin without diving into a heavier strategy game. It’s a gentle tilt into something a bit flashier without losing the core feel.
 
 If your playgroup tends toward cutthroat competition with long strategic sessions, the Mario edition can still fit, but you’ll want to set expectations. It’s a lighter, more social experience. You’ll be trading hand-slap gags and dramatic sighs as often as you’ll be trading cards, which, frankly, is what makes it feel like a party game rather than a solemn ritual.
@@ -119,11 +121,11 @@ If you’re scouting a quick, family-friendly game night with a nostalgic twist,
 
 ## How It Compares to Other UNO Editions
 
-If you’ve dipped your toes into other UNO variants, you know the drill: some editions lean into wilds, others into color-shuffling chaos. The Super Mario edition lands somewhere in the middle with a distinct identity that’s still incredibly approachable. It’s less “collectible novelty” than “playable crossover that earns its existence,” which is a compliment in this subgenre. It’s not as mechanically radical as some of the more complex UNO variants, but it doesn’t pretend to be. It respects players’ time and tries to be a crowd-pleaser rather than a puzzle with a big sticker of Mario on it.
+If you’ve dipped your toes into other UNO variants, you know the drill: some editions lean into wilds, others into color-shuffling chaos. The Super Mario edition lands somewhere in the middle with a distinct identity that’s still incredibly approachable. It’s less collectable novelty than playable crossover that earns its existence, which is a compliment in this subgenre. It’s not as mechanically radical as some of the more complex UNO variants, but it doesn’t pretend to be. It respects players’ time and tries to be a crowd-pleaser rather than a puzzle with a big sticker of Mario on it.
 
 For readers who crave deeper rule experimentation, you can hybridize with other UNO variants as a house rule. The base remains UNO, and you can adopt extras like stacking Draw Two or custom Power-Ups if you want to tailor the pacing to your group. The nerd in you will appreciate the modularity; the rest of you will appreciate the giggles when Bowser’s picture looms over your last-card moment.
 
-If you want to dive into more crossovers, check out our guide on Nintendo crossovers in tabletop gaming here: [Nintendo crossovers in board games]({% post_url 2023-05-16-nintendo-tabletop-analysis %}). You may also enjoy our look at how nostalgia drives modern game design in this piece: [Nostalgia as a design lever in modern board games]({% post_url 2024-04-03-nostalgia-design-board-games %}).
+If you want to dive into more crossovers, check out our guide on Nintendo crossovers in tabletop gaming here: {% post_url 2023-05-16-nintendo-tabletop-analysis %}. You may also enjoy our look at how nostalgia drives modern game design in this piece: {% post_url 2024-04-03-nostalgia-design-board-games %}.
 
 ## Quick Setup and Playthrough Checklist
 
