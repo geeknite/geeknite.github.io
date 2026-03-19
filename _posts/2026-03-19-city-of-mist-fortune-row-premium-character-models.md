@@ -139,7 +139,7 @@ Another note: assembly time is often shorter than expected, especially when you 
 
 ## Community reception and discourse (Expanded)
 
-Across City of Mist circles, Fortune Row inspired debates about display value versus practical tabletop utility. Some players love the “wow” factor and the photography potential; others crave budget-friendly proxies that can fill the same story role without pressuring budgets. The consensus: if you lean into mood and storytelling, Fortune Row delivers a memorable night, especially when you pair premium minis with smart narrative prompts from your GM side.
+Across City of Mist circles, Fortune Row inspired debates about display value versus practical tabletop utility. Some players love the wow factor and the photography potential; others crave budget-friendly proxies that can fill the same story role without pressuring budgets. The consensus: if you lean into mood and storytelling, Fortune Row delivers a memorable night, especially when you pair premium minis with smart narrative prompts from your GM side.
 
 A recurring thread is that premium minis often become narrative anchors in long arcs. When a player asks, Are we bringing the Fortune Row tonight? you know you’ve hit a mood where the table is primed for intrigue, not just dice rolls.
 
@@ -164,7 +164,7 @@ If you want more on premium minis vs budget, check our Premium vs Budget Miniatu
 ## Recommendations and next steps (Expanded)
 
 - For Fortune Row arcs, consider adding the full row for maximum mood if you run dedicated sessions. A complete cast on the table is a storytelling powerhouse, especially when scenes hinge on faction politics and street-level myths.
-- For mixed tables, start with a couple of premium models for scenes and supplement with affordable NPCs. The aim is to cue players’ expectations without breaking the bank.
+- For mixed tables, start with a couple of premium models for scenes and supplement with affordable NPCs. The aim is to cue players expectations without breaking the bank.
 - Painters: invest in a handful of contrast paints and a matte varnish to reach a scene-ready stage quickly. It helps if you have a standard palette: a cold gray for base, a blue-gray for shadows, a charcoal for depth, and a metallic for sigils.
 - If undecided, buy one model, paint it, and test at your table. If it sparks conversation and narrative energy, it’s a win for everyone at the table.
 
