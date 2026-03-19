@@ -1,14 +1,16 @@
 ---
-title: Jenga Deluxe Edition — A Tower-Tastic Review
+title: Jenga Deluxe Edition — A Tower-Tastic Review (Expanded)
 date: 2026-03-19
 tags:
   - board-games
   - reviews
   - geeknite
   - humor
+  - family
+  - party-games
 ---
 
-![Jenga Deluxe Edition Box Art](/assets/images/jenga-deluxe.jpg "Jenga Deluxe Edition Box Art")
+![Jenga Deluxe Edition Box Art](/assets/images/jenga-deluxe.jpg 'Jenga Deluxe Edition Box Art')
 
 ## Introduction
 
