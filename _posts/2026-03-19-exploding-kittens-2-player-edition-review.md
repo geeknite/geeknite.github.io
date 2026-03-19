@@ -1,5 +1,5 @@
 ---
-ttitle: Exploding Kittens 2-Player Edition Review (Expanded)
+title: Exploding Kittens 2-Player Edition Review (Expanded)
 date: 2026-03-19
 tags:
   - board-games
@@ -108,8 +108,8 @@ Setup is brisk, ideal for casual game nights or a quick face-off during a sitcom
 - People with very limited table space or a strong preference for digital-only games (you brave, space-challenged humans).
 
 ## External links
-- Official Exploding Kittens page for the 2-Player Edition: Official product page
-- A quick reference for the broader Exploding Kittens universe: Exploding Kittens wiki and lore
+- Official Exploding Kittens 2-Player Edition product page: https://www.explodingkittens.com/product/2-player-edition/
+- Exploding Kittens wiki and lore: https://en.explodingkittens.fandom.com/wiki/Exploding_Kittens
 
 ### Related posts you might enjoy
 - [The Basics of Card Game Pacing]({% post_url 2025-07-18-base-card-pacing %})
