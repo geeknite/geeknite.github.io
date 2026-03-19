@@ -1,10 +1,10 @@
 ---
 title: The Mind Special Edition with Expansion — A Neuro-Sync Review (Expanded)
 date: 2026-03-19
-tags: [board-games, reviews, coop-games, expansions, geeky-humor]
+tags: [board-games, reviews, coop-games, expansions, geeky-humor, jekyll-edition]
 ---
 
-![The Mind Special Edition](/assets/img/the-mind-special-edition.jpg)
+{% image /assets/img/the-mind-special-edition.jpg The Mind Special Edition %}
 
 ## Introduction
 The Mind Special Edition with Expansion is a mouthful in a box that pretends to be a mood ring for your gaming nights. If the base Mind felt like telepathic improv under a soft neon glow, this edition comes with a heftier mood ring, more texture, and a modular toolkit that can tune the pacing from a zen koan to a sprint through a laser-lit corridor. The pitch remains simple: coordinate without speaking, in ascending order, with the help of three new modular rulesets that you can mix, match, and probably argue about for 20 minutes before the first round even begins.
@@ -49,7 +49,7 @@ We tested with four players and with three, layering Echoes of Silence, Pulse of
 A typical session runs about 20 to 40 minutes, depending on group dynamics and module choices. The flow matters more than the number of cards in play: knowing when to lean into Echoes of Silence, when to let Pulse of the City breathe, and when to let Neon Night Mode simply be a mood cue rather than a mechanical lever.
 
 ### Play-by-play vibe and a sample round
-Picture four players at a coffee table. Round one uses base rules. A card pops up. The group agrees to turn on Echoes of Silence from the start. The countdown begins and the room leans in. A card slides into place with a quiet triumph that feels bigger than a shout. The moment of alignment arrives with a hush that somehow sounds like victory.
+Picture four players at a coffee table. Round one uses base rules. The group agrees to turn on Echoes of Silence from the start. The countdown begins and the room leans in. A card slides into place with a quiet triumph that feels bigger than a shout. The moment of alignment arrives with a hush that somehow sounds like victory.
 
 As rounds accumulate, Pulse of the City triggers. The group hears a gentle bustle, and the tempo shifts. Some players lean on the collective rhythm to time their plays, while others lean into the quiet chaos and hope the others carry the tune. It becomes less about who is telepathic and more about the group becoming a single, living clock.
 
