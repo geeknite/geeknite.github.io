@@ -1,13 +1,13 @@
 ---
-title: 'Exploding Kittens: Game Night Bundle – Geeknite Expanded Review (Updated)'
+ttitle: 'Exploding Kittens: Game Night Bundle – Geeknite Expanded Review (Updated)'
 date: 2026-03-19
-tags: [board-games, party-games, humor, review, family, expansion, updated, chaos]
+tags: [board-games, party-games, humor, review, family, expansion, updated, chaos, social]
 image: /assets/images/exploding-kittens-game-night-bundle.jpg
 ---
 
 ![Exploding Kittens Game Night Bundle](/assets/images/exploding-kittens-game-night-bundle.jpg)
 
-## Overview: A Box of Chaos You Can Hug Anyway (Updated and Expanded)
+## Overview: Expanded Chaos, Now with Extra Sass
 If your game nights feel like a greased-up choir practice or a board game that politely asks for a nap, the Exploding Kittens: Game Night Bundle is here to punch that snooze button with a laser pointer and a tiny cartoon paw. This expanded kit promises chaos that is controllable by color-coded chaos, a dash of strategic gambling with a side of kitten-animated mayhem, and enough smug-cat art to make you forget that your kitchen table is actually a battlefield of cardboard and snacks.
 
 In Geeknite fashion, we treat this bundle as a product that blends social lightness with enough arcane card-math to keep the household engineers happy. The Game Night Bundle is a compact ecosystem: a core kit with the base Exploding Kittens experience plus a handful of add-ons designed to speed up the chaos, reduce downtime, and give you more excuses to declare, I should have drawn the defuse card, not that one. For fans of my earlier musings on party games, this bundle feels like a natural progression from casual game nights to something that resembles a brunch where the rules change every five minutes. Spoiler: it’s a party in a box that mildly judges your life choices while you giggle at a kitten exploding metaphor.
@@ -27,6 +27,7 @@ This section is where the bundle earns its literal and figurative thumbs up or d
 - A compact rulebook that reads like a friendly manual but with more sass and fewer diagrams.
 - Tokens and a life-o-meter for dramatic tension (i.e., a simple timer that you’ll probably ignore).
 - A compact box designed for shelf-dwelling aficionados and clutter crisis managers alike.
+- A small dice (sometimes) and a few mini-tray inserts to corral chaos during a gravity-defying snack break.
 
 ### Card Quality and Artwork: A Plush Rage Monster You Want on Your Coffee Table
 The cards feel sturdy enough for a dozen play sessions without bending in weird places, though you’ll still handle them like a caffeinated librarian with a stapler at a chaotic book club. The artwork is bold, cartoonish, and designed to elicit giggles and slightly unsettled competitive vibes about your own gaming prowess. The color palette—neon pinks, electric blues, and a carnival of neons—casts your living room in the glow of a late-night streaming setup, minus the mic hiss but plus the mandatory snack-tax.
