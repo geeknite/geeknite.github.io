@@ -1,10 +1,10 @@
 ---
-ttitle: Sushi Go! - Juego de cartas para 2 a 5 jugadores
+title: Sushi Go! - Juego de cartas para 2 a 5 jugadores
 date: 2026-03-19
-tags: [juego-de-cartas, review, juegos-de-mesa, sushi-go, geeknite]
+tags: [juego-de-cartas, review, juegos-de-mesa, sushi-go, geeknite, drafting, party]
 ---
 
-![Portada de Sushi Go!](assets/images/sushi-go-cover.jpg)
+![Portada de Sushi Go!]({{ '/assets/images/sushi-go-cover.jpg' | relative_url }})
 
 Bienvenidos, ninjas del apetito lúdico. Si alguna vez has deseado una experiencia de degustación de cartas que sea tan rápida como un bocado de sashimi y tan estratégica como elegir tu propio menú en una fonda de otros universos, has llegado al lugar correcto. Hoy en Geeknite nos sumergimos en Sushi Go!, un juego de cartas para 2 a 5 jugadores que llega con voz de charcutería japonesa, estilo speed-dating entre tostadas de arroz y una pizca de cálculo de puntos. Prepárate para sonrisas, tensiones dulces y un final que podría dejarte con hambre... de victoria, claro.
 
@@ -23,7 +23,6 @@ La edición típica viene con un mazo de cartas, un reglamento breve y fichas de
 ## Mecánica y flujo de juego
 
 ### Reglas rápidas (para no perder la siesta)
-
 - El juego se juega en varias rondas, cada una con un objetivo de puntuación específico.
 - En cada ronda, cada jugador recibe una mano de cartas (normalmente 7 para 2 jugadores, 9 para 3-5 si no me falla el cálculo de la esposa de la torpeza en mi juego de bolsillo).
 - En cada turno, cada jugador elige una carta de su mano y pasa el resto de cartas a su vecino (izquierda o derecha, según la ronda). Mantienes la carta elegida frente a ti y pasas el resto.
@@ -61,7 +60,7 @@ Las variaciones de reglas para 2 jugadores son mínimas: puedes optar por manten
 
 ## Dónde encaja Sushi Go! en tu colección
 
-Para un coleccionista de juegos de mesa, Sushi Go! es una pérola en la sección ligera y accesible. Es ideal para familias, para estudiantes que quieren algo rápido entre clases, o para grupos de amigos que buscan una actividad que no requiera dos horas para aprenderse las reglas. Su directo diseño de componentes facilita la limpieza y el almacenamiento, dos cualidades que los geeks de la organización y los maquetistas de milimetría agradecemos mucho.
+Para un coleccionista de juegos de mesa, Sushi Go! es una perla en la sección ligera y accesible. Es ideal para familias, para estudiantes que quieren algo rápido entre clases, o para grupos de amigos que buscan una actividad que no requiera dos horas para aprenderse las reglas. Su directo diseño de componentes facilita la limpieza y el almacenamiento, dos cualidades que los geeks de la organización y los maquetistas de milimetría agradecemos mucho.
 
 En cuanto a la rejugabilidad, Sushi Go! ofrece suficientes variaciones en los sets de cartas para mantener el interés durante varias sesiones. Cada juego tiene un ligero sabor distinto según la distribución de cartas y la forma en que se pasa la mano entre los jugadores. Si te preocupa la repetición, hay versiones y expansiones que añaden cartas nuevas o alteran ligeramente la mecánica sin perder la esencia del juego: la toma de decisiones rápidas y el objetivo de crear la mejor combinación de platos en cada ronda.
 
@@ -73,13 +72,14 @@ En cuanto a la rejugabilidad, Sushi Go! ofrece suficientes variaciones en los se
 - No subestimes el Edamame. Puede que parezca trivial, pero en momentos cruciales, estas cartas pueden desbloquear puntos extra y evitar que te quedes con una ronda sin puntuación.
 
 ## Un vistazo a otros posts de la casa
-Si te interesa ampliar tu dominio de los juegos de cartas ligeros, echa un vistazo a estas reseñas relacionadas (y sí, todas con ese toque Geeknite que tanto te gusta):
-- Cada mano cuenta: estrategias de drafting en juegos rápidos ([post_url 2024-06-12-estrategias-drafting-juegos-rapidos](%7B%25 post_url 2024-06-12-estrategias-drafting-juegos-rapidos %7D))
-- Reglas que simplifican: guías rápidas para juegos de mesa modernos ([post_url 2025-02-22-reglas-basicas-de-juegos-de-mesa](%7B%25 post_url 2025-02-22-reglas-basicas-de-juegos-de-mesa %7D))
-- Ampliando horizontes: ¿vale la pena anzar una versión con expansiones? ([post_url 2023-11-08-expansiones-de-juegos-de-mMesa](%7B%25 post_url 2023-11-08-expansiones-de-juegos-de-mMesa %7D))
-- Test de mesa: pruebas rápidas para elegir tu próxima compra ([post_url 2025-09-01-test-de-mesa-rapidos](%7B%25 post_url 2025-09-01-test-de-mesa-rapidos %7D))
 
-Además, para quien quiera un poco más de contexto y sabor geek, te dejo el enlace al sitio oficial de Sushi Go! y a la ficha en BoardGameGeek, donde los fans discuten estrategias como si fueran maestros sushiistas: [Sitio oficial de Sushi Go!](https://sushigo-game.example) y [Sushi Go! en BoardGameGeek](https://boardgamegeek.com/boardgame/2116/sushi-go) .
+Si te interesa ampliar tu dominio de los juegos de cartas ligeros, echa un vistazo a estas reseñas relacionadas (y sí, todas con ese toque Geeknite que tanto te gusta):
+- - Cada mano cuenta: estrategias de drafting en juegos rápidos ([post_url 2024-06-12-estrategias-drafting-juegos-rapidos](%7B%25 post_url 2024-06-12-estrategias-drafting-juegos-rapidos %7D))
+- - Reglas que simplifican: guías rápidas para juegos de mesa modernos ([post_url 2025-02-22-reglas-basicas-de-juegos-de-mesa](%7B%25 post_url 2025-02-22-reglas-basicas-de-juegos-de-mesa %7D))
+- - Ampliando horizontes: ¿vale la pena anzar una versión con expansiones? ([post_url 2023-11-08-expansiones-de-juegos-de-mMesa](%7B%25 post_url 2023-11-08-expansiones-de-juegos-de-mMesa %7D))
+- - Test de mesa: pruebas rápidas para elegir tu próxima compra ([post_url 2025-09-01-test-de-mesa-rapidos](%7B%25 post_url 2025-09-01-test-de-mesa-rapidos %7D))
+
+Además, para quien quiera un poco más de contexto y sabor geek, te dejo el enlace al sitio oficial de Sushi Go! y a la ficha en BoardGameGeek, donde los fans discuten estrategias como si fueran maestros sushiistas: [Sitio oficial de Sushi Go!](https://www.gamewright.com/products/sushi-go) y [Sushi Go! en BoardGameGeek](https://boardgamegeek.com/boardgame/2116/sushi-go) .
 
 ## Conclusiones y recomendación final
 
