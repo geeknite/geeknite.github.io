@@ -10,7 +10,7 @@ tags:
 ---
 
 ## Einleitung
-Codenames Duet war schon immer der coole Sidekick des klassischen Codenames: zwei Köpfe, eine Mission, tausend Wörter, drei Lachanfälle pro Runde – und gelegentlich der verzweifelte Blick, ob der andere wirklich verstanden hat, was „Tier“ mit „Zweibeiner“ zu tun hat. In diesem Update-Text erweitern wir die Reise durch das Spionage-Wordplay-Universum, geben dem Spiel noch mehr Charakter, mehr Tiefe und vor allem noch mehr Gründe, zwei Stunden am Stück über zwei Wörter nachzudenken, nur um herauszufinden, dass ihr eigentlich die gleiche Geschichte erzählt – nur mit unterschiedlichen Perspektiven. Wenn du bereits den klassischen Post kennst, findest du hier eine geballte Ladung neuer Einsichten, praxisnaher Tipps und einer Prise Geeknite-Humor, damit es beim nächsten Spieleabend nicht nur ums Gewinnen geht, sondern auch ums gemeinsame Lachen.
+Codenames Duet hat sich von einem coolen Sidekick zu einem echten Serienhelden unter den kooperativen Wortspielen gemausert. Zwei Spione, eine Mission, tausend Wörter – aber diesmal mit weniger Druck, wer am Ende den Attentäter erwischt und mehr Gelächter am Tisch. Dieses Update nimmt das Spionage-Wordplay-Universum weiter auseinander, mischt neue Praxisbeispiele hinein und sorgt dafür, dass zwei Stunden am Stück über zwei Wörter nachdenken nicht nur sinnvoll ist, sondern auch richtig Spaß macht. Wenn du den klassischen Post kennst, findest du hier eine geballte Ladung neuer Einsichten, praxisnaher Tipps und einer Prise Geeknite-Humor, damit dein nächster Spieleabend nicht nur clever, sondern auch urkomisch wird.
 
 Für den Kontext, falls du später noch mehr Varianten vergleichen willst: schau gerne in meinen Beitrag zum klassischen Codenames – Die klassische Variante hinein: [Zurück zum Klassiker: Codenames – Die klassische Variante]({% post_url 2023-04-01-codenames-klassisch.md %}). Und wer wissen will, wie sich das Ganze in einer größeren Dynamik tarnt, wirf einen Blick auf [Codenames – Dynamik der Wortassoziationen]({% post_url 2025-08-12-spiele-dynamik.md %}). 
 
@@ -27,9 +27,9 @@ In Codenames Duet arbeiten zwei Spione zusammen, um 15 versteckte Agenten zu fin
 In der Zwei-Personen-Variante muss man sich die Hinweise teilen, die Kommunikation wird zur direkten Brücke zwischen zwei denkenden Individuen. Die eine Person mag Zahlen, die andere Begriffe – und genau das macht den Reiz aus: unterschiedliche Denkweisen verschmelzen, statt zu konkurrieren.
 
 ### Was macht es kooperativ statt kompetitiv? (Neu gedacht)
-Der Kern von Duet bleibt Koordination statt Konkurrenz. Es gibt kein Sieger-Triumphieren über den anderen – es gibt nur den gemeinsamen Triumph, die 15 Agenten zu finden, bevor der Attentäter zu früh zuckersüßes Chaos anrichtet. Die Spannung entsteht durch geteilte Verantwortung: Wer liefert die Wortverbindungen, wer übersetzt die Brücke zwischen Denken und Wortbilden? Und wie schafft man es, auch bei einer falschen Spur ruhig zu bleiben, damit keine Panikwellen die Runde überschatten?
+Der Kern von Duet bleibt Koordination statt Konkurrenz. Es gibt kein Sieger-Triumphieren über den anderen – es gibt nur den gemeinsamen Triumph, die 15 Agenten zu finden, bevor der Attentäter zu früh Chaos anrichtet. Die Spannung entsteht durch geteilte Verantwortung: Wer liefert die Wortverbindungen, wer übersetzt die Brücke zwischen Denken und Wortbilden? Und wie schafft man es, auch bei einer falschen Spur ruhig zu bleiben, damit keine Panikwellen die Runde überschatten?
 
-Eine wirklich schöne Neuerung in diesem Update: Die zwei Sehen-alle-Word-Blöcke-Variante. Es gibt keine versteckte Lesehilfe hinter dem Vorhang – jeder Hinweis, jede Assoziation geht direkt zwischen euch hin und her. Die Folge ist eine wunderbare Symbiose aus Team-Intuition, Humor, und dem ständigen Aha-Moment, wenn eine einfache Assoziation eine Kettenreaktion aus Klarheit auslöst.
+Eine wirklich schöne Neuerung in diesem Update: Die zwei-Sehen-alle-Word-Blöcke-Variante. Es gibt keine versteckte Lesehilfe hinter dem Vorhang – jeder Hinweis, jede Assoziation geht direkt zwischen euch hin und her. Die Folge ist eine wunderbare Symbiose aus Team-Intuition, Humor, und dem ständigen Aha-Moment, wenn eine einfache Assoziation eine Kettenreaktion aus Klarheit auslöst.
 
 ## Komponenten und Layout
 ### Was ist im Paket enthalten? (Aufgeräumt, robust, gut sortiert)
@@ -44,9 +44,11 @@ Die Wortkarten sind robust, die Farben leuchten angenehm, und das Layout wirkt w
 
 Wenn du dir fragst, wie viel Würze du brauchst: So viel, wie ihr eure Gehirnwindungen in eine sinnvolle Richtung lenken wollt. Und ja, zwei unterschiedliche Denkweisen zusammenzubringen, kann zu großartigen, absurden Momenten führen, in denen ihr feststellt, dass „Tier“ mehr als das Tierische verknüpft – wer hätte das gedacht?
 
+![Duet in Action](/assets/images/codenames_duet_action.jpg)
+
 ## Gameplay: Ein typischer Durchlauf (mit neuen Einblicken)
 ### Der Ablauf einer Runde
-- Der Hinweisgeber wählt eine Wortassoziation zusammen mit einer Zahl, z. B. „Tier 2“. Die Zahl signalisieren, wie viele Wörter auf dem Tisch die Brücke bilden sollen.
+- Der Hinweisgeber wählt eine Wortassoziation zusammen mit einer Zahl, z. B. „Tier 2“. Die Zahl signalisiert, wie viele Wörter auf dem Tisch die Brücke bilden sollen.
 - Die geratenen Spieler diskutieren, welche der 25 Wörter zu den Zielwörtern passen könnten. Hier kommt Teamarbeit ins Spiel: Du liest die Logik des anderen, während du deine eigene Logik so anpasst, dass ihr gemeinsam zu den richtigen Wörtern kommt.
 - Die Regeln sind einfach, aber die Umsetzung verlangt Feingefühl: Wenn ihr ein Wort korrekt markiert, bleibt es offen; falls ihr ein falsches markiert, wird es abgedeckt. Ziel ist, alle richtigen Wörter zu finden, ohne den Attentäter zu treffen – das klingt nach einem Nervenkrieg, ist aber oft ein sehr lustiger Nervenkrieg.
 
