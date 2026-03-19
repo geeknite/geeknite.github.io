@@ -1,5 +1,5 @@
 ---
-ttitle: Saboteur Card Game Review: Glitter, Betrayal, and Miners with Shovels
+title: Saboteur Card Game Review: Glitter, Betrayal, and Miners with Shovels
 date: 2026-03-19
 tags:
   - board games
@@ -7,17 +7,19 @@ tags:
   - review
   - humor
   - geeknite
+  - hidden-role
+  - party-game
 ---
 
 ## Saboteur Card Game Review: Glitter, Betrayal, and a Pickaxe Shortage
 
-Welcome, fellow geeks, to another expedition down the glitter-streaked tunnels of tabletop glory. Today we crack open a tiny, shifty, gold-dusted gem called Saboteur. If you like your dungeon crawls with less crawling and more deception, Saboteur is your spelunking buddy. It drops you into a cave full of dwarves, hogging the spotlight with map cards, treasure tokens, and a rash of good, old-fashioned trust issues. Spoiler alert: there are saboteurs among you. The real treasure, as always, is the dramatic sighs and the chaotic laughter you’ll generate along the way.
+Welcome back, fellow geeks and snack enthusiasts. Today we mine for gold in a very small box that somehow contains enough drama to power a thousand social deductions. Saboteur is the kind of game you bring to a party and leave with a new legend about a dwarf who could not stop smiling after turning a straight path into a detour maze. In short: it’s tiny, it’s cheeky, and it makes every table feel like a film set where everyone is auditioning for the role of “Most Suspicious Miner.” If you like your tabletop gaming with shiny gold, a dash of deception, and a few perfectly timed “ooh, I didn’t see that coming” moments, Saboteur will treat you like a glittery treasure chest that’s just begging to be opened—after a few well-placed suspicious glances, of course.
 
-If you haven’t heard of Saboteur, picture a merry band of miners trying to carve a path to gold, while some players secretly twist the route with sneaky cards. It’s a game about cooperation and betrayal that you can play in one sitting, preferably with snacks that disappear suspiciously fast when the crew gets into a card-flinging mood. The rules are approachable, the characters are (mostly) friendly-looking dwarves, and the tension is deliciously low-stakes until someone plays a long, dramatic Path card that triggers a chorus of groans and triumphs in equal measure.
+If you haven’t heard of Saboteur, picture a merry band of miners attempting to carve a path to treasure, while some players secretly twist the route with sneaky cards. It’s a game about cooperation and betrayal that you can play in one sitting, preferably with snacks that disappear suspiciously fast when the crew gets into a card-flinging mood. The rules are approachable, the characters are (mostly) friendly-looking dwarves, and the tension is deliciously low-stakes until someone plays a long, dramatic Path card that triggers a chorus of groans and triumphs in equal measure.
 
 Before we dive deeper, here are some quick anchors:
 
-- Players: typically 2–10. More players equals more chaos, which is statistically delicious for a party game night.
+- Players: typically 2–10. More players equal more chaos, which is statistically delicious for a party game night.
 - Duration: about 15–30 minutes per round, depending on how dramatic your group wants to be.
 - Theme: a mine full of treasure, a dash of sabotage, and a lot of dramatic reveals when someone finally hits a treasure path.
 
@@ -78,7 +80,7 @@ As with many party-style games, some players love fiddling with rules; others pr
 ### Components Quality and Theme Cohesion
 The art direction is bright and friendly, rather than grim and serious. That’s a feature, not a flaw: it invites casual players who might otherwise stay away from a game about betrayal and mining. The theme is integrated through the cards’ artwork and the mechanics: you’re literally creating a tunnel, blocking tunnels, and kind of coaxing your teammates to victory or doom with declarative confidence. The aesthetic and humor work together to create a playful, not punitive, atmosphere. It’s the kind of game that makes people want to coal-mouth-talk about “the plan,” even when the plan is obviously flawed.
 
-### Components and Accessibility Notes
+### Accessibility and Setup Ease
 - Setup time is minimal; you can start a round after a quick shuffle and deal.
 - The rulebook is compact, with examples that make it easy to understand the flow without taking a nap.
 - Components fit neatly into a small box, making it easy to bring to gatherings, picnics, or impromptu office breaks where colleagues pretend not to notice the sneer in your eye when you play a saboteur card at just the right moment.
