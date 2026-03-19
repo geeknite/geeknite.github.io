@@ -1,13 +1,13 @@
 ---
 title: The Game: Expansions Pack - Collector's Edition (Revised + Expanded)
-date: 2026-03-19
+date: 2026-03-21
 tags: [games, board games, expansions, collector's edition, review, geeknite, tabletop]
 ---
 
 ![Collector's Edition Artwork](/assets/images/the-game-expansions-pack-collector.jpg)
 
 ## Introduction
-The Game has always been that quiet overachiever at the table—the one who shows up with a napkin map that looks suspiciously like a treasure plan and somehow makes you feel like you should have studied more in high school math. The Expansions Pack - Collector's Edition saunters in with the swagger of a space opera protagonist who just discovered a secret transmission about snacks. It isn't just a gleaming box of premium tokens and stricter-sounding rules; it's a passport to a bigger table, a louder table, and a table where your friends will pretend to understand line of sight while secretly counting pretzels under the edge of the tablecloth. If you thought you had the base game nailed, prepare for a glow-up that looks like a cosplay convention and plays like a caffeine-fueled debate club with lasers. Welcome to a Collector’s Edition that treats your night like a tiny sci‑fi epic and your kitchen as the command deck for a galaxy of dice, diplomacy, and questionable callouts.
+The Game has always been that quiet overachiever at the table—the one who shows up with a napkin map that looks suspiciously like a treasure plan and somehow makes you feel like you should have studied more in high school math. The Expansions Pack - Collector's Edition arrives with the swagger of a space opera protagonist who just discovered a secret transmission about snacks. It isn’t just a gleaming box of premium tokens and stricter-sounding rules; it’s a passport to a bigger table, a louder table, and a table where your friends will pretend to understand line of sight while secretly counting pretzels under the edge of the tablecloth. If you thought you had the base game nailed, prepare for a glow-up that looks like a cosplay convention and plays like a caffeine-fueled debate club with lasers. Welcome to a Collector’s Edition that treats your night like a tiny sci‑fi epic and your kitchen as the command deck for a galaxy of dice, diplomacy, and questionable callouts.
 
 This revised edition isn’t just about more stuff; it’s about creating a felt experience. It’s about heft that you can feel in your shoulder when you carry the box to your friend's apartment, about a narrative spine you can actually follow without needing a thesaurus, and about enough tactical depth to make your eye twitch in a good way when the dice gods smile—or smirk—at your plan collapsing into a glorious meme of a moment.
 
