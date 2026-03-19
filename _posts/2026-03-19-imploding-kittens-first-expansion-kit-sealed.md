@@ -1,11 +1,11 @@
 ---
-title: Imploding Kittens — First Expansion Kit Of Exploding Kittens Card Game — Sealed
-date: 2026-03-19
-tags: [Board Games, Card Games, Exploding Kittens, Review, Geeknite]
+ttitle: Imploding Kittens — First Expansion Kit Of Exploding Kittens Card Game — Sealed (Expanded)
+ddate: 2026-03-19
+tags: [Board Games, Card Games, Exploding Kittens, Review, Geeknite, Expansion]
 ---
 
 ## Introduction
-If you thought the original Exploding Kittens was loud, chaotic, and somehow still friendly enough to bring families together for a late-night raucous session, you’re not wrong. Now imagine that same neon-bright chaos with a little extra salt, a dash of mystery, and a tiny, dangerously polite cat asking you to gamble with your fate. Welcome to Imploding Kittens, the first expansion kit for Exploding Kittens that’s as sealed as a mystery box on a black Friday sale and just as likely to be opened with a sense of adventurous trepidation.
+If you thought the original Exploding Kittens was loud, chaotic, and somehow still friendly enough to bring families together for a late-night raucous session, you’re not wrong. Now imagine that same neon-bright chaos with a little extra salt, a dash of mystery, and a tiny, dangerously polite cat asking you to gamble with your fate. Welcome to Imploding Kittens, the first expansion kit for Exploding Kittens that’s as sealed as a mystery box on a Black Friday sale and just as likely to be opened with a sense of adventurous trepidation.
 
 This is the kind of expansion that doesn’t pretend to be the star of the show. It’s the friend who shows up in sunglasses, hands you a weird new card, and says, “Trust me, you’ll thank me later.” And you do—after you’ve argued with your friends about whether the new Imploding Kitten card is actually kinder than an Exploding Kitten, or if it’s just the universe’s way of shuffling your fate into a smaller, more suspicious envelope.
 
@@ -13,7 +13,7 @@ In Geeknite fashion, we’re going to break down what you get, how it changes th
 
 > If you haven’t read our base Exploding Kittens review, you might want to start there. Also, yes, this review contains spoilers about what the expansion adds and how it might alter your life choices during a game night. Proceed with enthusiasm.
 
-![Imploding Kittens Expansion Box](assets/images/imploding-kittens-box.jpg)
+![Imploding Kittens Expansion Box]({{ '/assets/images/imploding-kittens-box.jpg' | relative_url }})
 
 For the curious, here are some quick links to related reads in the Geeknite catalog:
 - [Most Recent Exploding Kittens Review]({% post_url 2025-10-01-exploding-kittens-review %})
@@ -79,7 +79,7 @@ Humor remains the backbone of the experience. The new cards are designed to gene
 
 ## Comparisons: expansion versus base game and other add-ons
 ### Against the base game
-If you love Exploding Kittens for its irreverent humor and simple mechanics, Imploding Kittens offers a flavorful, not-too-sneaky, twist. It doesn’t break the core rhythm; it enhances it. The new card interactions encourage more strategic thinking (in a lighthearted way), while still preserving the “easy to learn, hard to master” dynamic that drew players to the base game.
+If you love Exploding Kittens for its irreverent humor and simple mechanics, Imploding Kittens offers a flavorful, not-too-sneaky twist. It doesn’t break the core rhythm; it enhances it. The new card interactions encourage more strategic thinking (in a lighthearted way), while still preserving the “easy to learn, hard to master” dynamic that drew players to the base game.
 
 There’s a certain joy in watching a table go from casual chuckles to desperate, conspiratorial whispers as someone tries to navigate the implosion risk without losing their mind or their dignity. The expansion’s effect is more about changing the feel of the game rather than changing the fundamental rules. If you like the base game but crave “more of the same but different,” Imploding Kittens is a safe bet.
 
