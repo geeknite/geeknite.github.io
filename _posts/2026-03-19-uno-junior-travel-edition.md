@@ -1,5 +1,5 @@
 ---
-title: Uno Junior Travel Edition Review: Road-Trip Card Chaos
+title: Uno Junior Travel Edition Review: Road-Trip Card Chaos, With a Side of Snacks and Shenanigans
 date: 2026-03-19
 tags:
   - games
@@ -9,6 +9,10 @@ tags:
   - board-games
   - review
   - travel-games
+  - kid-friendly
+  - road-trip
+  - portability
+  - travel-edition
 ---
 
 ![Uno Junior Travel Edition]( /assets/images/uno-junior-travel-edition-cover.jpg )
