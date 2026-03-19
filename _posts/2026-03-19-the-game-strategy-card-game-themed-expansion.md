@@ -7,10 +7,11 @@ tags:
   - expansion
   - review
   - geeknite
+  - expansion-review
 ---
 
 ## Introduction
-Welcome to Geeknite's field guide to The Game Strategy Card Game Themed Expansion, the kind of accessory that makes your deck feel like it went on a field trip to a fantasy land and came back with a badge that says I can win at brunch. The base game was already tense, elegant, and vaguely suspicious of your own incompetence; this expansion leans into the theme with a wink and a flourish, turning strategy into a costume party where everyone wants to be the villain but also the hero when it counts.
+Welcome back to Geeknite, where our hobby closet is basically a fantasy dungeon and every goblin is a reminder that you forgot to pack a towel to the apocalypse. The Game Strategy Card Game Themed Expansion is the kind of accessory that makes your deck feel like it went on a field trip to a fantasy land and came back with a badge that says I can win at brunch. The base game was already tense, elegant, and vaguely suspicious of your own incompetence; this expansion leans into the theme with a wink and a flourish, turning strategy into a costume party where everyone wants to be the villain but also the hero when it counts.
 
 The expansion aims to add more texture than a slice of artisanal bread—new factions, new mechanics, and enough flavor text to fill a coffee table and possibly a few awkward conversations. If you thought you had a handle on the moment-to-moment decision making, prepare for new forks in the road, flashier rituals, and the occasional card that reminds you that you forgot to bring a towel to the apocalypse.
 
@@ -90,9 +91,7 @@ A typical playthrough with three or four players can last between 60 and 90 minu
 If you are new to the expansion, start by exploring the three factions in separate test games to feel their bite. Don’t mix them in the same session until you understand each one’s signature tempo. For advanced players, the expansion rewards synergy, bluffing, and careful planning in equal measure.
 
 - Arcane Cartographers: Early advantage comes from card draw and map reveals. Prioritize cards that increase information flow and allow you to chain draws with minimal penalties. Beware overcommitment; you do not want to get buried under your own map pile.
-
 - Iron Bakers: They excel when you control tempo and maintain resource parity. The cake is best when it’s shared, but the frosting has a cost. Look for lines that convert pastry ingredients into victory points with a safety net for late-game swing.
-
 - Lantern Littles: They play for the spectacle and the finish. You will want to time your events to maximize impact at critical moments—ideally when others expect you to do something ordinary. Don’t overplay your dramatic hand, as the joke loses its punch if you reveal the trick too early.
 
 General tips:
