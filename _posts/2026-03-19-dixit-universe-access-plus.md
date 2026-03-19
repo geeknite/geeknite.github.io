@@ -1,4 +1,15 @@
-{"post_name": "2026-03-19-dixit-universe-access-plus-review-expanded.md", "new_content": "---\ntitle: Dixit Universe Access+ Review: A Surreal Digital-Physical Crossover (Expanded)\ndate: 2026-03-19 10:00:00 -0000\ntags:\n  - board-games\n  - dixit\n  - review\n  - digital-expansion\n  - geeknite\n  - accessibility\n  - party-games\n---
+---
+title: Dixit Universe Access+ Review: A Surreal Digital-Physical Crossover (Expanded)
+date: 2026-03-19 10:00:00 -0000
+tags:
+  - board-games
+  - dixit
+  - review
+  - digital-expansion
+  - geeknite
+  - accessibility
+  - party-games
+---
 
 Dixit Universe Access+ lands on your table like a velvet-clad cat who just learned quantum physics and how to borrow your snacks. It promises a surreal bridge between the classic Dixit card game and a digital companion that might as well be a portal to another dimension where confetti is a currency and imagination pays for shipping. In this expanded review, we deep-dive into unboxing, rules, art, and the moment you realize your group chat has more personality than your last group project. Is Access+ the glossy upgrade Dixit deserved, or just a fancy bumper sticker on a familiar ride? Let’s roll the cosmic dice and find out.
 
@@ -146,4 +157,4 @@ If you want to see more of our hands-on tests with surreal card decks and storyt
 
 **Purchase through our affiliate link to support Geeknite and help us keep the lights on for more weird, wonderful reviews.**
 
-**Grab it now via our Affiliate Link: [Buy Dixit Universe Access+](https://affiliate.geeknite.example/dixit-universe-access-plus)**"}
+**Grab it now via our Affiliate Link: [Buy Dixit Universe Access+](https://affiliate.geeknite.example/dixit-universe-access-plus)**
