@@ -11,6 +11,7 @@ date: 2026-03-19
   - microeconomics
   - negotiation
   - party-games
+  - game-design
 ---
 
 ![Monopoly Deal 15-minute sprint](https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=60 "Monopoly Deal 15-minute sprint")
@@ -97,6 +98,9 @@ A player with a Deal Breaker in hand spots a rival stacking toward a complete se
 
 ### Scenario D: The Hidden Wealth of Flexibility
 A player with a handful of flexible property cards (ones that can morph into cash with a quick swap) uses a sequence of clever trades to convert a bluff into a real revenue stream. The lesson is that liquidity isn’t just cash on hand; it’s the potential to morph your assets into cash on demand. Flexibility can turn a near-losing position into a surprising victory, especially in the closing moments when the deck has mood swings like a stock ticker in a heat wave.
+
+### Scenario E: The Social Signal Trade
+In the heat of a late round, one player signals that they’re about to collapse on cash. The table echoes with “are you bluffing?” and negotiations become a mini-press conference. The perceived liquidity of a player’s position matters as much as the actual numbers on the table. A master negotiator can convert a marginal hand into a lifeline by convincing others that a temporary concession now prevents a larger loss later. This is the social side of microeconomics in action: information, perception, and timing.
 
 If you’re skeptical about whether a card game can model economics, these micro-moments are proof that it can—delightfully silly, sometimes chaotic, but still educational in the sense of practical intuition rather than a formal model.
 
