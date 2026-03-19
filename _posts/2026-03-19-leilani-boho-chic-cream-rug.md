@@ -13,7 +13,7 @@ layout: post
 
 ![Leilani Boho Chic Cream Rug](/assets/images/leilani-boho-chic-cream-rug.jpg)
 
-If you came here chasing the perfect rug that makes your cat look dignified and your coffee table look suddenly Instagrammable, you have found your sacred text. The Leilani Boho Chic Cream Rug is the kind of home accessory that pretends to be simple, then quietly unleashes a wave of cozy vibes that compels you to rearrange your entire living room. In Geeknite fashion, we approached this rug with a scanner’s eye and a gamer’s brain: we asked not only how soft it is, but how it performs under the pressure of daily life, how it handles spills from my heroic (and sometimes clumsy) culinary experiments, and whether it can survive a tail-wagging office dog. Let us dive into a 2000 word quest for warmth, texture, and style.
+If you came here chasing the perfect rug that makes your cat look dignified and your coffee table look suddenly Instagrammable, you have found your sacred text. The Leilani Boho Chic Cream Rug is the kind of home accessory that pretends to be simple, then quietly unleashes a wave of cozy vibes that compels you to rearrange your entire living room. In Geeknite fashion, we approached this rug with a scanner’s eye and a gamer’s brain: we asked not only how soft it is, but how it performs under the pressure of daily life, how it handles spills from my heroic (and sometimes clumsy) culinary experiments, and whether it can survive a tail-wagging office dog. Let us dive into a 2k-word quest for warmth, texture, and style.
 
 ## Overview
 
@@ -37,7 +37,7 @@ Size matters in the realm of area rugs. Too small and your furniture looks like 
 
 For room pairings, the cream color works wonderfully with wood tones, black metal accents, and natural fibers like rattan. In a coastal-inspired space, it reads as sunlit driftwood; in a boho-chic setup, it blends with layered textiles and warm terracotta tones. If you’re into maximalism, the rug can serve as a calm base, allowing loud pillows and ornate throws to pop without clashing. If you’re into minimalism, it offers warmth and texture without competing with a clean color palette.
 
-## Practical Considerations: Cleaning and Maintenance
+### Practical Considerations: Cleaning and Maintenance
 
 One of the most important questions with any rug is how forgiving it is with accidents and daily life. The Leilani Boho Chic Cream Rug is designed with everyday vacuuming in mind. It responds well to gentle suction; heavy agitation can cause loose fibers to fray over time, so treat it with respect, not a power-hungry vacuum. For small spills, a quick blot with a clean cloth usually handles most liquids. If you spill coffee, red wine, or your own daytime latte mishaps, the stain tends to stay contained in the top layer, which makes spot cleaning practical rather than a full rug revival.
 
@@ -53,7 +53,7 @@ Compared to lower-cost options, Leilani holds up reasonably well to daily use. I
 
 You may also notice that the geometric pattern becomes more pronounced as you close in on the rug from a few steps away. Up close, the texture reads sophisticated rather than loud, which is exactly what most boho style enthusiasts desire. In a small space, the rug helps define zones, visually separating a reading nook from a workspace without walls or screens. The result is a more lived-in vibe that still feels curated rather than chaotic.
 
-## Cleaning and Care Deep Dive
+### Cleaning and Care Deep Dive
 
 For stubborn stains and deeper cleaning, you can follow a simple routine:
 - Blot, don’t rub, to avoid fiber damage.
