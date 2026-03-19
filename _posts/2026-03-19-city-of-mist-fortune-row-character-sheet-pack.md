@@ -15,10 +15,11 @@ tags:
 ---
 
 ![Fortune Row Cover](/assets/images/fortune-row-cover.jpg)
+![Fortune Row Spread](/assets/images/fortune-row-spread.jpg)
 
 ## Overview
 
-City of Mist has always thrived on turning pulp era vibes into table ready chaos, with a mythic noir flavor that makes players feel like they slipped out of a crime serial and into a city where masks are real and power wears a trench coat. The Fortune Row: Character Sheet Pack is one of those accessories that either slides smoothly into your table or looms like a billboard of blackmail over your dice. In this expanded review, we’ll unpack what Fortune Row actually brings to the table, how it stacks up against bare bones sheets and other thematic packs, and whether the vibe lands when you are knee deep in identities, powers, and dramatic flaws.
+City of Mist has always thrived on turning pulp era vibes into table-ready chaos, with a mythic noir flavor that makes players feel like they slipped out of a crime serial and into a city where masks are real and power wears a trench coat. The Fortune Row: Character Sheet Pack is one of those accessories that either slides smoothly into your table or looms like a billboard of blackmail over your dice. In this expanded review, we’ll unpack what Fortune Row actually brings to the table, how it stacks up against bare bones sheets and other thematic packs, and whether the vibe lands when you are knee deep in identities, powers, and dramatic flaws.
 
 If you have never used a character sheet pack for City of Mist, you might think Sheets are Sheets. But City of Mist leans into flavor, and Fortune Row leans into that mood with a design that feels like paging through a well loved pulp magazine rather than filling out a form. The result is a product that invites players to inhabit their alter egos with swagger, and gives a GM a clearer canvas to track mischief without surrendering the mood. We’ll preview contents, table flow, and where the pack could be better to justify its price tag.
 
@@ -39,6 +40,8 @@ Fortune Row is more than a pretty wrapper. It ships with a compact, well organiz
 - An optional gilt edged DM sheet companion: a compact reference to manage locus and stronghold options without flipping through a binder of handouts.
 
 If you are a fan of the City of Mist aesthetic two bit detectives, fallen gods, and a city that operates like a mood ring, Fortune Row sheets are built to feel like they belong in that world. The question is whether the implementation supports a smooth gaming experience or if the design choices nudge play into a fun but fragile detour. Let’s dive deeper into design, usability, and real world table behavior.
+
+> Pro-tip for the curious: Fortune Row isn’t just a pretty desk accessory. It’s designed to be a storytelling instrument—like a pocket notebook that whispers, “Remember this twist.” And yes, that whisper can be louder than the dice if you lean into it.
 
 ## Design and layout: does form follow function?
 
@@ -107,6 +110,12 @@ When planning a Fortune Row arc, map where players will experience identity reve
 
 ### Scenario hooks using Fortune Row sheets
 Fortune Row lends itself to a number of campaign seeds: a corrupt patron who requires a favor to secure a relationship, a mythic artifact that shifts the balance of power, or a public scandal that forces a hero to reveal their true identity to the city. The sheet is designed to capture these hooks in a coherent arc, making it easier to loop back into the main storyline without losing track of the micro dynamics that drive narrative momentum. It is the sort of tool that can turn a good session into a memorable mythic noir arc.
+
+## Playtesting notes and extended thoughts
+
+During a recent table night, Fortune Row proved its mettle not just as a convenience, but as a storytelling enabler. Players who previously treated character sheets as a chore suddenly found themselves narrating in the margins: “I mark the mythic cost, but I also mark the risk that the next row of dice come up with a twist.” The design makes it easier to bring back old relationships in later acts, a classic noir device: a debt repaid with a favour that changes a city’s mood. For GMs, the loci/stronghold area is a tiny miracle—no more hunting through piles of handouts to adjudicate a long-term power anchor. It’s all there, visualized and legible, with room to scribble future events as they unfold.
+
+If you’re skeptical about the price tag, consider the time saved during a session and the quality of the role-playing moments that emerge when players aren’t wrestling with logistics. Fortune Row doesn’t magically make the game easier; it makes it feel more intentional and cinematic, which in a game about myths wearing human faces, is the whole point.
 
 ## Final verdict: should you buy Fortune Row–Character Sheet Pack?
 
