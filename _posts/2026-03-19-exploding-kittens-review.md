@@ -5,12 +5,12 @@ tags: [board-games, card-games, humor, reviews, geeknite, party-games, expansion
 ---
 
 ## Introduction
-Welcome to the chaotic cuddle pile that is Exploding Kittens, the card game that proves a cute face can house a volatile little existential crisis. If you came for a stern treatise on probability, you may want to bring a calculator and a therapist. If you came for memes, puns, and the kind of social energy that makes you reconsider every life decision you ever made at the table, you are exactly where you should be. Exploding Kittens is not just a card game; it is a social experiment where fear, probability, and a cat shaped sense of doom swirl into a high five of laughter or a dramatic sigh when someone flips the wrong card on their own turn. The base game plays 2–5 players, but the party pack and expansions are like software updates that make your friends do a little more chaotic dance. This review is an update that respects how the game lands for both kids and adults, how it scales with expansions, and how your social life may or may not survive a round of explosive feline chaos.
+Welcome to the chaotic cuddle pile that is Exploding Kittens, the card game that proves a cute face can house a volatile little existential crisis. If you came for a stern treatise on probability, you may want to bring a calculator and a therapist. If you came for memes, puns, and the kind of social energy that makes you reconsider every life decision you ever made at the table, you are exactly where you should be. Exploding Kittens is not just a card game; it is a social experiment where fear, probability, and a cat shaped sense of doom swirl into a high five of laughter or a dramatic sigh when someone flips the wrong card on their own turn. The base game plays 2–5 players, but the party pack and expansions are like software updates that make your friends do a little more chaotic dance. This review is an updated edition that respects how the game lands for both kids and adults, how it scales with expansions, and how your social life may or may not survive a round of explosive feline chaos.
 
 > Note from the Fellowship of Felines: Exploding Kittens is designed for 2–5 players in the base game; add the Party Pack for a bigger orbit of chaos. Spoiler: more players means more chaos, more ridiculous saves, and more chances to regret your last draw.
 
 ## What is Exploding Kittens, really?
-The game is the brainchild of Elan Lee, Matthew Inman (the Oatmeal himself), and Shane Small. It launched with a bold tagline that captured the internet spirit: kitty powered version of Russian roulette. Translation for humans: a card game built for quick rounds, big laughs, and a surprising amount of social strategy for a game that at first glance looks like cartoon chaos. Core mechanic: players draw cards; as soon as you draw an Exploding Kitten without a Defuse, you are out; but if you have a Defuse you can save yourself and decide where the kitten goes back into the deck. The rest of the deck is a buffet of action cards that let you See the Future, steal cards, force others to draw, skip your turn, or reshuffle the doom into another player's fate.
+The game is the brainchild of Elan Lee, Matthew Inman the Oatmeal, and Shane Small. It launched with a bold tagline that captured the internet spirit kittty powered version of Russian roulette. Translation for humans: a card game built for quick rounds, big laughs, and a surprising amount of social strategy for a game that at first glance looks like cartoon chaos. Core mechanic: players draw cards; as soon as you draw an Exploding Kitten without a Defuse, you are out; but if you have a Defuse you can save yourself and decide where the kitten goes back into the deck. The rest of the deck is a buffet of action cards that let you See the Future, steal cards, force others to draw, skip your turn, or reshuffle the doom into another player's fate.
 
 The art of the game, courtesy of The Oatmeal, blends cute visuals with subtle cruelty. It is not trying to be high art; it is here to ride the line between adorable and alarming. The result is a table that looks calm while the rest of the room is asking, are we about to explode, or is this just part of the show? The game is fast to teach, but the best players treat it as a social experiment in probability, risk assessment, and reading a room full of friends who will pretend to be calm while their hearts race.
 
@@ -26,9 +26,9 @@ The production quality helps the tone land. The art, the jokes, and the packagin
 
 Here is the vibe: a deck that feels light but carries social risk heavier than a smartphone in a jeans pocket. The box smiles at you; the cards whisper from the drawer; and suddenly you realize you are in a party game that doubles as a lighthearted psychological experiment on trust, betrayal, and whether your friends will defuse a kitten or just let chaos run.
 
-![Exploding Kittens Box](/assets/images/exploding-kittens-box.jpg)
+![Exploding Kittens Box]({{ site.baseurl }}/assets/images/exploding-kittens-box.jpg)
 
-![Exploding Kittens Art](/assets/images/exploding-kittens-art.jpg)
+![Exploding Kittens Art]({{ site.baseurl }}/assets/images/exploding-kittens-art.jpg)
 
 ## How to play in a nutshell a chaotic guide
 Take this as the quick start, but be ready to improvise. The rules are intentionally light so you can focus on social dynamics, not a rulebook maze.
@@ -124,4 +124,3 @@ Exploding Kittens is not here to replace your favorite strategy games. It exists
 The final word: chaos and camaraderie can go paw in paw, and sometimes the cutest kittens explode in the most delightful way.
 
 **[Buy Exploding Kittens on Amazon](https://amzn.to/3kittens)**
-
