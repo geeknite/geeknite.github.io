@@ -1,15 +1,15 @@
 ---
 title: 'Go Fuc Yourself: A Wild Twist on Go Fish'
-ddate: 2026-03-19
+date: 2026-03-19
 tags: [games, humor, card-games, party-games, geeknite]
 ---
 
 ## Introduction
-If you thought Go Fish was a mild meme at best, get ready for a hurricane of cards, puns, and stage whispers. Go Fuc Yourself is not a rebrand; it is a full on carnival ride in a card sleeve. Picture a game night where memory matches tango with improv, where a simple draw can ignite a five minute vignette, and where a misdraw can become the running gag that your friend tells at every meetup for the next year. This is the chaos you sign up for when you want a party game that still pretends to be a brain exercise. If you like your games loud, fast, and willing to roast the room, you have found your soulmate in a deck of flustered fish.
+If you thought Go Fish was a mild meme at best, get ready for a hurricane of cards, puns, and stage whispers. Go Fuc Yourself is not a rebrand; it is a full on carnival ride in a card sleeve. Picture a game night where memory matches tango with improv, where a simple draw can ignite a five minute vignette, and where a misdraw can become the running gag that the group retells at every meetup for the next year. This is the chaos you sign up for when you want a party game that still pretends to be a brain exercise. If you like your games loud, fast, and willing to roast the room, you have found your soulmate in a deck of flustered fish.
 
-Before we dive into the sea of silliness, a small disclaimer: the title is a wink to chaotic energy, not a permission slip to insult anyone unfairly. Play with consent, respect, and the understanding that the aim is to celebrate clever banter rather than to wound. Now, on to the waves.
+Before we dive into the waves, a quick reminder: the title is a wink to chaotic energy, not a permission slip to insult anyone unfairly. Play with consent, keep it light, and celebrate clever banter rather than wound. Now, on to the waves.
 
-Grounding in the OG is easy: [Go Fish on Wikipedia](https://en.wikipedia.org/wiki/Go_fish). For geeks who crave a comparison to other card hijinks, peek at our [Strategy Night]({{ post_url 'strategy-night' }}) and [Game Night Tips]({{ post_url 'tips-for-game-night' }}). See, every night is a tiny ecosystem when we are dealing with chaos. 
+Grounding in the OG is easy: [Go Fish on Wikipedia](https://en.wikipedia.org/wiki/Go_fish). For geeks who crave a comparison to other card hijinks, peek at our [Strategy Night]({{ post_url 'strategy-night' }}) and [Game Night Tips]({{ post_url 'tips-for-game-night' }}). See, every night is a tiny ecosystem when we are dealing with chaos.
 
 ![Wild art from Go Fuc Yourself]({{ '/assets/images/go-fuc-yourself.jpg' | relative_url }})
 
@@ -74,6 +74,4 @@ Our verdict: Go Fuc Yourself is a strong 4.5 out of 5 stars. It is the kind of g
 
 If you are ready to jump into the chaos, click the affiliate link and grab a copy today. It is a purchase that pays off in stories and ridiculous banter you will still be retelling at the next meetup. And yes, it is absolutely worth it for the story-worthy moments you will experience with friends who know how to laugh at themselves.
 
-
 **Grab your copy now and join the chaos: https://affiliates.example.com/go-fuc-yourself-deck**
-
