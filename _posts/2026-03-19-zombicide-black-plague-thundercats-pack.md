@@ -1,6 +1,6 @@
 ---
 title: Zombicide Black Plague: ThunderCats Pack – Meow-gnificent Mayhem in the Middle Ages
-date: 2026-03-19
+date: 2026-03-21
 tags:
   - board-games
   - zombicide
@@ -11,13 +11,13 @@ tags:
   - geeknite
 ---
 
-![ThunderCats Pack Cover](/assets/images/zombicide-black-plague-thundercats-pack-cover.jpg)
+![[ThunderCats Pack Cover]]({{ '/assets/images/zombicide-black-plague-thundercats-pack-cover.jpg' | relative_url }})
 
 If you ever wondered what would happen if a sword-wielding caped cartoon cat decided to raid a medieval necropolis while the liches took a coffee break, you’ve just found your spirit animal in Zombicide Black Plague: ThunderCats Pack. This expansion waltzes onto the board with the confidence of Lion-O after a power nap and the stealth of a cheetah that forgot to read the memo about stealth being optional. In other words: it’s loud, it’s stylish, and it probably maws your plans into little cartoon-shaped shreds. Strap in, patch your armor with a few squeaky jokes, and let’s dive into a 2k-word love letter to a crossover that makes your nostalgia scream “Thunder, thunder, thunder—Cats!” in glorious, glowing green mana.
 
 ## Introduction: Why ThunderCats in Black Plague is a Thing You Never Knew You Needed
 
-Zombicide Black Plague is a game about undead hordes, dark magic, and the occasional heroic swing of a sword that would make Conan nod in grudging respect. ThunderCats Pack takes this premise and adds a dash of neon heroism from the beloved vintage cartoon where every villain is a metaphor and every hero has a cat-astrophe of a plan. The result is not just a pretty model army with big eyes; it’s a thematic mashup that asks: can the Eye of Thundera guide a party through a dungeon full of necromancy, or will it just flash like a disco ball and confuse everyone into running the wrong way? The answer, as with most things involving cat-based power swords, is yes—yes it can and will, and it will also leave a few paw prints on your board to remind you who’s boss.
+Zombicide Black Plague is a game about undead hordes, dark magic, and the occasional heroic swing of a sword that would make Conan nod in grudging respect. ThunderCats Pack takes this premise and adds a dash of neon heroism from the beloved vintage cartoon where every villain is a metaphor and every hero has a cat-astrophe of a plan. The result is not just a pretty model army with big eyes; it’s a thematic mashup that asks: can the Eye of Thundera guide a party through a dungeon full of necromancy, or will it just flash like a disco ball and confuse everyone into running the wrong way? The answer, as with most things involving cat-based power swords, is yes—yes it can and it will, and it will also leave a few paw prints on your board to remind you who’s boss.
 
 The ThunderCats license is famously colorful, stylized, and a tad over-the-top in the best possible way. Translating that energy into Zombicide’s grim dark palette is a tall order. The team behind this expansion didn’t just slap a few cat icons onto a sheet and call it a day. They reimagined the core mechanics with a light touch that preserves the mood of Black Plague while injecting the zany charm of 80s action animation. The result feels like watching a classic samurai epic while someone sneaks in a guitar riff that was clearly recorded in a knight’s dungeon. It’s enough to make even the most stoic necromancer crack a grin between burying another tile-strewn corpse.
 
@@ -59,7 +59,7 @@ Yes, and yes twice, with a squeal of delight from your inner cartoon nerd. The T
 
 ### Setup and Install: A Quick, Fun Paint Job for Your Table
 
-Putting ThunderCats into Black Plague isn’t a ritual that requires a small army of priests and a magnetized board. You can integrate it in a regular two-player session or a full onslaught campaign with a single setup rule: designate a ThunderCats zone for the heroes and sprinkle a few ominous relic tiles across your dungeon—the kind that says, “The cat is here, and also it’s pretty sure it’s the boss.” The setup is straightforward, with minimal fiddling necessary. If you’ve already mastered Black Plague’s core setup, you’ll glide into ThunderCats like a cat slipping through a half-open door.
+Putting ThunderCats into Black Plague isn’t a ritual that requires a small army of priests and a magnetized board. You can integrate it in a regular two-player session or a full onslaught campaign with a single setup rule: designate a ThunderCats zone for the heroes and sprinkle a few ominous relic tiles across your dungeon—the kind that says, The cat is here, and also it’s pretty sure it’s the boss. The setup is straightforward, with minimal fiddling necessary. If you’ve already mastered Black Plague’s core setup, you’ll glide into ThunderCats like a cat slipping through a half-open door.
 
 ### Turn Structure and Strategy: The Pace Remains… and Yet Feels Brighter
 
@@ -71,7 +71,7 @@ ThunderCats Pack doesn’t slow down the game, nor does it turn the board into a
 
 ### Balancing and Replayability: A Fair, Cheerful Increase in Complexity
 
-From a design standpoint, the pack treads a fine line between new-blood excitement and “this is an overpowered meme.” The result is a balanced expansion that broadens play options without breaking the underlying damage-per-turn calculus. The ThunderCats’ powers are potent but not ubiquitous; they require setup and careful placement. The zombies, meanwhile, still do their job well—mysteriously persistent, annoyingly resilient, and more likely to corner you if you ignore the room’s geometry.
+From a design standpoint, the pack treads a fine line between new-blood excitement and This is an overpowered meme. The result is a balanced expansion that broadens play options without breaking the underlying damage-per-turn calculus. The ThunderCats’ powers are potent but not ubiquitous; they require setup and careful placement. The zombies, meanwhile, still do their job well—mysteriously persistent, annoyingly resilient, and more likely to corner you if you ignore the room’s geometry.
 
 Replayability gets a nice bump. The added hero roster means your campaigns won’t always unfold the same way. The Eye of Thundera cards introduce variability that invites you to rethink standard routing strategies. It’s not a brand-new engine underneath the hood, but it’s enough to make a replay feel fresh and exciting rather than just a cosmetic variant.
 
@@ -79,18 +79,18 @@ Replayability gets a nice bump. The added hero roster means your campaigns won�
 
 ### Visuals and Presentation
 
-The ThunderCats Pack maintains a bold visual language. The minis pop on the board with crisp detailing and characterful sculpts. The color choices are not merely pretty; they’re functional. Distinguishing Lion-O’s silhouette from Mumm-Ra’s shadowy menace is easier than telling a goblin apart from a zombie on a bad night. The temple tiles glow faintly in places, selling the “arcane-meets-carbonized” vibe that fits the game’s tone. It’s a thoughtful balance: enough whimsy to celebrate the source material, enough menace to remind players that these aren’t your standard fantasy figurines.
+The ThunderCats Pack maintains a bold visual language. The minis pop on the board with crisp detailing and characterful sculpts. The color choices are not merely pretty; they’re functional. Distinguishing Lion-O’s silhouette from Mumm-Ra’s shadowy menace is easier than telling a goblin apart from a zombie on a bad night. The temple tiles glow faintly in places, selling the arcane-meets-carbonized vibe that fits the game’s tone. It’s a thoughtful balance: enough whimsy to celebrate the source material, enough menace to remind players that these aren’t your standard fantasy figurines.
 
 ### Narrative Flavor
 
-If you’re the kind of player who sketches lore for your campaigns, ThunderCats Pack offers a treasure trove of narrative hooks. Each hero has a vibe, a backstory wink, and a few stage-worthy quotes you’ll find yourself muttering as you slay another wave. The boss fight with Mumm-Ra is particularly satisfying in this realm of cosplay-meets-conquest. It’s not just “beat the boss.” It’s a little theatrical performance with a rulebook in the wings, and the table becomes a stage where strategic chess meets Saturday-morning cartoons.
+If you’re the kind of player who sketches lore for your campaigns, ThunderCats Pack offers a treasure trove of narrative hooks. Each hero has a vibe, a backstory wink, and a few stage-worthy quotes you’ll find yourself muttering as you slay another wave. The boss fight with Mumm-Ra is particularly satisfying in this realm of cosplay-meets-conquest. It’s not just beat the boss. It’s a little theatrical performance with a rulebook in the wings, and the table becomes a stage where strategic chess meets Saturday-morning cartoons.
 
 ## Practical Playtips: Getting the Most from ThunderCats Pack
 
 - Plan your turn order around your strongest combos. The Sword of Omens isn’t a one-turn wonder; you want to set up a two- or three-turn plan that leverages a fast hero with Lion-O’s power to reposition threats and carve clean lanes for the squad.
 - Don’t underestimate Snarf’s utility. He isn’t just cute—he offers distraction and support that can be critical when you’re facing a tight corridor. Use him to bait a few zombies into positions you want to control for a clean kill.
 - Use temple tiles strategically. The new tiles provide opportunities for escape, ambush, or simply a better angle for a Lightning Bolt-esque effect. The board is a puzzle; these tiles are your blueprints.
-- Pair with other expansions carefully. ThunderCats Pack blends well with other Zombicide add-ons as long as you keep the power balance in mind. If you stack too many aggressive enhancements on one team, you’ll end up with a “glass cannon” scenario where one heroic turn can skewer a room but you’ll crash dramatically on the next.
+- Pair with other expansions carefully. ThunderCats Pack blends well with other Zombicide add-ons as long as you keep the power balance in mind. If you stack too many aggressive enhancements on one team, you’ll end up with a glass cannon scenario where one heroic turn can skewer a room but you’ll crash dramatically on the next.
 - Keep the humor at the table. The tone of ThunderCats Pack invites a playful approach. If you’re feeling tense, lean into the nostalgia and crack a joke or two. The synergy between a nostalgic property and a grim dungeon is, in its own way, a form of therapy for serious-board-game fatigue.
 
 ## Community Feedback and House Rules: The Add-ons You Didn’t Know You Needed
@@ -99,7 +99,7 @@ The community response to ThunderCats Pack has been largely positive with a spri
 
 - Shortened boss phases for a quicker, arc-driven arc that’s perfect for one or two sessions.
 - Slightly increased loot frequency in temple tiles to reflect the reward potential of the new artifacts.
-- Optional rules for “epic fight” moments where players can declare a one-turn narrative surge to illustrate a cinematic strike with the Sword of Omens.
+- Optional rules for epic fight moments where players can declare a one-turn narrative surge to illustrate a cinematic strike with the Sword of Omens.
 
 If you’re into customizing, ThunderCats Pack provides plenty of forks for your imagination. It’s not a rigid experience; it’s a toolkit for storytellers who want both a nostalgic party and a formidable challenge in the same session.
 
@@ -121,7 +121,7 @@ Pros:
 - Solid value for the price given the content and design density
 
 Cons:
-- If you’re not into nostalgia or bright color palettes, the aesthetic might feel too “cartoonish” for your taste
+- If you’re not into nostalgia or bright color palettes, the aesthetic might feel too cartoonish for your taste
 - Some players may find the new mechanics slightly niche or situational until they gain familiarity
 - A few Power-of-Omens cards can feel heavy-handed if you’re not careful about deployment
 
