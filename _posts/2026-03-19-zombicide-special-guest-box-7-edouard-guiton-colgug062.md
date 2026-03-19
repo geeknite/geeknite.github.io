@@ -1,5 +1,5 @@
 ---
-title: Zombicide Special Guest Box 7 (Edouard Guiton) COLGUG062 Review
+title: Zombicide Special Guest Box 7 (Edouard Guiton) COLGUG062 Review — Extended Update
 date: 2026-03-19
 tags:
   - board games
@@ -8,90 +8,112 @@ tags:
   - COLGUG062
   - review
   - co-op
+  - guest-designer
+  - painting
+  - campaign
+  - tabletop
 ---
 
-## Unboxing and First Impressions
-When the mail arrives and your cat gives you the look that says you should have gone to bed earlier, you know something delicious is inside. Zombicide Special Guest Box 7, COLGUG062, arrives with a whisper of cardboard, a dash of designer magic, and a stack of miniatures that look like they are ready to negotiate peace talks with a swarm of undead. Edouard Guiton is the guest designer behind this box, and the moment you lift the lid you can sense his fingerprints on the layout, vibe, and that cheeky sense of humor that creeps into every card text. The box is sturdy, the color palette pops, and there is a sweet little wink in the art direction that signals this is not just another expansion. It is a party with a purpose, a cameo with consequences, and a reminder that even the dead can look stylish when given a good coat of paint.
+## Unboxing and First Impressions: A Toast to the Guest Designer
+When a box yells “hello, we’re fun and efficient” louder than your cat arguing about the thermostat, you know you’re in for a good time. Zombicide Special Guest Box 7, COLGUG062, returns with Edouard Guiton’s signature blend of sharp design, wry humor, and a little pocket of chaos that somehow makes sense once you’ve set it up. The moment the lid slides off, you’re treated to a compact, thoughtful package that feels like it was assembled by a team who binge-read game design blogs the night before and then whispered, “Let’s ship something we’d want to play.” 
 
-The contents promise more than a handful of shiny miniatures. You get a trio of new survivor profiles who feel like they were pulled from a late night brainstorm session with a whiteboard and a coffee machine that refuses to quit. There are new zombie variants that look like they misread the fashion timeline for a decade and decided to do their own thing anyway. The rulebook, art cards, and scenario sheets sit beside a compact mission booklet that stitches the whole experience together with a narrative thread that feels both familiar and fresh. A few tokens and dials are tucked into the tray, and you will probably spend a few minutes marveling at how compact a three scenario campaign can feel when designed with discipline and a good sense of rhythm.
+This time around, Edouard brings a trio of new survivors with voices that don’t shout over the horde, but pester it with clever options. The new zombie variants have the right balance of menace and mischief, so you’ll feel both threatened and amused as you scramble for the best line of retreat. The rulebook is lean but with enough designer notes to make you feel like you’re getting the designer’s green-room commentary without needing a PhD in Zombicide to decipher it. The miniatures are crisp enough to admire, but not so precious that you’d fear a clumsily knocked coffee mug. 
 
-The highlight in terms of presentation is a glossy box art that hints at Edouard Guiton signature: a survivor who looks seasoned enough to negotiate with a zombie over a pastry, yet unafraid to swing a blunt instrument if the moment calls for it. The miniatures themselves are clean, with crisp molded details that invite a little hobby sharpening if you are into painting. If you are someone who paints with a slow, meditative pace, COLGUG062 provides a satisfying palette and enough contrast edges to keep your brush moving while you plan the turn order in your head.
+And yes, there’s a box art flourish that says: this is Edouard’s world, and we’re just living in it for three missions. The glossy finish, the color choices, and the cheeky character poses all join forces to tell you: this is a short and stylish detour from the core game that still sits nicely in the Zombicide family tree.
 
-![](/assets/images/colgug062-box-art.jpg)
+![COLGUG062 box art](./assets/images/colgug062-box-art.jpg)
 
-### The Guest of Honor: Edouard Guiton
-Edouard Guiton is not just a name on a card. He embodies the box, a designer who loves a good risk reward dance and who can thread narrative flavor through a compact rule set. The survivor archetypes in this box carry his sensibility: pragmatic, a touch of dry humor, and a willingness to push players toward clever plays rather than brute force. If you have followed Zombicide boxes with guest designers in the past, this one lands with a confident swagger that says hello, thanks for joining, now watch this. The design language is accessible, which means new players can pick up COLGUG062 quickly, while veterans will appreciate the nods to classic Zombicide tactics wrapped in Edouard style.
+> Quick aside for fans of the painterly life: the sculpts invite a measured approach to painting. They aren’t screamingly detailed into overload, but they do reward a painter who likes a little shading and edge highlighting around the leather jackets and improvised armor. If you’re into display-worthy hobby evenings, COLGUG062 gives you a clean, satisfying palette to work with.
 
-The three new survivor profiles include a medic who can stabilize teammates in the thick of a zombie gauntlet, a scavenger who reuses discarded zombie parts as improvised armor or tools, and a frontliner who thrives when the team needs a push through a choke point. The combination creates a dynamic core for co op play, especially when you are trying to coordinate a three mission arc with a crew that might have varying experience levels. The card text is punchy without being obtuse, and the art direction offers visual cues that help you identify roles fast during a hectic turn sequence.
+### The Guest of Honor: Edouard Guiton Reimagined
+Edouard’s stamp on this box is a vibe more than a label. He leans into practical, slightly wry narrativization of the survivor roles, and his trio of new profiles reflects a design philosophy that favors clever, cooperative play over brute force squeaking its way through every encounter. Expect survivors who feel useful in multiple turns, with a flair for turning awkward situations into policy decisions your team can actually execute without a spreadsheet of casualties. The synergy between the new cards and the core rules remains approachable, which means newcomers won’t be overwhelmed, and veterans will appreciate the layered callbacks to classic Zombicide tactics wrapped in Edouard’s light-touch humor.
 
-### Components and Miniatures: Quality You Can Feel
-Let us talk specifics. The plastic quality sits in line with other Zombicide releases: robust, a bit rounded at the edges in a way that makes handling easy, and not fragile enough to crumble during a clumsy table bounce. The survivor miniatures have character without overcomplication, making them accessible to painters who love a bit of shading on a leather jacket and players who want to assemble a kinetic squad without needing a bench of hobby tools. The zombie variants are designed to look hungry and a little cheeky, which is exactly the vibe you want when you are wading through a throng on a rooftop or a newsroom floor that has seen better days.
+The three new survivor profiles—the medic, the scavenger, and the frontliner—are balanced to encourage teamwork. The medic stabilizes teammates in the thick of a zombie gauntlet, the scavenger repurposes discarded zombie parts into improvised gear, and the frontliner thrives when the team needs to break through a choke point. The result is a dynamic core for co-op play that supports both the table-wide drama of a three-mission arc and the more bite-sized nights when you just want a crisp, focused session.
 
-The tokens are well sized and easy to locate in a clump of dice and cards. The tiles are crisp, with good contrast on the painted edges and numbers that you can read without leaning over the table like a detective on a stakeout. The rulebook is compact but thorough, with a few designer notes that shed light on the intent behind certain rules and the reasoning for particular balance choices. This helps a lot if your group likes to experiment with alternate house rules or if you want to slide COLGUG062 into a longer campaign you have running.
+## Components and Miniatures: The Tangible Quality You Can Feel
+The plastic quality sits in the familiar, sturdy zone you expect from Zombicide releases. The survivors are approachable sculpts—recognizable silhouettes, enough character to tell them apart at a glance, yet simple enough to let painters add personality with a few well-chosen brushes. The zombies lean into that cheeky, hungry look without tipping into cartoonish. It’s a nice tonal match for the three missions, which aim for tension and momentum rather than a full-on death metal zombie soundtrack in the background.
 
-![COLGUG062 miniatures](./assets/images/colgug062-minis.jpg)
+Tactically, you’ll find the tokens, tiles, and cards sized with a practical, gamer-friendly touch. They’re easy to locate during chaotic turns and readable at table distance without needing a lamp like a handheld archaeology dig. The rulebook manages to be compact while giving a few designer notes that illuminate why certain balance choices exist—handy for groups that want to experiment with house rules or slot COLGUG062 into a longer campaign. The result is a product that feels well thought-out in both packaging and playability.
 
-## The Box in Play: Mechanics and Scenarios
-Zombicide is built on a rock solid you vs the horde core, but COLGUG062 introduces a handful of signatures from Edouard that feel like they were born from a late night brainstorm fueled by coffee and a love of tactical improvisation. The three new scenarios are designed to be legible for players new to Zombicide and also offer enough texture for veterans who want a challenge without a full reversion to puzzle-level thinking.
+<figure>
+  ![COLGUG062 miniatures](./assets/images/colgug062-minis.jpg)
+  <figcaption>COLGUG062 miniatures ready to crash a kitchen party with a zombie crowd.</figcaption>
+</figure>
 
-### Scenario One: Morning Brief
-A narrative frame around a ruined newsroom provides a familiar yet fresh stage for the first run. Your objective is to locate a surveillance dossier that reveals safe routes across the city. The pacing is well balanced; you get enough zombie action to feel threatened but not overwhelmed, and the token economy nudges players toward cooperative decisions rather than lone hero stunts. The scenario teaches emerging players how to use the new survivor abilities while reminding veterans that sometimes the best move is a quiet turn to prepare for a bigger push later in the game.
+## The Box in Play: Mechanics, Flow, and Three Scenarios
+Zombicide has always been about you versus the horde, and COLGUG062 slots neatly into that premise while adding a fresh personality through Edouard’s design cues. The three scenarios are designed to be legible for novices while offering texture for seasoned players who want to push the session into a more narrative rhythm. It’s a tidy balance—the kind of design that doesn’t shout “new rules” so loudly that it breaks the table talk or the camaraderie you’ve built around your weekly game night.
 
-### Scenario Two: Rooftop Relay
-This rooftop chase puts pressure on players to coordinate a sequence of moves while a horde converges from multiple angles. The new hazard type feral birds adds a playful but dangerous twist to rooftop tiles, forcing you to think ahead about positioning and line of sight in a new way. It is the kind of scenario that sparks table talk, which is exactly what you want when the group wants a session that feels like a narrative sprint rather than a pure math workout.
+### Scenario One: Morning Brief — A Newsroom That Still Has a Pulse
+This first scenario frames itself around a ruined newsroom, a familiar stage with a fresh twist. Your objective is to locate a surveillance dossier that reveals safe routes across the city. The pacing is deliberate: you get enough zombie action to feel threatened but not overwhelmed, and a token economy that nudges players toward cooperative decisions rather than heroic solo stunts. It’s a teach-and-play approach that suits new players, who get a gentle onboarding to the new survivor abilities while veterans are gently reminded that sometimes the best plan is a well-timed pause to set up a bigger push later.
 
-### Scenario Three: Studio Escape
-This final act leans into a studio setting with a claustrophobic labyrinth vibe. The survivors must trigger a projector to unlock a final door, but the projector relies on a resource that you access by courting a zombie swarm. It feels cinematic, a little nerve wracking, and wholly satisfying once the sequence clicks into place. The payoff is worth the time; even players who thought they were done with Zombicide after the first two scenarios will find themselves grinning as the last door opens and the horde recedes with a dramatic whimper.
+The Morning Brief acts as a soft launch for the trio—an anchor that shows how the medic, scavenger, and frontliner can begin to influence a game state from the first turn. It isn’t merely a tutorial; it’s a living demonstration of how Edouard’s mechanics intertwine with the established rhythm of Zombicide, producing moments that feel earned rather than choreographed. If you’ve played the core game, you’ll recognize the cadence and quickly spot the ways in which COLGUG062 nudges the tempo toward smarter teamwork.
 
-### Balancing and Difficulty
-COLGUG062 sits comfortably within the range you expect from a Zombicide expansion. At lower player counts the new mechanics feel crisp and manageable, a quiet power rising from teamwork rather than brute force. At higher counts, the new survivors shine and the medic proves its worth early and often. Edouard has designed the new rules to thread into the existing core without forcing you to relearn the game. The result is a box that can be dropped into a single evening campaign or integrated into a longer run with minimal friction.
+### Scenario Two: Rooftop Relay — A High-Rlying Sprint with Birds and Bets
+Rooftop Relay is where the box shifts into a more kinetic, forward-masting pace. The rooftop tiles create vertical tension, and the new hazard type—feral birds—adds a playful but dangerous twist that forces players to think about positioning and line of sight in new dimensions. The “three-story sprint” feel is amplified by the need to coordinate a chain of moves to stay ahead of the encroaching horde while managing limited resources.
 
-If you worry about the learning curve for new players, you can ease into COLGUG062 with the Morning Brief scenario and use the other two as mid campaign milestones. The level of difficulty scales gracefully with the number of players and the experience of the group, which is exactly what you want from a guest design that aims to be friendly but not simplistic.
+This scenario shines for table talk. It’s less about brute force and more about planning, contingency, and anticipating opponents’ moves. You’ll find yourself negotiating with your own plans as the birds drop in, forcing you to re-evaluate who should move when and which survivor’s ability provides the best pivot for the next turn. If you enjoy a narrative sprint that rewards clever play, Rooftop Relay hits the sweet spot where tension and camaraderie collide in a satisfying, can-you-believe-we-pulled-that-off way.
 
-## Thematic Flavor and Narrative Quality
-The Special Guest Box 7 captures the spirit of Edouard Guiton while staying true to Zombicide core. The narrative prompts on the mission briefings read like a good heist script: lean, characterful, and loaded with small jokes that keep morale up even as you manage a horde bent on mischief. The survivors feel distinct, each with a voice that makes you want to roleplay a little and invest in their stories, even if your table is more interested in the tactical dice ballet than in character portraits. The art direction merges clean, clear silhouettes with a few signature touches that hint at Edouard's influence without shouting it out loud across the table.
+### Scenario Three: Studio Escape — A Cinematic, Labyrinthine Finale
+The studio setting for the final act leans into claustrophobic corridors and a labyrinthine vibe that feels like a suspense thriller. The survivors must trigger a projector to unlock a final door, but the projector’s mechanic relies on courting a zombie swarm to access a critical resource. It’s cinematic and nerve-wracking in a very satisfying way—the kind of moment that makes players grin, then lean in for the “one more run” talk as the horde recedes with a whimper.
 
-If you are a fan of painterly miniatures, COLGUG062 offers you a handful of new sculpts to sharpen your skills on. If you prefer your gameplay to be a little more narrative, you will enjoy the mission briefings and the way the scenarios lean into story beats that give each session a sense of progression rather than a simple wave after wave of zombies.
+The payoff is an extended sense of progression that often eludes shorter campaign boxes. By weaving a resource fetch into a dying-hope sequence, Edouard ensures the last act is not a slog but a well-timed capstone that tests both planning and nerve. You’ll probably find yourselves discussing after-action choices, what you might have done differently, and how you’ll approach a full replays with different survivor combinations.
+
+### Balancing and Difficulty: Smooth Edges and Sharp Corners
+COLGUG062 sits comfortably within the expected Zombicide difficulty range. At lower player counts, the new mechanics feel crisp and manageable, a quiet power that rises from teamwork rather than brute force whooping. At higher counts, the new survivors shine and the medic proves its worth early and often. Edouard has designed the rules to thread into the core without forcing a re-education on the game’s fundamental concepts. The result is a box that can slot into a single-evening campaign or be integrated into a longer run with minimal friction.
+
+If you worry about the learning curve for new players, Morning Brief is a natural onboarding. The other two scenarios then serve as mid-campaign milestones, gradually expanding the strategic horizon without becoming an intimidating obstacle course. The level of difficulty scales gracefully with a mix of players, which is exactly what you want from a guest design that aims to be approachable without becoming simplistic.
+
+> Pro tip: For groups that like a steady ramp, start with Morning Brief, then circle back to Rooftop Relay as a mid-campaign breather before unleashing Studio Escape. It’s a rhythm that rewards memory without punishing experimentation.
+
+## Thematic Flavor and Narrative Quality: Edouard’s Signature, With a Zombicide Twist
+Where this Special Guest Box shines is in its ability to evoke a specific vibe without losing the core Zombicide DNA. The narrative prompts on the mission briefings feel like lean, characterful lines from a heist script—tiny jokes, quick character moments, and moments that remind you that your survivors are people with opinions about broken newsroom furniture and coffee that tastes like ambition.
+
+The survivors feel distinct, each with a voice that makes you want to roleplay a little and invest in their stories even if your table is primarily concerned with dice results. The art direction blends clean silhouettes with signature touches that acknowledge Edouard’s influence without shouting it from the rooftop. If you’re a painter, COLGUG062 offers a handful of new sculpts to sharpen your skills on; if you prefer a more narrative approach, the mission briefings and story beats give your sessions a sense of progression rather than a string of tactical echoes.
 
 External link to the official page: https://www.guillotine-games.com
 
-For a broader read on how guest designers shape Zombicide releases, check this post: [Zombicide Across the Box - A Tabletop Palette]({% post_url 2023-09-07-zombicide-across-the-box-review %})
+For readers who crave behind-the-scenes context on how guest designers influence Zombicide releases, check this post: [Zombicide Across the Box - A Tabletop Palette]({% post_url 2023-09-07-zombicide-across-the-box-review %})
 
-## Production Value and Collectibility
-COLGUG062 is not a stealth drop. It wears its production values on its sleeve and invites you to display the miniatures proudly. The sculpts are robust, suitable for tabletop photos and for gallery walls after you have finished painting. The collector instinct will be satisfied by the packaging, the weight of the miniatures, and the crispness of the new designs. If you enjoy organizing your collection, this box provides a compact package that slots into existing storage without creating a new chaos in your shelf space.
+## Production Value and Collectibility: A Box That Wears Its Pride
+COLGUG062 makes no attempt to hide its production values. The components are not an afterthought; they’re the front-and-center, glossy-yet-practical part of the experience. The miniatures are robust enough for tabletop photos and display-worthy in the hobby corner after you’ve finished painting. The packaging is solid, the weight feels right, and the new designs slot neatly into your existing Zombicide shelf without creating a new black hole of storage chaos.
 
-If you are a player who hosts game nights, the box is a solid centerpiece. It gives you a cohesive trilogy of scenarios that feel like a mini campaign rather than a loose assortment of puzzles. You will appreciate the thought that went into balancing the mechanics so they are accessible to newcomers yet rewarding to more strategic players. The box offers a nice middle ground between a casual session and a full campaign night, which makes it a good choice for groups with mixed experience.
+If you’re the sort of player who catalogs their collection or photographs their sessions with a consistent color treatment, COLGUG062 will reward that discipline. The three-scenario arc feels cohesive—the kind of mini-campaign that can live on your shelf as a shrine to a weekend of great tabletop storytelling rather than a loose cluster of modules.
 
-### Compatibility with Other Zombicide Expansions
-Zombicide is a living line and COLGUG062 is designed to slot into a wide array of existing configurations. The new survivors and gear mix well with Black Plague, Green Horde, and the modern era zombie sets, allowing you to weave Edouard Guiton's signature presence into almost any preexisting table. The balance changes introduced by the guest box are self contained enough to avoid destabilizing the core rule set, but they also offer enough flavor to make your next cross title play feel a little more interesting than your usual run.
+### Compatibility with Other Zombicide Expansions: A Smooth, Welcoming Interlude
+Zombicide has always prided itself on being a living line with flexible cross-compatibility. COLGUG062 slots into a wide array of configurations, and it threads well with Black Plague, Green Horde, and modern-era zombie sets. The new survivors and gear mix into established builds without destabilizing the core mechanics, while still offering enough flavor to make your next cross-title play feel like a fresh experience.
 
-If you want more context on how expansions interplay, take a look at this cross box discussion post: [Zombicide Across the Box - A Tabletop Palette]({% post_url 2023-09-07-zombicide-across-the-box-review %})
+If you want to see more on crossbox dynamics, revisit this discussion post: [Zombicide Across the Box - A Tabletop Palette]({% post_url 2023-09-07-zombicide-across-the-box-review %})
 
-## Practical Tips for Your First Session
-- Pre sort the new components into a dedicated tray. The last thing you want is to stall while players hunt for a tiny token under the couch.
-- Start with the medic and scavenger first. Their abilities tend to create a backbone for early turns and help the team stabilize during a rough wave.
-- Use Morning Brief as the teaching ground. It is designed to teach the new rules at a comfortable pace while still delivering meaningful choices.
-- If you have painting aspirations, COLGUG062 offers a few new color palettes that photograph well in a mid day sunbeam, so plan a mini painting night after your first playthrough.
+## Practical Tips for Your First Session: Keep It Smooth, Keep It Fun
+- Pre-sort the new components into a dedicated tray. The last thing you want is to stall while players hunt for a tiny token under the couch cushions.
+- Start with the medic and scavenger first. Their abilities tend to create a backbone for early turns and help the team stabilize during rough waves.
+- Use Morning Brief as the teaching ground. It’s designed to teach the new rules at a comfortable pace while still delivering meaningful choices.
+- If you have painting aspirations, COLGUG062 offers a few new color palettes that photograph well in a mid-day sunbeam. Plan a mini painting night after your first playthrough for maximum bragging rights.
 
-### Painterly and Display Tips
-If you enjoy showing off your painted minis, COLGUG062 is a good candidate for a quick showcase photo. The sculpts take paint nicely, and the contrast edges on the new survivors help them pop against the more muted zombie colors. A well lit table and a neutral backdrop will let the details shine, especially on the armor patches and the improvised gear that the survivors wear.
+### Painterly and Display Tips for Your COLGUG062 Night
+If you enjoy showing off painted minis, COLGUG062 is a strong candidate for a quick showcase photo. The sculpts take paint nicely, and the contrast edges on the new survivors help them pop against the more muted zombie colors. A well-lit table and a neutral backdrop will let the details shine, especially on armor patches and improvised gear that the survivors wear. Consider a two-light setup: a key light to sculpt the faces and a fill to bring out the textures in the jackets and gear. It’s not just about the end result; it’s about the storytelling moment you capture in a single frame.
 
 ## Where This Shines: For Which Table Is COLGUG062 Ideal?
-- Groups that enjoy a strong thematic voice in their games and appreciate designer cameos.
-- Teams that like a short campaign arc with a clear trio of scenarios rather than a sprawling open world.
-- Tables with a mix of new players and veterans, thanks to the approachable teaching curve paired with meaningful tactical decisions.
-- Painters who want new sculpts to add to their growing Zombicide army and who will use the three scenarios as a launching pad for a mini narrative night.
+- Groups that crave a strong thematic voice and designer cameos that actually contribute to the game’s pace, not just the novelty.
+- Teams that prefer a short-to-medium campaign arc with a clear trio of scenarios rather than a sprawling open world.
+- Tables with mixed experience levels, where approachable teaching curves pair with meaningful tactical decisions.
+- Painters who want new sculpts to expand their Zombicide army and who will leverage the three scenarios as a springboard for a mini narrative night.
+
+## External Links and Community Readings
+- Official Guillotine Games page: https://www.guillotine-games.com
+- For a broader read on cross-title dynamics and guest designers, see the related post: [Zombicide Across the Box - A Tabletop Palette]({% post_url 2023-09-07-zombicide-across-the-box-review %})
+- If you want to revisit a classic Zombicide experience, our post on the Core Box Retrospective is a good companion piece: [Zombicide Core Box Retrospective]({% post_url 2021-05-15-zombicide-core-box-review %})
 
 ## Final Verdict and Recommendations
-So, is Zombicide Special Guest Box 7 COLGUG062 worth it? Yes, if you are in the Zombicide ecosystem and you enjoy the occasional designer cameo that adds a coherent narrative thread without turning the game into a rules heavy undertaking. The three scenarios offer a balanced progression, the new survivors inject personality into the roster, and the art direction reinforces the Edouard Guiton vibe without overshadowing the core game experience.
+Zombicide Special Guest Box 7 COLGUG062 is a well-judged expansion that respects the core game while injecting Edouard Guiton’s personality into the mix. It’s not a gigantic rulebook shake-up; it’s a thoughtfully designed three-mission arc with new survivors that feel both useful and flavored. The scenarios provide a cohesive ramp that can be enjoyed in a single evening or spread across a small campaign, and the production values match the current high-water mark for Zombicide releases.
 
-If you are new to Zombicide, plan for a slower start and use Morning Brief as your onboarding experience. If you are a long time fan, this box is a worthy add on to your collection that provides enough new content to justify a dedicated session or two. And if you are chasing collectibility or painterly opportunities, COLGUG062 delivers on both fronts with style and care.
+If you’re new to Zombicide, Morning Brief will ease you into the new rules and the feel of the three new survivors. If you’re a long-time fan, COLGUG062 is a tidy, high-quality addition that delivers enough fresh moments to justify a dedicated session or two without demanding a full restart of your game-night routines. And if you’re in it for the hobby side—painting and display—the miniatures and sculpts offer plenty of opportunity to flex your skills.
 
-For players who crave a quick verdict: COLGUG062 is a solid buy that will keep your group coming back for more, especially if you enjoy a cohesive narrative with well designed mechanics and a sense of humor that reminds you why you fell in love with zombie co op games in the first place.
+For players who want a crisp, narrative-driven experience with a satisfying arc, COLGUG062 is a solid buy. It balances accessible teaching with meaningful tricks, and it maintains the sense of humor that makes Zombicide a sociable, chaotic good time around the table.
 
 External link: Official Guillotine Games page https://www.guillotine-games.com
 
-If you want to revisit a previous Zombicide experience, our post on a classic box is here: [Zombicide Core Box Retrospective]({% post_url 2021-05-15-zombicide-core-box-review %})
+If you’re curious about how a guest box can affect a long-running campaign, you might enjoy seeing how we’ve compared boxes in the past: [Zombicide Across the Box - A Tabletop Palette]({% post_url 2023-09-07-zombicide-across-the-box-review %})
 
 Affiliate note: This review may include affiliate links to support Geeknite. We only recommend products we would buy ourselves and sincerely enjoy.
 
