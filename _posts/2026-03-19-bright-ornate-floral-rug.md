@@ -23,7 +23,7 @@ Now, let’s roll (metaphorically, with a rug that actually rolls nicely) throug
 
 ## Aesthetics: The Flora of Fiber
 
-The Bright Ornate Floral Rug is a celebration of color, pattern, and Feng Shui for those who do not fear commitment. If color had a loud party, this rug would be the host. The palette tends toward saturated pinks, electric teals, sunny yellows, and deep emeralds, all woven into a bouquet of florals that looks like someone pressed a botanical encyclopedia into a kaleidoscope and pressed start. The result is a rug that reads as cheerful, exuberant, and slightly mischievous—like a gnome wearing a lab coat and ordering extra sprinkles.
+The Bright Ornate Floral Rug is a celebration of color, pattern, and Feng Shui for those who do not fear commitment. If color had a loud party, this rug would be the host. The palette leans toward saturated pinks, electric teals, sunny yellows, and deep emeralds, all woven into a bouquet of florals that looks like someone pressed a botanical encyclopedia into a kaleidoscope and pressed start. The result is a rug that reads as cheerful, exuberant, and slightly mischievous—like a gnome wearing a lab coat and ordering extra sprinkles.
 
 Color theory-wise, this rug leans into warm, high-energy hues with occasional cool anchors to keep things from becoming a sensory geode. The warm tones invite warmth into a space, making living rooms feel more inviting and kitchens feel marginally less like a laboratory where you mix coffee with questionable decisions. The florals provide a sense of movement; even when you’re not walking across the room, the eye catches swirls of petals that appear to be dancing to a beat only your cat can hear.
 
@@ -120,3 +120,5 @@ Bold call-to-action:
 For more nerdy decor reads, you might enjoy our other inspired posts on how to blend color psychology with practical living space solutions. Check out these links for further inspiration and ideas on how to style your home like a level-20 interior designer: color theory basics, rug care tips, and pattern mixing strategies. If you’re curious about how fellow geeks style their rooms, see our posts on {% post_url 2025-04-12-geeky-living-room-ideas.html %} and {% post_url 2024-11-28-diy-rug-updates.html %} for additional ideas and experimentation.
 
 ---
+
+End with a bold call-to-action: **Buy the Bright Ornate Floral Rug now with our affiliate link and start your space makeover today: https://affiliate.geeknite.example/bright-ornate-floral-rug**
