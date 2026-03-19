@@ -1,5 +1,5 @@
 ---
-ttitle: Zombicide Black Plague: ThunderCats Pack – Meow-gnificent Mayhem in the Middle Ages
+title: Zombicide Black Plague: ThunderCats Pack – Meow-gnificent Mayhem in the Middle Ages
 date: 2026-03-19
 tags:
   - board-games
@@ -83,7 +83,7 @@ The ThunderCats Pack maintains a bold visual language. The minis pop on the boar
 
 ### Narrative Flavor
 
-If you’re the kind of player who sketches lore for your campaigns, ThunderCats Pack offers a treasure trove of narrative hooks. Each hero has a vibe, a backstory wink, and a few stage-worthy quotes you’ll find yourself muttering as you slay another wave. The boss fight with Mumm-Ra is particularly satisfying in this realm of cosplay-meets-conquest. It’s not just “beat the boss.” It’s a little theatrical performance with a rulebook in the wings, and the table becomes a stage where strategic chess meets Saturday-m morning cartoons.
+If you’re the kind of player who sketches lore for your campaigns, ThunderCats Pack offers a treasure trove of narrative hooks. Each hero has a vibe, a backstory wink, and a few stage-worthy quotes you’ll find yourself muttering as you slay another wave. The boss fight with Mumm-Ra is particularly satisfying in this realm of cosplay-meets-conquest. It’s not just “beat the boss.” It’s a little theatrical performance with a rulebook in the wings, and the table becomes a stage where strategic chess meets Saturday-morning cartoons.
 
 ## Practical Playtips: Getting the Most from ThunderCats Pack
 
@@ -125,7 +125,7 @@ Cons:
 - Some players may find the new mechanics slightly niche or situational until they gain familiarity
 - A few Power-of-Omens cards can feel heavy-handed if you’re not careful about deployment
 
-Overall rating: 8.5 / 10. A strong, characterful expansion that invites fans of both franchises to lean into a hybrid vibe without compromising Zombicide’s core balance. If you’re building a campaign that celebrates bold visuals, clever tactics, and a pinch of retro-cunny, ThunderCats Pack is a must-have in your collection. If you already own every expansion and have a soft spot for heroic 80s fantasy, this is the shelf-tickling release you want to pull out for a weekend session that’s equal parts strategy and showmanship.
+Overall rating: 8.5 / 10. A strong, characterful expansion that invites fans of both franchises to lean into a hybrid vibe without compromising Zombicide’s core balance. If you’re building a campaign that celebrates bold visuals, clever tactics, and a pinch of retro-cunny, ThunderCats Pack is a must-have in your collection. If you’re a completionist and have a soft spot for heroic 80s fantasy, this is the shelf-tickling release you want to pull out for a weekend session that’s equal parts strategy and showmanship.
 
 ## External Links and Internal Crossovers
 
@@ -141,6 +141,4 @@ ThunderCats Pack is not merely a pretty set of miniatures in a box. It’s a cel
 
 Boldly step into the temple. Strike with a roar. Let the Eye of Omens guide you through the gloom, and may your dice roll with the grace of a feline acrobat.
 
-**Buy the ThunderCats Pack now through our affiliate link and unleash the meow-ment of victory.**
-
-**Affiliate Link:** https://affiliate.geeknite.example/thundercats-zombicide-pack
+**Buy the ThunderCats Pack now through our affiliate link and unleash the meow-ment of victory: https://affiliate.geeknite.example/thundercats-zombicide-pack**
