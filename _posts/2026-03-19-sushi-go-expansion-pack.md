@@ -1,5 +1,5 @@
 ---
-title: "Sushi Go! Expansion Pack Review: A Dim Sum of Delight and Dread"
+title: 'Sushi Go! Expansion Pack Review: A Dim Sum of Delight and Dread'
 date: 2026-03-19
 tags: [board-games, reviews, sushi, expansion]
 ---
@@ -17,15 +17,15 @@ Geeknite loves two things: clever design and jokes that don’t require a PhD to
 ## What’s in the Expansion Pack?
 The expansion pack claims to add a handful of cards that change the dynamics of drafting and scoring. In reality, it’s a mug of extra variety—enough to feel like a meaningful addition without turning Sushi Go! into a calculus class. Here’s what you typically get, and what it actually means at the table:
 
-### New cards and card mechanics (H3)
+### New cards and card mechanics
 - New scoring cards that reward longer-term planning. Expect more late-game swing cards that tempt you to gamble on a strategy that may or may not pay out.
 - A handful of “modifier” cards that tweak the value of certain types of sushi combos or create new, temporary synergies. These are the kind of cards that force you to look at your draft not as a tidy path to victory but as a choose-your-own-adventure where every choice haunts you for two turns.
 - A few kitchen-themed tiebreaker cards. When your rice hand is perfectly balanced with a duo of nigiri, the tiebreaker cards decide who gets the last laugh—and the last plate.
 
-### Fresh scoring opportunities (H3)
+### Fresh scoring opportunities
 The expansion adds scoring wrinkles that reward players for diversifying their picks, hitting micro-sets, and sometimes simply screwing over a friend who thought they had the perfect plan. Think of it as seasoning: a pinch can elevate a dish, a handful can ruin a friendship. The scoring emphasis shifts from “go for the obvious big points” to “sniff out a small, consistent stream of points across multiple rounds.” This is not a critique; it’s a feature when your table wants tension that isn’t solved by a single heroic move.
 
-### The density of options (H3)
+### The density of options
 If base Sushi Go! felt like a brisk jog, this expansion adds interval training with optional sprints. There’s enough new content to keep the table engaged for a dozen games before anyone suggests drafting from the same row twice. The variety is designed to improve replay value without throwing players into a swamp of decision paralysis. For many players, this balance is the sweet spot: a bit more complexity, but not enough to warrant a three-hour pre-game lecture about math and probability.
 
 ## Design, Theme, and Components
@@ -40,21 +40,21 @@ If you’ve bought any Sushi Go! product in the past, you know what you’re get
 ## How to Play with the Expansion Pack (Setup, Flow, and Tips)
 Adding an expansion to a beloved light game can be a little nerve-wracking. Will it slow the pace? Will it overwhelm new players? Will Aunt Mildred suddenly become a Math Olympian because of a single new card? Fear not; here’s a practical view on how to integrate the expansion into your weekly Sushi Go! routine.
 
-### Setup and deck integration (H3)
+### Setup and deck integration
 - Shuffle the expansion’s cards with the base deck. If you’re introducing this to new players, consider starting with a lighter configuration: one expansion deck for every two base decks to keep things approachable.
 - Establish whether you want to use the new scoring variants every round, or save them for a “special game” where you want to test your meta-narrative about who is currently the sushi emperor.
 - Use a quick-reference card if your table struggles with the new mechanics. You’ll thank yourself later when the table stops muttering, “What’s this one do again?” every round.
 
-### In-game flow (H3)
+### In-game flow
 The draft flow remains familiar: players pass hands around the table and choose one card to keep, while passing the rest. The expansion adds a few decision points that make you weigh immediate satisfaction against long-term potential. The first couple of rounds you’ll crave the old rhythm, but by round three you’ll start nodding and muttering, “Yes, yes, this is exactly what we needed.”
 
-### Strategy pixels (H3)
+### Strategy pixels
 - Diversify early, but don’t overcommit. The new cards reward breadth but punish you for ignoring the obvious synergy of the current hand.
 - Read your table’s mood. If two players are chasing the same micro-set, you may achieve a surprising victory simply by pivoting to a different scoring thread.
 - Don’t be afraid to take a small, negative-expected-value pick if it disrupts your strongest competitor’s plan. The expansion’s tension thrives on clever derailment as much as on clean execution.
 
 ## Solo and Social Play: Does It Hold Up?
-Sushi Go! expansions typically shine at social tables more than solo sessions, and this one is no exception. You can run a one-vs-one “duel” where the expansion’s new cards act like trickeration on top of a standard draft. Solo play becomes a little more puzzle-like, as you try to optimize a monkey-wrench of new scoring rules against a fixed deck. It’s not a mind-bender, but it scratches a particular itch: the desire to micro-optimize a tiny, delicious system while pretending you’re a cunning villain plotting your next snack-based coup.
+Sushi Go! expansions typically shine at social tables more than solo sessions, and this one is no exception. You can run a one-vs-one “duel” where the expansion’s new cards act like trickery on top of a standard draft. Solo play becomes a little more puzzle-like, as you try to optimize a monkey-wrench of new scoring rules against a fixed deck. It’s not a mind-bender, but it scratches a particular itch: the desire to micro-optimize a tiny, delicious system while pretending you’re a cunning villain plotting your next snack-based coup.
 
 ## Table Talk, Mood, and Accessibility
 One of the most important aspects of any expansion is how it impacts social dynamics. This pack tends to amp up table talk in a good way. Players will argue about whether a new card is worth it, or whether taking a sub-optimal card now pays off in an epic late-game swing. It also nudges new players toward the idea that Sushi Go! isn’t a single best path; it’s a buffet of paths, and you’re allowed to pick multiple paths at once if the math agrees with you and your friends don’t mind sharing the spotlight.
@@ -92,7 +92,7 @@ If you love Sushi Go! but crave a touch more strategy, more micro-decisions, and
 - Might overwhelm new players if all new mechanics are introduced at once
 - Some tables may prefer a leaner, lighter snack of a game rather than a full-blown feast
 
-## Postscript: Reader Reactions and Anecdotes (H3)
+## Postscript: Reader Reactions and Anecdotes
 During our playtests, we observed a few recurring moments:
 - The moment someone uses a new scoring card that rewards an unlikely micro-collection, triggering a chorus of, “I didn’t see that coming.”
 - The table debate over whether a specific new card is worth drafting in the early rounds or if it’s better saved for mid-game chaos.
@@ -110,6 +110,6 @@ If you’re looking to add a dash of extra strategy and tiered scoring to Sushi 
 
 **Grab the expansion if you want more bite-sized decisions, more chances to surprise your table, and more reasons to brag about your “sushi empire.”**
 
-For those ready to dive in, here is a quick, bold nudge toward the best next step: check out the expansion from our recommended retailer below and consider snagging a sleeve set so you can protect your precious new cards from the inevitable tabletop chaos. 
+For those ready to dive in, here is a quick, bold nudge toward the best next step: check out the expansion from our recommended retailer below and consider snagging a sleeve set so you can protect your precious new cards from the inevitable tabletop chaos.
 
 **Affiliate link:** https://example.com/affiliate/sushi-go-expansion
