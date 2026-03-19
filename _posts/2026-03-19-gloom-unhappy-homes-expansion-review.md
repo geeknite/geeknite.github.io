@@ -1,5 +1,5 @@
 ---
-title: Gloom: Unhappy Homes Expansion Set — Geeknite Review
+ttitle: Gloom: Unhappy Homes Expansion — Geeknite Review Expanded
 date: 2026-03-19
 tags:
   - board-games
@@ -7,6 +7,7 @@ tags:
   - expansion
   - review
   - humor
+  - tabletop
 ---
 
 ![Gloom: Unhappy Homes cover](/assets/images/gloom-unhappy-homes-cover.jpg 'Gloom: Unhappy Homes cover')
@@ -14,14 +15,14 @@ tags:
 ![Unhappy Homes art](/assets/images/gloom-unhappy-homes-art.jpg 'Gloom: Unhappy Homes art')
 
 ## Introduction
-Welcome back to Geeknite, where the gloom is not just a mood but a lifestyle. If you thought the original Gloom was bleak, strap in, because Gloom: Unhappy Homes Expansion Set takes you on a tour through even greyer corridors, where the wallpaper is peeling in more ways than one and the family portraits are actively sulking. This is the kind of expansion that asks the serious questions: how do you make a house feel worse without turning on the actual mic from a haunted mansion? How do you make your doomed families feel slightly more doomed without introducing a existential crisis in the middle of your gaming table?
+Welcome back to Geeknite, where the gloom isn’t just a mood—it’s a lifestyle decision you make after debating the ethics of sneaking a candle into a haunted dining room. If you thought the original Gloom was already a melodrama wrapped in a black cloak, buckle up: Gloom: Unhappy Homes Expansion Set dives deeper into the creak of a house that’s never had a good interior design year. This is the kind of expansion that dares you to orchestrate a tragedy with the elegance of a stage manager and the snark of a theater critic who’s been sipping sleep tea since noon.
 
-Let’s dive into the expansion, the cards, the quirks, and the comedy of misfortune that comes with mixing two very reliable things together: the Gothic and the giggles. If you’re new to Gloom, you can still read this review and feel following through with your own family’s tragic opera, but you might want to start with the base game first. For long-time gloom enthusiasts, this expansion is the dramatic flourish you didn’t know you needed, like a sparkly coffin with better interior design.
+If you’re new to Gloom, you can still read this review and soak up the vibe, but you might want to start with the base game first—otherwise you’ll be chasing a moving target that’s suspiciously moody and far too fond of doom-laden doorways. For the long-time gloom aficionados, consider Unhappy Homes the dramatic flourish you didn’t know you needed—like a chandelier that doubles as a mood ring and a monocle that fogs up whenever a character experiences existential despair.
 
-For a broader context on how expansions in this universe tend to rewire the vibe, you might enjoy our prior ramble about [Gloom: Mournful Mausoleum]({% post_url 2025-11-02-gloom-mournful-mausoleum-review %}) and how that haunted hallway changed the tempo of our candle-lit evenings. If you’re curious about setup tips and how to coax more drama from your tables, you can also skim our older guide to [Gloom base game setup]({% post_url 2024-04-10-gloom-base-game-setup %}).
+For broader context on how expansions in this universe tend to rewire the vibe, you might enjoy our prior ramble about [Gloom: Mournful Mausoleum]({% post_url 2025-11-02-gloom-mournful-mausoleum-review %}) and how that haunted hallway recalibrated our candle-lit evenings. If you’re curious about setup tips and how to coax more drama from your tables, you can skim our older guide to [Gloom base game setup]({% post_url 2024-04-10-gloom-base-game-setup %}).
 
 ## What is Gloom: Unhappy Homes?
-Unhappy Homes is the expansion that leans into the haunted domestic sphere with a wink and a moan. It introduces new components designed to tilt the emotional gravity of each scene: additional family members, house-specific condition cards, and a handful of new gloom tokens that do not merely exist to complicate your life but to remind you that home is where the heartbreak is. The premise remains the same in spirit: you arrange a cascade of sorrow cards so that your family’s life-story ends in spectacular tragedy—preferably with a punchline that makes the other players question their life choices.
+Unhappy Homes is the expansion that leans into the haunted domestic sphere with a wink and a moan. It introduces new components designed to tilt the emotional gravity of each scene: additional family members, house-specific condition cards, and a handful of new gloom tokens that don’t merely exist to complicate your life but to remind you that home is where the heartbreak is. The premise remains the same in spirit: you arrange a cascade of sorrow cards so that your family’s life-story ends in spectacular tragedy—preferably with a punchline that makes the other players question their life choices.
 
 But the expansion isn’t just more cards. It adds modular pieces you can mix and match depending on how mean you feel about your friends’ families that evening. The intention is not just to increase difficulty, but to deliver the punishing cunning of a well-timed cumulative gloom effect. If the base game is a slow-burning candle, Unhappy Homes is a hurricane candle—shaped like a house, and it still rings true: things are going to get dark, but at least you’ll be entertained while the walls weep.
 
@@ -52,8 +53,11 @@ If you’ve played with a few expansions before, you’ll notice a density in th
 ### Breakable Narratives and Narrative Hooks
 A good Gloom expansion adds narrative hooks you can lean into during the setup. Unhappy Homes does this with shorthand story prompts that help players improvise a family sagas with a shared sense of pace. It’s not a strict storytelling game, but the additions invite you to riff and exaggerate. In practice, this means the table is more likely to be roaring with laughter (and lament) as you weave the performances needed to squeeze out every last drop of gloom from the cards.
 
+### Optional Residents and House Variants
+To keep things fresh, Unhappy Homes quietly encourages you to improvise with alternate resident cards—the sort that turn a routine tragedy into a character-driven mini-series. And because no one wants a one-trick pony, there are house-variant modes that let you mix in a cursed wing, a haunted attic, or a moody basement that insists on narrating your actions with sarcastic captions. It’s not mandatory, but it sure makes your table feel like a tiny television writer’s room where every room has its own star.
+
 ## Setup, Learnability, and Accessibility
-If you’ve ever dreaded an expansion because it looked like a rules avalanche, fear not. Unhappy Homes is designed to slot into the existing framework with a gentle learning curve. Setup takes a bit longer than the base game—there are more chips, more cards, and more little tokens to sort—but the payoff is worth it. The rule set is concise, and the manual provides quick reference tips that help you avoid the most common mistakes, such as forgetting about a house’s unique trigger or accidentally misplacing a gloom token in the wrong pile.
+If you’ve ever dreaded an expansion because it looked like a rules avalanche, fear not. Unhappy Homes slots into the framework with a gentle learning curve. Setup takes a bit longer than the base game—there are more chips, more cards, and more little tokens to sort—but the payoff is worth it. The rule set is concise, and the manual provides quick reference tips that help you avoid the most common mistakes, such as forgetting about a house’s unique trigger or accidentally misplacing a gloom token in the wrong pile.
 
 For casual gamers, the design team has done a commendable job of keeping the core idea intact: tell a story of misfortune with your friends, and then revel in the chaos as the plot twists escalate. There are optional “friendly” variants if you’re introducing new players who are easily overwhelmed by the gloom. These variants are optional for a reason: they remove a few of the harsher penalties and give newcomers a smoother entry path into the melancholic world of Gloom.
 
@@ -128,7 +132,7 @@ If your goal is high replay value, thematic richness, and a night that ends with
 - For players who crave quick, minimalist sessions, you may prefer to continue with the base game or pair this with a lighter variant.
 - For groups who love a theatrical experience with friends, Unhappy Homes delivers a robust stage for your dark, witty performances.
 
-If you want a final reminder of the mood and the madness, this expansion is a charming addition that respects the source material while giving you fresh ways to generate drama and laughs around the table. The next time you crave a night of melancholic hilarity, this is the product to reach for.
+If you want a final reminder of the mood and the madness, this expansion is a charming addition that respects the source material while giving you fresh ways to generate drama and laughs around the table. The next time you crave a night of melancholic hilarity, you’ve found a package worth opening.
 
 External links and further reading:
 - Official product page: https://atlas-games.com/gloom-unhappy-homes
@@ -138,5 +142,4 @@ External links and further reading:
 ## Final Note
 In the grand tradition of tabletop storytelling, Unhappy Homes proves that gloom can be a vehicle for joy when shared with friends who understand your love of melodramatic misfortune. If you’re ready to turn your living room into a dramatic stage where destiny, decor, and despair collide with a chorus of groans, you’ve found a package worth opening.
 
-**Want to take the plunge? Buy it through our affiliate link and support Geeknite as you chase the perfect tear-jerking punchline.** https://affiliate.geeknite.example.com/gloom-unhappy-homes?ref=geeknite
-
+**Ready to dive into Unhappy Homes? Buy it through our affiliate link and support Geeknite: https://affiliate.geeknite.example.com/gloom-unhappy-homes?ref=geeknite**
