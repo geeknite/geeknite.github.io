@@ -1,5 +1,5 @@
 ---
-ttitle: Unbound Smoke Gray Ribbed 6 ft x 8 ft Indoor Outdoor Area Rug Review
+title: 'Unbound Smoke Gray Ribbed 6 Ft x 8 Ft Indoor Outdoor Area Rug Review'
 date: 2026-03-19
 tags:
   - home
@@ -10,6 +10,7 @@ tags:
   - durability
   - maintenance
   - furniture
+  - geeknite
 ---
 
 ![Unbound Smoke Gray Ribbed Rug]({{ '/assets/images/rugs/unbound-smoke-gray-ribbed-6x8.jpg' | relative_url }})
