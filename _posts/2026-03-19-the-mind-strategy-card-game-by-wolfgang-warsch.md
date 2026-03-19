@@ -1,14 +1,14 @@
 ---
-title: "The Mind: Strategy Card Game by Wolfgang Warsch"
+title: "The Mind: Strategy Card Game by Wolfgang Warsch (Updated Review)"
 date: 2026-03-19
-tags: [games, board-games, card-games, reviews, geeknite]
+tags: [games, board-games, card-games, reviews, geeknite, cooperative-games, party-games]
 ---
 
-The Mind is a phenomenon you either love or regard as a clever party trick. Designed by Wolfgang Warsch—the man behind some of the decade’s slickest brain-benders—the Mind strips gaming down to a shared heartbeat. It’s a cooperative card game that asks you to trust your brain’s most primal signal: timing. It’s a game that pretends to be a telepathy exercise, and you’ll either drift into a meditative flow or collapse into laughter as someone’s card slips out of order and chaos erupts around the table.
+The Mind is a phenomenon you either love or regard as a clever party trick. Designed by Wolfgang Warsch—the maestro behind some of the decade’s slick brain-benders—the Mind strips gaming down to a shared heartbeat. It’s a cooperative card game that asks you to trust your brain’s most primal signal: timing. It pretends to be a telepathy exercise, and you’ll either drift into a meditative flow or crack up as someone’s card slips out of order and chaos erupts around the table.
 
 {% include image.html src='/assets/images/the-mind-cover.jpg' alt='The Mind cover' caption='The Mind' %}
 
-The Mind’s premise is deceptively simple: you and your friends sit around a table with a deck of numbered cards. The goal is to play all your cards in ascending order, but there’s a catch: you cannot talk about what you have in hand. The group must rely on subtle cues, shared anticipation, and a dash of luck to place the cards at the exact moments when the numbers align. The longer you play, the more you realize that the game is less about numbers and more about your table’s collective tempo.
+The Mind’s premise is deceptively simple: you and your friends sit around a table with a deck of numbered cards. The goal is to play all your cards in ascending order, but there is a catch: you cannot talk about what you have in hand. The group must rely on subtle cues, shared anticipation, and a dash of luck to place the cards at the exact moments when the numbers align. The longer you play, the more you realize that the game is less about numbers and more about your table’s collective tempo.
 
 The design is crisp, lean, and surprisingly philosophical for a game that fits in a small tin. The rules can be learned in a handful of minutes, and with a couple of rounds you’ll have the hang of it. It’s a social experience with a high-ish ceiling: some groups will drift in perfect rhythm for whole rounds; others will stumble, trip, and erupt in laughter as a key card slips out of the expected order.
 
@@ -60,7 +60,7 @@ The Mind Extreme expands the concept to larger groups and more intense rounds. F
 
 ## The Mind in Geeknite’s World
 
-In Geeknite’s reviews, The Mind shines as a rapid-fire social experience—a compact game-night warmer that can bridge heavier titles with light, communal energy. If you’re chasing a night that blends humor, human psychology, and a few moments of “did that just happen?” you’ll want this on the table. For a broader sense of how silent coordination can become a game mechanic, see our post on [Co-op Night: A Geeknite Guide]({% post_url 2025-03-22-cooperative-guide %}) and our feature on [The Crew: Mission Deep Sea]({% post_url 2024-10-14-the-crew-mission-deep-sea-review %}).
+In Geeknite’s reviews, The Mind shines as a rapid-fire social experience—a compact game-night warmer that can bridge heavier titles with light, communal energy. If you’re chasing a night that blends humor, human psychology, and a few moments of what just happened, you’ll want this on the table. For a broader sense of how silent coordination can become a game mechanic, see our post on Co-op Night: A Geeknite Guide {% post_url 2025-03-22-cooperative-guide %} and our feature on The Crew: Mission Deep Sea {% post_url 2024-10-14-the-crew-mission-deep-sea-review %}.
 
 External resource for reference:
 - Official page: https://www.pandasaurusgames.com/themind
@@ -71,7 +71,7 @@ Final verdict: The Mind is a lean, clever social experiment that delivers a surp
 
 External resources and related reads:
 - The Mind on Pandasaurus: https://www.pandasaurusgames.com/themind
-- For more co-op coverage, check our posts on [Co-op Night: Getting Started]({% post_url 2025-01-12-cooperative-night-getting-started %}) and [The Crew: Mission Deep Sea Review]({% post_url 2024-10-14-the-crew-mission-deep-sea-review %}).
+- For more co-op coverage, check our posts on Co-op Night: Getting Started {% post_url 2025-01-12-cooperative-night-getting-started %} and The Crew: Mission Deep Sea Review {% post_url 2024-10-14-the-crew-mission-deep-sea-review %}.
 
 Final call-to-action:
 
