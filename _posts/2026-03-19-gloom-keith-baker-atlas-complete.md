@@ -1,0 +1,54 @@
+---
+title: "Gloom: Keith Baker's Card Game Atlas Complete – A Geeknite Review"
+date: 2026-03-19
+tags: [board games, Gloom, Keith Baker, Atlas Games, card games, review]
+---
+
+## Introduction
+Gloom is a card game that wears a black velvet cloak and carries a dim flashlight. It invites you to tell tragic stories about illfated families while trying to keep your own characters from thriving. But the artfully designed gloom overlay cards and the quirky humor keep everyone laughing even as their characters drift into the eternal nap. Atlas Games published Gloom, and the Atlas Complete edition bundles a bunch of expansions and updates into a single box so you can feel like you own a museum of misfortune with fewer trips to the post office to mail the mail of doom. If you love table games that make you groan in sympathy for fictional misfortune, you are in for a treat. In this Geeknite review we will dive into what makes Gloom tick, what the Atlas Complete edition adds, and whether this is a game you want to add to your next game night.
+
+## Setup and first impressions
+Gloom uses a system of transparent plastic cards layered on top of one another. You can see the effect of gloom on a character by stacking gloom cards over the character card. The core mechanism is elegant in its simplicity: you want to bankrupt your own family while ensuring your opponents suffer nobody more than necessary. Ok that sounded harsh, but the humor is black enough to keep things light. The Atlas Complete edition typically includes more character and story cards, giving you more options for the tragic comedic performance you are about to stage.
+
+## What you actually do
+At the start you pick a few characters for your family and sit down a deck of story and gloom cards. Play proceeds in turns, each turn you play a card or two onto your own or an opponents character to add misfortune, then you draw a card and pass the turn. The key is to keep track of the gloom overlay to see how many points of misfortune your characters have accumulated. The game ends when one team reaches a target amount of gloom or when all players decide to end the show with a curtain call. In practice the game ends when one player has successfully inflicted more gloom on their rival families than their opponents have inflicted on them. The scoring is tricky but not impossible to track, and part of the fun is watching the board become an elaborate collage of relationships between characters and their unfortunate fates.
+
+### Components and design choices
+The bookish charm of Gloom rests on its cards and the black background behind the art. The cards are translucent, which means you can stack them to see how gloom accumulates across a family line. This is a clever mechanic because it visually communicates the narrative weight of misfortune without needing a hundred pages of rules. The Atlas Complete edition improves on the base set by including more cards and sometimes revised art, so the visuals pop a bit more and the replay feels fresher. The quality of the cards is adequate for a card game that probably ends up on the table after a few rounds of snack damage and sticky fingers. Setup is quick, which makes this a great filler for a night when you want to tell stories rather than fight with big rulebooks.
+
+### Theme and vibe
+If you are into oddball humor and moody storytelling, Gloom hits a sweet spot. The humor arises from the grotesque misfortunes and the ironically absurd names of the families. The storytelling element shines when players contribute their own narration to the fate of each character. The game remains accessible because there are not dozens of complicated interactions in each turn; you mostly manage cards, overlay gloom, and tell a short character flashback. With the Atlas Complete deck, you get a wider range of characters and synonyms for woe, which improves variety and ensures you will tell fresh tales rather than retell the same tragedies night after night.
+
+## Strategy and player interaction
+The core decision points are where you decide which character to target, how many gloom cards to add this turn, and how to balance your own misery against crippling misfortune to opponents. You will want to watch for opportunities to boost the gloom on your foes while keeping your own families out of the spotlight long enough to accumulate enough gloom to win. The folly of bad luck and the cunning of players interplay here, creating a dynamic table that can swing wildly in a single hand. The Atlas Complete deck adds more options for players to shape their stories, often by offering new relationship cards or new types of misfortune that require different strategies to deploy effectively.
+
+## The Atlas Complete edition in depth
+This edition is often marketed as a compilation of the core Gloom experience plus expansions and updates. The packaging is typically more robust than the original box, which is nice when you are lugging a dozen games across a weekend convention. The content variety helps prevent thematic fatigue and keeps the table excited about the next set of misfortunes. You will encounter more character cards with new illustrations, possibly new mechanics such as alternate win conditions, and a more thorough rulebook that explains how to incorporate expansions into a session. Some players enjoy the additional complexity; others may prefer sticking with the classic base game. The Atlas Complete edition is a good fit if your crew likes to mix and match and you want a single purchase that covers a lot more ground than the original set.
+
+### Artwork and table presence
+The art direction in Gloom leans into gothic whimsy. Characters are drawn with exaggerated features and a slightly velvet gloom that both amuses and unsettles. It's the kind of aesthetic that invites you to lean in, tell a witty line, and then watch as the tokens of misfortune do the rest. On the table, this look becomes a conversation starter: why does that character wear a bird shaped hat, and what tragedy plagues him? The inevitable storytelling that arises from the cards is the real draw for many players, not just the numbers on the gloom cards. The Atlas Complete edition amplifies this by offering more surreal or comedic backstories and a wider palette of gloom to weave into your tales.
+
+### Session length and player count
+Gloom tends to be a medium weight filler with a flexible player count. The base game plays nicely with 2 to 4 players, while the Atlas Complete editions often scale to 5 or 6, depending on how the developer assembled the decks. You can run a 45 to 90 minute session with a good sense of humor and a willingness to improvise. It shines as a social game where storytelling matters as much as card management, and the narrative flourishes when players lean into character voices and dramatic misfortune. If you are a group that enjoys roleplay lite experiences or storytelling games, Gloom will come across as a clever breath of thematic air that still respects the table rules and isn t become a chore to run.
+
+## Accessibility and learning curve
+One of the nicer things about Gloom is how fast a new player can join the table. The core idea is simple: accumulate gloom on your characters while depressing others. The rules are straightforward and the cards practically tell you how to play. The most challenging aspect is keeping track of the gloom stacks and remembering which cards affect which characters. Players often find themselves cracking a smile when a new player realizes how to stack gloom and reveal a particularly silly chain of misfortunes. The Atlas Complete edition helps by including clarifications and additional examples in the rulebook, which reduces the moment of confusion when the table is crowded and voices are loud.
+
+## Pros and cons
+- Pros: clever core mechanic that uses translucent cards to show progress visually; strong storytelling potential with room for playsmanship and narration; Atlas Complete adds variety, more characters, and extended play; quick to learn, quick to play, great for parties or family game nights
+- Cons: the humor can go to dark places; ensure your group is comfortable with the mood; some players may prefer heavier strategy games and may find the pacing a little light; the more you add expansions, the more you need to handle large decks and more book-keeping
+
+## Why you should consider it
+If you enjoy social deception, improv storytelling, and a dash of theatrical gloom, Gloom is your jam. The Atlas Complete edition makes a compelling upgrade if you want more characters and more ways to tell your tragic stories. You will get better at managing the board and appreciate how clean the mechanics stay despite the wildness of the theme. The game rewards players who listen to each other, riff on each other stories, and escalate misfortune in clever, humorous ways. It also doubles as a conversation starter: the stories you tell while stacking gloom often become the highlight of the night, not just the victory conditions.
+
+## Where to look for more and how to get it
+For the official word, you will want to check Atlas Games own site, where they keep updated product pages and downloadable PDFs of the most current rules. You can also browse BoardGameGeek for community opinions, play through videos, and fan made variants that keep the gloom alive long after the last card is placed. External links:
+
+- Atlas Games product page for Gloom: https://atlas-games.com/product/gloom
+- BoardGameGeek page for Gloom: https://boardgamegeek.com/boardgame/320/gloom
+- Geeknite review index: {% post_url 2025-11-10-gaming-essentials %}
+
+## Final verdict and recommendation
+The Atlas Complete edition is a fine choice for groups who want more material and more ways to tell their stories. It keeps the core idea intact while offering new voices and new misfortunes to befall the characters. If you are on a game night with friends who like a bit of theater, you will appreciate the balance between strategy and storytelling that Gloom provides. It isn t a game for those who want heavy tactical play or long rulebooks, but it is a spectacular option for social evenings and casual gatherings where humor and woe go hand in hand. It shines as a light, creative experience that doesn t pretend to be something it isn t. The ideal setup is simple: a table, a few players who enjoy storytelling, snacks, and a healthy tolerance for dark humor. If that sounds like your crew, you will likely be back for another round before the candles on the table burn out.
+
+**Order Gloom now via our affiliate link: [affiliate link](https://affiliate.geeknite.com/gloom)**
