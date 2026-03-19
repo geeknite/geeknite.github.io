@@ -1,4 +1,13 @@
-{"post_name": "2026-03-19-dixit-daydreams-expansion-review.md", "new_content": "---\ntitle: Dixit Daydreams Expansion — Expanded Review and Playful Deep Dive\ndate: 2026-03-19\ntags:\n  - board-games\n  - dixit\n  - expansions\n  - geeknite\n  - reviews\n---
+---
+title: Dixit Daydreams Expansion — Expanded Review and Playful Deep Dive
+date: 2026-03-19
+tags:
+  - board-games
+  - dixit
+  - expansions
+  - geeknite
+  - reviews
+---
 
 ## Introduction: a dream you can table-talk about
 
@@ -114,6 +123,8 @@ Here is a broader gallery to give you a sense of the vibe Daydreams brings (imag
 - ![Dreamscape lighthouse](assets/images/dixit-daydreams-lighthouse.jpg)
 - ![Floating carnival](assets/images/dixit-daydreams-carnival.jpg)
 - ![Winged library](assets/images/dixit-daydreams-winged-library.jpg)
+- ![Floating islands](assets/images/dixit-daydreams-floating-island.jpg)
+- ![Whispering statues](assets/images/dixit-daydreams-statues.jpg)
 
 If you want a bigger look, check the official page for the expansion to see the art direction and sample cards: https://www.dixitboardgame.com. It might inspire you to insist on a dream theme for your next game night before your brain refuses to wake up.
 
@@ -164,4 +175,6 @@ For a closer look at the vibe and a few more eye-catching cards, swing by the of
 
 If you enjoyed this review, drop by Geeknite again for more nerdy recs, goofy takes, and genuine enthusiasm for games that make your brain giggle. We celebrate imagination here, not perfection, and Daydreams is very much in that spirit.
 
-**Affiliate note**: This post may contain affiliate links that help support Geeknite at no extra cost to you. Your purchases help keep the lights on and the memes bright.}
+Affiliate note: This post may contain affiliate links that help support Geeknite at no extra cost to you. Your purchases help keep the lights on and the memes bright.
+
+**Buy Dixit Daydreams Expansion on Amazon**: https://www.amazon.com/dp/B08EXAMPLE?tag=geeknite-20
