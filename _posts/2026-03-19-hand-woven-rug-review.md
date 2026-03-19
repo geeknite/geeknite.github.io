@@ -51,6 +51,8 @@ Caring for a hand-woven rug is not a chore; it is a ritual that preserves a livi
 - Sun protection: avoid prolonged sun exposure to maintain brightness. If direct sun is unavoidable, rotate the rug occasionally or use window treatments to reduce UV exposure.
 - Fringes and edges: check regularly and have any fraying edges repaired by a pro or the weaver if possible.
 
+There is a science to stain resistance too. Natural dyes update their mood with age in ways that modern synthetic dyes rarely replicate. That means a light sunlit corner might develop a sun-kissed aura, while a red wool piece might deepen into a wine-bottle tone over years. If you are a time-traveler who loves the patina of age, you are about to fall in love all over again.
+
 ### The Shopping Odyssey: Where to Buy Hand-Woven Rugs and How to Judge Quality
 Your shopping journey matters as much as the rug itself. Local markets and cooperative studios offer face-to-face experiences with craft people who can tell you about materials, dye sources, and the story behind the rug. Online, you’ll find a broader array of styles and sizes, but you will want to verify fiber content, dye stability, loom type, and fit for your space.
 
@@ -91,6 +93,9 @@ Bottom line: If you want floor art with a story, warmth, and the potential to ou
 
 ### Final Recommendation: Which Hand-Woven Rug Should You Choose?
 For a strong living room anchor, choose a hand-knotted wool rug with moderate knot density, in a pattern that echoes your space's architectural lines. For a hallway or entryway, a kilim runner with bold geometry can guide foot traffic and tie together color themes with minimal maintenance. For a budget-friendly entry, consider a smaller flat-weave or a preloved piece from a trusted merchant that still shows craftsmanship and care. When in doubt, talk to the weaver or the shop staff about fibers, dye sources, and finishing to ensure you're buying something that will bring joy and practicality for decades to come.
+
+### The Ethics of Color: Sustainable Choices for a Bright Floor
+One more layer worth folding in: sustainability. The rug you bring home isn’t just a piece of floor decoration; it’s a ventricle in a supply chain that can affect people and ecosystems. When you buy from artisan groups with transparent labor practices, you’re supporting a living tradition that keeps communities fed and the loom humming._Knowledge_ of fiber origins, dye processes, and fair prices matters. If you want to read more about fiber ethics, you can start with reputable sources like Woolmark's fiber guide (external link). And if you want a nerdy briefing on dye stability and environmental impact, a quick skim of natural dye science blogs can be surprisingly satisfying.
 
 ### Final Call to Action
 If you are ready to start your hand-woven journey today, our top picks are available through our affiliate partners. The rug you see here has earned its spot in the Geeknite collection for its design, durability, and the story it carries. Tap the affiliate link below to begin your purchase with confidence, safety, and a little geek-worship for good measure.
