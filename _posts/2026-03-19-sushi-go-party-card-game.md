@@ -12,7 +12,7 @@ layout: post
 
 ![Sushi Go! Party components]({{ site.baseurl }}/assets/img/sushi-go-party.jpg)
 
-Welcome back to Geeknite, where tiny cards are loud enough to disrupt a quiet dinner and make you defend your tuna like a tiny, giggling warlord. Today we reopen the Bento Box of destiny, and this time the chef has swapped the timer for a DJ booth and a menu that changes more often than our sleep schedule. Sushi Go! Party is not merely a sequel; it’s a refined party-draft experience that preserves the core bite-sized thrill of the original while turning scoring into a rotating buffet of goals. If you thought your group could not possibly want to chase points for minute sushi while arguing about tuna versus tamago for the next hour, strap in. This game invites chaos to be friendly, and you’ll thank it for the social charge it provides.
+Welcome back to Geeknite, where tiny cards cause big laughter and tiny tuna becomes the most dramatic plot twist at your table. Today we reopen the Bento Box of destiny, and this time the chef has swapped the timer for a DJ booth and a menu that changes more often than our sleep schedule. Sushi Go! Party is not merely a sequel; it’s a refined party-draft experience that preserves the core bite-sized thrill of the original while turning scoring into a rotating buffet of goals. If you thought your group could not possibly want to chase points for minute sushi while arguing about tuna versus tamago for the next hour, strap in. This game invites chaos to be friendly, and you’ll thank it for the social charge it provides.
 
 Sushi Go! Party is a standalone evolution of the beloved Sushi Go! series from Gamewright. It preserves the core drafting-and-set-collection vibe, but introduces a rotating menu that changes scoring each round. You start with a hand of cards, pick one, pass the rest to the next player, and repeat until all cards are drafted. At the end of a round you score using the current menu, and—dramatic pause—a new round begins with a fresh menu. It’s a high-speed culinary scavenger hunt where your dinner plans and your friends’ choices collide in a cascade of cute sushi and occasionally questionable decision-making.
 
@@ -22,7 +22,7 @@ The original text had similar tone; we’re expanding with more commentary, expe
 
 ## Unboxing the Bento Box: components and quality
 
-In the world of micro-card miracles, the packaging matters as much as the cards themselves. Sushi Go! Party leans into cute in a way that makes your heart briefly forget about adult responsibilities and the existential dread of leaving a clean plate for delivery. The cards are sturdy, with bright, cartoonish sushi characters that seem to whisper, "Take me to the table and argue about me later." The art is playful, approachable, and a little cheeky—the kind that says, we know you’re going to discuss whether the wasabi is a hero or a hazard by the end of the second round.
+In the world of micro-card miracles, the packaging matters as much as the cards themselves. Sushi Go! Party leans into cute in a way that makes your heart briefly forget about adult responsibilities and the existential dread of leaving a clean plate for delivery. The cards are sturdy, with bright, cartoonish sushi characters that seem to whisper, 'Take me to the table and argue about me later.' The art is playful, approachable, and a little cheeky—the kind that says, we know you’re going to discuss whether the wasabi is a hero or a hazard by the end of the second round.
 
 - Cards: A compact deck size that slides into a small bag without fear of spontaneous card combustion in your pocket.
 - Menus: The grown-up twist. Each round gets a menu card that defines the scoring vibe. Some menus reward variety, others reward repetition, and a few push you toward penalizing low variety or chasing a rare card that makes everyone groan with envy.
@@ -38,7 +38,7 @@ Sushi Go! Party is designed to be fast, delicious chaos in a friendly-society wa
 ### Setup
 - Shuffle the deck and deal each player a hand of cards according to player count.
 - Place the first round’s menu in the center. The menu defines how the points will be earned this round.
-- Each player keeps a personal score track (or uses a notepad if you want to play the “we forgot the score app” game).
+- Each player keeps a personal score track (or uses a notepad if you want to play the 'we forgot the score app' game).
 
 ### Draft Phase
 Each round plays out like this:
@@ -63,7 +63,7 @@ The balance is inviting. New players latch onto the drafting idea quickly, while
 
 ## Menu cards and scoring variability: the real spice
 
-The rotating menu is the lifeblood of Sushi Go! Party. Each round introduces new scoring aims, which means you aren’t just chasing “the most points,” you’re chasing “the right kind of points” for the current round. The menus can emphasize variety, speed, or precision; sometimes a no-duplicates rule nudges players toward diversification, while other rounds reward chasing particular combos. This dynamic approach ensures that no two plays feel identical, even if you play three times in a row.
+The rotating menu is the lifeblood of Sushi Go! Party. Each round introduces new scoring aims, which means you aren’t just chasing 'the most points,' you’re chasing 'the right kind of points' for the current round. The menus can emphasize variety, speed, or precision; sometimes a no-duplicates rule nudges players toward diversification, while other rounds reward chasing particular combos. This dynamic approach ensures that no two plays feel identical, even if you play three times in a row.
 
 Here’s how this design pays off in practice:
 - It rewards adaptability. You will often have to pivot mid-round as the menu reveals itself.
