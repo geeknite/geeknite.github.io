@@ -1,7 +1,7 @@
 ---
 title: Handwoven Wool Kilim Dhurrie Rug - Color Multicolor Design Custom Carpet Rug
 date: 2026-03-19
-tags: [home decor, rugs, kilim, dhurrie, handmade, wool, textiles, interior-design, customization]
+tags: [home decor, rugs, kilim, dhurrie, handmade, wool, textiles, interior-design, customization, sustainable, fair-trade]
 ---
 
 ![Kilim Dhurrie Rug in Multicolor](assets/images/kilim-dhurrie-hero.jpg)
@@ -116,6 +116,8 @@ As designers lean into eco-friendlier options, kilim dhurries have found renewed
 
 ![](/assets/images/kilim-dhurrie-closeup1.jpg)
 ![](/assets/images/kilim-dhurrie-closeup2.jpg)
+![](/assets/images/kilim-dhurrie-closeup3.jpg)
+![](/assets/images/kilim-dhurrie-wide shot.jpg)
 
 ### FAQ
 
@@ -124,6 +126,8 @@ As designers lean into eco-friendlier options, kilim dhurries have found renewed
 - How do I measure for a rug runner? Measure the length you want to cover from door to seating area; account for 6–12 inches of clearance beyond furniture and the rug should be centered under key furniture pieces.
 - Can I machine wash? No, machine washing can distort the weave. Professional cleaning or careful hand washing with mild soap is preferred.
 - How do I clean fringes? Gently comb or shake out dirt; avoid pulling on loose fringes and consult a professional if unsure.
+- Are kilim dhurries suitable for high-traffic areas? Yes, but consider denser weaves and backing options for heavy-use zones and place under protective pads in doorways.
+- Do kilim colors run? Properly dyed kilims resist color bleed, but you should still test for colorfastness on an inconspicuous area before heavy cleaning.
 
 ### Image credits and references
 
