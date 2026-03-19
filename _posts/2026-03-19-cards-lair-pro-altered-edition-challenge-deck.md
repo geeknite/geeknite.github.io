@@ -13,7 +13,7 @@ tags:
 
 ![]({{ site.baseurl }}/assets/images/cards-lair-pro-altered-edition.jpg)
 
-If you thought deck-building was all about assembling the perfect engine and then accidently letting it eat your homework, welcome to Cards' Lair PRO Altered Edition Challenge Deck. This is not merely a re-skin or a glossy upgrade; it is a full-on personality transplant for your deckbuilding brain. The PRO Altered Edition doesn’t just ask you to be smart with your cards; it dares you to be surprisingly dumb with them in clever ways. Think of it as a chaotic tutor that occasionally shoes you out of the classroom to go learn a life lesson on a skateboard.
+If you thought deck-building was all about assembling the perfect engine and then accidentally letting it eat your homework, welcome to Cards' Lair PRO Altered Edition Challenge Deck. This is not merely a re-skin or a glossy upgrade; it is a full-on personality transplant for your deckbuilding brain. The PRO Altered Edition doesn’t just ask you to be smart with your cards; it dares you to be surprisingly dumb with them in clever ways. Think of it as a chaotic tutor that occasionally shoes you out of the classroom to go learn a life lesson on a skateboard.
 
 For long-time geeknite readers, this is a familiar vibe: a crisp core loop reinvented with a twist, a theme that nods to classic fantasy dungeon crawls and a design that dares you to fail gracefully and retry with swagger. For newcomers, here’s the elevator pitch: you assemble a deck from a pool of action cards, you attempt to complete objective hazards, and you do so under a rotating set of rule alterations that can make the simplest grant of mana feel like defusing a bomb while reading a recipe. It’s fast, it’s sharp, and it occasionally trips you over your own heroism.
 
@@ -132,6 +132,10 @@ If you want a deeper dive on general deck-building tactics that translate well h
 The Upgrade is not merely cosmetic. The card stock is sturdy, with good edge wear resistance. The new artwork pops on the table and makes the Alterations feel like tangible tools rather than abstract rules. The rhythm of the cards in your hand—how they read, how they stack—makes the mental model easier to manage once you’ve played a round or two.
 
 The rule reference cards are glossy enough to be legible, without glare that makes you squint during a crucial moment. The tokens are pleasantly tactile; there’s nothing more enraging than fumbling a crucial clump of counters when a spicy Alteration has you sweating through a tense moment.
+
+### Accessibility and learning curve, revisited
+
+The Altered Edition rewards curiosity. The core loop remains intuitive for people who’ve played deck-builders before, but the Alterations layer invites a slightly steeper slope. If you’re teaching new players, lead with a gentle round and gradually introduce sequential Alterations. That way you don’t unleash the Kraken of rule checks on a fresh mind.
 
 ## Pros and Cons (TL;DR)
 
