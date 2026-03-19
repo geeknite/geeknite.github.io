@@ -1,5 +1,5 @@
 ---
-title: All Out Dice - Zombicide 2da Edición: Reseña que muerde pero te hace reír
+title: All Out Dice para Zombicide 2da Edición: Reseña mordiente y con risas
 date: 2026-03-19
 tags:
   - board games
@@ -14,11 +14,11 @@ tags:
 
 ![All Out Dice](/assets/images/all-out-dice.jpg)
 
-## All Out Dice y Zombicide 2da Edición: una unión que promete velocidad y destrucción de cerebros
-Cuando has visto demasiadas esquinas de la mesa llenas de dados que parecen haber sobrevivido a un apocalipsis de marketing, aparece All Out Dice para Zombicide 2da Edición para recordarte que un dado bien diseñado puede ser tan hipnótico como una bala de chicle. Este set no solo promete acelerar las tiradas, sino convertir cada encuentro con los caminantes en una mini actuación con luces, sombras y, a veces, un bostezo de alivio cuando no te cae un símbolo que te hace volver a la casilla anterior. En Geeknite, nos encanta cuando una herramienta de juego no solo funciona, sino que añade una dosis de teatralidad que te hace gritar tus propias líneas de batalla entre mordiscos de palomitas y risas nerviosas. Vamos a desglosarlo, con humor y detalle, para ayudarte a decidir si vale la pena convertir tu mesa en un escenario de acción de efectos prácticos (plásticos, claro).
+## All Out Dice y Zombicide 2da Edición: ¿una unión eléctrica o un ruido de sobremesa?
+Cuando llevas horas lidiando con dados que parecen haber sobrevivido a un apocalipsis de marketing, All Out Dice aparece para recordarte que un dado bien diseñado puede ser tan adictivo como una campaña de refuerzos en la ciudad. Este set para Zombicide 2da Edición no solo promete acelerar las tiradas, sino convertir cada encuentro con los caminantes en una microobra de teatro con efectos prácticos (plásticos y cero presupuesto de efectos especiales). En Geeknite nos encanta cuando una herramienta de juego no solo funciona, sino que añade una pizca de teatralidad que te hace soltar líneas de batalla entre trozos de palomitas y risas nerviosas. Vamos a desglosarlo, con humor y detalle, para ayudarte a decidir si vale la pena convertir tu mesa en un escenario de acción de efectos prácticos (plásticos, claro).
 
 ## Un repaso extendido: ¿qué es All Out Dice?
-All Out Dice es un conjunto de dados especialmente diseñado para la segunda edición de Zombicide. Su objetivo explícito es representar de forma más clara y rápida las acciones de combate y otras tareas clave durante la partida, reduciendo la necesidad de consultar tablas o depender demasiado de marcadores. En teoría, cada dado trae símbolos únicos que indican resultados como éxito, crítico, daño adicional o efectos secundarios (ruido que llama a más zombis, a veces en la forma de un tambor imaginario que resuena cada vez que cae un 5). En la práctica, la experiencia se vuelve más fluida en mesa: menos contadores, menos interrupciones, y sí, más risas cuando el dado te sonríe… o te traiciona con ese cero que parece un ojo ausente en una momia de fiesta.
+All Out Dice es un conjunto de dados especialmente diseñado para la segunda edición de Zombicide. Su objetivo explícito es representar de forma más clara y rápida las acciones de combate y otras tareas clave durante la partida, reduciendo la necesidad de consultar tablas o depender demasiado de marcadores. En teoría, cada dado trae símbolos únicos que indican resultados como éxito, crítico, daño adicional o efectos secundarios (ruido que llama a más zombis, a veces en forma de tambor imaginario). En la práctica, la experiencia se vuelve más fluida en mesa: menos contadores, menos interrupciones, y sí, más risas cuando el dado te sonríe… o te traiciona con ese cero que parece un ojo ausente en una momia de fiesta.
 
 {% image /assets/images/all-out-dice-closeup.jpg alt='Detalle de los dados All Out Dice' %}
 
@@ -71,7 +71,7 @@ Consejos prácticos:
 Una de las grandes virtudes de All Out Dice es que añade un sabor narrativo sin romper la inmersión. El momento en el que cae un dado con un símbolo de ataque crítico y tu grupo se coordina para una cadena de acciones —una lluvia de decisiones rápidas que recuerda a escenas de películas de acción— es justamente el tipo de recuerdo que compartes en la mesa. Claro, también puede ocurrir que el dado te regale un fallo épico en el momento menos oportuno; en ese caso, el grupo ríe, el director de juego improvisa una solución rápida y la historia continúa. Es el tipo de experiencia social que transforma una tarde de juego en una memoria que repetirás con una sonrisa cada vez que alguien mencione ‘el zombie con sombrero’.
 
 ## Comparativa detallada con otras opciones de dados de Zombicide
-- Dados estándar de la caja base: son útiles, pero pueden sentirse lentos cuando el grupo está en modo turbo. All Out Dice aporta claridad y ritmo, sin perder la esencia de la resolución de acciones.
+- Dados estándar de la caja base: útiles, pero pueden sentirse lentos cuando el grupo está en modo turbo. All Out Dice aporta claridad y ritmo, sin perder la esencia de la resolución de acciones.
 - Sets de dados genéricos: económicos, pero carecen de la claridad temática y de los iconos específicos para Zombicide; es fácil confundir símbolos y perder tiempo durante la partida.
 - Otros productos de dados temáticos: algunos ofrecen surtidos atractivos, pero no siempre están optimizados para la segunda edición ni para las misiones específicas de esta versión del juego.
 
