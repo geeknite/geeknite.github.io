@@ -1,5 +1,5 @@
 ---
-title: City of Mist: Player's Guide
+title: City of Mist: Player's Guide (Updated Edition)
 date: 2026-03-19
 tags:
   - RPG
@@ -7,7 +7,19 @@ tags:
   - guide
   - player-guide
   - tabletop
+  - noir
+  - storytelling
+  - tips
 ---
+
+![City of Mist artwork]({{ '/assets/images/city_of_mist_art.jpg' | relative_url }})
+
+For quick access to related Geeknite posts, you can wander through our labyrinth of posts about mysteries, heroes, and how not to run a game that turns into a soap opera with a trench coat. Check out:
+- The City of Mist: Overview on our site: [City of Mist: Overview]({% post_url 2025-12-01-city-of-mist-overview %})
+- Narrative-driven play tips: [City of Mist: Storycraft for Players]({% post_url 2025-09-14-city-of-mist-storycraft %})
+- GM tips for City of Mist campaigns: [GM Guide to City of Mist]({% post_url 2025-07-22-city-of-mist-gm-guide %})
+
+If you want a compact, external primer first, you can also browse the official site: [City of Mist Official](https://cityofmist.com).
 
 ## Introduction: Welcome to a City of Myths, Fog, and Fedoras
 City of Mist is not your grandma's noir—unless your grandma ran with a literal pantheon of myths and decided to wear a fedora that shoots rainbows when she gets excited. This is a game where you play everyday people who discover they’re more than they appear: detectives, ex-supervillains, artists, conspirators, librarians, and dreamers who carry a mythic spark inside their ordinary lives. The city is drenched in fog, neon, and secrets, and you, dear player, get to decide which myth you’re wearing on your sleeve this week.
@@ -53,11 +65,11 @@ Mythos is the mythic energy you pull from the world to do extraordinary things. 
 Logos is the mundane you—the job, relationships, debts, and responsibilities that anchor you to reality. This is the contrast that makes your mythic moments land harder. Your Logos gives you motives that the City can leverage against you. For example, you might be a librarian who owes a debt to a villain, or a nurse who’s hiding a medical secret from your patients. The interplay between Logos and Mythos is where the drama happens: the City can threaten your day job, while you still chase down a supernatural clue.
 
 ### A Quick Build Roadmap
-- Start with a single, clear Hook: What single line would the City whisper to pull you into a mystery? (E.g., “The Mist has named you the next Keeper.”)
+- Start with a single, clear Hook: What single line would the City whisper to pull you into a mystery? (E.g., The Mist has named you the next Keeper.)
 - Pick a Mask that sounds fun to role-play for a session or two.
 - Choose a Mythos that logically elevates your Mask into something extraordinary. Don’t overcomplicate it—the best powers feel magical and a little bit dangerous.
 - Define a few Logos hooks: a personal relationship, a debt, a responsibility, or a dream you’re chasing.
-- Flesh out 2–3 “Minor” details you can drop into scenes: a signature item, a fear, a calling phrase, or a quirk.
+- Flesh out 2–3 Minor details you can drop into scenes: a signature item, a fear, a calling phrase, or a quirk.
 
 If you want a structured template, see City of Mist fan resources or our own play-ready templates in the posts linked above (use post_url to navigate to related posts).
 
@@ -72,7 +84,7 @@ This combination yields immediate role-play gold: a public identity that’s cal
 City of Mist uses a flexible, cinematic resolution system designed to reward storytelling over crunchy minutae. At its core:
 - You roll a pool of dice (usually d6s) determined by your Mask, Mythos, and Logos when attempting actions tied to those aspects.
 - A successful roll means you do the thing you intended. A partial success means a twist of fate or a complication that spins the scene in a new direction. A failure opens up a new set of problems—often even more interesting than the original plan.
-- Tags are descriptors you can “burn” or spend to modify your dice pool or to justify extra narrative outcomes. They are the brass knuckles of your story: bold, adaptable, and sometimes a little dangerous to rely on.
+- Tags are descriptors you can burn or spend to modify your dice pool or to justify extra narrative outcomes. They are the brass knuckles of your story: bold, adaptable, and sometimes a little dangerous to rely on.
 - Narration is fluid: both players and the GM contribute to the scene. The rule of cool matters; the rule of character matters more.
 
 If you’re a player, you’ll want to practice summarizing your action in a single sentence, then asking for a consequence that feels emotionally true—this keeps the session moving and ensures your choices have clear payoffs.
@@ -87,7 +99,7 @@ External note: For deeper dives into the exact rolling mechanics and sample move
 - Embrace the noir vibe, but don’t overdo it. The city’s fog can be a mood, not a monologue. Let dialogue, not exposition, do the heavy lifting.
 
 ### Narrative Tools For Players
-- The Room Tone: A short phrase a character uses to set the mood (e.g., “The city never sleeps, and neither do I.”).
+- The Room Tone: A short phrase a character uses to set the mood (for example, a line like The city never sleeps, and neither do I).
 - The Red Thread: A personal clue that never seems to resolve—until it does, in a way that makes sense but isn’t tidy.
 - The Ethical Dilemma: A choice where every option has a price. Your best decision is the one that reveals character, not the one that’s the simplest win.
 
@@ -105,17 +117,23 @@ During play, you’ll want to keep a few quick prompts handy:
 
 If you’re ever stuck, lean on your fellow players. City of Mist is a collaborative story engine—two heads are often better than one when crafting a scene that feels unforgettable.
 
+## Narrative Expansion: Deeper Scenes That Sing
+City of Mist shines when players chase down a memory, a rumor, a half-forgotten plea whispered by the streetlight. Here are a few expansion ideas you can weave into sessions to turn a routine mystery into a mythic epic with noir chic:
+- The Memory Map: A location tied to a forgotten event becomes a living map as they interact with artifacts connected to Mythos. Each artifact reveals a chapter of a city-wide tragedy and gives your party a choice that alters the balance of power in the city.
+- The Masked Choir: A group of individuals who share similar Masks but have different Mythos. They can become allies or antagonists, depending on how your crew negotiates the rules of the fog.
+- Echoes of a Price Paid: Every major reveal costs your character something small but meaningful. A signature item goes missing, a voice remembers a lie, a trusted contact grows distant. The price keeps the tension honest.
+
 ## Example Session Beats: A Tiny Scenario to Try in Your Mind
-The setting: a rain-slick waterfront district, neon flickering like a malfunctioning heart monitor. Your Mask is The Night Librarian, a detective who solves crimes by reading the city’s unwritten stories. Your Mythos whispers you can hear the city’s memories, especially about events that never happened or should have happened. Your Logos shows up as a part-time courier who’s late delivering a package that’s not supposed to exist.
+The setting: a rain-slick waterfront district, neon flickering like a malfunctioning heart monitor. Your Mask is The Night Librarian, a detective who solves crimes by reading the city’s unwritten stories. Your Mythos whispers you can hear the city memory, especially about events that never happened or should have happened. Your Logos shows up as a part-time courier who’s late delivering a package that’s not supposed to exist.
 - Beat 1: While closing a late shift at the library, the Night Librarian discovers a book that shouldn’t exist—the kind of book that smells like rain and secrets. The book glows faintly at midnight and hums when they touch it.
 - Beat 2: A contact at the docks reports a mysterious shipment arriving in the night, wrapped in chains of LED light, none of which should have anything to do with a private-eye bibliophile.
-- Beat 3: The mythic energy in the book awakens the city’s memory of a long-forgotten crime. The Night Librarian realizes that the book is not a clue; it is a map to a memory the city wants to keep hidden from everyone, including the librarian themselves.
-- Beat 4: The duo (you and a player ally) must decide whether to reveal the memory’s truth to the public or bury it to protect someone you care about. Either choice reshapes the city’s nemesis—an organization that thrives on secrets.
+- Beat 3: The mythic energy in the book awakens the city memory of a long-forgotten crime. The Night Librarian realizes that the book is not a clue; it is a map to a memory the city wants to keep hidden from everyone, including the librarian themselves.
+- Beat 4: The duo must decide whether to reveal the memory’s truth to the public or bury it to protect someone they care about. Either choice reshapes the city’s nemesis—an organization that thrives on secrets.
 
-This mini-arc demonstrates how personal stakes mingle with city-scale elements. It’s compact, it’s moody, and it’s very much City of Mist: a story that grows darker, and more human, as you peel back each layer of fog.
+This mini-arc demonstrates how personal stakes mingle with city-scale elements. It’s compact, moody, and very much City of Mist: a story that grows darker, and more human, as you peel back each layer of fog.
 
 ## World-Building with Your Group: The City Helpers and Adversaries
-A City of Mist table often benefits from a couple of recurring factions and a handful of memorable NPCs.
+A City of Mist table often benefits from a couple of recurring factions and a handful of memorable NPCs. You can spin these out as ongoing threats or occasional allies:
 - The City’s Keeper: An enigmatic figure who appears in the background to nudge the party toward the truth—sometimes literally, sometimes by misdirection.
 - The Syndicate of Fog: A network that profits from keeping secrets and corrupting those who pry too deeply.
 - The Archivist: A character who guards a library not of books but of memories; their goal is to prevent the city from being forced to reveal its deepest regrets.
