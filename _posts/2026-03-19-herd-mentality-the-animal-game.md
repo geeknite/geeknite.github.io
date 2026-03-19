@@ -1,5 +1,5 @@
 ---
-title: 'Herd Mentality: The Animal Game — A Geeknite Review'
+title: 'Herd Mentality: The Animal Game — A Geeknite Review (Expanded)'
 date: 2026-03-19
 tags:
   - board games
@@ -10,10 +10,11 @@ tags:
   - social-dynamics
   - family-friendly
   - streaming
+  - game-design
 ---
 
 ## Introduction
-If you have ever tried to herd a group of friends through a party game without spiraling into chaotic hilarity, you have not yet met Herd Mentality: The Animal Game. This edition is the wild safari of social guessing: the zebras wear socks, the lions order decaf lattes, and the meerkats stand up for rooftop-level punchlines. The Animal Game edition spices up the classic Herd Mentality concept with animal-themed prompts, goofy voting rounds, and enough silly chaos to turn a fairly quiet night in into a field guide to ridiculous behavior.
+If you have ever tried to herd a group of friends through a party game without spiraling into chaotic hilarity, you have not yet met Herd Mentality: The Animal Game. This edition is the wild safari of social guessing: the zebras wear socks, the lions order decaf lattes, and the meerkats stand up for rooftop-level punchlines. The Animal Game edition spices up the classic Herd Mentality concept with animal themed prompts, goofy voting rounds, and enough silly chaos to turn a fairly quiet night in into a field guide to ridiculous behavior.
 
 In Geeknite style, we approach this beast with equal parts reverence and giggles, because a game about herd mentality should make you question your social instincts while also laughing at them. This expanded review dives deeper into what the Animal Game edition adds to the already zany Herd Mentality core, how it plays in different group sizes, and whether the novelty of animal prompts outlasts the wobble of a few particularly competitive players. Spoiler alert: there is a lot of mooing and quite a bit of howling. The real question is whether the concept stays clever once the animal puns start piling up like a stack of overdue memes.
 
@@ -41,6 +42,8 @@ We all know the glossy surface experience matters as much as the jokes. The Anim
 
 From a design perspective, the animal motif gives the game a distinct hook that helps it stand out in a crowded party game aisle. You walk away with more than a game you forgot you owned; you have a little zoo in your brain that roars softly whenever someone says the word meerkat in a formal setting.
 
+![Animal prompts illustration](assets/images/animal-prompts-illustration.jpg)
+
 ## Components and Production Quality
 The Animal Game edition comes with a neat little package that hides the chaos inside with a surprisingly sturdy build. Typical Herd Mentality sets include a deck of prompts, voting tokens, a score pad, and a few reference cards. The Animal Game twist introduces animal illustrated prompts that are bright, bold, and intentionally a little ridiculous. Expect playful art featuring penguins doing stand-up, sloths in business socks, and a meerkat choir you didn’t know you needed until now.
 
@@ -62,8 +65,8 @@ If you have played Herd Mentality before, you know that the core loop is about p
 
 The rules are light and forgiving, which is intentionally important for party games. You want to keep momentum high and avoid turning the evening into a tense strategic duel. The Animal Game achieves this by leaning into social awkwardness, playful speculation, and a little bit of friendly ribbing among friends.
 
-### A quick example playthrough
-Imagine a prompt: What animal is most likely to send a group chat at 2 am to announce a spontaneous talent show? The herd ponders. A witty penguin might deliver a perfectly chilly performance, while a jittery ferret could start a debate about the lighting in the cave and the audience’s attention span. The actual majority might be a loud parrot who loves a chorus of dramatic reactions. You’ll see jokes in a dozen directions and a thousand micro-agreements and disagreements about what counts as a sensible late-night artistic impulse. That’s the heartbeat of the game: social prediction meets rampant whimsy.
+### A quick extended example playthrough
+Imagine a prompt: What animal is most likely to send a group chat at 2 am to announce a spontaneous talent show? The herd ponders. A witty penguin might deliver a perfectly chilly performance, while a jittery ferret could start a debate about the lighting in the cave and the audience’s attention span. The actual majority might be a loud parrot who loves a chorus of dramatic reactions. You’ll see jokes in a dozen directions and a thousand micro-agreements and disagreements about what counts as a sensible late-night artistic impulse. That’s the heartbeat of the game: social prediction meets rampant whimsy. If you want to extend the playthrough, toss in a few wild cards like time pressure or role play prompts, and watch the room split into cheeky factions that argue for their chosen animal as if it were a parliamentary debate in a rainforest.
 
 ## The Animal Twist: Why It Works
 The animal themed edition is not just a reprint with cute artwork. It reframes the core mechanic in a way that leverages shared cultural knowledge about animals and their imagined behaviors. The following factors contribute to its appeal:
