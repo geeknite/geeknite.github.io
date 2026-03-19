@@ -1,5 +1,5 @@
 ---
-title: "Bananagrams Crossword: Family Fun with Wordplay Tiles in the Banana Bag"
+title: Bananagrams Crossword: Family Fun with Wordplay Tiles in the Banana Bag
 date: 2026-03-19
 tags:
   - games
@@ -12,7 +12,7 @@ tags:
 
 ## Bananagrams Crossword: Family Fun with Wordplay Tiles in the Banana Bag
 
-If you’ve ever been curious about a game that can turn a quiet family night into a rapid-fire word war, this one’s for you. Bananagrams has long been a staple in the Geeknite arsenal, a portable, tile-based challenge that blends fast thinking with a little bit of chaos. The Banana Bag is more than a gimmick—it's a symbol that you’re about to embark on a game-night adventure where vowels and consonants collide in glorious, glorious fashion. And when you add the “Crossword” vibe into the mix, you get a version of the game that rewards both vocabulary mastery and spatial reasoning. Yes, it’s possible to be both a word nerd and a spatial architect at the same time, and Bananagrams Crossword invites you to do exactly that, banana-fana style.
+If you’ve ever wondered how to turn a quiet family night into a rapid-fire word war without requiring a dictionary abacus, you’ve landed in the right banana bunch. Bananagrams has long been a staple in the Geeknite arsenal, a portable, tile-based challenge that blends fast thinking with a splash of chaos. The Banana Bag is more than a gimmick—it's the portal to a game-night adventure where vowels and consonants collide in glorious, ridiculous fashion. And when you add the “Crossword” vibe into the mix, you get a version that rewards both vocabulary mastery and spatial reasoning. Yes, it’s possible to be both a word nerd and a spatial architect at the same time, and Bananagrams Crossword invites you to do exactly that, banana-fana style.
 
 This review covers everything you need to know: what’s inside the box, how to play, how well this bites into family dynamics, the design quality, and practical tips to maximize fun on a movie-night budget. If you’re here for a quick verdict, here’s the close: Bananagrams Crossword is a surprisingly accessible engine for creativity, quick humor, and a little healthy competition that doesn’t require a degree in etymology to enjoy.
 
@@ -22,7 +22,7 @@ This review covers everything you need to know: what’s inside the box, how to 
 
 A standard Bananagrams set is delightfully simple: 144 letter tiles, one banana-shaped bag, and a concise rule card with the essential steps. The tiles themselves are sturdy; they resist the usual wear of a living room carpet and a couple of spills without crumbling into the sort of dust that feels suspiciously academic. The type on the tiles is bold, legible, and designed to survive enthusiastic shuffles by players of all ages. The banana bag is where the magic begins—the bright yellow pouch invites chaos and creativity alike, and it’s compact enough to slip into a tote bag for travel-sized game nights or family vacations.
 
-{% image /assets/images/bananagrams-bag.jpg alt="Bananagrams in a bright yellow banana bag" title="Bananagrams bag in banana style" %}
+{% image /assets/images/bananagrams-bag.jpg alt='Bananagrams in a bright yellow banana bag' title='Bananagrams bag in banana style' %}
 
 Beyond the look-and-feel, the gameplay emerges from simplicity. There are no scoring tracks, no rotating boards, just letters that demand immediate interpretation and flexible layout. The banana pouch is more than a cute picture; it’s a practical, portable container that helps you dump, draw, and deploy quickly. The first time you pour the tiles out and see a rainbow of letters scatter, you’ll likely grin at the absurdity of a game that treats building a crossword as a sprint rather than a marathon.
 
