@@ -1,108 +1,113 @@
 ---
-ttitle: City of Mist: Character Folio
+title: City of Mist: Character Folio Revisited
 date: 2026-03-19
-tags: [city-of-mist, tabletop-rpg, character-folio, review, sheet-design, geeknite]
+tags: [city-of-mist, tabletop-rpg, character-folio, review, sheet-design, geeknite, noir]
 ---
 
-City of Mist is a game about legends walking the streets of a smoky city, where your ordinary life intersects with myths, heroes, and the occasional talking streetlamp. If you’ve ever wanted to play a vigilante who is part hoodie, part mythic force, City of Mist gives you a toolbox of masks and myths to blend into urban landscapes. The City of Mist Character Folio is the physical companion that helps you stash all those masks in one portable, swanky package. Think of it as a premium notebook for your alter ego, designed to make character creation faster, play sessions smoother, and your GM finally stop asking you to “just write it down somewhere.” In this review, we’ll break down what the folio offers, how it actually helps you run the game, and where it might fall short if you’re a marble-mouthed min-maxer or a rambling author of backstory prose.
-
+City of Mist is a game that treats the city like a living rumor you can walk through, if that rumor happened to wear a trench coat and whisper in your ear with a cigarette glow. The City of Mist Character Folio is the physical buddy you bring to the table when your urban legends start cashing in on page margins and your GM starts shouting, in a coffee-fueled monotone, for you to “just write it down somewhere.” The Folio is a premium, tactile companion designed to keep your masks, myths, and messy backstory where you can actually reach them without flipping through a hundred sticky notes daubed with coffee rings. In this updated review, we’ll dive deeper into what the Folio brings to the table, how it actually affects play, and where it might stumble for groups that prefer the speed of napkin scribbles over a well-curated character dossier.
 
 ## What is the City of Mist Character Folio?
 
-City of Mist uses a mythic noir framework where players assume the roles of Investigators who are not just humans but a blend of myth and reality. The Folio is a purpose-built character shepherd. It’s a collection of sheets, trackers, and quick-reference bits designed to fit into a binder or a standard folio sleeve. If the core rulebook is the engine, the folio is, frankly, the dashboard and the glove compartment, all in one glossy, sometimes slightly punny package. The intent is to reduce the time you spend searching for the right stat, the right edge, or the right clue and to give you more time chasing hooded figures through rain-soaked alleys. And yes, it looks good on a table. Your players will feel like they’re flipping through a premium comic book adaptation of their lives, which, given the noir vibe of City of Mist, is exactly the mood you want.
+City of Mist gives players the sense that they’re detectives who just happen to be mythic beings wearing a fashionable disguise. The Folio acts as the game’s physical interface—a purpose-built set of sheets, trackers, and quick-reference bits that fit neatly into a binder, sleeve, or ziploc of heroic intent. If the core book is the engine, the Folio is the dashboard, the glove compartment, and the emergency beacon all in one glossy, character-first package. Its aim is simple: reduce the time you spend hunting for the right stat, the right Mask, or the right clue, so you can chase down hooded figures through rain-slick alleys with your eyes on the next twist rather than on a crumpled note in your pocket.
 
-![City of Mist Character Folio Cover]( /assets/img/city-of-mist-folio-cover.png )
+To set the mood, City of Mist often looks like a premium comic book adaptation of a noir city: rain-slick streets, neon signs, and a city that seems to have a name for everything—except your real identity. The Folio mirrors that vibe, offering a tactile sheen that makes holding your occult investigators feel special without tipping into the realm of “this is too precious to actually use.”
 
-The folio doesn’t just copy what’s in the character sheet in the core book; it reimagines the layout for tactile use during play. Expect larger fields for the Investigator name and their two or three fonts of power. Expect a more generous, structured place to track Clues, Evidence, and Masks. And yes, there’s a dedicated space for your Relationship map—the lifeblood of most City of Mist sessions, where allies and antagonists get equal billing and you discover that your best friend is, at least in part, a god behind a coffee shop counter.
+![City of Mist Character Folio Cover](/assets/img/city-of-mist-folio-cover.png)
 
-For the curious, a second image offers a peek at the interior layout, including the Investigator quick reference and the side sheets that help you track ongoing plot hooks across sessions.
+The folio isn’t a one-to-one copy of the core sheet; it reimagines layout for play: larger fields for Investigator name and the two or three fonts of power they wield, generous space to track Clues, Evidence, and Masks, and a dedicated Relationship map that treats allies and antagonists as co-stars rather than background scenery. The end result is a surface that says, aloud, “this matters,” while still staying practical enough to survive a session where a coffee spill and a dramatic monologue are standard equipment.
 
-![Investigator Sheets Preview]( /assets/img/city-of-mist-folio-sheets.png )
+For those who live in the margins—the players who enjoy color-coded systems, fields aligned like a blueprint, and the satisfaction of filling in neat boxes—the Folio is a tangible upgrade from looser notes and napkin doodles. It gives a sense of permanence to a character concept that’s often born from a single, moody line of dialogue. In City of Mist, where a single sentence can pivot a scene, having a structured, reusable canvas can be a surprisingly potent power boost.
 
-If you’re the kind of player who lives in the margins—who loves a neat row of boxes and a color-coded system to remind you which Mask you’re currently wearing—the folio will feel like a well-earned upgrade from loose sticky notes and napkin doodles. It provides a sense of permanence to the ephemeral, mythic identity you’re crafting. In a game that can pivot on a single line of dialogue, that sense of tangible structure can be a surprisingly strong power boost.
+A second interior glimpse shows an Investigator quick reference and side sheets that help track ongoing plot hooks across sessions.
 
+![Investigator Sheets Preview](/assets/img/city-of-mist-folio-sheets.png)
 
-## What’s inside the folio, and how does it actually help play?
+## What’s inside the Folio, and how does it actually help play?
 
-The folio is effectively a curated toolkit. It doesn’t replace the core rules; it augments them by making commonly used elements easy to access during a session. Here are the main components you’ll encounter:
+The Folio is a curated toolkit, not a replacement for the core rules. It’s designed to make commonly used elements instantly accessible, cutting down on “where did I write that clue again?” moments and letting you lean into the moment when the city reveals its next truth. Here are the core components you’re likely to encounter:
 
-- A robust Investigator sheet with fields for Name, City, Identity, Masks, Mythos, and a space for Edges, Abilities, and Stunts. The design encourages you to think about how your Mask changes the way you see the city, not just what you can do with a weaponized umbrella.
-- Clues, Evidence, and Plot hooks section. City of Mist is as much about what you know as what you can do. The folio gives you a dedicated, organized place to jot down a lead that might pay off later in an investigative montage.
-- A Relationship map that helps you track allies, antagonists, and ties to other Investigators. The game thrives on connections; the folio’s layout nudges you toward building a web rather than a wall between your hero and the people around them.
-- Quick reference cards and edge trackers. The game uses a dice-based system that rewards momentum and clever use of Masks. The folio’s quick references are meant to shave off minutes of fidgeting while your GM calls for a roll or a consequence.
-- A section for the two main slices of City of Mist power: the Mythos and the Mask. The folio emphasizes the interplay between who you are (your Mask) and what you stand for (your Mythos). It’s a subtle reminder that the character’s power grows from the belief people have in the myth, not just from a set of numeric bonuses.
+- A robust Investigator sheet with fields for Name, City, Identity, Masks, Mythos, and a space for Edges, Abilities, and Stunts. The design nudges you toward thinking about how your Mask changes perception, not just what it lets you do with a weaponized umbrella.
+- Clues, Evidence, and Plot hooks section. City of Mist is about what you know as much as what you can do. The Folio provides a dedicated, organized space to jot down a lead that might pay off later in an investigative montage.
+- A Relationship map for allies, antagonists, and ties to other Investigators. The game thrives on connections; the Folio nudges you toward building a web rather than a wall between your hero and the people around them.
+- Quick reference cards and edge trackers. The system rewards momentum and clever use of Masks. The Folio’s quick references are designed to shave minutes off fidgeting during a roll or a consequence.
+- A dedicated space for the two main slices of City of Mist power: the Mythos and the Mask. The Folio emphasizes how the interplay between who you are (your Mask) and what you stand for (your Mythos) drives the arc of the character. It’s not merely about numeric bonuses; it’s about narrative momentum.
 
-The physical design deserves its own note. The folio aims for a blend of noir chic and practical usability. The cover uses a tactile finish, and the page weight is thick enough to survive spilled coffee and the occasional dramatic flourish of a supervillain’s monologue. For players who like to scribble, the interior provides ample space without feeling like you’re about to scribble your life’s story into a single sheet of paper. It’s the kind of product that makes you feel like you’ve gone from a “gamer” to a “character archivist.”
+From a design standpoint, the Folio also makes a bold claim: form follows function without sacrificing style. The cover exudes noir elegance, with premium page stock that can survive the occasional coffee splatter and a dramatic flourish from a villain’s monologue. For scribblers, the interior provides ample space for notes without feeling like you’re writing your life story on a single sheet of printer paper.
 
+If you’ve ever wished for your tabletop to feel less like a generic RPG sheet printout and more like a living document for a living city, the Folio delivers. It’s a tangible signal that your character’s mythic identity is worth the same care you’d give to a case file from a long night of stakeouts.
 
 ## Design and usability: form meets function
 
-From a design perspective, the folio nails several core goals: legibility, organization, and an aesthetic that matches the city’s mood. The typography is clean but moody, a perfect blend of detective novel and mythic epic. There’s enough color-coding and sectioning that you can glance at the page and know what you’re dealing with without having to tilt your head like a dog listening to a distant siren.
+From a visual design perspective, the Folio checks a lot of boxes. Legibility is prioritized without sacrificing the moody atmosphere City of Mist is built on. The typography strikes a balance between detective-novel readability and mythic grandeur, with color-coding and clearly delineated sections that let you intuitively find what you need in the heat of play.
 
-In practice, this means less time fumbling in the middle of a scene and more time arguing about who owes whom a favor in the underworld, which is exactly the kind of productivity City of Mist players like. The liner notes and small help boxes are a nice touch for newer players who are still finding their footing with the Masks and the Mythos. They feel like training wheels that don’t scream training wheels, letting you ride with confidence once you’ve practiced a few sessions.
+This translates into practical advantages: less mid-session confusion, more time for roleplay and moral calculus, and a sense that you’re actually managing a complicated persona rather than juggling a dozen scattered notes. Helpful sidebars and prompts act as gentle guides for newcomers who are still wrapping their heads around Mask versus Mythos and the different ways those concepts can influence scenes.
 
-That said, there are a few potential nitpicks that pop up for certain groups. If your table runs hot and heavy with heavy roleplay, the folio’s ample space can encourage longer side-chats that may slow down sessions. If you’re the kind of GM who wants ultra-compact character sheets to free up the table, you might find yourself trading some of the folio’s generous margins for speed. It’s a classic trade-off: space for expression versus space for quick-fire mechanics.
-
+Of course, any design choice is a trade-off. The Folio’s generous margins and ample white space may feel like a luxury on tight tables that demand speed. If you’re playing with a GM who wants ultra-compact sheets to maximize space at the table, the Folio’s openness might initially feel like overkill. It’s a classic design tension: more space for expression versus the need for compact, quick-fire mechanics. The good news is that the Folio’s layout remains adaptable; you can lean into it or compress it as your table requires.
 
 ## Deep dive: creating an Investigator with the folio
 
-Let’s walk through a quick example to illustrate how the folio supports the character-building process. Suppose you want to play an Investigator named Mira, a street poet who embodies the Mask of the Bard and the Mythos of Truth. The folio helps you map this out in a structured way:
+Let’s walk through a concrete example to show how the Folio can shape character creation, with a new protagonist named Aria Kaye, a courier who embodies the Mask of the Whisper and the Mythos of Intrigue. She wheels through the city on a bicycle courier’s katydid-green bike, slipping messages into the city’s mouth and listening for the rumors that pulse beneath the asphalt.
 
-- Name and Identity: Mira’s identity is in the first block. The folio keeps this clearly visible because you want Mira’s name to be the first thing your eyes lock onto when you glance at the sheet between scenes.
-- Masks: Mira uses the Bard mask to manipulate perception through words, rhythm, and emotionally charged phrasing. The sheet’s Mask section invites you to jot down phrases or lines you’ve used in past scenes, which can spark new approaches in future encounters.
-- Mythos: The Truth Mythos gives Mira a reason to chase honesty in a world that lies with every other mouthful of coffee. The folio suggests a few prompts to anchor Mira’s moral compass. It’s not a rigid constraint; it’s a set of prompts that helps the player and GM align on Mira’s central motivations.
-- Edges and Abilities: The sheet’s layout makes it easy to decide which edges Mira will lean on in a given scene. Edges in City of Mist aren’t just numbers; they’re the social and narrative leverage you bring to the table. The folio keeps edges visible during dramatic moments, preventing them from slipping into the void of memory just as the action peaks.
-- Clues and Evidence: As Mira sleuths through the city, clues accumulate. The folio’s dedicated space turns scattered napkin doodles into an organized trail. That’s more than a cosmetic benefit; it’s a practical one when you’re trying to recall a tip you overheard in a crowded club two sessions ago.
-- Relationships: Mira’s ties to allies and adversaries live in the Relationship map. The folio nudges you to develop those ties beyond a single binary friend/enemy dichotomy. It’s a small design trick that pays off in session after session by giving you a web of social stakes to maneuver through.
+- Name and Identity: Aria’s identity sits front and center, accessible in the top-most block where her name is the first thing eyes lock onto during a session break. The Folio makes identity juries feel purposeful rather than perfunctory.
+- Masks: Aria wields the Whisper mask, a power of subtle influence—how she chooses to listen, what she leaves unsaid, what she implies with a single look. The Mask section invites you to capture phrases, cadences, and the rhythm of her voice that she uses to bend small truths into larger outcomes. It’s a prompt-rich space that fuels improvisation without forcing a rigid script.
+- Mythos: The Intrigue Mythos provides motive power, a world where secrets are currency and the city rewards those who know how to keep a conversation alive. The Folio’s prompts help anchor Aria’s moral compass in a way that’s flexible enough to adapt as she uncovers new information and makes difficult choices.
+- Edges and Abilities: The sheet’s layout highlights which edges Aria will lean on in a given scene. Edges aren’t just numbers; they’re social and narrative leverage. The Folio keeps those options visible during the heat of action, so you’re not caught fishing for your character’s best move while a convoy of goons closes in.
+- Clues and Evidence: As Aria pursues her leads, the Folio’s dedicated space helps transform scattered scribbles into an intelligible trail. That’s not just a cosmetic benefit; it helps you track how rumors connect to the next scene and which threads could tighten the web of relationships around Aria.
+- Relationships: The Relationship map anchors Aria in a network of friends, rivals, informants, and city icons. The Folio nudges you toward building a tapestry of connections that can become dramatic engines for plot across sessions. When you can show a map instead of reciting a list, the city starts to feel alive.
 
-If you want to reference a previously published post on City of Mist’ s rules and how we talk about Masks and Mythos, you can check out our deep-dive here: {% post_url 2026-01-01-city-of-mist-core-rules %} and for gear-specific discussion, this piece: {% post_url 2026-02-03-city-of-mist-gear-guide %}. You’ll notice a common thread: the Folio acts as a bridge between the abstract concepts in the rules and the concrete, on-table actions that keep the story moving.
-
+If you want to see how our previous pieces talk about Masks and Mythos in more depth, check out our City of Mist core rules deep-dive here: {% post_url 2026-01-01-city-of-mist-core-rules %} and our gear-focused look here: {% post_url 2026-02-03-city-of-mist-gear-guide %}. You’ll notice a throughline: the Folio acts as a bridge between abstract identity and concrete, on-table action, translating vibe into measurable momentum.
 
 ## Artwork, flavor, and the tactile vibe
 
-The art direction on the folio is a win for flavor. The noir-meets-myth aesthetic is present in the cover motifs, in the icons used for Masks, and in the subtle flourishes that tie each page to the blazing neon of a city that never truly sleeps. If you’re a person who keeps art on display in your gaming room, the folio doubles as a conversation piece and a reminder that the world you’re playing in has a style as carefully curated as a vintage jacket or a well-used fountain pen.
+The Folio’s art direction is one of its strongest selling points. The noir-meets-myth aesthetic is carried through on the cover, the icons used for Masks, and the subtle design cues that tie every page to the neon-lit cityscape that never truly sleeps. If you’re the sort of player who likes to display gaming gear as part of the room’s ambiance, the Folio doubles as a conversation piece and a reminder that your ambitions for the night’s caper deserve as much care as your costume or your favorite notebook.
 
-The design also respects the practical needs of modern tables. The margins leave room for a comfortable handwriting footprint, the line spacing avoids cramping, and the page weight feels sturdy enough for multiple sessions without showing wear from repeated page-turning. It’s the difference between a character sheet that’s a chore to fill out and one that feels like a collectible you’re glad to re-use.
+Practical touches matter, too. The margins accommodate handwriting of varying sizes, line spacing prevents cramped scripting, and the paper weight feels substantial enough to survive a long campaign without showing battle scars from countless pages. It elevates the act of filling in a character sheet from a chore to a ritual—a small but meaningful step toward turning play into a story you’re excited to continue.
 
+## How the Folio interacts with the core rules
 
-## How the folio interacts with the core rules
+City of Mist’s core rules orbit around the interplay of Masks and Mythos. The Folio doesn’t rewrite those rules; it recontextualizes them for hands-on use. Some players may wonder how to translate the abstract identity into a mechanical punch when momentum is earned through roleplay rather than numerical accumulation. The Folio answers by delivering a streamlined workflow: keep the on-table momentum high, minimize page-flipping, and give you more time to discuss the myth you’re enacting rather than the exact numbers you’re applying.
 
-City of Mist’s core rules live in a system built around the interplay between Masks and Mythos. The Folio doesn’t rewrite those rules; it presents them in a way that aligns with the player’s hands instead of the GM’s pen. Some players may find the folio’s prompts and layout raise questions about how to formalize the abstract aspects of identity into mechanical momentum. For most groups, however, the benefit is straightforward: reduce table noise and accelerate first-session setup.
+If your table prioritizes narrative momentum over strict mechanical tracking, the Folio feels natural. You can spend more time on the philosophical core of your Investigator—the beliefs they carry, the myths they chase—without losing track of Clues, Edges, or Relationships.
 
-If you’ve built your table to prioritize narrative momentum over strict mechanical tracking, the folio’s approach feels natural. You can spend more time talking about the underlying myths your Investigators embody and less time searching for the right blank space to scribble down a clue. That’s a win for everyone who wants to get to the moment when the city reveals its next secret.
-
+For groups that still want to sketch everything quickly on the fly, the Folio can be a sandbox for improvisation. You’ll still use the core rules, but you’ll reach a satisfying “yes, and” faster because the page is there to capture the moment—and not the memory of the moment slipping away.
 
 ## How it stacks up against other sheets and supplements
 
-Compared to the generic hero sheets you find in many RPG packs, the City of Mist Character Folio offers a sharper thematic alignment. The field names match the game’s vocabulary, the layout encourages notes and prompts that support roleplay, and the visual language reinforces the idea that the city is inhabited by living myths rather than abstract statistical abstractions.
+Compared with generic RPG sheets, the City of Mist Folio wears its theme on its sleeve. Field names map cleanly to the game’s vocabulary, the layout encourages narrative notes, and the visuals reinforce that this isn’t a game about stats alone—it’s about the myths those stats summon into the city’s alleys.
 
-If you have a digital-compact crew that prefers PDFs and minimalist data fields, the folio might feel like over-engineering. For groups who love a tactile, immersive, and organized approach to tall-tale city-building, this folio is a solid upgrade to what you’d print and hand out at the table. You’ll get better at quick resets between scenes and less time spent dithering over where you put your Clues or your Relationship lines. It’s not a magic bullet, but it’s a well-made co-pilot for the journey through the mythic streets.
-
+If your crew loves digital tools and hates paper clutter, the Folio might feel like over-engineering. For groups that savor a tactile, immersive approach to city-building and story-weaving, this folio is a strong upgrade over loose leaf sheets and scattered napkins. It won’t magically create cinematic moments, but it does remove friction that can kill the moment before it even begins.
 
 ## Accessibility, production quality, and print options
 
-Accessibility is not the first thing that comes to mind when you think of a City of Mist folio, but it matters. The layout uses clear contrast and legible typography, which helps players with common visual demands. If there’s any room for improvement, it’s in offering an alternative, high-contrast version or a dyslexia-friendly font option. A digital companion (a fillable PDF version) would also help players who want to type rather than handwrite. Still, the physical product as shipped is a sturdy, stylish object that you’ll want to keep rather than revisit as an afterthought.
+Accessibility isn’t the first thing most folks consider for a folio, but it matters. The layout’s clear contrast and legible typography help players with common visual demands. A future enhancement could be a high-contrast variant or a dyslexia-friendly option. A digital companion (fillable PDF) would also help players who prefer typing over handwriting. The physical product, as shipped, is sturdy, handsome, and designed to last a campaign’s worth of table talk.
 
-Print quality is where this folio earns its keep. The pages feel premium, the binding seems sturdy enough to survive a long campaign, and the overall aesthetic helps you feel like you’re carrying a document that matters—like the city itself has entrusted you with its secrets for a season.
+Print quality earns its keep here. The premium feel of the pages, the binding strength, and the overall aesthetic sell the notion that you’re carrying a document that matters—like the city has entrusted you with its secrets for a season.
 
+If there’s a limitation worth noting, it’s a matter of scale. The Folio’s generous space invites thoroughness, which is fantastic for some play styles and punishing for others who want speed. If you’re the kind of GM who leans into brisk scenes and quick resets, you might need to adapt by focusing on the most-used fields and treating the rest as optional references. That said, the Folio remains forgiving: you can fill only what you need and enjoy the remainder as a future page to populate.
 
 ## Final thoughts and recommendation
 
-If you’re a City of Mist player or GM who craves a more tactile, organized approach to your character management, the Character Folio is worth considering. It won’t magically make your role-playing more cinematic, but it will help you and your group spend less time hunting for your stuff and more time being the myths you embody. It’s a small, well-made investment that pays off in campaign clarity and session flow. For those who want a touch of noir elegance with practical utility, this folio hits the sweet spot.
+If you’re a City of Mist player or GM who craves a tactile, organized approach to character management, the Character Folio is worth serious consideration. It won’t conjure cinematic moments out of thin air, but it will reduce the time you spend hunting for notes and give you more space for the dramatic reveals that define the game’s mood. It’s a small, well-made investment that pays off in campaign clarity, pacing, and session flow. If you want a touch of noir elegance with practical utility, this folio hits the sweet spot.
 
-If you’re unsure, think of the folio as the difference between scribbling notes on random napkins and filing your thoughts into a proper case file. It won’t write your story for you, but it will help you locate the chapters you’ve already written and plan the next ones with a little more finesse.
-
+If you’re unsure, think of the Folio as the difference between scribbling notes on napkins and filing your thoughts into a proper case file. It won’t write your story for you, but it will help you locate the chapters you’ve already written and plan the next ones with a little more finesse.
 
 ## Quick recommendations for use
 
-- New to City of Mist: Use the folio to guide your first character’s identity arc. The prompts help you get to the heart of the Mask and Mythos quickly.
-- Veteran players: Use the folio as a quick-start toolkit for new Investigators in a live session. The relationship map shines when you’re trying to weave a broader city-wide plot.
-- GM-focused use: Have players show their folio at the start of each arc to ensure everyone is aligned on their Masks and Mythos. It can cut down on “is this even a thing” debates mid-session.
+- New to City of Mist: Use the Folio to guide your first character’s identity arc. The prompts help you get to the heart of the Mask and Mythos quickly, and the quick references keep the momentum going between scenes.
+- Veteran players: Use the Folio as a quick-start toolkit for new Investigators in a live session. The Relationship map shines when you’re weaving a city-wide plot and need the right social leverage to trigger the next scene.
+- GM-focused use: Have players show their Folio at the start of each arc to ensure alignment on Masks and Mythos. It can cut down on debates mid-session and keep the table focused on storytelling rather than logistics.
 
+## External links and references
+
+For the official hub and further resources, visit City of Mist’s site: https://cityofmist.com. If you’re hungry for more reading along these lines, you can peek at our deeper dives here on related mechanics and gear:
+- Core rules deep-dive: {% post_url 2026-01-01-city-of-mist-core-rules %}
+- Gear-focused guide: {% post_url 2026-02-03-city-of-mist-gear-guide %}
+
+If you want to see how these elements come together on the table, you’ll notice the Folio functions as a practical bridge—between the abstract identity you imagine and the concrete, on-table actions that keep the story moving. The city isn’t just a backdrop; it’s a character in its own right, and your Folio is the first page of the next dramatic chapter.
 
 ## Final call to action
 
-If you’re ready to level up your City of Mist table, consider picking up the Character Folio and seeing how it changes your session tempo. It’s a stylish, practical companion that rewards consistent use with a smoother game flow and more room for dramatic reveal moments.
+If you’re ready to level up your City of Mist table, consider picking up the City of Mist Character Folio and see how it changes your session tempo. It’s a stylish, practical companion that rewards consistent use with a smoother game flow and more room for dramatic reveal moments.
 
 For more about the City of Mist system and to explore related guides and deep-dives, check out our official guide hub: [City of Mist Official Site](https://cityofmist.com).
 
