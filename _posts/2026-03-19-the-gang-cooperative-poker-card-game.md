@@ -10,7 +10,7 @@ tags:
   - geeknite reviews
 ---
 
-![The Gang cover art](assets/images/the-gang-cover.jpg "The Gang — Cooperative Poker Card Game by Thames & Kosmos")
+![The Gang cover art](assets/images/the-gang-cover.jpg)
 
 If you’ve ever wanted a poker night where bluffing is celebrated but the cops never show up, The Gang from Thames & Kosmos is your new favorite family excuse to stay up too late and pretend you know how math works. This is not your granddad’s poker night; this is poker with a brain, a heartbeat, and a strict no-snacking-on-dice policy (okay, maybe that last one is just us). The Gang is marketed as a cooperative card game that uses poker hands as a vocabulary for teamwork, misdirection, and furious collaboration. In other words: it’s a social deduction game wearing a poker disguise and sporting a velvet cape of family-friendly chaos.
 
@@ -32,9 +32,9 @@ The Gang comes with a tidy deck of custom cards, mission cards, a simple ruleboo
 
 Setup is simple: shuffle, deal, reveal the first mission, and decide who’s the “voice” of the gang for that round. The game embraces quick-start rules, which is perfect for families, couples, or that one friend who swears they’re “just here for the vibes” but somehow ends up running the show. The genius of the setup is that you can jump in with zero prep and learn as you go, which is ideal for a Friday night when everyone claims “we have to work tomorrow” but secretly loves chaos.
 
-## How to play (the short version)
+## How to play (the long version)
 
-The Gang is a cooperative game where you and your crew must assemble hands that satisfy the mission requirements. Each round presents a new challenge. You’ll discuss, bluff (subtly, within rules), and place cards to build a hand. If you form the correct hand consistent with the mission, you advance. If not, you adjust and try again in the next turn. The tension ramps up as the missions become trickier, rewarding clear communication and a willingness to swap cards with teammates—without panic texting your group chat mid-game. Here’s a rough outline of how a typical session flows:
+The Gang is a cooperative game where you and your crew must assemble hands that satisfy the mission requirements. Each round presents a new challenge. You’ll discuss, coordinate, and place cards to build a hand. If you form the correct hand consistent with the mission, you advance. If not, you adjust and try again in the next turn. The tension ramps up as the missions become trickier, rewarding clear communication and a willingness to swap cards with teammates—without panic texting your group chat mid-game. Here’s a rough, more detailed outline of how a typical session flows:
 
 - Reveal the current mission (what kind of hand you need, and any special conditions).
 - Each player, in turn, contributes cards from their hand to the communal table or a shared discard area to build toward the target hand.
@@ -42,7 +42,7 @@ The Gang is a cooperative game where you and your crew must assemble hands that 
 - Once the team reaches a decision, you perform a final play to try and satisfy the mission.
 - If successful, you move to the next mission. If failed, you regroup, adjust, and try again with a different tack.
 
-The elegance comes from balancing individual choice with collective consequence. No one player can single-handedly break the mission; it’s about harmonizing odds with a chorus of voices. The rules emphasize cooperation over conflict, but the inherent tension can still spark dramatic laughter as someone insists that a “straight” clearly includes a wild card when the mission called for a “pure” straight. Communication is the lifeblood; the moment you bow to despair and start muttering about the “cards’ conspiracy,” you’ll know you’ve found the right groove.
+The elegance comes from balancing individual choice with collective consequence. No one player can single-handedly break the mission; it’s about harmonizing odds with a chorus of voices. The rules emphasize cooperation over conflict, but the inherent tension can still spark dramatic laughter as someone insists that a straight clearly includes a wild card when the mission called for a pure straight. Communication is the lifeblood; the moment you bow to despair and start muttering about the cards conspiracy, you’ll know you’ve found the right groove.
 
 ## The player experience: why it lands (and where it trips)
 
@@ -56,10 +56,10 @@ Pros:
 Cons:
 
 - The luck factor can feel real: Some rounds rely on the cards you’re dealt, which might feel harsh when you’re chasing a tricky hand. The game shines when teamwork compensates for variance, but the variance can be a party-pooper in some sessions.
-- Not as “deep” as heavier cooperative titles: If you’re chasing an elaborate puzzle or long narrative, The Gang keeps things light and breezy. It’s not about sprawling strategy, it’s about punchy coordination in short bursts.
+- Not as deep as heavier cooperative titles: If you’re chasing an elaborate puzzle or long narrative, The Gang keeps things light and breezy. It’s not about sprawling strategy, it’s about punchy coordination in short bursts.
 - Solo play is not the sweet spot: It’s designed for group play and may lose its magic when played alone, unless you fancy playing both sides to simulate a team.
 
-Humor helps here: when a teammate insists that a “two pair” is “almost two duets” and the rest of the table nods like a council of tiny caped crusaders, you know you’re in good comedic territory. The Gang doesn’t pretend to be grand; it revels in the ridiculous charm of a heist crew trying not to trip over a shared memory of a card that won’t cooperate.
+Humor helps here: when a teammate insists that a two pair is almost two duets and the rest of the table nods like a council of tiny caped crusaders, you know you’re in good comedic territory. The Gang doesn’t pretend to be grand; it revels in the ridiculous charm of a heist crew trying not to trip over a shared memory of a card that won’t cooperate.
 
 External links:
 
@@ -83,7 +83,7 @@ The success of The Gang rests on three design pillars:
 
 - Clarity of goals: Each mission is explicit about what hand you must assemble and what counts as success. Players can rally around a shared objective without parsing a 12-page rulebook. The graphic design reinforces this clarity with clean icons and intuitive layout.
 - Social pacing: The game’s turn structure ensures everyone has agency. It’s not a solo exercise; it’s a social choreography. You’ll learn quickly who’s good at math, who’s good at spotting patterns, and who’s excellent at signaling non-verbally with a raised eyebrow and a certain dramatic card placement.
-- Accessibility: The poker well of references is familiar enough to feel approachable while still offering interesting twists that require real collaboration. The learning curve is gentle, letting new players feel competent within a couple rounds while veteran players enjoy the occasional “aha” moment when a tricky hand finally clicks.
+- Accessibility: The poker well of references is familiar enough to feel approachable while still offering interesting twists that require real collaboration. The learning curve is gentle, letting new players feel competent within a couple rounds while veteran players enjoy the occasional aha moment when a tricky hand finally clicks.
 
 The result is a product that remains light on its feet, even after multiple plays. You’ll catch references to classic film heists in the flavor text, and you’ll appreciate the tactile satisfaction of turning a handful of cards into something that looks suspiciously like victory.
 
@@ -110,7 +110,7 @@ The physical components are sturdy enough to survive multiple family game nights
 
 ## Where to buy and value assessment
 
-The Gang is widely available from major retailers and the official Thames & Kosmos store. The price sits in that approachable mid-range for family games, offering solid build quality and a replayable core concept. If you’re torn between a handful of family games that promise both laughter and a little brain burn, The Gang shows up as a dependable pick with a strong “one more round” factor.
+The Gang is widely available from major retailers and the official Thames & Kosmos store. The price sits in that approachable mid-range for family games, offering solid build quality and a replayable core concept. If you’re torn between a handful of family games that promise both laughter and a little brain burn, The Gang shows up as a dependable pick with a strong one more round factor.
 
 External shopping links:
 
