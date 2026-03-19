@@ -9,7 +9,7 @@ tags:
 ---
 
 ## Introduction
-Welcome back, geeks. Today we dive into UNO Attack, Mattel's flashy remix of a timeless color-number juggernaut. Where classic UNO is a serene exercise in hand management and procrastination on drawing cards, UNO Attack upgrades the chaos with a missile launcher that spits cards like a caffeinated vending machine. This is not a game for the faint of heart, but if you love party energy and a dash of chaos, you’re in for a wild ride. We'll separate the delightful chaos from the genuine annoyances and help you decide if you want this at your table or just in your next group chat apocalypse.
+Welcome back, geeks. Today we dive into UNO Attack, Mattel's flashy remix of a timeless color-number juggernaut. Where classic UNO is a serene exercise in hand management and procrastination on drawing cards, UNO Attack upgrades the chaos with a missile launcher that spits cards like a caffeinated vending machine. This is not a game for the faint of heart, but if you love party energy and a dash of chaos, you’re in for a wild ride. We’ll separate the delightful chaos from the genuine annoyances and help you decide if you want this at your table or just in your next group chat apocalypse.
 
 Spoiler-free summary: UNO Attack modernizes UNO with a random launcher that triggers bursts of cards. It’s loud, goofy, and surprisingly good at turning grown adults into giggling kids again.
 
@@ -37,7 +37,7 @@ What you get in the box is not just cards but a display of Mattel’s love for c
 Setup is quick: shuffle, deal, and hand the launcher to the player who seems most ready to face the machine. The launcher does not care about your plans; it cares about randomness and the alignment of the planets.
 
 ### Why the box design matters
-The bright box art and the hulking launcher are not just packaging; they set the mood. When you reveal the orange brick on game night, the room shifts from casual chat to a chaotic game show. That design choice is part of UNO Attack’s charm: you aren’t just playing UNO; you are triggering a small, loud social experiment.
+The bright box art and the hulking launcher are not just packaging; they set the mood. When you reveal the orange brick on game night, the room shifts from casual chat to a chaotic game show. That design choice is part of UNO Attack’s charm: you aren’t just playing UNO; you are triggering a small, loud social experiment. The aesthetic signals exactly what kind of night you’re in for: loud, ridiculous, and probably a little messy.
 
 ## How to Play The Rules Simplified (with chaos factor)
 UNO Attack mostly follows classic UNO: color or number matching, with action cards to poke at other players. The twist is the launcher, which adds a variable that can throw your plans into a ditch.
