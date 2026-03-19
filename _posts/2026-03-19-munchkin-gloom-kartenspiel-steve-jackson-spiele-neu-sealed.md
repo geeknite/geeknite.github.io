@@ -1,5 +1,5 @@
 ---
-title: Munchkin Gloom Kartenspiel – Neu & Sealed Ein Geeknite-Review
+title: Munchkin Gloom Kartenspiel – Neu & Sealed Ein Geeknite-Review (aktualisiert)
 date: 2026-03-19
 tags:
   - board-games
@@ -8,6 +8,7 @@ tags:
   - munchkin
   - review
   - geeknite
+  - humor
 ---
 
 ![Munchkin Gloom Kartenspiel — Neu & Sealed](./assets/images/munchkin-gloom-kartenspiel-neu-sealed.jpg)
