@@ -1,5 +1,5 @@
 ---
-title: "Sushi Go! - Juego para todas las edades (Actualizado en Geeknite)"
+title: 'Sushi Go! - Juego para todas las edades (Actualizado en Geeknite)'
 date: 2026-03-19
 tags:
   - juegos de mesa
@@ -9,6 +9,7 @@ tags:
   - Sushi Go!
   - juegos para niños
   - Geeknite
+  - cartas
 ---
 
 ![Sushi Go cover]({{ site.baseurl }}/assets/img/sushi-go-cover.jpg)
@@ -45,12 +46,15 @@ El conjunto de cartas es un ejemplo de diseño eficiente: cada carta tiene un ic
 - Maki rolls: otorgan puntos por la cantidad de tiras de maki que poseas, premiando la consistencia y la competencia continua por más cartas.
 - Sashimi: normalmente otorga puntos si consigues un conjunto completo, lo que añade una capa de riesgo y recompensa a la colección de cartas de ese tipo.
 - Gyoza: a menudo puntúan por la cantidad de cartas de este tipo que posees, fomentando una estrategia de acumulación concentrada.
+- Wasabi: triplica el siguiente nigiri jugado; la coordinación entre cartas puede marcar la diferencia entre cero y victoria en la última ronda.
+- Tempura: a veces otorga puntos si consigues un par, generando decisiones de colección que te hacen mirar dos cartas a la vez.
+- Chopsticks: te da la oportunidad de intercambiar o jugar dos cartas en la próxima ronda, añadiendo un sabor estratégico que te obliga a planear con antelación.
 
 La magia de Sushi Go! reside en que cada carta que ves pasar podría ser el ingrediente para una gran puntuación, pero elegirla podría impedirte una jugada futura que se vuelva crucial en la ronda final. Es un rompecabezas de decisiones rápidas que exige a los jugadores evaluar no solo su propio mazo, sino también las posibles elecciones de los demás.
 
 ### Turnos y ritmo
 
-Los turnos son cortos, rápidos y llenos de mordiscos de humor: cuando la carta de sushi llega a la mesa, las risas suelen venir con ella. Debido a la naturaleza de pasar cartas, lo que haces en cada turno no solo afecta tu puntuación, sino el comportamiento de los demás: a veces es mejor elegir una carta que te dé un puntaje menor a cambio de evitar que alguien más obtenga una gran jugada. Este dinamismo hace que Sushi Go! sea perfecto para sesiones de juego cortas, donde las risas y las bromas se apagan tan rápido como se encienden las risas.
+Los turnos son cortos, rápidos y llenos de mordiscos de humor: cuando la carta de sushi llega a la mesa, las risas suelen venir con ella. Debido a la naturaleza de pasar cartas, lo que haces en cada turno no solo afecta tu puntuación, sino el comportamiento de los demás: a veces es mejor elegir una carta que te dé un puntaje menor a cambio de evitar que alguien más obtenga una gran jugada. Este dinamismo hace que Sushi Go! sea perfecto para sesiones de juego cortas, donde las risas y las bromas se encienden y apagan en un parpadeo.
 
 ### Estrategias y consejos prácticos
 - Observa el flujo de cartas que pasan: si ves que la mesa entera parece interesada en un tipo de carta, podrías intentar ser el primero en recogerla o, por el contrario, cerrar esa vía para evitar que alguien te gane en puntos.
@@ -59,9 +63,11 @@ Los turnos son cortos, rápidos y llenos de mordiscos de humor: cuando la carta 
 - Adaptación por grupo: en familias con niños pequeños, simplifica algo el conteo de puntos o reduce la cantidad de rondas para evitar que el aprendizaje se alargue. En grupos de adultos, añade ligeras variantes para darle sabor a la experiencia, como una puntuación adicional por un conjunto de gyozas impecables.
 
 ### Variantes y expansiones
+
 Sushi Go! cuenta con varias versiones que amplían la experiencia sin complicar el core del juego. Entre ellas se encuentran ediciones temáticas, como Sushi Go! Party, que añade más cartas y modos de juego para acomodar grupos mayores, o ediciones con diseño de personajes de anime que pueden atraer a fans de la cultura pop. Aunque algunas expansiones dependen de un mayor número de jugadores, la esencia sigue siendo la misma: planificar, anticipar y disfrutar de una buena comida de cartas.
 
 ### Dinámica de juego en familia y en grupo
+
 Si hay algo que destaca en Sushi Go! es su capacidad para generar conversación y risas sin necesidad de reglas complicadas. En un entorno familiar, la dinámica es casi como una comida de domingo: todos anhelan ese pequeño éxito que te da una carta clave, y la mascota de la casa (el perro, el pez dorado o la tía que siempre trae postres) se convierte en un juez momentáneo de cada ronda. Para grupos de amigos, la experiencia funciona como una micro-competencia donde cada jugador intenta leer las señales de los demás y hacer que su elección parezca una jugada inocente para el resto, cuando en realidad es la clave para sumar puntos en silencio.
 
 ## Reglas rápidas y aprendizaje para principiantes
@@ -70,11 +76,11 @@ Si hay algo que destaca en Sushi Go! es su capacidad para generar conversación 
 - Después de tres rondas, se suman los puntos y se determina al ganador.
 - En cada mano, la clave es la previsión: ¿qué carta estará disponible cuando te toque pasar de nuevo hacia ti? ¿Qué carta podría bloquear a tu vecino y, al mismo tiempo, mejorar tu puntuación?
 
-Si quieres una versión rápida de reglas para compartir con personas que nunca han tocado un juego de mesa, este es el momento exacto para decir: “solo son tres rondas, y el sushi no se sirve en frío.”
+Si quieres una versión rápida de reglas para compartir con personas que nunca han tocado un juego de mesa, este es el momento exacto para decir: solo son tres rondas, y el sushi no se sirve en frío.
 
 ## Experiencias Geeknite
 
-En Geeknite hemos probado Sushi Go! en salones, salas de convivencia de universidades y, sí, en la sala de descanso de un equipo de desarrollo que esperaba una entrega. En todos los casos, el efecto fue similar: risas, competencia sana y la necesidad de explicar en voz alta por qué una gyoza de tres puntos puede cambiar el curso de una conversación de programación. Una sesión típica de Sushi Go! se convierte en un pequeño torneo de precisión absurda: ¿cuántas gyozas necesitamos para ganar con estilo? ¿Qué combinación de maki nos dará el liderazgo sin que nadie nos quite la liga de puntaje? Este espíritu ligero y flexible lo hace ideal para cualquier grupo que quiera divertirse sin un manual de reglas de 30 páginas.
+En Geeknite hemos probado Sushi Go! en salones, salas de convivencia de universidades y, sí, en la sala de descanso de un equipo de desarrollo que esperaba una entrega. En todos los casos, el efecto fue similar: risas, competencia sana y la necesidad de explicar en voz alta por qué una gyoza de tres puntos puede cambiar el curso de una conversación de programación. Una sesión típica de Sushi Go! se convierte en un pequeño torneo de precisión absurda: cuántas gyozas necesitamos para ganar con estilo, qué combinación de maki nos dará el liderazgo sin que nadie nos quite la liga de puntaje. Este espíritu ligero y flexible lo hace ideal para cualquier grupo que quiera divertirse sin un manual de reglas de 30 páginas.
 
 ## Enlaces útiles y referencias
 - Sushi Go! en BoardGameGeek: https://boardgamegeek.com/boardgame/101871/sushi-go
