@@ -1,5 +1,5 @@
 ---
-title: 'Sushi Go! Party Card Game — Geeknite Review'
+title: 'Sushi Go! Party Card Game — Geeknite Review (Updated)'
 date: 2026-03-19
 tags:
   - board-games
@@ -12,7 +12,7 @@ layout: post
 
 ![Sushi Go! Party components]({{ site.baseurl }}/assets/img/sushi-go-party.jpg)
 
-Welcome back to Geeknite, where tiny cards are big enough to topple empires of appetite and ego. Today we open the Bento Box of destiny again, but this time the chef has a sense of humor and a timer that never stops beeping. Sushi Go! Party is not just a sequel; it’s a refined party-draft experience that keeps the core of the original while giving you a rotating set of scoring goals like a culinary trivia night without the host's power to nullify your dreams with a single “nonsense.” If you thought your group of friends could not possibly want to chase points for minute sushi while arguing about tuna vs. tamago for the next hour, strap in. This game invites chaos to be friendly, and you’ll thank it for the social charge it provides.
+Welcome back to Geeknite, where tiny cards are loud enough to disrupt a quiet dinner and make you defend your tuna like a tiny, giggling warlord. Today we reopen the Bento Box of destiny, and this time the chef has swapped the timer for a DJ booth and a menu that changes more often than our sleep schedule. Sushi Go! Party is not merely a sequel; it’s a refined party-draft experience that preserves the core bite-sized thrill of the original while turning scoring into a rotating buffet of goals. If you thought your group could not possibly want to chase points for minute sushi while arguing about tuna versus tamago for the next hour, strap in. This game invites chaos to be friendly, and you’ll thank it for the social charge it provides.
 
 Sushi Go! Party is a standalone evolution of the beloved Sushi Go! series from Gamewright. It preserves the core drafting-and-set-collection vibe, but introduces a rotating menu that changes scoring each round. You start with a hand of cards, pick one, pass the rest to the next player, and repeat until all cards are drafted. At the end of a round you score using the current menu, and—dramatic pause—a new round begins with a fresh menu. It’s a high-speed culinary scavenger hunt where your dinner plans and your friends’ choices collide in a cascade of cute sushi and occasionally questionable decision-making.
 
@@ -22,14 +22,14 @@ The original text had similar tone; we’re expanding with more commentary, expe
 
 ## Unboxing the Bento Box: components and quality
 
-In the world of micro-card miracles, the packaging matters as much as the cards themselves. Sushi Go! Party leans into cute in a way that makes your heart briefly forget about the existence of vegetables and the monotony of adult responsibilities. The cards are sturdy, with bright, cartoonish sushi characters that seem to whisper, "Take me to the table and argue about me later." The art is playful, approachable, and a little cheeky—the kind that says, we know you’re going to discuss whether the wasabi is a hero or a hazard by the end of the second round.
+In the world of micro-card miracles, the packaging matters as much as the cards themselves. Sushi Go! Party leans into cute in a way that makes your heart briefly forget about adult responsibilities and the existential dread of leaving a clean plate for delivery. The cards are sturdy, with bright, cartoonish sushi characters that seem to whisper, "Take me to the table and argue about me later." The art is playful, approachable, and a little cheeky—the kind that says, we know you’re going to discuss whether the wasabi is a hero or a hazard by the end of the second round.
 
 - Cards: A compact deck size that slides into a small bag without fear of spontaneous card combustion in your pocket.
 - Menus: The grown-up twist. Each round gets a menu card that defines the scoring vibe. Some menus reward variety, others reward repetition, and a few push you toward penalizing low variety or chasing a rare card that makes everyone groan with envy.
 - Tokens: A handful of scoring chips that remind you you are playing a game and not just fabricating a sushi empire in your head.
 - Rulebook: Clear but friendly; not a novel, but not a single-page sprint either. The real magic is that you can teach this in five minutes and still have a meaningful round.
 
-The quality stays in line with Gamewright’s reputation: robust, kid-friendly, and ready to survive a table where people will swing between dramatic gasps and light-hearted banter. The box is compact enough to fit in a tote bag along with a couple of snacks, which is ideal for the post-pizza gaming glow-up we all pretend to plan.
+The quality stays in line with Gamewright’s reputation: robust, kid-friendly, and ready to survive a table where people swing between dramatic gasps and light-hearted banter. The box is compact enough to fit in a tote bag along with a couple of snacks, which is ideal for the post-pizza gaming glow-up we all pretend to plan.
 
 ## How to play in roughly 15 minutes per round, or two hours if you get distracted by your own clever banter
 
@@ -82,7 +82,7 @@ The tactile feel of the deck is solid; you won’t worry about warp or wear afte
 
 Sushi Go! Party shines as a party game that gives everyone a moment to feel like a trickster general. The rounds move quickly, and the turns are accessible for younger players while offering enough nuance for seasoned folks. The pacing can vary based on how aggressively players chase menus, but overall the energy is upbeat and playful rather than cutthroat. You’ll hear giggles, groans, and cheers when someone lands a perfect set or when a rival blocks you with a sneaky pass that you didn’t see coming.
 
-The low barrier to entry means this is perfect for family nights, casual groups, and quick wind-down sessions after a meal. It also travels well, fitting into a tote bag or a large coat pocket with ease. Travel gamers, you know the drill: compact suites, big smiles.
+The low barrier to entry means this is perfect for family nights, casual groups, and quick wind-down sessions after a meal. It also travels well, fitting into a tote bag or a large coat pocket with ease. Travel gamers, you know the drill: compact kits, big smiles.
 
 If you want a broader mental map of where Sushi Go Party sits in the landscape of light drafting games, check our earlier drafting guide: [Drafting games explained]({% post_url 2024-04-10-drafting-games-explained.html %})
 
