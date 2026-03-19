@@ -1,5 +1,5 @@
 ---
-title: City of Mist: A New Dawn — Review
+title: City of Mist: A New Dawn — Review (Updated)
 date: 2026-03-19
 tags:
   - City of Mist
@@ -7,6 +7,7 @@ tags:
   - RPG
   - review
   - geeknite
+  - dawn
 ---
 
 ![City of Mist A New Dawn cover](/assets/images/city-of-mist-new-dawn.jpg)
