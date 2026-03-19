@@ -15,6 +15,8 @@ If you find yourself here, you probably love your friends a little less than you
 
 If you’re curious for more CAH lore and card mechanics, you can peek at our quick guide to board game mechanics here: {% post_url 2024-08-12-brief-guide-to-board-game-mechanics %}. If you want a little more reading and a lot less judgment, we also have a couple of side quests for you: Gift guides for the discerning nerd and A quick tour through common card game mechanics. Now, let us dive into the Third Expansion with the enthusiasm of a player who just rolled a critical hit—then remembered their group believes that punctuation is a sacred ritual and not a mere stylistic flourish.
 
+We might want to add a dash of humor: Warning: this expansion may cause strategic alliances to crumble and friendships to be tested by who had the most tragic life event. No, we are kidding (mostly). Now, let’s roll the dice on voice-activated chaos and see what trouble we conjure when the deck finally shows up to the party.
+
 ## Overview
 
 ### What is the Third Expansion?
@@ -33,6 +35,8 @@ To give you a sense of flavor without spoiling all the surprises: you’ll find 
 
 If you want the official word on the Third Expansion, their main site has details on card counts, packaging, and release notes. We will spare you a dull quote and point you to something helpful: official CAH page. If you’re curious about the broader culture of party games and how CAH sits within it, a quick stroll through the community pages on BoardGameGeek can be a follow-up after you finish this review.
 
+> Official CAH page: https://cardsagainsthumanity.com
+
 ## Design and humor: what changed and what stays the same
 
 ### The humor engine: familiar yet refreshed
@@ -43,7 +47,7 @@ If you’ve played CAH before, you’ll recognize the familiar rhythm: the promp
 
 ### Content balance: boundaries and avoidances
 
-A key part of any CAH expansion is how it treads the line between edgy and unacceptable. The Third Expansion leans into edgier content, but it also tries to respect group boundaries with your standard safety rails: prompts that push but do not break, and a reminder that the product can’t shield you from real-world consequences if you play them in a group that includes coworkers or new players. If you are in a mixed group with folks who might be sensitive to certain themes, you’ll want to set expectations before the first round. A quick pre-game ritual that states We will skip explicitly crude content or We will define a content boundary can save a lot of awkward silence later and preserve the group’s overall vibe.
+A key part of any CAH expansion is how it treads the line between edgy and unacceptable. The Third Expansion leans into edgier content, but it also tries to respect group boundaries with your standard safety rails: prompts that push but do not break, and a reminder that the product can’t shield you from real-world consequences if you play them in a group that includes coworkers or new players. If you are in a mixed group with folks who might be sensitive to certain themes, you’ll want to set expectations before the first round. A quick pre-game ritual that states we will skip explicitly crude content or we will define a content boundary can save a lot of awkward silence later and preserve the group’s overall vibe.
 
 From a design perspective, the artwork is sparer than you might hope for, but not in a way that harms humor. It feels like the designers wanted the cards to speak first, with clever typography and a color scheme that keeps the chaos legible rather than chaotic. The card stock is standard CAH: durable enough for a long night of gaming and a trail of snack crumbs, but not a coffee-table edition for serious display. The cards survive the inevitable shuffles and table-top chaos; this is the sort of reliability you want when you are tired, caffeinated, and determined to win the round with one savage burn.
 
