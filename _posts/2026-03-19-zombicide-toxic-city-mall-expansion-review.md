@@ -1,13 +1,15 @@
 ---
 title: 'Zombicide: Toxic City Mall Expansion – A Deep Dive (Expanded)'
 date: 2026-03-19 10:00:00 -0000
-tags:
+tag s:
   - board games
   - zombicide
   - expansion
   - review
   - tabletop
   - co-op
+  - solo
+  - tips
 ---
 
 ![Toxic City Mall Box Art](assets/images/zombicide-toxic-city-mall-box.jpg)
@@ -25,6 +27,7 @@ External references to get a sense of the product: https://www.cmon.com/en/games
 See also in our archive: {% post_url 2025-06-10-zombicide-black-plague-extension-review %} and {% post_url 2024-02-15-zombicide-core-game-review %} for context on how this expansion slots into the broader Zombicide lineup.
 
 ## Box contents and components: what you actually get, plus a little extra spice
+
 ### Box contents at a glance
 - A comprehensive flock of mall floor tiles spanning central food court zones, department stores, boutiques, and a rooftop parking deck that somehow feels more menacing than the undead upstairs.
 - A fresh cadre of toxic hazard tokens and radiation markers that force the group to improvise or concede a tile to the rot.
@@ -77,6 +80,7 @@ The mall setting is the dark heart of this expansion. The signage, shopfronts, a
 To punch up the immersion, consider a few thematic touches: a moody synth playlist, a few cheap props like hazard tape or makeshift barricades, or a house rule that makes a particular store a focal point for a multi-scenario arc. The more you lean into the mall ambiance, the more your table will feel like a doomed shopping spree rather than a mere game night.
 
 ## Solo and multiplayer experiences: is Toxic City Mall for you?
+
 ### Co-op play
 The expansion shines when played cooperatively. You’ll find the environment pushes players to communicate efficiently, coordinate routes, and allocate resources with an eye toward multi-stage objectives. Surivor abilities encourage genuine teamwork rather than solo heroics, and the hazard tokens ensure there’s always a real cost to every risky move. The thrills of a well-executed extraction—two survivors edging toward a locked service door while the rest of the team holds the horde at bay—are the moments that keep players coming back for more.
 
