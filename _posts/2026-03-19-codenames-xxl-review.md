@@ -1,5 +1,5 @@
 ---
-title: Codenames XXL - A Geeknite Review of the Giant Word Game
+ttitle: Codenames XXL - A Geeknite Review of the Giant Word Game
 date: 2026-03-19
 tags: [board games, party games, codenames, review, geeknite]
 ---
@@ -57,7 +57,7 @@ The one-word clue mechanic scales well but also becomes more challenging. In a s
 
 ### Word pools and memory
 - In XXL, memory becomes a real weapon. Remembering which words are linked in your team’s heads by a particular clue can save you a ton of misguesses later in the round.
-- If the game is dragging on, a quick reset can help. A newround approach—start with a fresh clue and a handful of target words—can refresh momentum and prevent fatigue.
+- If the game is dragging on, a quick reset can help. A fresh-round approach—start with a new clue and a handful of target words—can refresh momentum and prevent fatigue.
 
 ## Experience and Theme
 ### The party vibe
@@ -119,7 +119,7 @@ In a world where many word games have migrated to screens, the tactile and socia
 - A guide to running a family-friendly game night with XXL: [Family Night with XXL]({{ post_url '2025-03-15-xxl-family-night-guide' }})
 
 ### External media and fan strategies
-If you want to see visuals of how a crowded XXL table can function in real life, check out this video overview from a local game night: [Video walkthrough of Codenames XXL] (https://www.youtube.com/watch?v=example). For a deeper dive, the community threads on BGG often feature variant rules and house rules that keep things fresh for long play sessions.
+If you want to see visuals of how a crowded XXL table can function in real life, check out this video overview from a local game night: [Video walkthrough of Codenames XXL](https://www.youtube.com/watch?v=example). For a deeper dive, the community threads on BGG often feature variant rules and house rules that keep things fresh for long play sessions.
 
 ## Final thoughts on the Geeknite experience
 Codenames XXL hits that sweet spot where a simple word game becomes a social ritual. It’s a chance to watch your friends reveal their linguist ego in real time, to laugh at a misread clue that ricochets through the room, and to celebrate a clean sweep when the team finally nails the big strategic move. It’s not a flawless product—no game is—yet it shines in the exact conditions where a lot of party games stumble: a big group, your loud friends, and the desire to win while still making sure everyone has a ball. If this sounds like your kind of evening, bring XXL to your next gathering and be prepared to shout, brainstorm, and clown around in equal measure.
