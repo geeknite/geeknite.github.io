@@ -99,7 +99,7 @@ Conversely if you prefer light quick rounds or you dislike the idea of game nigh
 
 For readers who want to explore more of Geeknite approach to party games check out related reviews such as our analysis of chaotic card experiences and our round up of meme driven party staples See related posts here: {% post_url 2025-08-12-chaotic-card-games-night %} and {% post_url 2026-01-15-meme-driven-board-games %} for a broader sense of how we assess the humor and chaos in gaming experiences.
 
-If you want to explore more games that scratch the same itch consider checking out our breakdown of fast furious micro games here: [Geeknite Micro Games Roundup](https://www.geeknite.example/micro-games-roundup).
+If you want to explore more games that scratch the same itch consider checking out our breakdown of fast furious micro games here: Geeknite Micro Games Roundup.
 
 ## Final Thoughts
 Exploding Kittens Deluxe Edition is a celebration of collaborative chaos and clever design It does not pretend to be a serious strategy game it embraces the ridiculous and invites you to dive in with friends who enjoy the ridiculous as much as you do The art lands with a wink the card variety keeps rounds lively and the physical components give you the impression that you are playing something with a little more weight than a standard card game If you want a game that can fill a night with stories as easily as with laughter and you do not mind occasionally sacrificing a couple of brain cells to the joy of misdirection the Deluxe Edition is a compelling choice.
@@ -116,4 +116,3 @@ In short Exploding Kittens Deluxe Edition is a fun flavorful and beautifully pro
 If you want to support Geeknite while snagging your own copy here is a recommended path that also helps us keep the lights on for more content like this Buy the Exploding Kittens Deluxe Edition through this affiliate link and help fund more reviews and silly content: https://affiliate.example.com/exploding-kittens-deluxe
 
 **Bold call-to-action**: Ready to upgrade your next game night? Grab the Deluxe Edition through our affiliate link and join the chair-flipping, meme-quoting chaos today: https://affiliate.example.com/exploding-kittens-deluxe
----
