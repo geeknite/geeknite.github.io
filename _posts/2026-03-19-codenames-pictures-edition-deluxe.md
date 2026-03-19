@@ -9,14 +9,16 @@ tags:
   - deluxe edition
   - Hasbro
   - tabletop
+  - party games
+  - image-based
 ---
 
 ## Introduction
-If you thought Codenames was a party game for people who mutter vaguely suspicious phrases about owls and exoplanets under their breath, brace yourself: Codenames: Pictures - Édition deluxe is here to prove that cinema can be conquered with a grid of stained cards and a skull-cracking clue. This is not your grandma’s word game; this is word-adjacent chaos dressed up in glossy artsy wallpaper and a box that weighs more than most of your feelings about modern cinema. In this review, we’ll crack open the deluxe edition, take a long, cinematic look at the components, compare it to the classic Pictures, and tell you whether it belongs on your game shelf or in your “maybe later when I have extra COVID-19 vacation days” drawer.
+If you thought Codenames was a party game for people who mutter vaguely suspicious phrases about owls and exoplanets under their breath, brace yourself: Codenames: Pictures - Édition deluxe is here to prove that cinema can be conquered with a grid of stained cards and a skull-cracking clue. This is not your grandma's word game; this is word-adjacent chaos dressed up in glossy artsy wallpaper and a box that weighs more than most of your feelings about modern cinema. In this review, we’ll crack open the deluxe edition, take a long, cinematic look at the components, compare it to the classic Pictures, and tell you whether it belongs on your game shelf or in your “maybe later when I have extra COVID-19 vacation days” drawer.
 
 Now, before we dive in, full disclosure: I am not paid by Hasbro (though if Hasbro wants to send me a lifetime supply of deluxe boxes, I can be bribed with coffee and a good pun). This is a Geeknite-style take, full of snark, love for the craft, and a reasonable obsession with the art direction of table-top kits. And yes, there will be spoilers about the art direction and the feel of the tokens. So there’s your spoiler warning: if you’re hoping to be surprised by the cinematic smorgasbord of images, you might want to skim and come back later.
 
-> In this edition, you’ll discover that when you swap words for pictures, the wordplay becomes visual storytelling—without the need to memorize large dictionaries or pretend to enjoy your cousin’s abstract art museum jokes.
+> In this edition, you’ll discover that when you swap words for pictures, the wordplay becomes visual storytelling—without the need to memorize large dictionaries or pretend to enjoy your cousin's abstract art museum jokes.
 
 ![Codenames Pictures Deluxe Box](assets/images/codenames-pictures-deluxe-box.jpg)
 
@@ -29,10 +31,10 @@ For die-hard fans who want a game-night experience that feels a bit more like a 
 The deluxe box is designed to feel premium from the moment you lift the lid. Expect higher-quality image cards, thicker cardstock, and a box that sits on your shelf like a tiny, well-behaved movie theater lobby. In addition to the usual grid cards, you’ll find a set of cinema-themed clue cards that lean into the storytelling vibe. There are also premium agent cards, refined tokens, and a rulebook that’s shorter but sharper—like a good trailer: quick, visually engaging, and designed not to spoil the entire plot.
 
 ### Production quality and art direction
-The artwork on the picture cards leans into cinematic tropes—think vintage cinema posters, bustling cityscapes, and a few eye-catching surreal cues that beg for a witty clue. The Deluxe edition’s image resolution is noticeably crisper than the base set; the colors pop in a way that makes taking turns feel almost cinematic rather than purely cerebral. The art direction is consistent with contemporary game-craft aesthetics: vivid but not cartoonish, with a balance between playful imagery and legible symbols. If you’re the kind of gamer who frames card art to admire later, this box makes it easy.
+The artwork on the picture cards leans into cinematic tropes—think vintage cinema posters, bustling cityscapes, and a few eye-catching surreal cues that beg for a witty clue. The Deluxe edition's image resolution is noticeably crisper than the base set; the colors pop in a way that makes taking turns feel almost cinematic rather than purely cerebral. The art direction is consistent with contemporary game-craft aesthetics: vivid but not cartoonish, with a balance between playful imagery and legible symbols. If you’re the kind of gamer who frames card art to admire later, this box makes it easy.
 
 ### Components: durability and design
-Deluxe doesn’t just mean bigger and brighter; it means longer shelf life and easier setup. The cards are slightly thicker, the rulebook is printed on sturdier stock, and the scoring tokens feel substantial in the hand. The translucent, cinema-inspired cues on the clue cards provide a little extra flair—enough to feel thematically coherent without becoming gimmicky. If you’re a person who enjoys the tactile joy of premium components (and who doesn’t want to feel like they’re wielding a director’s toolkit during game night?), this edition scratches that itch in a satisfying way.
+Deluxe doesn't just mean bigger and brighter; it means longer shelf life and easier setup. The cards are slightly thicker, the rulebook is printed on sturdier stock, and the scoring tokens feel substantial in the hand. The translucent, cinema-inspired cues on the clue cards provide a little extra flair—enough to feel thematically coherent without becoming gimmicky. If you’re a person who enjoys the tactile joy of premium components (and who doesn't want to feel like they’re wielding a director's toolkit during game night?), this edition scratches that itch in a satisfying way.
 
 ---
 
@@ -41,7 +43,7 @@ Deluxe doesn’t just mean bigger and brighter; it means longer shelf life and e
 As with standard Codenames, your team will have a clue-giver who attempts to guide their teammates to specific image cards without triggering the assassin. The grid is built from a subset of image cards laid out face-up. The Deluxe edition tweaks the visuals, but the core setup remains delightfully simple: shuffle the image deck, lay down a grid (usually 5 by 5), distribute the spy masters, and hand out the clue tokens. The experience hinges on the synergy between your clue-giver’s storytelling and your teammates’ ability to interpret imagery quickly.
 
 ### Gameplay loop
-Two teams compete to find their agents by following image-based clues. The clue-giver gives a one-word clue and a number, like “Flight 3” or “Inception 2.” The number indicates how many cards are linked to the clue (but of course, you might pick more cards and risk hitting the assassin). In Pictures, clues revolve around visual associations rather than words, which leads to more abstract or cinematic thinking. It’s a delightful shift if you’re tired of the same three-letter clues and want to stretch your brain in a different direction. The deluxe edition emphasizes faster turns with a slightly more forgiving card design, which is a blessing when you’ve got a ceiling full of yawning players waiting for you to utter something clever.
+Two teams compete to find their agents by following image-based clues. The clue-giver gives a one-word clue and a number, like Flight 3 or Inception 2. The number indicates how many cards are linked to the clue (but of course, you might pick more cards and risk hitting the assassin). In Pictures, clues revolve around visual associations rather than words, which leads to more abstract or cinematic thinking. It’s a delightful shift if you’re tired of the same three-letter clues and want to stretch your brain in a different direction. The deluxe edition emphasizes faster turns with a slightly more forgiving card design, which is a blessing when you’ve got a ceiling full of yawning players waiting for you to utter something clever.
 
 ### Length and pacing
 A typical game in this edition hovers around 15–30 minutes, depending on group size and how aggressively players want to interpret imagery. The pace feels steadier than the standard word-based version because the images usually trigger more immediate associations. If you like your games short, sharp, and theatre-adjacent, this edition is a good fit. If you’re chasing long, deep strategy sessions, you might prefer to lock in a couple of rounds and call it a night.
@@ -117,7 +119,7 @@ If you’re into the meta of game-night banter, you might enjoy checking a post 
   - Quick to teach and quick to play, ideal for casual get-togethers and family game nights.
 - Cons:
   - Higher price point than the standard edition.
-  - The deluxe polish can feel frivolous for players who simply want a fast, no-fruss game night.
+  - The deluxe polish can feel frivolous for players who simply want a fast, no-frill game night.
   - Some players may crave more concrete wordplay and less cinematic abstraction.
 
 If you’re forming a regular game-night crew that loves visual storytelling, this edition is a strong candidate to upgrade from the standard Pictures set. If you’re budget-conscious or your group tends to prefer longer, more strategy-dense sessions, you might still enjoy it, but you’ll likely value it as a premium addition rather than a must-have core game.
