@@ -1,5 +1,5 @@
 ---
-title: Herd Mentality: Team Building Game
+title: Herd Mentality: Team Building Game (Expanded Review)
 date: 2026-03-19
 tags:
   - games
@@ -7,10 +7,13 @@ tags:
   - party-games
   - review
   - nerdy
+  - humor
+  - remote-work
+  - learning
 ---
 
 ## Introduction
-Geeknite reviewers have a special soft spot for party games that double as mental workouts. Herd Mentality is one of those games that pretends to be simple but reveals the profound truth that the herd is often wrong about being right. In the office, the watercooler becomes a stage and the conference room turns into a brain teaser arena. The aim is simple on paper: think like the crowd, predict what the majority would say, and score points for being in sync with the herd. In practice, it is a delicious chaos of social psychology, rapid-fire brainstorming, and the occasional absurd answer that makes your teammates snort-laugh into their coffee mugs. The perfect antidote to quarterly reports and endless brainstorming sessions.
+Geeknite reviewers have a soft spot for party games that double as mental workouts. Herd Mentality is one of those games that pretends to be simple but reveals the profound truth that the herd is often wrong about being right. In the office, the watercooler becomes a stage and the conference room turns into a brain teaser arena. The aim is simple on paper: think like the crowd, predict what the majority would say, and score points for being in sync with the herd. In practice, it is a delicious chaos of social psychology, rapid-fire brainstorming, and the occasional absurd answer that makes your teammates snort-laugh into their coffee mugs. The perfect antidote to quarterly reports and endless brainstorming sessions.
 
 ![Herd Mentality setup](/assets/images/herd-mentality-setup.jpg)
 
@@ -90,6 +93,24 @@ Choose prompts that have multiple plausible herd answers, sparking debate about 
 
 ### Remote-Friendly Spin
 If you are remote, use a shared document or a whiteboard for answer submissions. Have a separate poll for the herd vote, and ensure that every participant can see the live results. A quick camera shot of the group’s vibe can replace the physical board if you must.
+
+### Accessibility and Inclusivity (New)
+Add a dedicated “inclusive prompts” rule: you can pull a prompt and immediately swap if it risks alienating a participant. Establish a quick, 30-second safety check before a prompt goes live. Use large-print prompts for visibility, and consider color-blind-friendly color schemes for voting tokens. The goal is to preserve the social glue while ensuring everyone can participate with comfort.
+
+### Prompt Gallery: Prompts That Land (New)
+To help facilitators, here’s a starter gallery of prompts that reliably land with different teams:
+- Name three items you’d bring to a desert island, each under five words.
+- If your team were a movie, what genre would it be and why?
+- Describe your company’s mission in a single emoji and a one-sentence rhyme.
+- The worst product name you could give to a kitchen gadget, explained in one sentence.
+- The first thing you would ship to a new remote teammate to prevent culture shock.
+- Your project’s unofficial mascot and its catchphrase.
+Each prompt invites a set of plausible herd answers while leaving room for personal flavor—perfect for preventing stall moments and keeping laughter rolling.
+
+### Remote-Friendly Enhancements
+- Use a shared doc for prompt submissions and a separate poll for the herd vote.
+- Record quick, 15-second setups where players explain their answers in a concise, funny way. Sometimes the reasoning is funnier than the answer itself.
+- Create a post-session debrief slide linking prompts to team goals, like collaboration milestones, communication clarity, and psychological safety indicators.
 
 ## Facilitator Tips: Running the Session like a Pro
 If you are the host or facilitator, you hold the energy in your hands. Your role is not to dominate but to shepherd the flow and keep the room feeling inclusive.
