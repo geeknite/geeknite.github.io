@@ -1,5 +1,5 @@
 ---
-title: City of Mist: Fortune Row - GM Screen Review (Updated)
+title: City of Mist: Fortune Row - GM Screen Review (Expanded)
 date: 2026-03-19
 tags:
   - City of Mist
@@ -7,19 +7,22 @@ tags:
   - Fortune Row
   - RPG Accessories
   - Geeknite
+  - Review
+  - Tabletop
+layout: post
 ---
 
 ## Introduction
 
-If you’ve ever tried to herd a group of myth-haunted street detectives through neon rain while keeping plot threads from turning into a spaghetti junction, you know the value of a good GM screen. Fortune Row is that screen—a neon-lit command panel for your City of Mist table that whispers, not shouts, when to roll the dice and when to let a scene breathe. This updated look at Fortune Row aims to balance the romance of the noir universe with the grit of a well-run investigation. Spoiler: it mostly delivers and occasionally glows in the dark.
+If you’ve ever tried to herd a group of myth-haunted street detectives through neon rain while keeping plot threads from turning into a spaghetti junction, you know the value of a good GM screen. Fortune Row is that screen—a neon-lit command panel for your City of Mist table that whispers, not shouts, when to roll the dice and when to let a scene breathe. This expanded look at Fortune Row aims to balance the romance of the noir universe with the grit of a well-run investigation. Spoiler: it mostly delivers and occasionally glows in the dark.
 
 The screen isn’t just a decorative prop. It’s a compact briefing room for the GM, built to surface the two wings of City of Mist—Mythos and Logos—without requiring you to rummage through the entire rulebook while a suspect uses your coffee to model a new alibi. It comes with a small deck of companion cards and a handful of fortune tokens that double as mood nudges and plot hinges. The real test is whether Fortune Row helps you keep the session moving, or whether it’s a carry-on you forget you own after a single dramatic fade-out.
 
 > For those who want to dive deeper into the broader design space of City of Mist tools, check out the related post on narrative tech in City of Mist tools and how to wield them in play: [Related deep dive on narrative tools]({% post_url 2024-10-21-city-of-mist-narrative-play.md %}). Also see a prior look at GM screen essentials that still holds up in a pinch: [GM Screen Essentials revisited]({% post_url 2025-01-15-city-of-mist-gm-screen-essentials.md %}).
 
-![Fortune Row GM Screen — Front](./assets/images/fortune-row/front.jpg)
+![Fortune Row GM Screen — Front]({{ '/assets/images/fortune-row/front.jpg' | relative_url }})
 
-![Fortune Row GM Screen — Back](./assets/images/fortune-row/back.jpg)
+![Fortune Row GM Screen — Back]({{ '/assets/images/fortune-row/back.jpg' | relative_url }})
 
 ## Unboxing and First Impressions
 
@@ -104,11 +107,22 @@ Fortune Row lends itself to a few light house rules that can speed things up wit
 
 Fortune Row scales well for table-rotation streaming. The legible typography and clear iconography read well on camera, and the two-panel layout ensures that you aren’t constantly adjusting camera angles to catch a tiny reference. If you run City of Mist sessions on stream, you’ll appreciate the visual clarity and the mood the product brings to the table. Aesthetics aside, the quick prompts reduce the visible temptation to rely on long, rambling narration on screen; you can still talk your way through twists, but your UX is cleaner and more cinematic.
 
-## Final Verdict
+## Advanced Setup and Customization Workshop
 
-Fortune Row GM Screen remains a standout choice for City of Mist groups who want a reliable, aesthetically coherent, and narrative-friendly tool on the table. It pays off in smoother scene transitions, quicker checks, and a mood that fits the game’s urban myth-meets-detective vibe. It’s not essential for every table, but for groups who want a consistent tempo and a cinematic feel, Fortune Row is a smart investment.
+If you’re the kind of GM who wants every edge dialed to eleven, consider these practical tweaks to tailor Fortune Row to your table:
 
-The build quality, thoughtful layout, and fidelity to the City of Mist mood combine to deliver a product that feels built to last through a campaign’s worth of late-night sessions. If your table is all about mood, momentum, and mythic storytelling, Fortune Row earns a solid recommendation.
+- Custom prompt micro-decks: Print a slim deck of 8–12 prompts tailored to your current arc. Laminate them and slot them into the back panel for fast access.
+- Color-coded cues: Use color stickers or washi tape to color-code Mythos vs Logos prompts. It helps new players quickly interpret which track a twist belongs to.
+- Personal antagonist sheets: Create mini sheets for your primary antagonists and slip them into the back panel. When the villain is about to reveal their masterstroke, flash a tailored prompt card instead of rifling through pages.
+- Table-setup rituals: Develop a ritual around fortune token usage—the moment a token is flipped, players automatically lean into a theme described on the card. It makes the moment cinematic and less mechanical.
+
+## Using Fortune Row in Campaign Arcs
+
+Fortune Row shines when you treat it as a living map of momentum rather than a static prop. Here are a few ways to weave it into ongoing arcs:
+
+- Arc milestones: At the end of a session, place a Token on a major arc milestone. The next session can begin with that token being spent to nudge toward a pivotal reveal or to open a new clue that reframes the mystery.
+- City-level tempo: Use the Mythos & Logos quick refs as a heartbeat for city-level events. If a mayoral corruption storyline begins, toggle between mythic and mundane layers to remind players that the city itself is a character.
+- Investigative cadence: Pair token usage with investigative beats. A Token flip can shift the mood from tense inquiry to adrenaline-fueled confrontation, letting you orchestrate a mechanism other than raw dice to guide pace.
 
 ## Quick Start Tips for GMs
 
@@ -122,9 +136,24 @@ The build quality, thoughtful layout, and fidelity to the City of Mist mood comb
 
 - A closer look at City of Mist gear and how to kit out your table for maximum narrative payoff [{% post_url 2024-10-21-city-of-mist-narrative-play.md %}]
 - A practical guide to GM screens and how to tailor them to your campaign [{% post_url 2025-01-15-city-of-mist-gm-screen-essentials.md %}]
+- More on city-level tools: narrative devices that amplify mood without slowing play [{% post_url 2023-07-08-city-of-mist-tools-and-tempo.md %}]
+
+## FAQ
+
+- Is Fortune Row worth it for one-shot campaigns? If your one-shots lean heavily on noir mood, investigative tempo, and quick pivots, yes. If your table values ultra-minimalism, you may skip it. It’s a tool that pays off when you use it, not when you stare at it in awe.
+- Can I use Fortune Row with other systems? It is designed around City of Mist, but the core ideas—the two-track Mythos/Logos rhythm and rapid prompts—translate well to other noir-detective frameworks. Expect some adaptation work for the card prompts and tokens.
+- How rugged is the build? It’s solid enough for weekly play and occasional mishandling. If your group treats gear like a museum, consider a dedicated sleeve or case.
 
 ## Final Thoughts
 
 Fortune Row is a thoughtful addition to the City of Mist ecosystem. It respects the mood and mechanics of the game while delivering tangible value at the table. If your group enjoys a cinematic, mythic detective vibe and you want a practical tool to maintain pace and clarity, this GM screen earns its place on the table. It’s not perfection, but it is a damn good piece of gear that makes you feel like a director rather than a chair jockey.
+
+### Final Verdict
+
+Fortune Row remains a standout choice for City of Mist groups who want a reliable, aesthetically coherent, and narrative-friendly tool on the table. It pays off in smoother scene transitions, quicker checks, and a mood that fits the game’s urban myth-meets-detective vibe. It’s not essential for every table, but for groups who want a consistent tempo and a cinematic feel, Fortune Row is a smart investment. The build quality, thoughtful layout, and fidelity to the City of Mist mood combine to deliver a product that feels built to last through a campaign’s worth of late-night sessions. If your table is all about mood, momentum, and mythic storytelling, Fortune Row earns a solid recommendation.
+
+## Final Recommendation
+
+If you crave a tool that blends noir ambiance with practical on-table efficiency, Fortune Row is worth the investment. It keeps conversations in motion, reduces table chatter, and gives you a tactile way to steer momentum without breaking immersion. The two-panel design, the customizable prompts, and the fortune row mechanics all converge into a single conclusion: Fortune Row helps you run the city, not sort through the city’s paperwork.
 
 **Get Fortune Row GM Screen here and level up your City of Mist sessions today: https://affiliate.example.com/city-of-mist-fortune-row?ref=geeknite**
