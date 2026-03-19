@@ -1,4 +1,14 @@
-{"post_name": "2026-03-19-cerebria-inside-world-digital-edition-review.md", "new_content": "---\nttitle: \"Cerebria: The Inside World - Digital Edition Review (Expanded)\"\ndate: 2026-03-19 12:00:00 +0000\ntags:\n  - board-games\n  - Cerebria\n  - digital-edition\n  - review\n  - coop\n  - solo\n---
+---
+ttitle: "Cerebria: The Inside World - Digital Edition Review (Expanded)"
+date: 2026-03-19 12:00:00 +0000
+tags:
+  - board-games
+  - Cerebria
+  - digital-edition
+  - review
+  - coop
+  - solo
+---
 
 ![Cerebria: The Inside World - Digital Edition Cover](/assets/images/cerebria-digital-edition-cover.jpg)
 
@@ -160,4 +170,4 @@ If you’re on the fence, imagine this: a cozy board game night with friends tha
 
 If you want to learn more about design decisions behind mood mechanics and the emotional economy in strategy games, you can explore similar topics by visiting other Geeknite posts that break down complex rules into edible, digestible chunks. For instance, check out our earlier exploration of co-op game design and how to facilitate better turn-taking and social negotiation at your table.
 
-**[Grab the Cerebria Digital Edition here](https://affiliates.geeknite.example/cerebria-digital-edition)**"}
+**[Grab the Cerebria Digital Edition here](https://affiliates.geeknite.example/cerebria-digital-edition)**
