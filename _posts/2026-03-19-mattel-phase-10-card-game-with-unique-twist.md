@@ -94,6 +94,12 @@ The revised visuals lean into a modern, playful aesthetic that still respects Ph
 
 Setup and cleanup notes: you’ll want a comfortable table surface and enough seating, as sessions can stretch longer with a competitive group. Cards shuffle smoothly, and the tokens are easy to grab without turning the table into a token avalanche—though you may still brag about a perfectly timed token play to anyone who’ll listen.
 
+### Component quality deep dive
+- Card stock and finish: a pleasant balance of durability and shufflability; not too glossy, not too stiff.
+- Twist Tokens: chunky enough to feel like a tactical choice, not a gimmick; tactile feedback adds satisfying pauses to the turn cadence.
+- Wild Cards: reversible functionality adds a layer of risk-reward; be prepared for conversations about “who swapped with whom?” and why it benefits your strategy.
+- Rulebook: concise but thorough on Twist Token interactions; a well-paced primer that doesn’t bury you under a flood of edge cases.
+
 ## External resources and community chatter
 If you want to see what others say about Phase 10 Unique Twist, you can check the official Mattel product page for background and official rules: https://www.mattelgames.com/product/phase-10. For broader opinions and community feedback, the BoardGameGeek discussion boards offer varied perspectives on how this edition lands with different playgroups: https://boardgamegeek.com/boardgame/5421/phase-10. Our own loop around similar reimaginings of classic card games can be found in post_url: {% post_url 2024-03-21-geeknite-roundup-modern-classics %} and post_url: {% post_url 2025-07-22-family-friendly-game-night-tips %}.
 
