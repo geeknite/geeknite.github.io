@@ -11,7 +11,7 @@ tags:
   - PowerManagement
 ---
 
-The Eaton 5Sx 3000Va 230V Rack Tower 2U is the kind of UPS that makes your lab look professional even if your cables are a tangled spaghetti volcano. In this review we explore how this compact powerhouse performs in real-world homelab and small business settings, what to expect from its rack-tower versatility, and whether paying the premium for a 5Sx makes sense for your setup.
+The Eaton 5Sx 3000Va 230V Rack Tower 2U is the kind of UPS that makes your lab look professional even if your cables are a tangled spaghetti volcano. In this review we explore how this compact powerhouse performs in real-world homelab and small business settings, what to expect from its rack-tower versatility, and whether paying the premium for a 5Sx makes sense for your setup. If you love the scent of ozone and the smell of hot solder in the morning, you’ll enjoy how this device makes the power story feel like a project you can actually finish—before the lights blink and chaos ensues.
 
 ## Overview and What You Get
 
@@ -57,6 +57,7 @@ The image above shows the typical rack configuration. In a small office or home 
 Runtime is one of those things you understand only after you’ve seen it in action. With a UPS like the 5Sx 3000VA, runtime scales with load. It’s not a magic wand that will let you run a full-blown server cluster for hours on end; it’s a buffer, a safe pause that buys you time to gracefully shut down services and prevent file system corruption during outages. Here are the kind of figures you’ll typically see:
 
 - At 50% load (about 1350 VA / 1000 W): approximately 8–12 minutes of runtime, depending on battery age and ambient temperature
+- At 75% load (about 2025 VA / 1500 W): around 5–9 minutes
 - At 100% load (about 2700 W): around 3–6 minutes at best
 
 Your actual numbers will vary. If you’ve got a NAS with disk spindles, a small virtualized environment, and a handful of network devices, you’ll likely settle into a sweet spot where you’ve got enough cushion to save work and gracefully stand down nodes without drama.
