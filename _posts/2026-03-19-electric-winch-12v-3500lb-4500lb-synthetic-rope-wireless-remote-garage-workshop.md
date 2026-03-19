@@ -1,5 +1,5 @@
 ---
-ttitle: Electric Winch 12v 3500lb 4500lb Synthetic Rope Wireless Remote Garage Workshop
+ttitle: Electric Winch 12V 3500lb / 4500lb: Synthetic Rope, Wireless Remote for Garage Workshop
 date: 2026-03-19
 tags:
   - Gear
@@ -9,6 +9,7 @@ tags:
   - Reviews
   - Safety
   - Maintenance
+  - Winching
 ---
 
 ![Electric Winch Illustration]({{ '/assets/images/electric-winch-12v-3500lb.jpg' | relative_url }})
@@ -125,9 +126,9 @@ Cons
 Bottom line: If you’re a DIY’er who needs a reliable, mid-range winch to handle occasional jostles, recoveries, and warehouse-like lifting chores, the 3500 lb version is a sensible starting point. If you want extra headroom, assurance, and the occasional sense of victory when a stubborn obstacle finally yields, the 4500 lb variant is your best friend. Either way, you’re getting a tool designed to fit into a garage, not a keyboard warrior’s fantasy. And yes, the synthetic rope makes a tangible difference in handling and safety, which is the whole point of modern winching design.
 
 ## Quick links to related reads on the Geeknite site
-- Learn more about the basics of winching and load calculations in our beginner guide. See post_url 2025-01-15-beginners-guide-to-winch-loads.
-- For a broader toolkit review that covers garage power supplies and safety basics, check out post_url 2024-11-04-garage-tools-you-actually-use.
-- If you are curious about maintenance routines for heavy tools, visit post_url 2023-07-21-tool-maintenance-fundamentals.
+- Learn more about the basics of winching and load calculations in our beginner guide. See post_url {% raw %}{% post_url 2025-01-15-beginners-guide-to-winch-loads %}{% endraw %}.
+- For a broader toolkit review that covers garage power supplies and safety basics, check out post_url {% raw %}{% post_url 2024-11-04-garage-tools-you-actually-use %}{% endraw %}.
+- If you are curious about maintenance routines for heavy tools, visit post_url {% raw %}{% post_url 2023-07-21-tool-maintenance-fundamentals %}{% endraw %}.
 - For a broader take on synthetic rope vs steel, see the external discussion linked below.
 
 External resources you might find useful
