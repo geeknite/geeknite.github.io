@@ -1,5 +1,5 @@
 ---
-title: Mattel UNO Customizable Card Game — A Geeknite Deep Dive
+title: Mattel UNO Customizable Card Game — A Geeknite Deep Dive (Updated)
 date: 2026-03-19
 tags:
   - board games
