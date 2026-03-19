@@ -1,5 +1,5 @@
 ---
-title: 'Gamewright Sushi Go Party! - Reseña de lujo en lata (Actualización)'
+title: 'Gamewright Sushi Go Party! - Reseña de lujo en lata (Actualización extendida)'
 date: 2026-03-19
 tags:
   - juegos de mesa
@@ -8,6 +8,7 @@ tags:
   - sushi go party
   - familia
   - party games
+  - humor
 ---
 
 ![Sushi Go Party! en lata]({{ '/assets/images/sushi-go-party.jpg' | relative_url }})
@@ -30,7 +31,7 @@ La calidad de impresión y el grosor de las cartas se sienten robustos, pensados
 ## Mecánica base y experiencia de juego: ¿qué te está vendiendo exactamente?
 El corazón de Sushi Go Party, al igual que su predecesor, es el drafting o picking de cartas y la construcción de sets para sumar puntos. En cada ronda, cada jugador elige una carta de su mano y la coloca ante sí para formar su escena de puntuación; luego pasa el resto de cartas al vecino, repitiendo hasta que se agotan. Pero aquí la cosa se complica de forma agradable: cada menú determina qué combinaciones puntuarán y con qué frecuencia; algunos menús son simples y claros, otros convierten la mesa en un rompecabezas de puntuación que cambia con cada sesión.
 
-En la versión Party, la diversidad de menús permite que puedas adaptar la dificultad al grupo. ¿Necesitas algo rápido para principiantes? Elige menús más directos y menos sinergias complicadas. ¿Buscas profundidad estratégica para veteranos? Añade menús que premien sinergias complejas o que obliguen a planear varias rondas a la vez. En mi experiencia, el ritmo es ágil: las rondas se resuelven en minutos, y la interacción entre jugadores se mantiene constante con risas, susurros y comentarios sobre la simetría de un triángulo de nigiri. La dinámica de pick & pass sigue siendo la columna vertebral, pero la variedad de menús añade capas de decisión que no se vuelven pesadas; se vuelven, en cambio, un juego dentro del juego.
+En la versión Party, la diversidad de menús permite que puedas adaptar la dificultad al grupo. ¿Necesitas algo rápido para principiantes? Elige menús más directos y menos sinergias complicadas. ¿Buscas profundidad estratégica para veteranos? Añade menús que premien sinergias complejas o que obliguen a planear varias rondas a la vez. En mi experiencia, el ritmo es ágil: las rondas se resuelven en minutos, y la interacción entre jugadores se mantiene constante con risas, susurros y comentarios sobre la simetría de un triángulo de nigiri. La dinámica de pick & pass sigue siendo la columna vertebral, pero la diversidad de menús añade capas de decisión que no se vuelven pesadas; se vuelven, en cambio, un juego dentro del juego.
 
 ### Diferencias con Sushi Go original
 Para quien ya haya jugado Sushi Go en su versión clásica, Sushi Go Party es un upgrade razonable sin convertirse en un juego completamente distinto. Entre las diferencias destacables:
@@ -45,10 +46,17 @@ En Sushi Go Party, el objetivo no es solo recolectar cartas de comida, sino ente
 A continuación, una guía ampliada para empezar con soltura sin perderse en reglamentos enrevesados. Esta sección está pensada para lectores que quieren entrar en acción sin perder dos horas buscando el reglamento.
 
 ### Preparación
-1) Escoge un conjunto de menús para la sesión: puedes usar uno de los menús predefinidos o diseñar una configuración propia, si te sientes particularmente creativo. 2) Cada jugador toma su carta de inicio y la lata de puntuación para controlar la mesa de puntuación. 3) Mezcla las cartas de sushi y reparte una cantidad igual a cada jugador, dejando algunas cartas extra para el primer turno. 4) Prepara el área de juego y elige al azar quién empieza. Si quieres una experiencia más teatral, designa un maestro de menús que declare la puntuación final de cada ronda y haga comentarios irónicos cuando alguien olvida que un as de atún suma puntos extra por simetría.
+- Escoge un conjunto de menús para la sesión: puedes usar uno de los menús predefinidos o diseñar una configuración propia, si te sientes particularmente creativo. 
+- Cada jugador toma su carta de inicio y la lata de puntuación para controlar la mesa de puntuación. 
+- Mezcla las cartas de sushi y reparte una cantidad igual a cada jugador, dejando algunas cartas extra para el primer turno. 
+- Prepara el área de juego y elige al azar quién empieza. Si quieres una experiencia más teatral, designa un maestro de menús que declare la puntuación final de cada ronda y haga comentarios irónicos cuando alguien olvida que un as de atún suma puntos extra por simetría.
 
 ### Turno típico
-1) El jugador activo elige una carta de su mano y la coloca en su área de puntuación. 2) El jugador pasa el resto de cartas al vecino, de forma que cada jugador reciba una nueva mano para escoger en la siguiente ronda. 3) Cuando no quedan cartas para pasar, cada jugador procede a puntuar las cartas de su área de puntuación según el menú escogido. 4) Repite el proceso hasta que se agoten las cartas. 5) Suma puntos y descarte para preparar la siguiente ronda con un nuevo menú, si se decide cambiar la configuración.
+- El jugador activo elige una carta de su mano y la coloca en su área de puntuación. 
+- El jugador pasa el resto de cartas al vecino, de forma que cada jugador reciba una nueva mano para escoger en la siguiente ronda. 
+- Cuando no quedan cartas para pasar, cada jugador procede a puntuar las cartas de su área de puntuación según el menú escogido. 
+- Repite el proceso hasta que se agoten las cartas. 
+- Suma puntos y descarte para preparar la siguiente ronda con un nuevo menú, si se decide cambiar la configuración.
 
 ### Reglas rápidas y trampas comunes
 - Mantén una visión general de las cartas que han sido jugadas para anticipar qué cartas podrían volver en la siguiente ronda.
@@ -121,7 +129,7 @@ La lata, la estética y la mecánica de pick & pass trabajan a favor de la socia
 ## Diseño, arte y experiencia sensorial (profundizado)
 La experiencia visual de Sushi Go Party es un payaso elegante: colores vivos, personajes de sushi con expresiones simpáticas y un diseño que facilita la lectura de puntuaciones en la mesa. Cada carta es lo suficientemente flexible para que niños y adultos puedan distinguir entre maki, nigiri, sashimi y otros favoritos sin necesidad de reglamentos complejos. Las ilustraciones ayudan a entender qué tipo de carta es y qué posibles combinaciones puede formar. El contenedor lata no solo guarda las cartas; también crea un ritual de apertura que invita a la socialización: la gente comenta sobre el diseño, comparte historias de su primera experiencia con la serie y, a veces, hace chistes internos sobre “la precisión de la salsa de soja”. Todo ello refuerza la idea central: este juego no es solo una mecánica; es una experiencia social que se disfruta en conjunto.
 
-## La lata como almacén y motor social
+### La lata como almacén y motor social
 La lata de lujo facilita el transporte, el almacenamiento y la conversación posterior a la partida. A la hora de guardar, las tarjetas quedan ordenadas por tipo y tamaño, lo que simplifica montar una nueva sesión sin perder minutos buscando cartas sueltas. Pero más allá de la practicidad, la lata funciona como un símbolo de “fiesta organizada”: alguien ve la lata y sabe que aquí hay una noche de risas, modas de menú y, probablemente, alguna historia de puntuación imposible que finalmente tiene sentido cuando se llega a la ronda final.
 
 ## Conclusión y recomendación final
