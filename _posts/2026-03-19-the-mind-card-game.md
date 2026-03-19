@@ -1,10 +1,10 @@
 ---
-title: The Mind Card Game Review: Silent Strategy, Loud Laughter, and a Dash of Chaos
+title: The Mind Card Game Review: Silent Strategy, Loud Laughter, and a Dash of Chaos (Expanded)
 date: 2026-03-19
 tags: [board games, card games, family-friendly, party games, Pandasaurus, The Mind, cooperative-games, silent-strategy, geeknite]
 ---
 
-![The Mind box on a coffee table](https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=60)
+![The Mind box on a coffee table]({{ '/images/the-mind-box.jpg' | relative_url }})
 
 ## Overview
 The Mind is the kind of game that makes your brain feel like it just sprinted a marathon in a library. It’s a cooperative card game from Pandasaurus that asks you to trust your instincts, your fellow players, and your ability to resist blurting out your thoughts in a room full of people who would rather hear a suspenseful hush than a TED Talk on why you should never break the flow. The core gimmick is simple to grasp but deliciously brutal in practice: play cards in ascending order from 1 to 100, with no talking. Silent poker with a side of existential dread, and somehow it works.
@@ -13,7 +13,9 @@ The Mind comes with a minimalist setup: a deck of 100 numbered cards and a handf
 
 For the curious, here is the quick pitch: you are dealt a number of cards each round, with the exact number scaling as rounds progress. You select a card and reveal it, hoping the group’s revealed cards form an ascending rhythm. If your team blunders and a card breaks the sequence, you lose a life token and try again until the lives run dry or you finish the rounds. It is a test of nerve, timing, and the ability to resist coaching the group during a reveal.
 
-If you want to peek at the official source, Pandasaurus lists The Mind as a light-to-medium cooperative game designed for 2–4 players, with variants and house rules floating around the community. For a more stats-forward look, the BoardGameGeek page is the place to find fan-made strategy sheets and continued debates about rounds and team dynamics. Links: Pandasaurus official page — BoardGameGeek page. In this updated take, we’ll keep the spirit but lean into practical, real-table tips and comedic moments you’ll actually encounter.
+If you want to peek at the official source, Pandasaurus lists The Mind as a light-to-medium cooperative game designed for 2–4 players, with variants and house rules floating around the community. For a more stats-forward look, the BoardGameGeek page is the place to find fan-made strategy sheets and continued debates about rounds and team dynamics. Links: Pandasaurus official page — BoardGameGeek page. In this expanded take, we’ll keep the spirit but lean into practical, real-table tips and comedic moments you’ll actually encounter.
+
+> Note: The Mind plays best with a crew that enjoys micro-moments of tension and a shared sense of timing. If your table thrives on verbose explanations, you might want to set a timer and pretend you’re running a high-stakes silent auction instead.
 
 ## The Rules in a Nutshell
 The Mind operates on a deceptively simple principle: silence is golden, timing is critical, and you must trust your fellow players more than your personal sense of self-preservation.
