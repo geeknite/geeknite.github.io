@@ -12,6 +12,7 @@ tags:
   - rejugabilidad
   - familia
   - review
+  - geeknite
 ---
 
 ![Sushi Go Party en lata]({{ '/assets/images/sushi-go-party.jpg' | relative_url }})
@@ -36,7 +37,7 @@ La calidad de impresión y el grosor de las cartas se sienten robustos, pensados
 ## Mecánica base y experiencia de juego: ¿qué te está vendiendo exactamente? (Más profundo)
 El corazón de Sushi Go Party, al igual que su predecesor, es el drafting o picking de cartas y la construcción de sets para sumar puntos. En cada ronda, cada jugador elige una carta de su mano y la coloca ante sí para formar su escena de puntuación; luego pasa el resto de cartas al vecino, repitiendo hasta que se agotan. Pero aquí la cosa se complica de forma agradable: cada menú determina qué combinaciones puntuarán y con qué frecuencia; algunos menús son simples y claros, otros convierten la mesa en un rompecabezas de puntuación que cambia con cada sesión.
 
-En la versión Party, la diversidad de menús permite que puedas adaptar la dificultad al grupo. ¿Necesitas algo rápido para principiantes? Elige menús más directos y menos sinergias complicadas. ¿Buscas profundidad estratégica para veteranos? Añade menús que premien sinergias complejas o que obliguen a planear varias rondas a la vez. En mi experiencia, el ritmo es ágil: las rondas se resuelven en minutos, y la interacción entre jugadores se mantiene constante con risas, susurros y comentarios sobre la simetría de un triángulo de nigiri. La dinámica de pick & pass sigue siendo la columna vertebral, pero la diversidad de menús añade capas de decisión que no se vuelven pesadas; se vuelven, en cambio, un juego dentro del juego.
+En la versión Party, la diversidad de menús permite que puedas adaptar el ritmo al grupo. ¿Necesitas algo rápido para principiantes? Elige menús más directos y menos sinergias complicadas. ¿Buscas profundidad estratégica para veteranos? Añade menús que premien sinergias complejas o que obliguen a planear varias rondas a la vez. En mi experiencia, el ritmo es ágil: las rondas se resuelven en minutos, y la interacción entre jugadores se mantiene constante con risas, susurros y comentarios sobre la simetría de un triángulo de nigiri. La dinámica de pick & pass sigue siendo la columna vertebral, pero la diversidad de menús añade capas de decisión que no se vuelven pesadas; se vuelven, en cambio, un juego dentro del juego.
 
 ### Diferencias con Sushi Go original (en clave de expansión de experiencia)
 Para quien ya haya jugado Sushi Go en su versión clásica, Sushi Go Party es un upgrade razonable sin convertirse en un juego completamente distinto. Entre las diferencias destacables:
@@ -55,6 +56,8 @@ A continuación, una guía ampliada para empezar con soltura sin perderse en reg
 - Cada jugador toma su carta de inicio y la lata de puntuación para controlar la mesa de puntuación. 
 - Mezcla las cartas de sushi y reparte una cantidad igual a cada jugador, dejando algunas cartas extra para el primer turno. 
 - Prepara el área de juego y elige al azar quién empieza. Si quieres una experiencia más teatral, designa un maestro de menús que declare la puntuación final de cada ronda y haga comentarios irónicos cuando alguien olvida que un as de atún suma puntos extra por simetría.
+
+> Consejos prácticos: si hay niños en la mesa, mantén la explicación corta; la facilidad de aprendizaje está en la superficie, pero la diversión está en la interacción. Si hay adultos, añade un par de menús más desafiantes para ver quién llega a la última ronda con margen.
 
 ### Turno típico (con variaciones útiles)
 - El jugador activo elige una carta de su mano y la coloca en su área de puntuación. 
