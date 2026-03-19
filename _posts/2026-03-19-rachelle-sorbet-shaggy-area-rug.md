@@ -8,6 +8,10 @@ tags:
   - review
   - geeknite
   - update
+  - expanded
+  - humor
+  - decor
+  - gaming
 ---
 
 ![Rachelle Sorbet Shaggy Area Rug]({{ site.baseurl }}/assets/images/rachelle-sorbet-shaggy-area-rug.jpg)
@@ -72,6 +76,7 @@ How do you marry a rug like Sorbet with your geek-chic interior? Here are some f
 - The Nerdy Minimal: Place Sorbet under a glass coffee table with a clean, angular sofa. The rug softens the room without competing with your tech accessories.
 - The Retro Gamer: Pair Sorbet with a vintage CRT monitor art piece and a mid-century chair to evoke a computer lab from a sci-fi show. The pastel tones echo the old-school monitor glow while staying modern.
 - The Cozy Tech Workspace: Use this rug to anchor a desk setup where you can stand for long periods or sit cross-legged while you prototype a new app. The plush fibers invite you to stand up and stretch with style.
+- The Spaceport Living Room: Layer Sorbet with a darker, glossy coffee table and a few metallic accents to give the impression of a ship bridge from your favorite space saga.
 
 Where to Buy and What to Expect in Terms of Price
 -------------------------------------------------
@@ -91,7 +96,7 @@ If you want to explore related Geeknite content on rugs, interiors, and the occa
 - {% post_url 2024-11-02-the-great-carpet-conundrum.html %}
 - {% post_url 2023-09-18-cozy-gaming-nook.html %}
 
-Unboxing, First Impressions, and Real-Life Testing Timeline
+Testing Timeline: Unboxing to Showroom-Ready
 -----------------------------------------------------------
 We kept a 30-day testing window to simulate real-life usage. Here is a compact diary entry of the journey:
 - Day 1: Fresh out of the box, the rug is plush enough to produce a visceral reaction. You hover your bare feet like a wizard conjuring warmth. The color looks gentle in daylight. In the evening, under warm lamps, it hums with a comfortable tone that makes your room feel like a warm data center built for humans.
