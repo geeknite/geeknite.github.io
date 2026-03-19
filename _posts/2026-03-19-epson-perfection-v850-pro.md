@@ -1,6 +1,6 @@
 ---
-title: "Epson Perfection V850 Pro: The Geeknite Verdict on a Photo-Scanning Beast"
-date: 2026-03-19
+title: "Epson Perfection V850 Pro: The Geeknite Verdict Revisited"
+date: 2026-03-25
 tags:
   - reviews
   - scanners
@@ -10,7 +10,7 @@ tags:
 ---
 
 ## Introduction
-If you came here hoping for a light vacation at the beach with a sunhat and a sunscreen-smeared photo album, you’ve wandered into the wrong aisle of the electronics emporium. What we have here is the Epson Perfection V850 Pro, a flatbed scanner that looks at your fragile negatives the way a dragon eyes a hoard of gold: with respect, and a calm but undeniable hunger for precision. In Geeknite fashion, we’re not just going to tell you that this is a “great scanner.” We’re going to tell you why it feels like a Swiss Army knife that learned to vape silicon and publish a color-accurate zine about it.
+If you came here hoping for a light vacation at the beach with a sunhat and a sunscreen-smeared photo album, you’ve wandered into the wrong aisle of the electronics emporium. What we have here is the Epson Perfection V850 Pro, a flatbed scanner that stares down your fragile negatives the way a dragon eyes a hoard of gold: with respect, and a calm but undeniable hunger for precision. In Geeknite fashion, we’re not just going to tell you that this is a “great scanner.” We’re going to tell you why it feels like a Swiss Army knife that learned to vape silicon and publish a color-accurate zine about it.
 
 The V850 Pro is not the kind of device your grandma would immediately recognize as a “scanner.” It’s a serious piece of gear aimed at pro photographers, archivists, and anyone who has to digitize large stacks of slides, negatives, and high-quality prints without cursing at their workflow every afternoon. If you’re the type who treats scanning as a heroic quest rather than a chore, this review is for you. If you’re the type who treats scanning as “I’ll get to it later,” then buckle up, because we’re going to make the case that your procrastination habit has a new arch-nemesis: the V850 Pro. 
 
@@ -18,7 +18,7 @@ In this post, we’ll run through the tech, the ergonomics, the image quality, a
 
 > Pro tip: if you skim, you’ll miss the part where we reveal the exact workflow we’d recommend for handling thousands of slides without becoming a hardware-hag fish. So, maybe don’t skim. Your future self will thank you.
 
-![Epson Perfection V850 Pro front view]({{ site.baseurl }}/assets/images/epson-v850-pro-front.jpg)
+![Epson Perfection V850 Pro front view]( {{ site.baseurl }}/assets/images/epson-v850-pro-front.jpg )
 
 For the curious, here’s a quick teaser: the V850 Pro is designed to excel at both reflective material (photos, documents) and transparent materials (35mm slides, negatives, and some light-medium format film). It’s the sort of device that makes you think: “Yes, a single machine can be both my archival assistant and my Jedi archivist.” And if you’re into film photography as a hobby or as a living, you’ll appreciate how it tries to be all things to all channels without mutiny in the firmware. Let’s dive in.
 
@@ -128,9 +128,9 @@ If you fall into any of these categories, the V850 Pro is worth considering. It 
 ## Visual gallery and sample scans
 Here are some representative scans to give you an idea of what the V850 Pro can do when pushed through a thoughtful workflow. These are not hyper-processed showpieces; they’re honest-to-goodness results from a real user’s archive experiments.
 
-![Sample 35mm film scan]({{ site.baseurl }}/assets/images/v850-pro-film-scan.jpg)
+![Sample 35mm film scan]( {{ site.baseurl }}/assets/images/v850-pro-film-scan.jpg )
 
-![Printed photo scan from a classic 4x6]({{ site.baseurl }}/assets/images/v850-pro-print-scan.jpg)
+![Printed photo scan from a classic 4x6]( {{ site.baseurl }}/assets/images/v850-pro-print-scan.jpg )
 
 For more example galleries and case studies, you can explore the broader Geeknite archives linked below.
 
