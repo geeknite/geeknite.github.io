@@ -10,7 +10,10 @@ tags:
   - CardReview
   - Collectibility
   - Geeknite
+  - Expanded
 ---
+
+![Gloom SV4a Shiny Treasure ex](/assets/cards/gloom_sv4a_shiny_treasure_ex_192_190_lp.jpg)
 
 ## Overview
 Gloom Shiny Rare SV4a: Shiny Treasure ex 192 190 LP is the kind of card that makes you question your life choices in the best possible way. It sits in a binder sleeve like a tiny disco ball wearing a cape, ready to stage a dramatic reveal at 2 AM during a casual Friday tournament. This isn t just a hypothetical card for the sake of a joke; in Geeknite world, if we can dream it, we sleeve it, and maybe sleeve it again for good luck. The SV4a line leans into the Scarlet and Violet vibe with a gleam so bright that your opponent might need sunglasses, even indoors. In this expanded review, we treat Shiny Treasure ex as a living, glittering, hypothetical legend and explore how it could fit into the goofy yet earnest fantasy metagame we adore here at Geeknite.
