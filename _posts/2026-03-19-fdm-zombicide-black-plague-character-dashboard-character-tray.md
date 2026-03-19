@@ -1,5 +1,5 @@
 ---
-title: FDM Zombicide Black Plague Character Dashboard & Character Tray (Expanded & Updated)
+title: FDM Zombicide Black Plague Character Dashboard & Tray (Expanded & Updated)
 date: 2026-03-19
 tags:
   - Zombicide
@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Introduction
-If you’ve ever spent heroic minutes hunting for a stray pumpkin head token while your Zombicide Black Plague party stares into your soul like you forgot to pay game taxes, you know the struggle is real. The Character Dashboard and Character Tray isn’t just a pretty face for the gaming table; it’s a Swiss Army knife for a chaotic night of undead mischief. This expanded review dives deeper into an FDM-printed character management system that tucks tokens, stat cards, equipment tiles, and even those stubborn little zombivores into a tidy, accessible, and (dare I say) dignified setup. For tabletop optimization nerds, this is the utility belt you wish Batman wore to a zombie apocalypse board game night.
+If you’ve ever spent heroic minutes digging through a pile of tokens while your Zombicide Black Plague crew gives you the side-eye of doom, you know the struggle is real. The Character Dashboard and Character Tray aren’t just a pretty face for the gaming table; they’re a Swiss Army knife for a chaotic night of undead mischief. This expanded review dives deeper into an FDM-printed character management system that tucks tokens, stat cards, equipment tiles, and even those stubborn little zombivores into a tidy, accessible, and (dare I say) dignified setup. For tabletop optimization nerds, this is the utility belt you wish Batman wore to a zombie apocalypse board game night.
 
 Bold claim: a good dashboard does more than hold your stuff; it nudges your brain toward the next turn, away from the temptation to forage under the table for a long-lost tracker token. And yes, there is a tray for every character, plus pockets for weapons, traps, and that one boss card you keep misplacing behind the sour cream dip. In Geeknite style, we celebrate clever design, robust engineering, and a dash of chaos that only a well-organized game session can provide.
 
@@ -131,7 +131,7 @@ Printed parts love to be reused, but they also demand occasional maintenance. If
 Storage is also important. Keep the dashboard dry and away from direct sunlight if possible. UV light can gradually impact color and material hardness. A simple storage bin with dividers keeps the whole system tidy between game nights and reduces the risk of misplacing a drawer just before the final boss reveal.
 
 ## Final Assessment: Does It Hit the Sweet Spot?
-TL;DR: The FDM Zombicide Black Plague Character Dashboard and Character Tray is a smart addition for players who crave cleaner play spaces and faster setup. It is not a must-have—yet if you want to shave minutes off setup, improve token management, and add a dash of mechanical elegance to your table, this kit delivers. It scales with expansions, invites customization, and wraps up into a neat package that makes even the most chaotic table feel like a well-oiled machine. If you want to engage your inner project monkey without making a mess, this is a project that pays off in both form and function.
+TL;DR: The FDM Zombicide Black Plague Character Dashboard and Tray is a smart addition for players who crave cleaner play spaces and faster setup. It is not a must-have—yet if you want to shave minutes off setup, improve token management, and add a dash of mechanical elegance to your table, this kit delivers. It scales with expansions, invites customization, and wraps up into a neat package that makes even the most chaotic table feel like a well-oiled machine. If you want to engage your inner project monkey without making a mess, this is a project that pays off in both form and function.
 
 ## Where to Get Plans and How to Support Creators
 Most designers publish these dashboards as STL sets or parameterized files on community hubs. Supporting creators by donating or purchasing official upgrade packs helps ensure future improvements and variations. If you want to follow a path of sustainable DIY board game enhancements, consider subscribing to creator updates or sharing your own refinements with the community. Your tweaks might become the next big improvement that someone else riffs on in a different game system.
