@@ -1,7 +1,7 @@
 ---
-title: "Mattel Phase 10 Card Game: NEW Sealed (Ages 7+, 2-6 Players) Review"
+title: Phase 10 Card Game: A Geeknite Review (2nd Edition)
 date: 2026-03-19
-tags: [games, card-games, phase-10, mattel, review, geeknite]
+tags: [games, card-games, phase-10, mattel, review, geeknite, family]
 ---
 
 ## Introduction
@@ -11,7 +11,7 @@ In this review we’ll unbox the sealed copy, break down how Phase 10 actually p
 
 > External note for the curious: if you want the official product page from Mattel, you can check their site at https://www.mattelgames.com/en-us/product/phase-10. For a broader enthusiast’s take, BoardGameGeek’s Phase 10 page is a handy reference (and also a living archive of people arguing about rule variations): https://boardgamegeek.com/boardgame/phase-10.
 
-![Phase 10 Box Art](https://example.com/images/phase10-box.jpg "Phase 10 Box Art")
+![Phase 10 Box Art]( /assets/images/phase10-box.jpg )
 
 ## Unboxing: What’s in the NEW Sealed Box
 The sealed box is where Phase 10’s charm first makes itself known: it’s bright, a little loud, and somehow exudes “we know this has spoiled all your sleep schedules.” Inside you’ll typically find a deck of Phase 10 cards in four colors (usually red, blue, green, and yellow), designed with bold, high-contrast numerals. There are also special cards—Skip and Wild—that spice up the flow and muddy the water in the most entertaining ways. The 2023 edition may feature updated box art, maybe a slightly refreshed instruction card, and a promise of improved card stock. The cards themselves are usually decent stock, not quite a far cry from a standard deck of playing cards, but sturdy enough to handle repeated shuffles, near-violent fan-of-gathers, and the occasional accidental card throw when someone gets a little too competitive in the final phase.
@@ -30,7 +30,7 @@ On your turn you generally draw one card from the draw pile or the top of the di
 The mental math starts to kick in here: you’re thinking about what you can complete this round (and maybe next) while you’re trying to dodge a Skip card that’s been saved by a cunning opponent. It’s a game of incremental progress: you don’t have to complete the entire sequence in a single shot; you just need to be the first to achieve it on your turn and then move to the next phase. That sense of progress, even in a game that has a lot of luck baked in, is what has kept Phase 10 in circulation for decades.
 
 ### The ten phases (quick refresher)
-Phase 1: 2 sets of 3 (e.g., 3 red 7s and 3 blue 9s) 
+Phase 1: 2 sets of 3
 Phase 2: 1 set of 3 + 1 run of 4
 Phase 3: 1 set of 4 + 1 run of 4
 Phase 4: Run of 7
@@ -47,7 +47,7 @@ The rules demand a little bit of planning and a willingness to pivot on a dime w
 Phase 10 borrows its DNA from classic rummy-type games: collecting groups (sets) and runs, managing hand composition, and making the most of wildcards to squeeze out a favorable phase. Unlike classic Rummy, though, Phase 10 isn’t about reducing your point total to zero; it’s about minimizing the number of rounds and ensuring you don’t end up with a pile of penalties if you fail to lay down a phase. The “phase” concept adds a strategic arc to each pass around the table: you’re always thinking about the future, not just the current hand.
 
 ## Components quality and the tactile experience
-Because this is a sealed 2023 edition, you’ll likely notice improved packaging and some minor quality tweaks to the cards. The card stock is decent for a mass-market game; not as premium as a dedicated medium-weight Euro, but perfectly acceptable for casual play and family game nights. The color coding helps players quickly spot what kind of phase they’re aiming for, which is crucial when the table is a sea of #phase-10-run-of-seven-enthusiasm. The art style is bold and cartoonish in a way that signals “family game night” without leaning into the cutesy realm that can feel overly juvenile.
+Because this is a sealed 2023 edition, you’ll likely notice improved packaging and some minor quality tweaks to the cards. The card stock is decent for a mass-market game; not as premium as a dedicated medium-weight Euro, but perfectly acceptable for casual play and family game nights. The color coding helps players quickly spot what kind of phase they’re aiming for, which is crucial when the table is a sea of phase-10-run-of-seven-enthusiasm. The art style is bold and cartoonish in a way that signals “family game night” without leaning into the cutesy realm that can feel overly juvenile.
 
 In practice, the physical experience supports the game’s goals: quick setup, quick turns, and a tactile satisfaction whenever you lay down a phase that you’ve been chasing for ages. If you’re someone who cares deeply about the feel of the cards in your hands, this edition will deliver a smile—though you may still mutter about the texture of a wildcard every now and then.
 
@@ -119,4 +119,4 @@ Overall score: 4.0/5. Phase 10 is a reliable family-friendly, party-angled card 
 
 If you’re shopping for a game that both newbies and veterans can enjoy without lengthy explanations, this 2023 sealed edition is a commendable pick. It’s the kind of game that earns a recurring slot in your rotation, especially when you’ve got a mixed crowd who wants to balance competition with laughter.
 
-**Affiliate note: If you’re ready to pick up Phase 10 now, consider buying through our recommended link to support Geeknite. Buy Phase 10 here: https://example.com/affiliate/phase-10**
+**Affiliate note: Support Geeknite by purchasing Phase 10 via our affiliate link: https://example.com/affiliate/phase-10**
