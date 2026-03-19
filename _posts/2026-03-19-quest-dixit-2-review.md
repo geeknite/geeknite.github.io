@@ -1,23 +1,23 @@
 ---
-title: Quest - Dixit 2: A Review
+title: Quest - Dixit 2: A Thorough Review
 date: 2026-03-19
-tags: [board-games, dixit, quest, party-games, reviews, geeknite]
+tags: [board-games, dixit, quest, party-games, reviews, geeknite, analysis]
 ---
 
-## Quest - Dixit 2: A Review
+## Quest - Dixit 2: A Thorough Review
 
-If Dixit was a dream you had after a late-night pizza, Dixit Quest 2 is the dream with a side quest, a pinch of competitive mischief, and a board that insists you take the scenic route to storytelling glory. In Geeknite style, we approach this title with equal parts curiosity, whimsy, and a checklist that rules out any lingering suspicion that the art on these cards was painted by a bored coyote on a caffeine binge. Spoiler: it wasn’t. It was art, it was chaos, and it was glorious.
+Quest Dixit 2 picks up where many party games leave off: it asks you to storytell with a wink, a nod, and the occasional metaphor that could double as a movie trailer. In Dixit 2, the board is no longer just a stage but a tour bus, carrying you through a sequence of story beats with points along the way. This review aims to unpack what works, what feels extra, and where the game might steer your night toward a full-blown storytelling spectacle. We will cover the good, the odd, and the delightfully chaotic, with a healthy dose of Geeknite humor to keep the journey entertaining.
 
-![Dixit Quest 2 art](assets/images/dixit-quest-2.jpg)
+![Dixit Quest 2 art]({{ '/assets/images/dixit-quest-2.jpg' | relative_url }})
 
-For those new to the Dixit universe, the premise remains delightfully simple on the surface: one storyteller describes a card from their hand using a clue, and the other players pick a card from their hands that best matches that clue. The mashup of imaginative cues and guesswork creates laughter, groans, and that oddly specific moment when someone hits the right card and you realize you underestimated the whole situation. Quest 2 leans into that magic while layering on a board, additional mechanics, and a narrative vibe that wants to turn your game night into an episodic round of wordless storytelling quests.
+For players new to the Dixit universe, the premise remains delightfully simple on the surface: one storyteller describes a card from their hand using a clue, and the other players pick a card from their hands that best matches that clue. The mashup of imaginative cues and guesswork creates laughter, groans, and that oddly specific moment when someone hits the right card and you realize you underestimated the whole situation. Quest 2 leans into that magic while layering on a board, additional mechanics, and a narrative vibe that wants to turn your game night into an episodic round of wordless storytelling quests.
 
-If you want a quick callout first: this is not a heavy euroscape with complicated rules. It is not a brain-burner. It is a storytelling party game with a few gnarly bits that reward clever clueing and attentive listening. If you loved the vibe of Dixit and liked the concept of Quest, you will probably grin your way through most of this one. If you expected a towering ruleset and a strategic gauntlet, you might be surprised—in a good way, depending on your taste.
+If you want a quick callout first: this is not a heavy euro with complicated rules. It is not a brain-burner. It is a storytelling party game with a few gnarly bits that reward clever clueing and attentive listening. If you loved the vibe of Dixit and liked the concept of Quest, you will probably grin your way through most of this one. If you expected a towering ruleset and a strategic gauntlet, you might be surprised—in a good way, depending on your taste.
 
 For context and a broader view of how Dixit has evolved, you can peek at the official page and the broader Dixit lineage here: [Dixit Quest official page](https://www.asmodee.com/en/games/dixit-quest) and for background, [the Dixit wiki on Wikipedia](https://en.wikipedia.org/wiki/Dixit).
 
 ### What is Quest - Dixit 2?
-Dixit Quest 2 positions itself as a standalone expansion to the Dixit family rather than a strict sequel. It brings a modular board into play, a handful of new story-driven quest cards, and a few new tokens that tilt the game toward longer, more cinematic rounds. Think of it as Dixit with a little more structure for the storytellers and a little more theater for the players who enjoy turning a sentence into a mood.
+Dixit Quest 2 positions itself as a standalone expansion to the Dixit family rather than a strict sequel. It brings a modular board into play, a handful of new story- or quest-themed cards, and a few new tokens that tilt the game toward longer, more cinematic rounds. Think of it as Dixit with a little more structure for the storytellers and a little more theater for the players who enjoy turning a sentence into a mood.
 
 The premise remains the same at heart: you tell a story or offer a clue tied to one of your cards, players choose a card that could plausibly match that clue, and then you all vote to see if anyone else guessed your card. The scoring has tweaks, the board changes things up visually, and the quest cards invite a bit more strategy around how you guide the round without becoming a telepath capable of reading minds (which, if you can do, please DM me your secrets).
 
@@ -26,7 +26,7 @@ If you want a quick sense of structure, this post might be useful: {% post_url 2
 ## Components and Setup
 ### What’s in the box
 Quest - Dixit 2 comes with a mix of familiar and fresh pieces. You’ll find:
-- A colorful board that invites players to travel through a storytelling “map” rather than simply sit around a table.
+- A colorful board that invites players to travel through a storytelling map rather than simply sit around a table.
 - A new deck of story- or quest-themed cards that push you to connect imagery to a narrative arc rather than a single word.
 - A handful of wooden or plastic tokens used for tracking quest progress and for voting emphasis.
 - A set of score markers and a rules booklet that is intentionally polite about how long you can pretend to be optimistic and how long your friends can pretend to listen to your clues.
