@@ -1,23 +1,26 @@
 ---
-title: Dragon Ball Super Card Game BT03: Cross Worlds Playmat — A Deep Dive
+title: Dragon Ball Super Card Game BT03: Cross Worlds Playmat — A Deep Dive (Expanded)
 date: 2026-03-19
-tags: [cards, dragon-ball-super, playmat, tcg, bt03, cross-worlds, review]
+tags: [cards, dragon-ball-super, playmat, tcg, bt03, cross-worlds, review, accessories, mats, humor]
 ---
 
-# Dragon Ball Super Card Game BT03: Cross Worlds Playmat — A Deep Dive
+# Dragon Ball Super Card Game BT03: Cross Worlds Playmat — A Deep Dive (Expanded)
 
 If you’ve ever spent 20 minutes rearranging a tournament table to squeeze a couple more inches for your stacking debacle, you know the real unsung hero of competitive play: the playmat. Today we’re taking a long, mostly-analytical, genuinely goofy look at the Dragon Ball Super Card Game BT03: Cross Worlds Playmat. It’s the latest accessory in the BT03 cycle that promises both flair and function, or a loud reminder that your energy can end up in your opponent’s discard pile if you’re not careful.
 
-![](https://cdn.geeknite.net/images/dbs-bt03-cross-worlds-playmat.jpg){: .playmat }
+![]("https://cdn.geeknite.net/images/dbs-bt03-cross-worlds-playmat.jpg"){ : .playmat }
 
 For those who might be new to the scene, BT03 stands for Booster Set 03, and Cross Worlds is the thematic umbrella under which the art team wrapped a glossy, neon-saturated mat. It’s not just a pretty surface; it’s a tool designed to help you keep track of the Game State, while adding some personality to your table. What follows is a thorough, but still entertaining, breakdown of what you get, what you don’t, and whether this mat deserves a permanent spot on your play area.
-
 
 ## Overview: What is the Cross Worlds Playmat?
 
 The Cross Worlds Playmat is a large, neoprene-topped surface with a rubberized base that keeps the mat anchored on tables of various textures. It serves as a dedicated battlefield for the Dragon Ball Super Card Game, giving players a clearly defined space for their decks, hands, and the infamous energy zones. The BT03 Cross Worlds print boasts high-resolution art, often featuring a dynamic clash between characters across different dimensions—thematic elements that make the mat feel like a portal you could step through, if the rules allowed stepping through time and space while shuffling cards.
 
 In terms of dimensions, think standard playmats: wide enough to accommodate two players with ample space for a healthy number of cards, yet compact enough for most tournament tables. The mat’s thickness provides a soft, comfortable surface, which translates into a nicer feel when you’re dragging cards across it during a heated match. The texture is designed to minimize glare, which is a subtle win when you’re trying to read subtle energy cost changes under bright lighting.
+
+A neat sub-note: some versions of the mat feature subtle directional cues and zone labels that align with official play rules (leading players to the correct place for deck, energy, and graveyard areas). If you’re a stickler for tournament legality and standardization, these cues can be a godsend during multi-round events when a single misread can cost you a round or two of pride.
+
+![]("https://cdn.geeknite.net/images/dbs-bt03-cross-worlds-playmat.jpg"){ : .playmat }
 
 ## Design and Art: Two Worlds in One Surface
 
