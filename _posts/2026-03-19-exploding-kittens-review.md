@@ -1,128 +1,127 @@
 ---
-title: Exploding Kittens - A Geeknite Review
+title: Exploding Kittens - A Geeknite Review (Updated Edition)
 date: 2026-03-19
-tags: [board-games, card-games, humor, reviews, geeknite]
+tags: [board-games, card-games, humor, reviews, geeknite, party-games, expansions]
 ---
 
 ## Introduction
-Welcome, degenerate fun-seekers and cat-lovers alike, to the world where cute little kittens pretend to be ruthless death machines and still somehow win your friendship with a single purr and a well-timed defuse. Exploding Kittens is not just a card game; it is a sociotechnical experiment designed to test the boundaries of trust, risk assessment, and how many times you can shout meow before someone calls HR. If you picked up this post, congratulations: you probably heard the phrase cat-powered card chaos and thought, I must experience this with friends, preferably while wearing snacks on your shirt. You’ve come to the right place, fellow geeks. In this deep dive we’ll unpack the game’s bones, upgrade your brain with strategic tips, and remind you why a deck of cards and a few explosive kittens can become your next social revolution.
+Welcome to the chaotic cuddle pile that is Exploding Kittens, the card game that proves a cute face can house a volatile little existential crisis. If you came for a stern treatise on probability, you may want to bring a calculator and a therapist. If you came for memes, puns, and the kind of social energy that makes you reconsider every life decision you ever made at the table, you are exactly where you should be. Exploding Kittens is not just a card game; it is a social experiment where fear, probability, and a cat shaped sense of doom swirl into a high five of laughter or a dramatic sigh when someone flips the wrong card on their own turn. The base game plays 2–5 players, but the party pack and expansions are like software updates that make your friends do a little more chaotic dance. This review is an update that respects how the game lands for both kids and adults, how it scales with expansions, and how your social life may or may not survive a round of explosive feline chaos.
 
-> Note from the Fellowship of Felines: this review is written for 2–5 players in the base game and touches on expansions that scale up the chaos window. If you want to party like it’s 9 players, you’ll want the Party Pack. Spoiler: more players means more chaos, more laughter, and more chances to accidentally discard your last defuse card while your cat avatar is judging you from the table.
+> Note from the Fellowship of Felines: Exploding Kittens is designed for 2–5 players in the base game; add the Party Pack for a bigger orbit of chaos. Spoiler: more players means more chaos, more ridiculous saves, and more chances to regret your last draw.
 
 ## What is Exploding Kittens, really?
-Exploding Kittens is a strategic party card game designed by Elan Lee, Matthew Inman (the mind behind The Oatmeal), and Shane Small. It burst onto the scene with the gleeful tagline of “a kitty-powered version of Russian roulette,” which, if you know anything about cats, is basically a normal Tuesday night for your living room. The core idea is simple: players take turns drawing cards, trying not to draw an Exploding Kitten card, unless they have a Defuse card. The Defuse lets you deflect death, the Exploding Kitten eliminates you (unless someone else wants to be the one who dies), and the rest of the deck is a carnival of action cards that let you peek into the future, steal cards, force others to draw, or reshuffle the deadly doom into someone else’s fate.
+The game is the brainchild of Elan Lee, Matthew Inman (the Oatmeal himself), and Shane Small. It launched with a bold tagline that captured the internet spirit: kitty powered version of Russian roulette. Translation for humans: a card game built for quick rounds, big laughs, and a surprising amount of social strategy for a game that at first glance looks like cartoon chaos. Core mechanic: players draw cards; as soon as you draw an Exploding Kitten without a Defuse, you are out; but if you have a Defuse you can save yourself and decide where the kitten goes back into the deck. The rest of the deck is a buffet of action cards that let you See the Future, steal cards, force others to draw, skip your turn, or reshuffle the doom into another player's fate.
 
-The game is quick to teach but surprisingly hard to master. It’s not just luck; there’s a dance between probability, reading your table, and managing your Defuse resources as if they were precious cosmic artifacts. The result? A social game that can be played in a single session or turned into a friendship-testing marathon if you decide to keep playing until someone notices the time and asks you to come back to reality.
+The art of the game, courtesy of The Oatmeal, blends cute visuals with subtle cruelty. It is not trying to be high art; it is here to ride the line between adorable and alarming. The result is a table that looks calm while the rest of the room is asking, are we about to explode, or is this just part of the show? The game is fast to teach, but the best players treat it as a social experiment in probability, risk assessment, and reading a room full of friends who will pretend to be calm while their hearts race.
 
-## The box, the vibe, and the components
-The base Exploding Kittens deck is built to travel well and play well on coffee tables, kitchen counters, or the occasional conference room with questionable snacks. Here’s what you typically get in the box:
+## Box, vibe, and components
+The base deck travels well and sits nicely on a coffee table, a kitchen counter, or a coworker’s conference room with questionable snacks. Typical contents include:
 
-- Exploding Kitten cards that will ruin your day if you’re not paying attention
-- Defuse cards that save you from certain doom (and occasionally from a very dramatic sigh from your cat opponent)
-- A suite of action cards like See the Future, Attack, Skip, Shuffle, and Favor that let you poke, prod, and pinch your rivals’ plans
-- A handful of other cat-themed shenanigans that keep the table humming with laughter and chaos
+- Exploding Kitten cards that threaten doom if you lose track of what you are holding
+- Defuse cards that save you from that doom and sometimes save you from a dramatic post-game monologue
+- Action cards like See the Future, Attack, Skip, Shuffle, and Favor that let you peek, pressure, and pilfer
+- A handful of cat themed extras that keep the table alive with laughter and chaos
 
-If you’re a visual person, the art direction is a big part of the experience. The Oatmeal (Matthew Inman) contributed the humor-forward vibe, turning tense moments into memes in real time. The illustrations land with a blend of cute and brutal—cute enough that you’re tempted to squeeze the kitty, brutal enough that you’re reminded never to trust your own optimism at the table.
+The production quality helps the tone land. The art, the jokes, and the packaging work together to create an experience that feels approachable and a little mischievous. It is the kind of thing you can bring to a casual night and instantly feel like a borderline social scientist documenting a complex human ritual: the art of gambling with your tablemates while pretending you are in control.
 
-Here’s a mental image: a deck that feels light enough to carry in one hand, but heavy enough with social risk that you’ll pause to consider your moral compass before you draw. The packaging smiles at you, the cards whisper under your breath, and suddenly you realize you’re in a party game that doubles as a psychological experiment in keeping a straight face while someone flips the future cards and you realize your fate is sealed by a cartoon cat and a defuse card you tucked away like a life jacket.
-
-> Artwork and production quality are more than just aesthetics; they help shape the tone and pace. This is not a game that pretends to be serious; it announces, loudly and happily, that you’re about to gamble with your social capital in service of a good joke and a few laughs.
+Here is the vibe: a deck that feels light but carries social risk heavier than a smartphone in a jeans pocket. The box smiles at you; the cards whisper from the drawer; and suddenly you realize you are in a party game that doubles as a lighthearted psychological experiment on trust, betrayal, and whether your friends will defuse a kitten or just let chaos run.
 
 ![Exploding Kittens Box](/assets/images/exploding-kittens-box.jpg)
 
-## How to play in a nutshell (the fast, chaotic guide)
-This section is the crash course you need before you host a game night and realize your crew loves to improvise more than they love the rulebook.
+![Exploding Kittens Art](/assets/images/exploding-kittens-art.jpg)
+
+## How to play in a nutshell a chaotic guide
+Take this as the quick start, but be ready to improvise. The rules are intentionally light so you can focus on social dynamics, not a rulebook maze.
 
 ### Setup
-- Shuffle the deck and deal a starting hand to each player (often 7 cards, but your group can adjust). Each player should have a few Defuse cards handy because, you know, doom is a whimsy away.
-- Place the Exploding Kitten cards back into the deck and shuffle them in. The number of Exploding Kitten cards is usually one less than the number of players, ensuring tension without everyone dying in a single round. Then place the remaining cards in a draw pile.
-- Decide whether you’re playing with a “see the future” vibe or a slower, goofy pace. The key is to set expectations: chaos is welcome, rules are adjustable, and you may or may not betray your closest ally on the very first turn.
+- Shuffle the deck and deal out a starting hand to each player, roughly 7 cards to begin, with a few Defuse cards in the mix. You want a buffer against doom but not an overwhelming safety net.
+- Reinsert Exploding Kitten cards into the deck. The number of Exploding Kitten cards is usually one less than the number of players, creating tension without a total wipeout on turn one.
+- Decide your vibe: rapid-fire chaos or slower cat conspiracies. The most fun comes from setting expectations and then ignoring them.
 
 ### Turn flow
-Players take turns drawing a card from the deck. If you draw an Exploding Kitten and have a Defuse card, you can play the Defuse to live another day, placing the Exploding Kitten back into the deck in a spot you choose (or you can allow fate to shuffle it into the unknown). If you don’t have a Defuse, the final blow lands and you’re out of the round.
+On your turn you draw a card from the deck. If you draw an Exploding Kitten and you have a Defuse, you can play the Defuse and place the Exploding Kitten back into the deck somewhere of your choosing (or let chance pick a spot). If you don t have a Defuse, you are out of the round.
 
-The action cards spice things up: See the Future lets you peek at the top few cards, Attack makes the next player take two turns, Skip lets you avoid drawing for a turn, Shuffle moves the doom around, and Favor forces someone to give you a card you want. See, the rules exist, but you’ll quickly discover that the social rules are the ones you’ll break most often.
+Action cards mix things up: See the Future helps you peek at the next few cards; Attack forces the next player to take two turns; Skip ends your draw for the turn; Shuffle reorders the doom; Favor makes someone give you a card you want. The face you show at the table matters more than the cards you draw.
 
 ### Endgame
-The goal is to be the last kitten alive, or to be the last human holding it together after a particularly brutal run of bad draws. It’s less about absolute strategy and more about timing, bluffing, and the occasional whispered plea that a cat will somehow bless you with luck on the next draw. It’s quick enough to be replayable within a single night, but long enough to become an ongoing meme in your friend group if you keep the mood and the snacks up.
+The winner is the last player standing. There is no grand strategy that ensures victory every time, but there is a recurring pattern: more laughs, more bluffs, and more dramatic last-minute saves. A good night with Exploding Kittens can stretch into a long afterglow if your snacks survive.
 
-## The cards and their powers (the cast of misfits)
-- Exploding Kitten: the doom card. If you draw it without a Defuse, you’re out.
-- Defuse: the ultimate keeping-you-alive card. It disarms the kitten and lets you put the Exploding Kitten back somewhere in the deck.
-- See the Future: peek at the next three (or some variants say five) cards. It’s a tiny omniscience power that helps you calibrate risk, but beware the irony of realizing you still might make a terrible move because you’re human.
-- Attack: makes the next player take two turns in a row. Multiply the chaos, and watch alliances strain under the weight of this one.
-- Skip: ends your turn instantly, freeing you from a forced draw. Useful when you’re about to deck yourself with doom.
-- Shuffle: reorders the doom in the deck, injecting random chance. Great for when you’re tired of losing and you want the universe to flip a coin again.
-- Favor: force another player to give you a card of your choice. This is the social lever: you can help or hurt, depending on your mood and the state of your relationships with table mates.
+## The cards and their powers the cast of misfits
+- Exploding Kitten: the doom card. Draw it without a Defuse and you are out
+- Defuse: the ultimate shield, letting you disarm the kitten and reinsert it into the deck
+- See the Future: peek at the next few cards. Slightly clairvoyant but rarely decisive
+- Attack: makes the next player take two turns in a row
+- Skip: ends your turn instantly
+- Shuffle: reorders the doom in the deck
+- Favor: forces someone to give you a card
 
-There are variations and expansions that add more cards and more ridiculous power dynamics, but the core remains: manage fear, manage risk, and maintain the social facade that you’re not completely ridiculous for wanting to draw a card in a game about exploding kittens.
+Expansions and variants add more chaos and more ridiculous options, but the core remains: manage fear, manage risk, and keep a straight face while the kitten makes its move.
 
 ## Strategy, psychology, and the art of not crying at the table
-Exploding Kittens is less about math and more about social pressure, bluffing, and reading the table. Here are some seasoned tips you’ll wish you knew on your first game night:
+Exploding Kittens is a study in social dynamics as much as it is a game of probability. Here are some expanded tips:
 
-- Don’t be allergic to Defuse cards. They are your lifelines, your tickets to another day of pathetic glory. Use them wisely, especially when your opponents appear to be building a stack of See the Future cards that could ruin your day.
-- See the Future is not a guarantee of wins; it’s a map with all the shortcuts and the dead ends. Use it to avoid obvious doom or, if you’re feeling spicy, to bait a bluff and cause a fellow player to overcommit.
-- Attack early if your group thrives on chaos, but don’t overdo it. You want the table to feel the thrill of risk, not to descend into massacre. The balance is in the timing: the more you hold back, the more dramatic your bluffs become when you finally pull the trigger.
-- Defuse timing matters. If you burn a Defuse too early, you’ll regret it when fate that you can’t control lands on your head. If you hold onto it like a dragon’s hoard, you might end up with a heartbreakingly tense moment where you finally need it and you don’t have it.
-- Read the room: a lot of Exploding Kittens is about social deduction without explicit roles. If someone in your circle has a history of dramatic dice rolls, you can exploit your knowledge of their tendencies to push them into taking more risk.
-- Expect the memes to arrive fast. If your group loves pop culture references, you’ll be dropping quips and in-jokes faster than a cat can knock a glass off the shelf. The humor isn’t just optional; it’s the glue holding this chaotic experience together.
+- Defuse as bail money. If you stash Defuses, you can scavenge safety nets later. Don t waste them on early saves unless you are sure doom is not about to land on your head.
+- See the Future as a weather forecast, not a guarantee. It helps you plan, but the next card can still surprise you.
+- Attack strategically. The chaos you create should outpace the reading of the table, not overwhelm it into a mutiny. Timing is the key: the right attack at the right moment can swing the entire table your way.
+- Defuse timing matters. If you light the fuse too early you may regret it when the next round of doom lands on you. If you wait too long you risk a nerve-wracking moment where doom lands on your lap and you have no way to stop it.
+- Read the room like a detective. People reveal tells in their eye contact and their phrasing during the round. If someone loves pop culture memes, you can lean into it for some extra ribbing.
+- Expect memes to flow. The humor is what seals the deal; the jokes and quips are as valuable as the fate of your own draw.
 
-If you want to go deeper into how to approach party games in general, check out a related Geeknite post on learning the ropes of group dynamics in board game nights: {% post_url 2025-01-15-board-games-myths %}. And if you’re curious about cooperative or semi-cooperative formats that stretch your group’s social muscles, you might enjoy our exploration of co-op games in this other piece: {% post_url 2025-11-02-co-op-games-101 %}.
+If you want to go deeper into party game dynamics, check out Geeknite post on group dynamics in board game nights: {% post_url 2025-01-15-board-games-myths %}. And if you want to explore co-op formats that stretch your group, this piece might scratch that curiosity: {% post_url 2025-11-02-co-op-games-101 %}.
 
-## The art, mood, and why this game feels so darn appealing
-The Exploding Kittens aesthetic is a perfect example of how humor and art can shape a game’s reception. The Oatmeal’s humor-infused style gives the cards personality beyond the abstract “draw a card, hope for good luck.” The art is simple, bold, and deliberately meme-friendly. It’s not fine art; it’s cafeteria-table art with a wink. It’s also a reminder that you don’t need to be a serious gamer to have a seriously good time.
+## The art mood and why this game feels so darn appealing
+The Exploding Kittens aesthetic is a masterclass in how humor and art shape a game s reception. The Oatmeal style brings personality to cards that would otherwise be just numbers. The art is simple, bold, and meme-ready. It is not fine art, but it is art that communicates instantly, making your table feel like a casual art gallery built on snack crumbs and cat memes.
 
-The humor lands in multiple layers:
-- Visual jokes on the cards themselves that you pick up on after a few rounds.
-- The flavor text and character concepts that create a shared vocabulary among players.
-- The meme potential when you pair the game with a social moment that’s already feeling a bit chaotic.
+The humor lands on multiple levels:
+- Visual jokes on the cards after a few rounds
+- Flavor text and character concepts that create a shared vocabulary
+- Meme potential when you are playing in a group that thrives on chaotic energy
 
-The vibe is lighthearted but sharp enough to sting if you’re not careful. It’s a game that rewards a player’s willingness to lean into the silliness, to bluff with a straight face, and to laugh together as the deck spirals into delightful ridiculousness.
+The vibe is lighthearted but sharp enough to sting if you are not careful. It rewards a willingness to lean into silliness, bluff with a straight face, and laugh with others as the deck spirals into ridiculousness.
 
-If you’re craving more nerdy inspiration about how art direction influences game play and audience reception, you might enjoy a broader look at how mainstream card games balance humor with strategy via our side post on game design aesthetics: {% post_url 2024-09-01-art-direction-in-games %}.
+If you want to explore how art direction influences game design, check our post on art direction in games: {% post_url 2024-09-01-art-direction-in-games %}.
 
-## Expansions and variants (because bigger is fun)
-Exploding Kittens doesn’t end with the base deck. There are expansions and variants that push the chaos into new directions. Here are the ones most folks encounter on a typical game night:
+## Expansions and variants bigger is fun
+Exploding Kittens expands into more chaos with expansions and variants that add new cards and play styles:
 
-### Imploding Kittens (expansion)
-This expansion introduces the Imploding Kitten card, which changes how the endgame resolves: rather than simply exploding and eliminating, the Imploding Kitten adds an additional twist that can reset the timing and force players to adapt on the fly. It’s a nice way to refresh your strategy if you’ve already played a dozen rounds of the base deck and are craving something new without inviting the apocalypse with every draw.
+- Imploding Kittens expansion: adds the Imploding Kitten card, which changes the endgame and encourages new strategic twists
+- Party Pack standalone expansion: scales up player count and introduces new mechanics to keep the chaos fresh
+- NSFW deck: more adult oriented humor for groups comfortable with spicier content
+- House rules and customization: many groups add their own tweaks, such as extra defuses, cat taxes, or alternate draw penalties
 
-### Party Pack (standalone expansion)
-If you want to scale up the chaos for house parties or larger game nights, the Party Pack expands the player count and adds new mechanics that preserve the core feel while letting more people participate. It’s a good way to bring new friends into the mix without asking them to learn a significantly different set of rules.
+These options ensure that Exploding Kittens remains lively at 2 players or 9 players, with the core vibe intact.
 
-### House rules and custom tweaks
-Many groups also have their own house rules: extra defuses, alternate draw penalties, or even a “cat tax” where the loser owes everyone a snack. The beauty of Exploding Kittens is that it invites customization. The game’s light structure makes it easy to experiment without breaking the vibe. If you’re the kind of person who loves tweaking the rules until the table starts singing, this game is your playground.
-
-## The Geeknite verdict: who should buy, and why
+## The Geeknite verdict the who should buy and why
 Pros:
-- Quick to learn, fast to play, great for a mixed crowd (non-gamers included).
-- The humor and art set a friendly tone that lowers the intimidation barrier for new players.
-- The game scales well with expansions, letting you tailor chaos to the audience.
-- It’s portable and inexpensive enough to be a staple in casual game nights.
+- Quick to learn and fast to play, excellent for mixed crowds including non gamers
+- Humor and art create a welcoming atmosphere and reduce intimidation
+- Scales well with expansions letting you fine tune chaos to your crowd
+- Portable and affordable enough to be a staple for casual game nights
 
 Cons:
-- The luck factor can be punishing; sometimes the person with the best strategic plan still loses because a single card change in the deck flips the entire outcome.
-- For some players, the humor can wear thin after a few sessions; if your group thrives on heavy strategy, this might feel lightweight.
-- It’s loud. Expect lots of cheering, gasps, and the occasional dramatic groan when the Exploding Kitten hits a risky player.
+- Luck can be punishing; even a sharp strategist can lose to a single lucky flip
+- For some players the humor can wear thin after a few sessions
+- It can get loud; expect gasps, cheers, and dramatic reactions
 
-Who should buy Exploding Kittens? If you’re assembling a party gaming library for friends and family, especially when kids are involved (with parental guidance for younger players due to the explosions of laughter rather than anything dangerous), this game is a winner. If you live for deep strategy and long, intricate rulesets, you might want to pair this with a more serious title to balance your evening. If you’re new to tabletop gaming and want a low-friction, high-reward experience, this is a great entry point. If your crew loves memes, cat jokes, and the idea of decapitated empathy (in card form) sounds like a good time, you’re in the target zone.
+Who should buy Exploding Kittens? If you want a lively party game for friends and family, especially when kids are around with guidance, this game is a reliable warm up for more intense gaming night. If you crave deep strategy and complex rules, pair it with a heavier title. If you are new to tabletop gaming, this is a friendly entry point. If your crew loves memes and cat jokes, you are in the target zone.
 
-For more context on where Exploding Kittens sits in the broader world of game nights and party games, see our broader guide to top picks for social gaming: {% post_url 2025-11-02-co-op-games-101 %} and for a sense of how to balance chaos and cooperation, check out our piece on board game myths and realities: {% post_url 2025-01-15-board-games-myths %}.
+For more context on party games and balancing chaos with cooperation, see {% post_url 2025-11-02-co-op-games-101 %} and for a general guide to board game myths, check {% post_url 2025-01-15-board-games-myths %}.
 
 ## External links and where to dive deeper
-- Official site: [Exploding Kittens Official](https://www.explodingkittens.com/)
-- BoardGameGeek page: [Exploding Kittens on BoardGameGeek](https://boardgamegeek.com/boardgame/188033/exploding-kittens)
-- Quick rules summary and fan resources: [Rules and tips](https://boardgamegeek.com/boardgame/188033/exploding-kittens/attachment-xxxx) (adjusted for the latest rule variations by community consensus)
-- A playful discussion on how card games become social experiments: [Geekniters on game nights](https://geeknite.example/post/board-games-night) (fictional link for illustration)
+- Official site: https://www.explodingkittens.com/
+- BoardGameGeek page: https://boardgamegeek.com/boardgame/188033/exploding-kittens
+- Rules and quick reference: https://www.explodingkittens.com/rules/
+- Engagement and culture piece: https://geeknite.example/post/board-games-night (note this is a fictional example for style consistency)
 
 ## Final thoughts and a recommendation you can actually act on
-Exploding Kittens is a party staple that manages to balance lighthearted humor with bite-size strategic decisions. It’s the kind of game you pull out when you want people to laugh together, not at each other, though the occasional roast is inevitable when someone’s lucky streak mocks you from across the table. It’s not a heavyweight brain-twister, but it doesn’t pretend to be. It’s a social engine built for quick rounds, quick laughs, and a shared sense that chaos can be charming when it’s wrapped in a cat-themed package.
+Exploding Kittens sits in the space between party game and casual social experiment. It invites smiles, laughter, and the occasional groan when doom lands on a less-than-expected target. It is not a heavyweight brain teaser, but it is a heavyweight in social energy. It is the kind of game you pull out when you want people to laugh together, not at one another, though a playful roast is often part of the fun. It is possible to overdo it; if your group loves immersive, crunchy strategy, this may feel light. If your goal is a low friction entry point with big laughs, this is a winner. If your crew loves memes and cat jokes, it is likely to become a staple on your shelf.
 
-If you’re planning a casual game night, this is your “first choice” for comfortable chaos. If you’re trying to break out of your friends’ board game rut, it’s a breath of fresh air that still fits within a familiar genre. If you’re a seasoned gamer seeking a few minutes of pure, goofy adrenaline, you’ll still enjoy the ride—just don’t forget your defuse card, because doom loves a good punchline.
+For a broader sense of how Exploding Kittens fits into a night of social gaming and party dynamics, check these related posts: {% post_url 2025-11-02-co-op-games-101 %} and {% post_url 2025-01-15-board-games-myths %}.
 
 ## Final takeaway
-Exploding Kittens isn’t trying to replace your favorite strategy games. It’s here to remind you that sometimes the most memorable gaming moments come from a room full of people who panic-swipe their luck, make questionable moral choices about card draws, and laugh until someone cries (usually the person who drew the Exploding Kitten on their own turn).
+Exploding Kittens is not here to replace your favorite strategy games. It exists to remind you that some of the best memories come from games that let you panic-swipe your luck, make questionable moral choices about card draws, and laugh until someone cries. If you want a low-commitment party starter or a gateway into the hobby, this game earns a place on the shelf. If you want pure brain-to-brain complexity, pair it with something heavier. If you want pure goofy adrenaline, you can still have it here.
 
-Whether you’re buying it as a low-commitment party starter, a gateway to the hobby, or a gag gift for that friend who never takes life too seriously, Exploding Kittens earns its spot on the shelf. It’s a playful reminder that in the realm of gaming, chaos and camaraderie can go hand in paw—and that sometimes the cutest kittens explode in the most delightful way.
+The final word: chaos and camaraderie can go paw in paw, and sometimes the cutest kittens explode in the most delightful way.
 
 **[Buy Exploding Kittens on Amazon](https://amzn.to/3kittens)**
+
