@@ -9,7 +9,7 @@ tags:
   - geeknite
 ---
 
-![Exploding Kittens box art](/assets/images/exploding-kittens-box.jpg)
+![Exploding Kittens box art]({{ '/assets/images/exploding-kittens-box.jpg' | relative_url }})
 
 ## Introduction
 
@@ -27,7 +27,7 @@ Exploding Kittens operates on a premise that is equal parts silly and deliciousl
 
 The escalating nature of the game comes from the deck thinning out—every turn reveals more opportunities to grab a card, detonating a chain of triggers that can flip the entire table dynamic in a single misread signal. It is a game about reading tells without ever needing a bloodhound nose for poker tells; the tells are physical (hand position, eyebrow tilt) and verbal (the way a player coughs preemptively, or how they mutter a weak plea for mercy). This is not to say Exploding Kittens is a cunning mind game; it is a social speed bump that creates hilarious moments from near disasters and tiny triumphs.
 
-![Exploding Kittens in play](/assets/images/exploding-kittens-play.jpg)
+![Exploding Kittens in play]({{ '/assets/images/exploding-kittens-play.jpg' | relative_url }})
 
 ## Components and Design: The Cat Card Aesthetic
 
@@ -48,6 +48,10 @@ One of the clever features is the See the Future card, which lets you peek at th
 For families with younger players or players new to table games, Exploding Kittens can be accessible yet unpredictable. The learning curve is gentle enough to teach in one sitting, and the turns are short enough to maintain attention. The real challenge, as with many party games, is managing expectations—fun often trumps fairness when the deck is unforgiving, but humor often trumps both when the group commits to the bit.
 
 If you want a quick read on how to pace a party game to maximize laughs, you can peek at our post on party pacing here: {% post_url 2024-05-12-party-game-pacing %}.
+
+### A Playthrough Snapshot: A Tiny Narrative
+
+Imagine a round where Mia thinks she has a calm lead, you can sense the table thinking the same, and then a triple‑peek See the Future reveals a joke of a top three that includes two Exploding Kittens and a Defuse you forgot you had in your pocket. The room bursts into a chorus of groans, a chorus of laughter, and a chorus of, not the Defuse, as she calmly lays down a fake smile and a Defuse card we all pretend was destined for a different fate. That is the heartbeat of Exploding Kittens: the small melodrama of seconds that feel like minutes, the table turning on a single, ridiculous gesture, and the shared relief when someone narrowly avoids a cartoon calamity.
 
 ## Strategy for Families: Be Fragile, Not Fragile: Play the Moment
 
@@ -144,4 +148,4 @@ If Exploding Kittens has you cracking up and you want to bring this chaos to you
 
 **Grab your copy now through our affiliate link: https://geeknite.example/affiliate/exploding-kittens**
 
-With love from the desk, may your draws be kind, your Defuse cards plentiful, and your lasagna always on the table. Cheerfully chaotic, we sign off now. And remember, when the cats escalate, we escalate with them. 
+With love from the desk, may your draws be kind, your Defuse cards plentiful, and your lasagna always on the table. Cheerfully chaotic, we sign off now. And remember, when the cats escalate, we escalate with them.
