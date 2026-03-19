@@ -1,5 +1,5 @@
 ---
-title: '1:6 Wicker Rattan Barbie Doll Furniture Patio Set: Table, Parasol, Tea Set - Vintage Review'
+title: '1:6 Wicker Rattan Barbie Doll Furniture Patio Set: Table, Parasol, Tea Set - Vintage Review (Updated)'
 date: 2026-03-19
 tags:
   - Barbie
@@ -8,6 +8,8 @@ tags:
   - vintage
   - review
   - collectors
+  - diorama
+  - photography
 ---
 
 ## Introduction
@@ -20,6 +22,9 @@ In this long-form review, we will cover everything from unboxing to long-term di
 > A wiki dive into Barbie 1:6 scale: https://barbie.fandom.com/wiki/Barbie_1:6_scale
 
 In addition, if you want to cross-link with related Geeknite posts, you can check out related ideas here: [Dollhouse diorama tips]({% post_url 2025-02-10-barbie-diorama-tips %}) and [Vintage furniture buying guide]({% post_url 2024-11-15-barbie-1-6-furniture-guide %}).
+
+> Jekyll visual cue for the set:
+> ![Vintage 1:6 Wicker Patio Set]({{ '/assets/images/barbie-patio-1-6.jpg' | relative_url }})
 
 ## Unboxing and first impressions
 The package is light enough that you could pretend you are opening a treasure chest rather than a cardboard box. The outer sleeve is usually graphically modest, but inside, the set reveals its character with wicker tones that call to mind sunlit patios and warm afternoons. The parasol blade is typically a glossy acetate with a metal rod that feels slightly springy, which means you can pretend the shade shifts with the breeze without the parasol actually becoming a wind turbine. The tea set is charming in its miniature detail: the cups have tiny handles, the saucers ring with a glossy sheen, and the teapot lid has a satisfyingly snug fit.
