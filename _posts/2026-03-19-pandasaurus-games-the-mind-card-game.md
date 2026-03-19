@@ -69,6 +69,7 @@ Two players can work, but you feel the game turning into a rapid-fire duel of si
 With four players, you also get the best stories. The group dynamics are alive with little whispers and almost-silent exclamations, the kind of moment when someone finally places a card and the table erupts in a Yes that sounds suspiciously like a late-night TV commercial for oxygen bars. The social payoff is the heart of the game: you remember the times when the room seemed to tilt toward collective telepathy, and you recall the moments of near-respectable failure with a wink and a shrug.
 
 ### The social dynamics: allies and saboteurs
+
 This is where The Mind reveals its true magic. It is a social instrument, a device that tunes the atmosphere of a room more than it tunes the deck. Some rounds feel like a quiet, almost ceremonial moment; others become a carnival of near misses and giggles as someone betrays the rhythm with a tiny cough or a too-quick tap of a palm. The thrill is not in the victory but the texture of the shared experience.
 
 Allies in The Mind are the players who learn to lean into tempo: they do not chase chaos, they invite it to a polite tea party and then gently put it in its place with a well-timed placement. Saboteurs, on the other hand, are those little rebels who test the team’s patience: they watch for the right moment to press their luck, to sacrifice a perfect run for a moment of dramatic tension. In most groups, these tensions become stories that you retell with increasing embellishment at the next game night.
@@ -116,11 +117,7 @@ If you want a game that can slot into a casual game night with minimal friction 
 
 In a pantheon of tiny box games that have changed how we view group play, The Mind stands out as a reminder that sometimes the smallest ideas—silence, timing, trust—have the biggest impact on a room full of friends. The Mind is not just a game; it is a social experiment with a friendly glow, a momentary shared experience that you will remember long after the last card is placed on the table.
 
-### References and further reading
-
-For more official information on Pandasaurus and The Mind, check the publisher page: <https://pandasaurusgames.com/games/the-mind/>. If you want to see how this game stacks up against the evergreen classics, you can read our older post on Hanabi and discover how the two games complement each other in a modern game night: [Hanabi Review]({% post_url 2024-11-02-hanabi-review %}). For more cooperative game contrasts, see our thoughts on The Crew: Mission Deep Space: [The Crew Review]({% post_url 2023-08-15-the-crew-review %}). You can also explore additional community resources on BoardGameGeek here: [The Mind on BoardGameGeek](https://boardgamegeek.com/boardgame/166630/the-mind).
-
-## Final recommendation
+### Final recommendation
 
 If you are looking for a quick, clever, social experience that rewards listening more than talking and turns a kitchen-table night into a heartbeat-pounding telepathy test, The Mind is a strong pick. It is accessible, affordable, and endlessly re-playable in terms of the different vibes you can bring to the table. It may not be the most ambitious game you own, but it is likely to be among the most talked-about after a session: the one where your group discovered that you can align your thoughts without saying a word, and you all pretended that you were reading each other’s minds with the same calm you bring to your eyebrows when confronted with a puzzle that has no solution beyond patience.
 
