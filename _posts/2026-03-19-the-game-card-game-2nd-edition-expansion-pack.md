@@ -34,11 +34,13 @@ Let’s break down the new cards and what they actually do, because this is wher
 The net effect of these new cards is a more dynamic rhythm. The base game is excellent at teaching you how to optimize a single flow: play a certain number, discard what you must, push toward the finish line. The expansion interrupts that flow just enough to make you reconsider your approach in real time, without forcing you into a chaotic sprint that tears the table apart. It’s a delicate balance, and in this regard the expansion lands with a satisfying thud rather than a hollow jingle.
 
 ### How the expansion changes setup and pacing
+
 Setup is arguably the least exciting but most important phase of any tabletop expansion. The 2nd Edition does not turn setup into a chore; rather, it adds a few optional rules and a couple of recommended variants that you can pepper into your first few games if you want to ease into the new terrain. For veteran players, this means you can fold in the expansion without teaching your non-gaming friends an entire encyclopedia of new rules on the first go. For new players, the learning curve remains manageable: you don’t need to instantly master forecast cards or disaster effects to enjoy the game. The learning curve becomes a little more forgiving, which is a win in the hallways where strangers meet and become tablemates.
 
 Pacing, on the other hand, benefits from a few small adjustments. Because there are more card types, the deck feels a touch denser, and you’ll experience the occasional moment where a single card chain creates a satisfying cascade of wins. The expansion intentionally avoids over-cluttering the core engine; this restraint is essential. If the expansion had attempted to push every possible synergy at once, you’d have a game that feels more like a puzzle you solve over the course of weeks rather than a party game you enjoy during a two-hour evening.
 
 ### Thematic integration and art direction
+
 The art direction of the expansion stays consistent with the base game, offering fresh illustrations that are light, a little cheeky, and never so busy that you lose track of the numbers you must manage. Thematically it leans into the recurring motif of “order out of chaos” with a wink. Thematically, the expansion does a nice job of echoing the core tension of The Game: you are all playing to complete a series of numbered tracks, yet the deck’s randomness can quickly push you toward the brink of absurdity. The humor is earned and not forced, which is a small miracle in any expansion that is meant to be both strategic and approachable.
 
 If you want to see the visual design firsthand, check the official product page and the gallery. The images convey the new components with clarity, and you’ll notice the cards maintain the same legible typography that makes the base game such a joy to play at a crowded table. You will also notice that the expansion’s iconography is consistent—no new jargon; just familiar shapes and color codes that help you parse the board at a glance.
@@ -50,7 +52,7 @@ The expansion is designed to slot into the base game smoothly. You don’t need 
 - Shuffle the new cards into the appropriate tracks as instructed in the rule sheet. The game’s core logic remains intact; you’re simply adding more options to think about.
 - Use the new forecast and power cards as a starter pack. If you want to ease into the expansion more gently, begin with a deck that includes a modest fraction of the new cards and gradually increase the mix as players become comfortable.
 
-If you are curious to see professional opinions on integration, here is a link to a community thread that discusses house rules and effective starter mixes: [Related discussion at BoardGame Geek]({% post_url 2024-11-15-the-game-base-edition-review %}). You can also explore the official product page for more official guidance: https://boardgamegeek.com/boardgame/123456/the-game-card-game-2nd-edition-expansion-pack
+If you are curious to see professional opinions on integration, here is a link to a community thread that discusses house rules and effective starter mixes: [Base Edition Review]({% post_url 2024-07-01-the-game-base-edition-review %}). You can also explore the official product page for more official guidance: https://boardgamegeek.com/boardgame/123456/the-game-card-game-2nd-edition-expansion-pack
 
 ## Deckbuilding habits and strategic takeaways
 
