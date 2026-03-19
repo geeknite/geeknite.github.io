@@ -6,6 +6,8 @@ tags: [board-games, travel-edition, family, review, geeknite]
 
 ![The Game Travel Edition in action](/assets/images/the-game-travel-edition.jpg)
 
+<img src={{ '/assets/images/the-game-travel-edition.jpg' | relative_url }} alt='The Game Travel Edition in action'>
+
 The Game has always been the kind of tabletop brain squeeze that fits on a dinner table and then somehow threatens to take over air travel as well. The Family Fun Edition Travel Edition tries to marry the original cooperative chaos with airport security friendly packaging and a carry on vibe. If you have ever tried to fit a dozen tiny cards of questionable logic into a tiny zip pouch while a toddler colors on your boarding pass, you know the struggle. This edition promises a compact deck, a teched up score track, and rules that are friendly for families in transit. Does it land or does it end up as a disposable sleeve with a few markers left behind on the seat pocket? We took it for a 72 hour orbit and brought back the truth NASA would envy.
 
 ## Opening notes and first impressions
@@ -73,6 +75,9 @@ Family trips involve renegotiating attention spans, patience for rules explanati
 - Use the built in score tracker to avoid argument over who counted correctly. If there is a tiebreaker moment, declare a one card discard and keep the peace with a chuckle.
 - Keep a small tray table in reach for a stable play area. If you cannot find a tray, improvise with a folded sweater and a snack box like a slightly underprepared harness tech.
 - Rotate the role of rule clarifier. A rotating role helps prevent the same person from becoming the walking rulebook and the family will appreciate the fairness.
+- Pack a spare set of dry-erase markers or a small whiteboard for quick rule clarifications and to keep the chaos visualized without scribbles on the seat pocket.
+- Set a “pause for safety” rule. If flight attendants need a moment, you pause, everyone smiles, and nobody resets the game in the narrow aisle.
+- Consider a family rotation: the oldest pilots, the youngest deals, and everyone else votes with head nods and eyebrow raises.
 
 ## External voices and where this edition sits in the world of travel games
 For a broader view on portable gaming on trips, you can check the official product page and a community review. The official site offers technical specs and variant ideas, while community hubs provide tips from real world travelers who have tested the edition in hotels, airports, and waiting lounges. See more at the official site and at the community boards to compare experiences with other travel friendly games.
