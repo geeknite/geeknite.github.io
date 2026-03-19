@@ -1,6 +1,6 @@
 ---
 title: 'City of Mist: Fortune Row - Character Creation Kit Review (Updated)'
-date: 2026-04-01
+date: 2026-04-15
 tags:
   - city-of-mist
   - fortune-row
@@ -90,7 +90,7 @@ Pros:
 - Clear, fast path from concept to playable character.
 - Strong emphasis on narrative hooks and personal mythos, aligned with CoM’s core vibe.
 - Beautiful, functional design that enhances the playing experience rather than getting in the way.
-- Useful as both a one-shot tool and a long-running campaign device.
+- Useful as both a one-shot tool and as a long-running campaign device.
 
 Cons:
 - Not a comprehensive system; you’ll still need the core book for rules and deeper lore.
@@ -144,7 +144,7 @@ Pros in practice:
 - Great for one-shots or as a springboard to ongoing campaigns.
 
 Cons in practice:
-- You’ll still want the core rulebook for combat resolution and deeper mechanics.
+- Not a comprehensive system; you’ll still need the core rulebook for combat resolution and deeper mechanics.
 - Some long-time players may crave more customization beyond the included archetypes.
 
 If you’re torn between I have to craft everything from scratch and I want something that gets me to story faster, Fortune Row sits nicely in the middle, offering structure without dictating your table’s flavor. It’s like having a well-curated character-crafting playlist that still leaves room for your own improvisations. It respects the city’s mythic undercurrents while giving players a scaffold to hang their Masks on.
@@ -161,8 +161,6 @@ External resources:
 If you want to see a few more examples and read a longer case-study of how we used Fortune Row in a live table, keep an eye on our next post in this series. We’ll walk you through a two-session arc where three players trigger a city-wide revelation using only Fortune Row prompts and a handful of well-timed clues.
 
 ## Final Call to Action
-**Snag Fortune Row now – Affiliate link**: https://affiliate.example.com/fortune-row-city-of-mist
-
----
+**Snag Fortune Row now – Affiliate link: https://affiliate.example.com/fortune-row-city-of-mist**
 
 If you enjoyed this breakdown and want more nerdy tabletop goodness, subscribe to Geeknite for weekly reflections, designer notes, and comics-level banter about your favorite RPGs. We’ll see you in the neon shadows of the city, where legends go to grow teeth.
