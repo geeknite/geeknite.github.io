@@ -13,22 +13,23 @@ tags:
 
 # GOF 1P Office Workstation Cubicle with Desk (Artisan Gray)
 
-Welcome back to Geeknite, where we turn the sacred ritual of desk shopping into a quest for ergonomic enlightenment and the occasional chuckle when the cable management daemon visits at 2 a.m. Today we’re revisiting the GOF 1P Office Workstation Cubicle with Desk in Artisan Gray. If you’ve ever tried to theatrically balance a full workstation in a space that doubles as a kitchen-drawer black hole for your cat’s snacks, you know there’s a moment of triumph when you realize someone finally designed space for your monitor, keyboard, and coffee mug to coexist without a minor tectonic shift.
+Welcome back to Geeknite, the place where desk shopping becomes a quest, a comedy, and sometimes a test of your ability to wrangle a cable spaghetti into some kind of minimalist sculpture. Today we’re revisiting the GOF 1P Office Workstation Cubicle with Desk in Artisan Gray. If you’ve ever tried to balance a full workstation in a space that doubles as a cat snack vault, you know the moment of triumph when someone finally designs space for your monitor, keyboard, and coffee mug to coexist without a tectonic shift.
 
-This is the 2,000-word love letter to modular space, privacy with a dash of airflow, and the moment your monitor sits at an eye-friendly height while your shoulders stop auditioning for a role in a tense French film about posture.
+This is the 2K-word love letter to modular space, privacy-with-a-dive-bottle of airflow, and the moment your monitor sits at an eye-friendly height while your shoulders stop auditioning for a tense French film about posture.
 
 ## Overview
 
-GOF’s 1P Office Workstation Cubicle is pitched as a modular, single-person cubicle system that doubles as a desk with a tilt toward home-office chic rather than a warehouse bunker aesthetic. Artisan Gray finishes take the stage with a cool, neutral gray that hides fingerprints and coffee spills with the confidence of a seasoned illusionist.
+GOF’s 1P Office Workstation Cubicle is pitched as a modular, single-person cubicle system that doubles as a desk, with a tilt toward home-office chic rather than a warehouse bunker aesthetic. Artisan Gray finishes take the stage with a cool, neutral gray that hides fingerprints and coffee spills with the confidence of a seasoned illusionist.
 
 If you’re a solo worker who wants a dedicated privacy niche without turning your space into a fortress, this setup aims to be your personal productivity bunker. It comes with a built-in desk surface, storage nooks, and a cubicle panel system that buffers sound just enough to pretend you’re in a library, while still letting your coworker’s weekend plans travel through the wall like tiny, enthusiastic earthquakes.
 
-For clarity (and to spare your Google Doc from pretending to be a PowerPoint), we’ll treat the depth as roughly 6 feet, width as 6 feet, and the height adjustability as 4'–6'. If your space manager insists on inches, measure first and pretend you’re a scientist until the paperwork is in your favor.
+For clarity (and to spare your Google Doc from pretending to be a PowerPoint), we’ll treat the depth as roughly 5 feet, width as 6 feet, and the height adjustability as 4'–6'. If your space manager insists on inches, measure first and pretend you’re a scientist until the paperwork is in your favor.
 
 If you want a quick mental image: think of a compact spaceship cockpit for one, designed to optimize desk real estate, cable routing, and emotional resilience when the printer loudly sighs in the other room.
 
 ### Visuals in your mind’s eye
- {% image /assets/images/gof-1p-artisan-gray.jpg alt='GOF 1P Artisan Gray image' %}
+
+{% image /assets/images/gof-1p-artisan-gray.jpg alt='GOF 1P Artisan Gray image' %}
 
 And yes, for the ultra-traditional browser, here’s a standard image reference too: 
 
@@ -115,7 +116,6 @@ Compared to classic two-desk open-concept setups, the 1P cubicle offers privacy 
 - A modular workstation with adjustable desk height on the main surface instead of relying on room height.
 
 ## Pros and Cons
-
 - Pros:
   - Clean Artisan Gray aesthetic pairs with most interiors.
   - Modular design makes reconfiguration relatively painless.
