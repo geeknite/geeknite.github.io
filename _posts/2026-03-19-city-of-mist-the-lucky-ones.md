@@ -1,6 +1,6 @@
 ---
 title: City of Mist: The Lucky Ones — Expanded Geeknite Review
-date: 2026-03-26
+date: 2026-03-28
 tags:
   - city-of-mist
   - review
@@ -8,6 +8,8 @@ tags:
   - tabletop
   - geeknite
   - noir
+  - lucky-ones
+  - expansion
 ---
 
 # City of Mist: The Lucky Ones — Expanded Geeknite Review
