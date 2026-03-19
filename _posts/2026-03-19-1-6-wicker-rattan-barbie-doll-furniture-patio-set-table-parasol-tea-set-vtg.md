@@ -10,10 +10,12 @@ tags:
   - collectors
   - update
   - geeknite
+  - photography
+  - display
 ---
 
 ## Introduction
-When you think vintage Barbie, you might picture hair so big it could host its own weather system and a toy closet that doubles as a time capsule for tiny plastics and bigger nostalgia. Today we zoom in on a micro marvel from the toy stage: a 1:6 scale wicker rattan Barbie doll furniture patio set that includes a table, parasol, and a petite tea set. It sounds almost charming enough to host a tea party for your inner child and your grown-up budget at the same time. The set radiates from a era when outdoor furniture for dolls was less about ergonomic perfection and more about convincing your imagination to take a vacation without leaving the living room.
+When you think vintage Barbie, you picture hair that has its own weather system and a doll closet that doubles as a time capsule for tiny plastics and bigger nostalgia. Today we zoom in on a micro marvel from the toy stage: a 1:6 scale wicker rattan Barbie doll furniture patio set that includes a table, parasol, and a petite tea set. It sounds almost charming enough to host a tea party for your inner child and your grown-up budget at the same time. The set radiates from an era when outdoor furniture for dolls was less about ergonomic perfection and more about convincing your imagination to take a vacation without leaving the living room.
 
 In this updated deep dive, we’ll cover unboxing to long-term display with a dash of humor because even collectible furniture deserves a good punchline. We’ll talk build quality, materials, scale integrity, display value, and care tips to keep these tiny wicker cucumbers from going soggy in humidity. If you are a collector, a diorama nerd, or simply a fan of tiny things that can still spark big smiles, this post is for you.
 
@@ -62,7 +64,7 @@ For play value, the set shines when paired with other seating, a tiny rug, and a
 If you want to explore other 1:6 furniture packs that pair well with wicker, you might enjoy posts like the Barbie 1:6 furniture guide, which covers a broader range of styles and how they behave under different lighting. See a related post here: [1:6 Barbie furniture guide]({% post_url 2024-11-15-barbie-1-6-furniture-guide %}).
 
 ## Play value and display potential
-Let’s be honest: vintage sets lure collectors with display value more than rugged play value. The tea set is not a toy battle unit; the wicker can fray if you push the limits, and the parasol fabric may show micro-wear if you leave it under a lamp all day. Yet the set’s charm lies in story-telling potential. A well-curated photo or staged scene can evoke a seaside verandah, a sunlit courtyard, or a secret garden party from a time when theater was served with sugar and a cup of tea.
+Let’s be honest: vintage sets lure collectors with display value more than rugged play value. The tea set is not a toy battle unit; the wicker can fray if you push the limits, and the parasol fabric may show micro-wear if you leave it under a lamp all day. Yet the set’s charm lies in storytelling potential. A well-curated photo or staged scene can evoke a seaside verandah, a sunlit courtyard, or a secret garden party from a time when theater was served with sugar and a cup of tea.
 
 Play scenarios to consider:
 - Tea party in the sun: dolls gossip about fashion and the latest tiny scandal.
