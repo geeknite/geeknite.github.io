@@ -11,11 +11,13 @@ tags:
   - party-games
   - storytelling
   - nostalgia
+  - memory
+  - family-games
 ---
 
 ![Dixit Memories Expansion cover]({{ '/assets/images/dixit_memories_expansion_cover.jpg' | relative_url }})
 
-If you loved Dixit for its dreamy visuals, its gentle chaos, and the moment when a room full of adults pretends to understand a painting of a teapot that resembles a comet, you are in for a treat with the Dixit Memories Expansion. This isn’t just more art cards; it is a nostalgia nudge wrapped in a velvet-psych dream. The Memories expansion leans into memory, recollection, and the playful tug of our own histories as fodder for storytelling. It arrives with the same elegance and whimsy you expect from a Dixit release, but with a tilt toward the past that turns your game night into a mini time capsule—with snacks. If your table bleeds nostalgia, this expansion slides in like a well-timed punchline after a long, wandering anecdote.
+If you loved Dixit for its dreamy visuals, its gentle chaos, and the moment when a room full of adults pretends to understand a painting of a teapot that resembles a comet, you already know you’re in for a treat with the Dixit Memories Expansion. This isn’t just more art cards; it is a nostalgia nudge wrapped in a velvet-psych dream. The Memories expansion leans into memory, recollection, and the playful tug of our own histories as fodder for storytelling. It arrives with the same elegance and whimsy you expect from a Dixit release, but with a tilt toward the past that turns your game night into a mini time capsule—with snacks. If your table bleeds nostalgia, this expansion slides in like a well-timed punchline after a long, wandering anecdote.
 
 External link: [Dixit Memories Expansion on Asmodee](https://www.asmodee.com/en/games/dixit-memories-expansion/) | ABUGames listing: [ABUGames – Dixit Memories Expansion](https://www.abugames.com/dixit-memories-expansion)
 
@@ -59,7 +61,7 @@ Dixit and its expansions have always had a broad audience: families, casual frie
 
 ## Replayability and Longevity
 
-If you’re buying Dixit as a long-term staple in your collection, the Memories expansion adds value by expanding the storytelling palette. The new cards give you fresh imagery, which means you don’t keep telling the same jokes about the same cards you’ve seen a thousand times. The expansion’s strength is not in new gameplay mechanics but in expanding the range of creative prompts. The longevity comes from the variety of memories you can mine from your own life and the life of the room. Some games will produce a string of memory-based anecdotes so memorable you’ll be tempted to start a scrapbook of your Dixit nights. Others will be content with shorter, punchier stories that land the punchline before the card even fully flips to the center.
+If you’re buying Dixit as a long-term staple in your collection, the Memories expansion adds value by expanding the storytelling palette. The new cards give you fresh imagery, which means you don’t keep telling the same jokes about the same cards you’ve seen a thousand times. The expansion’s strength is not in new gameplay mechanics but in expanding the range of creative prompts. The longevity comes from the variety of memories you can mine from your own life and the life of the room. Some nights will yield a string of memory-based anecdotes so memorable you’ll be tempted to start a scrapbook of your Dixit nights. Others will be content with shorter, punchier stories that land the punchline before the card even fully flips to the center.
 
 ## Value for Money and Quality per Card
 
@@ -99,4 +101,4 @@ If you’ve got a crew that loves to swap stories, reminisce about the time we b
 
 If you’re ready to take this nostalgia trip, we recommend pairing it with a good snack, a willing crew, and a playlist that leans into dreamlike vibes. And if you want to support Geeknite while you shop, use our affiliate link to ABUGames and tell your friends that your memories were enhanced by a slightly ridiculous deck of art cards.
 
-**Get it now on ABUGames via our affiliate link: https://www.abugames.com/dixit-memories-expansion?ref=geeknite**
+**Get it now via our affiliate link: https://www.abugames.com/dixit-memories-expansion?ref=geeknite**
