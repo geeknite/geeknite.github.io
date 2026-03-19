@@ -1,5 +1,5 @@
 ---
-title: Dixit Memories Expansion – A Brand New Nostalgia Night
+title: Dixit Memories Expansion – A Nostalgia Night Revisited
 date: 2026-03-19
 tags:
   - board-games
@@ -15,7 +15,7 @@ tags:
 
 ![Dixit Memories Expansion cover]({{ '/assets/images/dixit_memories_expansion_cover.jpg' | relative_url }})
 
-Dixit, that mischievous mix of dreamscapes and storytelling, returns with a brand new expansion promising to drag your memories out of the attic and into the dining room floor between the spilled chips and the dog’s enthusiastic tail-wagging. Dixit Memories Expansion, published by Asmodee and currently making waves through ABUGames, is not just more cards; it’s a thematic nudge toward recollection, nostalgia, and the sort of silliness that only a room full of players who’ve overcooked a cheese platter can appreciate. If you’ve played Dixit before and thought, Hey, more surreal art with vaguely helpful prompts would be nice, this set might light up your table like a lava lamp at 2 AM.
+If you loved Dixit for its dreamy visuals, its gentle chaos, and the moment when a room full of adults pretends to understand a painting of a teapot that resembles a comet, you are in for a treat with the Dixit Memories Expansion. This isn’t just more art cards; it is a nostalgia nudge wrapped in a velvet-psych dream. The Memories expansion leans into memory, recollection, and the playful tug of our own histories as fodder for storytelling. It arrives with the same elegance and whimsy you expect from a Dixit release, but with a tilt toward the past that turns your game night into a mini time capsule—with snacks. If your table bleeds nostalgia, this expansion slides in like a well-timed punchline after a long, wandering anecdote.
 
 External link: [Dixit Memories Expansion on Asmodee](https://www.asmodee.com/en/games/dixit-memories-expansion/) | ABUGames listing: [ABUGames – Dixit Memories Expansion](https://www.abugames.com/dixit-memories-expansion)
 
@@ -23,11 +23,11 @@ The following takes a long, loving look at what this expansion offers, how it ch
 
 ## What is Dixit Memories Expansion?
 
-Dixit Memories Expansion is the latest add-on for Dixit, a game built on evocative storytelling, quick wits, and the occasional attempt to describe a card that looks more like a dream than a photograph. The Memories set focuses on memory, reminiscence, and the blurred lines between past and present. In practical terms, that means a new deck of art cards—dreamlike, strange, and wonderfully abstract—designed to spark stories that are both personal and impossibly flattering to the storyteller. The expansion is designed to slot into the base game without changing core rules. You’ll still have the same setup, the same scoring, and the same “choose a storyteller, describe a card, try not to pick a crime scene” vibe you know and love.
+Dixit Memories Expansion is the latest add-on for Dixit, a game built on evocative storytelling, quick wits, and the occasional attempt to describe a card that looks more like a dream than a photograph. The Memories set focuses on memory, reminiscence, and the blurred lines between past and present. In practical terms, that means a new deck of art cards—dreamlike, strange, and wonderfully abstract—designed to spark stories that are both personal and impossibly flattering to the storyteller. The expansion slots into the base game without changing core rules. You’ll still have the same setup, the same scoring, and the same vibe you know and love, just with more memory prompts to mine from the attic of your brain.
 
 ### Cards and Components
 
-The expansion brings a fresh pile of art cards, each card a portal to a story you might tell your grandmother, your gamer friends, or that one cousin who swears they’ve seen a shark in a bathtub. The artwork leans more toward memory and memory-like themes—images that feel familiar but aren’t quite pinned down. In addition to the cards, you’ll find a handful of memory-inspired tokens (or tiles) that can be used to inject a touch of the nostalgic into the gameplay. The tokens work as optional add-ons for players who want to track certain “memory moments” during a session, adding a light layer of meta-theme without complicating the base rules.
+The expansion brings a fresh pile of art cards, each card a portal to a story you might tell your grandmother, your gamer friends, or that cousin who swears they saw a shark in a bathtub. The artwork leans into memory and memory-like themes — images that feel familiar but aren’t quite pinned down. In addition to the cards, you’ll find a handful of memory-inspired tokens (or tiles) that can be used to inject a touch of the nostalgic into the gameplay. The tokens work as optional add-ons for players who want to track certain memory moments during a session, adding a light layer of meta-theme without complicating the base rules.
 
 ### Aesthetic and Production Quality
 
@@ -35,7 +35,7 @@ As with most Dixit expansions, the production quality is solid and eye-catching.
 
 ## How It Changes the Game (Gameplay and Feel)
 
-Dixit has always thrived on the tension between interpretation and misinterpretation. The Memories expansion leans into that tension by providing prompts and imagery that tug at collective recall and personal anecdotes. The effect is a session that often veers away from pure guessing into a shared storytelling experience where players reveal more about their own memory banks than about the card in the center. The risk here is that some players may get a little too personal or nostalgic for the room—remember, this is still a party game, not a therapy session in disguise. The best kind of Dixit night with this expansion often involves a good balance between the playful and the poignant, a dash of absurdity, and a healthy dose of self-deprecating humor.
+Dixit has always thrived on the tension between interpretation and misinterpretation. The Memories expansion leans into that tension by providing prompts and imagery that tug at collective recall and personal anecdotes. The effect is a session that often veers away from pure guessing into a shared storytelling experience where players reveal more about their own memory banks than about the card in the center. The risk here is that some players may get a little too personal or nostalgic for the room — remember, this is still a party game, not a therapy session in disguise. The best kind of Dixit night with this expansion often involves a good balance between the playful and the poignant, a dash of absurdity, and a healthy dose of self-deprecating humor.
 
 ### New Tokens and Memory Moments
 
@@ -55,7 +55,7 @@ The theme of memory is a warm blanket with a few static lines. It’s comforting
 
 ## Audience and Accessibility
 
-Dixit and its expansions have always had a broad audience: families, casual friends, and hobby gamers who enjoy art and storytelling in equal measure. The Memories expansion broadens that reach by inserting a universal theme—memory—into the mix. It’s approachable for kids who understand the concept of a story about a memory and flexible enough for adults who want to improvise a more personal narrative at the table. Of course, like any nostalgia-fueled content, it’s something to read the room for: some groups revel in the shared recollections, while others may prefer the more objective humor of a purely abstract card description. The key is to read your group and adjust the tone and tempo accordingly.
+Dixit and its expansions have always had a broad audience: families, casual friends, and hobby gamers who enjoy art and storytelling in equal measure. The Memories expansion broadens that reach by inserting a universal theme — memory — into the mix. It’s approachable for kids who understand the concept of a story about a memory and flexible enough for adults who want to improvise a more personal narrative at the table. Of course, like any nostalgia-fueled content, it’s something to read the room for: some groups revel in the shared recollections, while others may prefer the more objective humor of a purely abstract card description. The key is to read your group and adjust the tone and tempo accordingly.
 
 ## Replayability and Longevity
 
