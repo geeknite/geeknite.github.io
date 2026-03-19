@@ -1,14 +1,14 @@
 ---
 title: 'Mattel Phase 10 Card Game Travel Edition: A Geeknite Review (Expanded)'
 date: 2026-03-19
-tags: [board-games, card-games, travel-editions, phase-10, mattel, reviews, travel]
+tags: [board-games, card-games, travel-editions, phase-10, mattel, reviews, travel, portable-games]
 ---
 
 ![](assets/images/phase10-travel.jpg)
 
 ## Overview
 
-If you have ever contemplated a board game that fits in your jeans pocket, yet still demands the strategic brainpower of a full-scale strategy title, welcome to the Mattel Phase 10 Card Game Travel Edition. This little rascal is the portable cousin of the giant Phase 10 universe, a game built on the tension between chasing phase cards and the nagging suspicion that your fellow players somehow aced basic arithmetic and color coordination during kindergarten. The Travel Edition promises two things: a compact, durable box that won’t pop open in your backpack, and a set of rules that deliver the same swingy, color-coded chaos you know and love from the regular game. It is the kind of product that makes you wonder if every hobby could come with a travel-friendly ruler and a built-in snack slot.
+If you have ever contemplated a board game that fits in your jeans pocket, yet still demands the strategic brainpower of a full-scale title, welcome to the Mattel Phase 10 Card Game Travel Edition. This little rascal is the portable cousin of the giant Phase 10 universe, a game built on the tension between chasing phase cards and the nagging suspicion that your fellow players somehow aced basic arithmetic and color coordination during kindergarten. The Travel Edition promises two things: a compact, durable box that won’t pop open in your backpack, and a set of rules that deliver the same swingy, color-coded chaos you know and love from the regular game. It is the kind of product that makes you wonder if every hobby could come with a travel-friendly ruler and a built-in snack slot.
 
 From the first shuffle, you can tell Mattel focused on portability without sacrificing the core DNA of Phase 10. The travel box is floor-friendly, and the rulebook is short enough to read on a subway ride but sturdy enough to survive a miscalculated toss-for-initiative. The result is a game that doesn’t scream toy or kid thing, but rather whispers, with just a touch of smug, that you can actually play something satisfying on a long layover without needing a full table or a nap room.
 
@@ -87,7 +87,7 @@ One note about accessibility: the Travel Edition is friendly to players of vario
 
 Phase 10 Travel Edition is marketed toward a broad audience. It’s easy to teach to beginners, not overly complex for casual players, and still engaging for someone who enjoys the strategic nuance of stage-based card games. The rules are easy to parse, the components are accessible, and the physical product is designed to withstand the rough-and-tumble nature of travel life. As with many family-friendly games, the key is how you frame the experience: emphasize fun, not perfection, and the group will be more forgiving of imperfect play and the occasional comedic misdeal.
 
-If you’re curious about how it stacks up against other travel-friendly games on Geeknite, you might want to check our posts that compare quick-play games and travel editions. For related reading, see our take on the classics and modern splits in the space: [Phase 10 deep dive and phase-by-phase guide]({% post_url 2024-05-10-phase-10-explained %}) and [Top travel board games for 2025]({% post_url 2025-10-02-travel-board-games-roundup %}). These posts offer context on how Phase 10 Travel Edition sits within the broader ecosystem of on-the-go gaming.
+If you’re curious about how it stacks up against other travel-friendly games on Geeknite, you might want to check our posts that compare quick-play games and travel editions. For related reading, see our take on the classics and modern splits in the space: Phase 10 deep dive and phase-by-phase guide [{% post_url 2024-05-10-phase-10-explained %}] and Top travel board games for 2025 [{% post_url 2025-10-02-travel-board-games-roundup %}]. These posts offer context on how Phase 10 Travel Edition sits within the broader ecosystem of on-the-go gaming.
 
 ## Pros and cons in a nutshell
 
