@@ -1,14 +1,14 @@
 ---
-title: "15U 18in Glass Door Wall Mount Network Server Rack Cabinet & Lock"
+title: '15U 18in Glass Door Wall Mount Network Server Rack Cabinet & Lock'
 date: 2026-03-19
-tags: [rack, server, hardware, review, home-lab]
+tags: ['rack', 'server', 'hardware', 'review', 'home-lab']
 ---
 
 # 15U 18in Glass Door Wall Mount Network Server Rack Cabinet & Lock: Geeknite's No-Nonsense Review
 
 If you have more cables than your grocery store has coupons and your servers are plotting a coup from behind a glass door, this 15U 18in glass door wall mount rack just might be your new best friend. In Geeknite style, we’re going to tear this apart with the same enthusiasm you bring to a new SSD: thoroughly, with a dash of sarcasm, and enough nerdy enthusiasm to make you forget about the dust bunnies until they threaten to form a union.
 
-![15U Glass Door Rack](./assets/images/15u-glass-door-rack.jpg)
+![](./assets/images/15u-glass-door-rack.jpg)
 
 For those short on time: this is a compact, wall-mount, 15U rack with an 18-inch depth and a tempered glass door that locks. It’s designed to be mounted on a sturdy wall, not stacked on a coffee table, and it’s perfect for small labs, home offices, or a closet that refuses to stay organized. Now, let’s break down what that means in practice.
 
@@ -93,7 +93,8 @@ For many home labs and small offices, this rack offers a compelling balance of p
 If you want more power density or wish to scale beyond 15U, you’ll need to plan a future upgrade path. Consider whether you’ll add more switches, a larger NAS, or perhaps a mini switch stack. If so, you may want to look at larger cabinets or a cascade of smaller wall-mount units joined with a larger cabinet in a closet corridor. It’s a classic “start small, plan big” scenario—one that geeks everywhere recognize as the adult version of building with Lego bricks.
 
 ## Thoughts on airflow and gear placement
-Airflow is king when you build a small rack. If your devices create heat pockets, your fans will chase the heat in a way that makes you want to rename your IT space to a small volcano. The 18-inch depth helps a bit by providing space behind the front rails for cables, but you still want to avoid cabling that blocks the rear vent paths. If you’re using a NAS or a mesh of switches, you might want to consider low-profile fans or a simple vent panel to improve air movement. It won’t turn your rack into a wind tunnel, but it will help keep temperatures reasonable enough to avoid sudden IT theater performances where devices pretend to overheat at the sight of a RAID volume.
+
+Airflow is king when you build a small rack. If your devices create heat pockets, your fans will chase the heat in a way that makes you want to rename your IT space to a small volcano. The 18-inch depth helps a bit by providing space behind the front rails for cables, but you still want to avoid cabling that blocks the rear vent paths. If you’re using a NAS or a mesh of switches, you might want to consider low-profile fans or a simple vent panel to improve air movement. It won’t turn your rack into a wind tunnel, but it will help keep temperatures reasonable enough to avoid sudden IT theater performances where devices pretend to overhear a RAID volume.
 
 ## How this rack compares to the alternatives
 - Bigger wall-mount options (18-24 inches deep) offer more room, but eat more wall space. If you’re working in a tight apartment or a small office, bigger might not be better—it might mean you can’t open the door in a small hallway without a drama scene.
