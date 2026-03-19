@@ -8,14 +8,14 @@ tags:
   - english
   - geeknite
   - party-games
+layout: post
 ---
 
-Codenames has the kind of premise that makes you wonder why you didn’t think of it first: a grid of words lives on the table, two teams exist, a spymaster speaks in riddles, and suddenly your friends turn into language wizards and puzzle detectives at the same time. If you like wordplay, social deduction, and the occasional healthy dose of chaos, Codenames in English is a ride that pays off with every clever clue and every spluttering misstep. Welcome to the Geeknite take on Codenames, where we break the rules, savor the tension, and somehow end up laughing about a cat named Aquarium after a heated round.
+Codenames in English is not just a language exercise with a loud laugh track; it is a social experiment in how words become bridges between people when you hand someone a clue and watch the room decide if it really means astronaut or if it means something your aunt would faint at. If you like wordplay, social energy, and the occasional chaos that makes everyone remember why a five-letter word can feel like a tiny revolution, then Codenames in English is absolutely the party hammer you never knew you needed. Welcome to the Geeknite take on Codenames, where we celebrate the puns, groan-sized connections, and the glorious chaos of a well-timed misdirection.
 
 {% image /assets/images/codenames-board.jpg 'Codenames board with a 5x5 grid' %}
 
 External link to the official world where this thing lives and breathes: [Czech Games Codenames](https://czechgames.com/en/games/codenames/). For the curious mind who wants to see the nuts and bolts of the design philosophy, this is the place to start. If you prefer a nerdier, more data-driven corner of the internet, [BGG - Codenames](https://boardgamegeek.com/boardgame/178900/codenames) has a thread that will make you grin and groan in equal measure. And yes, we will reference these touchpoints sparingly, because the real magic happens when you’re staring at a table with a 5x5 grid and a pile of tokens that refuse to stay serious.
-
 
 ## What is Codenames? A quick refresher for the curious
 
@@ -103,7 +103,7 @@ In short, Codenames English edition is a reliable, highly shareable social game 
 
 ## Cross-links and a sense of community: building a library of ideas
 
-If you’re building a geeky catalog of best practices, you’ll want to check out a few related posts in our archive. For practical hosting tips that work with Codenames and similar party games, see [How to Run a Perfect Codenames Night]({% post_url '2024-11-05-how-to-run-a-perfect-codenames-night' %}). It’s a compact guide to pacing, rotation, and ensuring everyone gets a turn without turning the room into a quiet library. For broader boardgame-curation thinking, you might enjoy [The Geeknite Boardgame Essentials]({% post_url '2025-12-01-geeknite-boardgame-essentials' %}), where we lay out the books and games that make a night feel cohesive rather than chaotic. And if you’re curious about a nonverbal or visual path through word association, our review of Codenames Pictures might be a good companion read.
+If you’re building a geeky catalog of best practices, you’ll want to check out a few related posts in our archive. For practical hosting tips that work with Codenames and similar party games, see {% post_url '2024-11-05-how-to-run-a-perfect-codenames-night' %}. It’s a compact guide to pacing, rotation, and ensuring everyone gets a turn without turning the room into a quiet library. For broader boardgame-curation thinking, you might enjoy {% post_url '2025-12-01-geeknite-boardgame-essentials' %}, where we lay out the books and games that make a night feel cohesive rather than chaotic. And if you’re curious about a nonverbal or visual path through word association, our review of Codenames Pictures might be a good companion read.
 
 External recommendation: if you want a deeper dive into the design ethos behind Codenames, the official site offers design notes and creator interviews that are worth skimming after you finish a fun round with friends.
 
