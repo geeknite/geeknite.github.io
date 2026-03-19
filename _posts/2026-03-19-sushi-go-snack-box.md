@@ -1,5 +1,5 @@
 ---
-ttitle: "Sushi Go! Snack Box — A Geeknite Unboxing and Review"
+title: "Sushi Go! Snack Box — A Geeknite Unboxing and Review"
 date: 2026-03-19
 tags:
   - board games
