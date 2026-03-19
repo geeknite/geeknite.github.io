@@ -1,5 +1,5 @@
 ---
-title: Edouard Guiton Special Guest Box for Zombicide CMON GUG0062 NEW AND SEALED
+title: Edouard Guiton Special Guest Box for Zombicide CMON GUG0062 NEW AND SEALED (Updated 2026 Review)
 date: 2026-03-19
 tags:
   - board-games
@@ -8,6 +8,8 @@ tags:
   - unboxing
   - collector
   - Kickstarter
+  - artist-edition
+  - special-guest-box
 ---
 
 ## Introduction
