@@ -1,5 +1,5 @@
 ---
-title: 'Hand-Tufted Crimson & Cream Wool Area Rug: A New Zealand Carpet Chronicle (Expanded)'
+title: Hand-Tufted Crimson & Cream Wool Area Rug: A New Zealand Carpet Chronicle (Expanded)
 date: 2026-03-19
 tags:
   - Rugs
@@ -11,6 +11,7 @@ tags:
   - Product Review
   - Design
   - Color Theory
+  - Interior Design
 ---
 
 ## Hand-Tufted Crimson & Cream Wool Area Rug: A New Zealand Carpet Chronicle, Rebooted
@@ -23,6 +24,8 @@ If you’re new to hand-tufted wool, fear not. This expanded guide is your frien
 ![Hand-Tufted Crimson & Cream Wool Area Rug]({{ "/assets/images/hand-tufted-crimson-cream-wool-area-rug.jpg" | relative_url }})
 
 ![Close-up tuft detail]({{ "/assets/images/hand-tufted-crimson-cream-closeup-wool-detail.jpg" | relative_url }})
+
+![Room styling with rug]({{ "/assets/images/room-style-rug-crimson-cream.jpg" | relative_url }})
 
 ## What makes this rug special
 There is a timeless magic in crimson and cream—the color duo that managed to survive the 1970s and still age gracefully into a look that feels both classic and contemporary. The crimson threads read as a warm hearth, a cozy ember that invites conversation, while the cream acts as a calm counterweight so the space doesn’t erupt into a full-on color therapy session.
@@ -67,7 +70,7 @@ The strong color story invites metallic accents such as bronze or copper in ligh
 
 ## The design and build journey: From loom to living room
 ### The hand-tufted process, in layman terms
-Hand-tufting is the art of pushing yarns through a fabric base using a tufting gun to create a plush surface. It’s a method that looks like a modern art-meets-DIY project: precise, loud, and fascinatingly tactile. The artisan typically uses a frame to keep everything aligned, then threads the wool into the backing to form knots and loops. The result is a durable pile with a slightly more forgiving surface than machine-loomed counterparts. It’s not a machine-made miracle; it’s human hands giving wool a second life on your floor.
+Hand-tufting is the art of pushing yarns through a fabric base using a tufting gun to create a plush surface. It’s a method that looks like a modern art meets DIY project: precise, loud, and fascinatingly tactile. The artisan typically uses a frame to keep everything aligned, then threads the wool into the backing to form knots and loops. The result is a durable pile with a slightly more forgiving surface than machine-loomed counterparts. It’s not a machine-made miracle; it’s human hands giving wool a second life on your floor.
 
 ### Quality signals to watch for
 - Consistent pile height across the rug (no obvious lumps or dips).
@@ -101,7 +104,7 @@ Pricing is highly fluid based on size, finish, and retailer. The key takeaway is
 
 If that sounds like you, this rug should be on your short list. It’s not the cheapest option, but it’s a long-term companion for rooms that deserve a little theatrical warmth without becoming the center of chaos.
 
-## Design tips and quick reads for ongoing inspiration
+### Design tips and quick reads for ongoing inspiration
 - Optional layering: a smaller neutral textured runner can extend the crimson-cream narrative through an entryway or kitchen corridor.
 - Lighting synergy: warm ambient light will strengthen the crimson while keeping the cream from looking washed out under fluorescents.
 - Artful furniture pairing: choose furniture with slightly muted wood tones to avoid crowding the strong color story; let the rug talk.
