@@ -1,13 +1,13 @@
 ---
-title: 'Infinite 4 Person Cornerstation W Screens 3630x3030x1200mm Oak White — Geeknite Review'
+title: 'Infinite 4 Person Cornerstation W Screens 3630x3030x1200mm Oak White — Geeknite Review (Updated)'
 date: 2026-03-19
-tags: [furniture, home-office, corner-station, modular, oak, white, review]
+tags: [furniture, home-office, corner-station, modular, oak, white, review, four-person, privacy]
 ---
 
 ![Infinite Cornerstation W Screens]({{ '/assets/images/infinite-4-person-cornerstation-w-screens-3630x3030x1200mm-oak-white.jpg' | relative_url }})
 
 ## Overview
-If your home office doubles as a satellite command center for a four-person team that insists on talking over Zoom at the same time, the Infinite 4 Person Cornerstation W Screens is basically a throne for organized chaos. Measuring a mighty 3630 by 3030 millimeters and standing at a polite 1200 millimeters tall, it announces its ambition loudly: more desks, more privacy, and more space for your inner spreadsheet diva to shine. It’s a corner desk system with walls, screens, and enough cable management to make a small cyberpunk city jealous. In Geeknite fashion, we don’t just review furniture—we test it like a boss fights a RAID boss: with wit, data, and the occasional heroic groan.
+If your home office doubles as a satellite command center for a four-person crew that insists on talking over Zoom at the same time, the Infinite 4 Person Cornerstation W Screens is basically a throne for organized chaos with a side of productivity. Measuring a mighty 3630 by 3030 millimeters and standing at a polite 1200 millimeters tall, it announces its ambition loudly: more desks, more privacy, and more space for your inner spreadsheet diva to shine. It’s a corner desk system with walls, screens, and enough cable management to make a small cyberpunk city jealous. In Geeknite fashion, we don’t just review furniture—we test it like a boss fights a RAID boss: with wit, data, and the occasional heroic groan.
 
 What you’re getting here isn’t just a piece of wood and metal; you’re getting a modular workplace designed to ferry four users through long days without sneaking off to the coffee shop like a herd of caffeinated rabbits. The W Screens in the model name hint at built-in privacy barriers and screen-ready panels that make it feel less like a shared cubicle and more like a private cockpit—only this cockpit has a nicer view and a slightly higher chance of someone actually finishing a task before lunch.
 
@@ -16,7 +16,7 @@ To set the stage, we’ll dive into design, build quality, spatial impact, and t
 ## Design and Build Quality
 The Cornerstation is not shy about its presence. The Oak White finish marries warmth with a modern, almost Scandinavian vibe—like a lumberyard meeting a minimalist furniture showroom and deciding to collaborate on a sci-fi set. The frame is a stout alloy that doesn’t inspire panic when you jog a chair back into place; it’s the kind of construction that whispers a confident, “We can handle four people and their power strips, thank you very much.” The oak veneer tones down the industrial vibe, offering a forgiving surface for laser pointers, coffee rings, and the occasional snack-stains that inevitably become a feature, not a flaw.
 
-One of the big things to notice here is the attention to edge detailing. There are soft, rounded corners on the tabletops (because safety first, especially with four coworkers elbowing their way to a keyboard), and the privacy panels are designed to be modular rather than a fixed wall of plastic. If you’ve ever used a bad “open office” setup, you’ll appreciate panels that don’t scream “temporary partition.” The finish looks sturdy enough to survive a dozen Yule logs of wrapping paper during the holidays and still feel premium enough to show off to visitors who ask, “Is that real wood?”
+One of the big things to notice here is the attention to edge detailing. There are soft, rounded corners on the tabletops (because safety first, especially with four coworkers elbowing their way to a keyboard), and the privacy panels are designed to be modular rather than a fixed wall of plastic. If you’ve ever used a bad open office setup, you’ll appreciate panels that don’t scream “temporary partition.” The finish looks sturdy enough to survive a dozen Yule logs of wrapping paper during the holidays and still feel premium enough to show off to visitors who ask, “Is that real wood?”
 
 Materials-wise, you’re getting a real wood-look veneer with a matte finish that resists finger smudges and the occasional coffee splatter more gracefully than a high-gloss surface would. The underside gets its own weatherproofing love—less wobble, less squeak, and better longevity when you’re rocking a four-person crew that shifts desks on a whim to accommodate a new project sprint.
 
@@ -34,7 +34,7 @@ The “W Screens” moniker isn’t just marketing; it hints at privacy panels t
 
 The integration of screens is a key feature here. We’re not talking about a separate monitor wall; the intention is a clean, multi-user visual environment where screens or monitor arms can be mounted and oriented without fighting over the same neck of the table. If you’re a team that needs to share visuals, diagrams, or code, this design helps everyone stay in the loop without shouting, “Can you turn your screen down?” across the room. The privacy panels do a nice job of reducing visual noise, which is especially welcome during focus-heavy tasks and silent coding sprints when the only sound should be keyboard clicks and the occasional espresso machine hiss.
 
-If you’re designing a four-person collaboration space, you’ll also want to think about lighting. The corner layout can create corners that feel a touch darker than the center, so plan a lamp or two to avoid eye strain after long sessions. The current Oak White finish benefits from soft, warm lighting to keep the room from feeling too sterile—unless, of course, you’re building a “no-humans-allowed” lab vibe, in which case the privacy screens and dimmable lamps will be your best friends.
+If you’re designing a four-person collaboration space, you’ll also want to think about lighting. The corner layout can create corners that feel a touch darker than the center, so plan a lamp or two to avoid eye strain after long sessions. The current Oak White finish benefits from soft, warm lighting to keep the room from feeling too sterile—unless, of course, you’re building a no-humans-allowed lab vibe, in which case the privacy screens and dimmable lamps will be your best friends.
 
 ## Assembly and Maintenance
 Let’s be real for a moment: this isn’t a furniture kit you slap together during a Sunday afternoon. The Infinite Cornerstation is a serious piece of equipment, meant to handle four workstations with all their cables, monitors, and personal keyboards like a well-choreographed orchestra. Expect a multi-hour assembly process, especially if you’re doing it with a team rather than a solo assembly hacker with a coffee addiction. The instruction set is thorough but not overly verbose; think of it as “read once, assemble with friends, then re-check three times” level of guidance.
@@ -53,7 +53,7 @@ Cable management, as mentioned earlier, matters here. A tidy spine reduces accid
 ## Features and Tech Highlights
 The W Screens configuration brings together functional privacy with a modular philosophy. The panels can be repositioned to create distinct zones, but they also slide away when you want to turn the entire surface into a single big plane for collaborative tasks or team show-and-tell sessions. If there are optional add-ons, they typically include monitor arms, cable trays, and a couple of accessory rails for tools, headphones, or ergonomic aids. The overall footprint is substantial, but the payoff is a space that can be reconfigured quickly to match project demands, which is a rare luxury in multi-user setups.
 
-From a tech perspective, you’re not buying a “smart desk” with built-in GPUs or a battery backup, but you are buying a platform that accommodates multiple devices with clean wiring routes. If you’re a team that loves shared screens for code reviews or design reviews, this setup can be a joy, especially when you angle the panels for improved lighting and reduced screen glare.
+From a tech perspective, you’re not buying a smart desk with built-in GPUs or a battery backup, but you are buying a platform that accommodates multiple devices with clean wiring routes. If you’re a team that loves shared screens for code reviews or design reviews, this setup can be a joy, especially when you angle the panels for improved lighting and reduced screen glare.
 
 ## Value, Pricing, and Practicality
 Price is the inevitable adult conversation that follows the joy of “look at all this space.” The Infinite Cornerstation sits in that mid-to-high tier for office furniture, where you pay for the space, the materials, and the modular flexibility rather than just a glossy surface. If you’re outfitting a four-person team in a dedicated room or a home office that doubles as a small studio, the value becomes clearer when you consider the long-term ROI of a well-organized workspace: fewer arguments about desk space, fewer cables tripping people, and a more efficient work cadence.
@@ -76,7 +76,7 @@ If you want a quick mental model: think of four-person layouts that are comforta
 On the other hand, if you’re solo or a pair with heavy need for a petite footprint and ultra-minimalism, the Cornerstation might feel like overkill. It’s the kind of furniture that begs for a social use-case: a shared space that thrives on collaboration but requires discipline to maintain the romance of an organized desk rather than a furniture museum exhibit of cables and monitors.
 
 ## Final Verdict and Geeknite Recommendation
-In the Geeknite universe, the Infinite 4 Person Cornerstation W Screens earns a solid recommendation for teams that want a sturdy, modular, and aesthetically pleasing hub for collaboration. It’s not a lightweight, “set it and forget it” desk; it’s a long-term investment in office ergonomics, privacy, and shared space that actually respects the idea of four people needing room to breathe and work. The Oak White finish pairs well with many interior styles, from modern-minimalist to warm-industrial, and the modular panels offer a flexible way to tune the level of privacy as your team’s needs shift.
+In the Geeknite universe, the Infinite 4 Person Cornerstation W Screens earns a solid recommendation for teams that want a sturdy, modular, and aesthetically pleasing hub for collaboration. It’s not a lightweight, set-it-and-forget-it desk; it’s a long-term investment in office ergonomics, privacy, and shared space that actually respects the idea of four people needing room to breathe and work. The Oak White finish pairs well with many interior styles, from modern-minimalist to warm-industrial, and the modular panels offer a flexible way to tune the level of privacy as your team’s needs shift.
 
 Pros:
 - Generous four-person footprint with modular privacy panels
@@ -96,15 +96,15 @@ Overall rating: 4.2 out of 5 stars. A strong choice for teams that need structur
 - If you’re curious about four-person gaming/creative setups, see: {% post_url 2025-03-12-ultimate-gaming-desk %}
 
 External resources and further reading:
-- A practical article on space planning for multi-person work zones: https://www.furnituretoday.com/ workspace-planning
-- A high-level take on modular office furniture and adaptability: https://www.officelogic.com/modular-workspaces
+- https://www.furnituretoday.com/ workspace-planning
+- https://www.officelogic.com/modular-workspaces
 
 ## Visuals and Gallery
 - Main setup in a bright, contemporary home-office corner: ![Cornerstation room shot]({{ '/assets/images/cornerstation-room-shot.jpg' | relative_url }})
 - Close-up of the Oak White finish and panel joinery: ![Oak White finish detail]({{ '/assets/images/oak-white-finish-detail.jpg' | relative_url }})
 
 ## Final Notes
-If you’re in the market for a robust, four-person corner workstation with privacy features and a finish that looks good after three months of daily use, the Infinite Cornerstation is worth a serious look. It’s one of those furniture choices that, when set up correctly, makes your team feel like they actually have a proper workspace, rather than a row of desks stacked into a corner like a temporary patch job. And if you’re serious about making the most of your investment, plan your room layout with a little extra space for cable routes and chair movement—trust us, it’s the kind of detail that saves you from “where did all the cables go?” headaches a few weeks in.
+If you’re in the market for a robust, four-person corner workstation with privacy features and a finish that looks good after three months of daily use, the Infinite Cornerstation is worth a serious look. It’s one of those furniture choices that, when set up correctly, makes your team feel like they actually have a proper workspace, rather than a row of desks stacked into a corner like a temporary patch job. And if you’re serious about making the most of your investment, plan your room layout with a little extra space for cable routes and chair movement—trust us, it’s the kind of detail that saves you from where-did-all-the-cables-go headaches a few weeks in.
 
 If you’re ready to elevate your shared workspace, this product is a strong contender worth your attention and your wallet. It delivers on the fundamentals—space, privacy, and durability—while offering the flexibility modern teams crave.
 
