@@ -1,5 +1,5 @@
 ---
-title: Exploding Kittens Original Edition: A Nerdy Review for Family Night, Revisited
+title: Exploding Kittens Original Edition: A Nerdy Review for Family Night, Revisited and Expanded
 date: 2026-03-19 12:00:00 -0000
 tags:
   - board games
@@ -12,12 +12,15 @@ tags:
   - memes
   - party games
   - geek culture
+  - expansions
+  - kids
+  - accessibility
+  - gaming-ethics
 ---
 
-# Exploding Kittens Original Edition: A Nerdy Review for Family Night, Revisited
+# Exploding Kittens Original Edition: A Nerdy Review for Family Night, Revisited and Expanded
 
-Welcome back, you glorious goblins of giggles and gravity-defying dice rolls. If you thought Exploding Kittens Original Edition was just a silly cat meme wearing a bomb vest, prepare to have your kerfuffle recalibrated. This is the review update you didn’t know you needed, written with the kind of affectionate mockery only a true nerd can muster. We’re going to unpack why this box of chaos became a family-night staple, how the art and humor survive the test of time, and how you can wring the maximum laughter out of a 15- to 20-minute round without turning your living room into a battlefield of broken egos and defuse cards.
-
+Welcome back, you glorious goblins of giggles and gravity-defying dice rolls. If you thought Exploding Kittens Original Edition was just a silly cat meme wearing a bomb vest, prepare to have your kerfuffle recalibrated. This is the expanded review update you didn’t know you needed, written with the kind of affectionate mockery only a true nerd can muster. We’re going to unpack why this box of chaos became a family-night staple, how the art and humor survive the test of time, and how you can wring the maximum laughter out of a 15- to 20-minute round without turning your living room into a battlefield of broken egos and defuse cards.
 
 ![Exploding Kittens box art]({{ '/assets/images/exploding-kittens-box.jpg' | relative_url }})
 
