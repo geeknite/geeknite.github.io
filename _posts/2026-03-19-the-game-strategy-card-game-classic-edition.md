@@ -13,7 +13,7 @@ tags:
 
 Welcome fellow deck jockeys and table top philosophers. Today we dive into a game that feels like the brain went to the gym while the body played poker. The Game Strategy Card Game Classic Edition is a mouthful in name but a lean, mean strategic machine on the table. If you have ever argued about whether to discard a card now or later and then regretted both choices, this game speaks your language with a wink.
 
-In this review we will break down what the Classic Edition brings to the table, why it still matters in a crowded field of modern card games, and how you can squeeze maximum joy out of those tiny plastic sleeves. We will cover components, rules, tactics, player interaction, and a few tricks that will make you look like a strategy savant while secretly hoping your opponent blinks first.
+In this expanded take on a beloved classic, we will break down what the Classic Edition brings to the table, why it still matters in a crowded field of modern card games, and how you can squeeze maximum joy out of those tiny plastic sleeves. We will cover components, rules, tactics, player interaction, and a few tricks that will make you look like a strategy savant while secretly hoping your opponent blinks first.
 
 > A quick note about style here on Geeknite: we mix a little humor with a lot of heart and a touch of sarcasm to keep things lively. If you came for pure analysis, you are in the right place but you might leave with a better pun collection than your friends. 
 
@@ -33,7 +33,7 @@ If you are a tactile gamer, you will appreciate the weight of the cards and the 
 
 The art direction in the Classic Edition skates on the line between retro and modern. It nods to older strategy games without feeling like a museum piece. The icons are readable from across the table, the color coding is accessible to color-blind players, and the font choices keep the text legible during heated moments when you realize your tactics were, in fact, questionable. The physical footprint is compact, making this a great candidate for gaming nights where the shelf space is precious and the table space is precious-er. 
 
-![Card art and components](https://example.com/images/the-game-classic-edition-01.jpg)
+![Card art and components]({{ '/images/the-game-classic-edition-01.jpg' | relative_url }})
 
 ### A quick look at setup
 
@@ -86,11 +86,11 @@ The aesthetic approach is clean and modern while still feeling timeless. The typ
 
 Images worth a glance include the main deck setup and the board layout. See the art and components in action here:
 
-![Card art and components](https://example.com/images/the-game-classic-edition-01.jpg)
+![Card art and components]({{ '/images/the-game-classic-edition-01.jpg' | relative_url }})
 
 And a shot of the box and storage solution for casual collectors:
 
-![Box photo](https://example.com/images/the-game-classic-edition-box.jpg)
+![Box photo]({{ '/images/the-game-classic-edition-box.jpg' | relative_url }})
 
 ## Thematic fit and vibe
 
