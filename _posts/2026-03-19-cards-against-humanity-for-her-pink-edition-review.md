@@ -127,10 +127,10 @@ If you decide this is the right flavor for your next game night, you can explore
 
 ### See also
 - For more on how to customize your CAH nights with playful house rules, check out our guide in post_url 2021-07-12-custom-house-rules-for-game-nights.
-- To understand how to balance humor and comfort in mixed-audience games, read our piece in post_url 2023-01-28-balanced-humor-in-party-games.
+- To understand how to balance humor in mixed-audience games, read our piece in post_url 2023-01-28-balanced-humor-in-party-games.
 
 ## Final Recommendation
 
 If you are shopping for a lively, stylish party game night that still packs humor and a sense of mischief, Cards Against Humanity For Her - A Party Game Limited Edition Pink Card Game is worth adding to your collection. It offers approachable play, a memorable pink aesthetic, and enough punchlines to keep a room giggling through the night. It may not replace the original CAH for hard-core fans, but it stands tall as its own charming member of the CAH family, ready for a night of laughs, stories, and maybe a little bit of gossip told through clever card combos.
 
-**Buy through this affiliate link now and help Geeknite keep the lights on while you chase the next laugh: https://geeknite.affiliates.example/cah-her?ref=geeknite**
+Buy through this affiliate link now and help Geeknite keep the lights on while you chase the next laugh: https://geeknite.affiliates.example/cah-her?ref=geeknite
