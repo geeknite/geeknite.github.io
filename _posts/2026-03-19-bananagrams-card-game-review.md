@@ -1,7 +1,7 @@
 ---
 title: "Bananagrams Card Game: A Geeknite Deep Dive into Chaos on the Table"
 date: 2026-03-19
-tags: [games, tabletop, review, humor, geek]
+tags: [games, tabletop, review, humor, geek, word games]
 ---
 
 ## Overview
@@ -131,14 +131,12 @@ If you want to bring a little chaos with a lot of wordplay to your next gatherin
 **Purchase link (affiliate): https://www.amazon.com/dp/B0BANANAGRAMS-card-game?tag=geeknite-20**
 
 If you’re curious for more, check out our other write-ups to continue sharpening your word-game instincts:
-- How to Win at Word Games: {{% post_url how-to-win-bananagrams %}}
-- Geeknite Board Game Technique Roundup: {{% post_url board-game-techniques-roundup %}}
-- History of Word Games: {{% post_url history-of-word-games %}}
+- How to Win at Word Games: {% post_url how-to-win-bananagrams %}
+- Geeknite Board Game Technique Roundup: {% post_url board-game-techniques-roundup %}
+- History of Word Games: {% post_url history-of-word-games %}
 
 In the end, Bananagrams Card Game is a playful, slightly chaotic, surprisingly clever way to bring brains and laughter to your table. It’s not the deepest strategic dive you’ll find, but its energy and accessibility more than justify a place in your collection. And if, after a few rounds, you still crave that tile-based tactile satisfaction, you can always mix a few tiles back into the box to remind yourself why you fell in love with Bananagrams in the first place.
 
 So go forth, assemble your crew, shuffle those cards, and let the word chaos begin. Your table will thank you for the entertainment, and your vocabulary might just thank you for the accidental new words you’ll invent in the process.
 
 **Grab your own copy through our affiliate link and banana-fuel your next game night.**
-
----
