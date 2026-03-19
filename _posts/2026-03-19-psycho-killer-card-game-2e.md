@@ -1,21 +1,21 @@
 ---
 title: Psycho Killer The Card Game 2nd Edition — Endless Games Review
 date: 2026-03-19
-tags: [board-games, horror, reviews, endless-games, card-game]
+tags: [board-games, horror, reviews, endless-games, card-game, party-games]
 ---
 
-![Psycho Killer 2e Cover]( /assets/images/psycho-killer-2e-cover.jpg )
+![Psycho Killer 2e Cover](/assets/images/psycho-killer-2e-cover.jpg)
 
-Psycho Killer The Card Game 2nd Edition from Endless Games is a mouthful in more ways than one. It’s a compact horror card game that promises big laughs, bigger scares, and enough trauma to recreate high school prom vibes with none of the awkward dancing. In Geeknite style, we approached this at a desk cluttered with snack wrappers and a suspiciously over-caffeinated cat who insisted on sitting on the rulebook. What follows is a full debrief on whether this box is a treasure chest of thrills or just a creepy paperweight. Buckle up, dear reader, because we’re diving into the eerie, excellent, and occasionally hilariously horrifying world of Psycho Killer 2nd Edition.
+Psycho Killer The Card Game 2nd Edition from Endless Games is a mouthful in more ways than one. It’s a compact horror card game that promises big laughs, bigger scares, and enough drama to audition for a campus theater remake of a slasher flick. In Geeknite style, we approached this at a desk cluttered with snack wrappers and a suspiciously over-caffeinated cat who insisted on sitting on the rulebook. What follows is a full debrief on whether this box is a treasure chest of thrills or just a creepy paperweight. Buckle up, dear reader, because we’re diving into the eerie, excellent, and occasionally hilariously horrifying world of Psycho Killer 2nd Edition.
 
 ## Overview
-Psycho Killer is a social deduction-flavored card game with a horror veneer. Think Werewolf meets a slasher flick, with a dash of improv theater and a pinch of chaotic chaos. The 2nd Edition from Endless Games promises refined mechanics, streamlined setup, and updated artwork that can make even a haunted mansion look minimalist chic. The premise is simple on the surface: players take on roles in a ritual-ish game of plausibility, bluffing, and trying not to reveal their hidden identities while the “psycho” elements come into play in the most ridiculous (and sometimes terrifying) ways possible.
+Psycho Killer is a social deduction flavored card game with a horror veneer. Think Werewolf meets a campy slasher flick, with improv theater vibes and a pinch of chaotic chaos. The 2nd Edition from Endless Games promises refined mechanics, streamlined setup, and updated artwork that can make even a haunted mansion look minimalist chic. The premise is simple on the surface: players take on roles in a ritual-ish game of plausibility, bluffing, and trying not to reveal their hidden identities while the “psycho” elements come into play in the most ridiculous (and sometimes terrifying) ways possible.
 
 The box itself is compact, which means it’s either a thoughtful travel companion or a magnet for dicey to-go misadventures at a convention. Inside you’ll find a mix of character cards, event cards, and a handful of role chips, all wrapped in a horror aesthetic that won’t quit until you’ve played enough games to dream of cardboard coffins. The theme lands somewhere between a late-night Halloween party and a campy 80s horror spoof, which is exactly the spectrum this game aims for: not too grim, but just grim enough to spark conversation and maybe a few friendly shudders.
 
-## What's in the Box
-The 2nd Edition does a good job of keeping content lean and sharp. Here’s what you typically find in the current starter setup:
-- A deck of psycho-cards with various abilities and misdirections
+## What’s in the Box
+The 2nd Edition does a good job of keeping content lean and sharp. Here’s what you typically find in a starter setup:
+- A deck of psycho cards with various abilities and misdirections
 - Role cards that hint at who you might be, but not who you can trust
 - Event cards that force everyone to react in unusual ways
 - A handful of tokens and marker discs for tracking progress and outcomes
@@ -44,10 +44,10 @@ One of the 2nd Edition upgrades worth noting is a streamlined interaction loop t
 
 As for pacing, the game tends to ramp up as more players populate the room. The more voices at the table, the more dramatic misdirection becomes possible. The downside is that with too many players, some might feel overheard or overshadowed. The 2nd Edition addresses this to a certain extent with role balance tweaks, but at the end of the day, Psycho Killer thrives with a moderate player count—enough to create noise and rumors, but not so many that the table devolves into a chaotic chorus of accusations.
 
-External note: For fans who want to compare, see this product page and this review thread for deeper board game meta-discussion: [Endless Games product page](https://www.endlessgamesusa.com/products/psycho-killer-card-game-2nd-edition) and [BoardGameGeek discussion](https://boardgamegeek.com/boardgame/psycho-killer-2nd-edition). Also, if you’d like a different perspective on similar games, check out {% post_url 2025-07-22-geeknite-board-game-essentials %} and {% post_url 2024-11-13-horror-games-roundup %} for related content.
+External note: For fans who want to compare, see this product page and this review thread for deeper board game meta-discussion: <https://www.endlessgamesusa.com/products/psycho-killer-card-game-2nd-edition> and <https://boardgamegeek.com/boardgame/psycho-killer-2nd-edition>. Also, if you’d like a different perspective on similar games, check out {% post_url 2025-07-22-geeknite-board-game-essentials %} and {% post_url 2024-11-13-horror-games-roundup %} for related content.
 
 ## Thematic Flavor and Horror Vibe
-Psycho Killer leans into campy horror rather than dread-heavy scare tactics. The 2nd Edition leans into color-coded visuals, ghoul-y silhouettes, and character vibes that feel like a wink to classic horror tropes. You won’t feel like you’re walking through a cinematic nightmare; you’ll feel like you’re walking through a jump-scare carnival with a friend who insists on narrating everything in a mock-ominous whisper. The humor is quite intentional and often self-deprecating, which makes it easier to enjoy the game without getting truly creeped out—unless you have a personal grudge against clowns, creepy dolls, or anyone wielding a rubber knife as a prop. The result is a social experience that’s spooky in a “spooky-light” kind of way: enough theme to be fun, enough play to be engaging, and enough ridiculous moments to become a shared joke for weeks after the table has cleared.
+Psycho Killer leans into campy horror rather than dread-heavy scare tactics. The 2nd Edition leans into color-coded visuals, ghoul-y silhouettes, and character vibes that feel like a wink to classic horror tropes. You won’t feel like you’re walking through a cinematic nightmare; you’ll feel like you’re walking through a jump-scare carnival with a friend who insists on narrating everything in a mock-ominous whisper. The humor is quite intentional and often self-deprecating, which makes it easier to enjoy the game without getting truly creeped out—unless you have a personal grudge against clowns, creepy dolls, or anyone wielding a rubber knife as a prop. The result is a social experience that’s spooky in a spooky-light kind of way: enough theme to be fun, enough play to be engaging, and enough ridiculous moments to become a shared joke for weeks after the table has cleared.
 
 The art direction supports this vibe well. It’s stylized and colorful, not grimdark, which helps in keeping the tone festive rather than fear-struck. If you’re after a horror aesthetic that doesn’t cause team members to bolt from the room, this is a solid middle ground. It’s a game that invites drama from the table without requiring the players to sprint into a fever dream of gore. In other words, it’s horror that knows how to laugh at itself—and you likely will, too.
 
@@ -96,7 +96,7 @@ For readers who want to see more on related products, check the posts here: {% p
 
 ## Where to Buy and Final Affiliate Note
 Endless Games keeps Psycho Killer 2nd Edition available through their official store and select retailers. For fans who want to pick up a copy with minimal fuss, here are a few reliable avenues:
-- Official Endless Games product page
+- Official Endless Games product page: https://www.endlessgamesusa.com/products/psycho-killer-card-game-2nd-edition
 - Major hobby retailers with horror game selections
 - Local game stores that stock horror party games
 
