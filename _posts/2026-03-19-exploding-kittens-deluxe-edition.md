@@ -1,5 +1,5 @@
 ---
-title: Exploding Kittens Deluxe Edition A Geeknite Review Expanded
+title: Exploding Kittens Deluxe Edition: A Geeknite Review Expanded
 date: 2026-03-19
 tags:
   - board-games
