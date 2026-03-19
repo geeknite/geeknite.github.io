@@ -1,5 +1,5 @@
 ---
-title: Mind Game: The Secrets of Golf's Winners
+title: Mind Game: The Secrets of Golf's Winners (Expanded)
 date: 2026-03-19
 tags:
   - Golf
@@ -8,13 +8,16 @@ tags:
   - Geeknite
   - Mind games
   - Book Review
+  - Mental Training
 ---
 
 ![Mind Game Cover](/assets/images/mind-game-cover.jpg)
 
-Mind Game: The Secrets of Golf’s Winners
+Mind Game: The Secrets of Golf's Winners (Expanded)
 
 In golf, the scoreboard is a mirror, and the mind is the glass, because what you see there reflects your self-talk, your nerves, and your schedule for the 18th hole. Michael Calvin’s Mind Game is a map of that glass, a field guide for navigating the rough of human psychology while wearing a visor. This post dives deeper into the mental trenches where champions patrol like well-dressed saboteurs of chaos. If you’ve ever wondered why a player who looks calm on the range suddenly becomes a jittery blender on the back nine, you’ve come to the right fairway. This expanded take keeps the Geeknite flavor alive with more drills, more anecdotes, and a few nerdy detours that make the pages hum like a well-oiled range finder.
+
+![Breathing Drill Diagram](/assets/images/breathing-drill.jpg)
 
 ## The Warm-Up Nobody Sees
 
@@ -24,7 +27,7 @@ The best players begin long before the first tee. The ritual is not some mystica
 
 Breathing is the simplest instrument in the orchestra of focus. A slow, measured inhale through the nose, a pause, then a controlled exhale through the mouth can calm the adrenal fireworks that come with a gust of wind or a desperate two-putt. The science says: a steady breath reduces sympathetic nervous system arousal. The practical takeaway: use your breath to carve a little mental space between feeling and action. Calvin weaves physiology with practice by offering concrete breath counts and reminders that you can deploy on the fly, not just during a quiet warm-up session.
 
-## The Mind’s Office: Executives Dictating the Flight Path
+## The Mind's Office: Executives Dictating the Flight Path
 
 When you step to a shot, your brain becomes a decision factory. The limbic system shouts, the prefrontal cortex negotiates, and the result is the swing. The winners manage the meeting. They create a small, trusted framework to evaluate options:
 
