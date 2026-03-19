@@ -11,7 +11,7 @@ tags:
 
 # City of Mist: Fortune Row - Collector's Dice Set Review
 
-If you ever wanted to roll your way through a noir-soaked city where every die roll could summon a costume-wearing myth, you probably need this dice set in your life. Welcome to Geeknite's deep dive into the City of Mist: Fortune Row Collector's Dice Set. It’s a mouthful to say aloud while sneaking a peek at the dice, but it’s even longer to actually appreciate when you hear the satisfying clack of crystal and resin meeting destiny on the table.
+If you ever wanted to roll your way through a noir-soaked city where every die roll could summon a costume-wearing myth, you probably need this dice set in your life. Welcome to Geeknite's expanded deep dive into City of Mist: Fortune Row Collector's Dice Set. It’s a mouthful to say aloud while sneaking a peek at the dice, but it’s even longer to actually appreciate when you hear the satisfying clack of crystal and resin meeting destiny on the table.
 
 ![Fortune Row Dice]({{ site.baseurl }}/assets/images/city-of-mist-fortune-row-dice.jpg)
 
@@ -97,12 +97,16 @@ During a recent session, a Fortune Row d20 rolled a what-the-heck moment: a crit
 
 In another game, a fortune-coded d6 (yes, we made a custom colorway to represent that die) set the tone for a chase through a fog-drenched alley. The dice’s color swirls looked like a neon breadcrumb trail, guiding the players’ avatars through the city’s labyrinth. The GM called for a “Fortune Row moment” to describe the environment—the rain, the reflections, the silhouette of the masked vigilante burning in the streetlight—turning a simple die roll into a cinematic beat that felt almost like a miniature cutscene.
 
+A third story: during a tense stakeout, a blue-dominant d10 rolled a middling result that the GM used to prompt a whispered confession from a masked ally, the kind of moment that would have been corny if it weren’t so earned by the dice’s glow and the table’s momentum. These dice aren’t just cubes of resin; they’re narrative catalysts, shipped with a warranty for mood.
+
 ## Care and Longevity: Keeping Your Fortune Row Prime
 
 - Storage: The display tray is helpful, but if you travel with the set, keep the velvet pouch and package components to shield the dice from bumps.
 - Cleaning routine: Wipe with a soft microfiber cloth; avoid solvents; never use acetone on resin.
 - Handling: Don’t throw dice—this isn’t a space battle. Gentle throws on a good table are best. A soft surface reduces risk of chipping and keeps the mosaic-like aesthetic intact.
 - Display care: If you’re displaying the set, consider creative lighting to highlight the swirls. A small LED strip behind the shelf can bring the fortune glyph to life when it catches the light.
+
+External resources: [Dice Care Guide](https://dicecare.example/guide) and [Tabletop NEXUS Roll Trays](https://tabletop-nexus.example/roll-trays).
 
 ## The Verdict: Should You Buy It?
 
