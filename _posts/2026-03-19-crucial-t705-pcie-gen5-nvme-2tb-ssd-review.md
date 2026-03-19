@@ -7,9 +7,11 @@ tags:
   - PCIe Gen5
   - Gaming Hardware
   - TechReview
+  - Gen5
+  - SSD
 ---
 
-![Crucial T705]( /assets/images/crucial-t705.jpg "Crucial T705 PCIe Gen5 NVMe SSD")
+![Crucial T705]( /assets/images/crucial-t705.jpg )
 
 Welcome to the latest sprint in the storage wars: Crucial has flung another Gen5 NVMe SSD into the arena, and the T705 2TB is here to remind your PC why you upgraded that ram-hungry GPU in the first place. If you’ve been chasing the holy grail of storage—blazing fast boots, instant game loaders, and the ability to render 4K video while streaming and running a dozen background apps—the T705 promises a lot. And yes, it comes with that Gen5 swagger: higher bandwidth, better latency, and a price that won’t bankrupt your energy drink budget.
 
@@ -34,7 +36,7 @@ If you’re new to the concept of PCIe Gen5 drives, imagine highways with more l
 - Capacity: 2TB
 - Interface: PCIe Gen5 x4 NVMe
 - Form Factor: M.2 2280
-- Read speeds: Up to 14,500 MB/s (the headline number, achieved under favorable conditions and with a proper heat sink)
+- Read speeds: Up to 14,500 MB/s
 - Write speeds: Up to around 12,000–13,500 MB/s (varies by capacity and thermals)
 - Endurance (TBW): Typically in the ballpark of 600–1,000 TBW for a 2TB class drive (range dependent on firmware/production).
 - Seek time: Extremely low; latency is a big part of Gen5’s charm.
@@ -63,6 +65,7 @@ To temper expectations, remember that synthetic benchmarks are optimized for pea
 Gen5 drives are power horses. The T705’s performance envelope is highly dependent on keeping the drive cool. Without adequate cooling, you’ll likely see thermal throttling that trims your maximum sustained throughput to keep temperatures in check. This is not a unique problem to Crucial; it’s the nature of a high-speed PCIe Gen5 SSD running sustained workloads.
 
 What to do:
+
 - Use a motherboard with good airflow or a dedicated M.2 heatsink.
 - If you’re placing the drive in a compact case, consider additional cooling strategies or a PCIe slot near a fan, to maximize air movement around the drive.
 - Monitor thermals with a tool you trust and test your workload to see if sustained speeds fall off under extended gaming sessions or video rendering.
@@ -104,7 +107,7 @@ External link: For more reading on current-gen SSD pricing and value analysis, s
 
 Juxtapose the T705 with other Gen5 players in the market and you’ll notice that most of them share a similar performance envelope, with differences primarily in endurance, warranty, integrated heat management, and software tooling. Crucial has the advantage of a robust ecosystem and straightforward firmware support, which translates into a smoother upgrade experience for many users.
 
-External link: Check out the official PCIe Gen5 spec for more context on what drives these speed numbers: [PCIe Gen5 Specifications]https://pcisig.com/specifications/pcie-gen5
+External link: Check out the official PCIe Gen5 spec for more context on what drives these speed numbers: [PCIe Gen5 Specifications](https://pcisig.com/specifications/pcie-gen5)
 
 ## Installation tips from the field
 - Always back up your data before replacing drives. You don’t want to bet your pet photos on a lucky firmware update.
