@@ -6,13 +6,13 @@ tags: [City of Mist, Fortune Row, Custom Tokens, tabletop RPG, review, geeknite]
 
 ![Fortune Row cover]( /assets/images/fortune-row-cover.jpg )
 
-Greetings, Night Citizens and daydreaming detectives. If City of Mist is the neon heartbeat of urban myth, Fortune Row: Custom Tokens is the glittery streetlamp that invites you to customize your shadow. In this review, we’ll wander through the alleys of token design like a caffeinated detective with a questionable sense of humor, dissect what Fortune Row does right, what it kind of flirts with but doesn’t fully commit to, and how to weave these new tokens into your city-night campaigns without turning your table into a myth-fueled circus of chaos. Put on your fedora, adjust your velvet cape, and prepare for a romp through a city where every token has its own dramatic entrance and a pack of corny metaphors ready to roar.
+Greetings, Night Citizens and daydreaming detectives. If City of Mist is the neon heartbeat of urban myth, Fortune Row: Custom Tokens is the glittery streetlamp that invites you to customize your shadow. In this expanded romp, we’ll wander through the alleys of token design like a caffeinated detective with a questionable sense of humor, dissect what Fortune Row does right, what it kind of flirts with but doesn’t fully commit to, and how to weave these new tokens into your city-night campaigns without turning your table into a myth-fueled circus of chaos. Put on your fedora, adjust your velvet cape, and prepare for a longer, sillier, more practical guide to a skyline of mythic moves.
 
 ## Overview
 
 Fortune Row acts as a companion to the core City of Mist toolkit, but its real magic is in teaching you how to dream up Custom Tokens that feel like living, breathing myths—without sacrificing the mechanical rhythm that makes City of Mist sing. If the core game gave you a palette and a poet, Fortune Row hands you the brush and the stubborn palette knife. It asks: what if your Token isn’t just a hero or a villain, but a personalized axis of mayhem, memory, and myth—crafted by you, played by you, and narrated with a glorious flourish? The book leans into that vibe with gusto: you get systems to design, balance, and deploy tokens that are as much about story triggers as they are about dice results.
 
-This post aims to be not only a verdict but a practical playground guide. We’ll cover how to build Custom Tokens from first principles, how to balance them at the table, and how to put them through their paces in real sessions. We’ll also toss in some example Tokens you can steal, adapt, or mock mercilessly for your own campaign. And yes, we’ll poke fun at ourselves, because City of Mist isn’t about solemnity—it’s about the glorious melodrama of masked identities colliding like neon billboards in rain-soaked alleys.
+This expanded take aims to be not only a verdict but a practical playground guide. We’ll cover how to build Custom Tokens from first principles, how to balance them at the table, and how to put them through their paces in real sessions. We’ll also toss in some example Tokens you can steal, adapt, or mercilessly mock for your own campaign. And yes, we’ll poke fun at ourselves, because City of Mist isn’t about solemnity—it’s about the glorious melodrama of masked identities colliding like neon billboards in rain-soaked alleys.
 
 > If you want to skip straight to the goods, jump to the Examples section below. If you want the full Geeknite experience, keep reading, because there’s a lot of sparkling detail in here, and a few design anecdotes that might surprise you. For extra nerdy delight, you can also check our related posts: [Deep Dive: Core Tokens]({% post_url 2025-11-14-city-of-mist-core-tokens %}) and [GM Tips: Running Fortune Row]({% post_url 2025-12-08-gm-tips-fortune-row %}).
 
@@ -70,7 +70,7 @@ This process emphasizes collaboration: players propose concepts, the GM tests ba
 
 ## Examples of Custom Tokens (Inspiration to Steal or Steal-From)
 
-Below are three fully-formed token concepts you can adopt, adapt, or use as springboards for your own designs. Each includes concept, moves, weakness, myth ties, and a quick narrative beat.
+Below are three fully-formed token concepts you can adopt, adapt, or use as springboards for your own designs. Each includes concept, moves, weakness, myth ties, and a quick narrative beat. We’ve also added a couple of extra twists to show how you can push a token beyond a single scene.
 
 ### 1) The Glasswrought Archivist
 - Concept: A sentient database made of glass, living haunted memory that preserves every confession ever spoken in the city’s libraries.
@@ -82,6 +82,8 @@ Below are three fully-formed token concepts you can adopt, adapt, or use as spri
 - Mythic Tie: Tied to the “Truth” motif; the Archivist is both custodian and curator of what is true in a city built on secrets.
 - Narrative Beat: The Archivist helps the team uncover a hidden library beneath the city’s riverfront, but at the cost of exposing their own past to a dangerous faction.
 
+Twist variant: The Archivist can counterfeit a memory from the city’s distant past, creating a counterfeit truth that tests every ally’s trust.
+
 ### 2) The Neon Widowmaker
 - Concept: A charismatic vigilante who uses light-based misdirection to strike at corrupt power players, leaving a signature glow on the crime scene.
 - Signature Moves:
@@ -91,6 +93,8 @@ Below are three fully-formed token concepts you can adopt, adapt, or use as spri
 - Weakness: The Neon glow draws police attention and can blind the user in darkness, compromising stealth.
 - Mythic Tie: Embodies the myth of illumination and judgment.
 - Narrative Beat: The Widowmaker dismantles a bribery ring but discovers a personal betrayal that reshapes her motive.
+
+Optional extra: the glow is a beacon to a shadowy patron who wants more than just order—could this be a new rival or an unexpected ally?
 
 ### 3) Harborweight, the Tidebound Cartographer
 - Concept: A living map embedded in a tide-drenched wheel, Harborweight can chart not only streets but currents of fate.
@@ -163,6 +167,8 @@ For those who want to support Geeknite while picking up Fortune Row, here’s a 
 
 Want to chat about your own Custom Token ideas or share a token you built with your group? Drop a comment or hit us up in the comments and we’ll feature your token story in a future post. And if you’re hungry for more nerdy goodness right this minute, check out our archive: [Related Geeknite Posts]({% post_url 2024-05-17-geeknite-archive-posts %}) for more rants, riffs, and reviews.
 
-TL;DR: Fortune Row’s Custom Tokens are a creative, story-forward way to extend City of Mist. They push you toward personalized mythic storytelling without turning the game into a power fantasy. You’ll laugh, you’ll gasps, you’ll grin at the absurdity of it all, and you’ll want more tokens to test your group’s taste for drama. In other words: it’s exactly what a neon-soaked, myth-infused RPG should feel like.
+TL;DR: Fortune Row’s Custom Tokens are a creative, story-forward way to extend City of Mist. They push you toward personalized mythic storytelling without turning the game into a power fantasy. You’ll laugh, you’ll gasp, you’ll grin at the absurdity of it all, and you’ll want more tokens to test your group’s taste for drama. In other words: it’s exactly what a neon-soaked, myth-infused RPG should feel like.
 
 **Your city awaits a new mask. Your group awaits a handful of unforgettable moves. Do you dare craft your Fortune Row?**
+
+**Affiliate Note: If you’re enjoying this guide and want to support more nerdy content, grab Fortune Row through our affiliate link and keep the neon glow alive.**
