@@ -1,12 +1,12 @@
 ---
-title: \"City of Mist: New Mythos – PDF Review\"
-date: 2026-03-19
-tags: [city-of-mist, rpg, review, pdf, new-mythos, tabletop]
+title: 'City of Mist: New Mythos — PDF Review (Updated)'
+date: 2026-03-25
+tags: [city-of-mist, rpg, review, pdf, new-mythos, tabletop, urban-myth]
 ---
 
 ![City of Mist: New Mythos Cover]({{ site.baseurl }}/assets/images/city-of-mist-new-mythos-cover.jpg)
 
-City of Mist has always been the RPG that makes you feel like you are wandering through a neon-drenched cityscape where every shadow hums a legend. New Mythos, the latest PDF expansion, promises to sprinkle a few extra legends into the urban myth soup: more archetypes, more tags, and more opportunities for a dramatic reveal in the rain while your character debates their own origin story with the streetlight. In this review we will dive into what New Mythos adds, how it plays with the core rules, and whether you should pull the trigger on this digital tome. Spoiler alert: it is not just a meme pack. It is a substantial, flavorful expansion that can actually enhance a long-running campaign when used with a light hand.
+City of Mist has always been the RPG that makes you feel like you are wandering through a neon-drenched cityscape where every shadow hums a legend. New Mythos, the latest PDF expansion, promises to sprinkle a few extra legends into the urban myth soup: more archetypes, more tags, and more opportunities for a dramatic reveal in the rain while your character debates their own origin story with the streetlight. In this updated review we dive deeper into what New Mythos adds, how it plays with the core rules, and whether you should pull the trigger on this digital tome. Spoiler alert: it is not just a meme pack. It is a substantial, flavorful expansion that can actually enhance a long-running campaign when used with a light hand.
 
 We will also look at design choices, layout, accessibility, and how well the supplement integrates with existing City of Mist materials. If you are a GM who loves a good myth or a player who dreams of a mythic identity that fits in a modern city, you will want to read on. If you are new to the line, there is still plenty here to help you get a sense of the vibe and how to tack it onto your first session without breaking the mood.
 
@@ -16,12 +16,12 @@ For some context about how New Mythos fits into the larger City of Mist ecosyste
 
 ### New Mythos Archetypes
 New Mythos introduces a cadre of fresh archetypes designed to slot into the existing framework without demanding a full rewrite of your character concepts. Among the new faces you will encounter are:
-- The Whisperer: a mythic presence that thrives on secrets and suggestion, bending conversations with a silent nudge. 
-- The Archivist: keeper of hidden histories, turning every clue into a thread that leads to a larger tapestry. 
-- The Ember: a force of passion and reaction that fuels impulsive choices and dramatic turns. 
-- The Veil: master of misdirection and subtext, turning perception against protagonists in clever, cinematic ways. 
-- The Oracle: prophecy as a tool for foreshadowing, adding a new layer of fate to your scenes. 
-- The Warden: enforcer of a personal or broader moral code, imposing structure on chaotic urban legends.
+- The Whisperer: a mythic presence that thrives on secrets and suggestion, bending conversations with a silent nudge
+- The Archivist: keeper of hidden histories, turning every clue into a thread that leads to a larger tapestry
+- The Ember: a force of passion and reaction that fuels impulsive choices and dramatic turns
+- The Veil: master of misdirection and subtext, turning perception against protagonists in clever, cinematic ways
+- The Oracle: prophecy as a tool for foreshadowing, adding a new layer of fate to your scenes
+- The Warden: enforcer of a personal or broader moral code, imposing structure on chaotic urban legends
 
 Each archetype is written to feel distinct, with its own flavor of narrative leverage and mechanical hooks. You can pair any of these with a classic City of Mist hero to produce fresh conflicts, revelations, and dramatic irony. The result is a wider palette without requiring players to abandon the vibe that makes the game feel unique.
 
@@ -69,7 +69,7 @@ The PDF is optimized for on-screen reading and print. If you’re printing, you�
 If your table enjoys a sprawling, mythic narrative with personal stakes, New Mythos offers a natural extension. The new archetypes provide fresh angles for character identity and conflict, and the Mythic Thread element gives you a practical tool to maintain continuity across sessions. The feel remains true to City of Mist: a modern world where legends are visible in the iconic mask and the whispered rumor on a rain-soaked street. The expansion invites groups to explore how a hero’s myth originates and evolves under the pressure of city-scale conflicts, conspiracies, and personal choices.
 
 ### Potential Pitfalls and How to Avoid Them
-As with any expansion, there is a potential risk of over-dusing the new mechanics. If your group is prone to meta-linguistic analysis or if you tend to push for complex combinatorics in every scene, you could end up with more rules friction than narrative payoff. To avoid this, start with a single Mythos seed in a one-shot to feel out how the new Elements influence your session rhythm. The included GM tips emphasize pacing and restraint, which is exactly what you want when you are trying to preserve the mood rather than bog everyone down in parsing.
+As with any expansion, there is a potential risk of over-dusing the new mechanics. If your group is prone to meta-linguistic analysis or if you tend to push for complex combinatorics in every scene, you could end up with more rules friction than narrative payoff. To avoid this, start with a single Mythos seed in a one-shot to feel out how the new elements influence your session rhythm. The included GM tips emphasize pacing and restraint, which is exactly what you want when you are trying to preserve the mood rather than bog everyone down in parsing.
 
 ### Quick-Start Guide for a Two-Session Arc
 - Session 1: Introduce a mythic seed and allow players to declare Tags that reflect their emerging mythos connection.
@@ -84,7 +84,7 @@ City of Mist: New Mythos is a thoughtful, well-executed expansion that respects 
 ### Pros
 - Strong thematic additions with clear narrative hooks
 - Mythic Thread delivers a practical tool for cross-character storytelling
-- Clean layout and strong art direction maintaing the noir feel
+- Clean layout and strong art direction maintaining the noir feel
 - Starter seeds provide accessible entry points for GMs
 
 ### Cons
