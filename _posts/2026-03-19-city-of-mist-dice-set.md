@@ -7,6 +7,8 @@ tags:
   - RPG
   - Review
   - Geeknite
+  - Noir
+  - Mythic City
 ---
 
 ## Introduction
@@ -50,6 +52,9 @@ City of Mist dice aren’t just about pretty colors; they’re about signaling n
 For players with visual impairments or colorblindness, the design typically relies on texture or distinct iconography beyond color alone. If you’re running with a table that includes a non-visual cue player, you can describe the symbol’s meaning aloud and let words carry the mechanic’s weight rather than a color cue alone. The best use is to pair the dice with a short verbal cue: “The glyph for fate glows,” or “City favors you—blue light pulses in the glass.” It’s a small ritual that enhances immersion.
 
 Readability at table is also a function of lighting. City of Mist moments thrive in moody illumination; you’ll want a lamp with a warm hue, not a brutal glare, so the pips don’t get washed out. If you’re playing in a coffee shop, a small clip-on light can be your best friend. The goal is to have the dice read at a glance while allowing your players to lean forward, listening for the city’s response as their character’s legend grows.
+
+### Thematic Integration and Play Rhythm
+In City of Mist, the dice aren’t just digits; they’re cues. The color vocabulary becomes a shorthand for dramatic rhythm: blue hints at calculated control, amber signals a ticking clock, red announces imminent danger. The symbols serve as narrative punctuation—think of them as the exclamation marks and ellipses of your city-wide story. The trick is to establish a common language early: a session zero where players and GM agree on what each color and symbol means within their table’s mythic framework. Once that vocabulary is in place, a single roll can unlock a cascade of narration—without the table turning into a spreadsheet of outcomes.
 
 ## Use in Play: Narratives, Moods, and Mechanics
 City of Mist shines in cinematic moments where the stakes feel larger than life. The dice are there to flag when a moment should feel bigger than normal and to cue tone shifts that align with the mythic framework of the game.
