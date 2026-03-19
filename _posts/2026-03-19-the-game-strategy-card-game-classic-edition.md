@@ -1,5 +1,5 @@
 ---
-title: The Game Strategy Card Game Classic Edition Review
+title: The Game Strategy Card Game Classic Edition Review (Updated)
 date: 2026-03-19
 tags:
   - games
@@ -7,6 +7,7 @@ tags:
   - strategy
   - review
   - geeknite
+  - classic-edition
 ---
 
 ## The Game Strategy Card Game Classic Edition Review
@@ -15,7 +16,7 @@ Welcome fellow deck jockeys and table top philosophers. Today we dive into a gam
 
 In this expanded take on a beloved classic, we will break down what the Classic Edition brings to the table, why it still matters in a crowded field of modern card games, and how you can squeeze maximum joy out of those tiny plastic sleeves. We will cover components, rules, tactics, player interaction, and a few tricks that will make you look like a strategy savant while secretly hoping your opponent blinks first.
 
-> A quick note about style here on Geeknite: we mix a little humor with a lot of heart and a touch of sarcasm to keep things lively. If you came for pure analysis, you are in the right place but you might leave with a better pun collection than your friends. 
+>A quick note about style here on Geeknite: we mix a little humor with a lot of heart and a touch of sarcasm to keep things lively. If you came for pure analysis, you are in the right place but you might leave with a better pun collection than your friends. 
 
 ## What's in the box
 
