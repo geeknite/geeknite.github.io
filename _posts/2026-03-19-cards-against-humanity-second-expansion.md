@@ -1,11 +1,12 @@
 ---
-title: Cards Against Humanity Second Expansion — A Thorough, Ridiculous Review (Revisited)
+title: Cards Against Humanity Second Expansion — A Thorough, Ridiculous Review (Revisited) 2.0
 date: 2026-03-19
 tags:
   - board games
   - humor
   - reviews
   - party games
+  - expansion
   - CAH
 ---
 
@@ -83,6 +84,8 @@ The second expansion is best enjoyed by a wide range of players. The prompts ten
 ### Playthrough anecdotes
 One memorable night, a black card described a scenario involving a spaceship, a coffee machine, and a philosophical android. A clever player slapped down a white card about burnout in corporate life, and the judge paused to decide whether to reward wit or the sheer absurdity of the image the combination conjured. The table erupted in laughter, a glass toppled, and the memory of that moment became the running joke for the rest of the weekend. That is the magic of the second expansion: it can transform a simple card game into a shared memory factory.
 
+Another great moment involved a two-card twist where the two whites collided with a stubborn black prompt about a nightmare coworker. The resulting line felt like a mini-sketch you would have paid good money to see live, not just in a kitchen between half-eaten pizza and a humming neon sign. These moments aren’t just funny; they reinforce a sense of shared timing and trust in your crew.
+
 ### Best and worst combos
 - Best: a prompt that invites two white cards pairing with a black prompt, especially when the two white cards collide in a way that reveals an unexpected but hilarious truth.
 - Worst: a prompt that asks for a story-like response and your group forgets that the game is meant to be a quick party activity, not a mini novel contest.
@@ -93,12 +96,21 @@ One memorable night, a black card described a scenario involving a spaceship, a 
 - Use a timer to keep rounds moving, but allow a bit of leeway for the best lines to emerge.
 - Rotate judges in a way that ensures everyone gets a chance to shape the humor.
 - Encourage storytelling without forcing it; sometimes the best line is not a line at all but a dramatic pause.
+- Consider rotating to a two-white-card twist a few rounds so newer players feel the same thrill as veterans.
 
 ### Box art and packaging
 Aesthetics matter less than content, but the box art carries a sense of identity. The second expansion maintains the frank and bold look you expect, with legible type and enough color blocks to find your spot on a crowded shelf. The packaging does not pretend to be something it is not; it proudly states this is an adult game for adults and their adult friends.
 
 ### External links
 - Official CAH site: https://cardsagainsthumanity.com
+- CAH on Wikipedia: https://en.wikipedia.org/wiki/Cards_Against_Humanity
+
+## Cross references to other posts
+- See base game review: {% post_url 2024-03-12-cards-against-humanity-base %}
+- See a night of board game chaos: {% post_url 2025-07-08-geeknite-board-night-roundup %}
+
+## External resources
+- Cards Against Humanity official site: https://cardsagainsthumanity.com
 - CAH on Wikipedia: https://en.wikipedia.org/wiki/Cards_Against_Humanity
 
 ## Final thoughts
@@ -111,12 +123,5 @@ The official store is a reliable place to check current pricing and shipping opt
 - See base game review: {% post_url 2024-03-12-cards-against-humanity-base %}
 - See a night of board game chaos: {% post_url 2025-07-08-geeknite-board-night-roundup %}
 
-## External resources
-- Cards Against Humanity official site: https://cardsagainsthumanity.com
-- CAH on Wikipedia: https://en.wikipedia.org/wiki/Cards_Against_Humanity
-
-## Conclusion
-If you want a party game that can produce both roaring laughter and cringe-inducing looks at a well-timed punchline, the second expansion nails it for groups that are ready to take humor a notch further. It will not convert every skeptical friend into a fan, but it should turn the rest of your party into a chorus of surprised reactions and yes, some questionable decisions. It is a good addition to your CAH library, especially if you already own the base game and the first expansion. The night can be ridiculous, and that is exactly what we signed up for when we opened the box.
-
 ## Affiliate CTA
-**Grab your copy now via this affiliate link and prepare for chaos on a Friday night: https://www.amazon.com/dp/B00EXAMPLE?tag=geeknite-20**
+**Grab your copy now via this affiliate link and brace for chaos on a Friday night: https://www.amazon.com/dp/B00EXAMPLE?tag=geeknite-20**
