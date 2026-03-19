@@ -1,7 +1,7 @@
 ---
-ttitle: Exploding Kittens Streaking Kittens Expansion Pack — A Geeknite Review (Updated)
+title: Exploding Kittens: Streaking Kittens Expansion Pack — A Geeknite Review (Updated)
 date: 2026-03-19
-tags: [board games, card games, expansions, Exploding Kittens, humor, review]
+tags: [board games, card games, expansions, Exploding Kittens, humor, review, party games, kittens]
 ---
 
 ## Opening gambit: a cataclysmic careen into chaos, and a few espresso shots for the kittens
@@ -54,6 +54,8 @@ Card timing becomes a puzzle: when to trigger a Streak or resist the lure of Neo
 
 One of the nicest surprises is how the new cards play with existing ones. Nope cards still exist, but a well-timed Streak can disable an opponent’s anti-Nope plan for a moment, creating the chaotic window that makes this game addictive to watch and painful to lose in. If you enjoy watching others struggle with your cunning or your cunning with them, you will feel a sense of catharsis.
 
+> Design note: the pacing here is deliberate. The designers understood that a party game lives or dies on moments that feel morally permissible to cry with laughter about in public. The Streaking Kittens pack delivers those moments in spades.
+
 ## Aesthetics, components, and overall vibe
 
 ### Component quality
@@ -90,13 +92,9 @@ This expansion is not about precision puppetry; it is about theatre. If your han
 
 If you want to maximize laughs while minimizing real tears, normalize blurting out ridiculous cat captions as effects resolve. The rules are simple enough that someone new can join a round and still contribute a running commentary that adds to the chaos rather than dampening it.
 
-## Comparisons: base game vs expansion vs other expansions
+## Cross-pollination with other Exploding Kittens content
 
-If you are coming from the base Exploding Kittens game, the Streaking Kittens expansion is roughly the difference between a standard pizza and a spicy meme-loaded calzone. It adds heat without turning into a completely new game. It respects the core rhythm — draw, play, explode — while allowing for more dramatic blunders and bigger laughs.
-
-Compared to other expansions you may own, Streaking Kittens is among the more accessible and immediately fun options. It does not require you to memorize a long new rule set, and the humor is on brand for the franchise. If you own several expansions, you will notice cross-card interactions that produce wild outcomes and a feeling of being in a party game that has somehow become a storytelling festival at the same time.
-
-For a sense of how this expansion stacks up in a broader family of party games with cat chaos, you can explore a few of our side-by-side reviews linked through our base game gallery: {% post_url 2026-01-23-exploding-kittens-base-game-review %} and {% post_url 2026-02-10-exploding-kittens-expansions-roundup %}.
+If you want to see how this expansion fits into the broader family, you can peek at related posts on our site. For a sense of the baseline tempo, check the base game review; for a roundup of expansions, see Exploding Kittens expansions roundup. And if you crave a deeper dive into round pacing and late-game decision points, our Exploding Kittens round guide offers useful comparisons. {% post_url 2026-01-23-exploding-kittens-base-game-review %} {% post_url 2026-02-10-exploding-kittens-expansions-roundup %} {% post_url 2026-03-01-exploding-kittens-round-guide %}
 
 ## Player archetypes: who should buy this expansion
 
