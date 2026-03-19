@@ -1,5 +1,5 @@
 ---
-title: "Codenames: XXL - Edición Familiar"
+title: "Codenames XXL - Edición Familiar (Review Extendida)"
 date: 2026-03-19
 tags:
   - juegos
@@ -7,15 +7,15 @@ tags:
   - familiar
   - reseña
   - party-game
+  - humor
+  - familia
 ---
 
-## Introducción: cuando tu sala se convierte en un tablero de palabras gigante
+## Introducción: cuando el salón se vuelve una sala de palabras gigante
 
-Bienvenidos, intrépidos lectores de Geeknite. Hoy hacemos hueco en nuestras estanterías para un gigante entre gigantes: Codenames XXL - Edición Familiar. Sí, lo habéis visto en la tienda y habéis pensado: ¿cuántos pasos pueden dar las palabras antes de estropear la cena de mamá? Pues la respuesta es: muchos, siempre que haya dos equipos, dos espías, y una palabra que haga reír a la familia entera.
+Bienvenidos, intrépidos lectores de Geeknite. Hoy nos adentramos en el reino de las letras a lo grande: Codenames XXL - Edición Familiar. Si alguna vez os habéis preguntado cuántas palabras pueden caber en una mesa de comedor cuando el café está a punto de escupir vapor de la emoción, la respuesta es: la cantidad necesaria para que dos equipos, un maestro espía y suficiente risas para rellenar el hueco entre la cena y la sobremesa.
 
-Antes de empezar, dejad que os suelte una pequeña verdad: cuando un juego dice XXL, no se refiere solo al tamaño de las letras en la carta. Se refiere también a la cantidad de risas por metro cuadrado de mesa. Este cuaderno de palabras gigantes está diseñado para familias, no para torneos universitarios, pero cuidado: el primo que no quiere leer puede terminar siendo el mejor espía gracias a su habilidad innata para detectar sinónimos improbables. Yo, que ya he jugado a más versiones de Codenames que dedos tengo, os traigo una reseña que podría caber en un bol de palomitas: reseña con espías, palabras, risas y, por supuesto, un poco de caos organizado.
-
-Para los curiosos tecnológicos, sí, externo a la experiencia del juego, existen ligas y comunidades. Pero hoy nos centraremos en la experiencia de mesa, en familia, en casa, con un botánico que no sabe genealógicamente lo que significa “alfabeto” y un niño que cree que la palabra más larga es “superextraordinariamentefantástico”. Vamos allá.
+La versión XXL promete visión de águila, tacto de cartel publicitario y un brillo en los ojos de los participantes que solo aparece cuando alguien comprende que no necesitas una lupa para leer palabras gigantes… solo una mesa suficientemente amplia y cuatro tazas de té para mantener el ritmo. En esta reseña extendida, voy a desglosar no solo si el tamaño de las cartas compensa, sino cómo la experiencia se traduce en risas, estrategias familiares y, por qué no, anécdotas que podréis contar en las próximas reuniones. Y sí: habrá spoilers de diversión, no de palabras —porque aquí cada pista es una pequeña historia.
 
 > Nota geek: si buscáis el kit de supervivencia para partidas familiares, podéis empezar por nuestra guía para principiantes. Y si ya sabíais de qué iba, podéis leer nuestra guía avanzada para maestros de la palabra mediante este enlace: {% post_url 2025-08-15-codenames-basic-guide %}.
 
@@ -23,84 +23,83 @@ Para los curiosos tecnológicos, sí, externo a la experiencia del juego, existe
 
 ## ¿Qué es Codenames XXL - Edición Familiar y qué la diferencia de las demás?
 
-Codenames XXL - Edición Familiar llega como una versión pensada para grupos grandes y lucidos lectores que prefieren palabras grandes y claras. A grandes rasgos, conserva la esencia del juego original: dos equipos, un espía maestro por equipo y una matriz de palabras sobre la mesa. El objetivo es el mismo: adivinar tus palabras objetivo con ayuda de pistas simples, pero con un par de cambios que la hacen más apta para el entorno familiar.
+Codenames XXL llega con la promesa de claridad para grupos grandes y ojos cansados de mirar letras diminutas. Mantiene la esencia de dos equipos, un espía maestro por equipo y una matriz de palabras sobre la mesa, pero con cambios que favorecen la convivencia familiar y el juego en cualquier rincón de la casa.
 
-- Tamaño de cartas y tablero: tarjetas XXL, letras a lo grande para lectura a distancia. Esto hace que sea más cómodo jugar en el suelo, en la mesa del comedor o en la alfombra del salón, sin necesidad de espejuelos o faros de lectura.
-- Temática y palabras: se cuida el lenguaje para ser más apto para todas las edades. Hay palabras que en otras ediciones podrían sonar picantes o dispersas, pero aquí se busca un vocabulario que no haga preguntas incómodas a la hora de cenar.
-- Ritmo de juego: con tamaño de mesa mayor, las rondas pueden durar un poco más, ya que hay más palabras visibles para cada mesa. Eso sí, el reloj de cocina sigue siendo nuestro mejor amigo y peor enemigo a partes iguales.
-- Componentes: cartas, tarjetas de puntuación y un tablero que se despliega sin romper la espalda de nadie. Todo con un acabado decente, pero sin perder el toque lúdico: se ve que Hasbro y/o sus comités de diseño sabían que la familia quiere que el juego resista las visitas de los abuelos, las risas de los primos y el cansancio de la tarde.
+- Tamaño de cartas y tablero: tarjetas XXL, letras a lo grande para lectura a distancia. Ideal para jugar en el suelo, en la mesa del comedor o en una alfombra de la sala sin necesidad de lupas de size 2,5x.
+- Temática y palabras: selección de vocabulario más amigable para todas las edades. Aquellas palabras que en otras ediciones podrían generar conversaciones incómodas quedan filtradas para evitar debates durante la cena.
+- Ritmo de juego: la mesa grande invita a momentos de pausa para reír y comentar, no solo a una carrera contrarreloj. Aunque el reloj sigue siendo nuestro mejor amigo (y peor enemigo) a partes iguales.
+- Componentes: cartas XXL, tarjetas de pista, dos mazos para dividir equipos y un tablero que hace juego con la interfaz mental del usuario. Todo con acabado decente para resistir las visitas de los abuelos, las risas de los primos y las discusiones de quién dijo qué palabra primero.
 
 Para entender mejor el ecosistema de Codenames y sus variantes, echa un vistazo a nuestra reseña no oficial de otros títulos cercanos: {% post_url 2026-02-10-geeknite-board-games-top-10 %}.
 
 ### ¿Qué incluye la caja?
 - Un mazo de cartas XXL con palabras limpias y aptas para la familia.
-- Tarjetas de pista para los espías (con números que te dicen cuántas palabras puedes intentar).
+- Tarjetas de pista para los espías (con números que indican cuántas palabras puedes intentar).
 - Dos mazos de código para dividir equipos y establecer el objetivo de cada ronda.
 - Indicadores de puntos y el tablero gigante que es el verdadero protagonista de la sala.
-- Instrucciones claras y gráficos que no requieren un diploma en lingüística para entenderlos.
+- Instrucciones claras y gráficos que no requieren un doctorado en lingüística para entenderlos.
 
 ### ¿Qué no cambia del todo?
-- El objetivo básico: lograr que tu equipo adivine sus palabras asignadas sin tocar las palabras del equipo contrario ni la palabra asesina. Los principios siguen igual de desafiantes, solo que, en XXL, la sensación de participación se amplifica por la magnitud de la mesa y la cantidad de palabras a considerar.
+- El objetivo básico: lograr que tu equipo adivine sus palabras asignadas sin tocar las palabras del equipo contrario ni la palabra asesina. Los principios siguen desafiantes, solo que en XXL la experiencia se amplía gracias a la magnitud de la mesa y la cantidad de palabras a considerar.
 
 ## Unboxing y primeros impresiones: tamaño importa, pero la diversión no se achica
 
-La experiencia de abrir la caja es como desempaquetar un regalo de tamaño épico para un niño en vacaciones: todo huele a juego y a posibilidades. Las cartas, al estar en formato XXL, se muestran con tipografía imponente y un contraste suficiente para leerlas desde la otra punta de la sala. Es una emoción visual: parece que cada palabra grita “¡mírame!”, y eso, en la práctica, ayuda mucho para grupos amplios donde la gente se sienta a dos lugares de distancia y no quiere acercarse a la mesa como si fuera una expedición arqueológica.
+Abrir la caja es como desempaquetar un regalo gigante para un niño en vacaciones: desprende emoción, el aire huele a juego y a posibilidades infinitas. Las cartas XXL, con tipografía contundente y contraste claro, invitan a mirar desde la distancia sin torpeza. Es la versión de “poned la mesa y que comience la experiencia” pero sin perder la precisión semántica que hace de Codenames un clásico.
 
-Mi primer partido fue con una mesa de comedor de tamaño medio y un sofá que hacía las veces de zona de descanso para el jugador menos involucrado. A los diez minutos, las risas giraron en torno a las palabras imposibles (“Ardilla espacial”, alguien decía) y la competencia dejó de ser un ejercicio lingüístico para convertirse en una competencia de coordinación y escucha activa entre familias. El gran punto de atención: la claridad de lectura. En XXL, las letras son, efectivamente, grandes, pero hay momentos en los que la iluminación de la habitación puede hacerte perder una letra capital si no hay una lámpara adecuada. La recomendación: una iluminación cenital suave y una mesa a la altura de ojos para evitar torpeza.
+Mi primera partida fue en una mesa de comedor de tamaño medio y un sofá que serviría como zona de descanso para el jugador menos comprometido. A los diez minutos, las risas giraron alrededor de palabras imposibles (“Ardilla espacial”, alguien soltó) y la partida dejó de parecer un ejercicio lingüístico para transformarse en una competencia de coordinación y escucha activa entre generaciones. La claridad de lectura es el gran punto a favor de XXL: las letras son grandes, pero hay momentos en los que una iluminación deficiente puede hacer que una letra clave pase desapercibida. Mi recomendación: iluminación cenital suave y una mesa a la altura de ojos para evitar maniobras cómicas de “busco la palabra debajo de la lámpara”.
 
 ## Cómo se juega: reglas en resumen para no perder la paciencia de mamá
 
-Codenames XXL Edición Familiar mantiene la estructura de dos equipos (Rojo y Azul), con un espía maestro por equipo que da pistas a su equipo para adivinar las palabras objetivo en la mesa. Pero, como toda edición orientada a familias, se cuidan ciertos matices para que el juego no se convierta en un curso intensivo de semántica. Aquí va un repaso rápido de las reglas y cómo se traducen a la experiencia XXL:
+Codenames XXL Edición Familiar conserva la estructura de dos equipos (Rojo y Azul), con un espía maestro por equipo que da pistas a su equipo para adivinar las palabras objetivo en la mesa. Pero, como toda edición orientada a familias, se cuidan matices para evitar que el juego se convierta en un curso intensivo de semántica.
 
-- Objetivo: adivinar todas las palabras que te pertenecen sin tocar las del contrario ni la palabra asesina.
-- Turnos: cada turno, un espía maestro da una pista: una palabra que conecte varias palabras de su equipo y un número que indica cuántas palabras de la mesa se deben intentar. Por ejemplo: pista “Fruta 2” podría indicar dos palabras que están relacionadas con frutas. En Edición Familiar, las pistas suelen buscar vínculos simples para evitar cruces extraños entre generaciones.
-- Adivinación: el equipo, tras escuchar la pista, discute y elige cartas de la mesa para intentar descubrir las palabras indicadas. Si aciertan, la carta queda de color del equipo; si fallan, el turno termina y pasa al otro equipo. Si es la palabra asesina, se anota en la columna del equipo contrario y se cierra parcialmente la ronda.
-- Final del juego: se gana cuando un equipo ha descubierto todas sus palabras objetivo. Si alguien llega a la palabra asesina, eso puede cambiar el rumbo de la partida, así que conviene escuchar atentamente y leer entre líneas.
+- Objetivo: adivinar todas las palabras propias sin tocar las del contrario ni la palabra asesina.
+- Turnos: cada turno, un espía da una pista: una palabra que conecte varias palabras de su equipo y un número que indica cuántas palabras de la mesa se deben intentar. Por ejemplo: pista “Fruta 2” podría señalar dos palabras relacionadas con frutas. En Edición Familiar, las pistas suelen buscar vínculos simples para evitar cruces extraños entre generaciones.
+- Adivinación: tras oír la pista, el equipo discute y elige cartas de la mesa para intentar descubrir las palabras indicadas. Si aciertan, la carta queda del color de su equipo; si fallan, el turno pasa al otro equipo. Si se acierta la palabra asesina, se aplica la penalización correspondiente y la ronda se modifica.
+- Final del juego: se gana al descubrir todas las palabras objetivo de un equipo. Si alguien llega a la palabra asesina, la ronda puede cambiar de curso, así que escuchar y leer entre líneas es clave.
 
-### Reglas prácticas o “cómo jugar sin que se convierta en conflicto familiar”
-- Mantén la conversación clara: los participantes deben explicar por qué creen que una palabra se relaciona con la pista dada. Esto fomenta la conversación y evita que un competidor solo grite “yo lo sabía” sin aportar razonamiento.
-- Evita la fraseología excesiva: las pistas cortas suelen ser más efectivas para mantener el ritmo y la diversión. En una versión XXL para familia, la fórmula óptima es una pista corta y un par de palabras relacionadas.
-- Aprovecha la lectura a distancia: invita a los asistentes a acercarse a la mesa para mirar juntos las palabras. Esto evita que alguien se sienta “fuera del juego”.
+### Reglas prácticas para “jugar sin que se convierta en conflicto familiar”
+- Mantén la conversación clara: los participantes deben explicar por qué creen que una palabra se relaciona con la pista dada. Esto fomenta la participación y disuade de gritos “¡lo sabía!” sin razonamiento.
+- Evita la fraseología excesiva: pistas cortas suelen ser más efectivas para mantener el ritmo y la diversión. En XXL para familia, la fórmula óptima suele ser una pista breve y un par de palabras relacionadas.
+- Aprovecha la lectura a distancia: invita a los asistentes a acercarse para mirar juntos las palabras. Evita que alguien se sienta “fuera del juego”.
 
 ## Diferencias clave entre XXL y ediciones anteriores
-A modo de guía rápida para jugadores veteranos de Codenames: XXL no es una reescritura de reglas; es una extensión práctica para grupos grandes y familias que quiere mejorar la visibilidad y la interacción. Aun así, hay diferencias notables que vale la pena resaltar:
+A modo de guía rápida para veteranos: XXL no es una reescritura de reglas, es una extensión práctica para grupos grandes y familias que buscan mejor visibilidad y mayor interacción. Algunas diferencias notables:
 
-- Lectura a distancia: las palabras grandes facilitan el reconocimiento, especialmente para jugadores con menos agudeza visual o en salas con poco brillo.
-- Flujo de juego: el ritmo puede ser más pausado, ya que hay más personajes presentes y más manos en la mesa que se toman su tiempo para elegir palabras. Esto puede ayudar a que las risas y las historias afloren sin que el reloj corra demasiado rápido.
-- Curación de palabras: en Edición Familiar, hay palabras que se evitan deliberadamente para no generar conflictos generacionales o sesgos culturales. Es un gesto que se aprecia, especialmente para familias con niños pequeños y abuelos curiosos.
-- Duración de las sesiones: por ser XXL, cada partida puede alargarse ligeramente, pero el sabor de la victoria y de la complicidad entre los equipos suele compensar el tiempo extra.
+- Lectura a distancia: las palabras grandes facilitan el reconocimiento, especialmente para jugadores con visión reducida o en salas con iluminación no óptima.
+- Flujo de juego: el ritmo puede ser más pausado, ya que hay más participantes y manos en la mesa que se toman su tiempo para elegir palabras. Esto, paradójicamente, puede incrementar la diversión y las historias compartidas.
+- Curación de palabras: se evitan deliberadamente palabras que podrían generar conflictos generacionales o sesgos culturales. Es un detalle que se aprecia cuando hay niños pequeños y abuelos curiosos en la misma mesa.
+- Duración de las sesiones: al ser XXL, las partidas pueden alargarse ligeramente. Sin embargo, la sensación de logro y compenetración suele compensar el tiempo extra.
 
-Si buscáis una alternativa con más contenido para fiestas grandes, podéis comparar con otras variantes como Codenames: Pictures o Codenames Duet. Pero para el público familiar, XXL tiene un enfoque claro: entretenimiento responsable y risas aseguradas sin perder la simplicidad que hace de Codenames un clásico.
+Si buscáis una alternativa con más contenido para fiestas grandes, podéis comparar con otras variantes como Codenames: Pictures o Codenames Duet. Pero para el público familiar, XXL tiene un enfoque claro: entretenimiento responsable y risas aseguradas sin perder la simplicidad del clásico.
 
 ## Experiencia de juego en familia: lo bueno, lo no tan bueno y lo sorprendente
 
-Lo mejor:
-- The big cards make it easier for everyone to participate, especialmente los que están en la última silla del comedor.
-- El ambiente se llena de risas cuando las pistas conectan palabras disparatadas. La casa de los chistes se hace presente y nadie quiere perderse la próxima ronda.
-- Fomenta la comunicación, la escucha activa y la cooperación entre los miembros del equipo. Incluso el tío que siempre quiere “hacer trampa” tiene que admitir que la pista de su primo no tenía nada que ver con “reptil” y terminó diciendo “lagarto”.
+Lo bueno:
+- Las cartas XXL facilitan la participación de todos, especialmente los que están en la última fila del comedor.
+- El ambiente se llena de risas cuando las pistas conectan palabras disparatadas. Se arma una pequeña “biblioteca de chistes” en cada mesa, y nadie quiere perderse la próxima ronda.
+- Fomenta la comunicación, la escucha activa y la cooperación entre los integrantes del equipo. Incluso el tío que siempre quiere “hacer trampa” termina admitiendo que la pista de su primo no tenía nada que ver con “reptil” y acabó diciendo “lagarto” como si fuera un conjuro de abuela.
 
-Lo menos bueno:
-- Si la iluminación es pobre o tienes una mesa muy pequeña, la legibilidad puede resbalar hacia frustración. En ese caso, un par de lámparas y una expansión de la mesa infantil ayudan.
-- En partidas muy grandes, algunas palabras pueden sentirse repetitivas o menos desafiantes. Esto es por diseño: el objetivo es que la experiencia sea inclusiva y no abrumadora para los más jóvenes.
-- Dependiendo de la edad y el interés de la familia, el juego puede sentirse repetitivo tras varias rondas. Por ello, recomendamos variar con otras variantes de Codenames o alternar con juegos de mesa más dinámicos para mantener el interés.
+Lo no tan bueno:
+- Si la iluminación es pobre o la mesa es pequeña, la legibilidad puede torcerse hacia la frustración. En ese caso, una lámpara adicional y una ampliación de la mesa para niños puede salvar el día (y el ego del participante).
+- En partidas muy grandes, algunas palabras pueden sentirse repetitivas o menos desafiantes. Es por diseño: se busca accesibilidad y ritmo para todo el grupo, no una competición de diccionarios.
+- Dependiendo de la edad y el interés de la familia, el juego puede sentirse repetitivo tras varias rondas. Por ello, recomendamos alternar con otras variantes de Codenames o con juegos de palabras y deducción dinámicos para mantener el ánimo.
 
 Lo sorprendente:
-- La facilidad de incorporar a niños y abuelos en una misma mesa sin complicaciones. La edición familiar facilita una experiencia compartida que, a veces, otros juegos de palabras no logran sin una guía de instrucciones de 16 páginas.
-- Las risas no son solo por las palabras, sino por la interpretación de pistas: ver a un niño explicar por qué “Ardilla” se relaciona con “Nuez” y “Bosque” es puro topísimo material de Geeknite.
+- La facilidad para incorporar a niños y abuelos en una misma mesa sin complicaciones. La Edición Familiar facilita una experiencia compartida que, a veces, otros juegos de palabras no logran sin una guía de instrucciones de 16 páginas.
+- Las risas no surgen solo de las palabras, sino de las interpretaciones. Ver a un niño justificar por qué “Ardilla” se relaciona con “Nuez” y “Bosque” es puro contenido de Geeknite.
 
 ## Consejos prácticos para sacar el máximo jugo a Codenames XXL - Edición Familiar
 
-- Preparación de la mesa: despeja el espacio y coloca una iluminación adecuada. Una mesa amplia evita que alguien tenga que estirarse para leer la palabra correcta.
-- Distribución de roles: identifica a dos o tres voluntarios para ser espías maestros. No tiene que ser la persona más “sabia”; a veces la mejor experiencia es la que surge de un espíritu creativo que sabe hacer conexiones ingeniosas.
-- Ritmo de juego: si la ronda se alarga, introduce un temporizador de 60 segundos para cada pista; esto mantiene el ambiente dinámico y evita que la conversación se convierta en una disertación de 20 minutos sobre un único nexo.
-- Seguridad emocional y humor: recuerda que el objetivo es pasarla bien. Si a alguien le incomoda un tema, cambia la palabra o la pista para que nadie se sienta incómodo. En una edición familiar, el humor debe ser el pegamento que une a la mesa, no la chispa que enciende una discusión.
-- Extensiones para mayor rejugabilidad: si tu grupo es especialmente competitivo, puedes usar variantes caseras: añade palabras propias de la familia, o crea dificultades temporales como “solo palabras con vocales A/E/I” para algunas rondas.
+- Preparación de la mesa: despeja el espacio y asegúrate de una iluminación adecuada. Una mesa amplia evita que alguien tenga que estirarse para leer la palabra correcta, y una lámpara bien colocada evita buscar letras como si fuese un cazador de tesoros.
+- Distribución de roles: identifica a dos o tres voluntarios para ser espías maestros. No hace falta ser el más erudito; a veces la mejor experiencia surge de personas que conectan ideas de forma creativa y no lineal.
+- Ritmo de juego: si la ronda se alarga, introduce un temporizador de 60 segundos para cada pista; esto mantiene el ambiente dinámico y evita que la conversación se convierta en una disertación de 20 minutos sobre una única conexión.
+- Seguridad emocional y humor: recuerda que el objetivo es pasarlo bien. Si alguien se siente incómodo con una palabra, cambia la pista o la palabra y mantén el humor como pegamento de la mesa, no como chispa que encienda discusiones.
+- Extensiones para mayor rejugabilidad: si el grupo es especialmente competitivo, prueba variantes caseras: añade palabras familiares propias, o crea dificultades temáticas (solo palabras con vocales A/E/I) para ciertas rondas.
 
 ## Calidad de los componentes: ¿el XXL vale la pena por el material?
+La experiencia de producto importa cuando se busca una compra que resista años de uso familiar. En Codenames XXL - Edición Familiar, los componentes ofrecen una sensación robusta para juego recurrente: cartas XXL con acabado duradero, tablero claro y tarjetas de puntuación legibles. El cuidado recomendado es mantener la caja fuera del alcance de niños muy pequeños para evitar curiosas exploraciones con tarjetas. En general, la relación precio-calidad es razonable para lo que ofrece: una experiencia de juego social, educativa y divertida para toda la familia.
 
-La experiencia de producto es fundamental para una compra que se espera dure años de uso familiar. En el caso de Codenames XXL - Edición Familiar, los componentes ofrecen una sensación de robustez adecuada para juegos recurrentes: cartas XXL con acabado duradero, un tablero claro y tarjetas de puntuación legibles. El único cuidado que aconsejaríamos es mantener la caja fuera del alcance de los niños muy pequeños para evitar curiosas exploraciones con tarjetas. En general, la relación precio-calidad es razonable para lo que ofrece: una experiencia de juego social, de aprendizaje y risas para toda la familia.
-
-Si queréis ver una comparativa con otros títulos de la gama, podéis consultar nuestra tabla de referencias en el artículo de fichas técnicas. Además, para sembrar contexto y ampliar horizontes, os dejamos el enlace a una reseña dedicada a otro título de palabras: {% post_url 2025-11-03-wordplay-axe-review %}.
+Si queréis ver una comparativa con otros títulos de la gama, podéis consultar nuestra tabla de referencias en el artículo de fichas técnicas. Además, para ampliar horizontes, os dejamos el enlace a una reseña dedicada a otro título de palabras: {% post_url 2025-11-03-wordplay-axe-review %}.
 
 ## Estrategias y trucos para convertirse en espía estrella de la familia
 
@@ -114,7 +113,7 @@ Si buscáis más asesoría sobre técnicas de juego y adaptación a grupos mixto
 
 ## ¿Vale la pena? Un veredicto Geeknite
 
-En términos de experiencia de juego, Codenames XXL - Edición Familiar funciona exactamente como su nombre promete: es XXL en tamaño, pero también en accesibilidad, risas y compañía. Es un título que se presta a reuniones sociales, cenas familiares y tardes de sábado cuando lo que se desea es desconectar el teléfono y conectar las neuronas de la manera más divertida posible. Las partidas son rápidas, el ritmo se mantiene gracias a las cartas grandes y la interacción entre equipos se anima por la propia magnitud de la mesa. Si eres padre, tía, o simplemente un usuario curioso que quiere introducir a nuevos adeptos al mundo de los juegos de palabras, esta edición ofrece una vía de entrada amable y, sí, muy divertida.
+En términos de experiencia de juego, Codenames XXL - Edición Familiar funciona exactamente como su nombre promete: es XXL en tamaño, pero también en accesibilidad, risas y complicidad. Es un título que se presta a reuniones sociales, cenas familiares y tardes de sábado cuando lo que se desea es desconectar el teléfono y conectar las neuronas de la manera más divertida posible. Las partidas son rápidas, el ritmo se mantiene gracias a las cartas grandes y la interacción entre equipos se anima por la propia magnitud de la mesa. Si eres padre, tía, o simplemente un usuario curioso que quiere introducir a nuevos adeptos al mundo de los juegos de palabras, esta edición ofrece una vía de entrada amable y, sí, muy divertida.
 
 Pros:
 - Lectura a distancia: la visibilidad de las palabras mejora la participación de todos, incluidos los que están en el borde de la mesa.
