@@ -1,5 +1,5 @@
 ---
-title: 'Exploding Kittens: The Streaking Kittens Expansion — Expanded and Rebooted'
+title: "Exploding Kittens: The Streaking Kittens Expansion — Expanded and Updated"
 date: 2026-03-19
 tags:
   - board games
@@ -8,13 +8,15 @@ tags:
   - humor
   - reviews
   - cat chaos
+  - party games
+  - cat memes
 ---
 
 ![Streaking Kittens expansion art](/assets/images/streaking-kittens-expansion.jpg)
 
 Introduction
 
-If you thought Exploding Kittens was peak chaos, buckle up, because The Streaking Kittens Expansion sprints into the room wearing a tiny cape and a suspiciously confident meow. This expansion isn’t merely adding more cards to an already ridiculous deck; it’s a full-on remix that redefines how you can turn a simple game night into a chaotic improv show starring your friends’ cats, who may or may not be involved in subversive heists of your snack table. Welcome to streaking chaos, sponsored by a crowd that laughs and cringes in equal measure. 
+If you thought Exploding Kittens was peak chaos, buckle up, because The Streaking Kittens Expansion sprints into the room wearing a tiny cape and a suspiciously confident meow. This expansion isn’t merely adding more cards to an already ridiculous deck; it’s a full-on remix that redefines how you can turn a simple game night into a chaotic improv show starring your friends’ cats, who may or may not be involved in subversive heists of your snack table. Welcome to streaking chaos, sponsored by a crowd that laughs and cringes in equal measure.
 
 What this update does differently (and why you should care)
 
@@ -141,7 +143,7 @@ If you want a quick snapshot of how this expansion stacks up in our overall line
 
 Final call to action
 
-**Ready to dive into the chaos? Grab Exploding Kittens: The Streaking Kittens Expansion and start your next game night with a roar of laughter and a dramatic narration from your cat sidekick.**
+**Ready to dive into the chaos? Buy Exploding Kittens: The Streaking Kittens Expansion and start your next game night with a roar of laughter and a dramatic narration from your cat sidekick.**
 
 Affiliate note
 
