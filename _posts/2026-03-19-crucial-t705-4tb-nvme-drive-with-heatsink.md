@@ -7,10 +7,12 @@ tags:
   - heatsink
   - review
   - tech
+  - hardware
+  - gaming
 ---
 
 ## Introduction
-If you thought all NVMe drives were born equal, allow me to introduce you to the Crucial T705 4TB NVMe Drive with Heatsink. This is not your grandma’s M.2 drive that slips into a pocket and forgets your existence. No, the T705 is here to remind your PC who its boss is, by slapping a heat‑dissipating sandwich on top and throwing down numbers that make your GPU jealous.
+If you thought all NVMe drives were born equal, allow me to introduce the Crucial T705 4TB NVMe Drive with Heatsink. This is not your grandma’s M.2 drive that slips into a pocket and forgets your existence. No, the T705 is here to remind your PC who its boss is, by slapping a heat‑dissipating sandwich on top and throwing down numbers that make your GPU jealous.
 
 In the wild world of PC builds, thermals are the silent killer of performance. Throttle a drive long enough and it rebels with slower reads, longer load times, and the occasional panic from your motherboard fan curve. The T705 is Crucial’s attempt to merge big capacity with a cooling solution that actually looks like it belongs in a high‑end gaming rig, not a thermostat in a lab rat’s pocket. Now, does the heatsink actually deliver, or is it just a shiny prop in a market that loves graphene-coated marketing? Let’s dive in and find out.
 
@@ -28,7 +30,7 @@ As always, if you want to compare this with a few other options, we’ve sprinkl
 
 And if you’re in the mood for a quick explainer on the era of PCIe generations, check our PCIe Gen 4 vs Gen 5 primer here: [PCIe generations explained]({% post_url 2025-06-18-pcie-gen4-vs-gen5-quick-look %}). If you’re building a budget NVMe closet, our earlier budget NVMe guide might also scratch that itch: [Budget NVMe builds]({% post_url 2024-10-02-budget-nvme-builds %}).
 
-### What’s in the box and what you get
+## What’s in the box and what you get
 The packaging is nothing flashy, but it’s honest. Inside the box you’ll find:
 - Crucial T705 4TB NVMe SSD with integrated heatsink
 - A small user manual that tries to convince you this is a “drop‑in upgrade”
