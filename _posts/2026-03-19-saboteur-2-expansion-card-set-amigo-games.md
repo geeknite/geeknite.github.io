@@ -1,7 +1,7 @@
 ---
-title: Saboteur 2 Expansion Card Set – Amigo Games: New & Sealed
+title: Saboteur 2 Expansion Card Set – Amigo Games: New & Sealed (Updated)
 date: 2026-03-19
-tags:
+tag s:
   - board games
   - Saboteur
   - expansion
@@ -12,37 +12,37 @@ tags:
 
 ## Overview
 
-Welcome to the undertunnels of deception where gold is the only thing shinier than a freshly sealed poker face. The Saboteur 2 Expansion Card Set from Amigo Games slides into the existing Saboteur base game like a clever pickaxe into a stubborn vein of ore. This review covers the new expansion cards in a big, gleaming hall of mirrors style, where every treasure card hides a twist and every role card could be a friend or a foe wearing a miner suit. If you have played the base Saboteur and craved new chaos, this expansion is your backstage pass to the mischief. If you have not yet played Saboteur, think of this as a spicy extra course that turns a good potluck into a heist movie night.
+Welcome back to the underworld tunnels of trust, treachery, and glittering gold. The Saboteur 2 Expansion Card Set from Amigo Games slides into the base Saboteur like a sly pickaxe into a vein of optional chaos. If you enjoyed the base game and wanted more shifty smiles at the table, this expansion is your backstage pass to the same warm, cheeky misdirection, just with a few more tricks up its dwarven sleeve. If you have not yet played Saboteur, think of this expansion as a spicy extra course that upgrades a decent potluck into a caper movie night where the plan almost rainbow-ropes its way to victory.
 
-In Geeknite fashion we will tackle components, gameplay impact, strategy tips, and the overall vibe. I will also drop some nerdy metaphors and a few jokes about dwarven accountants who really love gold. By the end you will know if this expansion earns its keep on your game shelf or if it is better left in the dark cavern of what could have been.
+In Geeknite style we will unpack components, gameplay impact, strategic ramblings, and the overall vibe. Expect nerdy metaphors, jokes about dwarven accountants who secretly love gold, and perhaps the occasional pun so bright you need miner’s goggles to read it.
 
-> External note: for quick reference you can check the official Amigo page and a couple of community takes at the links below. Official page external link and community thoughts are included for context and will be updated by readers as new batches roll off the printing press.
+> For quick reference, you can drop by the official Amigo page and swing by a couple of community takes at the links below. Official page and community thoughts are included here for context and will be updated as new batches roll off the printing press.
 
 External links
-- Official Amigo Games page for Saboteur 2 expansion https //www amig o-games de en games saboteur-2-expansion
-- Community discussion on Saboteur variants and expansions https //boardgamegeek com boardgame 13329 saboteur
+- Official Amigo Games page for Saboteur 2 expansion: https://www.amigo-games.de/en/games/saboteur-2-expansion
+- Community discussion on Saboteur variants and expansions: https://boardgamegeek.com/boardgame/13329/saboteur
 
-If you want to dive deeper into Saboteur lore and how expansions change the meta, see our older post on Saboteur basics and another on top picks for heist themed games. [Saboteur basics]({% post_url 2024-08-01-saboteur-basics %})
+If you want to dive deeper into Saboteur lore and how expansions alter the meta, see our older post on Saboteur basics and another on top picks for heist themed games. [Saboteur basics]({% post_url 2024-08-01-saboteur-basics %})
 
 ## What is in the box
 
-The expansion card set for Saboteur 2 is intentionally compact on the outside and chaotic on the inside. The cards are a mix of new paths, new roles, and fresh treasure cards that tilt the table in ways that make even the most confident miner doubt their life choices. You get a handful of new dwarf cards that alter how tunneling and treasure collection works, a stack of new face down cards that imitate misdirection, and a few surprise cards that force players to rethink the moral calculus of what counts as a fair game. If you enjoy swapping out a deck mid game without breaking the rhythm, you will appreciate how this expansion fits into the flow of the base game without requiring a full rulebook read from scratch.
+The expansion card set for Saboteur 2 is intentionally compact on the outside and delightfully chaotic on the inside. You get a toolbox of new paths, new roles, and fresh treasure cards that tilt the table in ways that make even the most confident miner doubt their life choices. Expect new dwarf cards that tweak tunneling and treasure collection, a stack of misdirection cards that hide in plain sight, and a few surprise cards that force players to rethink what counts as “fair play.” If you enjoy swapping out a deck mid-game without breaking rhythm, this expansion slots neatly into the base game without grand rulebook readings.
 
 ### Components and quality
 
-The physical quality is what you expect from Amigo Games: sturdy card stock, clean printing, and artwork that sits nicely in the same universe as the original Saboteur. The design language is consistent, with miners sporting helmets and lanterns, smug goblin-like grins on mischief cards, and gold treasure that pops against darker cavern tones. The card backs are uniform, so you wont see suspicious telltale stacks when someone taps a card in their hand. Best of all, the expansion cards are clearly labeled so you can tell at a glance which ones are new versus base set cards, which is a godsend during chaotic table talk.
+The physical quality is what you expect from Amigo Games: sturdy card stock, clean printing, and artwork that sits comfortably in the Saboteur universe. The design language stays consistent, with miners wearing helmets and lanterns, mischievous grins on mischief cards, and gold treasure that pops against cavernous browns. Card backs are uniform, so you won’t telegraph stacks when someone taps a card in their hand. Best of all, expansion cards are clearly labeled so you can tell at a glance which are new versus base cards, which is a godsend during chaotic table talk.
 
 ### The art direction
 
-If you are a fan of the base game art, you will feel at home here. The expansion leans into the same palette of warm golds, deep browns, and a dash of greenish glow that signals hidden treasure. The doodle style remains lighthearted rather than grim, which suits Saboteur perfectly since the game thrives on misdirection and banter rather than battlefield grimness. There are some clever little touches in the iconography that made me smile during play, especially when a card telegraphs something that only becomes obvious after a second or third round of talk and bluff. It is the visual equivalent of a wink from a fellow player who has spotted your scheme long before you reveal it.
+If you are a fan of the base game art, you will feel at home here. The expansion leans into the same palette of warm golds, deep browns, and a dash of emerald glow signaling hidden treasure. The doodle style stays lighthearted, which suits Saboteur perfectly since the game thrives on misdirection and banter rather than grim seriousness. There are clever little touches in the iconography that made me smile during play, especially when a card telegraphs something that only becomes obvious after a second or third round of talk and bluff. It’s the visual equivalent of a wink from a fellow player who spotted your scheme long before you reveal it.
 
 ## How the expansion changes the game
 
-Saboteur 2 adds layers to the base game that can swing a round from a quiet dig to a full on theater production. You will notice more strategic play around who you trust, where you can push a tunnel while you keep an eye on the treasure, and how quick play can devolve into a volley of clever one liners and misdirection. The expansion does not reinvent the wheel; it adds spokes so the wheel can roll taller and truer when the tunnel gets crowded with optimism and bad intentions.
+Saboteur 2 adds layers to the base game that can swing a round from a quiet dig to a full-on theater production. You’ll notice more strategic play around who you trust, where you can push a tunnel while keeping an eye on the treasure, and how quick play can devolve into a volley of clever one-liners and misdirection. The expansion does not reinvent the wheel; it adds spokes so the wheel can roll taller and truer when the tunnel gets crowded with optimism and dubious intentions.
 
 ### Role and objective balance
 
-One of the biggest changes in Saboteur 2 expansion is the way new roles interact with existing ones. The expansion introduces extra role cards that can shift how players perceive danger, who is likely to be the last miner standing, and whether a coalition among miners is worth the risk. The new roles feel thematically earned rather than tacked on, which helps preserve the feel of a cooperative misdirection game while giving the Saboteurs more ways to hide in plain sight. It also increases the importance of reading table talk and using nonverbal cues as a strategic tool rather than relying solely on cards.
+One of the biggest changes in the Saboteur 2 expansion is how new roles interact with existing ones. The expansion introduces extra role cards that shift how players perceive danger, who is likely to be the last miner standing, and whether a coalition among miners is worth the risk. The new roles feel thematically earned rather than tacked on, which helps preserve the feel of a cooperative misdirection game while giving the Saboteurs more ways to hide in plain sight. It also increases the importance of reading table talk and using nonverbal cues as a strategic tool rather than relying solely on cards.
 
 ### Card economy and pacing
 
@@ -66,7 +66,7 @@ A Saboteur round runs anywhere from 20 to 40 minutes depending on the number of 
 
 ## Thematic notes and tone
 
-Saboteur as a theme is about shady deals, glittering gold, and the old miner joke that a lamp is a terrible way to light up a scheme. The expansion leans into that vibe with a slightly more flamboyant cast of characters and a handful of cards that are more about misdirection than about direct confrontation. The tone remains light and playful, which is essential for a party game. There is no grim darkness here, only the gleam of gold and the gleeful chaos of a room full of friends trying to outbluff each other while keeping the lighting up long enough to claim victory.
+Saboteur as a theme is about shady deals, glittering gold, and the old miner joke that a lamp is a terrible way to light up a scheme. The expansion leans into that vibe with a slightly more flamboyant cast of characters and a handful of cards that are more about misdirection than direct confrontation. The tone remains light and playful, which is essential for a party game. There is no grim darkness here, only the gleam of gold and the gleeful chaos of a room full of friends trying to outbluff each other while keeping the lighting up long enough to claim victory.
 
 ## Accessibility for new players
 
@@ -90,7 +90,7 @@ The expansion is designed to scale up with larger groups and to offer a more dyn
 
 ## The setup of the table and social dynamics
 
-Saboteur is as much about social interaction as it is about deck management. The expansion nudges the social dynamics into a more lively mode by providing you with more micro decisions per round. It is a great activity for a game night where players enjoy talking over each other in a friendly way, strategizing on the fly, and debating moral choices about who deserves the treasure and who deserves the shard of gold that is clearly cursed and totally worth it.
+Saboteur is as much about social interaction as it is about deck management. The expansion nudges the social dynamics into a livelier mode by providing you with more micro decisions per round. It is a great activity for a game night where players enjoy talking over each other in a friendly way, strategizing on the fly, and debating moral choices about who deserves the treasure and who deserves the shard of gold that is clearly cursed and totally worth it.
 
 ## Comparisons to base Saboteur and other expansions
 
@@ -132,8 +132,8 @@ For a closer look, here is a sample preview card from the expansion set to give 
 ![](/assets/images/saboteur-2-expansion-preview.jpg)
 
 External reference and player discussions
-- Amigo official page for Saboteur 2 expansion: https //www amig o-games de en games saboteur-2-expansion
-- Community thread on Saboteur variants: https //boardgamegeek com boardgame 13329 saboteur
+- Amigo official page for Saboteur 2 expansion: https://www.amigo-games.de/en/games/saboteur-2-expansion
+- Community thread on Saboteur variants: https://boardgamegeek.com/boardgame/13329/saboteur
 
 If you want to know more about how to use this expansion in a mixed group, the Saboteur basics post is a great starting point and helps demystify the bluffing mechanics that make Saboteur such a delight. [Saboteur basics]({% post_url 2024-08-01-saboteur-basics %})
 
@@ -141,5 +141,4 @@ If you want to know more about how to use this expansion in a mixed group, the S
 
 Bold disclosure from your friendly geek: if you want to pick up the Saboteur 2 Expansion Card Set from Amigo Games, here is a convenient way to support the site while you feed your next gaming night obsession. Buy through our affiliate link and help us keep bringing witty reviews your way. 
 
-**Grab your copy here and support the site via our affiliate link: https://example.com/affiliate-saboteur-2**
-
+**Grab your Saboteur 2 Expansion Card Set via our affiliate link and support the site: https://example.com/affiliate-saboteur-2**
