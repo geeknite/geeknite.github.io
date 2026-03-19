@@ -16,7 +16,7 @@ tags:
   - pedagogy
 ---
 
-{% image assets/images/infinite-10p2w.jpg alt="Infinite 10-Person 2-Workstation" %}
+{% image assets/images/infinite-10p2w.jpg alt='Infinite 10-Person 2-Workstation' %}
 ![Infinite 10-Person 2-Workstation](https://example.com/assets/images/infinite-10p2w.jpg)
 
 ## Introduction
@@ -33,6 +33,8 @@ This system borrows heavily from modular design principles. Each station module 
 
 For enthusiasts of big exhale-worthy setups, this is the type of thing that invites both delight and dread. It’s a tool for collaboration, but it also tempts disaster when the team collectively tries to reposition the entire row of chairs during a stand-up meeting. And yes, there will be someone who claims ownership of the central screen as if it’s their personal VR avatar. Spoiler: it is not your avatar, but you can pretend until the sprint ends.
 
+> If you crave the cinematic feel of a control deck, this setup nudges your office into science-fiction territory without requiring a government space grant.
+
 ## Design and Build Quality
 The chassis is a tall, matte metal frame with a powder-coated finish that looks sharp in photos and feels sturdy in the real world. The engineering team appears to have solved a classic desk problem: how to give each of the ten seats personal space while still maintaining a sense of shared purpose. The rows of workstation modules slot into a modular backbone. You can add or remove modules to adapt to an 8-person or 12-person session without buying a whole new furniture set, which is the design equivalent of a universal adapter for office life. The joints are robust, the surfaces are smooth, and the cable channels are wide enough to accommodate a small family of USB-C extenders, plus an entire ecosystem of dongles that will quietly multiply if left unattended.
 
@@ -41,13 +43,13 @@ One ergonomic caveat emerges here: the entire system is built around a central, 
 The materials feel premium enough for a showroom and rugged enough for daily use. The common wear patterns you will see are scuffs on the lower edges from chair wheels and occasional fingerprints near the screen’s bezel, the latter of which you learn to tolerate if you want a clean aesthetic. The build invites you to touch it, which is both good and dangerous in a space where people love to leave fingerprints on the team project. In short: it has presence, and it wears it well.
 
 ## Assembly and Setup: A Labors-of-Love Affair
-If you enjoy a good puzzle, you will love assembling this thing. The import team is clear that assembly requires a patient project manager, a floor plan, and enough torque to satisfy a small washing machine manufacturer. The package ships in several crates, each with a color-coded map pointing you toward the exact module that belongs where. The instruction manual reads like a treasure map from a space-faring RPG; it promises glory if you can decode the ancient runes of “two people at once is recommended.” The two-person assembly is easier than the ten-person configuration, obviously, but it is doable with the right level of caffeination and a spreadsheet to track the order of operations.
+If you enjoy a good puzzle, you will love assembling this thing. The import team is clear that assembly requires a patient project manager, a floor plan, and enough torque to satisfy a small washing machine manufacturer. The package ships in several crates, each with a color-coded map pointing you toward the exact module that belongs where. The instruction manual reads like a treasure map from a space-faring RPG; it promises glory if you can decode the ancient runes of two-person assembly being easier than ten-person chaos. The two-person assembly is easier than the ten-person configuration, obviously, but it is doable with the right level of caffeination and a spreadsheet to track the order of operations.
 
 Within a few hours, assuming you have the right crew and a reasonable tolerance for elevated swearing when the screws refuse to align, you will have a cluster of units that look like something out of a starship’s engineering bay. The screen’s mounting is sturdy, the cable channels hold firm, and the central hub access port is surprisingly user-friendly for a product with a pantry full of power adapters.
 
 If you are like me, you will build the thing and then instantly rethink the layout. This is not a tacit critique; it is a feature: the modular design invites redesigns as your team evolves. When the sprint line changes direction mid-week, you can reconfigure without a forklift, which is exactly the kind of flexibility modern teams crave.
 
-Tips for setup: map the central screen height to the majority of users, pre-label power rails, and assign a “cable wrangler” for the first week to keep the spaghetti monster at bay. Have a backup plan for a temporary stand-up if the central screen temporarily throws shade at your clever attempts to share a display.
+Tips for setup: map the central screen height to the majority of users, pre-label power rails, and assign a cable wrangler for the first week to keep the spaghetti monster at bay. Have a backup plan for a temporary stand-up if the central screen temporarily throws shade at your clever attempts to share a display.
 
 ## The Screen Experience: One Big Canvas or Two Small Orbits
 The crown jewel is the expansive screen, a panel that can be configured to act as a single panoramic display or as two separate panels for two different workstreams. It is sharp, bright, and surprisingly color-accurate, which means you can pretend you care about visual aesthetics while your code runs like a caffeinated cheetah. The screen is large enough to display dashboards, code editors, and a spreadsheet that represents the project forecast with lines that would make a mathematician weep with joy. If you have collaborative sessions, you can split the screen so that one group designs a UI while the other tunes the database queries, all in real time. The visual quality is such that a non-nerd can tell you exactly if the color palette is unbecoming of your brand identity.
@@ -102,7 +104,7 @@ Durability-wise, the system is designed to withstand daily use in a busy office 
 Cable management is robust, but it does require a small amount of ongoing attention. A regular audit of cable routes and elastic bands saves you from the dreaded spaghetti monster that can appear when ten people repeatedly replug their devices at different times. If you treat the system with care, it becomes a long-term workspace guardian that maintains its composure even after multiple stand-ups with heated debate and the occasional keyboard-smashing moment when someone realizes they left their soundboard on and the entire room is now deeply engaged in a coordinates-based remix session.
 
 ## Real-World Deployment Scenarios
-If you want a place where collaboration flows like a well-poured espresso, imagine a university innovation lab, a software company’s flagship collaboration floor, or a design studio that eats ambiguity for breakfast. The Infinite 10-Person workstation can anchor a “team-of-teams” culture by providing a shared visual corpus that everyone can reference. The first time you run a stand-up and actually share the central screen without a dozen people shouting “share now!” is a moment that will make the IT complaints feel like distant lore.
+If you want a place where collaboration flows like a well-poured espresso, imagine a university innovation lab, a software company’s flagship collaboration floor, or a design studio that eats ambiguity for breakfast. The Infinite 10-Person workstation can anchor a team-of-teams culture by providing a shared visual corpus that everyone can reference. The first time you run a stand-up and actually share the central screen without a dozen people shouting share now is a moment that will make the IT complaints feel like distant lore.
 
 In classrooms, this setup can accelerate group projects by giving students a common canvas and a real-time feedback loop from instructors. In enterprise environments, it can replace a handful of separate screens and projectors with one integrated ecosystem that reduces device management headaches (at least for a while). The bigger the team, the more valuable the shared canvas becomes—until it becomes a choreography of who is allowed to push the big red button.
 
