@@ -1,15 +1,17 @@
 ---
-title: "Robots Love Ice Cream: Themed Dice Set"
-date: 2026-03-19
-tags: [dice, tabletop, geekylife, reviews, accessories]
-image: /assets/images/robots-love-ice-cream-dice.jpg
+title: 'Robots Love Ice Cream: Themed Dice Set (Updated)'
+date: 2026-03-26
+tags: [dice, tabletop, geekylife, reviews, accessories, robots, ice-cream]
+image: /assets/images/robots-love-ice-cream-dice-banner.jpg
 ---
+
+{% image /assets/images/robots-love-ice-cream-dice-banner.jpg 'Robots Love Ice Cream dice on a battle-worn table' %}
 
 ![Robots Love Ice Cream dice on a battle-worn table](https://geeknite.shop/assets/images/robots-love-ice-cream-dice-banner.jpg)
 
 ## Introduction
 
-In the grand theater of the gaming shelf, where cardboard fortresses loom and cookies crumble to the rhythm of a 20-sided chorus, a new theme sauntered onto the scene: robots and ice cream. Yes, you read that right. This is not a grim chrome monolith or a goblin-made peg of doom—this is a charming contradiction: ice cream meets servo motors in a six-faced harmony designed to brighten your dice bag and your mood.
+In the grand theater of the gaming shelf, where cardboard fortresses loom and cookies crumble to the rhythm of a 20-sided chorus, a new theme sauntered onto the scene: robots and ice cream. Yes, you read that right. This isn’t a grim chrome monolith or a goblin-made peg of doom—this is a charming contradiction: ice cream meets servo motors in a six-faced harmony designed to brighten your dice bag and your mood.
 
 Welcome to the updated Geeknite review of the Robots Love Ice Cream dice set. If you’ve ever wondered what happens when a factory line collides with a gelato shop, you’re about to find out. Spoiler alert: they roll better than most puns you’ve heard at the table yet tonight. These dice are resin-touched whimsy that actually survive the chaotic energy of a real gaming session—a rare feat in the wild world of thematic polyhedrals.
 
@@ -118,7 +120,7 @@ Inside, a care card offers practical tips for maintaining the look and extending
 - Campaign arcs: Assign factions by colorways—Vanilla Guild for the calm engineers, Strawberry Syndicate for the cheeky modifiers, Pistachio Pact for stealthy saboteurs. The dice become a quick shorthand that adds texture to your world-building.
 - Stream-ready moments: The swirl aesthetics translate beautifully on camera; overlays and dice-rolling animations can reflect flavor intensity, with the Neon Frost edition glowing under party lights for extra pizzazz.
 
-If you want more ideas for integrating dice aesthetics into gameplay, see our post on [Dice Aesthetics and Function]({% post_url 2022-05-01-dice-aesthetics-function %}).
+If you want more ideas for integrating dice aesthetics into gameplay, see our post on {% post_url 2022-05-01-dice-aesthetics-function %}.
 
 ### Mobility and Table Setup Tips
 - Use a dice tray with a dark interior to maximize contrast against light-diced swirls.
@@ -127,7 +129,7 @@ If you want more ideas for integrating dice aesthetics into gameplay, see our po
 
 ## Community Reactions and Ethical Considerations (Light Touch)
 
-No real-world ethics alarm bells here; resin dice are generally safe when manufactured responsibly. The broader conversation in the hobby touches on sustainable packaging and responsible sourcing. If you’re curious, you can explore responsible crafting resources and sustainability notes in our external reading list. This post keeps the focus on fun at the table and the creative design choices that make this set memorable.
+No real-world ethics alarm bells here; resin dice are generally safe when manufactured responsibly. The broader hobby conversation includes sustainability notes and responsible sourcing. If you’re curious, you can explore responsible crafting resources and sustainability notes in our external reading list. This post keeps the focus on fun at the table and the creative design choices that make this set memorable.
 
 ## External Links and References (For the Curious)
 
