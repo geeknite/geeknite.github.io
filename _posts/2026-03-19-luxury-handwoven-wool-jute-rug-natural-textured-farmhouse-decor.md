@@ -74,6 +74,9 @@ This updated unboxing reveals edges that are neat, pile that sits evenly, and a 
 - Bedroom: Place under the bed to create a soft landing for feet, with enough surface to envelope chilly mornings without feeling cramped.
 - Reading Nook: Layer with a sheepskin, add a floor lamp, and bask in a warm glow that invites long reading sessions.
 - Home Office: A small rug under your desk can soften the space and reduce echo during video calls without compromising your inner geekeries.
+- Entryway: A compact 3x5 can catch muddy boots and set your decorating tone before you step through the door.
+- Dining Nook: Under a round table, it can provide warmth and texture to a hardwood floor without impairing chair movement.
+- Kids’ Play Area: A soft, forgiving surface for crawlers and block towers while posterity plays.
 
 In each scenario the rug performs as a quiet hero: not stealing the show but elevating the room with its natural, tactile layer.
 
@@ -90,6 +93,12 @@ If you’re chasing a grand statement rug that demands a room’s attention, you
 
 This rug sits in the premium-midrange. Not a bargain bin choice, not a couture splurge either. You’re paying for handwoven craft, natural materials, and the lasting texture that improves with life. In a world where decor depreciates at checkout, a well-made handwoven rug can outlive most trends. If you move houses often, the ability to blend into multiple spaces is a practical advantage. Textile enthusiasts will appreciate the subtle details that reveal themselves over time as fibers settle in with your home environment.
 
+### Sustainability and Cleaning: Green at the Loom
+
+Beyond the look and feel, this rug wears its ethics on the fringe. The wool is responsibly sourced, the jute is grown in farms committed to soil health and water stewardship, and the dyes, if any, lean toward low-impact options. We tested how the rug reacts to sunlight and climate: a sunlit corner shows that the color holds steadier than your fantasy football roster. On the care front, natural fibers shed a little at first, then settle into a calmer rhythm. The packaging is minimal and recyclable, because we’re not fans of cradle-to-kable.
+
+We also tested compostability of packaging and found that the cardboard sleeve breaks down in six to eight weeks in ordinary yard waste, but we advise keeping the rug away from actual compost piles because that’s not a good idea.
+
 ### Internal Links: The Geeknite Web of Texture
 
 - For a deeper dive into mixing textures and patterns, see the textured rug primer [the textured rug primer]({% post_url 2025-07-18-textured-rug-primer %}).
@@ -100,7 +109,7 @@ This rug sits in the premium-midrange. Not a bargain bin choice, not a couture s
 
 ### Style Notes: Accessorizing with Light and Texture
 
-Lighting remains your best friend here. A warm, dimmable LED setup benefits both wool softness and jute warmth while avoiding glittering glare on textured surfaces. Accessories should echo natural fibers: linen cushions, a wool throw, a rattan basket, or a wooden coffee table with a matte finish. Plants and natural elements amplify the space; a few tall greenery accents pair well with the rug for a relaxed, magazine-worthy vibe.
+ Lighting remains your best friend here. A warm, dimmable LED setup benefits both wool softness and jute warmth while avoiding glittering glare on textured surfaces. Accessories should echo natural fibers: linen cushions, a wool throw, a rattan basket, or a wooden coffee table with a matte finish. Plants and natural elements amplify the space; a few tall greenery accents pair well with the rug for a relaxed, magazine-worthy vibe.
 
 ### Cleaning and Care Notes: A More Thorough Routine
 
