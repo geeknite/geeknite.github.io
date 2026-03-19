@@ -1,18 +1,19 @@
 ---
-title: 'Sushi Go! - Ein Spiel voller Sushi-Spaß (aktualisierte Rezension)'
+title: 'Sushi Go! - Ein Spiel voller Sushi-Spaß (aktualisierte Rezension, Geeknite-Update)'
 date: 2026-03-19
 tags:
   - Brettspiel
   - Review
   - Sushi Go
   - Partyspiel
+  - Geeknite
 layout: post
 image: /assets/images/sushi-go-banner.jpg
 ---
 
-Sushi Go! ist eines jener kleinen Wunderwerke, das mit einfachsten Mitteln eine große Partystimmung erzeugt. Es ist locker, flott und gleichzeitig überraschend clever – perfekt für den Moment, in dem du spontan die Welt der Sushi-Kabinen neu ordnen willst, ohne erst eine Seminararbeit zu regeln. In dieser aktualisierten Rezension schauen wir tiefer hinein: Warum Sushi Go! so langlebig funktioniert, welche Feinheiten dich überraschen können, und wie du das Spiel am besten in deine nächste Spielrunde integrierst – mit der typischen Geeknite-Attitüde, aber ohne Nerd-Frust. Und ja, es bleiben die Witze über Nigiri, Maki und dumme Pudding-Karten nicht aus. Versprochen: Es ist lustig, nicht nervig.
+{% image /assets/images/sushi-go-banner.jpg 'Sushi Go Banner' %}
 
-{% image /assets/images/sushi-go-banner.jpg "Sushi Go Banner" %}
+Sushi Go! ist eines jener kleinen Wunderwerke, das mit einfachsten Mitteln eine große Partystimmung erzeugt. Es ist riffartig, flink und gleichzeitig überraschend clever – perfekt für den Moment, in dem du spontan die Welt der Sushi-Kabinen neu ordnen willst, ohne erst eine Seminararbeit zu regeln. In dieser aktualisierten Rezension schauen wir tiefer hinein: Warum Sushi Go! so langlebig funktioniert, welche Feinheiten dich überraschen können, und wie du das Spiel am besten in deine nächste Spielrunde integrierst – mit der typischen Geeknite-Attitüde, aber ohne Nerd-Frust. Und ja, es bleiben die Witze über Nigiri, Maki und dumme Pudding-Karten nicht aus. Versprochen: Es ist lustig, nicht nervig.
 
 ## Sushi Go! verstehen: Kurz & knackig
 Sushi Go! ist ein Kartensammel- und Draft-Spiel für 2 bis 5 Spieler. Ziel ist es, durch das geschickte Auswählen von Karten möglichst wertvolle Sushi-Kombinationen zu sammeln. Die Karten zeigen Nigiri, Maki-Rollen, Tempura, Dumplings, Pudding und weitere Leckereien – und jede Sorte belohnt dich mit Punkten, wenn du bestimmte Sets hast oder am Ende des Spiels in bestimmten Kategorien führst.
@@ -97,7 +98,7 @@ Die Bilder, Typografie und der leichte Stil arbeiten Hand in Hand, um das Spiel 
 Auf technischer Ebene ist alles sauber: Keine langen Regelübergänge, kein schweres Regelwerk, kein langes Aufräumen. Das Spiel lässt sich problemlos in eine geheime Küche deiner WG einführen und passt in eine kleine Tasche – perfekt für spontane Spielabende beim Freundeskreis.
 
 ## Fazit: Für wen ist Sushi Go! eine klare Empfehlung?
-- Klare Empfehlung für: Einsteigerinnen und Einsteiger, Familien, Studentenbuden mit wenig Platz, Freundeskreise, die kurze, interaktive Runden mögen. Wenn du ein Spiel suchst, das Schnelligkeit, Interaktion und eine freundliche Atmosphäre vereint, ist Sushi Go! eine ausgezeichnete Wahl.
+- Klare Empfehlung für: Einsteigerinnen und Einsteiger, Familien, Studentenbuden mit wenig Platz, Freundeskreise, die schnelle, interaktive Runden mögen. Wenn du ein Spiel suchst, das Schnelligkeit, Interaktion und eine freundliche Atmosphäre vereint, ist Sushi Go! eine ausgezeichnete Wahl.
 - Grenzen der Empfehlung: Wenn du eine tiefergehende Strategiesimulation suchst, ist Sushi Go! zu simpel. In größeren Gruppen, die in taktische Manöver eintauchen möchten, könnte es oberflächlich wirken. Aber genau darin liegt der Reiz: Es bietet schnelles, unkompliziertes Spielgefühl, immer wiederkehrend – perfekt für den lockeren Abend.
 
 Letztlich bleibt Sushi Go! eines jener Spiele, das sich selbst erklärt, aber trotzdem Raum für Entdeckung und kleine taktische Varianten bietet. Es macht einfach Spaß – und das ist das, was zählt, wenn du mit Freunden an einem lauen Abend die Karten mischst und dabei die beste Sushi-Kombination jagst.
