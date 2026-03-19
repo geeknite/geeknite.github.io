@@ -9,23 +9,26 @@ tags:
   - premium dice
   - fortune row
   - tabletop
+  - noir
+  - neon noir
+  - urban fantasy
 ---
 
-# City of Mist: Fortune Row - Premium Dice
+# City of Mist: Fortune Row - Premium Dice (Expanded Review)
 
 {% image fortune-row.jpg alt='Fortune Row premium dice' path='/assets/images/fortune-row.jpg' %}
 
 ![Fortune Row premium dice](/assets/images/fortune-row.jpg)
 
-City of Mist fans deserve dice that look as dramatic as their power statements, and Fortune Row premium dice set aspires to be the theatrical entrance music for table nights. This is not a ordinary bag of polyhedral numbers. It is a curated, high contrast, resin and metal ensemble designed to evoke the dreamlike neon noir of the City of Mist setting where myths are real and every roll might rewrite your backstory on the fly.
+City of Mist fans deserve dice that look as dramatic as their power statements, and Fortune Row premium dice set aspires to be the theatrical entrance music for table nights. This is not an ordinary bag of polyhedral numbers. It is a curated, high-contrast, resin and metal ensemble designed to evoke the dreamlike neon noir of the City of Mist setting where myths are real and every roll might rewrite your backstory on the fly.
 
-In this expanded review we dive deeper into what Fortune Row brings to the table, how it handles flavor and function, why it might be worth the price, and whether it slots smoothly into your group as easily as a well timed clue in a case file. We also offer practical tips for using the dice in actual campaigns and throw in a dash of nerdy humor because a game night benefits from a little levity.
+In this expanded review we dive deeper into what Fortune Row brings to the table, how it handles flavor and function, why it might be worth the price, and whether it slots smoothly into your group as easily as a well-timed clue in a case file. We also offer practical tips for using the dice in actual campaigns and throw in a dash of nerdy humor because a game night benefits from a little levity.
 
 ## Overview and unboxing: what you actually get
 
-Fortune Row ships as a premium dice bundle designed to evoke the vibe of a neon drenched city where legends walk the streets. Depending on the edition you buy, expect a core set of polyhedral dice including d4, d6, d8, d10, d12 and d20 in a color palette inspired by city lights. Look for electric blues, hot pinks, and acid yellows that pop under stage lighting. Some variants include a special branded d20 or etched d10s with symbols nodding to mythic themes of the game.
+Fortune Row ships as a premium dice bundle designed to evoke the vibe of a neon-drenched city where legends walk the streets. Depending on the edition you buy, expect a core set of polyhedral dice including d4, d6, d8, d10, d12 and d20 in a color palette inspired by city lights. Look for electric blues, hot pinks, and acid yellows that pop under stage lighting. Some variants include a special branded d20 or etched d10s with symbols nodding to mythic themes of the game.
 
-A small insert or booklet with a lore snippet and a few gameplay tips is often included to give GMs ideas for injecting narrative hooks into city wide mysteries. The packaging tends to be sturdy and the finish aims at premium quality. If you display your dice, the finish and color transitions can be striking under the right glow. If you are a table gamer who cares about feel and roll rhythm, Fortune Row shouts that you mean business.
+A small insert or booklet with a lore snippet and a few gameplay tips is often included to give GMs ideas for injecting narrative hooks into city-wide mysteries. The packaging tends to be sturdy and the finish aims at premium quality. If you display your dice, the finish and color transitions can be striking under the right glow. If you are a table gamer who cares about feel and roll rhythm, Fortune Row shouts that you mean business.
 
 In addition to the physical dice, you may find a soft pouch or molded tray and sometimes a compact display stand. The extras feel thoughtful rather than tacky, which helps keep the mood aligned with the noir city you’re trying to roleplay. If you want to turn a night around a single dramatic roll, Fortune Row makes that moment feel earned.
 
