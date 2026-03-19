@@ -10,7 +10,7 @@ tags:
   - geeknite
 ---
 
-City of Mist: Fortune Row is the kind of micro-arc that makes you believe the city itself is a living NPC. It tilts the world toward myth with a wink and a nod, then hands you a pocket full of clues you can barely fit into your coat. This guide aims to help players and the Master of Ceremonies (MC) breathe life into Fortune Row, weaving a story that feels intimate at the table but expansive in implication. Expect neon rain, fortune-teller prophecies that may or may not come true, and a cast of NPCs who all believe they’re the hero of a bigger story.
+City of Mist: Fortune Row is the kind of micro-arc that makes you believe the city itself is a living NPC. It tilts the world toward myth with a wink and a nod, then hands you a pocket full of clues you can barely fit into your coat. This updated guide aims to help players and the MC breathe life into Fortune Row, weaving a story that feels intimate at the table but expansive in implication. Expect neon rain, fortune-teller prophecies that may or may not come true, and a cast of NPCs who all believe they’re the hero of a bigger story.
 
 ## Overview: What is Fortune Row?
 Fortune Row is a street-level, clue-driven City of Mist scenario built around a chain of fortunes that ripple through a single night (or a tightly scoped arc across a few sessions). The premise leans into the city as a character: a metropolis that punishes arrogance, forgives a few missteps, and occasionally gives good odds to those who listen to the whispers between the ads on the subway.
@@ -43,8 +43,15 @@ Fortune Row invites flexible mythoi that mesh with a street-level investigation.
 - Trickster (Manipulator): A mythic shape-shifter who negotiates with players through bargains and puzzles. They may act as a dealer, a courier, or a rival investigator.
 - Builder of Fate (Maker): A mythoi who believes in shaping outcomes—sometimes outside the law, sometimes inside the mythic rules of the city.
 - Mystic Archivist (Knowledge/Guardian): Holds the city’s oral history and a few critical clues that could change the course of fortune if unlocked.
+- Cipherwright (Information Broker): A tech-savvy mythoi who trades in secrets and encryption.
 
 When building a party, aim for a balance of investigators, social manipulators, and a mystery quarterback who helps connect disparate clues. Fortune Row thrives when players feel that every action has a ripple effect through the entire night’s web of fortunes.
+
+### Expanded Mythoi Options
+If your group skews toward social intrigue or noir vibes, consider adding:
+- Night Gardener (Dream-smith/Guide): Helps plant or prune dream clues that bloom into real-world consequences.
+- Echo Broker (Memory Dealer): Trades memories for favors but risks erasing a piece of the self.
+- Fatewright (Scribe of Outcomes): Writes “drafts” of possible futures and negotiates with players for preferred endings.
 
 ## Plot Structure: Beat Sheets and Scene Flow
 Fortune Row is designed to be played in scenes that interlock like a puzzle box. Here is a flexible beat sheet you can adapt to your group:
@@ -55,7 +62,7 @@ Fortune Row is designed to be played in scenes that interlock like a puzzle box.
 - First Clues: A set of three clues emerges—each connected to a different mythoi and each promising a distinct piece of the truth if the players pursue it.
 
 ### Act II: The Web Expands
-- Competing Interests: Factions or NPCs also chase the same clues, creating a race that forces players to decide who to trust and which paths to follow.
+- Competing Interests: Faction NPCs also chase the same clues, creating a race that forces players to decide who to trust and which paths to follow.
 - Rising Stakes: The consequences of ignoring or mishandling a fortune become tangible—loss of memory, a temporary curse, or a debt that must be paid before dawn.
 - Midpoint Twist: A seemingly minor clue flips into a major revelation that redefines motives and forces players to reconsider their goals.
 
@@ -63,6 +70,10 @@ Fortune Row is designed to be played in scenes that interlock like a puzzle box.
 - The Big Decision: Players decide whether to honor the fortune, break the rules to escape it, or make a new pact with a mythoi who may not be trustworthy.
 - Climax: A final reveal ties the row to a city-wide consequence—perhaps a ritual that could reshuffle the city’s power structure or unlock a hidden mythic thread in the players’ lives.
 - Aftermath: A reflective coda that shows the cost of their choices and sets up a potential continuation for future sessions.
+
+### Act IV: Aftermath and Echoes
+- Optional Epilogue: A short coda that offers a window into the players’ lives after Fortune Row, maybe showing how a new debt or new mask reshapes their daily routines.
+- Tailored Endings: The MC can tailor endings to individual players or groups to emphasize personal mythic themes.
 
 ## Investigations: Clues, Clocks, and Ciphers
 Fortune Row thrives on puzzle-like clues that require social interaction, deduction, and creative problem-solving. Consider distributing clues in three categories:
@@ -78,6 +89,7 @@ A successful Fortune Row session needs memorable, thematically tight NPCs. Here 
 - Red Ledger, the City’s Banker of Fates: A banker who trades in arcane IOUs. He knows everyone’s debts but never reveals his own.
 - The In-Between Tiefling: A courier who delivers fortunes between rival factions. They’re loyal to whoever pays the most and never reveal their true allegiance.
 - The Whispering Bartender: Keeps memories of customers in a bottle in the back room. The bartender’s memory can reveal crucial past events if someone earns their trust.
+- The Velvet Librarian: A keeper of ancient yore who can unlock a debt ledger by reciting a strange poem.
 
 Each NPC should have a personal stake in the row’s outcomes. Give them a one-line goal and a secret that shapes how they interact with the players.
 
@@ -108,6 +120,24 @@ As dawn approaches, a final bargain appears: either seal the alleged fate by gif
 - Obstacles: The city itself seems to push against your decision, offering temptations or distractions.
 - Key twist: Refusing the bargain triggers a different player-driven ending that could set up a future arc.
 
+### Scene 5: The Neon Archive
+A hidden archive beneath a neon-lit metro station holds recordings of past fortunes. Access requires a secret phrase gathered from three earlier clues. The scene rewards social deduction and careful listening.
+- Objectives: Retrieve a recording that confirms the row’s ultimate truth.
+- Obstacles: Security drones and a guardian who changes the archive’s contents when someone lies in front of it.
+- Key twist: The archive contains a memory that redefines a player’s relationship to the row.
+
+### Scene 6: The Clockmaker’s Arrival
+A mysterious clockmaker appears at dawn, offering to “set the clocks” in exchange for a debt. The tables turn as the clock’s chimes reveal truths that were meant to stay hidden.
+- Objectives: Determine what is owed and negotiate terms of repayment.
+- Obstacles: The clock’s chimes accelerate time in the room, altering actions and outcomes.
+- Key twist: The clock itself is a mythoi artifact binding players to a new path.
+
+### Scene 7: The Echo Market (Optional Evening Hook)
+A late-night flash market where prices are paid in memories, favors, or small lies. A trader offers a treaty that seems profitable but locks players into a long-term commitment.
+- Objectives: Decide whether to strike the treaty, and assess the cost to personal mythoi masks.
+- Obstacles: The market shifts texture—the goods offered today may vanish tomorrow.
+- Key twist: The treaty reopens an old wound the players thought was closed.
+
 ## Clues, Consequences, and Thematic Payoffs
 Fortune Row thrives on a delicate balance between risk and reward. Each clue should offer a payoff that touches at least two themes: truth vs. myth, debt vs. gain, city vs. self. Here are guidelines for crafting thematic payoffs:
 - Tangible payoff: A clue grants a character a practical advantage (better access to a location, a new contact, or a minor mythoi boon).
@@ -117,10 +147,12 @@ Fortune Row thrives on a delicate balance between risk and reward. Each clue sho
 Keep a small, reusable clock on the table to track time-sensitive elements, like the approach of dawn or the closing of a pact. The ticking clock adds tension and helps pace the session toward a satisfying conclusion.
 
 ## The Ending: How Fortune Row Concludes
-Fortune Row can end in several ways depending on player choices and the debt they accept or refuse to honor. Here are three plausible endings:
+Fortune Row can end in several ways depending on player choices and the debt they accept or refuse to honor. Here are five plausible endings:
 - The Debt is Paid: The players settle the row’s core debt with a dramatic bargain. The city shifts a little as a new balance of power emerges. The players gain a lasting mythic benefit that helps in future adventures.
 - The City Refuses to Break: The row collapses into chaos as a last-ditch ritual goes wrong. The players must improvise a rescue that tests their bonds and leadership. Losses are real, but so are new opportunities for next time.
 - The Masks Crack: A bold choice reveals the true face of at least one player’s mask. Personal arcs explode into the open, creating a powerful cliffhanger that invites a sequel of sessions exploring what players really want from Fortune Row.
+- The City Remembers: The row survives, but the city’s attention turns to a new mythoi or a new debt, setting up a long arc that fans of mythic detective work will savor.
+- The Quiet Ending: The table discovers a private truth about a character that reframes earlier choices, offering a cathartic, character-driven closure rather than a world-shaking finale.
 
 ## Play Tips for the MC
 - Start with mood, not mechanics: Set the tone with sensory details, then layer in clues and conflict.
@@ -156,6 +188,8 @@ If you’re looking for a City of Mist session that sings with atmosphere, Fortu
 
 Bold final thought: Fortune Row isn’t just a story about luck; it’s a reminder that we are all walking a street paved with stories, some of which we’ve been told to forget. If you tell the right ones, you might just redraw the map of your own myth.
 
-**Affiliate note: Support Geeknite by checking out our recommended gear and books through our affiliate links.** 
+Affiliate note: Support Geeknite by checking out our recommended gear and books through our affiliate links. 
 
-**Buy the Fortune Row sourcebook here: https://geeknite.shop/aff/city-of-mist-fortune-row**
+Buy the Fortune Row sourcebook here: https://geeknite.shop/aff/city-of-mist-fortune-row
+
+**Shop Fortune Row gear now and fuel your next session: https://geeknite.shop/aff/city-of-mist-fortune-row**
