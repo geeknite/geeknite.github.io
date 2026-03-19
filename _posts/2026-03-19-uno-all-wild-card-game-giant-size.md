@@ -1,5 +1,5 @@
 ---
-title: UNO All Wild Card Game Giant Size - A Giant Step into Card Chaos (Updated Giant Review)
+title: UNO All Wild Card Game Giant Size - Expanded Giant Review
 date: 2026-03-19
 tags:
   - board-games
