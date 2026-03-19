@@ -1,12 +1,13 @@
 ---
-title: 750PCS Poker Chip Set with Case, Cards, and Dealer Buttons — Geeknite Review
-date: 2026-03-19
+ttitle: 750PCS Poker Chip Set with Case, Cards, and Dealer Buttons — Geeknite Review
+date: 2026-03-25
 tags:
   - geek
   - gaming
   - poker
   - gear-review
   - budget-friendly
+  - home-game
 ---
 
 ## Overview
@@ -15,7 +16,7 @@ If you’ve ever tried to organize a home poker night and ended up with more cha
 
 In Geeknite fashion, we don our lab coats (figuratively, mostly) and put the chips under the microscope. What you get here is a big box of 750 poker chips, a sturdy carrying case with foam inserts, two decks of cards, and four dealer buttons. It’s the kind of bundle that says, We’re serious about poker, but we’re also serious about not vacuuming up a thousand little plastic chips from the sofa cushions every time someone shouts “All in!”
 
-![Poker Chip Set in Case](/assets/poker-chip-set-in-case.jpg)
+![Poker Chip Set in Case]({{ '/assets/poker-chip-set-in-case.jpg' | relative_url }})
 
 If you’re curious about the nitty-gritty, you’ll find a mix of denominations that cover the usual bases for casual home games, plus a case that actually makes sense to slam shut without your neighbor’s cat getting involved in the drama. It’s not the luxury stuff you’d take to a live casino, but it doesn’t pretend to be. It’s the reliable workhorse that handles the night you’ve scheduled as “Let’s pretend we’re adults and eat excuses for dinner.”
 
@@ -50,7 +51,7 @@ From a design standpoint, color accuracy is important. You don’t want a chart 
 
 For the geeks among us, it’s not just about the chips. It’s about the setup, the tactile feedback, and the soundscape of a smooth roll of chips across the table. This set delivers a satisfying clack, not the toy-like rattle you hear from cheaper bundles. It’s enough to elicit a small grin from even the most stoic player when the pot climbs and the tension rises.
 
-![Chip Closeup](/assets/poker-chip-closeup.jpg)
+![Chip Closeup]({{ '/assets/poker-chip-closeup.jpg' | relative_url }})
 
 If you’re curious about how the chips feel for different players, you can also check the tactile experience blog post we’ve linked to in our “See also” section at the end. The goal is to balance function and form—your chips should be easy to see, easy to grab, and easy enough to throw into a case that looks like you mean business.
 
@@ -135,4 +136,3 @@ In the grand tradition of “good-enough-for-the-average-night, with a dash of n
 > Final verdict: A solid, budget-friendly poker night starter kit that looks decent on camera, travels well, and keeps the chaos at a manageable level. It’s a practical choice for casual players who want to feel like they’re playing on a real table without selling a kidney to fund it.
 
 **Buy now (affiliate): https://amzn.to/3ExampleAffiliateLink**
-
