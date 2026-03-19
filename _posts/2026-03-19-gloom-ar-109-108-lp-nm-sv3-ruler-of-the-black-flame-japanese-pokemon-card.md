@@ -1,5 +1,5 @@
 ---
-title: Gloom AR 109/108 SV3 Ruler of the Black Flame (Japanese Pokémon Card) — Expanded Review
+title: Gloom AR 109/108 SV3 Ruler of the Black Flame (Japanese Pokémon Card) — Expanded Review 2.0
 date: 2026-03-19
 tags:
   - Pokemon
@@ -10,9 +10,11 @@ tags:
   - Geeknite
   - Artwork Rare
   - SV3
+  - Gloom
+  - Flame
 ---
 
-## Gloom AR 109/108 SV3: Ruler of the Black Flame — an expanded Geeknite deep dive
+## Gloom AR 109/108 SV3: Ruler of the Black Flame — Expanded Geeknite Deep Dive 2.0
 
 If you ever wanted a card that reads like a fantasy novel title and doubles as a mood board for late-night tabletop escapades, this Gloom AR 109/108 SV3 Japanese print is your new obsession. The name alone conjures a dramatic image: a gloom-tinted Pokémon brandishing a flame that refuses to quit, wearing the confidence of a villain who just discovered a spicy new spell. And yes, we are talking about a rarity marked AR, a set label SV3, and the absolutely theatrical title Ruler of the Black Flame. In this expanded review we go long-form on flavor, foiling, rarity, playability, and why this card shows up not just in decks, but in collectors’ portfolios as a social statement about taste, risk, and the primal joy of shiny things.
 
@@ -38,7 +40,7 @@ To the casual observer, all this means is you have a card that looks like it sho
 
 If you want to see what the card looks like, here is a representative image from the kind of promo art that makes this family of cards desirable. Image serves as a mood board for what you are signing up for:
 
-{% include image.html src="/assets/images/gloom_ar_109_108_jp.jpg" alt="Gloom AR 109/108 SV3 JP" %}
+{% include image.html src='/assets/images/gloom_ar_109_108_jp.jpg' alt='Gloom AR 109/108 SV3 JP' %}
 
 For those who enjoy a little lore with their collecting, this Gloom is pitched as the ruler of a tiny inferno, a flame that whispers to your dark side while still obeying the friendly rules of the game. The art direction leans into the melancholy aura that Gloom often carries, but with a twist: instead of a simple melancholy, we get a character that exudes controlled power. The Japanese edition is known in many circles for its cleaner holo patterns and sometimes bolder contrasts, which makes the black flame look more like a living thing than a painted effect.
 
