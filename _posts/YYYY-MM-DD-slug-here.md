@@ -1,143 +1,131 @@
 ---
-title: 'Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth'
+title: 'Trio Family Card Game Strategy: 3–6 Players, Ages 8+, 2026 Game of the Year'
 date: 2026-03-19
 tags:
-  - finance
-  - wealth
-  - mindset
-  - self-help
+  - games
+  - board games
+  - family
+  - strategy
   - geeknite
-  - books
-  - nerdomics
+  - review
+  - tabletop
 ---
 
-![Millionaire Mind Cover](https://example.com/assets/images/millionaire-mind-cover.jpg)
+![Trio Family Card Game Cover](https://example.com/assets/images/trio-card-game-cover.jpg)
 
-## Introduction: Money, Mindset, and a Dash of Geek-Cunegonda
-If wealth were a spell in a tabletop RPG, the real dungeon would be your own subconscious. Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth, by T. Harv Eker, serves as a guidebook to the hidden mechanics that determine how much money you attract, how you spend it, and whether you can resist the urge to buy a shiny new gadget when your bank account says no. This isn’t a get-rich-quick pamphlet; it’s a toolkit for rewiring your inner dialogue about money, your identity as a spender or saver, and the rituals that turn intentions into outcomes. And yes, it’s sprinkled with nerdy analogies that will make your inner game manager nod in grim satisfaction.
+## Introduction: Game Night With a Trio of Triumphs
+If tabletop gaming had a family sitcom, Trio would be the warm, chaotic cousin you actually want at the table. Trio Family Card Game is pitched for 3–6 players, ages 8+, with quick rounds that feel like a carnival ride: fast, colorful, and somehow teaching you more about risk assessment than a long-form poker hand ever would. In 2026, Trio is quietly staking its claim as a “Game of the Year” pick for families who want bite-sized strategy without requiring a chess master's attention span. It’s a game that respects both the kids' curiosity and the adults’ need for a little brain-sweat without causing a kitchen-table mutiny.
 
-In true Geeknite fashion, we’re not just going to skim the surface. We’re going to dissect the mind stuff like a lab rat with a microscope, then solder in practical moves you can actually pull off between coffee refills and late-night boss fights. The promise is simple: if you change the software running in your head, the hardware of your finances tends to follow. So, strap in, adjust your mental firewall, and prepare for a quest that begins where your budgeting app ends: with your beliefs, your identity, and your daily habits.
+Here at Geeknite, we don’t just skim the rulebook and call it a day. No, we play, we joke, and we nitpick the tiny edges that turn a good game into a great one. Trio hits a sweet spot: straightforward setup, brisk turns, and enough strategic depth to spark discussion between rounds rather than a post-game existential crisis. It’s the kind of game where you can introduce a cousin who’s never played anything beyond a smartphone, and still walk away with a mutual respect for card-counting instincts—without the math homework vibes. Strap in as we explore why Trio matters for mixed-age groups, how to maximize your odds without turning the table into a math lab, and how to read the board like a seasoned fantasy tactician.
 
-> For the curious: this book is less about equations and more about the emotional and identity scripts that drive money behavior. It’s not a “how to print money” manual; it’s a “how to think like money thinks” manual. If you’re allergic to mindset work, you’ve been warned—this one bites back with reflection questions, not only spreadsheets.
+> Quick disclaimer for the curious: Trio isn’t a heavy economic sim or a solo hyper-optimization gauntlet. It’s a family-friendly strategy card game that rewards smart timing, memory management, and playful deception without turning your living room into a courtroom.
 
-## The Core Premise: Wealth Starts in the Mind
-### Beliefs shape your balance sheet
-One central premise in Eker’s work is that money results from the intersection of your beliefs about wealth and your actions. If you view money as scarce, you’ll hoard it, worry about it, and often misallocate resources when it matters. If you see money as abundant and controllable, you’re more likely to take calculated risks, invest, and allocate toward growth. It’s not magic; it’s the psychological wiring behind every impulse purchase, every long-term investment, and every debt you decide to tackle or delay.
+## The Core Premise: Card Tactics Meet Group Dynamics
+### What Trio actually is (and isn’t)
+Trio centers on collecting and playing sets of cards to earn points, with special actions that can flip momentum between turns. There are three key levers that keep the game lively:
+- Card drafting and set-building: players grab cards from a shared pool and assemble sets that align with scoring conditions.
+- Turn-based action economy: each turn offers choices that ripple through the round, influencing what your neighbors can or cannot do on their next turns.
+- Variable player interaction: you’ll be trading glimpses of intent, bluffing via card plays, and contesting control of the table’s value-rich cards.
 
-Think of it as a game mechanic: your beliefs grant you a finite or abundant resource pool. The more you understand how you interpret money, the better you can plan your actions accordingly. This is not about pretending money is endless; it’s about reframing scarcity into strategic resource management. In Geeknite terms, it’s upgrading your character sheet from “newbie hoarder” to “savvy strategist.”
+Trio’s packaging is bright and modular, with friendly icons that make misreads unlikely for younger players, while still offering meaningful decisions for grown-ups or veteran gamers. The quick playtime—think 15–25 minutes per session—means you can actually fit a tournament-style night into a busy family calendar without sacrificing the vibe of a longer campaign.
 
-### Identity: money as part of who you are
-Identity is the second piece of the puzzle. If you identify as someone who can’t manage money, you’ll unconsciously sabotage yourself. If you see yourself as a capable steward of resources, you’ll start to behave in ways that support that self-image. This is not merely motivational pep talk; it’s a practical rebranding. The moment you say, “I am someone who plans and saves,” you unlock a new set of decisions—automatic transfers, investment contributions, and a tolerance for delayed gratification.
+### Components and quality
+Expect sturdy cards with a tactile feel that begs to be shuffled again and again. The color-coding and suit-like symbols help players—especially younger siblings—spot patterns quickly. The rulebook is concise but not sparse: it gives you the mechanics, then a handful of optional rule tweaks to vary the experience without complicating the core loop.
 
-Eker argues that wealth is a translation of your inner story into outer life. Your actions become consistent with the story you tell yourself about money. Your mental conversation becomes a user manual for how you treat your income, your expenses, and your future self. In our Geeknite universe, this is the moment when your inner NPC (non-player character) learns to walk with swagger instead of shamble with shame.
+## Setup, Flow, and the Rhythm of a Round
+### Setup essentials
+- Shuffle the deck and deal each player a starting hand (usually 4–5 cards, depending on player count).
+- Place the draw pile in the center, and reveal the first round’s objective card(s) that hint at which sets earn the most points.
+- Decide the score target for the session (e.g., first to 15–20 points) to keep rounds tight and another layer of pressure on endgame planning.
 
-### Emotional money management: the budget of feelings
-The third pillar is emotional budgeting. It’s not just about dollars and cents; it’s about the emotional currency you invest in expenses. Do you reward yourself for a successful week with a big, impulsive purchase, or do you reward the future you with a well-timed investment? This is where habits—lightweight but mighty—become the actual power-ups.
+### Turn structure at a glance
+1) Draw phase: pick a card from the pool or top of the deck. 2) Play phase: lay down a set or use a special action on your card. 3) End-of-turn: discard down to a hand-size limit and pass the play to the next player.
 
-A practical takeaway: pair every financial decision with a mini emotional audit. Ask yourself: What feeling am I chasing with this purchase? Am I seeking comfort, status, or security? Can I get a similar emotional hit from a cheaper alternative or a different kind of activity? The goal isn’t to eliminate pleasure but to align pleasure with long-term outcomes rather than immediate gratification.
+The mechanic rewards planning without punishing mistakes too harshly. You’ll often see players pivot from an aggressive, “score now” posture to a more defensive stance as the round’s end draws near. That agile swing is what keeps Trio engaging round after round.
 
-## The Wealth Files: The Nerdy Cheat Sheet for Wealth
-Eker introduces a set of wealth files—core beliefs and patterns that differentiate the wealthy from the poor or middle class. While the original book lists 17 files, we’ll summarize several pivotal ones that commonly show up in reader discussions and our Geeknite lens.
+### Scoring and endgame incentives
+Points come from completed sets, with some cards offering bonuses for completing multiple sets in a single round or for meeting parity conditions (matching color quotas, timing a set with a neighbor’s exposure, etc.). The endgame thrill comes from timing your big play just as an opponent’s victory look slips away—without triggering a table-wide meltdown.
 
-### Wealth File 1: Rich people believe in abundance, not scarcity
-Rich thinkers treat money as a renewable resource, with inflows and outflows that can be directed toward growth. In practice: you automate savings and investments, so your future you benefits even when your present self procrastinates. This aligns with the classic “pay yourself first” habit, which is less a moral stance and more a mechanical advantage.
+## The Strategy Playbook: 5 Techniques to Level Up Your Trio
+### Strategy A: The Lightweight Builder (for 3–4 players)
+- Focus on predictable sets with low risk. Build a couple of “safe” sets each round, ensuring you’re never completely exposed to a swing in cards you hold.
+- Use your early turns to map which cards are in circulation and which sets are realistically reachable by the table’s average hand size.
+- Reserve one card from your hand as a potential bluff or misdirection card—something that can fake a threat or reveal you’re chasing a different objective entirely.
 
-### Wealth File 4: Rich people focus on opportunities, not obstacles
-A profitable mindset is not about ignoring risk; it’s about reframing risk as information. The more you learn from risk, the better you become at choosing enablers instead of blockers. In nerd terms: you run a Monte Carlo simulation on your financial plan, then move forward with calibrated confidence.
+### Strategy B: The Negotiator (for 4–6 players)
+- In multi-player games, the politics of negotiation become a tiny sport. Exchange information through noncommittal plays and quick verbal nudges, always keeping your real intentions one step ahead of the table.
+- Offer seemingly harmless trades that actually push you toward a critical set while nudging others toward suboptimal choices.
+- Remember that in Trio, signaling intent is as valuable as the card you actually play—your rivals will act on what you imply nearly as much as on what you reveal.
 
-### Wealth File 9: Rich people see money as a tool, not a trophy
-Money is a tool that can amplify your values and life goals. If your objective is to fund startups, education, travel, or family security, money becomes a lever. The trick is to connect every dollar to a narrative you care about, rather than letting dollars exist as a lonely scoreboard.
+### Strategy C: The Tempo Controller (endgame timing)
+- The key to victory is not just what you collect but when you claim it. If you can finish a powerful set right as the endgame nears, you’ll swing the victory in a single decisive moment.
+- Use early rounds to set a pace that other players try to match, then shift gears abruptly when you have a long-term, difficult-to-counter combination nearly ready.
+- Don’t be afraid to pass on a safe scoring opportunity if delaying it creates a more explosive finish for you later.
 
-### Wealth File 14: Rich people model prosperity, not scarcity in daily rituals
-If the morning routine includes a quick check of investments, a $5 lunch budget, and a 15-minute review of long-term goals, you’ve started modeling prosperity. Consistency compounds faster than a “big jump” approach—paradoxically, consistent small steps tend to outpace occasional heroic efforts.
+### Strategy D: The Pattern Reader (memory and deduction)
+- Track which cards have likely moved through the pool based on what’s been drawn, discarded, and played. If you can deduce which suits or card types are thinning, you can anticipate opponents’ paths.
+- Sit on a card or two that act as “wildcards” in a few potential sets; the moment someone telegraphs their target, reveal the card at the right moment to stop their plan in its tracks.
 
-To keep this digest friendly for the time-strapped geek, we’ll leave the full 17 files for your reading queue and instead offer a structured way to internalize them: pick 3 files that feel most relevant to your current situation, write a 5-minute reflection on each, and implement one micro-habit per week that aligns with those files.
+### Strategy E: The Family-First Mode (age-appropriate plays)
+- For younger players, emphasize collaboration and social play. Praise clever moves publicly and create safe spaces for experimentation (no harsh guilt-trips for misplays).
+- For older players at the same table, keep the fun non-threatening by balancing competitive urges with shared laughter and quick debriefs after rounds. Trio scales with tone as well as with player count.
 
-## Practical Exercises: Rewiring Your Inner Money Engine
-If you want to turn theory into practice, here are concrete exercises you can start today. Each exercise is designed to be doable in a coffee break or between boss fights.
+## The Geeknite Armor: Routines That Make Trio Sing
+### Quest-like trackers for families
+Use a simple quest log to jot down your target sets, a “Next Move” cue, and a weekly win count. The goal is to convert memory into momentum without turning the table into a spreadsheet battlefield.
 
-### Exercise 1: The Money Script Journal (15 minutes daily)
-- Write a short paragraph about your current money story. What did you learn about money from family, school, or society? Is it helping you today?
-- Reframe one negative belief into a proactive alternative. For example: instead of “I’m bad with money,” write “I am learning to manage money with science, discipline, and a dash of curiosity.”
+### The “three-bucket” approach to scoring
+- Needs: basic cards necessary to keep gameplay flowing.
+- Wants: cards that would accelerate your score with minimal risk.
+- Growth: cards that push you toward endgame scoring and longer-term deck control.
+Automating awareness of these buckets helps you maintain a steady, board-friendly strategy without overthinking every move.
 
-### Exercise 2: Automatic Wealth Flow (monthly)
-- Set up automatic transfers to savings and investments. Start with a small, sustainable amount that doesn’t produce anxiety. The goal is consistency, not martyrdom.
-- Create a simple rule: money that arrives unexpectedly (a tax refund, a gift) goes first to a savings bucket, then to a fun splurge, then to a learning or investment line.
-
-### Exercise 3: Visualize Your Future Self (10 minutes weekly)
-- Close your eyes and imagine the person you want to be in, say, 5 years. What actions is that person taking today? What risks are they embracing? Jot down three concrete behaviors that align with that future identity.
-- Create a quick visual board or a one-page summary of this future self. Place it where you’ll see it daily (computer monitor, fridge, or game shelf).
-
-### Exercise 4: The Gratitude-and-Progress Log (daily)
-- End each day by noting one financial win (even a tiny one) and one thing you learned that could improve your next decision. It’s a humility diary for money, not a brag diary for the ego.
-
-### Exercise 5: Money Talk with Your Inner Circle (weekly)
-- Schedule a short, non-judgmental money chat with a trusted friend or partner. Share goals, challenges, and progress. The social accountability acts as a multiplier for habit formation.
-
-## The Geeky Armor: Tools and Routines That Help
-### Habit trackers that double as quest logs
-A simple habit tracker app or a notebook can become your “quest log”—each day, you check off money-related tasks. It’s the same dopamine loop you get from leveling up in a game, only this time the XP translates into real-world security and options.
-
-### The finance stack: automation, education, and reflection
-- Automation: set up automatic payments and contributions. Reduce decision fatigue by removing recurring choices from your plate.
-- Education: devote a weekly block to learning finance basics, whether it’s reading, watching a short lecture, or following a credible finance channel.
-- Reflection: weekly reviews to adapt your plan based on results and new information. This keeps your strategy flexible and resilient.
-
-### Reading companions: nerdy tie-ins
-If you’re into our brand of nerdiness, pair your reading with related guides from our archives:
+### Reading companions for nerdy families
 - {% post_url 2026-02-20-geeknite-party-night-framework %}
 - {% post_url 2026-01-15-geeknite-board-game-night-ultimate-guide %}
 
-External resources you might find useful: https://www.forbes.com and https://www.investopedia.com for foundational money concepts, always read with a critical, skeptical eye—your inner economist deserves it.
+External resources you might find useful: https://boardgamegeek.com for community reviews and play counts; https://www.gamesradar.com for quick family-friendly picks. As always, approach recommendations with a curious, skeptical eye—your strategy deserves it.
 
-## The Reading Experience: Wrinkles, Winks, and What It Feels Like to Change Your Mind
-Reading Secrets of the Millionaire Mind is less about the exact numbers on a balance sheet and more about the daily psychology that turns numbers into reality. The prose walks a line between motivational coaching and practical psychology, with plenty of examples that feel like mini side-quests in a larger game. If you’re a reader who loves process, you’ll appreciate the step-by-step tone and the emphasis on identity shifts. If you’re here for a pure, data-driven blueprint, you might find yourself flipping between “this is helpful” and “where are the specific investment picks?” The book isn’t a stock-picking manual; it’s a blueprint for designing your relationship with money so you can choose better actions consistently.
+## The Experience Matrix: What It Feels Like to Play Trio
+Playing Trio is a brisk, social experience. It’s not about warping math into victory but sculpting a path through information asymmetry and timing. You’ll feel your brain warming up as you notice patterns, then cool down as you execute a well-timed finish. For families, the most delightful moment is when a kid declares victory in a way that makes the grown-ups cheer because the arc of the round followed a narrative you all enjoyed. For adults, it’s the quiet satisfaction of knowing you pulled off a bluff that wasn’t obvious to the table—without making anyone feel bad about losing.
 
-In true Geeknite style, the book occasionally leans into storytelling and metaphors that land with humor and heart. There are moments that land like a well-timed punchline in a stand-up set, and other moments that feel like a late-night, honest conversation with a friend who wants you to win. The balance between practical exercises and mindset philosophy makes this a book that you can actually practice rather than simply read.
+If you’ve ever played a light deck-builder or a quick party game, Trio slots into that niche but adds a scholarly edge: you’re encouraged to plan a few moves ahead while staying adaptable enough to pivot mid-round when the table’s energy shifts.
 
-## How to Read This as a Geeknite Guide
-- Start with the identity work: spend a few days journaling on the money stories you learned as a kid or from your culture. The real treasure is recognizing patterns that no longer serve you.
-- Move to the habit formation part: implement one micro-habit per week and test its impact. Resist the urge to overhaul your entire financial life in a single sprint. Small, reliable steps outperform heroic but sporadic efforts.
-- Pair theory with hands-on practice: automate what you can, and then measure the impact. Use dashboards or simple spreadsheets to visualize progress over time. If you like analog tools, a whiteboard with the month’s income, savings target, and debt payoff progress can be a satisfying in-person manifestation of your internal reset.
-
-### A quick nerdy aside: money as a resource in simulations
-If you’ve played RPGs or strategy games, think of money as a resource that fuels your long-term build. Your “avatar” gains skills through disciplined spending and saving, unlocking upgrades like debt freedom, investment options, and financial security. The more you practice, the more you unlock. The endgame isn’t a number; it’s choice—having control over your time, your pursuits, and your opportunities.
-
-## Pros, Cons, and A Balanced Verdict
+## Pros, Cons, and a Balanced Verdict
 Pros:
-- Clear emphasis on mindset and identity as drivers of financial outcomes
-- Practical exercises that can be implemented with modest daily effort
-- A sane approach to balance between enjoyment and discipline
-- Useful habit-building framework that aligns with nerd-friendly routines
+- Short playtime that fits busy family nights
+- Clear but meaningful decisions across player counts
+- Beautifully accessible to younger players while offering subtle strategic depth for adults
+- Strong social interaction that emphasizes fun and sportsmanship
 
 Cons:
-- Not a magic wand; expects reader engagement and ongoing practice
-- Some readers may crave a deeper dive into specific investment strategies (which this book doesn’t primarily aim to deliver)
-- Occasional repetitive framing if you skim sections in a single sitting
-
-### The final verdict for the Geeknite crowd
-If you’re exploring wealth as a game you actually want to win, Secrets of the Millionaire Mind offers a sturdy playbook. It helps you reframe money from a taboo topic to a practical domain you can master with daily decisions. It’s not a light read if you’re hoping for quick wins, but it’s a durable guide for long-term growth, aligned with a lifestyle of curiosity, experimentation, and personal responsibility. For the nerd who wants to combine self-development with real-world results, this book is a worthy companion on the shelf of your financial quests.
-
-## Keys to Application: Turning Theory into Daily Practice
-- Start with your money story. Write a short narrative about where you think money comes from and what you deserve. Then rewrite it to reflect ownership, capability, and growth.
-- Establish one habit, one week at a time. It could be a weekly budget check, a daily savings increment, or a brief reflection on financial goals.
-- Use a “three-bucket” approach to money: needs, wants, and growth. Automate allocations so your future self isn’t asking for permission every month.
-- Build a learning loop: identify one finance topic per month, learn the basics, and apply what you’ve learned in a practical way.
-- Engage your tribe: discuss goals with a partner or friend, and schedule accountability sessions that are light, friendly, and focused on progress rather than perfection.
-
-## Final Thoughts and Final Recommendation
-Secrets of the Millionaire Mind offers a thoughtful, practical, and sometimes entertaining exploration of how inner beliefs shape outer wealth. It is best approached as a companion for people who want to craft a more intentional relationship with money, not as a script for overnight riches. If you’re ready to invest in your own mindset as the first asset, this book can serve as a reliable map for the terrain. It’s the kind of read that rewards you with repeated pass-throughs: each read uncovers a new layer of insight, and each layer invites a small but meaningful action.
-
-If you’re after a nerd-friendly primer on wealth that respects your time, loves structure, and doesn’t pretend that money is just a matter of luck, this is a strong pick. It won’t turn your credit score into a galaxy-bright star in one night, but it will give you the tools to steer the spaceship with confidence.
-
-- Pros: Thoughtful integration of mindset and money actions; practical exercises; accessible for readers new to personal finance and edged for seasoned web-slinger investors alike.
-- Cons: Requires ongoing effort; not a substitute for more technical financial planning; some readers may want more data-driven investment strategies.
+- Strategic complexity scales with player count; beginners may feel overwhelmed at 6 players initially
+- Some rounds can feel like setup for the next round rather than the current one if misreadings accumulate
+- Not every table will click with the same “bluffing vibe”—some groups prefer more direct competition
 
 ### The Geeknite verdict
-Comfortable, practical, and a little bit nerdy in the best way, Secrets of the Millionaire Mind earns a solid spot on the desk of any reader who wants to grow wealth through smarter thinking, better habits, and purposeful action. It’s not a single-clic leap to riches, but it’s a dependable boot sequence that prepares you for the adventures ahead, both digital and real.
+Trio Family Card Game nails the sweet spot between accessibility and strategic bite. It’s not a one-trick game; it rewards observation, timing, and a dash of misdirection without tipping into harsh competition. For families and casual hobbyists looking to grow together, Trio is a reliable pick with broad appeal and surprising depth for its bite-sized rounds. It’s the kind of game that earns a place on the shelf not because it’s groundbreaking, but because it’s consistently entertaining, repeatable, and friendly to new players stepping into the hobby.
 
-**If you’re ready to level up your money mindset, grab this book and start the quest today.**
+If you’re looking for a polished gateway into more serious strategy card games without sacrificing a sense of whimsy, Trio is a strong candidate for your 2026 Game of the Year shortlist.
 
-**Purchase now and transform your approach to wealth: https://www.amazon.com/dp/B0XXXXXX?tag=geeknite-20**
+## How to Read This as a Geeknite Guide
+- Start with the social layer: welcome all players, especially newcomers, with a quick tour of turn structure and the role of sets in scoring.
+- Embrace the quick iteration: play several sessions back-to-back to feel the rhythm, then adapt your strategy to evolving table dynamics.
+- Use a playful lens: commentary, jokes, and lighthearted banter keep the energy positive, which is essential for family-friendly games.
 
-For more nerdy strategies on how we approach home economics and personal growth in Geeknite, check out these related posts: {% post_url 2026-02-20-geeknite-party-night-framework %} and {% post_url 2026-01-15-geeknite-board-game-night-ultimate-guide %}.
+### A quick nerdy aside: Trio as a social software patch
+If you’ve played social deduction or bluff-heavy games, you’ll recognize Trio as a gentle bridge between those genres and traditional set-building. It teaches that information is power, but trust and humor are the real flexibility tools that allow any group to come back for more.
+
+## Final Thoughts and Final Recommendation
+Trio Family Card Game is more than a quick play; it’s a reliable night-saver for busy households who want a game that scales with their families. It rewards planning, memory, and social dynamics without turning into a chores list. If you want a game that a 8-year-old can enjoy while a 14-year-old and a 40-something can still respect for its strategic hints, Trio stands out as a thoughtful choice.
+
+- Pros: Accessible for kids, scalable for adults, strong replayability, fast rounds, encourages positive table dynamics.
+- Cons: Early on, new players might miss some of the deeper patterns; groups craving heavy strategy should pair Trio with a more complex title for variety.
+
+### The Geeknite verdict
+Trio earns a solid thumbs-up for families and mixed-age groups who want a game night that doesn’t feel like aBOARD-meetings. It’s approachable, it’s clever, and it invites everyone to participate without turning the table into a battlefield. If you’re organizing a game night and want a game that travels well, adapts to your crew, and leaves you wanting one more round, Trio is the pick to try first in 2026.
+
+**Ready to level up your family game nights?**
+**Buy Trio Family Card Game today and unleash the friendly rivalry that brings everyone to the table: https://www.amazon.com/dp/B0XXXXXX?tag=geeknite-20**
+
+For more nerdy strategies on how we approach family game design and play in Geeknite, check out these related posts: {% post_url 2026-02-20-geeknite-party-night-framework %} and {% post_url 2026-01-15-geeknite-board-game-night-ultimate-guide %}. External resources you might find useful: https://boardgamegeek.com and https://www.gamesradar.com for quick reads on family-friendly games, always read with a critical, curious eye to find the hidden gems your table will love.
