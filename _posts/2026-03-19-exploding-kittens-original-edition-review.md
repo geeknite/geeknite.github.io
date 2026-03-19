@@ -1,5 +1,5 @@
 ---
-title: Exploding Kittens Original Edition: New Factory Sealed, Expanded and Revisited for Family Night
+ttitle: Exploding Kittens Original Edition: Expanded, Revisited, and Ready for Family Night
 date: 2026-03-19 12:00:00 -0000
 tags:
   - board games
