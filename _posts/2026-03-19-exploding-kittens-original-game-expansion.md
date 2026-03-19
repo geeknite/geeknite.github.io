@@ -1,12 +1,12 @@
 ---
-title: Exploding Kittens: The Original Game + Expansion — Geeknite Expanded Review
+title: Exploding Kittens: The Original Game + Expansion — Geeknite Expanded Review (2.0)
 date: 2026-03-19
-tags: [board-games, review, exploding-kittens, expansion, geeknite, humor, party-games]
+tags: [board-games, review, exploding-kittens, expansion, geeknite, humor, party-games, expansion-update]
 ---
 
 ![Exploding Kittens box](assets/images/exploding-kittens-box.jpg)
 
-If you thought party night would be all about sprinting to the latest meme and somehow keeping a straight face, the universe handed you a deck of cards and asked you to survive a feline apocalypse. Exploding Kittens, the card game that somehow became a cultural phenomenon in the hobby scene, is back in a box that promises more chaos, more cards, and yes more opportunities to giggle in the face of danger. Exploding Kittens The Original Game + Expansion is not just a reprint; it is a mood, a dare, and a quick way to turn a dull evening into a chaotic festival of meows and mischief. In this Geeknite expanded review, we unpack what works, what collapses under the weight of its own hype, and how the Imploding Kittens expansion changes the game in surprising and not so surprising ways.
+If you thought party night would be all about sprinting to the latest meme and somehow keeping a straight face, the universe handed you a deck of cards and asked you to survive a feline apocalypse. Exploding Kittens, the card game that somehow became a cultural phenomenon in the hobby scene, is back in a box that promises more chaos, more cards, and yes more opportunities to giggle in the face of danger. Exploding Kittens The Original Game + Expansion is not just a reprint; it is a mood, a dare, and a quick way to turn a dull evening into a chaotic festival of meows and mischief. In this Geeknite expanded review, we revisit what works, what collapses under the weight of its own hype, and how the Imploding Kittens expansion changes the game in surprising and not so surprising ways.
 
 External link to the official site for those curious about the brand vibe and art direction: [Official Exploding Kittens site](https://www.explodingkittens.com).
 
@@ -123,6 +123,6 @@ For a quick jump into buying, consider this affiliate option: **Buy Exploding Ki
 
 If you enjoyed this breakdown and want more Geeknite style breakdowns that blend humor with practical gaming advice, follow the blog and keep an eye out for future deep dives. We love hearing from readers, so drop a comment or share your most memorable round of Exploding Kittens with the expansion. Your story might become a future post in our community spotlight.
 
-Brace yourselves for the next post where we take on a comparative war between party game staples and explore what makes a game truly shine in a mixed-age group. Until then, shuffle, see the future, and may your Defuses be plenty. 
+Brace yourselves for the next post where we take on a comparative war between party game staples and explore what makes a game truly shine in a mixed-age group. Until then, shuffle, see the future, and may your Defuses be plenty.
 
 **Ready to roll the dice on a chaotic night? Grab the pack now and let the feline misadventures begin.**
