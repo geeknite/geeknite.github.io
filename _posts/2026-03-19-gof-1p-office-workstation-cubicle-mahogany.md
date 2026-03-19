@@ -1,5 +1,5 @@
 ---
-title: GOF 1P Office Workstation Cubicle with Desk (Mahogany) - Updated Expanded Review
+title: GOF 1P Office Workstation Cubicle with Desk (Mahogany) - Expanded Review 2026 Update
 date: 2026-03-19
 tags:
   - office-furniture
@@ -10,6 +10,8 @@ tags:
   - review-updates
   - geeknite
   - review-update-2026
+  - ergonomics
+  - modular
 ---
 
 ## Expanded overview
@@ -74,7 +76,7 @@ Tools required are standard issue — Allen wrench, screwdriver, and maybe a rub
 ## Ergonomics, usability, and day-to-day reality: how it actually feels
 Ergonomics isn’t just a buzzword; it’s the difference between sprinting to a deadline and taking a restorative stretch break that doesn’t involve neck gymnastics. The GOF 1P is designed to support a comfortable, efficient workstation with room for keyboard, mouse, and monitor at a healthy height. The desk surface is roomy enough to spread out manuals, a monitor arm, and a coffee habit that somehow keeps you productive through the day.
 
-Dual-monitor setups? Yes, please. The width accommodates two screens side by side with space for a notebook, reference materials, or a stack of technical manuals you’ve sworn you’ll read someday. A monitor arm can be mounted in the top region of the desk area, freeing up surface real estate for other essentials like a secondary keyboard or a drawing tablet if you’re a designer or a gamer who moonlights as a spreadsheet whisperer.
+Dual-monitor setups? Yes, please. The width accommodates two screens side by side with space for a notebook, reference materials, or the stack of technical manuals you’ve sworn you’ll read someday. A monitor arm can be mounted in the top region of the desk area, freeing up surface real estate for other essentials like a secondary keyboard or a drawing tablet if you’re a designer or a gamer who moonlights as a spreadsheet whisperer.
 
 Cable management is where the GOF 1P shines relative to its price tag. The troughs and grommets minimize cable spaghetti and help keep your work surface pristine. This is particularly helpful if you’re in a shared office where you don’t want to unleash a torrent of cables into a neighbor’s space during a video call. The practical result is a calmer, cleaner desk that makes you feel like you’ve achieved adult furniture status.
 
@@ -136,7 +138,7 @@ This GOF 1P makes sense for a few concrete personas:
 
 For those who enjoy a little humor in their gear, the GOF 1P doubles as a stage for PowerPoint slides delivered with the confidence of a veteran performer. It’s your productivity stage without the dramatic spotlight — unless your boss insists on live demos during standup meetings, in which case you’ll already be caffeinated and prepared.
 
-### A quick vendor sanity check
+### Quick vendor sanity check
 Before pulling the trigger, confirm these live details with the retailer:
 - Exact dimensions in your chosen sub-model and configuration
 - The finish hue under your specific office lighting conditions
@@ -158,9 +160,9 @@ That said, no product fits everyone. If you crave ultra-lightweight portability 
 - Consider non GOF options if your budget demands a more portable or lighter finish, but expect a trade-off in modularity or cable management elegance.
 
 ## Links and further reading
-- Ergonomic desk setup and posture guidelines: https://www.osha.gov/ergonomics
-- General ergonomics and workplace setup: https://www.cdc.gov/niosh/topics/ergonomics/default.html
-- Wood finishing basics and maintenance tips: https://www.woodmagazine.com/woodworking-tips/finishing
+- Ergonomic desk setup and posture guidelines: <https://www.osha.gov/ergonomics>
+- General ergonomics and workplace setup: <https://www.cdc.gov/niosh/topics/ergonomics/default.html>
+- Wood finishing basics and maintenance tips: <https://www.woodmagazine.com/woodworking-tips/finishing>
 - Related GOF posts for more context: [GoF 2P Review]({{ '/gof-2p-office-workstation-review/' | post_url }})
 - Additional GOF content: [GOF Modular Desk Setup]({{ '/gof-modular-desk-setup/' | post_url }})
 
