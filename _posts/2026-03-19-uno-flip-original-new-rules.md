@@ -1,5 +1,5 @@
 ---
-title: 'Uno Flip! Game - Original & New Rules Expanded'
+ttitle: 'Uno Flip! Game - Original & New Rules Expanded'
 date: 2026-03-19
 tags: [games, board-games, Uno, UnoFlip, rules, review, strategy, chaos]
 ---
@@ -11,12 +11,12 @@ If you want to jump straight to the visuals, we’ve slipped in a couple of imag
 
 > Pro tip from the desk of Geeknite: always keep a spare table nearby. Uno Flip almost guarantees that one table will be crowded with cards, snacks, and the existential dread of your friends who just drew six orange cards in a row.
 
-{% image assets/images/uno-flip-front.jpg alt="Uno Flip Front" %}
+{% image assets/images/uno-flip-front.jpg alt=\"Uno Flip Front\" %}
 
-### Quick links to related reads
+## Quick links to related reads
 - [A quick guide to Uno strategy on the light side]({% post_url 2025-05-01-uno-light-side-strategy %})
 - [The Grand Guide to Family Game Night setups]({% post_url 2024-11-20-game-night-setup %})
-- External primer: https://en.wikipedia.org/wiki/Uno_Flip%
+- External primer: https://en.wikipedia.org/wiki/Uno_Flip% 
 - Official product page: https://shop.hasbro.com/en-us/product/uno-flip
 
 ## What is Uno Flip Anyway?
@@ -25,10 +25,10 @@ Uno Flip is a modern twist on the classic card game Uno. The deck is truly two-f
 You’ll quickly realize that Uno Flip is less about arithmetic and more about psychology. It’s a game of sprinting toward victory, then stepping on a banana peel, then sprinting again because you glimpsed the orange side and realized you should have kept your mouth shut about that color you hate. The two‑sided deck creates an appetite for risk and a mild addiction to flipping, which is exactly what Hasbro hoped for when they stapled a double‑faced destiny into one box.
 
 ## Original Rules: The Light Side First
-The conventional Uno Flip is designed so that the light side plays similarly to classic Uno. Here’s a clean, working summary of the original (light-side) rules before the flip happens to disrupt your life.
+The conventional Uno Flip is designed so that the light side plays similarly to classic Uno. Here’s a clean, working summary of the original (light‑side) rules before the flip happens to disrupt your life.
 
 ### Setup
-- The game supports 2–10 players. If you have more than six players, consider using two separate decks or allowing the rules to flex a little to match your crowd. 
+- The game supports 2–10 players. If you have more than six players, consider using two separate decks or allowing the rules to flex a little to match your crowd.
 - Each player starts with 7 cards. The rest forms the draw pile. The top card is flipped to begin the discard pile.
 - The color of the first card on the discard pile sets the initial color target, as in standard Uno.
 
@@ -56,7 +56,7 @@ Uno Flip introduces a dramatic mechanic: when a Flip card is played or when the 
 The flip is what makes Uno Flip feel like a different game with a familiar skeleton. It’s not just color changes; it’s a reshaping of risk and opportunity. The orange side is where the real chaos begins. Here’s how it changes things:
 
 ### How the Flip Works
-- At any point, a Flip card (or a house-rule trigger) causes all players to flip their hands and the draw/discard piles, revealing the orange faces. The next turn continues with players matching on color or number on the orange side.
+- At any point, a Flip card (or a house‑rule trigger) causes all players to flip their hands and the draw/discard piles, revealing the orange faces. The next turn continues with players matching on color or number on the orange side.
 - The orange side uses its own color palette and includes powerful action cards that alter the risk calculus of the game.
 - If you’re not careful, the orange side can turn a clean sweep into a chaos-filled sprint toward a dramatic last second loss. It’s not a guaranteed win for anyone—just a beautiful, unpredictable arc that makes you question your life choices in real time.
 
@@ -68,7 +68,7 @@ The flip is what makes Uno Flip feel like a different game with a familiar skele
 - Wild Draw Five (orange): The next player draws five cards and also the caller gets to choose the color for the subsequent play. This is the orange version of the classic Wild Draw Four, but with higher stakes and a more dramatic flip screen moment.
 
 ### Strategy on the Orange Side
-- Use Wilds strategically to set up a color you know you can wean your way out of, rather than forcing a season‑long color lottery. 
+- Use Wilds strategically to set up a color you know you can wean your way out of, rather than forcing a season‑long color lottery.
 - Don’t panic when you flip. It can hurt, but it also weakens someone else’s hand if you can time the flip so your opponents burn more cards in the orange round.
 - Watch your opponents’ non-orange color sets. If you can push a color you’ve seen a lot of in their hand, you might force a quick end on the orange side.
 
@@ -87,7 +87,7 @@ If the two‑sided deck isn’t enough of a twist for you, consider applying one
 - Rule: When a Wild is played, instead of choosing the new color, the caller must propose a color and commit to it for the next two turns unless interrupted by another Wild card. If interrupted, the color flip happens as usual. This adds psychology to the early stage of a round.
 
 ### 4) No Peek, No Cheek: Footnote on Intentional Sneakiness
-- Rule: If you attempt to call Uno and fail to notice an opponent’s last card on the field while their back is turned, they get a friendly penalty. This is a lighthearted nudge to keep everyone honest and to encourage players to actually pay attention to the board rather than perform the corporate “3‑second glance.”
+- Rule: If you attempt to call Uno and fail to notice an opponent’s last card on the field while their back is turned, they get a friendly penalty. This is a lighthearted nudge to keep everyone honest and to encourage players to actually pay attention to the board rather than perform the corporate 3‑second glance.
 
 ### 5) Progressive Draw Pile on the Orange Side
 - Rule: On the orange side, combine Draw Five with a draw‑pile escalation rule. If someone cannot play a card after a Draw Five or a Wild Draw Five, they must draw not only the required cards but also an extra penalty card if you’re feeling extra spicy about a rule variant.
