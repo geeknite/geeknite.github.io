@@ -1,5 +1,5 @@
 ---
-title: "Sushi Go! – Spaß für Jung und Alt: Ein schneller, süßer Drafting-Genuss"
+title: "Sushi Go! – Spaß für Jung und Alt: Ein schnelles, süßes Drafting-Genuss-Update"
 date: 2026-03-19 12:00:00 +0000
 tags:
   - board games
@@ -16,7 +16,7 @@ tags:
 
 ## Sushi Go! – Ein schneller, süßer Drafting-Genuss für alle
 
-Sushi Go! gehört zu den knackigen Klassikern, die Spielabende retten, indem sie in 15-Minuten-Schnellrunden Spaﬀ liefern. In dieser aktualisierten Fassung knüpfe ich an den ursprünglichen Charme an, erweitere Kontext, Anekdoten und Mechanik-Intuition – damit du wirklich merkst, warum dieses kleine Kartenspiel eine der besten Einstiegsoptionen für Familien, WG-Nachtisch und Casual-Gaming ist. Nigiri, Maki, Tempura, Sashimi und Pudding – fünf Sushi-Häppchen voller Reize, die dein Gedächtnis testen, während du versuchst, die perfekte Kombi zu schnappen, ohne dabei dein Mitspielerfeld zu zerreden.
+Sushi Go! gehört zu den knackigen Klassikern, die Spielabende retten, indem sie in 15-Minuten-Schnellrunden Spass liefern. In diesem Update erweitere ich Kontext, Anekdoten und Mechanik-Intuition – damit du wirklich merkst, warum dieses kleine Kartenspiel eine der besten Einstiegsoptionen für Familien, WG-Nachtisch und Casual-Gaming ist. Nigiri, Maki, Tempura, Sashimi und Pudding – fünf Sushi-Häppchen voller Reize, die dein Gedächtnis testen, während du versuchst, die perfekte Kombi zu schnappen, ohne dabei dein Mitspielerfeld zu zerreden.
 
 Wenn du direkt zu den wichtigsten Abschnitten springen willst, klicke auf die folgenden Überschriften:
 
@@ -39,11 +39,11 @@ Die Karten sind klar gestaltet, der Text minimal und die Punkte gut sichtbar. Di
 
 Für das Setup mischst du die Karten, teilst jedem Spieler eine Hand voller Karten aus und legst den Rest als verdeckten Nachziehstapel daneben. In jeder Runde wählst du eine Karte aus deiner Hand, legst sie verdeckt vor dir ab und drehst danach die restlichen Karten offen, damit die nächste Runde beginnt. Das klingt simpel – aber genau hier liegt die Substanz. Die Einfachheit sorgt dafür, dass jedes Spiel Platz für clevere Züge und überraschende Interaktionen bietet, ohne dich mit komplexen Ausnahmen zu belasten.
 
-Interner Hinweis: Wenn du mehr über unsere Sushi-Philosophie liest, schau dir unseren Post zu post_url 2024-09-11-aperitif-fuer-gamer an.
+Interner Hinweis: Wenn du mehr über unsere Sushi-Philosophie liest, schau dir unseren Post zu [Aperitif für Gamer]({% post_url 2024-09-11-aperitif-fuer-gamer %}) an.
 
 ## Der Spielablauf im Schnelldurchlauf
 
-Sushi Go! ist klassisches Drafting: Du wählst eine Karte aus deiner Hand, nimmst sie, legst sie verdeckt vor dich und gibst den Rest deiner Hand an den linken Mitspieler weiter. Danach werden die Karten offengelegt, und die nächste Auswahl folgt. So entstehen in mehreren Runden kleine, thematisch schnelle Sets aus Sushi-Karten. Wer am Ende die meisten Punkte hat, gewinnt – und wer sich nicht entscheiden kann, gewinnt vielleicht den Titel Meister der Sushi-Vorspeise.
+Sushi Go! ist klassisches Drafting: Du wählst eine Karte aus deiner Hand, nimmst sie, legst sie verdeckt vor dich ab und gibst den Rest deiner Hand an den linken Mitspieler weiter. Danach werden die Karten offengelegt, und die nächste Auswahl folgt. So entstehen in mehreren Runden kleine, thematisch schnelle Sets aus Sushi-Karten. Wer am Ende die meisten Punkte hat, gewinnt – und wer sich nicht entscheiden kann, gewinnt vielleicht den Titel Meister der Sushi-Vorspeise.
 
 Die Punkte setzen sich aus mehreren Kategorien zusammen:
 
@@ -61,7 +61,7 @@ Humorvoll gesehen: Sushi Go! fühlt sich an wie Speed-Dating mit Sushi, bei dem 
 
 Für Engineering-Freunde: Die Mechanik erinnert an effiziente Ressourcennutzung in Mikro-Management-Spielen, nur dass hier die Ressourcen weniger widerspenstig sind. Du musst nur entscheiden, ob du die Nigiri-Karte jetzt behältst oder an den nächsten Mitspieler weiterreichst. Die Komplexität bleibt human, die Belohnung hoch, wenn du die richtige Kombination triffst.
 
-Interner Verweis: Für eine tiefer gehende Auseinandersetzung mit Sushi Go Party und Varianten schau dir post_url 2023-11-07-sushi-go-party-varianten an.
+Interner Verweis: Für eine tiefer gehende Auseinandersetzung mit Sushi Go Party und Varianten schau dir [Sushi Go Party Varianten]({% post_url 2023-11-07-sushi-go-party-varianten %}) an.
 
 ### Variantenabkürzungen und kleine Do-it-yourself-Taktiken
 - 2-Spieler-Regeln: Kleiner Tisch, großer Druck – mehr Kartensicht, mehr direkte Interaktion.
@@ -86,10 +86,11 @@ Erweiterungen und Varianten bieten Würze. Sushi Go Party ist die bekannteste Er
 
 Für größere Gruppen kann man 2-Spieler-Regeln ausprobieren oder mit mehr als fünf Spielern spielen. Das verändert den Spielfluss; genau das reizt: flexibel bleiben.
 
-Interner Verweis: tiefer in Sushi Go Party und Erweiterungen: post_url 2022-06-01-sushi-go-party-erweiterungen.
+Interner Verweis: tiefer in Sushi Go Party und Erweiterungen: [Sushi Go Party Erweiterungen]({% post_url 2022-06-01-sushi-go-party-erweiterungen %}).
 
 ### Persönliche Erfahrungen und Anekdoten
-Wenn Geeknite am Start ist, kommt Sushi Go oft als das stille Chamäleon des Abends: Schnell zu lernen, schwer zu meistern in den letzten Zügen der Nacht. Einmal drehte sich eine Partie darum, wer das letzte Pudding-Stück an die Wand der Punkte kleben durfte, während alle anderen versuchten, eine lange Maki-Kette zu etablieren. Die Diskussionen darüber, wer das Momentum erzwingt, waren so humorvoll wie taktisch fragil – genau das, was unseren Stil ausmacht: schnelles Denken, großes Gelächter, wenig Stress. Die Karten fühlen sich gut an, der Glanz der Farben macht Laune, und das leise Klicken der Karten beim Weiterreichen hat etwas Beruhigendes – fast wie eine Sushi-Pfanne, die gleich zu brutzeln beginnt.
+
+Wenn Geeknite am Start ist, kommt Sushi Go oft als das stille Chamäleon des Abends: Schnell zu lernen, schwer zu meistern in den letzten Zügen der Nacht. Eine Partie drehte sich darum, wer das letzte Pudding-Stück an die Wand der Punkte kleben durfte, während alle anderen versuchten, eine lange Maki-Kette zu etablieren. Die Diskussionen darüber, wer das Momentum erzwingt, waren so humorvoll wie taktisch fragil – genau unser Stil: schnelles Denken, großes Gelächter, wenig Stress. Die Karten fühlen sich gut an, der Glanz der Farben macht Laune, und das leise Klicken der Karten beim Weiterreichen hat etwas Beruhigendes – fast wie eine Sushi-Pfanne, die gleich zu brutzeln beginnt.
 
 ## Fazit, Empfehlungen und Zielgruppen
 
@@ -106,8 +107,8 @@ Empfehlung: Wenn du neu bist, starte mit dem Basisspiel, um Gefühl und Tempo zu
 ## Weiterführende Links und interne Navigation
 
 - Offizielle Seite von Sushi Go – einfache Regeln und Kartenlisten: https://en.wikipedia.org/wiki/Sushi_Go%21
-- Unser Review zu Sushi Go Party als Erweiterung: post_url 2023-11-07-sushi-go-party-varianten
-- Wer weitere schnelle Partyspiele mag: post_url 2024-05-14-schnell-spiel-fuer-die-nacht
+- Unser Review zu Sushi Go Party als Erweiterung: [Sushi Go Party Varianten]({% post_url 2023-11-07-sushi-go-party-varianten %})
+- Wer weitere schnelle Partyspiele mag: [Schnell-Spiel-fuer-die-Nacht]({% post_url 2024-05-14-schnell-spiel-fuer-die-nacht %})
 
 ## Bildersammlung und visuelle Eindrücke
 
