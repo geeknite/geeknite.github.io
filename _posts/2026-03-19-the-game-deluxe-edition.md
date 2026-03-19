@@ -24,6 +24,8 @@ A highlight is the companion boards that players use to track their action econo
 
 The art direction stays playful but not childish, balancing humor with enough noir to keep it from sliding into cartoon vibes. There is a sense of craftsmanship here, as if the designers took extra care to make sure every token has a satisfying chink when it lands on the board. The Deluxe Edition earns its name with those little extras that turn a routine session into an event, particularly if you like to dip your fingers into the tactile romance of tabletop gaming.
 
+{% image /assets/images/deluxe-details.jpg Deluxe details %}
+
 ## Setup: quick, but not minimal
 
 The setup procedure feels like a ritual that should be performed with a mug of coffee and a dash of patience. In Deluxe Edition, you pull out the deluxe boards, lay them out in front of each player, shuffle the cards like you are preparing for a ceremonial card-based duel, and then arrange the extra tokens into their designated pouches. It takes a bit longer than the original game, but the payoff is a smoother later game where you can reach for a token without rummaging through a bag like a raccoon at a vending machine.
