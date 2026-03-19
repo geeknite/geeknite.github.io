@@ -1,6 +1,6 @@
 ---
-title: APC On-Line UPS 1000VA 230V for Rack Mounting — Geeknite Review
-date: 2026-03-19
+ttitle: APC On-Line UPS 1000VA 230V for Rack Mounting — Geeknite Review (Updated)
+date: 2026-03-19	
 tags:
   - UPS
   - APC
@@ -37,7 +37,7 @@ Runtimes vary with load. At around 40–50% of rated capacity (roughly 320–400
 ## Design and specifications
 ### Form factor and build quality
 - Form factor: 2U rack‑mountable chassis suitable for standard IT racks
-- Dimensions: roughly 3U of height space on the shelf, with a compact footprint designed to tuck behind or beside servers
+- Dimensions: roughly 2U in height with a compact footprint designed to tuck behind or beside servers (exact dimensions vary by revision; check your model sheet)
 - Weight: heavier than you expect when fully charged; plan for a small helper or a good set of rack rails during installation
 - Cooling: designed with front‑to‑back airflow in mind; expect quiet fans at modest load and a deeper hum when under heavier stress
 
@@ -157,5 +157,3 @@ For the right buyer, the APC On-Line UPS 1000VA 230V for Rack Mounting is a reli
 The APC On-Line UPS 1000VA 230V for Rack Mounting is not a flashy gadget; it is a precision instrument for protecting the electronic life support systems that run your home lab or small office. It won’t bake you cookies, but it will bake you a few more minutes of uptime when the grid does a little tap dance. It’s sturdy, practical, and sized right for a modern rack ecosystem.
 
 **Shop now on Amazon: https://amzn.to/GeekniteUps1000VA**
-
-Bold call to action: **Shop now on Amazon: https://amzn.to/GeekniteUps1000VA**
