@@ -25,7 +25,7 @@ Greetings, fellow geeks and party-night alchemists. If you ever wondered what ha
 
 This post is a deeper dive into why The Mind remains a family-night staple and a reliable social glue on casual game nights. If you’re hunting for a game that can be explained in under two minutes and still yield stories to tell for weeks, this is your stop. The Mind has earned its spot among the roster of bite-sized experiences that give you laughter, suspense, and a few accidental moments of telepathic triumph.
 
-For those new to the vibe, we are not promising a brain-busting puzzle. We’re promising a shared heartbeat you can hear in a room full of friends when the numbers finally align. And yes, we’ll pepper in practical tips, variants, and a few Geeknite-flavored riffs to keep things fresh if you decide to make this your go-to quickie during a longer game night. Also, because this is a Geeknite post, expect a dash of humor, a pinch of editorial wink-wink, and a lot of love for games that prove big feelings can come in tiny boxes.
+For those new to the vibe, we are not promising a brain-busting puzzle. We’re promising a shared heartbeat you can hear in a room full of friends when the numbers finally align. And yes, we’ll pepper in practical tips, variants, and a few Geeknite flavored riffs to keep things fresh if you decide to make this your go-to quickie during a longer game night. Also, because this is a Geeknite post, expect a dash of humor, a pinch of editorial wink-wink, and a lot of love for games that prove big feelings can come in tiny boxes.
 
 For mood lighting, here’s a sneak peek image—because sometimes the vibe you feel in the room is worth a thousand words:
 
@@ -74,7 +74,7 @@ A few practical tips to play well:
 
 If you’re after a quick taste of that social experiment vibe, consider a few simple variants:
 
-- Time pressure: a soft timer that nudges rounds along without breaking the no-talking rule. 
+- Time pressure: a soft timer that nudges rounds along without breaking the no-talking rule.
 - Non-verbal signaling: agreed-upon table patterns or gestures to hint at intent, kept light and goofy.
 - Rotating judge: a non-playing participant who gently can flag rule breaks to maintain the social governance without sour notes.
 
