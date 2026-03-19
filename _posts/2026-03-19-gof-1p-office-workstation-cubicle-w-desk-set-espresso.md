@@ -1,7 +1,7 @@
 ---
 title: "GOF 1P Office Workstation Cubicle with Desk Set (Espresso) — 6'D x 6'W x 5'/6'H"
 date: 2026-03-19
-tags: [geek, office-furniture, GOF, desk-setup, review, espresso, cubicle, modular]
+tags: [geek, office-furniture, GOF, desk-setup, review, espresso, cubicle, modular, ergonomics, small-space]
 ---
 
 ![GOF 1P Office Workstation Cubicle Espresso]({{ '/assets/images/gof-1p-office-workstation-cubicle-espresso.jpg' | relative_url }})
@@ -9,7 +9,7 @@ tags: [geek, office-furniture, GOF, desk-setup, review, espresso, cubicle, modul
 ## Introduction: When Your Tiny Office Becomes a Startup That Never Sleeps
 If you’re anything like me, your desk is less a workspace and more a claims department for your caffeine dependency and the growing candidate pool of procrastination. Enter the GOF 1P Office Workstation Cubicle w Desk Set in Espresso. It promises compact power, modular glory, and enough cubicle vibes to make a Midwestern cheese show feel cosmopolitan. In a world where every square foot of home office space is sacred, GOF drops this moody espresso tower of productivity and says: “Yes, you can finally have a desk that looks like it belongs to a software architect who commutes to the coffee shop in a tailored hoodie.”
 
-This review is part evangelism, part field report, and part therapy for the moments when you realize your current setup doubles as an obstacle course for your printer. We’ll cover assembly, ergonomics, durability, and whether this cubicle-walled beacon actually makes you more productive or just better at pretending you are when coworkers swing by for a quick status update.
+This expanded review is part evangelism, part field report, and part therapy for the moments when you realize your current setup doubles as an obstacle course for your printer. We’ll cover assembly, ergonomics, durability, and whether this cubicle-walled beacon actually makes you more productive or just better at pretending you are when coworkers swing by for a quick status update.
 
 ### What’s in the Box? The Unboxing Ritual You Didn’t Know You Needed
 Unboxing is where the romance starts. The GOF 1P arrives in a color that suggests a barista’s dream and a lumberjack’s approval: espresso. The packaging is purposely minimal, a nod to modern efficiency that says, “We trust you not to drop a 60-pound panel on your toe while you fumble with a hex key.” Inside, you’ll find:
