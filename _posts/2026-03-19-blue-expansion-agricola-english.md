@@ -1,5 +1,5 @@
 ---
-title: "Blue Expansion - Agricola (English)"
+title: Blue Expansion - Agricola (English)
 date: 2026-03-19
 tags:
   - board games
@@ -7,17 +7,19 @@ tags:
   - expansions
   - English
   - blue expansion
+  - humor
+  - review
 ---
 
 ## Overview
 
-If Agricola is a sandbox for farming near-misses and near-misses that could have been, then the Blue Expansion is the decorative seed tray you didn’t know you needed until your spouse started making farmer jokes at the dinner table. This expansion—translated for English-language audiences as requested by our resident translator who swears they heard the word "aquamarine" in the rules—introduces a splash of water-themed chaos and a handful of clever tweaks that nudge Agricola from “nice hobby” to “I own a small village and I will micromanage it with the determination of a sailor who has misplaced his compass.”
+If Agricola is a sandbox for farming near-misses and near-misses that could have been, then the Blue Expansion is the decorative seed tray you didn’t know you needed until your spouse started making farmer jokes at the dinner table. This expansion—translated for English-language audiences as requested by our resident translator who swears they heard the word aquamarine in the rules—introduces a splash of water-themed chaos and a handful of clever tweaks that nudge Agricola from “nice hobby” to “I own a small village and I will micromanage it with the determination of a sailor who has misplaced his compass.”
 
 Before we dive in, a quick spoiler-light note: this is not a full reprint or a new edition of Agricola. It’s a modular add-on that sits nicely next to the base game and, with any luck, other expansions that enjoy long walks on a digital beach. The core engine—worker placement, resource management, and farm-building—remains intact. What changes is the water table, the availability of aquatic resources, and a few new card types that create alternate win conditions and slightly more leeway for creative (or chaotic) players. This is not “more of the same” in the sense of “more cows, more wood,” but rather “more ways to get your irrigation ditches to finally do something interesting besides collect mud.”
 
 We’ll go deep into what’s in the box, how it plays, and whether the extra splash is worth the cost of adding blue to your colorful agriculture palette.
 
-{% image assets/images/blue-expansion-box.jpg alt="Blue Expansion box cover" %}
+{% image assets/images/blue-expansion-box.jpg alt='Blue Expansion box cover' %}
 
 For the curious, you can also swing by the official page for a glossy overview and some marketing art, though we’ll be bringing the practical, salt-stained analysis here: https://boardgamegeek.com/boardgame/3125/agricola and related community pages.
 
@@ -64,7 +66,7 @@ Expect a small bump in setup time, primarily due to arranging the new tiles and 
 
 Player count matters. In two-player games, the water features can feel more pronounced, because there’s more space to flood and drain along a single axis of play. In higher player counts, the expansion’s impact is diffused; you’ll see more varied strategies but the river network becomes crowded, which can lead to cutthroat competition for the most lucrative water-adjacent tiles. If you’re new to Agricola or new to expansions, consider starting with a modest number of water features (1–2) and add more once everyone is comfortable with the new card pool.
 
-{% image assets/images/blue-expansion-water-tiles.jpg alt="Blue Expansion water tiles in action" %}
+{% image assets/images/blue-expansion-water-tiles.jpg alt='Blue Expansion water tiles in action' %}
 
 ## Thematic fit and aesthetic value
 
@@ -137,3 +139,13 @@ If you’re ready to dive into blue waters, grab the expansion and start plottin
 ---
 
 NOTE: This post is part of Geeknite’s ongoing exploration of agriculturally themed board games and expansions. If you liked this review, you might also enjoy our posts on other Agricola expansions and comparison pieces. See [our expansion guide]({% post_url '2024-04-15-agricola-expansion-guide.md' %}) for a broader view, or [the base game essentials]({% post_url '2023-09-07-agricola-base-essentials.md' %}) for quick-start tips. A bientot, fellow farmers, and may your cattle multiply faster than your regrets.
+
+---
+
+External references and reading:
+- Official Agricola page: https://boardgamegeek.com/boardgame/3125/agricola
+- Advanced Agricola resources: [Advanced Agricola: water-tied resource management]({% post_url '2024-08-22-advanced-agricola-water-management.md' %})
+- Expansion comparisons: [Expansions face-off: Blue vs. Green vs. Red in Agricola]({% post_url '2023-12-01-agricola-expansion-comparisons.md' %})
+- Broader expansion guide: [Expansions guide]({% post_url '2024-04-15-agricola-expansion-guide.md' %})
+- Base game essentials: [the base game essentials]({% post_url '2023-09-07-agricola-base-essentials.md' %})
+- Two related posts for context: [ Agricola base review]({% post_url '2025-04-12-agricola-base-review.md' %}) and [the multi-expansion guide]({% post_url '2024-11-15-agricola-expansions-guide.md' %})
