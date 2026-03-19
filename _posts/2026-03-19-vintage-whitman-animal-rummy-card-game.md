@@ -7,6 +7,11 @@ tags:
   - vintage
   - card-games
   - Whitman
+  - animal-themed
+  - gaming-history
+  - collectibles
+  - family-games
+  - retro-design
 ---
 
 ![Whitman Animal Rummy Box](assets/images/whitman-animal-rummy-box.jpg)
@@ -79,7 +84,7 @@ If you’re curious about how to appraise this kind of item, here are some quick
 - Color fidelity: The original hues should look vibrant, not washed out. If the colors scream nostalgia rather than reality, you’ve likely got the right box.
 - Completeness: A full deck with the original instruction sheet is ideal. Absence of pieces isn’t a deal-killer, but it does affect value.
 
-For those who want to visualize the aesthetic without hunting through yard sales, you can browse a few online resources that discuss vintage Whitman packaging in general: [Another Look at Whitman Sets]https://en.wikipedia.org/wiki/Whitman_Publishing (note that this is for aesthetic context and not a formal citation).
+For those who want to visualize the aesthetic without hunting through yard sales, you can browse a few online resources that discuss vintage Whitman packaging in general: [Whitman Packaging and the Color Riot of the 50s and 60s](https://en.wikipedia.org/wiki/Whitman_Publishing).
 
 ---
 
@@ -146,7 +151,7 @@ If you want a single-line verdict: small in footprint, big on personality, and a
 
 ## Where to Learn More and Stay in the Loop
 
-- For broader context on vintage packaging and the era: [Whitman Publishing and the Golden Age of Card Games](https://en.wikipedia.org/wiki/Whitman_Publishing).
+- For broader context on vintage packaging and the era: [Whitman Packaging and the Color Riot of the 50s and 60s](https://en.wikipedia.org/wiki/Whitman_Publishing).
 - For related discussions about nostalgia in game design: [ Nostalgia and The Playful Mind ]({% post_url 'nostalgia-and-the-playful-mind' %}).
 - A look at other retro-friendly games you might enjoy alongside Animal Rummy: [Retro Card Games Deep Dive]({% post_url 'retro-card-games-deep-dive' %}).
 
