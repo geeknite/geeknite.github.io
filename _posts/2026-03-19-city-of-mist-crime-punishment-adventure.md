@@ -1,6 +1,6 @@
 ---
 title: 'City of Mist: Crime & Punishment — Adventure Review'
-date: 2026-03-19
+date: 2026-03-25
 tags:
   - city-of-mist
   - rpg
@@ -13,20 +13,20 @@ tags:
 ![City of Mist: Crime & Punishment Cover](/assets/images/city-of-mist-crime-punishment-cover.jpg)
 
 ## Introduction
-City of Mist has always danced on that edge between noir and myth, where detectives are more likely to fight fate with a mug of coffee than with a blade. The Crime & Punishment adventure, as reviewed here, aims to pull the strings of that tension even tighter. It promises a one-shot or a short arc that can slot into a larger ongoing City of Mist campaign, with a premise that should feel both familiar and deliciously twisted: what happens when a crime reveals something deeper about the city, about its gods, and about the people who pretend not to know the truth?
+City of Mist has always danced on the edge between noir and myth, where detectives are more likely to fight fate with a mug of coffee than with a blade. The Crime & Punishment adventure arrives with the same neon-smeared swagger, offering a one-shot or short arc that can slot into a larger City of Mist campaign. The premise is deliciously twisted: what happens when a crime reveals something deeper about the city, about its gods, and about the people who pretend not to know the truth?
 
 If you have played City of Mist before, you know the drill: players lean into a blend of modern urban fantasy and classic noir, using their EBM—Epic Brave Moments—rather than purely rolling for success. If you are new, don’t worry; this adventure includes enough guidance for a GM to trapeze across the setup without a net. The style is very much in Geeknite’s wheelhouse: witty narration, over-the-top noir vibes, and a steady drumbeat of dramatic reveals that never forget to crack a smile at the absurdity of heroism in a city that pretends it isn’t comic book reality with weathered concrete clinging to its edges.
 
-This review will explore how Crime & Punishment handles tone, mechanics, and structure, with a focus on how it plays at the table, what it rewards, where it stumbles, and how much you should expect to improvise. We’ll also drop some practical GM tips, discuss the visual language of the product, and offer a clear verdict on whether this is a must-run or a maybe-run for your next City of Mist table.
+This updated review expands into additional GM tips, deeper exploration of the city as a character, more nuanced pacing advice, and practical prompts you can lift directly into your table. We’ll cover tone, mechanics, structure, and safety with the same playful rigor you expect from Geeknite. We’ll also give you fresh examples of how to weave mythic motifs into the detectives’ personal arcs and how to lean into social play without losing momentum.
 
 For a quick primer on the system, you can check our earlier deep dives into the core mechanics here: {% post_url 2024-12-02-city-of-mist-core-mechanics %}. If you want to see how we handle a broader urban-noir arc in one of our recent campaigns, take a look at {% post_url 2025-05-20-geeknite-city-of-mist-campaign-design %} as a reference point. And if you’re curious about the broader world-building tips we’ve shared in other posts, our guide on building myth-ic factions might come in handy: {% post_url 2023-09-11-city-of-mist-faction-playbook %}.
 
 ## The Hook: Crime, Punishment, and the City That Watches
 ### Thematic Vibe
-Crime & Punishment leans into the classic mythic noir vibe. The premise centers on a crime that seems ordinary at first glance but quickly unfurls into something bigger — something that implicates multiple masks, a political undercurrent, and a guild of whispers that an enthralled city occasionally calls Truth’s administration. The adventure asks players to interrogate the line between justice and vengeance, and to decide if punishment serves reform or merely polishes a personal grievance until it gleams under bad lighting.
+Crime & Punishment leans into that classic mythic noir vibe with gusto. The premise centers on a crime that seems ordinary at first glance but quickly unfurls into something bigger—something that implicates multiple masks, a political undercurrent, and a guild of whispers that an enthralled city occasionally calls Truth’s administration. The adventure asks players to interrogate the line between justice and vengeance, and to decide if punishment serves reform or merely polishes a personal grievance until it gleams under bad lighting.
 
-From a thematic standpoint, the adventure shines when it refuses to pretend that consequences are simple. The city is a character that resents simplification; it uses your heroes to reveal its own contradictions. If your table loves the mash-up of mythic symbolism with street-level investigation, this is your jam. If you’re not fond of moral ambiguity or prefer hard-cut heroics without price tags, you might find the tone a bit slippery. Either way, Crime & Punishment invites players to wrestle with ethics under a neon sky, which is exactly the kind of meal City of Mist cooks best.
-### GM Tips: Setting the Mood Without Sludgeing the Pace
+From a thematic standpoint, the adventure shines when it refuses to pretend consequences are simple. The city is a character that resents simplification; it uses your heroes to reveal its own contradictions. If your table loves the mash-up of mythic symbolism with street-level investigation, this is your jam. If you’re not fond of moral ambiguity or prefer hard-cut heroics without price tags, you might find the tone a bit slippery. Either way, Crime & Punishment invites players to wrestle with ethics under a neon sky, which is exactly the kind of meal City of Mist cooks best.
+### GM Tips: Setting the Mood Without Sludging the Pace
 A strong opening scene that ties the mystery to a tangible city issue—traffic corruption, a missing mural, a decaying monument with the wrong kind of history—helps anchor the session. Use sensory details that feel both tangible and symbolic: the smell of rain on concrete, the hum of a distant piano in a club, the cold glare of a streetlight that never quite illuminates the truth. If you can make a scene feel like a confession, you’ll have your players leaning in for answers, and that’s where the best discoveries happen.
 
 As a GM, you’ll be juggling masks and motives. Some players may want to lean into the epic and others into the intimate. Crime & Punishment doesn’t punish those instincts; it rewards a blended approach, where heroes solve the case while confronting their own limits.
@@ -51,7 +51,7 @@ The final act—punishment—delivers the payoff in two forms: consequences for 
 
 ## Tone, Themes, and Safety: Noir, Myth, and Respectful Play
 ### Handling Sensitive Content and Noir Tropes
-Noir is a playground for ethical complexity, but it also has a responsibility problem if you go too far without check-ins. Crime & Punishment handles this with a built-in mechanism for scenes that invite player consent and a few optional content warnings. If your table enjoys the old school noir vibe, you’ll appreciate how the adventure threads moral ambiguity with a respectful approach to sensitive themes. The game’s guidance invites you to pivot away from gratuitous darkness if needed, while still preserving the sense that the city’s shadows are where truth hides in plain sight.
+Noir is a playground for ethical complexity, but it also has a responsibility problem if you go too far without check-ins. Crime & Punishment handles this with a built-in mechanism for scenes that invite player consent and a few optional content warnings. If your table loves the old school noir vibe, you’ll appreciate how the adventure threads moral ambiguity with a respectful approach to sensitive themes. The game’s guidance invites you to pivot away from gratuitous darkness if needed, while still preserving the sense that the city’s shadows are where truth hides in plain sight.
 
 To keep things fun without derailing into grimdark, we suggest a quick table check-in after heavy moments: a simple three-question prompt to confirm everyone’s comfortable with what’s on screen, who’s physically present at the table, and what tone the group wants for the next scene. It’s a tiny ritual that pays off big by maintaining momentum and trust.
 
@@ -59,7 +59,7 @@ To keep things fun without derailing into grimdark, we suggest a quick table che
 ### Art Direction and Accessibility
 The product’s visuals lean into a crisp, graphic-novel-inspired aesthetic. The layout respects the navigational rhythm: clean sections, punchy headings, and a color palette that nods to neon noir rather than soup-kitchen beige. The cover image, as seen in the asset path above, communicates mood at a glance, and internal art supports the feeling that the city is a stage where masks are worn and identities are negotiated in half-light.
 
-Accessibilitywise, the adventure is friendly to different play styles. It provides clear stat blocks and ready-to-run NPCs, enough to get a table moving quickly, but with enough nuance to reward players who want to lean into performance and storytelling. The typography is legible, and the pacing tips are practical for groups that run at a slower or faster tempo than the average table.
+Accessibility-wise, the adventure is friendly to different play styles. It provides clear stat blocks and ready-to-run NPCs, enough to get a table moving quickly, but with enough nuance to reward players who want to lean into performance and storytelling. The typography is legible, and the pacing tips are practical for groups that run at a slower or faster tempo than the average table.
 
 ## Practical GM Prep: Getting Ready in a Night’s Spread
 ### Quick-Start Guide for GMs
@@ -70,7 +70,7 @@ If you’re a time-poor GM, Crime & Punishment offers a straightforward prep pat
 - Pre-write one twist per act that recontextualizes earlier clues; avoid too many twists at once or the table will feel overwhelmed.
 - Prepare a short, thematically appropriate encounter for burnout moments; this keeps energy up without forcing a long slog.
 
-A big strength here is the balance between structure and improvisation. The adventure doesn’t demand you to stay on rails; it nudges you toward scenes that feel consequential, while leaving ample space for misdirection and spontaneous threads that your party might discover along the way.
+A big strength here is the balance between structure and improvisation. The adventure doesn’t demand you stay on rails; it nudges you toward scenes that feel consequential, while leaving ample space for misdirection and spontaneous threads that your party might discover along the way.
 
 ### Encounter Design and Pacing Tips
 The encounter mix is well-tuned for a 4–5 hour play window. You’ll get social scenes that demand cunning and restraint, action beats that test timing, and mystery elements that require careful listening. The pacing guide within the adventure is helpful, but you’ll still want to adjust the tempo based on your table: some groups burn through evidence checks in a single session, while others want slower, more reflective beats. The best advice is to let the table breathe in the quieter moments and then drop a cliffhanger that makes them lean forward with intent.
@@ -94,7 +94,7 @@ If you’re curious about how we’ve connected this adventure to broader world-
 - A few players may wish for more explicit tie-ins to external mythic factions; you’ll need to flesh those out during prep to maximize payoff.
 
 ### Final Recommendation
-If your group loves a good noir-tinged mystery that lets characters confront their own masks as much as they confront criminals, Crime & Punishment is a solid addition to City of Mist. It rewards thoughtful roleplay and clever problem-solving, while still delivering punchy moments of action when the moment calls for it. It’s not a “unilaterally perfect” module—no RPG ever is—but it is a well-constructed, highly replayable adventure that will feel fresh across multiple table setups. If you’re planning a one-shot, you’ll get a complete arc with satisfying closure. If you’re implementing it as a bridge in a longer campaign, you’ll appreciate the threads you can pull forward into future sessions.
+If your group loves a good noir-tinged mystery that lets characters confront their own masks as much as they confront criminals, Crime & Punishment is a solid addition to City of Mist. It rewards thoughtful roleplay and clever problem-solving, while still delivering punchy moments of action when the moment calls for it. It’s not a universal slam dunk—no RPG ever is—but it is a well-constructed, highly replayable adventure that will feel fresh across multiple table setups. If you’re planning a one-shot, you’ll get a complete arc with satisfying closure. If you’re implementing it as a bridge in a longer campaign, you’ll appreciate the threads you can pull forward into future sessions.
 
 If you’re keeping a calendar of recommended runs, this one should be near the top for groups who enjoy a modern mythic vibe, strong character moments, and a city that behaves like a living, breathing character with opinions about each hero who tries to rewrite its rules.
 
