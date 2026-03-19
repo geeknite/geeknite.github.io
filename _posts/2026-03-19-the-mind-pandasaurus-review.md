@@ -34,7 +34,7 @@ It’s not about who has the biggest memory or who can plan three moves ahead. I
 
 ### The components: quality meets quiet drama
 
-Pandasaurus doesn’t typically shortchange the physical experience, and The Mind is no exception. The deck itself is sturdy, with large, legible numbers that are easy to read at a glance—crucial when you’re trying to count your own nerve and not your neighbor’s fear. The “life” markers (little tokens you drop when someone blinks wrong) are a nice tactile reminder that you’re still in this together, even as the pressure mounts. The packaging is compact, the art is clean (not distracting), and the minimalism mirrors the game’s core ethos: fewer frills, more focus.
+Pandasaurus doesn’t typically shortchange the physical experience, and The Mind is no exception. The deck itself is sturdy, with large, legible numbers that are easy to read at a glance—crucial when you’re trying to count your own nerve and not your neighbor’s fear. The life markers (little tokens you drop when someone blinks wrong) are a nice tactile reminder that you’re still in this together, even as the pressure mounts. The packaging is compact, the art is clean (not distracting), and the minimalism mirrors the game’s core ethos: fewer frills, more focus.
 
 There’s a certain ritual to placing a card: you slide it into the center pile with a soft thunk that sounds louder in your head than it does in reality. If you narrate every action aloud (a habit some players fall into), you quickly learn to curb it—because silence is the true propulsion of The Mind’s magic.
 
