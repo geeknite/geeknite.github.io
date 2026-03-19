@@ -1,5 +1,5 @@
 ---
-title: "The Mind: Concept Expansion"
+title: The Mind: Concept Expansion
 date: 2026-03-19
 tags:
   - geek
@@ -7,15 +7,19 @@ tags:
   - philosophy
   - mind
   - review
+  - extended-mind
+  - embodiment
+  - AI
+  - education
 ---
 
 ## The Mind: Concept Expansion
 
-If you’ve ever tried to describe your own brain to a toaster, you’ve probably run into the same problem: the mind refuses to be boxed in by skulls, synapses, or even the latest neuro-jargon. Welcome to the grand tour of the mind as an expanding concept: not just a lump of neurons firing in a dark skull, but a sprawling network that includes bodies, tools, environments, cultures, and, somehow, the weirdly persistent habit of humans insisting on calling it “mine.” This post is a field guide, a map, and a friendly reminder that thinking is not something that happens only in your head—it happens wherever you decide to turn your attention and your gears on. So buckle up, nerdette and nerdlord; we’re about to expand the frame until the mind becomes, as the philosophers love to say, an (extended) constellation of cognitive activity.
+If you’ve ever tried to describe your own brain to a toaster, you’ve probably run into the same problem: the mind refuses to be boxed in by skulls, synapses, or even the latest neuro-jargon. Welcome to the grand tour of the mind as an expanding concept: not just a lump of neurons firing in a dark skull, but a sprawling network that includes bodies, tools, environments, cultures, and, somehow, the weirdly persistent habit of humans insisting on calling it “mine.” This post is a field guide, a map, and a friendly reminder that thinking is not something that happens only in your head — it happens wherever you decide to turn your attention and your gears on. So buckle up, nerdette and nerdlord; we’re about to expand the frame until the mind becomes, as the philosophers love to say, an extended constellation of cognitive activity.
 
 ![Brain neurons](./assets/images/brain_neurons.jpg)
 
-### A quick pit stop: What we’re expanding from
+## A quick pit stop: What we’re expanding from
 
 To appreciate the expansion, we should first park the car at the old garage of conventional wisdom. Traditionally, the mind is treated as the brain’s private theater: neurons, synapses, and the occasional epiphanic spike. This control room view gives us a neat, compact model: input from the senses, processing in the cortex (sometimes with the limbic system doing a dramatic solo), and output in the form of actions and words. It’s a clean story—great for textbooks, memes, and the occasional sci‑fi hero who can “hack the mind.” But it’s also an oversimplification that makes a lot of assumptions about where cognition ends and environment begins.
 
@@ -49,7 +53,7 @@ In practice, social cognition means we should design spaces for healthy collabor
 
 If you’ve ever used a calculator for a math problem or typed a reminder into your phone so you don’t forget your grocery list, you’ve engaged in cognitive offloading. The modern mind doesn’t try to juggle every fact in memory; it relies on external systems to manage detail while it maintains bigger goals. This is not laziness; it’s strategic resource allocation. When your brain doesn’t waste energy on remembering a grocery list, it can allocate that energy to planning a trip, solving a novel problem, or inventing a new joke about a toaster.
 
-Digital prosthetics—software and hardware that extend cognitive capabilities—are getting more sophisticated. We’re seeing predictive text that’s not just about finishing sentences but about suggesting lines of reasoning, memory aids that contextualize past decisions, and planning tools that scaffold long-term projects. The result? The mind can operate at higher bandwidth, exploring more options and iterating faster.
+Digital prosthetics—software and hardware that extend cognitive capabilities—are getting more sophisticated. We’re seeing predictive text that isn’t just about finishing sentences but about suggesting lines of reasoning, memory aids that contextualize past decisions, and planning tools that scaffold long-term projects. The result? The mind can operate at higher bandwidth, exploring more options and iterating faster.
 
 ### AI teammates: partners in thought
 
@@ -68,7 +72,7 @@ If you want to see how this plays out in policy and practice, take a look at how
 ### Lab bench at home: embodied practice
 - Try mindful movement for 5 minutes before a problem-solving session. You’ll notice changes in cognitive flexibility and stress levels. It’s not magic; it’s physiology meeting cognition.
 - Use a standing desk or a dynamic chair to keep your body engaged. Monitor how your ability to focus shifts with posture changes.
-- Keep a “thinking journal” with diagrams, not just words. The act of drawing your thought process helps you externalize and critique your own reasoning.
+- Keep a thinking journal with diagrams, not just words. The act of drawing your thought process helps you externalize and critique your own reasoning.
 
 ### Tools as teammates: design for augmentation
 - Build a personal cognitive toolbox: a collection of apps and tools that you trust for specific tasks (note-taking, scheduling, data analysis) and a mental map of when to rely on them versus when to rely on memory.
