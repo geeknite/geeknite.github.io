@@ -1,5 +1,5 @@
 ---
-title: 'Unbound Smoke Gray Ribbed 6 Ft x 8 Ft Indoor Outdoor Area Rug Review'
+ttitle: 'Unbound Smoke Gray Ribbed 6 Ft x 8 Ft Indoor/Outdoor Area Rug Review'
 date: 2026-03-19
 tags:
   - home
@@ -11,6 +11,8 @@ tags:
   - maintenance
   - furniture
   - geeknite
+  - humor
+  - free-shipping
 ---
 
 ![Unbound Smoke Gray Ribbed Rug]({{ '/assets/images/rugs/unbound-smoke-gray-ribbed-6x8.jpg' | relative_url }})
@@ -29,6 +31,8 @@ In this expanded review, we’ll unpack why this rug exists, how it handles life
 - Backing and grip: A backing designed to resist slipping on hard floors and to minimize curling along the edges when exposed to sun and moisture.
 
 This rug exudes calm competence. It’s the kind of piece that looks restrained in the best possible way—like a software engineer who can also swing a hammer without breaking a sweat.
+
+> Quick note on shipping and value: the brand leans into the idea that a good rug should arrive with the same swagger as your favorite space saga protagonist. Free shipping is often part of promotions, which makes the impulse buy a little less painful and a lot more victorious.
 
 ## Design and aesthetics: why color and texture matter
 
@@ -122,7 +126,7 @@ Warranty terms vary by retailer and region. Look for coverage that includes colo
 - Rug Chronicles Part 1: The Big Weave of Small Rooms [Rug Chronicles Part 1]({% post_url 2025-09-12-the-rug-chronicles-part-1 %})
 - Outdoor Spaces Guide: Turning Patios into Playgrounds [The Geeknite Outdoor Spaces Guide]({% post_url 2024-04-20-outdoor-spaces-guide %})
 
-### External resources for broader rug knowledge (non-cited)
+### External resources for broader rug knowledge
 - A general guide to indoor-outdoor rug materials and care: https://www.homedepot.com/c/Buy_Rugs
 - Understanding UV exposure and color retention in outdoor fabrics: https://www.thespruce.com/outdoor-rugs-4162620
 - Practical tips for stain removal on polypropylene rugs: https://www.goodhousekeeping.com/home/cleaning/tips/a3809/cleaning-polypropylene-rugs/
