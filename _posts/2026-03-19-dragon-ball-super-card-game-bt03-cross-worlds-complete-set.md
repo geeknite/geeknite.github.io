@@ -9,9 +9,11 @@ tags:
   - bt03
   - unboxing
   - review
+  - meta
+  - strategy
 ---
 
-From the moment Bandai teased BT03 Cross Worlds, my inner otaku did a nerdy jig that would make a shonen protagonist blush. The Cross Worlds set promises to churn up the Dragon Ball Super Card Game scene with world hopping, flashy foils, and enough tempo to make a chess master swoon. Welcome to a deep dive into BT03 Cross Worlds Complete Set, where we unpack what you actually get, how it plays, and whether it is worth your hard earned arcade tickets.
+From the moment Bandai teased BT03 Cross Worlds, my inner otaku did a nerdy jig that would make a shonen protagonist blush. The Cross Worlds set promised to churn up the Dragon Ball Super Card Game scene with world hopping, flashy foils, and enough tempo to make a chess master swoon. Welcome to a deep dive into BT03 Cross Worlds Complete Set, where we unpack what you actually get, how it plays, and whether it is worth your hard earned arcade tickets.
 
 {% include image.html src='/assets/images/dbs_bt03_cross_worlds.jpg' alt='BT03 Cross Worlds cover' caption='BT03 Cross Worlds Complete Set' %}
 
@@ -37,6 +39,9 @@ To understand how this plays in real games, see our meta breakdown post: {% post
 - Don’t over-commit to a single World early. BT03 rewards a flexible, multi-world tempo, where you can pivot mid-game as your opponent commits to a particular strategy.
 - If you are new to World Shift, start with two Worlds and gradually add a third. Our BT03 primer on deck-building covers these considerations in detail: {% post_url 2025-11-12-dbs-deck-building-primer %}.
 
+### Expanded play examples (no spoilers, but a taste of chaos)
+Imagine you have Worlds A and B in play. You toss in a World Shift enabler that says you can draw an extra card if you played a World of the other color last turn. On the same turn, you cue a finisher that only becomes monstrous when two Worlds are online. The crowd goes wild, your opponent checks their phone for a clock, and you realize you just created a turn that looks suspiciously like a cinematic boss fight. BT03 rewards those moments where your choices ripple into a dramatic finish rather than a grind to the last removal spell.
+
 ## Card design and art direction
 
 The art direction of Cross Worlds is loud, bold, and unapologetically energetic. The neon glow on the border and the dynamic art on the cards makes browsing a joy, even if you are just window-shopping for style points. The Leaders feature iconic imagery that emphasizes the two or more Worlds at play, which is a nice thematic touch that helps you track synergies at a glance.
@@ -49,7 +54,7 @@ BT03 leans into bold contrasts and foil patterns that pop on table surfaces. The
 
 ## Play experience and archetypes
 
-BT03 Cross Worlds opens up several playable routes that feel both distinct and familiar. You can go for an aggressive early plan that hammers your opponent with a two World tempo, or you can extend the game with a controlled pace and set up a late game cross world finisher. The new Leaders help you set up early pressure while supporting the mid game through World Shift triggers.
+BT03 Cross Worlds opens up several playable routes that feel both distinct and familiar. You can go for an aggressive early plan that hammer s your opponent with a two World tempo, or you can extend the game with a controlled pace and set up a late game cross world finisher. The new Leaders help you set up early pressure while supporting the mid game through World Shift triggers.
 
 Possible archetypes include:
 
