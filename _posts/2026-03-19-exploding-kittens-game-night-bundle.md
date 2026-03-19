@@ -1,7 +1,7 @@
 ---
-title: "Exploding Kittens: Game Night Bundle – Geeknite Expanded Review (Updated)"
+title: 'Exploding Kittens: Game Night Bundle – Geeknite Expanded Review (Updated)'
 date: 2026-03-19
-tags: [board-games, party-games, humor, review, family, expansion, updated]
+tags: [board-games, party-games, humor, review, family, expansion, updated, chaos]
 image: /assets/images/exploding-kittens-game-night-bundle.jpg
 ---
 
