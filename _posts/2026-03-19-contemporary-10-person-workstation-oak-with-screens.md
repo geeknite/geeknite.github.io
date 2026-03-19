@@ -1,5 +1,5 @@
 ---
-ttitle: Contemporary 10 Person Workstation, Oak with Screens: Geeknite Review (Updated Edition)
+title: Contemporary 10 Person Workstation, Oak with Screens: Geeknite Review (Updated Edition)
 date: 2026-03-19
 tags:
   - office
@@ -21,11 +21,11 @@ In the world of modern offices, mega-ideas rarely demand mega layouts all at onc
 
 Here at Geeknite, we don’t just review furniture for how it looks in a showroom; we want to know how it behaves when the team attempts a sprint, a brainstorm, and a debugging marathon all within arm’s reach of each other. So we put this oak beauty through the wringer: assembly, day-one use, long-term maintenance, and every little detail in between. Spoiler alert: it’s a wild, polished ride, with a few quirks you’ll want to know before you commit—and a couple of design choices you didn’t know you needed until you tried to squeeze a whiteboard into the corner.
 
-![]({{ site.baseurl }}/assets/images/ten-person-workstation-row.jpg)
+![]({{ site.baseurl }}/assets/images/contemporary-10-person-workstation-row.jpg)
 *A glimpse of the row in all its oak glory, with screens that look like they own the place.*
 
 ### A Quick Take Before We Dive In
-- Pros: majestic oak finish, modularity for future expansion, integrated cable management, privacy screens that aren’t claustrophobic, and a layout that respects personal space while preserving team proximity.
+- Pros: warm oak finish, modularity for future expansion, integrated cable management, privacy screens that aren’t claustrophobic, and a layout that respects personal space while preserving team proximity.
 - Cons: bulkier footprint than the average workstation, some assembly fiddliness if you’re missing a friend who actually reads manuals, and the oak finish can show fingerprints faster than you can say “stand up desk.”
 - Who it’s for: teams that want to feel connected without forming a human horseshoe around a single laptop, teams that appreciate sustainable materials but still need a modern tech stack, and teams that enjoy free coworker parking if you count “the sound of keyboards咳” as a revenue stream.
 
@@ -50,7 +50,7 @@ Let’s be honest: a 10-person setup isn’t a weekend DIY project for the faint
 1. Unpack and lay out the central spine: this is the anchor. It’s a heavy piece, but you’ll be thanking gravity later when the row doesn’t decide to do a spontaneous cartwheel.
 2. Attach the left and right bays: alignment guides help ensure you’re not building a chair-shaped bridge between sections.
 3. Install the monitor arms and privacy screens: if you’ve ever wrestled with clamp mounting, you’ll appreciate the cleanliness of the installation on this bench.
-4. Add the cable management ducts: these snap into place and provide channels for power, USB hubs, and a few emergency snacks you forgot you packed.
+4. Add the cable management ducks (ducts): these snap into place and provide channels for power, USB hubs, and a few emergency snacks you forgot you packed.
 5. Connect power, data, and ventilation: it’s a big system, so plan for a proper power strip and a small air kick to avoid sweating through the oak aura.
 
 The instruction manual is surprisingly friendly—clear diagrams, color-coded nuts, bolts, and an explicit note that says if you’re missing a friend who knows what a Loctite is, you should stop and call for backup. The real magic happens when you realize how modular the system is. If you want to rearrange the team layout for a quarterly hackathon or a cross-functional review, you can reseat modules without a full teardown. It’s not a Lego set, but it’s the closest thing to adult Lego that doesn’t require you to visit the dentist after stepping on a stray brick.
