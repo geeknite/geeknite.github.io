@@ -1,5 +1,5 @@
 ---
-ttitle: 'Exploding Kittens: Game Night Bundle – Geeknite Expanded Review (Updated)'
+title: 'Exploding Kittens: Game Night Bundle – Geeknite Expanded Review (Updated)'
 date: 2026-03-19
 tags: [board-games, party-games, humor, review, family, expansion, updated, chaos, social]
 image: /assets/images/exploding-kittens-game-night-bundle.jpg
@@ -27,7 +27,7 @@ This section is where the bundle earns its literal and figurative thumbs up or d
 - A compact rulebook that reads like a friendly manual but with more sass and fewer diagrams.
 - Tokens and a life-o-meter for dramatic tension (i.e., a simple timer that you’ll probably ignore).
 - A compact box designed for shelf-dwelling aficionados and clutter crisis managers alike.
-- A small dice (sometimes) and a few mini-tray inserts to corral chaos during a gravity-defying snack break.
+- A small die (sometimes) and a few mini-tray inserts to corral chaos during a gravity-defying snack break.
 
 ### Card Quality and Artwork: A Plush Rage Monster You Want on Your Coffee Table
 The cards feel sturdy enough for a dozen play sessions without bending in weird places, though you’ll still handle them like a caffeinated librarian with a stapler at a chaotic book club. The artwork is bold, cartoonish, and designed to elicit giggles and slightly unsettled competitive vibes about your own gaming prowess. The color palette—neon pinks, electric blues, and a carnival of neons—casts your living room in the glow of a late-night streaming setup, minus the mic hiss but plus the mandatory snack-tax.
