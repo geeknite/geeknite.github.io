@@ -1,0 +1,83 @@
+---
+title: Codenames Tevised Edition – Vláda Chvatil Word Game NIB
+date: 2026-03-19
+tags:
+  - board-games
+  - codenames
+  - vlada-chvatil
+  - review
+  - word-games
+---
+
+## Introduction
+Welcome, fellow lexicon explorers. If you came here for speed writing and sudden epiphanies, you are in the right place. Vláda Chvatil has taken his brainy word harvest and bundled it into a new package called Codenames Tevised Edition, a New In Box NIB artifact that promises to double your laughter and triple your suspicion about the people on the other side of the table. In this review we will dive into why this edition exists, what it changes, who will love it hardest, and whether you should drop your life savings to add this to your shelf of questionable decision making.
+
+## What is Codenames Tevised Edition
+Codenames Tevised Edition is pitched as a revised take on the classic party word game, designed by Vláda Chvatil the mastermind behind the original game. The Tevised Edition adds a few twists that feel like a clever twitch of the designers mustache. There is a new card stock quality, a scrupulously balanced set of new word cards, and a set of optional rules that tilt the classic game into more chaotic but also more hilarious territory. The name Tevised hints at testing and tweaking, a nod to the publisher love letter to the craft of game design. The goal remains the same at heart: two teams race to identify their agents on the grid using one word clues and a number that tells how many cards to pick. The twist is that the Tevised Edition also introduces new prompts for the spymaster and a special round mode that rewards daring leaps of language and the willingness to gamble on a pun that should probably be illegal.
+
+For die hard fans of the original, the core mechanism remains intact. You still have 25 word cards laid out in a grid, you still have red agents, blue agents, bystander cards, and one dreaded assassin. The role of the spymaster is to connect as many of their agents as possible with a single clue that merges multiple target words into a clever concept. The opposing team will then attempt to interpret and pick the right cards before your own team does. The Tevised Edition changes the math a little, but the soul of the game stays the same: it is about linguistic associations, risk management, and the occasional moment of sheer absurdity when a player reads a clue that somehow ties three random words together.
+
+### Box contents and physical quality
+The New In Box packaging arrives with a crisp heft and a sense of purpose that makes you feel you are about to tackle a language meal prepared by a professor with a coffee addiction. The card stock is thicker than the original, which helps with long sessions and the inevitable stacks of coffee cups. The cards have a matte finish that reduces glare under overhead lighting so you can actually see the words without a glare duel with the lamp. The grid tiles are sturdy and lay flat with no curling, a small but meaningful improvement if you plan to play on a wobbly coffee table while your cat judges your life choices from the armrest.
+
+![Codenames Tevised Edition box art](/assets/images/codenames-tevised-box.jpg)
+
+## How to play in under 5 minutes if you are caffeinated and lucky
+If you already know how to play classic Codenames, Tevised Edition is basically a speed bump with more glitter. If this is your first rodeo, do not panic; you can learn the gist in less time than it takes to explain a meme to your grandma. The game uses the same 25 word cards laid out in a 5 by 5 grid. The red team and blue team each have a spymaster who knows which words are theirs and which are dangerous. The other players are field operatives who must listen closely to the clue and place their bets accordingly.
+
+Your spymaster gives a one word clue followed by a number. The one word should allude to multiple target words on the grid. The number tells your team how many cards to reveal. The catch is that you do not know exactly which cards your clue touches. If you pick a word that belongs to the other team, that word is revealed to the enemy. If you reveal a bystander, nothing catastrophically wrong happens, but you wasted a guess and your team sighs in unison. If you reveal the assassin, your team loses immediately. The aim is to reveal all your own team’s words before the other team does. Simple, right? Not quite, because the Tevised Edition adds layers to this core mechanic that require the players to think not only about direct meaning but also about connotation, metaphor, and borderline ridiculous puns.
+
+### The new twists you actually want
+One of the standout features in the Tevised Edition is the new prompt set for the spymaster. It allows for more flexible and often more ridiculous clues. The rules offer a few optional modes: a fast mode where the spymaster gets to push a panic button after each clue, a safe mode with more forgiving clues, and a mixed mode that alternates between quick rounds and slow mind-benders. The designers also included a set of expansion cards that you can mix in to increase the variety of word possibilities. This makes the game feel fresh even if you have played the original many times and have every word card memorized by your brain cell count.
+
+External links
+- Official page of the game on the publisher site: https://www.czechgamesedition.com/en/games/codenames
+- Quick read: our own post on the differences between original and revised editions here: {% post_url 2024-12-01-geeknite-codenames-differences %}
+
+### Components and design quality considered for a giggly table
+Now that we have the gist, let us talk about the physical components in detail. The cards themselves are bright and legible, with bold fonts that stand out under most lighting conditions. The color coding for red and blue words is clear, and the assassin card pops with enough menace to keep players on their toes. The bystander cards are properly non threatening but still visually interesting, which is exactly what you want when you are trying to maintain a good mood while your friend declares an insane clue such as a one word that could plausibly refer to two of the same  word across two different languages.
+
+In terms of packaging, the box is sturdy enough to survive a move to your new apartment without giving you a heart attack when you realize you own more board game boxes than actual shelves. The instruction sheet is reasonably concise; you can teach a new player in under five minutes if you get your timing right and your audience has a knack for punny wordplay. There are sections dedicated to variants and optional rules that allow you to customize the experience to your group, which is essential because no two game nights are the same. The Tevised Edition does not pretend to be a revolution; it leans on slight improvements and a friendly sense of humor to make it a more accessible experience for casual gamers and hobbyists alike.
+
+## The core experience: wordplay, teamwork, and a pinch of chaos
+At its heart, Codenames is a game about linguistic leaps and social negotiation. Tevised Edition intensifies the social component by introducing prompts that push players toward more daring associations. A good clue can tie four or five words together in a single conceptual umbrella, but a great clue can do that while keeping your own team from wandering into the enemy's camp or accidentally labeling grandma as an assassin. The pleasure comes from that moment when a pun lands and your teammates groan, laugh, and then suddenly see the pattern in a way that would make a literature professor nod in approval and a linguist whisper wow in the corner.
+
+One of the reasons this edition shines is the balance it achieves between access and depth. It remains approachable for newcomers; you can learn the rules in a single sitting, play and have fun, and still discover subtle layers of nuance that make repeat plays surprisingly rewarding. If your table includes non native speakers or players who prefer puns in a particular language, you can adjust the difficulty by adjusting the allowed word lists or picking a language specific word deck. The designers anticipated this variability and included a few guidelines for language steerage that you can apply if you want to keep the chaos and cut down on confusion.
+
+### Strategy and tips you can actually use
+To maximize your chances of success, you need to think both like a poet and like a spy: find connections that link multiple target words while avoiding obvious ties to the opposite color words. Here are a few practical tips that remain true in the Tevised Edition:
+- Start with broad categories and collapse as you go. A clue that hints at two or three words is often better than a single word for many reasons, including the fact that you can misread or misinterpret a single word more easily than a handful.
+- Be mindful of proximity. If two of your target words sit near each other, a single clue might touch both. But if one of those cards is a dangerous assassin, you may be signing your team up for failure. It is a high risk, high reward dance, and you should enjoy the ride if you can.
+- Use language creatively but avoid overcomplicating your clue. If your clue is too obscure, your teammates will panic and you will be forced to watch your opponents celebrate a lucky guess. The Tevised Edition adds prompts that reward cunning but punish confusion. Remember, you can always pass or adjust your risk appetite as rounds proceed.
+- Read the room. The best clues are those that align with your team's shared experiences, references, and inside jokes. If your group is into pop culture vibes, a clue that ties several terms to a movie or meme can yield results that would make a philosopher proud. If your group mostly consists of engineers, a clue tied to a hardware concept might click in ways you never expected.
+
+### Who should buy this edition
+If you are the type of gamer who enjoys social deduction and wordplay in equal measure, this edition is a strong addition to your shelf. It is also a good choice for families and groups that gather regularly but vary in gaming experience. The Tevised Edition is forgiving enough to accommodate novices yet deep enough for longer play sessions to remain engaging for seasoned players. It scales well from small groups to larger ones where multiple tables can join a party with different modes. If you have tried the original Codenames and found the pacing a little slow for your taste, Tevised Edition will feel like a welcome injection of energy, albeit with a slightly more chaotic flavor.
+
+### Story and design philosophy of Vláda Chvatil
+Vlada Chvatil has a reputation for blending clever wordplay with accessible mechanics. This edition stays true to that ethos by elevating the social interplay and providing more room for players to flex their imaginative muscles. He has a knack for designing games that are not just about scoring but about the stories created during the session. You remember the outrageous clues and the moments when your team misinterpreted a word and the table erupts into laughter, not rage. That is the magic of Chvatil games: you leave a session with a grin, a few inside jokes, and possibly an improved appreciation for the power of language. Tevised Edition continues this tradition by offering more opportunities for witty misdirection and collaborative problem solving without becoming an impenetrable labyrinth of rules.
+
+## Accessibility and production value
+If you care about accessibility, Tevised Edition is a nice step up. The larger font, improved card brightness, and sturdier components make for a smoother experience at the table, especially when the room is humming with conversation and beverages. The design team has also considered players who use the game in different languages, providing guidance on how to adapt clues across linguistic boundaries. While no game is perfect for everyone, the Tevised Edition makes a deliberate effort to reduce friction and maximize enjoyment for diverse groups.
+
+### Flaws and areas for improvement
+No game is perfect, and Tevised Edition is no exception. The abundance of new prompts can sometimes feel a touch overwhelming for players new to the concept. It is easy to get into a mode where you chase a clever clue at the expense of clarity for your teammates. In addition, while the new card stock is excellent for durability, it does make the entire deck heavier, which can be a minor nuisance for carry-on travelers who pack this game into a backpack with other gear. Also, the price point is somewhat higher than the original; if your budget is tight, you may want to wait for a sale or consider whether the extra twists justify the investment. Finally, those who relish a perfectly balanced pun structure may find that some prompts lean toward chaos rather than elegance. If you love razor-sharp wordplay that tucks into a neat theme, you may need to curate the deck a bit to keep the experience harmonious.
+
+## Should you get the Tevised Edition
+If you already own the original Codenames and you want more variety without sacrificing the essential feel of the game, Tevised Edition is a natural upgrade. If you are new to the world of Codenames and want a party game that can bridge ages and tastes, this edition is a strong starting point that also offers depth for future sessions. The new modes and prompts give you fresh reasons to revisit the box, and you will likely discover new ways to play that keep the experience fresh after dozens of rounds. It is not the cheapest option, but it is a solid investment for those who care about quality components and a slightly sharper, more chaotic brand of wordplay. If you want something that hits the sweet spot between accessibility and challenge, this edition will likely be your go to pick. If you prefer a more straightforward experience with fewer variables, you might be happier with the original or even a different party word game.
+
+## Conclusion
+Codenames Tevised Edition is a playful nod to the art of language, a game that tests bonds as much as vocabulary. It is not a revolution, but it is a thoughtful, well crafted iteration that modernizes a classic with grace and a wink. The new prompts, improved components, and optional modes give you fresh reasons to gather friends for an evening of laughter and linguistic misadventure. If you love witty clues, huge laughs, and the occasional face palm as someone reads a clue that defies all logic, this edition is for you. It has enough new material to justify a buy for fans of the original while offering enough tweaks to keep new players engaged. The game shines when played with a group that loves puns, references, and friendly strategic chaos. It is not a heavy Euro game, nor is it a light filler; it sits comfortably in the middle and provides a satisfying experience that can fill an evening of storytelling and friendly competition.
+
+### Quick links to other posts
+- See our take on the evolution of word games in our post on the differences between classic and revised editions: {% post_url 2024-12-01-geeknite-codenames-differences %}
+- For background on Vláda Chvatil and his design philosophy, we have a profile piece you can read here: {% post_url 2023-08-21-meet-the-designers-vlada-chvatil %}
+- If you want more party game recommendations, check out our top picks list: {% post_url 2025-03-12-geeknite-top-party-games %}
+
+## Final recommendation
+If you are in the market for a lively, humorous, and surprisingly brainy party game that can handle a wide variety of players, Codenames Tevised Edition is a strong contender. It has enough new material to justify a buy for fans of the original while offering enough tweaks to keep new players engaged. The game shines when played with a group that loves puns, references, and friendly strategic chaos. It is not the cheapest option, but it is a solid investment for those who care about quality components and a slightly sharper, more chaotic brand of wordplay. If you want something that hits the sweet spot between accessibility and challenge, this edition will likely be your go to pick. If you prefer a more straightforward experience with fewer variables, you might be happier with the original or even a different party word game.
+
+### Where to buy
+- Official store link: https://affiliate.geeknite.example/codenames-tevised-edition
+
+**Purchase Codenames Tevised Edition via our affiliate link and support Geeknite.**
