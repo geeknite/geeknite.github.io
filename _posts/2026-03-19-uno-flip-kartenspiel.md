@@ -17,7 +17,7 @@ tags:
 
 Wenn ihr gedacht habt, UNO sei schon das maximale Adrenalin-Level eines Familienabends, dann haltet euch fest: UNO Flip! ist der Sprung ins dunkle Licht eines Kartenspiels, das mit einer einfachen Prämisse beginnt und in zwei Farben lachen will, während ihr versucht, die ständigen Wendungen zu überleben. Das Besondere? Eine Kartenseite ist hell und freundlich – die andere Seite ist dunkel, frech und bereit, eure Spielpläne zu ruinieren. Wir werfen einen detaillierten Blick auf Design, Mechanik, Spielgefühl und warum dieses Spiel in eurer nächsten Runde gespielt werden sollte. Und ja, wir nehmen das Ganze mit der nötigen Geeknite-Ahnung, aber ohne zu weinen, falls ihr verliert.
 
-![UNO Flip! Kartenspiel Box]( {{ '/assets/img/uno-flip/box.jpg' | relative_url }} )
+![UNO Flip! Kartenspiel Box]({{ '/assets/img/uno-flip/box.jpg' | relative_url }})
 
 > Hinweis: Wenn ihr neue Spielende beim ersten Mal seid, braucht ihr wahrscheinlich zwei Durchläufe, um den dunklen Charme zu begreifen. Keine Sorge – das gehört zum Spaß dazu.
 
@@ -26,7 +26,7 @@ Außerdem testen wir heute, wie gut UNO Flip! im Familienkreis funktioniert, wie
 ## Was ist UNO Flip!? 
 UNO Flip! ist eine Abwandlung des klassischen UNO, bei dem das Kartenspiel in zwei Seiten kommt: einer hellen (normalen) Seite und einer dunklen (Flip!-Seite), die per Flip-Karte sichtbar wird. Es gibt neue Aktionskarten, die das Tempo erhöhen, das Board-Drama steigern und die Möglichkeit bieten, dem Gegner schillernde Überraschungen zu bieten. Ziel bleibt dasselbe: als Erster alle Karten loszuwerden. Doch die Wendung mit der Flip-Seite sorgt dafür, dass jede Runde unvorhersehbar wird – und das ist der Reiz.
 
-Die Grundmechanik bleibt familiar: Du legst eine Karte gleichen Werts oder gleichen Farbe an, oder du spielst eine Aktionskarte. Aber sobald die Flip-Karte kommt, wird der Stapel umgedreht und die neue Farb- oder Aktionslogik kommt mit einem Twist. Das führt oft zu Erstaunen, Gelächter und dem typischen UNO-Gemeinschafter-Blick, der sagt: Noch eine Runde? Warum nicht!.
+Die Grundmechanik bleibt familiar: Du legst eine Karte gleichen Werts oder gleichen Farbe an, oder du spielst eine Aktionskarte. Aber sobald die Flip-Karte kommt, wird der Stapel umgedreht und die neue Farb- oder Aktionslogik kommt mit einem Twist. Das führt oft zu Erstaunen, Gelächter und dem typischen UNO-Gemeinschafter-Blick, der sagt: Noch eine Runde? Warum nicht!
 
 ## Komponenten, Qualität und Design
 UNO Flip! kommt in einer robusten Box, die dem Zwei-Seiten-Konzept gerecht wird. Die Karten sind in zwei Farbenpaletten gehalten – hell und dunkel – mit gut lesbaren Symbolen, die auch bei schlechten Lichtverhältnissen funktionieren. Die Kartenqualität ist solide: nicht billig, aber auch kein Premium-Papier. Das Gewicht der Karten ist angenehm, das Recycling der Papbegriffe wirkt durchdacht, und die Druckqualität hält den Staub von den Vorderseiten fern.
