@@ -9,9 +9,10 @@ tags:
   - party-games
   - geeknite
   - nerdculture
+  - updated
 ---
 
-![Go Fuc Yourself cover](./assets/go-fuc-yourself-cover.jpg)
+![Go Fuc Yourself cover]({{ '/assets/go-fuc-yourself-cover.jpg' | relative_url }})
 
 ## Introduction
 
@@ -153,16 +154,16 @@ If you are chasing a night that feels like a chaotic but loving romp through a n
 
 If you want a party starter that doubles as a witty coffee-table companion, Go Fuc Yourself earns a solid rating from this Geeknite crew. It encourages collaboration, it sparks conversation, and it rewards players who come to the table with energy, creativity, and a willingness to be ridiculous in service of a good laugh.
 
-## Pros and Cons
+### Pros and Cons
 
-### Pros
+#### Pros
 - High replay value thanks to the mix of essays and prompt cards
 - Strong nerdy voice that aligns with Geeknite style
 - Encourages inclusive humor and group participation
 - Good balance between bite-sized jokes and longer essays
 - Finely designed visuals that support readability and humor
 
-### Cons
+#### Cons
 - Edgier prompts may not suit every group or setting
 - Not a narrative-driven experience; more of an improvised party tool
 - Some players may need a quick “house rules” session to avoid misfires
@@ -182,4 +183,3 @@ Go Fuc Yourself draws from a rich tradition of humor that thrives on subverting 
 So gather your crew, shuffle the deck, crack open the book, and prepare for a loud, goofy, nerdy ride. The page-turning is fast, the prompts are inventive, and the energy is contagious enough to turn even a Tuesday into a memory you’ll still laugh about next Christmas.
 
 **Go forth, gather your party, and embrace the hilarity: https://affiliates.geeknite.com/go-f-yourself?ref=geeknite**
-
