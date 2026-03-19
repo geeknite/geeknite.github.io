@@ -1,116 +1,108 @@
 ---
-title: "Sushi Go! Card Game Review: Quick 2-5 Player Fun for Ages 8+"
+title: 'Sushi Go Party! Review: The Pick & Pass Card Game for Family Fun Nights'
 date: 2026-03-19
-tags: [board-games, card-games, family-games, reviews, geeknite]
+tags: [board-games, card-games, party-games, reviews, geeknite]
 ---
 
 ## Introduction
-If you need a little portable chaos that somehow feels organized despite the chaos, Sushi Go! is your go-to snack-sized brain workout. This is the game that makes you feel like a high-stakes chef while you’re actually debating whether to take the egg nigiri or the salmon nigiri with your friends, all while your audience cheers for a perfect combo and a looming misread of an opponent’s intentions. The premise is simple: draft cards and collect sets to maximize points. The execution: fast, breezy, endlessly repeatable, and surprisingly cheeky for a game that fits in your pocket. It’s the sort of game that travels well, plays in under 20 minutes, and somehow makes you believe you’re a drafting mastermind even if you’ve just memorized which plate looks like a perfect pun for your table’s current mood. In short, Sushi Go! nails the portable, quick-playing, finger-gun humor of casual gaming without pretending to be more than it is: a bite-sized, high-replay-value card game that’s perfect for 2-5 players and ages 8 and up.
+If Sushi Go! was the pocket-sized pick-up game you whip out for a quick laugh, Sushi Go Party! is the buffet upgrade you secretly bring to the family reunion and pretend you’re doing it for the kids. This is the version that turns your dinner table into a rotating conveyor belt of cute Japanese snacks, without requiring you to master a spreadsheet or a culinary degree to count points. Sushi Go Party! keeps the core thrill of drafting and set collection, but expands the menu, the players, and the chaos just enough to feel like you’ve upgraded from a snack to a full-on fusion tasting menu of chaos—without losing the bite-sized tempo that makes it a paragon of quick party gaming.
 
-For the uninitiated, it’s a set-collection, drafting game. Each round, you get a hand of cards. You pick one card from your hand, then pass the rest to the next player. You’ll be building a little sushi cart through the round, trying to assemble the most valuable combinations to score big at the end of the round. It’s adorable, it’s compact, and it’s shockingly strategic under a layer of cheerful, emoji-like food art. The big win is how many rounds you can play in a single session without anyone getting bored or someone grabbing the last dumpling and claiming sushi victory as if it were destiny.
+The base Sushi Go! is a crowd-pleaser: 2-5 players, 15–20 minutes, adorable art, and enough micro-strategy to keep you honest without turning you into a cognitive architect. Sushi Go Party! takes that DNA and injects personality into every round by adding a slew of new cards, optional rules, and customizable menus. It scales from a cozy 2-player duet to a party-friendly 8-player game that somehow never feels like a logistics nightmare. It still lands in under 30 minutes, but now each round can feel like a different night at the sushi bar—same vibe, more variety, and a little more table banter.
 
-For a lot of folks, Sushi Go! is their first real “drafting” game that doesn’t require a spreadsheet or a chemistry major to track scoring. It’s approachable, it scales nicely from 2 players to a louder 5-player party, and it plays fast enough that you can actually remember what happened last round without needing a nap between turns. The entire package feels like a micro-adventure in a lunchbox: you trade witticisms with friends, chase the best sets, and occasionally realize you were one card away from a perfect combination that would have earned you a legendary, chair-throwing victory (okay, maybe not that dramatic, but it’s still satisfying).
+For folks who love a tasteful blend of luck and strategy, the party edition offers two big wins: it widens the pool of potential combos (so you can chase that spicy tuna nigiri while your friend sabotages you with an unexpected Maki rush) and it adds a social rhythm that’s perfect for gatherings where Jo from HR wants to prove she’s the real drafting mastermind. The result is a game that stays light on its feet but becomes surprisingly juicy in late rounds, especially with a few house rules to lean into bragging rights, memory games, and the occasional trash-talking moment about who drafted the blindingly perfect set too early.
 
-If you want to learn more visually, check out the official site and see the art and cards up close: [Sushi Go! official page](https://gamewright.com/product/sushi-go/). You’ll also find the game documented on BoardGameGeek, which is a good stop for fan-made strategies and expansions: [BoardGameGeek – Sushi Go!](https://boardgamegeek.com/boardgame/165360/sushi-go).
+If you’re here to learn visually, you can still check the official page for card art and menu previews, but we’ll walk you through the flavor without needing a museum tour. Think of Sushi Go Party! as the “theme park ride” version of a classic: it keeps the familiar sense of speed and spontaneity, but with new scenery and a few surprising twists that let you customize the experience for your crew.
 
-### In-box snapshot (with a little art critique)
-Before we dive deeper, here’s the vibe: the cards are bright, with clean iconography and a playful palette that would make a panda in a chef hat grin. The mini-figures aren’t the point here; the art serves the game: easy to read, quick to teach, and fast to score. The cards themselves are sturdy enough to survive a dozen family game nights and a couple of frantic moves at a convention table, which is basically what you’re hoping for in a travel-friendly game. For the visuals alone, Sushi Go! earns a lot of the fan love it gets on the floor.
+> External note: for additional flavor and guides, you can explore the official variant and related accessories on Gamewright’s site, and you can sample fan-strategies and debates on BoardGameGeek. Links later in this post.
 
-![]({{ '/assets/images/sushi-go-cards.jpg' | relative_url }})
+![Sushi Go Party! cards on a table, ready to glide into a chaos-curated round]({{ '/assets/images/sushi-go-party-cards.jpg' | relative_url }})
 
-## What is Sushi Go! and How It Works
-Sushi Go! is a fast-paced set-collection drafting game. You’re drafting sushi dishes to assemble the most valuable combinations across a series of rounds. The scoring comes from multiple card types, each with its own quirky rule: Nigiri cards give you direct points; Wasabi sets boost your next Nigiri; Maki cards award points for having the most Maki; Sashimi rewards with a big payoff if you collect three; Dumplings scale in value as you collect more; and Pudding cards score at the very end of the game, adding a little long-view strategy to the short-term skirmish.
+## What Sushi Go Party! Is and How It Works
+Sushi Go Party! is the expanded, more flexible take on the brisk pick-and-pass drafting game. The core loop remains the same, but with a crucial upgrade: a larger pool of card types, more ways to score, and optional components that let you tailor the experience to your table. You still receive a hand of cards, pick one, and pass the rest to the left, repeating until all cards are claimed. The end of each round has you tallying points from your collected dishes, with some cards providing immediate payoffs and others rewarding longer-term planning. The addition here is variety—more cards to tempt you, more combos to chase, and more room for social wins and misreads.
 
-The core loop is delightful in its simplicity:
-- Everyone receives a hand of 7 cards (in a 2-player game, you’ll handle a slightly different hand size). 
-- You pick one card to keep and simultaneously pass the rest to the left. 
-- After everyone has chosen, you reveal your chosen cards and start the next round with the passed hands.
-- At the end of each round, you score based on the cards you’ve collected so far. The next round uses a fresh hand, but the same passing mechanic keeps the social tension high and the table slightly chaotic.
+In Sushi Go Party!, you’ll encounter multiple scoring streams designed to reward different risk profiles. Some menus lean into high-risk, high-reward play (going all in on a rare, high-value dish), while others reward steady, steady progress (building modest sets that combine into reliable points). The Wasabi mechanic remains a playful nudge: if you manage to anchor Wasabi to a strong Nigiri, you create a little “double-dip” moment that can swing the table. But with more cards on the table, there are more counterplays, more near-misses, and more opportunities for a late round twist that makes someone else’s victory feel just out of reach.
 
-This is where the “quick” part shines. A full 2-5 player game typically lasts 15-20 minutes, depending on how much banter you inject into the drafting process. It’s short enough to slot into a kitchen-table mini-tournament, yet satisfying enough that you’ll still feel a little proud when you out-maneuver the group and claim a handful of dumplings before anyone realizes what’s happening.
+### In-box snapshot
+The packaging and components stay faithful to the brand—bright colors, cute characters, and an art style that reads quickly from across the table. The cards are sized the same, with sturdy stock designed to survive the combined chaos of family nights and convention hall tabletop shenanigans. The new menu cards and additional tokens can add a touch of weight to setup, but the payoff is worth it: you’ll want to reach for the cookie-crumbed prize cards again and again.
 
-### Card types at a glance
-- Nigiri: Direct points (values 1, 2, or 3 depending on the card). Wasabi can triple the power of the next Nigiri you play, which creates a little “kill-switch” opportunity where you either luck into a bright moment or watch a rival rack up the points you could have claimed.
-- Sashimi: Collect three to score a chunky 10 points (x2 if you somehow cheat your way into the math). Not every round gives you a perfect three-card haul, but when it happens, you feel like a ramen whisperer.
-- Dumplings: The more you collect, the more you score in a tiered fashion (1, 3, 6, 10). It rewards a little risk-taking and a lot of memory about what’s already been claimed.
-- Maki Roll: The number of Maki cards you have at the end of a round determines who gets the points for most Maki. It’s a pure “one-vision, one-shot” scoring area that can swing a round if you’re not paying attention.
-- Pudding: Scored at game end; the more pudding you stack, the better your final score. This adds a long-term objective that can punish or reward risk-taking later in the game.
-
-The Wasabi card deserves special love. It’s a tiny tactical nudge that can completely change a round’s outcome if you’re paying attention. It rewards either opportunistic timing or a careful memory of what the table is likely to draft next. It’s a neat little mechanic that elevates the game beyond a simple “collect the best set” exercise.
-
-## How to Play in 5 Easy Steps
-If you’ve ever played a game of rock-paper-scissors and felt like an ancient sage because you out-predicted your friends once, Sushi Go! will feel like a gentle, edible upgrade. Here’s a practical walk-through to get you started:
+## How to Play in 5 Easy Steps (with Party Flair)
+If you’ve ever watched a kitchen show where the host is simultaneously whispering to a timer and juggling dumplings, Sushi Go Party! will feel familiar, but gentler on the nerves. Here’s a practical walk-through that keeps the energy high and the learning curve gentle:
 
 ### Step 1: Set Up
-- Shuffle the entire Sushi Go! deck and deal 7 cards to each player (for 2 players, some rules adjust the hand size; you’ll quickly adapt if you’re playing at home).
-- Place the remaining deck in the middle as a draw pile.
-- Each player keeps their own score tracker (or uses a sheet of paper). The pudding tokens are on the table, ready to be counted at the end.
+- Decide on a menu set for the session (Sushi Go Party! offers many menu options; you can mix and match cards to tailor difficulty and variety).
+- Shuffle the chosen deck and deal a hand to each player. The exact hand size depends on the player count and the menu, but assume a generous 7 cards per hand as a starting point.
+- Place the draw pile in the center and give each player a score track or paper to tally points across rounds.
+- Set aside any pudding or bonus tokens if your menu includes them. These often appear in late-game scoring and reward long-term memory and planning.
 
-### Step 2: Pick and Pass
-- All players select one card from their hand and simultaneously reveal it. Then everyone passes the remaining cards to the left.
-- Repeat the process with new hands until all cards have been claimed and played.
+### Step 2: Pick, Pass, Repeat
+- Each player selects one card from their hand and place it face down in front of them.
+- All players reveal simultaneously, then pass the remaining cards to the left.
+- Repeat with the new hand until all cards have been claimed and played.
 
-### Step 3: Reveal and Score Round
-- After all cards from a hand are played, tally the points for the round based on the card types you’ve collected. Nigiri adds straightforward points; Wasabi’s effect sits in comma with your next Nigiri; Maki counts the most at the end of the round; Sashimi pays if you got 3; and Dumplings scale if you’ve collected multiple.
-- The round ends; you shuffle the deck if you want to run another round (the game is typically best with 3 rounds, but you can choose a shorter or longer playtime).
+### Step 3: Reveal, Score, and Reset Round
+- Tally points for the round according to the cards you’ve collected. Nigiri and Wasabi interactions still shine, but you’ll notice more scoring lanes appear due to the extra cards on the table.
+- If you’re using a multi-menu setup, tally those specific scoring conditions as well. The more menus you adopt, the more forks in the road you’ll encounter when it comes to strategic consistency.
+- Clear the playing area, gather the used cards, and shuffle for the next round. The sense of momentum should stay intact; the game length remains friendly and approachable.
 
-### Step 4: Tally Pudding and End Game
-- Pudding cards accumulate across rounds and only score at the game’s end. They’re a gentle reminder that sometimes you need to plan ahead rather than sprint for the nearest tasty plate.
+### Step 4: Pudding and End Game
+- Pudding cards, if included, score at the end of the total rounds. They provide a longer arc to the match, rewarding players who can balance short-term gains with long-term accumulation.
+- Decide on a game length before starting (3 rounds is common, though more rounds can be added for a longer session). The pacing should feel like a crescendo, not a marathon.
 
 ### Step 5: Endgame Scoring and Victory
-- After the final round, count pudding points and add them to your current total. The player with the highest total wins. In case of a tie, you can resolve with a quick “sushi duel” or a polite coin flip and a friendly shrug.
+- After the final round, tally pudding points (if used) and add them to your cumulative score. The highest total wins. In case of a tie, a quick tiebreaker—perhaps a mini round of “last bite wins”—can keep the vibe friendly and fun.
 
-## Why Sushi Go! Works as a Party and Family Game
-Sushi Go! excels in multiple contexts. It shines on family game nights where players range in ages and attention spans. It’s approachable for kids who can count, track, and recognize patterns, yet it also provides a subtle strategic layer that adults appreciate. The luck factor keeps everyone honest—no one feels like they’ve tucked away a perfect strategy die-hard—while the drafting mechanic gives each turn a sense of agency that’s rare in such quick titles.
+## Why Sushi Go Party! Shines as a Party and Family Game
+This edition is a natural bridge between casual family games and the occasional party game night. It’s approachable for kids who can count and recognize patterns, yet it scales quickly into a brain-tickling, social drafting challenge for adults. The randomization in each round means no single strategy dominates, which keeps the game honest and entertaining for longer sessions. The social dynamics are where the real magic happens: banter, light banter, and the occasional groan as someone misses a perfect combo by one card. That’s the essence of the party vibe—shared moments of “almost” and “nailed it” that keep everyone smiling.
 
-In a party setting, the brief playtime means you can fit a handful of rounds into a single evening, allowing for cycling groups and social energy to breathe. The light competition is friendly enough for casual gamers while still offering enough micro-situations to spark discussion, banter, and light bragging rights. It’s the sort of game that makes you want to run it again just to try a different meal lineup and to test the theory that dumplings are secretly the best path to victory.
+In a party setting, the increased player count and variety of menus create a dynamic that’s hard to beat. You can rotate players, swap menus, and experiment with different scoring emphases without changing the core rules. The quick rounds mean you can cycle through a few different dining themes in one evening: a spicy tuna sprint, a dumpling-stocked endgame, or a sashimi sprint that ends with a glorious final burst of points.
+
+The game’s charm also makes it terrific for families with mixed ages. Younger players learn pattern recognition and basic calculation, while older players enjoy the subtle strategic depth without it ever tipping into mean-spirited competition. It’s the rare game that feels like a universal solvent for ages and temperament: quick, portable, and endlessly varied.
 
 ## Components, Design, and Accessibility
-The component quality is solid for a card game of its size. The art direction is bright, cheerful, and cohesive, which makes it easy to teach and even easier to play. The iconography is clear: you’ll know a Nigiri from a Maki from a Dumpling in a single glance, which is a big deal when you’re trying to keep the table moving instead of sorting through instruction sheets.
+Sushi Go Party! leans into the series’ core strengths: bright, legible iconography and a friendly aesthetic that makes teaching a breeze. The card art is consistent with the Sushi Go style—adorable little sushi avatars doing their best chef impressions. The new cards introduce a couple of worthwhile tactile additions: larger menus offer a more tactile sense of choice, and the broader range of sets means you can tailor risk and reward to your group’s appetite for complexity.
 
-The Wasabi mechanic is a highlight for those who like little puzzles. It’s not overbearing, but it introduces a moment of calculation that keeps players engaged without turning the session into a calculus seminar. It also scales well with 2 players and 5 players alike, which is a rare and valuable trait in a quick card game. And yes, the cards are durable enough for kids, for travel, and for a few cereal-box-desk-fort nights where you’re pretending your kitchen table is a sushi counter in Tokyo.
+Accessibility remains a standout feature. The rules are straightforward enough for a first-timer, yet there’s enough nuance in the card interactions to reward repeated play. The Wasabi mechanism continues to function as a quick tactical pivot, but the larger card pool means you’ll sometimes find yourself deciding between two equally tempting paths rather than chasing a single dominant combo.
 
-## Sushi Go! Party and Expansions
-If you’ve wondered whether there’s a way to expand Sushi Go! without tipping over the minimalist charm, Sushi Go Party! is essentially the more flexible, party-friendly version of the base game. It introduces more cards, more menu options, and the possibility to customize your own menu for each game night. If you love the core idea but crave more variety, Party! is a solid upgrade that keeps the same core drafting rhythm and adds a bigger flavor profile to your rounds.
-
-External note: if you want to explore the official route, you can peek at the Sushi Go Party! variant and related accessories on the Gamewright site or on major retailers. It’s the same spirit, just with more plates to juggle and more elaborate combos to chase.
+For families and travelers, the packaging and components are robust enough to survive a few bumps and drops. The cards’ durability, the compact footprint, and the quick setup all contribute to a game that you can pull from a bag on the go and slot into any kind of social gathering. It’s not a luxury production, but it doesn’t need to be—the charm is in the playability and the warm, approachable aesthetic.
 
 ## Thematic Consistency and Humorous Touches
-Sushi Go! leans into a lighthearted, family-friendly comedy of plate-collecting. The card art is chock-full of cute sushi avatars that look like they’ve just finished a dance class and decided to audition for a cartoon food band. The humor is built more on timing and communal misfortune (you almost had that perfect 3-Sashimi run but got passed a Maki instead) than on any edgy jokes. It’s the kind of vibe that makes the table smile without forcing you to engage in competitive posturing or dramatic declarations.
+Sushi Go Party! leans into a lighthearted, family-friendly humor that matches the core game’s vibe. The art conveys character without leaning into any edgy or risky humor, which is perfect for family nights, school game clubs, or a pizza-and-games weekend with friends. When you misread an opponent’s plan or you somehow roll into a Wasabi-powered moment that detonates your tablemates’ plans, the humor lands as a shared moment rather than a personal jab.
 
-For players who want a little extra flavor, you can pepper in light house rules: e.g., if a player misses a round, they can earn a “Gourmet sympathy” bonus in the next round; or a small house rule that encourages banter about which card is “the edible power move.” Just remember: the best part of Sushi Go! is the way it turns a table into a chorus of cheerful banter and mini-strategies rather than a battlefield of mean-spirited competition.
+If you want to spice up a session with a few gentle house rules, you can sprinkle in playful incentives: a “Gourmet sympathy” bonus for players who miss a round, or a rule that invites light commentary about which card is the true “edible power move.” These tweaks preserve the core feel while encouraging camaraderie and banter—exactly the social glue you want in a casual game night.
 
-## Who Should Buy Sushi Go!?
-- Families with kids from 8 years old up to grandparents who enjoy a playful family game night.
-- Casual gamers who want something quick and breezy to slot between heavier titles.
-- Travelers who seek a compact, no-fruss setup game that can be opened in an airport, hotel room, or a bus seat with minimal fuss.
-- Party groups that want an easy icebreaker that becomes more compelling with multiple rounds.
+## Who Should Buy Sushi Go Party!?
+- Families with kids who enjoy quick, light strategy and adorable art.
+- Casual gamers who want something fast to slot between heavier titles.
+- Social players who love drafting, table talk, and little moments of triumph that don’t require a PhD in scoring terminology.
+- Party groups looking for an icebreaker that scales with the room and keeps everyone involved without turning into a chess club.
 
 ## Quick Playability and Learning Curve
-One of Sushi Go!’s biggest strengths is its accessibility. The rules can be conveyed in just a few minutes, and the learning curve is gentle enough that new players can catch on without feeling overwhelmed. The decision point each turn is small—pick a card, pass the rest—yet the cumulative effect of those small decisions becomes surprisingly rich as the rounds accumulate. This makes for a satisfying taste of strategy without requiring players to memorize a dense rulebook.
+The real magic of Sushi Go Party! is how it preserves the “one more round” magic without dragging. Learning the rules takes only a handful of minutes, and the core decisions on each turn are small but meaningful. You’re choosing a card that will alter your future rounds and, perhaps more importantly, influence the choices of those around you. The contrast between the immediate gratification of a good draw and the longer game’s payout is what creates that satisfying loop of engagement.
+
+The learning curve doesn’t steepen with more players. In fact, adding players often enhances the social dynamic and increases the variance of the rounds, which can sharpen the fun when you’re chasing a particular combination or trying to outsmart your friends with a clever discard or timing gambit.
 
 ## Practical Teaching Tips
-- Start with a demonstration round to show how drafting works. Players will often catch on faster than you expect if you illustrate the passing mechanic visually.
-- Emphasize the synergy: Wasabi + Nigiri is a classic, but don’t forget to watch what your neighbors seem to be collecting most; sometimes the best move is to grab a card they don’t want to feed into someone else’s victory plan.
-- Use a timer for faster groups. A 1–2 minute teaching window keeps the energy high and the table engaged.
-- If you have a two-player setup, simplify the scoring in your head or on a quick pad. It’s still a brain teaser, just a more intimate one.
+- Do a quick demonstration round: walk everyone through the pass-and-pick mechanic with a tiny three-card hand. The faster you show it, the faster the table catches on.
+- Emphasize menu strategy: some menus reward diversified sets, while others encourage monomaniacal pursuit of a single high-value dish. Don’t fear trading off a good card to block an opponent’s dream—this is the social part of drafting that makes the game sing.
+- Use a timer for larger groups: a two-minute teaching window helps maintain pace and reduces table-waffling.
+- For two-player setups, simplify the scoring mentally or use a quick scratch pad. It’s still a brain teaser, just a more intimate one.
 
 ## Pros and Cons (TL;DR)
-- Pros: Ultra-portable, quick to teach, scalable to 5 players, charming art, good balance of luck and strategy, a great gateway drafting game.
-- Cons: Some players may find the scoring a little opaque if you’re not paying attention to pudding, Maki, and Wasabi interplay; the cuteness may not be everyone’s cup of tea, but it’s hard to argue with the function.
+- Pros: Ultra-portable, quick to teach, scalable to a large group, charming art, robust mix of luck and strategy, great gateway to drafting games, highly replayable with varied menus.
+- Cons: Some players may find the scoring of multiple menus opaque at first glance; the cuteness factor may not charm everyone, but the game’s utility and charm overcome that for most groups.
 
 ## Where to Buy and Final Thoughts
-If you’re in the market for a lightweight, highly portable drafting game that still scratches a strategic itch, Sushi Go! sits near the top of the list. It’s a reliable choice for quick game nights, family gatherings, and travel days when you want something that’s both enjoyable and forgiving. The base game plus Sushi Go Party! gives you a growth path without leaving the core gameplay behind. If you want to dip your toe into drafting without committing to a larger title, this is a dependable starter that won’t disappoint.
+If you’re seeking a lightweight, highly portable drafting experience that still scratches a strategic itch, Sushi Go Party! is a reliable go-to. It’s ideal for quick game nights, travel days, and family gatherings where you want a bright, friendly game that can accommodate a crowd and still feel intimate. The base game plus the Party! expansion (with its customizable menu cards) gives you a scalable path for future game nights without forcing you into a completely new system.
 
-- Official site: https://gamewright.com/product/sushi-go/
-- BoardGameGeek page: https://boardgamegeek.com/boardgame/165360/sushi-go
+- Official site: https://gamewright.com/product/sushi-go-party/
+- BoardGameGeek page: https://boardgamegeek.com/boardgame/32712/sushi-go-party
 - Additional reading: {% post_url 2025-03-12-family-board-game-night-tips.html %}, {% post_url 2024-11-20-drafting-games-for-beginners.html %}, {% post_url 2025-08-18-sushi-go-party-review.html %}
 
 ## Final Recommendation
-Sushi Go! earns its place in any casual gamer’s kit. It’s fast, friendly, and ferociously replayable. It works as a quick 15-minute opener, a family wind-down, or a light sandwich between heavier strategies. If you crave a game that is easy to teach but hard not to enjoy, this is it. The 2- to 5-player scale makes it a versatile pick for most gathering sizes, and the art and humor give it lasting charm beyond the initial rounds.
+Sushi Go Party! earns a permanent spot in the mapping of great party and family games. It respects your time, invites friendly competition, and provides enough variety to stay fresh round after round. It’s the kind of game you can bring to a new group and watch as players warm to drafting without a complicated explanation. It’s compact, it’s clever, and it makes the word “party” feel earned rather than forced. If you crave a game that is easy to teach but surprisingly rich in micro-dutures of strategy, this is your plate.
 
-In short: grab a deck, pick a card, pass the rest, and savor the tiny satisfaction of a well-timed Wasabi boost. It’s the kind of game that makes you believe you can run a sushi bar with nothing but a napkin and a few clever decisions.
+In short: start with a handful of cards, pick with intent, pass with a smile, and savor the inevitable late-round sparkle when you outwit a rival with a perfectly timed Wasabi bluff.
 
-**Affiliate note: Ready to roll? Check the Sushi Go! purchase link below and support Geeknite while feeding your inner sushi connoisseur.**
+**Affiliate note: Ready to roll? Check the Sushi Go Party! purchase link below and support Geeknite while feeding your inner sushi connoisseur.**
 
-**Buy Sushi Go! now (affiliate): https://example.com/affiliates/sushi-go?ref=geeknite**
+**Buy Sushi Go Party! now (affiliate): https://example.com/affiliates/sushi-go-party?ref=geeknite**
