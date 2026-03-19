@@ -21,6 +21,8 @@ If you want a quick visual, this image captures the vibe: a table loaded with st
 
 For a deeper dive into related party-game vibes, you might enjoy some of our other team-building explorations like [Dixit vibes in board form]({% post_url 2025-11-20-dixit-board-game.html %}) and [Remote squads, near victories: games that travel well online]({% post_url 2024-08-09-games-for-remote-teams.html %}). Also, official sources can be found on the creator page here: [Herd Mentality on the publisher site](https://northstargames.com/games/herd-mentality).
 
+![Herd Mentality round in action](/assets/images/herd-mentality-round.jpg)
+
 ## What is Herd Mentality?
 Herd Mentality is a party game built around predicting what a group will think, rather than what you personally think. Each round, a prompt card goes face up, revealing something that invites a quirky or bold answer. Every player writes down an answer they believe the herd would select. Then all answers are revealed (anonymously) and players pick which answer they think represents the herd’s choice. If you chose the herd’s answer, you earn points. If you wrote a hilariously offbeat answer that somehow becomes popular in the room, you may also score depending on the variant you’re playing. The core mechanic rewards social reading, quick wits, and a pinch of bravado.
 
@@ -146,13 +148,15 @@ Like any party game, Herd Mentality has its strengths and its caveats. Here is a
 - Is Herd Mentality suitable for children? Most prompts target adults or older teens; check the card deck contents before introducing it to younger audiences.
 - How many players are ideal? The sweet spot is 6–8 players for a lively but manageable round, but you can scale up to 10–12 with some minor tweaks.
 - Can you customize prompts? Absolutely. You can write your own prompts to tailor humor to your team’s inside jokes and industry specifics.
+- Does the art style affect play? Not directly, but a clear, bright card design helps prompts read quickly in a fast-moving round.
+- Are there expansions? Yes, many publishers release expansions that add prompt variety and new scoring twists that keep veteran players on their toes.
 
 ## Final Verdict
 If you are hunting for a team-building game that blends social reading, humor, and quick thinking, Herd Mentality earns a strong recommendation. It is the kind of game that feels lightweight in the moment but yields meaningful conversations as you unpack why the herd chose a particular answer. It works especially well for teams that want to loosen up after a long sprint, or for onboarding sessions where new hires can observe the quirky dynamics of existing teams without feeling grilled. The variability across prompts ensures you can rotate in fresh content, keeping the energy high, and the scoring keeps friendly competition alive without tipping into hostility.
 
 That said, it is not a universal cure for team friction. If your team thrives on structured problem-solving with clear, tacitly agreed rules, you might prefer a more directive game. If your crew tends toward sensitive topics or has a low tolerance for social risk, you may want to vet prompts more carefully or run a shorter pilot session before a full workshop.
 
-## Where to Buy and How to Integrate into Your Workflow
+### Where to Buy and How to Integrate into Your Workflow
 For teams that want to bring Herd Mentality into their next workshop, several options exist. The official publisher page is a good starting point to understand the current editions and any expansion packs. If you prefer the convenience of online shopping, consider the major retailers that handle board game shipping and offer reviews from other teams who have put the game through its paces. Always keep a copy of the prompts you plan to use handy, and prepare a quick debrief slide that links to your team goals so the session ties back to real-world outcomes.
 
 External reference: Official Herd Mentality page by the publisher provides the core rules and product details for those who want the straight from the source information. If you have colleagues who like to read the fine print, point them there after your session to maintain a sense of continuity.
@@ -160,11 +164,16 @@ External reference: Official Herd Mentality page by the publisher provides the c
 If this guide tickles your curiosity, you may also enjoy our other team-building explorations that blend games with practical workplace outcomes:
 - [Dixit vibes in board form]({% post_url 2025-11-20-dixit-board-game.html %})
 - [Remote squads, near victories: games that travel well online]({% post_url 2024-08-09-games-for-remote-teams.html %})
+- [Facilitator playbook: running workshops that actually land]({% post_url 2026-02-14-facilitator-playbook-workshops.html %})
 
-### Final Note on Play Style
-Herd Mentality is about reading the room, not crushing the room. It rewards social awareness and communicative risk-taking without demanding marathon storytelling. If your team can laugh with each other instead of laughing at each other, this game will shine. If not, you might want to introduce more guided prompts or pair it with a facilitator-led debrief to anchor the learning outcomes.
+### Visuals and Setup Gallery
+Here are a couple more visuals to keep the vibe in view as you plan your session:
 
-## Quick Tips for a Smooth Session
+![Herd Mentality setup expanded](/assets/images/herd-mentality-setup-2.jpg)
+
+![Herd Mentality group shot](/assets/images/herd-mentality-group-shot.jpg)
+
+### Quick Tips for a Smooth Session
 - Pre-select prompts that align with your team culture to avoid sensitive territory and ensure inclusive humor.
 - Use a visible scoring method so everyone understands how points accumulate; that transparency reduces confusion and increases enthusiasm.
 - Rotate the host role so everyone gets a chance to influence pace and energy. A good moderator keeps momentum without stealing the spotlight.
