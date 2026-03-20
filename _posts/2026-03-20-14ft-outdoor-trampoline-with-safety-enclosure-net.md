@@ -1,5 +1,5 @@
 ---
-title: "14FT Outdoor Trampoline with Safety Enclosure Net: Geeknite's Ultimate Backyard Boss"
+title: \"14FT Outdoor Trampoline with Safety Enclosure Net: Geeknite's Ultimate Backyard Boss (Updated)\" 
 date: 2026-03-20
 tags:
   - outdoor
@@ -10,6 +10,8 @@ tags:
   - gear
   - family
   - backyard
+  - update
+  - geeknite-read
 ---
 
 ![14ft Outdoor Trampoline]({{ '/assets/images/14ft-trampoline-hero.jpg' | relative_url }})
