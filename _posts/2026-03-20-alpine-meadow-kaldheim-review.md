@@ -1,5 +1,5 @@
 ---
-title: Alpine Meadow in MTG Kaldheim: Expanded Review and Practical Deckbuilding Guide
+title: Alpine Meadow in MTG Kaldheim: Expanded Review, Practical Deckbuilding, and a Snowy Street Fight
 date: 2026-03-20
 tags:
   - MTG
@@ -10,9 +10,13 @@ tags:
   - Playable Lands
   - Snow Theme
   - Deckbuilding
+  - Commander
+  - Limited
+  - Cube
+  - Budget Modern
 ---
 
-## Alpine Meadow in MTG Kaldheim: The Grass, the Snow, and the Sparkly Mana (Extended)
+## Alpine Meadow in MTG Kaldheim: The Grass, the Snow, and the Sparkly Mana (Expanded)
 
 ![Alpine Meadow art]({{ site.baseurl }}/assets/images/alpine-meadow-kaldheim.jpg)
 
