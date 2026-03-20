@@ -1,13 +1,14 @@
 ---
-ttitle: 650W Electric Commercial Frozen Meat Bone Saw
-layout: post
+title: 650W Electric Commercial Frozen Meat Bone Saw
 date: 2026-03-20
+layout: post
 tags:
   - gear
   - butcher
   - kitchen
   - review
   - equipment
+  - bone-saw
 ---
 
 ## Overview
@@ -16,7 +17,7 @@ If you run a bustling butcher shop, a kitchen-nerdy dream team is not just for h
 This review is your field guide to what this machine actually does, what it doesn’t, and how to pretend to be a sane adult when you’re wrestling a frozen hindquarter into submission. Spoiler: there will be sparks, there will be swagger, and there will be a brief moment where you question whether you should have bought a smoothie blender instead. Spoiler 2: you did not. The bone saw will win.
 
 > For a visual starter, check the model in action here:
-> {% include image.html url="/assets/images/650w-bone-saw-action.jpg" alt="650W bone saw slicing through frozen meat" %}
+> {% include image.html url='/assets/images/650w-bone-saw-action.jpg' alt='650W bone saw slicing through frozen meat' %}
 
 Also see our classic primer on meat-saw basics in the post_family:
 - [Meat Saw 101: The Sharp Truth]({% post_url 2024-12-01-meat-saw-101 %})
@@ -68,7 +69,6 @@ Safety first, always. A good bone saw is a tool that respects your limbs and you
 
 ## Features to look for when buying
 Not all 650W bone saws are created equal. Here are the must-haves and nice-to-haves:
-
 - Blade options: availability of stainless steel blades, carbide-tipped blades, and compatibility with standard industry blade sizes. The ability to swap blades quickly is a big plus.
 - Table design: an adjustable table height and tilt angle can save your back during long days.
 - Water management: splash guards or integrated water cooling can reduce bone dust and keep the blade cooler. If you’re in a dry shop, you’ll appreciate any added moisture for your dry humor.
@@ -77,7 +77,7 @@ Not all 650W bone saws are created equal. Here are the must-haves and nice-to-ha
 - Cleaning accessibility: a design that’s easy to disassemble for cleaning will save you more than a few headaches during health inspections.
 
 ### Materials and build quality
-Most 650W models use a steel frame with coated surfaces to resist corrosion from blood and bone dust. A powder-coated finish helps with cleaning and reduces rust visibility. The blade guard and structural components should be robust enough to survive daily use, but not so heavy that you need a forklift to position the machine for maintenance. In other words, you want a sus-tainable balance between ruggedness and practical daily operation.
+Most 650W models use a steel frame with coated surfaces to resist corrosion from blood and bone dust. A powder-coated finish helps with cleaning and reduces rust visibility. The blade guard and structural components should be robust enough to survive daily use, but not so heavy that you need a forklift to position the machine for maintenance. In other words, you want a sustainable balance between ruggedness and practical daily operation.
 
 ## Real-world scenarios: a day in the life of a butcher shop
 Imagine arriving at dawn with a coffee so strong it could double as an adhesive. The bone saw stands like a confident sentinel in the corner of the shop, glistening with a smear of ice crystals from last night’s batch. The crew is ready to rumble: inventory sheets, CT-scan-level fatigue, and that one apprentice who thinks a bone saw is basically a heated blade for fruit carving. Here’s how a typical day might unfold with a 650W model in the mix:
