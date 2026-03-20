@@ -1,19 +1,22 @@
 ---
-title: WW2 Quartermaster General - Prelude
-date: 2026-03-20 12:00:00 -0000
+title: WW2 Quartermaster General - Prelude (Expanded Review)
+date: 2026-03-21 12:00:00 -0000
 tags:
   - geeknite
   - games
   - ww2
   - board-games
   - review
+  - solo
+  - multiplayer
+  - logistics
 ---
 
-![Prelude Art]( /assets/images/ww2-qm-prelude.jpg )
+![Prelude Art](/assets/images/ww2-qm-prelude.jpg)
 
 ## Prelude: The World War II Quartermaster General Comes to Your Tabletop
 
-If you ever wondered what would happen if someone taught you to manage a budget, an inventory, and a dozen cracked morale stats, all while fighting in a grand war without leaving your couch, you are in for a treat. WW2 Quartermaster General - Prelude is the tongue-in-cheek, logistics-heavy prelude to a saga of supply lines so long you could toss a convoy a marching band and still have room for more boxes of tea biscuits. This is not your typical “blitz and glory” war game; this is the meticulous, often hilarious, world where victory is won by corralling resources, predicting supply shortages, and laughing in the face of a stubborn transport drone called a truck that keeps breaking down just when you need it most.
+If you ever wondered what would happen if someone taught you to manage a budget, an inventory, and a dozen cracked morale stats, all while fighting in a grand war from your couch, you are in for a treat. WW2 Quartermaster General - Prelude is the tongue-in-cheek, logistics-heavy prelude to a saga of supply lines so long you could toss a convoy a marching band and still have room for more crates of tea biscuits. This is not your typical “blitz and glory” war game; this is the meticulous, often hilarious world where victory is won by corralling resources, predicting supply shortages, and laughing in the face of a stubborn transport drone called a truck that keeps breaking down just when you need it most.
 
 In the Geeknite universe, we adore games that teach as they tickle, and Prelude does both with a swagger we can respect. It runs on a card-driven mechanic that feels like a clever blend between a traditional euro and a tactical wumble of an operational wargame—without requiring a full day’s commitment from your most social friend who reliably blames dice results on the fate of Zeus. The prelude sets up a scenario where you’re not so much waging a front as you are coordinating a sprawling, slightly chaotic supply chain that must keep the war machine fed, fueled, and emotionally supported. And yes, somehow the morale tokens have opinions about your leadership style.
 
