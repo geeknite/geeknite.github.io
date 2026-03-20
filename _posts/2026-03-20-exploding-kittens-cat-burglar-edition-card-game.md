@@ -8,6 +8,7 @@ tags:
   - Cat Burglar Edition
   - review
   - geeknite
+  - party games
 ---
 
 ## Introduction
@@ -38,6 +39,13 @@ Setup is quick and forgiving, which is essential for a good party game. You shuf
 
 During the first round, you will quickly learn that the core mechanic is simple enough for non-gamers to grok, but the interactive elements add a layer of mischief that keeps more seasoned players engaged. People who enjoy table talk and playful strategy will find themselves feeding off the energy in the room as someone tries to politely steal a card while the rest of the table pretends not to notice. It’s a game that thrives on social dynamics—the banter, the bluff, the occasional dramatic finger guns from the person who just drew a taunting card. If you come with a competitive streak, you’ll end up rooting for your own clever ruse while simultaneously giggling at someone else’s spectacular failure to contain a laugh.
 
+### A quick example of a round
+- Player A draws a peek card and looks at the top three cards of the deck. They smile with a confidence that says, I know something you don’t know.
+- Player B plays a disguise card, swapping a hand with Player C. Laughter erupts as someone finds a rare loot token in a completely unexpected place.
+- A loot token is earned for a clever bluff and placed into a loot pile. The vibe in the room is that we are playing a game about cats committing petty felonies, and somehow everyone is having a great time.
+
+If you want to see how the rules interact in a typical session, the official rule overview on the brand site does a good job of summarizing the core mechanics. For the curious mind, a deeper dive into how to optimize your chances is available in community guides on board game corners of the internet.
+
 ## How to Play: Core Rules in Plain English
 If you want the quick rundown before diving into the spicy details, here is the essence of Cat Burglar Edition in plain, non-quiz-show English:
 
@@ -49,12 +57,12 @@ If you want the quick rundown before diving into the spicy details, here is the 
 
 Turn structure is straightforward: draw, play up to one or two action cards, resolve effects, and discard down to your allowed hand limit. Because the game revolves around risk assessment and quick decision-making, rounds tend to be short and dramatic. You will feel a little like a cat in a satin mask trying to open a couch drawer without waking the household dog, and that is precisely the vibe this edition aims to deliver.
 
-### A quick example of a round
-- Player A draws a peek card and looks at the top three cards of the deck. They smile with a confidence that says, I know something you don’t know.
-- Player B plays a disguise card, swapping a hand with Player C. Laughter erupts as someone finds a rare loot token in a completely unexpected place.
-- A loot token is earned for a clever bluff and placed into a loot pile. The vibe in the room is that we are playing a game about cats committing petty felonies, and somehow everyone is having a great time.
+### A quick round scenario
+- Player D draws a peek card and peers at the top three cards, grinning at a secret plan they can’t quite reveal yet.
+- Player E uses a disguise to swap a hand with Player F, triggering a cascade of laughter and light chaos.
+- A loot token is earned for a clever bluff and locked into the loot pile, which sets up a mini economy of bravado for the rest of the round.
 
-If you want to see how the rules interact in a typical session, the official rule overview on the brand site does a good job of summarizing the core mechanics. For the curious mind, a deeper dive into how to optimize your chances is available in community guides on board game corners of the internet.
+If you want to see how the rules interlock in live play, a quick rule overview video can give you a feel for the tempo, but nothing replaces your first round where you realize the pacing is more surprising than a cat knocking a glass off a shelf at 2 a.m.
 
 ## Card Mechanics and Theme
 This is where Cat Burglar Edition leans into its own identity while keeping the familiar Exploding Kittens pulse. The cards themselves are a blend of artful humor and practical utility. The art direction continues the line of exaggerated expressions, bulletproof facial expressions, and kitten chaos that fans of the series adore. Thematically, the concept of a cat burglar makes perfect sense for a party game: cats are known for stealth, mischief, and a surprisingly deep desire to disrupt human plans with minimal effort.
