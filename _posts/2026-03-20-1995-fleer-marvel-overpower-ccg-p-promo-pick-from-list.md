@@ -12,9 +12,9 @@ tags:
 ---
 
 ## Introduction
-If you ever wanted to time travel to the mid 90s, stumble into a comic shop, and witness the birth of a card game that tried to turn Marvel heroes into tactical chess pieces, then you are in for a ride. Enter Fleer Marvel OverPower, a collectible card game that aimed to do for superheroes what you did for your college exams after midnight caffeine: cram a lot of power into a surprisingly small space and hope your coffee breath powers win the day. In this post, we dive into a very particular corner of that universe: the P-Promo Pick From List, a promo concept that promised fans a handpicked slice of heroic chaos. If you have ever picked up a P-Promo at a con, or if the idea of choosing a single hero from a list makes you nostalgic for blister packs and glossy art, this piece is for you. And yes, there will be jokes about capes, villains, and why your favorite hero might have preferred a different set of powers during a bad dice roll.
+If you ever wanted to time travel to the mid-90s, stumble into a comic shop, and witness the birth of a card game that tried to turn Marvel heroes into tactical chess pieces, then you are in for a ride. Enter Fleer Marvel OverPower, a collectible card game that crammed more hero-y swagger into a single deck than a convention cosplay contest. In this post, we dive into a very particular corner of that universe: the P-Promo Pick From List, a promo concept that promised fans a handpicked slice of heroic chaos. If you have ever snagged a P-Promo at a con, or if the idea of choosing a single hero from a list makes you nostalgic for blister packs and glossy art, this piece is for you. And yes, there will be jokes about capes, villains, and why your favorite hero might have preferred a different set of powers during a bad dice roll.
 
-> Note for the uninitiated: OverPower was published in the mid 90s by Fleer, a time when card games exploded like a bag of chips under a hot light. The system mixed straightforward combat with a dash of board game flavor, and the art was very much a snapshot of its era — vibrant, over-the-top, and occasionally a touch garish. The P-Promo picks were a way to offer collectors a limited, desirable piece that could slot into a deck or serve as a showpiece in a display cabinet. Now, let us examine what this promo actually meant and how it fit into the broader OverPower ecosystem.
+> Note for the uninitiated: OverPower was published in the mid 90s by Fleer, a time when card games exploded like a bag of chips under a hot light. The system mixed straightforward combat with a dash of board game flavor, and the art was very much a snapshot of its era — vibrant, over-the-top, and occasionally garish. The P-Promo picks were a way to offer collectors a limited, desirable piece that could slot into a deck or serve as a showpiece in a display cabinet. Now, let us examine what this promo actually meant and how it fit into the broader OverPower ecosystem.
 
 ## What is OverPower? A quick primer
 OverPower lives in the same family as other big 90s CCGs, but with its own Marvel superhero flavor. The core mechanics revolve around power levels, combat values, and a simple turn structure that allowed players to run through slick combos while admiring trade card art. Each card features a hero or villain with a numeric power, a combat value, and a few special abilities that trigger under certain conditions. There are twisty elements like team-up advantages and special mission cards that push your deck from a straight up punch-out to a little more strategy theater.
@@ -97,7 +97,7 @@ If you want a quick primer on identifying genuine promos vs. reprints, we point 
 ## Graphic glory: a brief visual tour
 Below is a sample promo image to illustrate the kind of aesthetic you might encounter on a P-Promo card. The image showcases bold color contrast and a dynamic pose that captures the OverPower swagger. Visuals matter here, because in many ways the art is the gateway to the game for many players.
 
-![](https://example.com/images/1995-overpower-promo.jpg)
+![](/assets/images/1995-overpower-promo.jpg "1995 Fleer Marvel OverPower P-Promo")
 
 If you want to peek at the core visuals of OverPower cards, you can explore the gallery linked in the wide web of fan resources. For a broader look at 90s Marvel CCG art trends, this external reference provides context on the era and its style choices: https://en.wikipedia.org/wiki/OverPower_(card_game)
 
@@ -120,7 +120,5 @@ In short, a 1995 Fleer Marvel OverPower P-Promo Pick From List is a charming pie
 
 ## Final thoughts and call to action
 If you want to dig deeper into the OverPower world and curate a personal archive of promos from this era, start by identifying one hero you adore and trace what a typical promo card for that hero would look like in a Pick From List scenario. Build your deck around that hero, test it against a few archetypes, and enjoy the storytelling texture that emerges when you combine nostalgia with a good-natured trading scene.
-
-**Ready to dive deeper into geeky deals and retro promos? Check out our affiliated store for vintage CCG gear and exclusive promos, handpicked for fans of Marvel and tabletop nostalgia.**
 
 **Buy now and support the site with our affiliate link: https://affiliate.geeknite.example.com/promo-overpower-1995**
