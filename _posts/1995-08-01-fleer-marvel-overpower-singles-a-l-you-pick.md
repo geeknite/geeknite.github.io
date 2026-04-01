@@ -1,6 +1,6 @@
----
+﻿---
 title: "1995 Fleer Marvel OverPower Card Game Singles A-L You Pick"
-date: 2026-03-15
+date: 1995-08-01
 tags:
   - overpower
   - fleer

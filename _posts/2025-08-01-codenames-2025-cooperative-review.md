@@ -1,12 +1,15 @@
 ---
 title: Codenames 2025 Cooperative Conundrum or Secret Agents Unite? A Geeknite Review
-date: 2025-08-01
+date: "2025-08-01"
 tags:
   - Board Games
   - Codenames
   - Cooperative
   - Review
   - 2025
+last_modified_at: "2026-04-01"
+redirect_from:
+  - /2025/11/codenames-2025-cooperative-review.html
 ---
 
 ## Introduction
@@ -133,3 +136,4 @@ If you want to test drive the experience without committing to a full night, try
 Codenames 2025 Cooperative Edition is a joyful, brain-teasing, team‑oriented evolution of a timeless word game. It respects its roots while offering something new for groups that want to laugh, think, and grow their collective word map. If you’re building a game-night staple that scales from casual family evenings to more dedicated puzzle nights, this one earns a place on the shelf—and then a few passes around the table for the spontaneous “we-can-do-this-together” moment that only a good cooperative clue can spark.
 
 **Buy Codenames 2025 now via our affiliate link and roll the dice on your next epic word quest.**
+

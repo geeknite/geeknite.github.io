@@ -1,4 +1,4 @@
----
+﻿---
 title: Pesas para Ciclismo: A Jornada do Peso Extra
 date: 2026-03-11
 tags:
@@ -8,6 +8,7 @@ tags:
   - gear
   - review
   - humor
+redirect_to: https://bikinggeek.github.io/2026/03/pesas-para-ciclismo
 ---
 
 ![Pesas para ciclismo]({{ site.baseurl }}/assets/images/pesas-ciclismo.jpg)
@@ -101,21 +102,25 @@ Dicas rápidas de compra: priorize ajuste firme, acolchoamento, alças que não 
 ## Rotina de treino com peso: plano de 4 semanas
 
 Semana 1: introdução suave
+
 - 2 sessões de 30-40 minutos com peso leve (0,5-1 kg por tornozelo ou pulso, ou colete leve).
 - Foco na forma e na respiração.
 - Intervalos curtos de subida com recuperação controlada.
 
 Semana 2: intensidade moderada
+
 - 3 sessões de 40-50 minutos.
 - Aumento de peso para tornozelos até 1,5-2 kg (se tolerável).
 - Subidas curtas com peso leve, cadência estável.
 
 Semana 3: densidade aumentada
+
 - 3-4 sessões de 50-60 minutos.
 - Colete entre 5-10 kg, mantendo tronco estável.
 - Intervalos de subida com cadência baixa e maior tempo sob tensão.
 
 Semana 4: pico e avaliação
+
 - 3 sessões de 60-75 minutos com peso moderado, conforme tolerância.
 - Sessão de teste de subida com cronômetro para comparar com o início do mês.
 
@@ -189,6 +194,6 @@ Pesas para ciclismo podem ser uma adição divertida e eficaz ao seu treino, des
 - Combine pesos com treino de força específico para pernas, tronco e ombros, para melhorar a eficiência da pedalada e a posição no selim.
 - Monitore progresso com métricas reais: potência, cadência, tempo de subida e sensações de esforço. Dados ajudam a manter a motivação.
 
-**Chamada para ação final:** se você curtiu o guia e quer levar o treino com peso para o próximo nível, confira nossos parceiros afiliados para explorar opções de pesas para ciclismo, com descontos especiais para leitores do Geeknite. Aproveite as oportunidades, teste novas abordagens com responsabilidade e lembre-se: a melhor pedalada é aquela que você faz com sabedoria e humor.**
+**Chamada para ação final:** se você curtiu o guia e quer levar o treino com peso para o próximo nível, confira nossos parceiros afiliados para explorar opções de pesas para ciclismo, com descontos especiais para leitores do Geeknite. Aproveite as oportunidades, teste novas abordagens com responsabilidade e lembre-se: a melhor pedalada é aquela que você faz com sabedoria e humor.\*\*
 
 **Compre agora com o código Geeknite e acesse o link de afiliado: https://affiliates.geeknite.example/pesas-ciclismo?ref=geeknite**

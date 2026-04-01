@@ -1,6 +1,6 @@
----
+﻿---
 title: 1946 Sympathy Letter WW2 — The Quartermaster General Major Thomas B. Larkin
-date: 2026-03-14 10:00:00 -0000
+date: 1946-04-12
 layout: post
 tags:
   - WWII

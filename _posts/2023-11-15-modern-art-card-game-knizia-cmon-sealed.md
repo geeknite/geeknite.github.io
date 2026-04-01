@@ -1,6 +1,6 @@
----
+﻿---
 title: New 2023 Modern Art The Card Game Reiner Knizia CMON Sealed
-date: 2026-03-19
+date: 2023-11-15
 tags:
   - board games
   - reviews

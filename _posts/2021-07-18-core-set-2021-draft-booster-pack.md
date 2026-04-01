@@ -1,6 +1,6 @@
 ---
 title: Core Set 2021 Draft Booster Pack: A Nerd's Guide to Drafting MTG
-date: 2021-07-18
+date: "2021-07-18"
 tags:
   - Magic
   - MTG
@@ -8,6 +8,9 @@ tags:
   - Draft
   - Booster
   - Review
+last_modified_at: "2026-04-01"
+redirect_from:
+  - /2021/08/core-set-2021-draft-booster-pack.html
 ---
 
 ## Introduction

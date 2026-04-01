@@ -1,7 +1,10 @@
 ---
 title: 'Review: 2025 Mattel UNO Elite NFL Core Edition Yellow Foil Aaron Jones Card'
-date: 2025-02-14 12:00:00 -0000
+date: "2025-02-14"
 tags: [ board-games, review, NFL, UNO, collectibles ]
+last_modified_at: "2026-04-01"
+redirect_from:
+  - /2025/08/mattel-uno-elite-nfl-core-edition-yellow-foil-aaron-jones-card.html
 ---
 
 ![Aaron Jones Yellow Foil Card](/assets/images/uno-elite-aaron-jones-yellow-foil.jpg)
