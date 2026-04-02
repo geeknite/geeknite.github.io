@@ -1,8 +1,11 @@
 ﻿---
 title: "Exploding Kittens Card Game Review"
-date: '2015-07-01'
+date: "2015-07-01"
 tags: ['card games', 'review', 'Exploding Kittens', 'funny']
 description: "A hilarious and detailed review of Exploding Kittens Card Game. Find out why this game is a must-have for party game enthusiasts!"
+last_modified_at: "2026-04-01"
+redirect_from:
+	- /2024/11/exploding-kittens-review.html
 ---
 
 ![Exploding Kittens](https://i.imgur.com/Jm8ynpT.jpg)
@@ -22,6 +25,7 @@ In Exploding Kittens, players take turns drawing cards from the deck. If you dra
 ### Components
 
 The game comes with:
+
 - **Cards**: Beautifully illustrated cards featuring quirky, hilarious artwork by The Oatmeal.
 - **Deck**: A deck of 56 cards, including Exploding Kittens, Defuse cards, and various action cards.
 - **Instructions**: A rulebook that's as simple as it is funny.

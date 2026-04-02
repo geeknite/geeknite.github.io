@@ -11,9 +11,12 @@ tags:
     "Review",
   ]
 description: "A detailed and humorous review of the Funko POP! Star Wars: The Mandalorian - Darth Maul collectible. From design details to final thoughts, find out if this figure is a must-have for your collection!"
+last_modified_at: "2026-04-01"
+redirect_from:
+  - /2019/11/funko-pop-star-wars-darth-maul-review.html
 ---
 
-![Funko POP! Star Wars: The Mandalorian - Darth Maul](/assets/images/general.jpg){: .align-right}
+[![Funko POP! Star Wars: The Mandalorian - Darth Maul](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}funko pop darth maul)
 
 ## Introduction
 
@@ -49,12 +52,12 @@ How does this Darth Maul figure stack up against other Star Wars Funko POP! figu
 
 The Funko POP! Star Wars: The Mandalorian - Darth Maul is a fantastic addition to any Star Wars or Funko POP! collection. Its detailed design, dynamic pose, and solid build quality make it a standout figure. Whether you're a die-hard Star Wars fan or just love collecting Funko POP! figures, this Darth Maul is a must-have.
 
-**Ready to add Darth Maul to your collection?** Click [here](https://www.amazon.com) to grab yours now and bring a piece of the dark side into your home!
+**Ready to add Darth Maul to your collection?** Click [here]({{ site.constants.wsib }}funko pop darth maul) to grab yours now and bring a piece of the dark side into your home!
 
-## Link to Related Posts
+## Related Posts and Products
 
 - [LEGO Star Wars Sets Review: A Galactic Journey]({%- post_url 2023-07-27-star-wars-lego-review -%})
 - [Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
-- [Star Wars: The Mandalorian - A Deep Dive into the Series]({%- post_url 2024-06-15-nemesis-vs-alien-fate-of-the-nostromo -%})
+- [More Star Wars Collectibles]({{ site.constants.wsib }}star wars collectibles)
 
 **May the Force be with your collection!**

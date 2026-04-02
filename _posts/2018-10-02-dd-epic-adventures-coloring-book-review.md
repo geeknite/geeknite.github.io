@@ -1,11 +1,14 @@
 ---
 title: "D&D Epic Adventures Coloring Book Review"
-date: '2018-10-02'
+date: "2018-10-02"
 tags: ["D&D", "coloring book", "review", "fantasy", "fun"]
 description: "A hilarious and detailed review of the D&D Epic Adventures Coloring Book. Discover why this coloring book is a must-have for fantasy lovers!"
+last_modified_at: "2026-04-01"
+redirect_from:
+  - /2020/03/dnd-epic-adventures-coloring-book-review.html
 ---
 
-![D&D Epic Adventures Coloring Book](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}
+[![D&D Epic Adventures Coloring Book](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}]({{ site.constants.wsib }}dd epic adventures coloring book)
 
 ## Introduction
 
