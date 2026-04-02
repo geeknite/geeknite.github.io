@@ -2,7 +2,8 @@
 title: "1986 Phase 10 Card Game with Instructions — Fundex Complete Vintage, Free Shipping"
 date: 2026-03-20 12:00:00 -0000
 categories: [games, vintage, card-games]
-tags: [phase-10, fundex, vintage, board-games, card-games, review, free-shipping]
+tags:
+  [phase-10, fundex, vintage, board-games, card-games, review, free-shipping]
 ---
 
 ## Introduction
@@ -56,9 +57,9 @@ If you want to jump into the action without clutching a 3-page crib sheet, here�
 
 On your turn, you generally do the following:
 
-1) Draw a card from the stock pile or the top of the discard pile.
-2) If you believe your hand meets the current phase, lay down the necessary cards to complete the phase. If not, discard one card to the discard pile.
-3) Your turn ends, and the next player proceeds.
+1. Draw a card from the stock pile or the top of the discard pile.
+2. If you believe your hand meets the current phase, lay down the necessary cards to complete the phase. If not, discard one card to the discard pile.
+3. Your turn ends, and the next player proceeds.
 
 The Wild and Skip cards add flavor to the turn sequence. A Wild can stand in for any card to complete a phase, while a Skip card can halt an opponent’s progression and add a little dramatic flair to your social dynamics.
 

@@ -22,7 +22,6 @@ Want a quick snapshot of the unboxing? See the hero shot below:
 
 ![](/assets/images/uno-elite-core-edition-javonte-williams.jpg)
 
-
 ## What’s in the Box
 
 The Elite Core Edition isn’t just a different coat of paint on a classic deck. The box contains:
@@ -94,6 +93,7 @@ If you’re introducing younger players to sports branding, this edition offers 
 The 2025 Mattel UNO Elite Core Edition with Javonte Williams branding is typically available through major retailers and Mattel’s own storefronts, especially during football season or around special events. Given its collectible appeal and functional game value, many buyers find the price to be fair for a branded edition with a few extra touches. If you’re price-conscious, watch for bundle deals that include one or two other UNO variants or Broncos-branded merchandise. You might even snag a discount if you catch a seasonal sale.
 
 For the curious shopper, here are a few starting points:
+
 - Official page: [Official Mattel UNO Page](https://www.mattelgames.com/UNO)
 - Retail listings: [Amazon listing](https://www.amazon.com/dp/B0XXXXX?tag=geeknite-20)
 - Football fandom reference: [Denver Broncos Official](https://www.denverbroncos.com/)

@@ -1,5 +1,5 @@
 ﻿---
-title: 'MTG Kaldheim 2021: You Choose'
+title: "MTG Kaldheim 2021: You Choose"
 date: 2021-02-28 12:00:00 -0000
 tags:
   - MTG
@@ -136,4 +136,4 @@ Overall, Kaldheim remains a delightful, well-constructed set that respects your 
 
 **Ready to dive into Kaldheim? Grab your booster box through our trusted affiliate page and start your frostbitten journey today.**
 
-**[Affiliates – Kickstart your Kaldheim collection here!](https://affiliates.example.com/kaldheim)
+\*\*[Affiliates – Kickstart your Kaldheim collection here!](https://affiliates.example.com/kaldheim)
