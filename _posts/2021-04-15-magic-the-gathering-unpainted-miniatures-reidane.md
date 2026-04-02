@@ -2,9 +2,13 @@
 title: "Magic the Gathering Unpainted Miniatures: Reidane, Goddess of Justice (Wave 14)"
 date: "2021-04-15"
 tags: ["Magic the Gathering", "miniatures", "reviews", "Wave 14"]
+description: "Review of the Reidane, Goddess of Justice Wave 14 MTG unpainted miniature, with painting tips and tabletop value."
+last_modified_at: "2026-04-01"
+redirect_from:
+  - /2021/04/mtg-unpainted-miniatures-reidane-review.html
 ---
 
-![Reidane, Goddess of Justice](https://linktoimage.com/reidane.jpg){: .align-right}
+[![Reidane, Goddess of Justice](/assets/images/general.jpg){: .align-right}]({{ site.constants.wsib }}reidane goddess of justice miniature)
 
 ## Introduction
 
@@ -70,7 +74,7 @@ Reidane, Goddess of Justice is not just a pretty face. In the realm of Magic the
 
 Magic the Gathering Unpainted Miniatures: Reidane, Goddess of Justice (Wave 14) is a must-have for MTG fans and miniature painters alike. The quality and detail make it a joy to paint, while its gameplay integration ensures it’s more than just a pretty face on your shelf.
 
-**Ready to add a touch of divine justice to your collection?** Head over to our affiliate link and get your Reidane miniature today! [Buy Now](https://affiliate-link.com/reidane)
+**Ready to add a touch of divine justice to your collection?** Head over to our affiliate link and get your Reidane miniature today! [Buy Now]({{ site.constants.wsib }}reidane goddess of justice miniature)
 
 ## More Geeknite Goodies
 
