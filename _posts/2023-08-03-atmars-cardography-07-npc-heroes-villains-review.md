@@ -1,4 +1,4 @@
----
+﻿---
 title: "Atmar's Cardography 07 - NPC Heroes & Villains Review"
 date: "2023-08-03"
 tags: ["board games", "review", "Atmar's Cardography", "NPCs", "heroes", "villains"]
@@ -83,6 +83,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}at
 
 ### Other Tabletop RPGs to Check Out
 
-If you love engaging storytelling and epic adventures, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love engaging storytelling and epic adventures, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to dive into new adventures? Don’t miss out on the fun!**

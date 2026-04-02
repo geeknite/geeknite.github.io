@@ -1,4 +1,4 @@
----
+﻿---
 title: "WizKids Dungeon Dressings: Enchanted Grove Review"
 date: '2019-01-01'
 tags: ["board games", "WizKids", "Enchanted Grove", "review"]
@@ -79,6 +79,6 @@ So what are you waiting for? Head over to [Geeknite's RPG Section]({{ site.const
 
 ### Other Magical Accessories to Check Out
 
-If you love enhancing your RPG sessions, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love enhancing your RPG sessions, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to enchant your tabletop? Don’t miss out on the magic!**

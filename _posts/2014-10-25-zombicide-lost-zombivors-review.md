@@ -1,7 +1,7 @@
----
-title: 'Zombicide: Lost Zombivors - A Hilarious and Strategic Board Game Review'
-date: '2012-10-25'
-tags: ['board games', 'review', 'Zombicide', 'Zombivors']
+﻿---
+title: "Zombicide: Lost Zombivors - A Hilarious and Strategic Board Game Review"
+date: "2012-10-25"
+tags: ["board games", "review", "Zombicide", "Zombivors"]
 ---
 
 ## Introduction
@@ -70,6 +70,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love Zombicide: Lost Zombivors, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %}) or [why adults should also board game]({{ site.constants.wsib }}adult board games).
+If you love Zombicide: Lost Zombivors, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [why adults should also board game]({{ site.constants.wsib }}adult board games).
 
 **Ready to face the zombie apocalypse?** Don’t miss out on the fun!

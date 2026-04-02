@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gudetama: The Tricky Egg Card Game Review"
 date: "2019-08-15"
 tags: [Gudetama, card game, review]
@@ -61,7 +61,7 @@ So what are you waiting for? [Get your copy of Gudetama: The Tricky Egg Card Gam
 
 ## Related Posts
 
-- [Adventure Tactics vs CoraQuest: Which Game to Choose]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics vs CoraQuest: Which Game to Choose]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Why Adults Should Also Play Board Games]({%- post_url 2019-11-15-adult-board-games -%})
 - [Sushi Go Card Game Review]({%- post_url 2013-12-15-sushi-go-review -%})
 - [UNO Card Game Review]({%- post_url 2022-01-15-uno-card-game-review -%})

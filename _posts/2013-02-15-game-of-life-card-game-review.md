@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Game of Life Card Game: A Hilarious Journey Through Cardboard Existential Dread"
 date: "2013-02-15"
 tags: [Game of Life, card games, humor, board gaming]
@@ -85,7 +85,7 @@ Gloom is similar in theme but focuses on making your characters' lives as misera
 
 ## Other Board Games to Check Out
 
-If you love The Game of Life Card Game, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
+If you love The Game of Life Card Game, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
 
 **Call to Action**: Don’t miss out on the hilarious journey of life! Click [here]({{ site.constants.wsib }}game-of-life-card-game) to get your copy now and receive an exclusive discount!
 

@@ -1,4 +1,4 @@
----
+ï»¿---
 title: "Zombicide: Special Guest - Edouard Guiton Art Book Review"
 date: "2014-12-15"
 tags: ["board games", "zombicide", "art book", "review"]
@@ -73,7 +73,7 @@ Zombicide: Special Guest - Edouard Guiton Art Book is not just an art book; itâ€
 
 ## Related Posts
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Zombicide: Season 1 Review]({%- post_url 2013-07-15-zombicide-season-1-review -%})**
 - **[Zombicide: Green Horde Board Game Review]({%- post_url 2018-06-15-zombicide-green-horde-board-game-review -%})**

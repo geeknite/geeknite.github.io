@@ -1,4 +1,4 @@
----
+﻿---
 title: "Uno Anime Card Game: The Ultimate Review"
 date: "2021-06-15"
 tags: [card games, anime, Uno, review, funny]
@@ -70,7 +70,7 @@ Uno Anime Card Game is a must-have for anime fans and card game lovers alike. It
 
 ## Linking You to More Gaming Adventures
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 

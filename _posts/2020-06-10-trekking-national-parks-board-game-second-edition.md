@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trekking The National Parks: The Board Game - Underdog Games Second Edition Review"
 date: "2020-06-10"
 tags:
@@ -93,6 +93,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}tr
 
 ### More Gaming Adventures Await
 
-If you love board games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love board games, be sure to check out our reviews of [Marvel United: Multiverse]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to Explore? Don’t miss out on the adventure!**

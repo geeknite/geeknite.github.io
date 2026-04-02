@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Last Kingdom Board Game Review"
 date: "2014-05-12"
 tags: ["board games", "review", "The Last Kingdom"]
@@ -77,7 +77,7 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}la
 
 ### More Games to Explore
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 **Ready to conquer England? Click [here]({{ site.constants.wsib }}last-kingdom-board-game) to get your copy now and receive an exclusive discount! Happy raiding!**

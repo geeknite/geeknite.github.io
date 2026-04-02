@@ -1,4 +1,4 @@
----
+﻿---
 title: "Codenames Board Game Review: Spy vs Spy"
 date: "2015-06-15"
 tags: ["board games", "review", "Codenames", "party games"]
@@ -84,7 +84,7 @@ So, gather your friends, sharpen your wits, and dive into the thrilling world of
 
 ## Related Posts
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
 - [Sushi Go Review]({%- post_url 2013-12-15-sushi-go-review -%})
 - [Cards Against Humanity Review]({%- post_url 2013-10-15-review-cards-against-humanity -%})

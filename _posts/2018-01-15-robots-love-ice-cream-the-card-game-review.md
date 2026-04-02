@@ -1,4 +1,4 @@
----
+﻿---
 title: "Robots Love Ice Cream: The Card Game Review"
 date: "2018-01-15"
 tags: ['board games', 'review', 'robots love ice cream', 'card game']
@@ -84,6 +84,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}ro
 
 ### Other Dessert-Themed Games to Check Out
 
-If you love dessert-themed board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love dessert-themed board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to embark on a sweet adventure? Don’t miss out on the fun!**

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Baldur's Gate 3: The Epic RPG You Didn't Know You Needed"
 date: "2023-08-15"
 categories: [gaming, review, Baldur's Gate 3]
@@ -67,6 +67,6 @@ Baldur's Gate 3 is a must-play for any RPG fan. Its deep story, engaging gamepla
 
 - **[Crusader Kings III: The Ultimate Strategy Game]({%- post_url 2023-07-01-crusader-kings-3-review-ultimate-strategy-game -%})**
 - **[Persona 5 Royal: A Whimsical Journey Through the Heart of Gaming]({%- post_url 2022-04-23-persona-5-royal-review -%})**
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 
 **Ready to embark on your next great adventure? Check out Baldur's Gate 3 today and start your epic journey!**

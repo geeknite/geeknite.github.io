@@ -1,4 +1,4 @@
----
+﻿---
 title: "All Aboard Pacific Northwest: A Recreation Primer - Board Book Review"
 date: "2019-06-27"
 tags: [board-books, reviews, children-books, pacific-northwest, educational]
@@ -63,5 +63,5 @@ _All Aboard Pacific Northwest: A Recreation Primer_ is a delightful addition to 
 
 For more book reviews and recommendations, check out our previous posts:
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Marvel United Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})

@@ -1,4 +1,4 @@
----
+﻿---
 layout: single
 title: "After The Virus: Complete Board Game Review & Strategy Guide"
 date: "2016-06-15"
@@ -750,7 +750,7 @@ If you enjoy **deck-building games**, love **zombie survival themes**, and espec
 - [Deck-Building Games Buyer's Guide](/deck-building-games-guide)
 - [Zombie Board Games Ranked](/zombie-board-games-ranked)
 - [Cooperative Games for Small Groups](/cooperative-games-small-groups)
-- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Why Adults Should Also Board Game]({{ site.constants.wsib }}adult board games)
 
 ---

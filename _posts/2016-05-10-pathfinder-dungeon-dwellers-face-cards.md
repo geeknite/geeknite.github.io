@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pathfinder Cards: Dungeon Dwellers Face Cards Review"
 date: "2016-05-10"
 tags: ["card games", "Pathfinder", "review", "Dungeon Dwellers"]
@@ -81,6 +81,6 @@ Pathfinder Cards: Dungeon Dwellers Face Cards is a fantastic addition to any Pat
 ## Linking You to More Pathfinder Fun
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 
 **Ready to enhance your game? Click [here]({{ site.constants.wsib }}pathfinder-cards-dungeon-dwellers) to get your pack now and receive an exclusive discount! Happy adventuring!**

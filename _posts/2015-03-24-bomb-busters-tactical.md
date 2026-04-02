@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bomb Busters: Tactical Game for Ages 10+"
 date: "2015-03-24"
 tags: [bomb-busters, board-games, tactical-games, kids-games, review, cooperative]
@@ -72,7 +72,7 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love Bomb Busters, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({{ site.constants.wsib }}adult board games).
+If you love Bomb Busters, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [why adults should also board game]({{ site.constants.wsib }}adult board games).
 
 Ready to face the bomb apocalypse? Don't miss out on the fun!
 

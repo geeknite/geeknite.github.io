@@ -1,4 +1,4 @@
----
+﻿---
 title: "Zombicide: Prison Outbreak Game Set Review"
 date: '2012-10-25'
 tags: ["board games", "zombicide", "review", "zombies"]
@@ -80,7 +80,7 @@ So, gather your friends, arm yourselves with whatever you can find, and dive int
 
 ## Linking You to More Gaming Adventures
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 

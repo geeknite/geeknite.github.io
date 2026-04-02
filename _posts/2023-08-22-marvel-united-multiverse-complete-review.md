@@ -1,4 +1,4 @@
----
+﻿---
 title: "Marvel United: Multiverse Board Game - Complete Superpowered Review"
 date: "2023-08-15"
 tags: ["board games", "Marvel", "Multiverse", "review", "superheroes", "cooperative"]
@@ -263,7 +263,7 @@ The beautiful components, engaging mechanics, and endless replayability make it 
 
 Looking for more superhero and cooperative board game content? Check out:
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
 
 ---

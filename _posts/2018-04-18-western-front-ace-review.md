@@ -1,4 +1,4 @@
----
+﻿---
 title: "Western Front Ace: The Great War in the Air"
 date: 2018-04-18
 tags: ["board games", "review", "aviation", "WWI", "strategy"]
@@ -77,4 +77,4 @@ So, gather your fellow aviators, set your sights on the enemy, and take to the s
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})

@@ -1,4 +1,4 @@
----
+﻿---
 title: "City of Mist: Fortune Row Review"
 date: "2022-03-15"
 tags: ["City of Mist", "RPG", "review", "gaming"]
@@ -80,7 +80,7 @@ So what are you waiting for? Get your copy of [City of Mist: Fortune Row]({{ sit
 
 ### Related Posts
 
-If you love supernatural RPGs, be sure to check out our reviews of [Gloomhaven]({{ site.constants.wsib }}gloomhaven) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love supernatural RPGs, be sure to check out our reviews of [Gloomhaven]({{ site.constants.wsib }}gloomhaven) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 - [City of Mist: Fortune Row Review (Original)]({%- post_url 2019-03-22-city-of-mist-fortune-row-review -%})
 - [City of Mist: Fortune Row Art Book]({%- post_url 2025-02-05-city-of-mist-fortune-row-art-book -%})

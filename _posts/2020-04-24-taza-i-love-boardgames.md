@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Taza - I Love Boardgames'
 date: "2020-04-24"
 tags: ['board games', 'review', 'humor']
@@ -59,6 +59,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love Taza, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
+If you love Taza, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
 
 **Ready to embrace the chaos of board game love? Don't miss out on the fun!**

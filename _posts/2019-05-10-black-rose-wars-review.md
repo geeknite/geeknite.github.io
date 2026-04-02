@@ -1,4 +1,4 @@
----
+﻿---
 title: "Black Rose Wars Review: A Magical Battle Royale"
 date: 2019-05-10
 tags: [board games, review, Black Rose Wars, strategy]
@@ -97,6 +97,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}bl
 
 ### Other Magical Games to Check Out
 
-If you love magical board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love magical board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to dive into the magical world? Don’t miss out on the fun!**

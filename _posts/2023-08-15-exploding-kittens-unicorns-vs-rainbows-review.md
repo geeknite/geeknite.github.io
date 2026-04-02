@@ -1,4 +1,4 @@
----
+﻿---
 title: "Exploding Kittens: Unicorns vs. Rainbows Review"
 date: "2023-08-15"
 tags: ["board games", "Exploding Kittens", "Unicorns vs. Rainbows", "review"]
@@ -76,7 +76,7 @@ Exploding Kittens: Unicorns vs. Rainbows is not just a card game; it’s an adve
 
 ## Linking You to More Gaming Adventures
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 

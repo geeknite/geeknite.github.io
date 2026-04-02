@@ -1,4 +1,4 @@
----
+﻿---
 title: "Uno Wild Jackpot Card Game Review"
 date: 2023-04-05
 tags: ['card games', 'review', 'Uno', 'funny']
@@ -72,6 +72,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}un
 
 ### Other Card Games to Check Out
 
-If you love card games, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
+If you love card games, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
 
 **Ready to deal yourself in and experience the wild ride? Don't miss out on the fun!**

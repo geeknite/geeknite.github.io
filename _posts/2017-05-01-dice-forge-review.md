@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dice Forge: A Humorous and Detailed Review"
 date: '2017-05-01'
 tags: ['board games', 'review', 'Dice Forge', 'dice', 'strategy']
@@ -80,6 +80,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}di
 
 ### Other Board Games to Check Out
 
-If you love strategic board games, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({{ site.constants.wsib }}adult board games).
+If you love strategic board games, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [why adults should also board game]({{ site.constants.wsib }}adult board games).
 
 **Ready to roll the dice and forge your destiny? Don’t miss out on the fun!**

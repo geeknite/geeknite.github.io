@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Elden Ring: The Board Game - A Tarnished Review'
 date: '2022-02-25'
 tags:
@@ -84,7 +84,7 @@ Boss battles are the highlight of the game. Each boss has its own unique behavio
 ## Linking You to More Gaming Adventures
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({% post_url 2022-02-04-gloomhaven-review %})**
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({% post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens %})**
 - **[Top 10 Racing Board Games]({% post_url 2023-06-17-top-10-racing-board-games %})**
 
 **Ready to unite and conquer? Click [here]({{ site.constants.wsib }}elden-ring-board-game) to get your copy now and receive an exclusive discount! Happy adventuring!**

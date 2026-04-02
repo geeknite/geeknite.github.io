@@ -1,4 +1,4 @@
----
+﻿---
 title: "Uno Junior Card Game Review: Fun for Kids of All Ages"
 date: 2023-04-12
 tags: [card games, family games, Uno Junior]
@@ -66,7 +66,7 @@ Uno Junior is a delightful adaptation of the classic card game, tailor-made for 
 
 For more reviews and fun game recommendations, check out some of our other posts:
 
-- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens?]({% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %})
+- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens?]({% post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens %})
 - [Top 10 Racing Board Games]({% post_url 2023-06-17-top-10-racing-board-games %})
 - [To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and Board Games]({% post_url 2021-02-21-to-sleeve-or-not-to-sleeve %})
 

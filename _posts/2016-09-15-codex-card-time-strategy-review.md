@@ -1,4 +1,4 @@
----
+﻿---
 title: "Codex: Card-Time Strategy – Core Set Review"
 date: "2016-09-15"
 tags: ["board games", "card games", "strategy", "review"]
@@ -72,7 +72,7 @@ Codex: Card-Time Strategy – Core Set is a must-have for fans of strategic card
 
 ## Related Posts
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
 - [Magic: The Gathering Complete Guide]({%- post_url 2012-08-15-magic-the-gathering-complete-guide -%})
 - [Board Game Card Sleeves Complete Guide]({%- post_url 2014-02-15-board-game-card-sleeves-complete-guide -%})

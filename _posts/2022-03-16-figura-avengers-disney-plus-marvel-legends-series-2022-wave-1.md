@@ -1,4 +1,4 @@
----
+﻿---
 title: "Figura Avengers Disney Plus Marvel Legends Series 2022 Wave 1 Review"
 date: '2022-03-15'
 tags: ["figura", "Avengers", "Disney Plus", "Marvel Legends", "series", "2022", "Wave 1", "review"]
@@ -84,6 +84,6 @@ The **Avengers Disney Plus Marvel Legends Series 2022 Wave 1** is a fantastic ad
 
 ### Other Marvelous Reviews
 
-If you enjoyed this review, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) and [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you enjoyed this review, be sure to check out our reviews of [Marvel United: Multiverse Board Game]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%}) and [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to assemble your Marvel collection? Don’t miss out on the action!**

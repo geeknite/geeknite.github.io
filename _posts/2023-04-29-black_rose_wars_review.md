@@ -1,4 +1,4 @@
----
+﻿---
 title: "Black Rose Wars: Fight for Arcane Supremacy"
 date: "2023-04-29"
 tags: [board games, review, Black Rose Wars, gaming]
@@ -82,6 +82,6 @@ So what are you waiting for? Grab your copy of Black Rose Wars today and unleash
 
 ### Other Magical Games to Check Out
 
-If you love magic-themed board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love magic-themed board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to cast some spells and become the Supreme Mage? Don’t miss out on the magical fun!**

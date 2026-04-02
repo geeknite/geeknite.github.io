@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Monsters Club: Graphic Novel Review'
 date: '2023-08-15'
 categories: [graphic novels, review, Monsters Club]
@@ -80,7 +80,7 @@ The graphic novel also explores themes of fear and survival. The residents must 
 ## More Geeknite Reviews
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Spider-Geddon: The Ultimate Board Game Review]({%- post_url 2024-08-15-spider-geddon-board-games -%})**
 
 **Ready to dive into more adventures? Click [here]({{ site.constants.wsib }}graphic-novels) to explore more graphic novels and exclusive discounts! Happy reading!**

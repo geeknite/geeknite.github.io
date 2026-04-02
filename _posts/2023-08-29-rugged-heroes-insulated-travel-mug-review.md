@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rugged Heroes: Insulated Travel Mug Review"
 date: '2023-08-15'
 tags: ['travel mug', 'review', 'Rugged Heroes', 'insulated mug', 'gear']
@@ -91,6 +91,6 @@ So what are you waiting for? Head over to [Geeknite's Gear Section](https://geek
 
 ### Travel Essentials
 - [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 
 **Ready to keep your drinks at the perfect temperature? Click [here](https://geeknite.com/gear/rugged-heroes-insulated-travel-mug) to get your Rugged Heroes Insulated Travel Mug now and receive an exclusive discount! Happy hydrating!**

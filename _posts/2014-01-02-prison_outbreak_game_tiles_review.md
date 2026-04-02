@@ -1,4 +1,4 @@
----
+﻿---
 title: "Prison Outbreak Game Tiles Review: Board Game Madness"
 date: '2014-01-01'
 tags: ['board games', 'review', 'Prison Outbreak', 'strategy games', 'humor']
@@ -83,6 +83,6 @@ So, gather your friends, set up your barricades, and dive into the thrilling wor
 
 ## Other Board Games to Check Out
 
-If you love Prison Outbreak Game Tiles, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({{ site.constants.wsib }}adult board games).
+If you love Prison Outbreak Game Tiles, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [why adults should also board game]({{ site.constants.wsib }}adult board games).
 
 **Ready to escape the zombie apocalypse?** Don’t miss out on the fun!

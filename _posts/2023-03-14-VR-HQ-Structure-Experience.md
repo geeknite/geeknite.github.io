@@ -1,4 +1,4 @@
----
+﻿---
 title: "Virtual Reality HQ Structure Experience Review: A Dive into the Future"
 date: 2023-03-14
 last_modified_at: '2023-08-15T08:00:00+02:00'
@@ -79,4 +79,4 @@ For more VR and tech reviews, check out our previous posts:
 
 - [Zwift Review: A Comprehensive Analysis of the Popular Virtual Cycling Platform]({%- post_url 2023-02-20-zwift-review-analysis-virtual-cycling-platform -%})
 - [LEGO Product Review: An In-Depth Look at the Best Sets Available]({%- post_url 2025-02-08-lego-product-review -%})
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})

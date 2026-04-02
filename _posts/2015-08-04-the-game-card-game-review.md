@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Game Card Game Review: A Hilarious and Strategic Experience"
 date: '2015-08-01'
 categories: [board games, review, strategy]
@@ -78,6 +78,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Card Games to Check Out
 
-If you love **The Game Card Game**, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [Codenames]({{ site.constants.wsib }}adult board games).
+If you love **The Game Card Game**, be sure to check out our comparisons between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [Codenames]({{ site.constants.wsib }}adult board games).
 
 **Ready to embark on your next great adventure? Check out [The Game Card Game]({{ site.constants.wsib }}the-game-card-game) today and start your epic journey!**

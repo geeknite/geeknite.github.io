@@ -1,4 +1,4 @@
----
+﻿---
 title: "Uno Flip Card Game Review"
 date: "2019-06-15"
 tags: [card games, uno, game review, humor]
@@ -64,4 +64,4 @@ Ready to bring some chaos to your game night? **Grab Uno Flip today and let the 
 For more card game reviews, check out our previous posts:
 
 - [To Sleeve or Not to Sleeve: A Humorous Guide to Protecting Your Card and Board Games]({%- post_url 2021-02-21-to-sleeve-or-not-to-sleeve -%})
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})

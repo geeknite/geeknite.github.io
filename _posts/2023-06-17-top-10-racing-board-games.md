@@ -1,4 +1,4 @@
----
+﻿---
 title: "Top 10 Racing Board Games"
 tags:
 - board games
@@ -52,6 +52,6 @@ At number 9, we have [**HEAT: Pedal to the Metal**]({{ site.constants.wsib }}hea
 
 Last but not least, we have [**Thunder Road Vendetta**]({{ site.constants.wsib }}thunder road vendetta). In this post-apocalyptic racing game, players must not only race but also fight for survival. With a variety of vehicles and combat mechanics, it's a race to the finish line and the top of the food chain. While it's not in the top 1500 rankings, **Thunder Road Vendetta** is a game that's sure to keep you entertained for hours【4†source】【5†source】.
 
-If you are interested in adventure games check our comparison between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
+If you are interested in adventure games check our comparison between [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [why adults should also board game]({%- post_url 2019-11-15-adult-board-games -%}).
 
 In conclusion, these top 10 racing board games offer something for every type of racing enthusiast. From Formula 1 to post-apocalyptic battles on the open road, there's no shortage of excitement and thrills to be had. So gather your friends and family, head over to [Geeknite's Board Games Section]({{ site.constants.wsib }}boardgames), and pick up your favorite game today. Whether you prefer the strategy of [**Downforce**]({{ site.constants.wsib }}downforce) or the dexterity of [**PitchCar**]({{ site.constants.wsib }}pitchcar), you're sure to have a thrilling and exciting experience, especially, keep an eye on [**HEAT**]({{ site.constants.wsib }}heat) and [**Thunder Road Vendetta**]({{ site.constants.wsib }}thunder road vendetta) as they are the most recent hyped addition to the racing games. The best part is, you can enjoy all the excitement and adrenaline of racing without ever leaving your living room. So what are you waiting for? It's time to rev up your engines and get ready for a night of high-speed fun with these top 10 racing board games.

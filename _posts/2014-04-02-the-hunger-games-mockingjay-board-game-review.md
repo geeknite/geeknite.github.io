@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Hunger Games: Mockingjay - The Board Game Review"
 date: "2014-04-02"
 tags: ["board games", "review", "The Hunger Games", "Mockingjay", "strategy games", "cooperative games"]
@@ -82,6 +82,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}th
 
 ### Other Rebellion Games to Check Out
 
-If you love cooperative board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love cooperative board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to spark the rebellion? Don't miss out on the fun!**

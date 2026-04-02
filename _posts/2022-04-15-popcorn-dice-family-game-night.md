@@ -1,4 +1,4 @@
----
+﻿---
 title: "Popcorn Dice: Ultimate Family Game Night"
 date: 2022-04-15
 categories: [board games, review, popcorn dice]
@@ -78,6 +78,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love Popcorn Dice, be sure to check out our reviews of [Adventure Tactics and CoraQuest](https://geeknite.com/2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens) or [why adults should also board game](https://geeknite.com/2019-11-15-adult-board-games).
+If you love Popcorn Dice, be sure to check out our reviews of [Adventure Tactics and CoraQuest](https://geeknite.com/2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens) or [why adults should also board game](https://geeknite.com/2019-11-15-adult-board-games).
 
 **Ready to pop open the fun?** Don’t miss out on the ultimate family game night experience!

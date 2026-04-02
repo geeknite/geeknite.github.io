@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Card Game of the Monopolist: 1898 Style Repro The Landlord's Game (Monopoly)"
 date: "2014-10-15"
 tags: [Monopoly, card games, board games, review]
@@ -71,7 +71,7 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section]({{ si
 
 ## Related Posts
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Adult Board Gaming: Fun Entertainment for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})
 - [Monopoly Deal Card Game Review]({%- post_url 2014-11-15-monopoly-deal-card-game-review -%})
 - [Adult Couple Game Night Monopoly Collection]({%- post_url 2025-01-17-adult-couple-game-night-monopoly-collection -%})

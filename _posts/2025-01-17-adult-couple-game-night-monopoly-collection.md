@@ -1,4 +1,4 @@
----
+﻿---
 title: "Adult Couple Game Night Monopoly Games Collection"
 date: "2025-01-17"
 tags: [board games, review, monopoly, adult games, game night]
@@ -86,4 +86,4 @@ Monopoly is a versatile and engaging game that offers endless possibilities for 
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})

@@ -1,4 +1,4 @@
----
+﻿---
 title: "City of Mist: Fortune Row - Mythos and Logos Expansion Review"
 date: "2022-04-15"
 tags: ["City of Mist", "Fortune Row", "Mythos", "Logos", "review"]
@@ -76,7 +76,7 @@ City of Mist: Fortune Row - Mythos and Logos Expansion is not just a game; it’
 
 ## Linking You to More Gaming Adventures
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 

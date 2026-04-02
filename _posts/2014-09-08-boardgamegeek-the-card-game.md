@@ -1,4 +1,4 @@
----
+﻿---
 title: "BoardGameGeek: The Card Game Review"
 date: "2014-09-08"
 categories: [board games, review]
@@ -71,6 +71,6 @@ One of the best aspects of *BoardGameGeek: The Card Game* is its humor. The game
 ## More Reads for Board Game Enthusiasts
 
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 
 **Don't miss out on the fun! Click [here]({{ site.constants.wsib }}boardgamegeek-the-card-game) to get your copy now and dive into the geeky goodness!**

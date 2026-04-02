@@ -1,4 +1,4 @@
----
+﻿---
 title: "Star Wars: Force and Destiny - Dice Set Review"
 date: "2013-10-19"
 categories: [board games, review, star wars]
@@ -84,5 +84,5 @@ The Star Wars: Force and Destiny Dice Set is a must-have for any Star Wars RPG p
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})

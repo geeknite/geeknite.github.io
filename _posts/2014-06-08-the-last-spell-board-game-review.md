@@ -1,4 +1,4 @@
----
+﻿---
 title: 'The Last Spell: The Board Game Review'
 date: "2014-06-08"
 tags: ['board games', 'The Last Spell', 'review', 'funny']
@@ -73,6 +73,6 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}th
 
 ### Other Dark Fantasy Games to Check Out
 
-If you love dark fantasy board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love dark fantasy board games, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to defend your town? Don't miss out on the fun!**

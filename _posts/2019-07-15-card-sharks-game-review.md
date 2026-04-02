@@ -1,4 +1,4 @@
----
+﻿---
 title: "Card Sharks Game - The Official Board Game of Card Sharks"
 date: "2019-07-15"
 tags: [Card Sharks, gaming, board games, review]
@@ -74,7 +74,7 @@ So what are you waiting for? Head over to [get your copy of **Card Sharks**]({{ 
 
 ## Related Posts
 
-- [Adventure Tactics vs CoraQuest: Which Game to Choose]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics vs CoraQuest: Which Game to Choose]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Why Adults Should Also Play Board Games]({%- post_url 2019-11-15-adult-board-games -%})
 - [Exploding Kittens Card Game Review]({%- post_url 2015-07-15-exploding-kittens-card-game-review -%})
 - [Sushi Go Card Game Review]({%- post_url 2013-12-15-sushi-go-review -%})

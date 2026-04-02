@@ -1,4 +1,4 @@
----
+﻿---
 title: "Warhammer Quest: Cursed City - Terrain Pack Review"
 date: "2021-05-15"
 tags: ["Warhammer", "Cursed City", "Board Games", "Review"]
@@ -62,6 +62,6 @@ Warhammer Quest: Cursed City - Terrain Pack is a fantastic addition to any board
 
 ## Other Board Games to Check Out
 
-If you love Warhammer Quest, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}).
+If you love Warhammer Quest, be sure to check out our reviews of [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}) or [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}).
 
 **Ready to dive into a gothic adventure? Don’t miss out on the fun!**

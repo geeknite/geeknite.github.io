@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dice Men: The Story of Games Workshop"
 date: "2023-04-24"
 tags: ["board games", "Games Workshop", "review", "gaming"]
@@ -67,6 +67,6 @@ While the book provides a comprehensive look at the company's history, it's the 
 
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({{ site.baseurl }}{% post_url 2022-02-04-gloomhaven-review %})**
 - **[Marvel United Multiverse Board Game Review]({{ site.baseurl }}{% post_url 2023-08-22-marvel-united-multiverse-complete-review %})**
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({{ site.baseurl }}{% post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens %})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({{ site.baseurl }}{% post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens %})**
 
 **Don't miss out on this epic tale! Click [here]({{ site.constants.wsib }}dice-men) to get your copy of Dice Men: The Story of Games Workshop now!**

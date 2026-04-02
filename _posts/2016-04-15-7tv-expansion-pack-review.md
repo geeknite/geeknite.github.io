@@ -1,4 +1,4 @@
----
+﻿---
 title: "7TV Expansion Pack Review"
 date: "2016-04-15"
 tags: ["board games", "7TV", "expansion pack", "review"]
@@ -76,7 +76,7 @@ The 7TV Expansion Pack is not just a board game; it's an adventure through the t
 
 ## Related Posts
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Sniper Elite Board Game Review]({%- post_url 2024-10-16-sniper-elite-board-game-review -%})**
 - **[Marvel United Multiverse Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**

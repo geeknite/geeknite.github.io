@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Imploding Kittens Review: Is the First Expansion of Exploding Kittens Worth the Hype?'
 date: "2016-10-15"
 tags: ['board games', 'card games', 'exploding kittens', 'imploding kittens', 'review']
@@ -67,4 +67,4 @@ Imploding Kittens is a fantastic expansion that brings new life to the Exploding
 
 ## More Gaming Fun
 
-If you love card games, be sure to check out our reviews of [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%}) or [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).
+If you love card games, be sure to check out our reviews of [Adventure Tactics and CoraQuest]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%}) or [Gloomhaven]({%- post_url 2022-02-04-gloomhaven-review -%}).

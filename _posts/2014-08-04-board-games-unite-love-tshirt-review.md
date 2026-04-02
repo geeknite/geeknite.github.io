@@ -1,4 +1,4 @@
----
+﻿---
 title: "Board Games Unite Love T-Shirt Review"
 date: "2014-08-04"
 tags: ["board games", "review", "tshirt", "apparel"]
@@ -63,7 +63,7 @@ So what are you waiting for? Head over to [Geeknite's Apparel Section](https://g
 
 If you love the Board Games Unite Love T-Shirt, be sure to check out our other apparel reviews:
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
 
 **Ready to level up your board game apparel? Click [here](https://geeknite.com/boardgames-unite-love-tshirt) to get your Board Games Unite Love T-Shirt now and receive an exclusive discount! Happy gaming in style!**

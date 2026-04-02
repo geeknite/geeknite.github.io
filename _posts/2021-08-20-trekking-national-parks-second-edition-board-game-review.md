@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trekking The National Parks The Board Game - Underdog Games - Second Edition Review"
 date: 2021-08-20
 categories: [board games, review, trekking]
@@ -73,7 +73,7 @@ Trekking The National Parks: The Board Game - Second Edition is a delightful and
 
 If you enjoyed this review, be sure to check out our other board game reviews for more exciting recommendations:
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 - **[Top 10 Racing Board Games]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
 

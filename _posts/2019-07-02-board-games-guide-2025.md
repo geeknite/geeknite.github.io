@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Ultimate Guide to Board Games in 2025"
 date: "2019-07-02"
 tags: [board games, review, "2025"]
@@ -141,4 +141,4 @@ Whether you're into serene landscapes, spider invasions, or epic cycling tours, 
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'D&D Adventures - Outlined Coloring Book Review'
 date: '2019-05-21'
 tags: ['D&D', 'Coloring Book', 'Review', 'Fantasy', 'Hobby']
@@ -58,7 +58,7 @@ The **D&D Adventures - Outlined Coloring Book** is a fantastic addition to any D
 For more reviews and D&D content, check out our previous posts:
 
 - [Mistborn 3: The Hero of Ages Review]({%- post_url 2018-04-04-mistborn-3-review -%})
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
 
 **Ready to get started? Click [here](https://example.com/dnd-coloring-book) to get your copy now and receive an exclusive discount! Happy coloring!**

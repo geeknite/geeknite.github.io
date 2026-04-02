@@ -1,4 +1,4 @@
----
+﻿---
 title: "Herd Mentality: The Udderly Addictive Family Board Game"
 date: "2018-02-14"
 categories: [board games, review, herd mentality]
@@ -79,6 +79,6 @@ Herd Mentality is a fantastic addition to any board game collection, especially 
 
 ## Other Board Games to Check Out
 
-If you love Herd Mentality, be sure to check out our reviews of [other hilarious board games](https://geeknite.com/2019-11-15-adult-board-games) or explore [why board gaming is great for all ages](https://geeknite.com/2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens).
+If you love Herd Mentality, be sure to check out our reviews of [other hilarious board games](https://geeknite.com/2019-11-15-adult-board-games) or explore [why board gaming is great for all ages](https://geeknite.com/2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens).
 
 **Ready to moo-ve into the fun?** Don't miss out on Herd Mentality! **Click [here](https://geeknite.com/herd-mentality) to get your copy now! Happy gaming!**

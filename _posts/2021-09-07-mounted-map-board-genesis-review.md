@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Mounted Map Board: Genesis Review'
 date: "2021-09-07"
 tags: ['board games', 'review', 'Genesis', 'strategy games', 'map board']
@@ -91,4 +91,4 @@ Ready to conquer the map board? Check out Genesis on [Geeknite's Board Games Sec
 ---
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})

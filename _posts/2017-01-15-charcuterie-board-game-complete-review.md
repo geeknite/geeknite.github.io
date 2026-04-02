@@ -1,4 +1,4 @@
----
+﻿---
 title: "Charcuterie: The Board Game Complete Review - Gourmet Strategy Gaming"
 date: "2017-01-15"
 tags:
@@ -693,7 +693,7 @@ So what are you waiting for? Get your copy of Charcuterie: The Board Game today 
 
 - **[7 Wonders Complete Board Game Guide]({%- post_url 2010-06-01-7-wonders-complete-board-game-guide -%})** - Another excellent gateway strategy game
 - **[Azul Complete Board Game Guide]({%- post_url 2017-07-01-azul-complete-board-game-guide -%})** - Pattern-building masterpiece
-- **[Adventure Tactics vs CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})** - Gateway dungeon crawlers
+- **[Adventure Tactics vs CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})** - Gateway dungeon crawlers
 - **[Gloomhaven Review: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})** - For when you graduate to heavy games
 - **[Why Adults Should Board Game Too]({{ site.constants.wsib }}adult board games)** - The case for adult gaming
 

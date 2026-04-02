@@ -1,4 +1,4 @@
----
+﻿---
 title: "Poker Set with Chips and Cards Review"
 date: 2025-04-07
 tags: [poker, review, board games, gaming]
@@ -71,6 +71,6 @@ The Poker Set with Chips and Cards is a must-have for any poker enthusiast. Its 
 
 - **[Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})**
 - **[Board Games Product Review: The Ultimate Guide to Racing Games for 2025]({%- post_url 2025-01-12-board-games-recommendations-2025 -%})**
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 
 **Call to Action**: Ready to elevate your poker nights? Click [here]({{ site.constants.wsib }}poker-set-with-chips-and-cards) to get your Poker Set with Chips and Cards now and receive an exclusive discount! Happy gaming!

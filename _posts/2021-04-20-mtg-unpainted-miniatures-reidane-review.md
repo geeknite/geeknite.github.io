@@ -1,4 +1,4 @@
----
+﻿---
 title: "Magic the Gathering Unpainted Miniatures: Reidane, Goddess of Justice (Wave 14)"
 date: "2021-04-20"
 tags:
@@ -62,7 +62,7 @@ When compared to other unpainted miniatures in Wave 14, Reidane holds her own. H
 **Related Posts:**
 
 - **[Marvel United: Multiverse Board Game Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 
 ## Final Recommendation

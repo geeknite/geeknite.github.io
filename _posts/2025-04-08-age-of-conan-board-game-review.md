@@ -1,4 +1,4 @@
----
+﻿---
 title: "Age of Conan: The Strategy Board Game - A Barbaric Review"
 date: "2025-04-08"
 tags: ["board games", "review", "Age of Conan", "strategy games"]
@@ -80,6 +80,6 @@ So what are you waiting for? Head over to [Geeknite's Board Games Section](https
 
 ## Other Board Games to Check Out
 
-If you love **Age of Conan**, be sure to check out our comparisons between [Adventure Tactics and CoraQuest](https://geeknite.com/2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens) or [why adults should also board game](https://geeknite.com/2019-11-15-adult-board-games).
+If you love **Age of Conan**, be sure to check out our comparisons between [Adventure Tactics and CoraQuest](https://geeknite.com/2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens) or [why adults should also board game](https://geeknite.com/2019-11-15-adult-board-games).
 
 **Ready to embark on your Hyborian adventure? Click [here](https://geeknite.com/age-of-conan) to get your copy now and receive an exclusive discount! Happy gaming!**

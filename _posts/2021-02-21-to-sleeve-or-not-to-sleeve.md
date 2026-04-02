@@ -1,4 +1,4 @@
----
+﻿---
 title: "Uno Card Game Review"
 date: '2021-02-21'
 tags: [board games, card games, Uno, review, humor]
@@ -81,7 +81,7 @@ For more reviews and fun board game insights, check out our previous posts:
 
 - **[Adult Board Games: Fun for Grown-Ups]({%- post_url 2019-11-15-adult-board-games -%})**
 - **[Top 10 Racing Board Games: A Fast-Paced Countdown]({%- post_url 2023-06-17-top-10-racing-board-games -%})**
-- **[Adventure Tactics or CoraQuest: Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics or CoraQuest: Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 
 There you have it, folks! Uno, the game that brings joy and chaos in equal measures. Whether you're strategizing to win or just enjoying the madness, Uno is a staple in the world of card games. Enjoy, and may the Draw Four cards be ever in your favor!
 

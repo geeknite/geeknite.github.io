@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Mind Card Game: A Hilarious Review"
 date: "2018-02-15"
 tags:
@@ -81,7 +81,7 @@ For more reviews and board game recommendations, check out our previous posts:
 - [Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})
 - [Exploding Kittens Card Game Review]({%- post_url 2015-07-15-exploding-kittens-card-game-review -%})
 - [Codenames Board Game Review]({%- post_url 2015-06-15-codenames-board-game-review -%})
-- [Adventure Tactics and CoraQuest: Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics and CoraQuest: Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Sushi Go! Card Game Review]({%- post_url 2013-12-15-sushi-go-review -%})
 
 **Ready to dive into the silent chaos? [Get your copy of The Mind now]({{ site.constants.wsib }}The Mind card game) and enjoy hours of silent, hilarious fun! Happy gaming!**

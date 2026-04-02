@@ -1,4 +1,4 @@
----
+﻿---
 title: "Among Cultists: Down Into The Abyss Review"
 date: "2023-07-20"
 tags: ["board games", "Among Cultists", "review", "social deduction"]
@@ -83,5 +83,5 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}am
 
 For more reviews and board game recommendations, check out our previous posts:
 
-- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})
+- [Adventure Tactics vs. CoraQuest: Which Game to Choose for Young Teens]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})
 - [Why Adults Should Also Board Game]({%- post_url 2019-11-15-adult-board-games -%})

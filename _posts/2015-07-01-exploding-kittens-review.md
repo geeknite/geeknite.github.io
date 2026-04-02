@@ -1,4 +1,4 @@
----
+﻿---
 title: "Exploding Kittens Card Game Review"
 date: '2015-07-01'
 tags: ['card games', 'review', 'Exploding Kittens', 'funny']
@@ -82,7 +82,7 @@ So what are you waiting for? Head over to [Geeknite]({{ site.constants.wsib }}ex
 
 ## Linking You to More Gaming Adventures
 
-- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-Adventure-Tactics-CoraQuest-Which-Game-Choose-for-young-teens -%})**
+- **[Adventure Tactics and CoraQuest - Which Game to Choose for Young Teens?]({%- post_url 2023-06-04-adventure-tactics-coraquest-which-game-choose-for-young-teens -%})**
 - **[Gloomhaven: A Dungeon Crawler to Rule Them All]({%- post_url 2022-02-04-gloomhaven-review -%})**
 - **[Marvel United: Multiverse Board Game - A Superpowered Review]({%- post_url 2023-08-22-marvel-united-multiverse-complete-review -%})**
 
