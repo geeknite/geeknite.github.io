@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 Mattel UNO Elite Core Edition - Javonte Williams (Yellow) x Denver Broncos
 date: 2025-11-10
 tags:
@@ -54,7 +54,7 @@ Artwork plays a big role here. The card backs feature a Bronco-inspired motif, a
 
 The Jokers and skip cards carry the Elite Core flourish as well. They are not garish, but they do have a memorable presence that makes each action pop. If you are the type who likes to rummage through cards for a signature moment, you will appreciate the crisp edges and the consistent color bleed across the set. The collectible Javonte Williams card is a nice finishing touch, designed to be kept in a sleeve or displayed if you want to show off your fandom when the game is put away.
 
-For those who love crossover content, the imagery pairs nicely with related posts from our site. If you want to see how we handle similar collaborations, check out our comparison piece linked here: [Classic UNO Review]({% post_url 2024-11-28-uno-classic-review %}). It offers a baseline that helps you appreciate the incremental polish this Elite Core Edition brings to the table.
+For those who love crossover content, the imagery pairs nicely with related posts from our site. If you want to see how we handle similar collaborations, check out our comparison piece linked here: [Classic UNO Review]({{ site.constants.wsib }}uno classic review). It offers a baseline that helps you appreciate the incremental polish this Elite Core Edition brings to the table.
 
 ## Gameplay Experience and Playability
 The core UNO gameplay remains familiar: match color or number, draw cards, and play action cards to change the pace of the game. The Elite Core Edition adds a few crisp tweaks designed to keep players on their toes without turning UNO into a full command center. The special power cards allow for strategic choices that can shift the lead back and forth, which is exactly what a good party game should do on a Friday night when Pizza is involved and the table is willing to debate the correct call on a Skip vs. Reverse.
@@ -73,7 +73,7 @@ In terms of collectibility, the Javonte Williams card and Broncos branding offer
 ## Comparisons with Other UNO Editions
 It is worth comparing this to other branded UNO lines like UNO Emoji, UNO Jurassic World, or the classic NFL edition without the Elite Core twist. The 2025 Elite Core Edition sits in a comfortable middle ground. It does not go overboard with gimmicks; it enhances the experience with well integrated power cards and a premium feel. If you have previously enjoyed the NFL edition but wanted something with a more modern design language and believable gameplay tweaks, this edition should feel like a natural upgrade rather than a strange detour.
 
-If you want a stronger contrast, you can reference our Denver Broncos team edition review in a related post and compare the two via the cross-post notes on this site. For a timeless UNO baseline, our classic UNO review shows you how far the series has come. See the discussion here: [Classic UNO Review]({% post_url 2024-11-28-uno-classic-review %}).
+If you want a stronger contrast, you can reference our Denver Broncos team edition review in a related post and compare the two via the cross-post notes on this site. For a timeless UNO baseline, our classic UNO review shows you how far the series has come. See the discussion here: [Classic UNO Review]({{ site.constants.wsib }}uno classic review).
 
 ## Pros and Cons
 - Pros:
@@ -95,7 +95,7 @@ If you want pure nostalgia, you can stay with the classic UNO. If you crave a li
 ## Where to Buy and Links to Related Posts
 - Official product page on Mattel site: https://www.mattel.com/
 - Seller listings on major retailers: link candidates as appropriate for your locale
-- Related notes on our site: [Classic UNO Review]({% post_url 2024-11-28-uno-classic-review %})
+- Related notes on our site: [Classic UNO Review]({{ site.constants.wsib }}uno classic review)
 - Related excitement from our team: check out our NFL collab roundups for more crossovers and fun experiences.
 
 ## Final Call to Action

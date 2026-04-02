@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 Uno Elite Core Dual Color Foil Pick Your Card 4.99-7.99 Volume Pricing
 date: 2025-11-01
 tags:
@@ -21,8 +21,8 @@ Before we jump in, a quick note on price and availability. The volume pricing mo
 
 If you want a broader context about the current state of family-friendly card games, you can always browse related Geeknite posts like our overview on the latest board game price trends or how foil finishes have evolved in mainstream family games. For a point of comparison, see our linked post about other foil cards and their durability under heavy play. Also, if you’re itching for a quick cross-reference with other UNO variants, we drop in a couple of post_url markers to keep you entertained while you scroll:
 
-{% post_url 2024-06-15-ultimate-board-games-list %}
-{% post_url 2023-12-01-arcade-classics-review %}
+{{ site.constants.wsib }}ultimate board games list
+{{ site.constants.wsib }}arcade classics review
 
 And now, onto the good stuff. First, let us lay out a visual frame of reference for the deck itself.
 
@@ -105,8 +105,8 @@ If you’re evaluating where to buy, major retailers and the official UNO shop a
 
 For readers who like to explore adjacent articles while deciding, we have linked a couple of related posts that can add context to your buying decision:
 
-{% post_url 2024-06-15-ultimate-board-games-list %}
-{% post_url 2023-12-01-arcade-classics-review %}
+{{ site.constants.wsib }}ultimate board games list
+{{ site.constants.wsib }}arcade classics review
 
 External resources worth a glance include the official UNO page for product specs and a couple of independent reviews that discuss durability and user experience with foil cards. If you want to see how foil accents combine with other gaming experiences, [UNO Official Site](https://www.mattelgames.com/uno) is a good starting point, and you can explore more about the broader UNO family of games there.
 

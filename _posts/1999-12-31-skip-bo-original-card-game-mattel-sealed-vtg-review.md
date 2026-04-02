@@ -80,8 +80,8 @@ If you are curious about the modern framing of Skip-Bo and its ongoing presence 
 ## Post links and retro references
 For readers who want to weave stories about classic game night and the evolution of family play in the late 90s, consider checking other posts in the Geeknite catalog that touch on similar vibes. You might enjoy a look at the origins and impact of UNO as a household staple or a deeper dive into vintage Mattel catalogs and their role in shaping what families played at the kitchen table. See also posts via the post_url tag to keep navigation clean and browser-friendly:
 
-- Related post on UNO origin and influence: {% post_url 1999-07-04-uno-origin-story %}
-- A vintage Mattel catalog retrospective: {% post_url 1998-06-12-vintage-mattel-collection %}
+
+
 
 ### A quick note on play variants
 Skip-Bo invites small house rules and optional variants that can spice up a long night. You can try a fast-forward variant where players must finish their stock in three rounds, or a cooperative variant where everyone helps to reach a collective score target before the deck runs out. The beauty of 90s era games is the sense that you could improvise and still feel like you are playing with intention. If you decide to experiment, write down your variant and test it out on a quiet evening. You will likely discover that the habit of experimentation is part of the joy of these games, not just the final score.

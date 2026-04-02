@@ -1,5 +1,5 @@
----
-title: UNO Wicked: Glinda vs Elphaba - 2025 Limited Edition Review
+﻿---
+title: "UNO Wicked: Glinda vs Elphaba - 2025 Limited Edition Review"
 date: 2025-04-01
 tags: [board-games, toys, uno, wicked, mattel, limited-edition, review]
 ---
@@ -78,8 +78,8 @@ The 2025 limited edition is available at major retailers and the official Mattel
 For families with kids who adore the Wicked theme, this edition can spark a lot of energy and conversation. For adults who want to relive theatre nights or simply enjoy a well-made variant of a beloved party game, Wicked offers a balanced experience that captures the essence of stage drama within the constraints of a family-friendly card game. The end result is a product that feels like a thoughtful collaboration between a toy company and a fan culture that has grown into a global phenomenon. In other words, it is a good, fun, and occasionally cheeky addition to a game night shelf.
 
 ### See also
-- [UNO 50th Anniversary Edition]({% post_url 2023-09-10-uno-50th-anniversary.html %})
-- [Top 10 Themed Board Games of 2024]({% post_url 2024-11-02-top-10-themed-board-games.html %})
+- [UNO 50th Anniversary Edition]({{ site.constants.wsib }}uno 50th anniversary.html)
+- [Top 10 Themed Board Games of 2024]({{ site.constants.wsib }}top 10 themed board games.html)
 
 External resources:
 - [Mattel UNO Wicked page](https://www.mattelgames.com/en-us/products/uno-wicked)

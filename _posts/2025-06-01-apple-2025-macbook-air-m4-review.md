@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence'
 date: '2025-06-01 12:00:00 -0000'
 tags: ['tech', 'laptops', 'apple', 'macbook-air', 'review', 'geeknite']
@@ -129,7 +129,7 @@ Against its own lineage, the M4 Air is a leap forward in efficiency and AI smart
 
 If you’re chasing pure performance, the market offers larger sibs with more ports and potentially more raw horsepower. If you want a daily driver that emphasizes battery life, ambient AI nudges, and a thin, elegant chassis, the 2025 Air is a strong pick.
 
-For fans of internal exploration and nerdy RAM discussions, you can read more in our deeper dives on older models and AI-assisted software on our site. Check out our post on the evolution of Apple silicon here: [Our journey through Apple silicon]({% post_url 2023-07-22-apple-silicon-evolution.md %}) and our lighter-size review here: [Air vs Pro: The portability debate]({% post_url 2024-09-05-air-vs-pro-review.md %}).
+For fans of internal exploration and nerdy RAM discussions, you can read more in our deeper dives on older models and AI-assisted software on our site. Check out our post on the evolution of Apple silicon here: [Our journey through Apple silicon]({{ site.constants.wsib }}apple silicon evolution) and our lighter-size review here: [Air vs Pro: The portability debate]({{ site.constants.wsib }}air vs pro review).
 
 External resources you might find handy:
 - Apple official MacBook Air page: https://www.apple.com/macbook-air/

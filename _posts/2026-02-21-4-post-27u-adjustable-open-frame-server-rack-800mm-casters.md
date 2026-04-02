@@ -1,5 +1,4 @@
 ﻿---
-layout: post
 title: 4-Post 27U Adjustable Open Frame Server Rack with 800mm Casters
 date: 2026-02-21 12:00:00 -0000
 last_modified_at: "2026-04-01"
@@ -16,7 +15,7 @@ If you want a quick escape hatch to the concrete takeaways, jump to the Final Ve
 
 ![27U Open Frame Rack](https://geeknite-assets.s3.amazonaws.com/images/27u-open-frame-rack.jpg)
 
-For more context on why racks exist in the first place, you can read a technical explainer here [Explainer post on racks]({% post_url 2024-10-12-understanding-server-racks %}) or check our sleepy but informative guide on setting up a home lab [home lab setup tips]({% post_url 2024-06-18-building-a-home-lab-on-a-budget %}).
+For more context on why racks exist in the first place, you can read a technical explainer here [Explainer post on racks]({{ site.constants.wsib }}understanding server racks) or check our sleepy but informative guide on setting up a home lab [home lab setup tips]({{ site.constants.wsib }}building a home lab on a budget).
 
 ## Quick snapshot
 
@@ -102,13 +101,13 @@ Pricing for racks like this varies with vendor, finish, and whether you get a pr
 
 Think about the long game. A modular, adjustable rack saves you from buying multiple shorter racks that you end up redeploying or replacing anyway. In a world where networks change more often than the weather in a sci‑fi universe, adaptability is a feature that pays for itself in maintenance time and upgrade cycles. If you value simplicity, you will like the rails that adjust with minimal fuss and the clear pathways that help your team stay sane during a midnight upgrade.
 
-If you want to read more about the tradeoffs between open frame and closed cabinets, our community has a couple of long-form discussions and install guides. Check out this explainer and a practical guide on setting up a home lab for efficiency and fun [read more here]({% post_url 2024- open-frame-vs-cabinet-field-guide %}) and for hands-on tips on building a budget-friendly home lab, see [home lab setup tips]({% post_url 2024-06-18-building-a-home-lab-on-a-budget %}).
+If you want to read more about the tradeoffs between open frame and closed cabinets, our community has a couple of long-form discussions and install guides. Check out this explainer and a practical guide on setting up a home lab for efficiency and fun [read more here]({{ site.constants.wsib }}open frame vs cabinet server rack guide) and for hands-on tips on building a budget-friendly home lab, see [home lab setup tips]({{ site.constants.wsib }}building a home lab on a budget).
 
 ## Visuals and aesthetics (the vibe check)
 
 The open frame stance is unapologetically pragmatic. Its industrial vibe says, We care about airflow and serviceability more than opulence. If you’re chasing a showroom finish, you might want a cabinet or a different model. If you want something that communicates we know what we’re doing and we can still see the backs of our devices, this rack nails it. The rails, the clean lines, and the expansive backspace give technicians room to maneuver—like a cozy studio apartment for gear where the landlord is airflow and the landlord’s rules are keep it tidy.
 
-For a sense of how this looks in action, check real-world lab deployments in our home-lab series: [home-lab deployment ideas]({% post_url 2024-03-10-home-lab-deployment-ideas %}).
+For a sense of how this looks in action, check real-world lab deployments in our home-lab series: [home-lab deployment ideas]({{ site.constants.wsib }}home lab deployment ideas).
 
 ## Comparisons with other rack styles
 
@@ -144,7 +143,7 @@ Bottom line: this rack shines for growing labs and mid-size IT closets where mob
 
 ### Where to learn more and how to buy
 
-If you want to explore more about how racks fit into broader IT environments, you can read about general rack selection and deployment here [Choosing a server rack for your lab]({% post_url 2023-09-02-choosing-a-server-rack-for-your-lab %}) and here [open frame vs cabinet field guide]({% post_url 2024-02-14-open-frame-vs-cabinet-field-guide %}). For hands-on tips related to home labs, see [building a home lab on a budget]({% post_url 2024-06-18-building-a-home-lab-on-a-budget %}) and [home-lab deployment ideas]({% post_url 2024-03-10-home-lab-deployment-ideas %}).
+If you want to explore more about how racks fit into broader IT environments, you can read about general rack selection and deployment here [Choosing a server rack for your lab]({{ site.constants.wsib }}choosing a server rack for your lab) and here [open frame vs cabinet field guide]({{ site.constants.wsib }}open frame vs cabinet field guide). For hands-on tips related to home labs, see [building a home lab on a budget]({{ site.constants.wsib }}building a home lab on a budget) and [home-lab deployment ideas]({{ site.constants.wsib }}home lab deployment ideas).
 
 ## Final thoughts from the Geeknite team
 
@@ -152,9 +151,9 @@ Racks are the bones of a good IT setup: sturdy, supporting the heavy stuff, and 
 
 ### Related reads
 
-- [Choosing a server rack for your lab]({% post_url 2023-09-02-choosing-a-server-rack-for-your-lab %})
-- [Cable management 101 for grownups]({% post_url 2024-03-01-cable-management-101-for-grownups %})
-- [Open frame vs cabinet: a field guide]({% post_url 2024-02-14-open-frame-vs-cabinet-field-guide %})
+- [Choosing a server rack for your lab]({{ site.constants.wsib }}choosing a server rack for your lab)
+- [Cable management 101 for grownups]({{ site.constants.wsib }}cable management 101 for grownups)
+- [Open frame vs cabinet: a field guide]({{ site.constants.wsib }}open frame vs cabinet field guide)
 
 ## Final recommendation
 

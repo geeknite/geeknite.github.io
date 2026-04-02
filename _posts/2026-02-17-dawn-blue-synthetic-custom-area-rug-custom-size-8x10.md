@@ -56,7 +56,7 @@ For many living rooms, 8x10 is the sweet spot: large enough to frame a seating a
 - Verify backing options: some orders include non-slip pads or recommended pad types to avoid sliding on hard floors.
 - Allow for care and washing: larger rugs may require periodic professional cleanings if heavy cleaning becomes necessary.
 
-See how to navigate rug sizing in our post_url link guide: [Our Rug Sizing Guide]({% post_url 2025-03-11-rug-sizing-guide %}).
+See how to navigate rug sizing in our post_url link guide: [Our Rug Sizing Guide]({{ site.constants.wsib }}rug sizing guide).
 
 ### Room Fit Scenarios
 - Living room with a central seating arrangement: 8x10 can anchor the space and define the area without swallowing the furniture.
@@ -116,6 +116,6 @@ Dawn Blue Synthetic Custom Area Rug offers a versatile mix of color, durability,
 ## Final Recommendations
 If you’re shopping for a rug that combines style with practical upkeep, Dawn Blue Synthetic Custom Area Rug ticks many boxes without forcing you into a design compromise. It’s especially suited for living rooms and family spaces where both aesthetics and easy cleanup matter. The 8x10 size serves as a reliable anchor for many layouts, while the custom sizing option provides a way to tailor the rug to oddly shaped rooms or precise furniture arrangements. The rug’s color, texture, and resilience give you room to experiment with furniture arrangements and decor accents, making it a wise centerpiece for a modern home.
 
-For more guidance on related topics, you might enjoy our rug care articles and related shopping guides: [Our Rug Cleaning Guide]({% post_url 2025-02-14-rug-cleaning-101 %}) and [Rug Sizing Guide]({% post_url 2025-03-11-rug-sizing-guide %}). For broader design insights, explore external resources like [How to Choose Area Rugs by BHG](https://www.bhg.com/decorating/furniture/rugs/how-to-choose-area-rugs/).
+For more guidance on related topics, you might enjoy our rug care articles and related shopping guides: [Our Rug Cleaning Guide]({{ site.constants.wsib }}rug cleaning 101) and [Rug Sizing Guide]({{ site.constants.wsib }}rug sizing guide). For broader design insights, explore external resources like [How to Choose Area Rugs by BHG](https://www.bhg.com/decorating/furniture/rugs/how-to-choose-area-rugs/).
 
 **Buy the Dawn Blue Rug now via our trusted affiliate link: https://affiliates.geeknite.com/dawn-blue-synthetic-area-rug?ref=gn**

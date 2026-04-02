@@ -26,6 +26,14 @@ Fes servir subagents sempre que sigui possible per a accelerar les tasques i mil
 - Minimum 3-5 in body + 3-5 in Related Posts section
 - **ALWAYS verify filename exists** in `_posts/` before using post_url
 
+## Link Integrity Rules
+
+- Never publish placeholder or fake affiliate domains (`example.com`, `affiliate.example.com`, `affiliates.example.com`, etc.)
+- Prefer links inside the Geeknite ecosystem: `{{ site.constants.wsib }}` for product intent and valid existing Geeknite/internal URLs for editorial references
+- Before adding any internal `post_url`, verify the target post file exists in `_posts/`
+- If no valid internal target exists, use a `{{ site.constants.wsib }}` query link instead of inventing a URL
+- Every outbound link in posts must be real, reachable, and context-relevant
+
 ## Post Frontmatter Template
 
 ```yaml

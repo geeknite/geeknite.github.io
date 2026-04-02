@@ -16,7 +16,7 @@ If you are a collector who believes that a single glossy rectangle can capture t
 
 In this review, we will dive into what makes the 12th edition silver 24 24 Bo Horvat patch auto tick, why it matters to both set collectors and chase-hungry speculators, and how you should think about adding this particular specimen to your display wall without turning your living room into a hockey shrine. We will also give practical tips on grading, protecting, and presenting this card so that it shines under LED lights and not under the all revealing glare of a lazy afternoon sunbeam. 
 
-If you want a quick breadcrumb trail through related topics, bump over to our ITG series via the post_url tag and catch up on earlier entries that set the stage for ultra rare patches and silver parallels. For example, a look at ITG Ultimate Memorabilia 11th Edition will give you a sense of the lineage and the way ITG built its product lineup around the idea of one stunning insert per box. [ITG Ultimate Memorabilia 11th Edition]( {{ post_url 'itg-ultimate-memorabilia-11th-edition' }} ). And if you just crave Geeknite urls and archives, you can skim our general sports card collection at [Geeknite Archives]({{ post_url 'geeknite-archives' }}).
+If you want a quick breadcrumb trail through related topics, bump over to our ITG series via the post_url tag and catch up on earlier entries that set the stage for ultra rare patches and silver parallels. For example, a look at ITG Ultimate Memorabilia 11th Edition will give you a sense of the lineage and the way ITG built its product lineup around the idea of one stunning insert per box. ITG Ultimate Memorabilia 11th Edition. And if you just crave Geeknite urls and archives, you can skim our general sports card collection at Geeknite Archives.
 
 ## The ITG Ultimate Memorabilia lineage
 ### What is ITG Ultimate Memorabilia
@@ -86,8 +86,8 @@ If you enjoy the journey through ITG Ultimate Memorabilia line, you might like t
 
 - [Bo Horvat on Wikipedia](https://en.wikipedia.org/wiki/Bo_Horvat)
 - [ITG Ultimate Memorabilia overview](https://en.wikipedia.org/wiki/Trading_cards)
-- [ITG Ultimate Memorabilia 11th Edition]( {{ post_url 'itg-ultimate-memorabilia-11th-edition' }} )
-- [Geeknite Archives]( {{ post_url 'geeknite-archives' }} )
+- ITG Ultimate Memorabilia 11th Edition
+- Geeknite Archives
 
 ## Final verdict and recommendations
 The 2012 ITG Ultimate Memorabilia 12th Edition Silver 24 24 Bo Horvat Patch Auto is a specimen that speaks to a particular collector’s sensibility. It is not the typical rookie card in the sense of being an immediate star on day one, but it carries the romance of pursuit and scarcity. If your goal is a display friendly, conversation worthy piece that sits gracefully in a well curated cabinet or shelf, this card delivers. The patch gives it a tangible link to a moment in game worn history, while the autograph personalizes the item in a way base cards never can. For a seasoned hobbyist, it is a strong investment in rarity and a robust centerpiece for a small, tight collection of premium Horvat items or ITG memorabilia. For a newer collector, it offers a learning curve about rarity, value, and display that can be immensely satisfying to navigate over time.

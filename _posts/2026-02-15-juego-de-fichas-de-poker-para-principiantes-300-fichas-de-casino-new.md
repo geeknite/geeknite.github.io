@@ -78,8 +78,8 @@ Para un juego casual de principiantes, un esquema práctico podría ser:
 
 ### Enlaces útiles y referencias en Geeknite
 
-- Si ya dominas lo básico y quieres subir de nivel, echa un vistazo a nuestra guía para principiantes de poker: [Guía para principiantes de poker]({% post_url 2024-01-10-poker-beginners-guide %}).
-- Para ideas de configuración de torneos en casa y variantes divertidas, revisa [Configuraciones de torneos caseros]({% post_url 2024-08-20-house-tournament-setup %}).
+- Si ya dominas lo básico y quieres subir de nivel, echa un vistazo a nuestra guía para principiantes de poker: [Guía para principiantes de poker]({{ site.constants.wsib }}poker beginners guide).
+- Para ideas de configuración de torneos en casa y variantes divertidas, revisa [Configuraciones de torneos caseros]({{ site.constants.wsib }}house tournament setup).
 - Consulta también recursos externos para entender mejor las fichas: [Ficha de póker - Wikipedia en español](https://es.wikipedia.org/wiki/Ficha_de_p%C3%B3ker).
 
 ### Variaciones y personalización: cómo adaptar 300 fichas a tu estilo

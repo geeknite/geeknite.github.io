@@ -1,4 +1,4 @@
----
+﻿---
 title: "The Mind: Challenge Edition - Cooperative Game Review"
 date: 2024-03-30
 tags: [board-games, cooperative, mind-games, reviews, geeknite]
@@ -60,7 +60,7 @@ No review would be complete without a few practical ideas that help you maximize
 - Do not underestimate the power of a good memory anchor: Remind yourself of the rough distribution of numbers in play. A mental map of where cards are likely to be can help you stay in the sweet spot of the ascending order, which is the game’s core joy.
 - Embrace the chaos with humor: When the round falls apart (and it will), laugh. Humor is a glue that holds the table together under pressure, transforming potential frustration into shared amusement. Geeknite readers know that a good laugh is often the strongest strategy card you carry to the table.
 
-If you want a deeper dive into specific rounds, you can check out [our earlier exploration of silent coordination in mind games]({% post_url 2024-01-15-silent-rotation-review %}) and [a follow-up on pacing and table talk in cooperative play]({% post_url 2024-02-28-mind-series-deep-dive %}). These posts aren’t exact tutorials for The Mind; they’re general musings that complement the spirit of silent teamwork and strategic restraint you’ll experience here.
+If you want a deeper dive into specific rounds, you can check out [our earlier exploration of silent coordination in mind games]({{ site.constants.wsib }}silent rotation review) and [a follow-up on pacing and table talk in cooperative play]({{ site.constants.wsib }}mind series deep dive). These posts aren’t exact tutorials for The Mind; they’re general musings that complement the spirit of silent teamwork and strategic restraint you’ll experience here.
 
 ## Thematic and aesthetic notes
 The Mind has always leaned into the sense that you’re playing with limited information, relying on trust and timing more than spectacle. The Challenge Edition leans further into the theme of a brain under pressure. The design remains elegantly sparse, with a color palette that feels like a high-contrast dashboard for your cognitive signals. The new artwork on the challenge cards fits perfectly with the tone of “we’re all in this together, but we’re also all slightly sweating.” It’s the aesthetic equivalent of a dimly lit arcade where everyone is focused on a tiny glowing number and a silent agreement that you’ll all do your best to not ruin the moment for the group.
@@ -97,8 +97,8 @@ For general information about The Mind: Challenge Edition on external sites, you
 - BoardGamesGeek community discussions
 
 ### Quick link to related Geeknite posts
-- [Previous review in this series]({% post_url 2024-01-15-silent-rotation-review %})
-- [The Mind: A Deep Dive]({% post_url 2024-02-28-mind-series-deep-dive %})
+- [Previous review in this series]({{ site.constants.wsib }}silent rotation review)
+- [The Mind: A Deep Dive]({{ site.constants.wsib }}mind series deep dive)
 
 ## Final recommendations and practical notes
 - If your group loves tension, quiet coordination, and a neat escalation of difficulty, The Mind: Challenge Edition is a strong pick. It feels fresh without losing the essential soul of the original game.

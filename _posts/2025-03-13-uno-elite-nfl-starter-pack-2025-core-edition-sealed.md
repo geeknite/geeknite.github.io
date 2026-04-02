@@ -1,4 +1,4 @@
----
+﻿---
 title: UNO Elite NFL Starter Pack 2025 Core Edition - Sealed Review
 date: "2025-03-13"
 tags:
@@ -144,7 +144,7 @@ If your goal is a reliable, fun party game that looks sharp on the shelf and del
 
 ## Where to buy and further reading
 
-For those who want to explore purchase options or check for new editions, the official product page is a good start and offers insights into licensing and packaging details. You can learn more about the UNO franchise and official pricing on the brand site and keep an eye on limited editions that crop up around major game nights or NFL seasons. For a broader look at UNO in the wild, check out our previous post about the classic UNO experience and how it ages with time. See our [classic UNO review]({% post_url 2024-05-15-uno-classic-review %}) for a nostalgic counterpoint. If you want to peek at a recent NFL collaboration, you can visit the official NFL licensing page and link to the UNO edition as a case study in cross-brand synergy.
+For those who want to explore purchase options or check for new editions, the official product page is a good start and offers insights into licensing and packaging details. You can learn more about the UNO franchise and official pricing on the brand site and keep an eye on limited editions that crop up around major game nights or NFL seasons. For a broader look at UNO in the wild, check out our previous post about the classic UNO experience and how it ages with time. See our [classic UNO review]({{ site.constants.wsib }}uno classic review) for a nostalgic counterpoint. If you want to peek at a recent NFL collaboration, you can visit the official NFL licensing page and link to the UNO edition as a case study in cross-brand synergy.
 
 External links
 - UNO official page
@@ -152,7 +152,7 @@ External links
 - NFL licensing and branding overview
   - https://www.nfl.com/news/branding
 - Our earlier UNO exploration write up
-  - [classic UNO review]({% post_url 2024-05-15-uno-classic-review %})
+  - [classic UNO review]({{ site.constants.wsib }}uno classic review)
 
 ## Visuals
 

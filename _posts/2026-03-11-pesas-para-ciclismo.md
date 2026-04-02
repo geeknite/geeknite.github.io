@@ -1,5 +1,5 @@
 ﻿---
-title: Pesas para Ciclismo: A Jornada do Peso Extra
+title: "Pesas para Ciclismo: A Jornada do Peso Extra"
 date: 2026-03-11
 tags:
   - fitness
@@ -146,13 +146,13 @@ Imagens úteis:
 
 Se você quiser ver como a força geral pode complementar o ciclismo, vale a pena conferir as nossas guias de treino em outras áreas do site:
 
-- Guia de treino com foco em cardio e força: {% post_url 2025-07-12-guia-de-treinamento-cardio-e-forca %}
+- Guia de treino com foco em cardio e força: {{ site.constants.wsib }}guia de treinamento cardio e forca
 
-- Dicas de manutenção de bicicletas para treinos intensos: {% post_url 2024-11-03-manutencao-bicicleta-treinos-intensos %}
+- Dicas de manutenção de bicicletas para treinos intensos: {{ site.constants.wsib }}manutencao bicicleta treinos intensos
 
-- Planejamento de treinos com power meter: {% post_url 2026-01-15-power-meter-para-treinamento-ciclismo %}
+- Planejamento de treinos com power meter: {{ site.constants.wsib }}power meter para treinamento ciclismo
 
-- Guia de nutrição para ciclistas: {% post_url 2025-03-18-nutricion-para-ciclistas %}
+- Guia de nutrição para ciclistas: {{ site.constants.wsib }}nutricion para ciclistas
 
 ## Benefícios do acompanhamento tecnológico
 

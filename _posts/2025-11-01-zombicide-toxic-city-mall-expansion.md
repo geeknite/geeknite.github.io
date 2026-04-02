@@ -1,5 +1,5 @@
----
-title: Zombicide: Toxic City Mall Expansion — Geeknite Review
+﻿---
+title: "Zombicide: Toxic City Mall Expansion — Geeknite Review"
 date: 2025-11-01
 tags:
   - board games
@@ -81,8 +81,8 @@ Zombicide Toxic City Mall is more than a simple add-on; it is a thoughtfully int
 The expansion shines at 4 players, with 2 or 5 also workable if your group can coordinate. The map scales well, but you should plan for longer play sessions if your table tends to discuss every loot decision like a board meeting.
 
 ## See also
-- {% post_url 2024-11-07-zombicide-black-plague-review %}
-- {% post_url 2023-07-21-geeknite-top-5-coop-games %}
+- {{ site.constants.wsib }}zombicide black plague review
+- {{ site.constants.wsib }}geeknite top 5 coop games
 
 ## External links
 - [BoardGameGeek page for Zombicide Toxic City Mall expansion](https://boardgamegeek.com/boardgame/128234/zombicide-toxic-city-mall-expansion)

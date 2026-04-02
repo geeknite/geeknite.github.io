@@ -1,4 +1,4 @@
----
+﻿---
 title: Tolkien Mind of a Genius - Newsweek Special Edition (April 2017)
 date: "2017-04-01"
 last_modified_at: "2026-04-01"
@@ -92,9 +92,9 @@ For those who want to dig deeper beyond this issue, here are a few resources tha
 
 If you’re the kind of reader who loves connecting threads across Geeknite’s universe, you’ll want to check a few related posts. They provide context and contrast to how we view epic literature and its creators:
 
-- [The Language Engines of Fantasy]({% post_url 2018-03-05-language-engines-fantasy %})
-- [The Hobbit as a Masterclass in World-Building]({% post_url 2017-09-12-hobbit-world-building %})
-- [Retro Review: Tolkien in Pop Culture]({% post_url 2019-01-20-tolkien-popculture-retro %})
+- [The Language Engines of Fantasy]({{ site.constants.wsib }}language engines fantasy)
+- [The Hobbit as a Masterclass in World-Building]({{ site.constants.wsib }}hobbit world building)
+- [Retro Review: Tolkien in Pop Culture]({{ site.constants.wsib }}tolkien popculture retro)
 
 These posts aren’t required reading, but they are excellent side quests if you’ve gotten hooked on the idea that language and myth can shape a culture more effectively than most political manifestos.
 

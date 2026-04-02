@@ -1,4 +1,4 @@
----
+﻿---
 title: Uno Elite CORE Dual Color Yellow Green Foil 2025 Review
 date: 2025-08-01 12:00:00 -0000
 tags:
@@ -20,7 +20,7 @@ In the wild world of UNO, foil cards are the glitter on the party cake. They spa
 
 If you’re here for a pure shopping guide, skip ahead to the final recommendations. If you’re here to relive your most dramatic “UNO moment” and maybe justify that tiny, almost-mathematical fear you have of color-palette variance, you’re in the right place.
 
-For the curious among you who love cross-referencing with other posts, this review nods to our previous deep-dives on similar topics: include a friendly nod to the lore of the classic UNO experience in {% post_url 2024-11-04-uno-dare-review %}, the durability question in {% post_url 2025-02-12-top-10-card-games-ratings %}, and the collectible market vibes in {% post_url 2024-09-20-foil-games-marketwatch %}.
+For the curious among you who love cross-referencing with other posts, this review nods to our previous deep-dives on similar topics: include a friendly nod to the lore of the classic UNO experience in {{ site.constants.wsib }}uno dare review, the durability question in {{ site.constants.wsib }}top 10 card games ratings, and the collectible market vibes in {{ site.constants.wsib }}foil games marketwatch.
 
 ## Unboxing and first impressions
 
@@ -122,9 +122,9 @@ In short: the 2025 Uno Elite CORE Dual Color Yellow Green Foil is a quality upgr
 
 External links and further reading:
 - Official UNO product page: https://www.hasbro.com/en-us/products/uno
-- Our earlier UNO edition analysis: {% post_url 2024-11-04-uno-dare-review %}
-- Deep dive into foil card aesthetics in tabletop games: {% post_url 2024-09-20-foil-games-marketwatch %}
-- Community feedback and retail tips: {% post_url 2025-01-08-board-game-market-roundup %}
+- Our earlier UNO edition analysis: {{ site.constants.wsib }}uno dare review
+- Deep dive into foil card aesthetics in tabletop games: {{ site.constants.wsib }}foil games marketwatch
+- Community feedback and retail tips: {{ site.constants.wsib }}board game market roundup
 
 ## Final call to action
 If you’re ready to level up your UNO nights with a deck that shines as bright as your table gossip, grab the Uno Elite CORE Dual Color Yellow Green Foil and make your next game night legendary.

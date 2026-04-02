@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mattel UNO Golf Score Low Win BIG! Special Edition Card Game – 2025 Review"
 date: "2025-04-26"
 tags: [board-games, card-games, toys, geeklife, reviews, UNO]
@@ -20,7 +20,7 @@ In Geeknite style, we like to think of this as UNO meets a miniature golf course
 
 ![UNO Golf Box](/assets/images/uno-golf-box.jpg)
 
-If you’re curious about how this stacks up against other variants, you can peek at related posts in our UNO series, like [last year’s UNO Upgrade]( {% post_url 2024-uno-review %}) and our deeper dive into [UNO Attack differences]( {% post_url 2022-uno-attack-review %}).
+If you’re curious about how this stacks up against other variants, you can peek at related posts in our UNO series, like [last year’s UNO Upgrade]( {{ site.constants.wsib }}2024 uno review) and our deeper dive into [UNO Attack differences]( {{ site.constants.wsib }}2022 uno attack review).
 
 ## What’s in the Box and First Impressions
 
@@ -150,8 +150,8 @@ Mattel UNO Golf Score Low Win BIG Special Edition lands in the niche of “fun b
 
 ## Post Links and Further Reading
 
-- Read more UNO variants and how they compare in our UNO series: [Old UNO Review]( {% post_url 2024-uno-review %})
-- Dive into the mechanics of another UNO offshoot: [UNO Attack Deep Dive]( {% post_url 2023-uno-attack-deep-dive %})
+- Read more UNO variants and how they compare in our UNO series: [Old UNO Review]( {{ site.constants.wsib }}2024 uno review)
+- Dive into the mechanics of another UNO offshoot: [UNO Attack Deep Dive]( {{ site.constants.wsib }}2023 uno attack deep dive)
 
 ## Final Thoughts on Brand and Experience
 

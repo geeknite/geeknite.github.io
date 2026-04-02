@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 Mattel UNO Golf Score Low Win BIG Special Edition Card Game New
 date: 2025-11-15
 tags:
@@ -56,7 +56,7 @@ One of the strongest points of UNO Golf is the comedic energy it injects into a 
 
 That said, if you’re chasing deeply tactical multi-hour sessions, UNO Golf might feel a tad light. It’s not designed to be a brain-burner; it’s designed to be a social lubricant with a playful thematic coat. It thrives when players lean into the silliness and keep the rounds short. The longer the night goes on, the more the golf references become harmless background noise and the more the games become about who can make the funniest accusation about the “putt of doom.” If that sounds like your group, you’ve found a new favorite. If not, you’ll still enjoy the bright cards and the general good vibes.
 
-For more on how we covered similar variants in the past, you can explore our previous UNO explorations here: [Older UNO variants review]({% post_url 2024-07-12-uno-variants-review.md %}) and [Card night nostalgia: classic games with a twist]({% post_url 2025-02-10-board-game-night-uno-dice.md %}). Pull up those posts if you want to see how UNO Golf stacks up against other light party games in our recurring annual feature on game-night staples.
+For more on how we covered similar variants in the past, you can explore our previous UNO explorations here: [Older UNO variants review]({{ site.constants.wsib }}uno variants review) and [Card night nostalgia: classic games with a twist]({{ site.constants.wsib }}board game night uno dice). Pull up those posts if you want to see how UNO Golf stacks up against other light party games in our recurring annual feature on game-night staples.
 
 ### Components, quality, and design choices
 
@@ -90,8 +90,8 @@ If you’re weighing it against other lightweight party games, UNO Golf tilts to
 
 - Official product page: https://www.mattelgames.com/en-us/products/uno-golf-score-low-win-big-special-edition
 - BoardGameGeek page: https://boardgamegeek.com/boardgame/901234/uno-golf-score-low-win-big
-- A quick comparison guide to UNO variants: [UNO Variants Roundup]({% post_url 2024-07-12-uno-variants-review.md %})
-- A deeper dive into party game design and why theme matters: [Theming and Mechanics in Party Games]({% post_url 2025-03-05-party-games-mechanics.md %})
+- A quick comparison guide to UNO variants: [UNO Variants Roundup]({{ site.constants.wsib }}uno variants review)
+- A deeper dive into party game design and why theme matters: [Theming and Mechanics in Party Games]({{ site.constants.wsib }}party games mechanics)
 
 ## Final recommendation and final thoughts
 

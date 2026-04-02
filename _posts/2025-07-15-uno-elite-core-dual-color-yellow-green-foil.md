@@ -1,4 +1,4 @@
----
+﻿---
 title: "2025 UNO Elite CORE Dual Color Yellow-Green Foil Review"
 date: "2025-07-15"
 tags: [games, cards, UNO, foil, review, geeknite]
@@ -16,7 +16,7 @@ Welcome, fellow captains of chaos, to a review that combines neon signage, cardb
 
 > If you’re picky about where your style sits on the culinary spectrum, this edition is basically a neon smoothie: bright, a little wild, and somehow healthy for your brain if you squint at it long enough. For a quick factual pit-stop, you can also peek at the official UNO page [Hasbro UNO Official](https://www.hasbro.com/en-us/games/uno) or the classic UNO entry on BoardGameGeek: [UNO on BGG](https://boardgamegeek.com/boardgame/24501/uno).
 
-Also, if you’ve enjoyed our earlier brain-bites on card-perfect chaos, you might want to swing by our previously reviewed claws of doom in [our UNO Flip deep-dive]({% post_url 2024-08-14-uno-flip-review %}) or the legendary card-stock saga in [Card Stock Showdown]({% post_url 2023-11-05-card-stock-showdown %}). These internal links are the kind of Easter eggs that keep your bookshelf quietly judging you.
+Also, if you’ve enjoyed our earlier brain-bites on card-perfect chaos, you might want to swing by our previously reviewed claws of doom in [our UNO Flip deep-dive]({{ site.constants.wsib }}uno flip review) or the legendary card-stock saga in [Card Stock Showdown]({{ site.constants.wsib }}card stock showdown). These internal links are the kind of Easter eggs that keep your bookshelf quietly judging you.
 
 ## What is the Elite CORE Dual Color Yellow-Green Foil?
 
@@ -33,7 +33,7 @@ Unboxing this edition is part theater and part inventory audit. The box art lean
 
 To set the mood with visuals, we’ve included a close-up that highlights the dual-tone foil: ![Close-up of dual color foil]( /assets/images/uno-elite-core-yellow-green-foil-closeup.jpg)
 
-For more context on how a deck’s presentation can affect gameplay mood, check out our [Glamour vs. Grit in Card Design]({% post_url 2024-04-22-glamour-vs-grit-card-design %}).
+For more context on how a deck’s presentation can affect gameplay mood, check out our [Glamour vs. Grit in Card Design]({{ site.constants.wsib }}glamour vs grit card design).
 
 ## Core technology and design philosophy: what does CORE actually mean here?
 
@@ -44,7 +44,7 @@ If you’ve read enough product blurbs, you’ll know that “CORE” is often a
 
 In practice, CORE is less about mystical techno-wizardry and more about giving players a deck that looks flashy while still feeling familiar. It’s UNO by the book, with a cosmetic upgrade that doesn’t require a PhD in color theory to enjoy.
 
-If you want to see how we compare to other “premium” decks, we’ve got a quick wink at [Elite Editions vs. Premium Core Decks]({% post_url 2023-12-01-elite-vs-premium-core-decks %}) in our past posts.
+If you want to see how we compare to other “premium” decks, we’ve got a quick wink at [Elite Editions vs. Premium Core Decks]({{ site.constants.wsib }}elite vs premium core decks) in our past posts.
 
 ## Visuals, color psychology, and how the yellow-green palette affects gameplay perception
 
@@ -54,7 +54,7 @@ The dual-color foil is not randomly chosen. Yellow and green are high-contrast c
 
 But there’s a caveat: under certain lighting, the foil can glare, which, if you’re in the mood for a stealthy strategy session, might feel less “ninja” and more “stadium DJ.” If you’re a streamer or content creator, consider lighting that minimizes glare while maximizing the deck’s personality. And if you’re color-sensitive, remember: foil is flashy, but readability comes first. Our testing found the set remains readable in most home setups, with occasional glare at extreme angles.
 
-For a familiar look at how color choices influence game perception, see our write-up on [Color Theory in Family Gaming]({% post_url 2021-09-05-color-theory-family-games %}).
+For a familiar look at how color choices influence game perception, see our write-up on [Color Theory in Family Gaming]({{ site.constants.wsib }}color theory family games).
 
 ## How does the gameplay feel with Elite CORE?
 
@@ -63,7 +63,7 @@ UNO’s core mechanics don’t get overhauled here; instead, the Elite CORE edit
 - The dual-color foil on select cards makes action cards look more dramatic, especially when you place a “Draw Two” next to a fluorescent yellow backlit region in a low-lit room.
 - The wild cards maintain legibility, a critical factor for early-night chaos where somebody yells, “What color is it again?” while you’re trying to track the current color priority.
 
-Gameplay-wise, it’s still UNO: you match color or number, play special cards to alter the flow, and try not to get stuck with seven cards when the music ends and your friends start eyeing you with suspect smiles. The Elite CORE edition adds a touch of ceremonial pomp to the usual chaos, which can be a lot of fun on a weekend night. If you’re curious about pacing with premium decks, check our [Pacing and Tempo in Modern Card Games]({% post_url 2022-07-18-pacing-card-games %}).
+Gameplay-wise, it’s still UNO: you match color or number, play special cards to alter the flow, and try not to get stuck with seven cards when the music ends and your friends start eyeing you with suspect smiles. The Elite CORE edition adds a touch of ceremonial pomp to the usual chaos, which can be a lot of fun on a weekend night. If you’re curious about pacing with premium decks, check our [Pacing and Tempo in Modern Card Games]({{ site.constants.wsib }}pacing card games).
 
 ## Card stock, finish, and durability: will it survive the couch gladiators?
 
@@ -72,7 +72,7 @@ Durability is the name of the game when you’re playing UNO with friends who th
 - The foil finish holds up to repeated handling; you might still get some wear on the edges after months of heavy use, but the core gloss remains appealing.
 - The corners survive shuffles without curling, which is nice if you’re willing to trade a few cents of cardboard to avoid a ruined card night.
 
-If you’re worried about longevity and you like to store decks in protective sleeves, you’ll be happy to know that the Elite CORE deck plays nicely with standard UNO sleeves. For sleeve recommendations and lifespan debates, see our post on [Protective Sleeves and Card Longevity]({% post_url 2023-04-02-sleeves-card-longevity %}).
+If you’re worried about longevity and you like to store decks in protective sleeves, you’ll be happy to know that the Elite CORE deck plays nicely with standard UNO sleeves. For sleeve recommendations and lifespan debates, see our post on [Protective Sleeves and Card Longevity]({{ site.constants.wsib }}sleeves card longevity).
 
 ## Color, design, and readability: do the dual colors help or hinder?
 
@@ -81,7 +81,7 @@ Readability is the name of the game when you’re racing to shout “UNO!” bef
 - Green foil on action cards (Skip, Reverse, Draw Two) can pop nicely in a dim room, but the mirror-like foil can create glare under direct light—great for dramatic moments, less ideal for sober, strategic counting.
 - Black-backed Wild cards keep their legibility and contrast, which is important for dicey late-game moments when your brain is yelling “play now, not later.”
 
-If you want to compare how different color schemes affect readability on modern card games, you can peek at our earlier notes on [Color Palettes in Card Interfaces]({% post_url 2023-01-10-color-palettes-card-interfaces %}).
+If you want to compare how different color schemes affect readability on modern card games, you can peek at our earlier notes on [Color Palettes in Card Interfaces]({{ site.constants.wsib }}color palettes card interfaces).
 
 ## Value, price, and where it sits in the market
 
@@ -89,7 +89,7 @@ Price-wise, the Elite CORE set sits at a premium tier relative to standard UNO. 
 
 Availability varies by region, but major retailers and Hasbro’s own store frequently stock limited runs of Elite CORE decks. If you’re the sort who plans a few months ahead, consider setting a reminder for restocks or bundles. For the curious shopper, the official UNO hub is a reliable starting point: [Hasbro UNO Store](https://www.hasbro.com/en-us/games/uno).
 
-For readers who like the idea of blending collector’s items with board game content, we’ve discussed collector decks and market dynamics in [Collectors and Card Market Ecosystems]({% post_url 2024-05-11-collectors-card-market-ecosystems %}).
+For readers who like the idea of blending collector’s items with board game content, we’ve discussed collector decks and market dynamics in [Collectors and Card Market Ecosystems]({{ site.constants.wsib }}collectors card market ecosystems).
 
 ## Pros and cons at a glance
 
@@ -102,7 +102,7 @@ For readers who like the idea of blending collector’s items with board game co
   - Premium price may be steep for casual players.
   - Some players may prefer a fully single-color finish for maximum readability in dim spaces.
 
-If you want a more exhaustive checklist for evaluating premium decks, see our guide: [Premium Decks: A Practical Evaluation]({% post_url 2022-09-09-premium-decks-evaluation %}).
+If you want a more exhaustive checklist for evaluating premium decks, see our guide: [Premium Decks: A Practical Evaluation]({{ site.constants.wsib }}premium decks evaluation).
 
 ## The verdict: who should consider this edition?
 
@@ -117,7 +117,7 @@ For the undecided, we recommend considering this edition as a gift for a friend 
 - Create a mini-showdown: assign a “color bartender” to announce colors with the energy of a sports host. The yellow-green foil will do a lot of the talking visually, so play into the moment.
 - Pair with a neon-lit game space: LED strips or a smart bulb setup can amplify the drama and reduce glare on the cards (to an extent).
 - Use a card saver or deck case: the dual-color foil invites a little extra pride; keep it pristine by giving the box and cards a ceremonial place between rounds.
-- Share your game nights: record quick clips showcasing dramatic plays; the foil will shine on camera and could boost your channel’s vibes. If you’re into this, see our tutorial on [Camera-Friendly Card Night Setups]({% post_url 2023-08-01-camera-friendly-card-night %}).
+- Share your game nights: record quick clips showcasing dramatic plays; the foil will shine on camera and could boost your channel’s vibes. If you’re into this, see our tutorial on [Camera-Friendly Card Night Setups]({{ site.constants.wsib }}camera friendly card night).
 
 ## Final thoughts and recommendations
 
@@ -125,7 +125,7 @@ The 2025 UNO Elite CORE Dual Color Yellow-Green Foil delivers a compelling blend
 
 Whether you’re a budding content creator, a weekend warrior at the table, or a collector who enjoys the occasional flashy accessory, the Elite CORE deck offers enough value to justify a purchase. It doesn’t rewrite UNO’s rules, but it does rewrite the vibe of your game night.
 
-If you want to see more of our content on premium card games and how visuals affect play, check out our report on [Aesthetics and Gameplay: Finding Balance]({% post_url 2021-03-20-aesthetics-gameplay-balance %}).
+If you want to see more of our content on premium card games and how visuals affect play, check out our report on [Aesthetics and Gameplay: Finding Balance]({{ site.constants.wsib }}aesthetics gameplay balance).
 
 **Final recommendation: If you want a stylish, durable, and conversation-starting UNO edition that still plays like UNO, go for it. If you’re budget-minded or glare-sensitive, maybe test first or share with a friend who appreciates the bling. Either way, you won’t be bored.**
 
@@ -133,10 +133,10 @@ If you want to see more of our content on premium card games and how visuals aff
 
 - Official UNO product page: [Hasbro UNO Store](https://www.hasbro.com/en-us/games/uno)
 - UNO on BoardGameGeek: [BGG UNO page](https://boardgamegeek.com/boardgame/24501/uno)
-- Our internal favorites: [Retro UNO Rotation]({% post_url 2022-12-15-retro-uno-rotation %})
-- Read more about card design choices: [Color Palettes in Card Interfaces]({% post_url 2023-01-15-color-palettes-card-interfaces %})
+- Our internal favorites: [Retro UNO Rotation]({{ site.constants.wsib }}retro uno rotation)
+- Read more about card design choices: [Color Palettes in Card Interfaces]({{ site.constants.wsib }}color palettes card interfaces)
 
-If you’re new here and love the Geeknite vibe, you might also enjoy our long-form guides on how premium card editions impact gameplay dynamics and why some decks just “feel” better on night one. We’ve got more where that came from in our archive under [our reviews hub]({% post_url 2023-05-02-reviews-hub %}).
+If you’re new here and love the Geeknite vibe, you might also enjoy our long-form guides on how premium card editions impact gameplay dynamics and why some decks just “feel” better on night one. We’ve got more where that came from in our archive under [our reviews hub]({{ site.constants.wsib }}reviews hub).
 
 ## Final call to action
 

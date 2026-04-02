@@ -1,4 +1,4 @@
----
+﻿---
 title: Cards Against Humanity - Die 10. Jubiläumsausgabe
 date: 2024-07-15
 tags:
@@ -90,8 +90,8 @@ Die Typografie bleibt übersichtlich, der Text ist gut lesbar, und die Box hat e
 
 ## Bonus-Inhalte und zusätzliche Ressourcen
 - Offizielle Produktseite: https://cardsagainsthumanity.com
-- Geeknite-Bezüge zu CAH: Für Fans empfehlen wir unsere älteren Posts, die grundlegende Strategien und typische Fehltritte in CAH beleuchten. Zum Beispiel: {% post_url 2023-11-01-geeknite-cah-quickstart %} – Ein kompakter Quickstart-Guide, der dir hilft, die ersten Partien zu überleben, ohne die Group-Chat-Lawine zu starten.
-- Weitere Post-Links: {% post_url 2022-12-10-party-spiel-vergleich %} und {% post_url 2023-08-20-geeknite-spiel-night-planung %} – Diese Posts bieten Kontext zu unserer generellen Haltung gegenüber Partyspielen und wie CAH sich in eine größere Spielabende-Szene einfügt.
+- Geeknite-Bezüge zu CAH: Für Fans empfehlen wir unsere älteren Posts, die grundlegende Strategien und typische Fehltritte in CAH beleuchten. Zum Beispiel: {{ site.constants.wsib }}geeknite cah quickstart – Ein kompakter Quickstart-Guide, der dir hilft, die ersten Partien zu überleben, ohne die Group-Chat-Lawine zu starten.
+- Weitere Post-Links: {{ site.constants.wsib }}party spiel vergleich und {{ site.constants.wsib }}geeknite spiel night planung – Diese Posts bieten Kontext zu unserer generellen Haltung gegenüber Partyspielen und wie CAH sich in eine größere Spielabende-Szene einfügt.
 - Externe Empfehlungen: Wenn du mehr über die kulturelle Einordnung von CAH erfahren willst, findest du in der literaturfesten Debatte rund um Satire und Humor interessante Perspektiven aus der zeitgenössischen Popkultur.
 
 ## Fazit und finale Empfehlung

@@ -26,7 +26,7 @@ The edge the game retains is tactile and visual. The cards are sturdy enough for
 
 ![Phase 10 twist cards](https://example.com/images/phase10-twist.jpg)
 
-> If you want to savor a concise, nerdy refresher, a quick read on Phase 10’s concept is available here: [Phase 10 on Wikipedia](https://en.wikipedia.org/wiki/Phase10). For a nostalgia hit, our own earlier throwback post is linked here: [Phase 9 nostalgia]({% post_url 2005-02-14-phase-9-review %}). It’s not the same night, but it slaps the same sense of “remember when” across your brain in a very satisfying way.
+> If you want to savor a concise, nerdy refresher, a quick read on Phase 10’s concept is available here: [Phase 10 on Wikipedia](https://en.wikipedia.org/wiki/Phase10). For a nostalgia hit, our own earlier throwback post is linked here: . It’s not the same night, but it slaps the same sense of “remember when” across your brain in a very satisfying way.
 
 ## How Phase 10 Works: The quick-and-curious guide (with a nerdy wink)
 

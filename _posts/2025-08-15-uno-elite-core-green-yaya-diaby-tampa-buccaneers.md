@@ -1,4 +1,4 @@
----
+﻿---
 title: "2025 Uno Elite Core Green: Yaya Diaby and the Tampa Bay Buccaneers"
 date: 2025-08-15
 tags: [collectibles, sports-cards, nfl, tampa-bay-buccaneers, uno-elite, green-core, review, geeknite]
@@ -96,8 +96,8 @@ If you read this far and you’re thinking about pulling the trigger, here are a
 - Pair this card with related content from the Geeknite ecosystem to build a narrative arc around Yaya Diaby and the Buccaneers, turning a single card into a story you can tell on repeat.
 
 ## Links and Further Reading
-- For a broader look at modern NFL collector cards, see our feature on contemporary card aesthetics and their role in fan culture: [Collector’s Lens: Modern NFL Memorabilia]({% post_url 2024-06-12-collector-diary %})
-- If you want to explore other gear with the same energy, our unboxing guide to 2024 and 2025 variants is a handy companion: [Gear Grind: Unbox the Variants]({% post_url 2023-03-04-gear-grind %})
+- For a broader look at modern NFL collector cards, see our feature on contemporary card aesthetics and their role in fan culture: [Collector’s Lens: Modern NFL Memorabilia]({{ site.constants.wsib }}collector diary)
+- If you want to explore other gear with the same energy, our unboxing guide to 2024 and 2025 variants is a handy companion: [Gear Grind: Unbox the Variants]({{ site.constants.wsib }}gear grind)
 - For Buccaneers history and context, check the team page and fan lore: [Tampa Bay Buccaneers Official](https://www.buccaneers.com) and [NFL Tampa Bay Page](https://www.nfl.com/teams/tampa-bay-buccaneers/)
 - External art and card finishes that parallel Uno Elite core concepts: Panini and similar card manufacturers’ product pages: https://www.paniniamerica.net/
 

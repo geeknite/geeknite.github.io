@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 Limited Edition Mattel UNO
 date: "2025-11-05"
 tags: [games, toys, UNO, Mattel, limited-edition]
@@ -120,8 +120,8 @@ No UNO experience is complete without a little tinkering. Here are some suggeste
 
 ## Related Posts and Community Conversations
 
-- For readers curious about the broader history of UNO in geek culture, see {% post_url 2024-11-retro-gaming-toys.md %}.
-- If you’re into the evolution of card games and what makes UNO endure, consider checking {% post_url 2023-09-uno-history.md %} for deeper context.
+- For readers curious about the broader history of UNO in geek culture, see {{ site.constants.wsib }}2024 11 retro gaming toys.
+- If you’re into the evolution of card games and what makes UNO endure, consider checking {{ site.constants.wsib }}2023 09 uno history for deeper context.
 
 ## Final Recommendation: Who Should Buy This Edition?
 

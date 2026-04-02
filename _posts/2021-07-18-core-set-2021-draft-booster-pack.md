@@ -1,5 +1,5 @@
----
-title: Core Set 2021 Draft Booster Pack: A Nerd's Guide to Drafting MTG
+﻿---
+title: "Core Set 2021 Draft Booster Pack: A Nerd's Guide to Drafting MTG"
 date: "2021-07-18"
 tags:
   - Magic
@@ -19,7 +19,7 @@ If you ever wondered what it feels like to root for your future self while openi
 
 For the completionists among you who like the numbers, a draft booster in Core Set 2021 typically contains 15 cards: one rare or mythic, three to four uncommons, ten commons, and one basic land. Yes, the sacred math of boosters remains a sacred mystery, but the general rule of thumb is that you will pull a bomb or two wrapped in a polite mortgage note of a common. The real challenge is not what you pull, but what you pull together once you pass the pack around and around like a magical slice of pizza that keeps getting sliced into thinner and thinner pieces. We’re here to help you resist the urge to draft a 12-card black-drain deck, even if your inner goblin is whispering sweet nothings about hand disruption.
 
-If you want more drafting texture from our archive, check out {% post_url 2020-11-04-magic-draft-primer %} and {% post_url 2021-03-12-archtypes-overview %} for some broader context on how to translate card picks into a plan. For now, though, we focus on the bootstrapped reality of Core Set 2021 draft packs—the kind of magic you can almost feel in your fingers as a neon sign that says, yes, you can do better than a pile of green creatures with two bombs and a side of questionable mana.
+If you want more drafting texture from our archive, check out {{ site.constants.wsib }}magic draft primer and {{ site.constants.wsib }}archtypes overview for some broader context on how to translate card picks into a plan. For now, though, we focus on the bootstrapped reality of Core Set 2021 draft packs—the kind of magic you can almost feel in your fingers as a neon sign that says, yes, you can do better than a pile of green creatures with two bombs and a side of questionable mana.
 
 ## Unpacking the Core Set 2021 Draft Booster Pack
 
@@ -137,10 +137,10 @@ Core Set 2021 shares DNA with its predecessors: a clear focus on approachable dr
 
 ## External resources
 
-- Official Wizards of the Coast overview and set galleries: https://magic.wizards.com/ 
-- Card insights and community draft tips (community-driven): https://www.mtgsalvation.com/ 
-- A deeper dive into draft archetypes and color pairings: {% post_url 2020-11-04-magic-draft-primer %}
-- A retrospective on drafting practices and table dynamics: {% post_url 2021-03-12-archtypes-overview %}
+- Official Wizards of the Coast overview and set galleries: https://magic.wizards.com/
+- Card insights and community draft tips (community-driven): https://www.mtgsalvation.com/
+- A deeper dive into draft archetypes and color pairings: {{ site.constants.wsib }}magic draft primer
+- A retrospective on drafting practices and table dynamics: {{ site.constants.wsib }}archtypes overview
 
 ## Conclusion and recommendations
 

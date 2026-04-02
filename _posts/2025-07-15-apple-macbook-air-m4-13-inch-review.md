@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 Apple MacBook Air M4 Review
 date: 2025-07-15
 tags:
@@ -18,8 +18,8 @@ Welcome, fellow digital archaeologists. You’ve unearthed a new relic from the 
 In the world of ultrabooks, the MacBook Air has historically been the “buttery-smooth, but can I game at 1080p?” protagonist. Apple’s 2025 refresh—triggered by the M4 chip—claims better performance-per-watt, improved thermal throttling, and enough battery life to survive a long-haul flight without turning your brain into a dried raisin. If you’re a productivity prodigy, a content creator, or someone who believes a single USB-C port is a lifestyle, read on. We’ll break down the experience from unboxing to long-term usage, peppered with jokes only a regex nerd would love. Yes, I’m that person. No, I won’t apologize.
 
 ### Related reads you might enjoy
-- See our deeper dive on how the M-series chips evolved: {% post_url 2024-11-21-geeknite-laptop-buyers-guide %}
-- A retrospective on MacBook Air models through the ages: {% post_url 2025-03-05-macbook-air-m2-retrospective %}
+- See our deeper dive on how the M-series chips evolved: {{ site.constants.wsib }}geeknite laptop buyers guide
+- A retrospective on MacBook Air models through the ages: {{ site.constants.wsib }}macbook air m2 retrospective
 
 ## Unboxing and First Impressions
 The box arrives with the same minimalist confidence we’ve come to expect from Apple: a slim rectangle, some Apple stickers, a charger cable, and a tiny sense of destiny. The Midnight finish is a deep blueish black that can capture the mood lighting in your room and pretend to be more dramatic than your current Wi-Fi signal. The weight? A feather that pretends to be a brick when you pick it up at the wrong angle. The 13-inch silhouette is the kind of device that makes you feel productive just by looking at it. It’s not a gaming laptop, it’s a badge of discipline: “I used to own a desk with three monitors, now I own a desk with one that’s better at pretending to be two.”
@@ -84,8 +84,8 @@ Subtle details matter: the keyboard lighting, the tactile feel of the keys, the 
 - Tech community hands-on impressions (unofficial, for additional color): https://www.example-tech-site.com/macbook-air-m4-hands-on
 
 ## Related Geeknite Posts (For the Curious Minds)
-- {% post_url 2024-11-21-geeknite-laptop-buyers-guide %}
-- {% post_url 2025-03-05-macbook-air-m2-retrospective %}
+- {{ site.constants.wsib }}geeknite laptop buyers guide
+- {{ site.constants.wsib }}macbook air m2 retrospective
 
 ## Pros and Cons at a Glance
 - Pros:
@@ -108,7 +108,7 @@ You can grab the 2025 MacBook Air M4 through Apple’s official storefront or ce
 
 - Official page: https://www.apple.com/macbook-air-m4
 - Community reviews and hands-on impressions: https://www.example-tech-site.com/macbook-air-m4-hands-on
-- Related Geeknite guides: {% post_url 2024-11-21-geeknite-laptop-buyers-guide %}, {% post_url 2025-03-05-macbook-air-m2-retrospective %}
+- Related Geeknite guides: {{ site.constants.wsib }}geeknite laptop buyers guide, {{ site.constants.wsib }}macbook air m2 retrospective
 
 **Bottom line: for light-to-moderate workloads, superb portability, and a refined, pleasant user experience, the 2025 MacBook Air M4 is a thoughtful upgrade that’s easy to live with. If your workflow fits the Air’s strengths, you’ll probably enjoy every minute with this device.**
 

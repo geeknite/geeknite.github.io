@@ -1,4 +1,4 @@
----
+﻿---
 title: "2025 UNO Elite Core Edition - Yellow Tyler Goodson Review"
 date: 2025-12-01
 tags:
@@ -108,9 +108,9 @@ If you’re the kind of gamer who breathes life into a product with fan theories
 
 
 ## Links to Other Geeknite Posts (For the Sake of Jedi-Soaked Continuity)
-- For a nostalgic look at UNO’s early days, see our classic review in {% post_url 2023-uno-classic-review %}.
-- If you’re curious about how modern variants impact traditional gameplay, this analysis might tickle your brain: {% post_url 2024-uno-elite-edition-review %}.
-- Want to compare with other sports-themed board games? Check our roundup in {% post_url 2022-sports-themed-board-games %}.
+- For a nostalgic look at UNO’s early days, see our classic review in {{ site.constants.wsib }}2023 uno classic review.
+- If you’re curious about how modern variants impact traditional gameplay, this analysis might tickle your brain: {{ site.constants.wsib }}2024 uno elite edition review.
+- Want to compare with other sports-themed board games? Check our roundup in {{ site.constants.wsib }}2022 sports themed board games.
 - External nerdy resources: official UNO page, a beloved BoardGameGeek thread, and a few fan wikis that love color-coded chaos: https://www.hasbro.com/uno, https://boardgamegeek.com/boardgame/1664/uno, and https://www.unofamily.org.
 
 

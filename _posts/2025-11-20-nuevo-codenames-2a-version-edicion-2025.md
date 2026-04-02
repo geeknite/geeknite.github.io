@@ -1,4 +1,4 @@
----
+﻿---
 title: "NUEVO Codenames 2ª Versión (Edición 2025) - Juego de Cartas Tablero"
 date: 2025-11-20 12:00:00 -0000
 tags: [juegos, reseñas, codenames, edicion-2025, cartas, tablero]
@@ -10,8 +10,8 @@ Bienvenidos a una reseña tan codificada como las claves que esconden las tarjet
 
 Para empezar, si quieres una referencia rápida de dónde estamos parados en la línea temporal de Codenames, tienes aquí dos enlaces útiles (sin spoilers):
 
-- Reseña previa de Codenames Original para comparar fluidos mentales y mecánicas básicas: [Reseña anterior: Codenames Original]({% post_url 2024-08-01-codenames-original %})
-- Guía rápida de estrategias para ediciones recientes de 2025 (con ejemplos prácticos): [Guía rápida de estrategias 2025]({% post_url 2025-04-10-codenames-strategy-guide %})
+- Reseña previa de Codenames Original para comparar fluidos mentales y mecánicas básicas: [Reseña anterior: Codenames Original]({{ site.constants.wsib }}codenames original)
+- Guía rápida de estrategias para ediciones recientes de 2025 (con ejemplos prácticos): [Guía rápida de estrategias 2025]({{ site.constants.wsib }}codenames strategy guide)
 
 Introducción emocional adoctrinada: si el espionaje fuera un deporte, Codenames sería el fútbol de neuronas. En la edición 2025, los creadores prometen más interacciones, más tensión entre el silencio de la sala y el rugido de la risa cuando alguien grita “caballo” esperando una clave que, por alguna magia del mazo, no llega. ¿Qué trae de nuevo la versión 2A? ¿Qué cambios valen la pena y qué apostaron por no tocarse? Vamos a descomponerlo sin spoilers invasivos y con admiración por la ciencia de las palabras.
 
@@ -129,7 +129,7 @@ En resumen, la Edición 2025 de Codenames no es una revolución, sino una evoluc
 
 - Sitio oficial de Czech Games Edition y Codenames: https://czechgames.com/en/games/codenames/
 - Página de BoardGameGeek (para reseñas, variantes y fotos de la comunidad): https://boardgamegeek.com/boardgame/458576/codenames-2 (versión de muestra para la Edición 2025, sujeto a disponibilidad)
-- Lecturas relacionadas en Geeknite: [Reseña anterior: Codenames Original]({% post_url 2024-08-01-codenames-original %}) y [Guía rápida de estrategias 2025]({% post_url 2025-04-10-codenames-strategy-guide %})
+- Lecturas relacionadas en Geeknite: [Reseña anterior: Codenames Original]({{ site.constants.wsib }}codenames original) y [Guía rápida de estrategias 2025]({{ site.constants.wsib }}codenames strategy guide)
 
 ## Notas finales de Geeknite
 

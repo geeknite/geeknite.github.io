@@ -97,8 +97,8 @@ In that sense, the edition behaves like a well-crafted appendix to Tolkien’s o
 
 ## Links to Other Geeknite Posts (For Our Fellow Series-Mnemonists)
 
-- See more in our ongoing Tolkien series here: [Related Geeknite post 1]({{ site.baseurl }}{{ post_url '2019-11-03-geek-guide-tolkien-101' }})
-- And a deeper dive into language in fantasy worlds: [Related Geeknite post 2]({{ site.baseurl }}{{ post_url '2020-01-20-decoding-tolkien-languages' }})
+- See more in our ongoing Tolkien series here: Related Geeknite post 1
+- And a deeper dive into language in fantasy worlds: Related Geeknite post 2
 
 If you’re curious about how this edition sits within our bigger conversation about myth, language, and culture, you can also peek at our broader pop-culture archive. It’s a good place to find other pieces that cross the line between scholarly rigor and nerdy joy.
 
@@ -119,8 +119,8 @@ The best experiences with such a piece come not at a single sitting but across m
 
 For those who want to wander deeper, we’ve listed a couple of internal posts that pair nicely with this edition. They’re not required reading, but if you’re chasing cross-links across our Tolkien corpus, they’re a good next step:
 
-- [More in our Tolkien education series]({{ site.baseurl }}{{ post_url '2018-04-02-tolkien-grammar-and-myth' }})
-- [A nerdy field guide to mythopoeia in modern fantasy]({{ site.baseurl }}{{ post_url '2019-12-11-mythopoeia-modern-fantasy' }})
+- More in our Tolkien education series
+- A nerdy field guide to mythopoeia in modern fantasy
 
 ## Conclusion: A Magazine that Knows Its Protagonist
 

@@ -1,5 +1,5 @@
 ﻿---
-ttitle: 15U Open Frame Server Rack: Free Standing or Wall Mounted – The Geeknite Review
+title: "15U Open Frame Server Rack: Free Standing or Wall Mounted – The Geeknite Review"
 date: 2026-03-15 10:00:00 -0000
 tags:
   - networking
@@ -110,7 +110,7 @@ Not all 15U racks are created equal. Here are the features that separate the goo
 - Fans and fans controllers: louder setups might need additional fans or smart speed controls to tune cooling to your actual load.
 - Power distribution: a few frames offer integrated PDU mounting or at least a space for a strip at the bottom for neat power management.
 
-If you want to explore how racks and 19-inch devices play nicely with modern home labs, here are a couple of posts you might enjoy: [Choosing the Right 19-Inch Rack]({% post_url 2025-11-20-choosing-the-right-19-inch-rack %}) and [First Look: Budget Networking Gear]({% post_url 2024-04-12-budget-networking-gear-review %}).
+If you want to explore how racks and 19-inch devices play nicely with modern home labs, here are a couple of posts you might enjoy: [Choosing the Right 19-Inch Rack]({{ site.constants.wsib }}choosing the right 19 inch rack) and [First Look: Budget Networking Gear]({{ site.constants.wsib }}budget networking gear review).
 
 ## Build Quality and Materials
 
@@ -192,8 +192,8 @@ Just remember a few caveats: plan the layout before you buy, ensure wall mountin
 
 ## Related Reading and Internal Links
 
-- Choosing the Right 19-Inch Rack: a guide to rails, depth, and compatibility for your future-proof setup. [Choosing the Right 19-Inch Rack]({% post_url 2025-11-20-choosing-the-right-19-inch-rack %})
-- First Look: Budget Networking Gear for the Home Lab: if you’re counting pennies while trying to do real work, this is your jam. [First Look: Budget Networking Gear]({% post_url 2024-04-12-budget-networking-gear-review %})
+- Choosing the Right 19-Inch Rack: a guide to rails, depth, and compatibility for your future-proof setup. [Choosing the Right 19-Inch Rack]({{ site.constants.wsib }}choosing the right 19 inch rack)
+- First Look: Budget Networking Gear for the Home Lab: if you’re counting pennies while trying to do real work, this is your jam. [First Look: Budget Networking Gear]({{ site.constants.wsib }}budget networking gear review)
 
 ## Final Thoughts
 

@@ -1,5 +1,5 @@
----
-title: UNO Wicked: Glinda vs Elphaba Limited Edition (2025) - A Geeknite Review
+﻿---
+title: "UNO Wicked: Glinda vs Elphaba Limited Edition (2025) - A Geeknite Review"
 date: 2025-04-15 12:00:00 -0000
 tags: [toys, games, Mattel, UNO, Wicked, Limited Edition, Board Games, Card Games]
 ---
@@ -11,7 +11,7 @@ Welcome to the latest installment of Geeknite sassy reviews, where we take pop c
 ### External context and a note on the Wicked vibes
 If you grew up humming the Wicked soundtrack while sorting your UNO colors, you are not alone. The Wicked edition leans into the rivalry angle with two forceful leads: Glinda the Good (in pinks that look suspiciously like bubblegum) and Elphaba the Wicked Witch (in hues that would make pumpkin envy blush). The product promises to deliver not just a set of cards, but a mini musical in cardboard form. We will test whether the theming enhances play, or if it is just a fancy cosmetic upgrade.
 
-[Official Mattel page](https://www.mattelgames.com/) provides product specs, but we are here to tell you if the cards dance on your table or just clunk on the floor like a misfired chorus line. For those who want to explore similar editions, check out {% post_url 2024-11-04-uno-edition-review %} or our long-form play session on other visual-heavy decks {% post_url 2023-07-19-graphic-uno-edition-explained %}.
+[Official Mattel page](https://www.mattelgames.com/) provides product specs, but we are here to tell you if the cards dance on your table or just clunk on the floor like a misfired chorus line. For those who want to explore similar editions, check out {{ site.constants.wsib }}uno edition review or our long-form play session on other visual-heavy decks {{ site.constants.wsib }}graphic uno edition explained.
 
 ## What's in the box
 Unboxing is a ceremony, and this one tries to be a Broadway intermission rather than a snack break. The box itself is a glossy duel-toned affair: one half dominated by Glinda’s blush pink aura and the other by Elphaba’s forest-green swagger. The card stock is slightly thicker than base UNO, with rounded corners that remind you this is a premium spin, not a pet rock from a craft fair. Inside you’ll find:
@@ -100,8 +100,8 @@ Bottom line: If you want a showpiece with actual gameplay that respects the sour
 
 ## Post updates and where to find more
 We will update this review with any new errata, expansion packs, or digital help sheets that Mattel might release in 2025. If you want to stay in the loop, add this to your feed and keep an eye on our weekly Geeknite updates. For other notes on card game editions and unboxings, check a few more posts:
-- See our UNO variety guide: {% post_url 2024-10-01-uno-variations-guide %}
-- For a deep dive into co-op and team play: {% post_url 2024-12-16-coop-card-games-review %}
+- See our UNO variety guide: {{ site.constants.wsib }}uno variations guide
+- For a deep dive into co-op and team play: {{ site.constants.wsib }}coop card games review
 
 ### Final recommendation
 If you are a Wicked fan or a collector who enjoys premium packaging and improved stock, this edition earns a strong buy verdict. It adds enough new twists to keep the game interesting for seasoned UNO veterans while remaining approachable for newcomers who are ready for a little dramatic flair. It is absolutely a centerpiece for game night conversations and a fun alternative to your standard UNO routine.

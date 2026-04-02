@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 Uno Elite Core — TWO Complete Decks — Regular Cards — No Athletes
 date: 2025-12-01
 tags:
@@ -73,7 +73,7 @@ External resources and links
 If you want to read more about official UNO rules, you can explore the Hasbro UNO page at https://www.hasbro.com/en-us/brands/uno. For a broader sense of how modern card games adapt to family nights, you can check some outside perspectives, such as reviews of classic editions and modern variants, but remember that this is Geeknite, and we’re here to have fun.
 
 Internal posts and further reading
-If you want to travel deeper into the Geeknite catalog and connect this review to other related pieces, check out {% post_url 2024-11-02-arcade-history %} and {% post_url 2025-01-10-top-10-family-games %}. These posts give a sense of how gaming experiences are built up from a handful of core ideas, and how we like to navigate the living world of tabletop entertainment.
+If you want to travel deeper into the Geeknite catalog and connect this review to other related pieces, check out {{ site.constants.wsib }}arcade history and {{ site.constants.wsib }}top 10 family games. These posts give a sense of how gaming experiences are built up from a handful of core ideas, and how we like to navigate the living world of tabletop entertainment.
 
 ## Design notes and manufacturing quality
 The Elite Core is a badge of function more than flash. The two decks are identical in design and card weight, with a slightly different back pattern to help you differentiate the two; this is a practical feature that will save you from losing entire rounds to accidental deck-swaps after a long night of gaming. The packaging is sturdy enough to survive transit from the store to your gaming table, and the internal inserts hold everything in place during a frantic draw pile shuffle. In short: the physical experience of the Elite Core is well-executed and durable, even if you are the type to fling a card across the table in a fit of borderline entrepreneurial bravado.

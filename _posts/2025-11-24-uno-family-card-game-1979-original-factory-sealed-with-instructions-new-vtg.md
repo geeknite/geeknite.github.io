@@ -1,4 +1,4 @@
----
+﻿---
 title: 'UNO Family Card Game (1979) — Original Factory Sealed with Instructions (NEW VTG)'
 date: 2025-11-24
 tags:
@@ -42,9 +42,9 @@ A practical guide for lovers of vintage
 - Preservation tips: If you own a sealed 1979 UNO, store it away from direct sunlight and humidity. While the sealed wrap can help preserve the box’s integrity, the environment that ages cardboard gracefully is not always friendly to adhesives. Consider storing the box upright, with humidity controlled, and if you can, in a temperature-stable environment. If the seal is compromised, do not despair—your deck can still be enjoyed, and the board-game museum can still admire it from a safe distance.
 - Display ideas: Create a small display on a shelf that triples as a conversation starter and a reminder of the people who played it before you—the siblings who argued over who would shuffle, the cousin who always claimed to have invented a new rule, the family that laughed until someone yelled “UNO!” in a way that felt like a small victory over the ordinary. The box art and the instruction sheet can be framed or displayed alongside the card deck for a compact, stylish homage to the era.
 - Display entries (internal links to your own posts)
-  - For readers who want to explore more about vintage card games, check out our broader guide: [Retro Card Games Roundup]({% post_url 2024-12-01-retro-card-games-roundup %}).
-  - If you’re into unboxing, you might enjoy our notes on [Unboxing Vintage Toys: The Starter Pack]({% post_url 2025-02-10-unboxing-vintage-toys-starter-pack %}).
-  - And for the steel-toed, no-nonsense approach to collecting, our [Collector's Guide to 70s and 80s Boxed Games]({% post_url 2023-07-04-collectors-guide-70s-80s-boxes %}) is a must-read.
+  - For readers who want to explore more about vintage card games, check out our broader guide: [Retro Card Games Roundup]({{ site.constants.wsib }}retro card games roundup).
+  - If you’re into unboxing, you might enjoy our notes on [Unboxing Vintage Toys: The Starter Pack]({{ site.constants.wsib }}unboxing vintage toys starter pack).
+  - And for the steel-toed, no-nonsense approach to collecting, our [Collector's Guide to 70s and 80s Boxed Games]({{ site.constants.wsib }}collectors guide 70s 80s boxes) is a must-read.
 
 The art of the 1979 instruction sheet
 The instruction sheet is as essential as the box in telling this deck’s story. It’s a compact, practical layout with a few charming quirks that tell you you’re in a pre-digital era: there’s a single page of text, a few diagrams, and a handful of examples showing how a few strategic moves can flip a game from “we’re all going to win” to “please don’t cheat, we’re watching you.” The sheet is surprisingly readable; the typography is legible, and the diagrams are simple enough that you can teach the rules to someone who has never played UNO—someone who thinks “draw two” means you’re requesting a new card for your grocery list. The quality of the sheet matches the rest of the packaging: legible print, crisp margins, and a layout that would work on a kitchen table without requiring a PhD in “how to read small print while the kids throw a spaghetti lunch across the room.”

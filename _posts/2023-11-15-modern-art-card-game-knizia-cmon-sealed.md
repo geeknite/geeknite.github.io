@@ -39,7 +39,7 @@ The bidding mechanism in Modern Art The Card Game is built to feel both familiar
 
 For those who like a nod to theory, the mechanic remains cleanly deterministic enough to allow for reasoned decision making. You can model expected values, consider risk thresholds, and still be surprised by a late round reveal that changes the entire scoring landscape. The balance between the known and the unknown is the engine that drives the drama and the humor around the table when someone reveals a crucial color lead too late for others to react effectively.
 
-If you want to dive into deeper background on auction design without leaving the table, we have touched on this in a prior piece about auction dynamics in our post about classic Knizia games {% post_url 2024-05-10-auction-games-101 %} and you can see how this card game stacks up against those ideas linked in our format here {% post_url 2023-11-02-knizia-design-principles %}.
+If you want to dive into deeper background on auction design without leaving the table, we have touched on this in a prior piece about auction dynamics in our post about classic Knizia games {{ site.constants.wsib }}auction games 101 and you can see how this card game stacks up against those ideas linked in our format here {{ site.constants.wsib }}knizia design principles.
 
 ## Setup and play flow
 The setup is quick, the play flow is brisk, and the decisions feel meaningful. Here is a typical game flow you can expect:
@@ -59,7 +59,7 @@ If you want to maximize your odds in sealed play, here are a few practical heuri
 - Don’t overvalue a single card for the sake of a color lead. The sealed deck makes the incremental gain worth less if you chase it at the expense of broader portfolio balance.
 - Be mindful of psychological pressure. The social element matters here; sometimes your best play is to appear to be doing one thing while quietly pursuing a complementary objective elsewhere.
 
-If you want more granular guidance, we have a primer post on sealed board games that covers general tactics and risk assessment {% post_url 2024-01-07-sealed-board-game-tips %}. It pairs nicely with the sealed variant we explore here.
+If you want more granular guidance, we have a primer post on sealed board games that covers general tactics and risk assessment {{ site.constants.wsib }}sealed board game tips. It pairs nicely with the sealed variant we explore here.
 
 ## Components and luck versus skill balance
 The sealed version leans a touch more on luck than a traditional modern art auction game because you simply do not know what cards you will see. That said, skilled players can still tilt the odds by reading patterns, managing social tension, and choosing exactly when to seize a given card. The luck element is a feature here, not a bug; it keeps the energy up and makes casual players feel included while still rewarding seasoned players who can extract value from suboptimal hands.
@@ -69,7 +69,7 @@ If you are someone who loathes pure luck games, you will still find the decision
 ## Thematic stance and table talk
 Reiner Knizia has a knack for squeezing strategy into tight mechanical shells. Modern Art The Card Game continues that tradition by letting you act as a dealer of taste and trend. The sealed deck variant adds a touch of theater: you get to riff with your tablemates about what your portfolio says about your persona as a dealer, collector, or casino theorist. It invites playful table talk and friendly banter, which in our experience is the lifeblood of any art auction table, be it real or metaphorical.
 
-If you want to explore how theme and mechanics align in Knizia style, take a look at our prior write up on Reiner Knizia design philosophy and his signature auction pacing {% post_url 2022-10-09-knizia-signature-mechanics %}. You still get the feel of a high stakes gallery while staying firmly in the realm of family friendly competition.
+If you want to explore how theme and mechanics align in Knizia style, take a look at our prior write up on Reiner Knizia design philosophy and his signature auction pacing {{ site.constants.wsib }}knizia signature mechanics. You still get the feel of a high stakes gallery while staying firmly in the realm of family friendly competition.
 
 ## Comparisons with the classic art auction vibe
 The original Modern Art board game is a classic for a reason: it blends bidding, bluffing, and color blocks into a neat, replayable package. The Card Game skims down the surface but preserves the core allure: bidding matters, your end scoring depends on the composition of your set, and you have to adapt to the evolving board state. The sealed variant amplifies the unpredictability of card value, which adds a fresh angle for veterans who already know the original by heart and for newcomers who want a lighter, faster path into the same vibe.
@@ -94,7 +94,7 @@ This is primarily a multiplayer experience. The sealed aspect scales well from 2
   - Some players may prefer deeper euro style planning
   - Not ideal for two players if you want maximum strategic depth
 
-If you want to see what others thought about the game at release, we recommend checking out community discussions on major board game sites and comparing notes with our previous coverage of modern art style games in other posts {% post_url 2023-07-24-modern-art-flavor-roundup %}.
+If you want to see what others thought about the game at release, we recommend checking out community discussions on major board game sites and comparing notes with our previous coverage of modern art style games in other posts {{ site.constants.wsib }}modern art flavor roundup.
 
 ## Final verdict and who should pick this up
 Modern Art The Card Game in its 2023 sealed edition is a strong entry in the modern art auction subgenre. It preserves the core thrill of bidding while injecting new life through the sealed deck, which makes each session feel distinct. It is approachable enough for casual players yet provides enough strategic nuance for veterans who relish reading the room and micromanaging their color blocks. If you enjoy Reiner Knizia games, you will feel a certain kinship with the bidding rhythm and the elegant constraints that the game imposes. If you are a CMON collector or a fan of compact, thematic abstractions, this edition is a keeper on your shelf.
@@ -107,8 +107,8 @@ Value wise, the 2023 sealed edition sits in a comfortable range for modern card 
 ## Where to play and more reads
 - Official CMON product page for the 2023 edition: https://www.cmon.com
 - Board game geek discussions and community feedback: https://boardgamegeek.com
-- Our primer on sealed games: {% post_url 2024-01-07-sealed-board-game-tips %}
-- A deeper look at Knizia design: {% post_url 2022-10-09-knizia-signature-mechanics %}
+- Our primer on sealed games: {{ site.constants.wsib }}sealed board game tips
+- A deeper look at Knizia design: {{ site.constants.wsib }}knizia signature mechanics
 
 If you want more content in this vein, you can browse our index of modern art themed games and auction based titles in our related posts page, or jump straight to the sealed play primer we referenced above. We always love hearing what you think, so share your most memorable sealed session in the comments and tell us which color block won your heart this week.
 

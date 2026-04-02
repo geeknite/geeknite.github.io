@@ -1,4 +1,4 @@
----
+﻿---
 title: Carte da Gioco Bicycle Anni 80 Bianche Sigillate nel 2021
 date: 2021-07-23 12:00:00 -0000
 tags:
@@ -8,7 +8,6 @@ tags:
   - Bicycle
   - giochi
   - humor
-layout: post
 ---
 
 ## Introduzione
@@ -38,7 +37,7 @@ Qui arriva la parte realistica della faccenda: la spedizione internazionale e le
 - Considera eventuali dazi doganali se la merce supera una certa soglia. Per le carte da gioco, spesso non sono tassate in modo pesante, ma non è una regola universale.
 - Controlla la protezione assicurativa: una polizza minima è utile se la scatola è fragile o se hai paura di danni durante il trasporto. 
 
-Nella mia esperienza di acquisti vintage, ho trovato che la chiave è essere realistici: l’oggetto è affascinante, ma spesso non è una “scatola magica” che raddoppia di valore ogni anno. È pur sempre una reliquia, e come tale va amata, non solo valutata. Se vuoi leggere qualche consiglio utile su come impostare la tua politica di spesa, dai un’occhiata a {% post_url 2022-11-15-come-acquistare-carte-vintage %}. 
+Nella mia esperienza di acquisti vintage, ho trovato che la chiave è essere realistici: l’oggetto è affascinante, ma spesso non è una “scatola magica” che raddoppia di valore ogni anno. È pur sempre una reliquia, e come tale va amata, non solo valutata. Se vuoi leggere qualche consiglio utile su come impostare la tua politica di spesa, dai un’occhiata a {{ site.constants.wsib }}come acquistare carte vintage. 
 
 ## Condizioni, autenticità e valore di mercato
 Parlare di autenticità senza cadere nella trappola dei falsari è sempre complicato. In particolare con oggetti vintage come le Bicycle anni 80, la firma della casa produttrice, la grafica, la qualità della carta e la chiusura della scatola hanno una valenza. Ecco alcuni principi guida che possono aiutare:
@@ -58,7 +57,7 @@ Ok, ora veniamo al dunque: come si comportano queste carte una volta aperte? Dat
 Questa sezione non è una guida di magia, ma una riflessione su come l’oggetto si integra nel contesto attuale: non tutti cercano un mazzo per giocare seriamente; molti lo cercano come pezzo da collezione, da guardare, da ammirare, o da inserire in una vetrina del proprio angolo geek. Se ti serve una idea su come presentarlo in una rassegna o in un video review, ecco una traccia che puoi utilizzare: mostra la scatola, apri lentamente, commenta la grafica, prova una mano di poker, ricordando al pubblico che si tratta di una reliquia degli anni Ottanta.
 
 ## Collegamenti e riferimenti interni
-Se vuoi esplorare contenuti simili nel Geeknite Style, dai un’occhiata a post correlati che trattano di retro gaming e collezionismo di carte: {% post_url 2023-01-20-retro-carte-e-geek-nation %} oppure {% post_url 2022-08-11-le-guide-del-collezionista-carte %}. Puoi anche dare un’occhiata a una guida generale sulla phylogeny delle carte da gioco in stile vintage in una pubblicazione esterna: [Bicycle Playing Cards su Wikipedia](https://en.wikipedia.org/wiki/Bicycle_Playing_Cards).
+Se vuoi esplorare contenuti simili nel Geeknite Style, dai un’occhiata a post correlati che trattano di retro gaming e collezionismo di carte: {{ site.constants.wsib }}retro carte e geek nation oppure {{ site.constants.wsib }}le guide del collezionista carte. Puoi anche dare un’occhiata a una guida generale sulla phylogeny delle carte da gioco in stile vintage in una pubblicazione esterna: [Bicycle Playing Cards su Wikipedia](https://en.wikipedia.org/wiki/Bicycle_Playing_Cards).
 
 ## Spedizione, tasse e ordine logico dell’acquisto
 Se stai pensando di acquistarle, la parte meno romantica ma più concreta riguarda la spesa. Non c’è niente di male a voler pagare una cifra onesta per una reliquia; c’è però da valutare i costi aggiuntivi legati alla spedizione. Se la confezione arriva dall’oltreoceano, la tua bolletta potrebbe includere clausole che non avevi considerato. Ecco una checklist rapida per gestire al meglio l’operazione:
@@ -68,12 +67,12 @@ Se stai pensando di acquistarle, la parte meno romantica ma più concreta riguar
 - Valuta i tempi di consegna. Le sigillature storiche possono richiedere una gestione particolare in magazzino; non sempre le tempistiche coincidono con la normalità odierna.
 - Pensa al valore: se il pacco è in ottime condizioni, si può rivelare un investimento di valore per i collezionisti. Ma non farti ingannare dal fascino: la valutazione richiede pazienza e conoscenza del mercato.
 
-Per una lettura rilassante di marketing e logistica, potresti esplorare altri contenuti del blog che trattano di come acquistare oggetti vintage con intelligenza, ma senza lasciarsi ingannare dalle promesse miracolose. In particolare, dai un’occhiata a {% post_url 2021-03-12-come-e-costruire-una-biblioteca-di-carte-vintage %} per una panoramica su come organizzare una collezione in modo efficiente.
+Per una lettura rilassante di marketing e logistica, potresti esplorare altri contenuti del blog che trattano di come acquistare oggetti vintage con intelligenza, ma senza lasciarsi ingannare dalle promesse miracolose. In particolare, dai un’occhiata a {{ site.constants.wsib }}come e costruire una biblioteca di carte vintage per una panoramica su come organizzare una collezione in modo efficiente.
 
 ## Recensione finale e valutazione personale
 Alla fine, questa Bicycle bianca sigillata nel 2021 è una piccola finestra sul passato che non vuole sostituire l’esperienza di gioco, ma arricchirla con il gusto della storia. Per chi è curioso di toccare con mano l’evoluzione dei mazzi da gioco, per chi cerca una decorazione per lo spazio geek o per chi vuole comprendere come cambiano i codici del collezionismo nel tempo, è una scelta che merita di essere considerata. Non è un mazzo per chi vuole vincere tornei o per chi desidera una performance da professionista: è un pezzo da esposizione, una conversazione da aggiungere a una serata tra amici, una curiosità che racconta come un prodotto di massa possa diventare un oggetto di fascino e di memoria.
 
-Se desideri un confronto tra diverse versioni di Bicycle, trovi interessante dare un’occhiata a una piccola guida di confronto tra i mazzi classici e quelle variant, tramite un altro contenuto del blog: [Guida al confronto tra mazzi Bicycle classici e moderni]({% post_url 2022-04-01-confronto-mazzi-bicycle-classici-modern %}).
+Se desideri un confronto tra diverse versioni di Bicycle, trovi interessante dare un’occhiata a una piccola guida di confronto tra i mazzi classici e quelle variant, tramite un altro contenuto del blog: [Guida al confronto tra mazzi Bicycle classici e moderni]({{ site.constants.wsib }}confronto mazzi bicycle classici modern).
 
 ## Conclusione: la mia raccomandazione finale
 La mia raccomandazione su queste carte da gioco Bicycle anni Ottanta in versione bianca sigillate nel 2021 è chiara: se sei un collezionista appassionato di retro, se cerchi un pezzo che racconti una storia di design, di produzione e di viaggio, questa è una scatola che va in una teca. Se invece vuoi una carta per giocare ogni sera, potresti trovare una soluzione più pratica e meno costosa. In entrambi i casi, l’oggetto è affascinante, la storia è interessante, e l’emozione di toccare una reliquia di un’epoca in cui le arti grafiche avevano una propria personalità resta impagabile.

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Shadow of the Tomb Raider: Definitive Edition PS4 Brand New Game [2020 Action]' 
 date: 2020-11-15
 tags:
@@ -50,8 +50,8 @@ If you are chasing value, the Definitive Edition is a compelling package. You ge
 
 ### Links to other posts
 If you liked this and want more, check out our earlier Tomb Raider analysis and the PS4 Pro feature we published earlier:
-- Previous Tomb Raider review: [Shadow of the Tomb Raider — A retrospective]( {% post_url 2020-04-01-shadow-of-the-tomb-raider-review %} )
-- PS4 Pro experience: [PS4 Pro for adventure games]( {% post_url 2020-12-15-ps4-pro-review %} )
+- Previous Tomb Raider review: [Shadow of the Tomb Raider — A retrospective]( {{ site.constants.wsib }}shadow of the tomb raider review )
+- PS4 Pro experience: [PS4 Pro for adventure games]( {{ site.constants.wsib }}ps4 pro review )
 
 ### External resources
 - Official Shadow of the Tomb Raider page: https://www.square-enix-games.com/games/shadow-of-tomb-raider

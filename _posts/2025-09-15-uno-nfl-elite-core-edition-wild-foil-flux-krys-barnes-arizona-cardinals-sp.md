@@ -1,5 +1,5 @@
 ---
-title: UNO NFL Elite Core Edition: Wild Foil Flux Krys Barnes SP – A Geeknite Review
+title: "UNO NFL Elite Core Edition: Wild Foil Flux Krys Barnes SP – A Geeknite Review"
 date: 2025-09-15
 tags:
   - cards
@@ -102,8 +102,8 @@ When evaluating a card from a photo, look for print lines, edge wear, centering,
 The card collecting community thrives on sharing photographs, trade receipts, and speculative market chatter. Expect hot takes, mock arguments about whether 1.5mm centering offsets ruin a card’s value, and enthusiastic posts showing off the card under various lighting setups. A card like this is a social catalyst: it invites comparisons, discussions about print runs, and the occasional meme about a football player who appears in more photo shoots than you’ve had hot meals this week.
 
 ### Related posts you might enjoy
-- A deeper dive into collecting tips and trades: [Related post 1]({{ post_url '2024-11-15-geeknite-card-collecting-101' }})
-- An overview of foil finishes and how they affect display: [Related post 2]({{ post_url '2023-08-21-foil-finish-guide' }})
+- A deeper dive into collecting tips and trades: Related post 1
+- An overview of foil finishes and how they affect display: Related post 2
 
 ### Links to broader conversations
 For readers who enjoy the broader hobby ecosystem, consider checking out the following resource hubs and community forums:

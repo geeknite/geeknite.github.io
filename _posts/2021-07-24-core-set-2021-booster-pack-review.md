@@ -63,7 +63,7 @@ For the official information, check Wizards of the Coast: https://magic.wizards.
 
 Cross-posting and cross-reading.
 
-If you’re curious how Core Set 2021 compares to prior sets, check out this older post for the 2020 core set: {{ post_url '2020-07-01-core-set-2020-review' }}. Or if you want to see how this set stacks up against a more modern structure, you can read about how core sets fit into the broader Limited format: {{ post_url '2018-05-12-limited-labs-core-set-2018' }}. It’s all in the same family, and that’s the point: we’re building a consistent, approachable MTG experience.
+If you’re curious how Core Set 2021 compares to prior sets, check out this older post for the 2020 core set: . Or if you want to see how this set stacks up against a more modern structure, you can read about how core sets fit into the broader Limited format: . It’s all in the same family, and that’s the point: we’re building a consistent, approachable MTG experience.
 
 A nerdy love letter to the core set.
 

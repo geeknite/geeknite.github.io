@@ -1,5 +1,5 @@
----
-title: 2025 Mattel UNO GOLD Edition Card Game Review: Premium Gold Foil Cards and a Sparkly Future
+﻿---
+title: "2025 Mattel UNO GOLD Edition Card Game Review: Premium Gold Foil Cards and a Sparkly Future"
 date: 2025-11-15
 tags:
   - board games
@@ -81,9 +81,9 @@ Where to Buy and External Links
 - Board game retailers often stock the edition during holiday seasons; check local listings for availability.
 
 Internal references for further reading:
-- History of UNO: {% post_url 2023-08-22-uno-history %}
-- Game night setup tips: {% post_url 2024-12-01-game-night-setup %}
-- Collectible board games in the wild: {% post_url 2022-10-10-collectible-gaming %}
+- History of UNO: {{ site.constants.wsib }}uno history
+- Game night setup tips: {{ site.constants.wsib }}game night setup
+- Collectible board games in the wild: {{ site.constants.wsib }}collectible gaming
 
 Unboxing Gallery
 -----------

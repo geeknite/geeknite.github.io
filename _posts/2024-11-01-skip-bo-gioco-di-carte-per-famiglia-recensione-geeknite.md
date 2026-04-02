@@ -1,4 +1,4 @@
----
+﻿---
 title: "Skip-Bo: Gioco di Carte per Famiglia - Recensione Geeknite"
 date: 2024-11-01
 tags:
@@ -72,7 +72,7 @@ Se siete appassionati di cultura nerd o semplicemente amanti delle citazioni vis
 
 ## Confronto con altri giochi simili
 
-Paragonare Skip-Bo a giochi come Uno o Koi-Koi è inevitabile. Rispetto a Uno, Skip-Bo aggiunge una dimensione di planificazione che non è sempre presente in Uno, grazie alle sue pile di costruzione e all’uso strategico delle carte jolly. Rispetto a giochi di carte più complessi come il Tarocchi o il burro di caccia medievale, Skip-Bo resta estremamente accessibile, offrendo una curva di apprendimento molto dolce. È lo zaino leggero che puoi infilare in valigia senza finire per trattarlo come una reliquia rara: basta una tavola, una pila di carte e la voglia di ridere insieme. Se ti serve un’alternativa simile ma più veloce o un po’ più strategica, puoi dare un’occhiata ad altre recensioni sul blog e confrontare i vari regolamenti di famiglia. Per un confronto diretto, leggi anche il nostro post sulle differenze tra i giochi di carte per famiglie: {% post_url 2024-09-01-skip-bo-vs-uno-tabletop %} e la guida pratica ai giochi di carte per famiglie: {% post_url 2024-03-15-guide-family-card-games %}.
+Paragonare Skip-Bo a giochi come Uno o Koi-Koi è inevitabile. Rispetto a Uno, Skip-Bo aggiunge una dimensione di planificazione che non è sempre presente in Uno, grazie alle sue pile di costruzione e all’uso strategico delle carte jolly. Rispetto a giochi di carte più complessi come il Tarocchi o il burro di caccia medievale, Skip-Bo resta estremamente accessibile, offrendo una curva di apprendimento molto dolce. È lo zaino leggero che puoi infilare in valigia senza finire per trattarlo come una reliquia rara: basta una tavola, una pila di carte e la voglia di ridere insieme. Se ti serve un’alternativa simile ma più veloce o un po’ più strategica, puoi dare un’occhiata ad altre recensioni sul blog e confrontare i vari regolamenti di famiglia. Per un confronto diretto, leggi anche il nostro post sulle differenze tra i giochi di carte per famiglie: {{ site.constants.wsib }}skip bo vs uno tabletop e la guida pratica ai giochi di carte per famiglie: {{ site.constants.wsib }}guide family card games.
 
 ## Pro e contro
 
@@ -96,8 +96,8 @@ Skip-Bo è disponibile in molte catene di giocattoli e online. Puoi trovarlo sul
 
 ## Collegamenti utili a post correlati
 
-- Per un confronto rapido con giochi simili, dai un’occhiata al nostro post su Uno e Skip-Bo: [Confronto Uno e Skip-Bo]({% post_url 2024-09-01-skip-bo-vs-uno-tabletop %})
-- Se ti va di scoprire altre guide pratiche sui giochi di carte per famiglie, leggi: [Guida pratica ai giochi di carte per famiglie]({% post_url 2024-03-15-guide-family-card-games %})
+- Per un confronto rapido con giochi simili, dai un’occhiata al nostro post su Uno e Skip-Bo: [Confronto Uno e Skip-Bo]({{ site.constants.wsib }}skip bo vs uno tabletop)
+- Se ti va di scoprire altre guide pratiche sui giochi di carte per famiglie, leggi: [Guida pratica ai giochi di carte per famiglie]({{ site.constants.wsib }}guide family card games)
 
 ## Conclusione e raccomandazione
 

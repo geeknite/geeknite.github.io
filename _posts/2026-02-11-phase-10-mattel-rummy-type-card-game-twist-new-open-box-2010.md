@@ -79,7 +79,7 @@ One notable moment: a player choked on a discard that seemed innocuous at first,
 
 Phase 10 is a classic in the card-game pantheon, often grouped with games like UNO and Rummikub for household familiarity rather than serious theory. Its enduring popularity belongs to the combination of simple rules, quick rounds, and the thrill of new phases that push players to adapt. If you’re curious about how it fits into modern game-night leadership, check the Mattel official page for Phase 10 and the broader line of Phase family games: https://www.mattelgames.com/en-us/products/phase-10. For nerd-level detail about variants and player experiences, the BGG pages offer a wide net of opinions at https://boardgamegeek.com/boardgame/131493/phase-10.
 
-If you’d like to explore more of Geeknite’s coverage on twisty card games, see {% post_url 2025-04-12-geeknite-card-twists.md %} and {% post_url 2026-01-15-phase-10-quick-picks.md %} for related reads. These posts expand on how simple mechanics can deliver surprising depth in a party-friendly package.
+If you’d like to explore more of Geeknite’s coverage on twisty card games, see {{ site.constants.wsib }}geeknite card twists and {{ site.constants.wsib }}phase 10 quick picks for related reads. These posts expand on how simple mechanics can deliver surprising depth in a party-friendly package.
 
 ### Quick Tips and Tricks for Quick Results
 
@@ -118,6 +118,6 @@ If you want a friendly, chaotic, and surprisingly strategic party card game that
 
 [Phase 10 on Mattel](https://www.mattelgames.com/en-us/products/phase-10) | [BoardGameGeek Phase 10 page](https://boardgamegeek.com/boardgame/131493/phase-10)
 
-For more on similar twists in card-based game design, see {% post_url 2025-04-12-geeknite-card-twists.md %} and {% post_url 2026-01-15-phase-10-quick-picks.md %}.
+For more on similar twists in card-based game design, see {{ site.constants.wsib }}geeknite card twists and {{ site.constants.wsib }}phase 10 quick picks.
 
 **Buy Phase 10 now via our affiliate link: https://affiliate.example.com/phase10?ref=geeknite**

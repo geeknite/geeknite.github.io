@@ -1,4 +1,4 @@
----
+﻿---
 title: Cards Against Humanity – Die Weihnachtsedition
 date: "2025-12-24"
 tags:
@@ -59,7 +59,7 @@ Ein wichtiger Hinweis: In CAH-Städten – äh, Gruppen – kann der Humor schne
 - Runde 2: Eine Kartenkombination führt zu einer gemeinsamen Momentaufnahme der Familie – Lachen garantiert, Spannung optional. Hier ist Timing alles.
 - Runde 3: Eine Kartenkombi, die sich auf Popkultur bezieht, sorgt oft für den größten Lacher, besonders wenn die Gruppe Know-how zu einer bestimmten Serie oder Franchise hat.
 
-Wenn du willst, dass wir dir eine Beispielrunde direkt zusammenstellen, schau dir an, wie andere Beiträge in unserem Archiv aufgebaut sind, z. B. der Post zur winterlichen Kartentruppe [Lesetipp: Die ultimative Liste der Weihnachtskarten-Spiele]({% post_url 2024-12-22-weihnachts-karten-spiele-rundown %}) oder der frühere CAH-Review [Cards Against Humanity – Die Originaledition]({% post_url 2023-11-15-cards-against-humanity-review %}). Diese Posts geben dir eine Vorstellung davon, wie eine Rundenführung, Moderation und Reaktionslogik in ähnlichen Formaten funktionieren.
+Wenn du willst, dass wir dir eine Beispielrunde direkt zusammenstellen, schau dir an, wie andere Beiträge in unserem Archiv aufgebaut sind, z. B. der Post zur winterlichen Kartentruppe [Lesetipp: Die ultimative Liste der Weihnachtskarten-Spiele]({{ site.constants.wsib }}weihnachts karten spiele rundown) oder der frühere CAH-Review [Cards Against Humanity – Die Originaledition]({{ site.constants.wsib }}cards against humanity review). Diese Posts geben dir eine Vorstellung davon, wie eine Rundenführung, Moderation und Reaktionslogik in ähnlichen Formaten funktionieren.
 
 ### Kartenmaterial, Optik und Spielmaterial
 
@@ -69,8 +69,8 @@ Die Karten fühlen sich gut an, die Schrift ist gut lesbar, und der Kontrast zwi
 
 - Offizielle Website: [cardsagainsthumanity.com](https://cardsagainsthumanity.com)
 - Unsere Vorgänger-Reviews und ähnliche Beiträge:
-  - [Mehr zu Weihnachts- oder Winter-Themenkartenspielen]({% post_url 2024-12-22-weihnachts-karten-spiele-rundown %})
-  - [Cards Against Humanity – Die Originaledition]({% post_url 2023-11-15-cards-against-humanity-review %})
+  - [Mehr zu Weihnachts- oder Winter-Themenkartenspielen]({{ site.constants.wsib }}weihnachts karten spiele rundown)
+  - [Cards Against Humanity – Die Originaledition]({{ site.constants.wsib }}cards against humanity review)
 - Externe Referenzen für Spielmechaniken: [BoardGameGeek](https://boardgamegeek.com/boardgame/1299/cards-against-humanity)
 
 ### Regeln, Regeln, Regeln – aber einfach gehalten
@@ -100,8 +100,8 @@ Wenn du CAH bereits in verschiedenen Editionen kennst, lohnt sich der Blick auf 
 Wenn du auf der Suche nach einem humorvollen, weihnachtlichen Gesellschaftsspiel bist, das zu deiner Geeknite-Szene passt, ist die Weihnachtsedition definitiv eine Überlegung wert. Sie bietet genug Abwechslung, um öfteren Abend mit neuen Lachen zu füttern, ohne dass du in dieselben alten Witze abrutscht. Und falls du dich entschieden hast, das Spiel zu kaufen, prüfe die aktuellen Angebote der offiziellen Website oder vertrauenswürdiger Händler – denn Sonderangebote zur Weihnachtszeit sind kaum zu übersehen.
 
 - Externer Link zum offiziellen Produkt: [cardsagainsthumanity.com](https://cardsagainsthumanity.com)
-- Interner Verweis auf verwandte Beiträge: [Lesetipp: Die ultimative Liste der Weihnachtskarten-Spiele]({% post_url 2024-12-22-weihnachts-karten-spiele-rundown %})
-- Interner Verweis auf klassische CAH: [Cards Against Humanity – Die Originaledition]({% post_url 2023-11-15-cards-against-humanity-review %})
+- Interner Verweis auf verwandte Beiträge: [Lesetipp: Die ultimative Liste der Weihnachtskarten-Spiele]({{ site.constants.wsib }}weihnachts karten spiele rundown)
+- Interner Verweis auf klassische CAH: [Cards Against Humanity – Die Originaledition]({{ site.constants.wsib }}cards against humanity review)
 
 ### Abschlussfazit
 

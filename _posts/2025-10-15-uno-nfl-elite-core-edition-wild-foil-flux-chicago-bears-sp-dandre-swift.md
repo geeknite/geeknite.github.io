@@ -1,4 +1,4 @@
----
+﻿---
 title: "2025 UNO NFL Elite Core Edition: Wild Foil Flux Chicago Bears SP featuring D’Andre Swift"
 date: "2025-10-15"
 tags:
@@ -8,7 +8,6 @@ tags:
   - uno
   - "Chicago Bears"
   - "d'andre swift"
-layout: post
 image: /assets/images/uno-nfl-elite-core-edition-wild-foil-flux.jpg
 last_modified_at: "2026-04-01"
 redirect_from:
@@ -117,8 +116,8 @@ Prices vary by region and seller. If you want a ballpark figure, expect higher p
 ## A quick cross-reference: related posts you might enjoy
 If you’re a Geeknite reader, you probably like cross-pollination between posts that explore nerdy collectibles and football fandom. Check out these related discussions to deepen your understanding of how these worlds collide:
 
-- {% post_url 2024-05-12-uno-nfl-elite-review %} A retrospective look at earlier UNO+NFL crossover releases and what changed under the hood.
-- {% post_url 2023-08-29-collecting-nfl-cards-101 %} A primer on starting a football-card collection, from box-busting to binder organization.
+- {{ site.constants.wsib }}uno nfl elite review A retrospective look at earlier UNO+NFL crossover releases and what changed under the hood.
+- {{ site.constants.wsib }}collecting nfl cards 101 A primer on starting a football-card collection, from box-busting to binder organization.
 
 ## Final verdict: should you buy the 2025 UNO NFL Elite Core Edition Wild Foil Flux Bears SP?
 If your collection leans toward bold visuals, pop-culture crossover art, and the thrill of a collectible with a formal nod to a beloved card game, this edition hits a sweet spot. The Flux variants offer visual drama that can become a talking point at meetups or family game nights, while the D’Andre Swift Bears SP provides a narrative anchor for fans following Swift’s performance and Bears’ offensive identity. It’s not a groundbreaking gameplay product; it’s a celebration item that lives in the limelight of display cases, social feeds, and the occasional speculative discussion about future rookies and star players. If you adore shiny images that evoke a memory of a game-watching Sunday, you’ll likely smile every time you catch this set in your binder.

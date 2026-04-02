@@ -1,4 +1,4 @@
----
+﻿---
 title: 24-Port PoE Switch with 2 Gigabit Uplinks, Quiet Fanless 300W, Rack Mount
 date: 2026-03-18
 tags: [Networking, PoE, Rackmount, Switch, Fanless]
@@ -11,7 +11,7 @@ If you run a small business, a home lab, or a sanctuary for aging network equipm
 
 In this review, we’ll go deep into the guts, the glow, and the gigabits per second of this whisker-quiet hero. We’ll talk about the PoE budget, uplink capabilities, management features, thermals, and the kind of decision inertia that makes you reconsider your life choices at 3 a.m. while you’re tracing a cable to a port that’s somehow both busy and bored. If you’re here for the verdict first, skip to Final Verdict. If you’re here for the drama, well, strap in.
 
-For advanced lab denizens, note that you can also poke around related ruminations in posts like [Building a Home Lab Network]({% post_url 2025-11-02-home-lab-network %}) and [Quiet Server Hardware Roundup]({% post_url 2025-04-12-quiet-server-hardware %}).
+For advanced lab denizens, note that you can also poke around related ruminations in posts like [Building a Home Lab Network]({{ site.constants.wsib }}home lab network) and [Quiet Server Hardware Roundup]({{ site.constants.wsib }}quiet server hardware).
 
 ![24-Port PoE Switch on Rack](assets/images/24-port-poe-switch-rack.jpg)
 
@@ -62,7 +62,7 @@ A blessing of this class of switch is the balance between light management featu
 - Port-based access control, traffic statistics, and simple SNMP for monitoring health and uptime.
 - Link aggregation options for the uplinks if your model and firmware support it. This isn’t a switch you’d push into a full-blown enterprise fabric, but for a small office or lab, it’s a solid feature set that makes life easier.
 
-For more on lab network design, check out [Network Topology for Home Labs]({% post_url 2024-09-07-network-topology-home-lab %}). It’s not the exact same hardware, but the design principles apply and will help you avoid creating a spaghetti mess in your rack that would make Gordon Ramsay cry.
+For more on lab network design, check out [Network Topology for Home Labs]({{ site.constants.wsib }}network topology home lab). It’s not the exact same hardware, but the design principles apply and will help you avoid creating a spaghetti mess in your rack that would make Gordon Ramsay cry.
 
 In terms of management interface, you’ll find a clean web GUI in most models, or a CLI for the brave. If you prefer not to tinker at the CLI, you can rely on the web UI to monitor PoE usage, port status, and basic event logs. The aim here is to strike a balance between function and simplicity. This is the kind of device that should feel like an upgrade to your home lab rather than a barrier to your curiosity.
 
@@ -80,14 +80,14 @@ If you’re a lab racer who loves to push gear to its limits, you might ensemble
 - The con list is shorter but real: if you already have or plan on upgrading to 10 Gigabit internal uplinks, this switch won’t be the star of a 10G show. It’s not a design flaw; it’s a product scope limitation typical of 24-port PoE devices aimed at SMB and home-lab markets.
 - The “why I bought it” moment: you don’t want a whirring data center fan in your recording studio or your podcasting corner. A fanless design means you can actually work or record in the same room as the switch without turning your podcast into an accidental ASMR session.
 
-If you want a quick comparative snapshot, you could also peek at a different flavor of the same recipe in [Budget PoE Switches Showdown]({% post_url 2025-08-19-budget-poe-switches-showdown %}). It’s not a direct spec match, but it helps you calibrate expectations about passive cooling vs, well, thermal vibes in the wild.
+If you want a quick comparative snapshot, you could also peek at a different flavor of the same recipe in [Budget PoE Switches Showdown]({{ site.constants.wsib }}budget poe switches showdown). It’s not a direct spec match, but it helps you calibrate expectations about passive cooling vs, well, thermal vibes in the wild.
 
 ## Compatibility and Expandability: What You Can Do Next
 - If you’re building out a small campus of cameras or APs, you’ll appreciate how easy it is to drop this switch in and start provisioning devices. The 300W budget is generous but finite; plan around critical devices that you want to power on immediately and keep the rest on a separate power budget if you’re pushing the PoE ceiling.
 - If you have an existing network with VLANs, you’ll be able to segment traffic and assign QoS rules to ensure high-priority services stay responsive even when PoE devices wake up and start drawing power.
 - If you’re in a lab workflow, you can pair this with a storage appliance, a small NAS, or a test server to isolate heavy data traffic from your home network and to keep things from turning into a noisy spaghetti wire festival.
 
-For lab design inspiration, consider [Home Lab Networking Essentials]({% post_url 2024-05-03-home-lab-network-essentials %}) as a reference point. It gives you high-level guidance on how to segment networks without losing your mind in a tangle of cables.
+For lab design inspiration, consider [Home Lab Networking Essentials]({{ site.constants.wsib }}home lab network essentials) as a reference point. It gives you high-level guidance on how to segment networks without losing your mind in a tangle of cables.
 
 ## Final Verdict and Recommendations
 After putting this 24-Port PoE Switch through its paces, the verdict is this: it’s a dependable, nearly silent workhorse designed for real-world SMB and home-lab deployments. It won’t pretend to be a 10G monster, but it doesn’t pretend to be anything it isn’t. It delivers what it promises: a robust PoE budget, two uplinks for resilient connectivity, and a fanless design that respects your workspace and your ears.
@@ -104,14 +104,14 @@ What to consider before buying:
 
 External thought: PoE is a powerful tool for network installations, but like any tool, you need a plan. Without a plan, you’ll find yourself chasing voltage curves and randomized restarts. With a plan, you’ll have a better shot at a stable, clean network that does not resemble your last DAS bus diagram after a long coffee break.
 
-If you’re curious about the broader ecosystem of quiet network gear, you may also enjoy our look at a few other budget-friendly devices in the same space in [Budget Networking Roundup]({% post_url 2025-12-03-budget-networking-roundup %}).
+If you’re curious about the broader ecosystem of quiet network gear, you may also enjoy our look at a few other budget-friendly devices in the same space in [Budget Networking Roundup]({{ site.constants.wsib }}budget networking roundup).
 
 ## Where to Buy and Final Thoughts
 This 24-Port PoE Switch with 2 Gigabit Uplinks is the kind of device that makes you feel accomplished without feeling like you just maxed out your credit card. It’s practical, it’s quiet, and it does its job well enough that you’ll forget you own a network switch until someone asks you for help with a camera installation late at night.
 
 Remember to map your PoE budget across devices, keep a spare power budget for future expansion, and maintain a tidy rack. A clean, well-labeled rack is the best friend of any IT professional who wants to sleep soundly knowing their network is organized, not slung together like a late-night coding sprint.
 
-For more guidance on how to integrate this switch into a larger network plan, consider checking out our guide on [Building a Simple Home Network Topology]({% post_url 2024-03-11-building-home-network-topology %}). It’s a solid starting point for those who want to see how a single switch can anchor a small but functional network topology.
+For more guidance on how to integrate this switch into a larger network plan, consider checking out our guide on [Building a Simple Home Network Topology]({{ site.constants.wsib }}building home network topology). It’s a solid starting point for those who want to see how a single switch can anchor a small but functional network topology.
 
 External links for reference and additional reading:
 - Official Product Page: https://www.example.org/24-port-poe-switch

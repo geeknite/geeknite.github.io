@@ -1,4 +1,4 @@
----
+﻿---
 title: "Zombicide: Special Guest - Edouard Guiton - Edición 2014: Nuevos juegos de mesa"
 date: 2024-07-12 12:00:00 -0000
 tags: [juegos-de-mesa, zombicide, edouard-guiton, edition-2014, reseñas, geeknite]
@@ -99,13 +99,13 @@ Si todavía no tienes el juego, ahora es un buen momento para considerar una com
 
 # Enlaces útiles
 - More Zombicide info: https://www.cmon.com/zombicide
-- Guia de estrategia de principiantes: [Lectura recomendada]({% post_url 2023-05-04-lecturas-de-juegos %})
-- Revisión detallada de ediciones anteriores: [Ediciones anteriores de Zombicide]({% post_url 2022-11-15-zombicide-ediciones-caso-estadisticos %})
-- Tutorial de setup rápido: [Setup rápido]({% post_url 2021-08-22-setup-rapido-zombicide %})
+- Guia de estrategia de principiantes: [Lectura recomendada]({{ site.constants.wsib }}lecturas de juegos)
+- Revisión detallada de ediciones anteriores: [Ediciones anteriores de Zombicide]({{ site.constants.wsib }}zombicide ediciones caso estadisticos)
+- Tutorial de setup rápido: [Setup rápido]({{ site.constants.wsib }}setup rapido zombicide)
 
 ## Enlaces a otras entradas
-- [Cómo empezar con Geeknite]({% post_url 2023-01-01-como-empezar-con-geeknite %})
-- [Guía de zombis para principiantes]({% post_url 2023-03-14-zombis-para-principiantes %})
+- [Cómo empezar con Geeknite]({{ site.constants.wsib }}como empezar con geeknite)
+- [Guía de zombis para principiantes]({{ site.constants.wsib }}zombis para principiantes)
 
 ## Imagen destacada
 ![](/assets/images/zombicide-edouard-guiton-2014-hero.jpg "Zombicide Special Guest: Edouard Guiton – Edición 2014")

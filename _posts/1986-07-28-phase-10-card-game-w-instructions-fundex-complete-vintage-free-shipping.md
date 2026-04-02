@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "1986 Phase 10 Card Game with Instructions — Fundex Complete Vintage, Free Shipping"
 date: 2026-03-20 12:00:00 -0000
 categories: [games, vintage, card-games]

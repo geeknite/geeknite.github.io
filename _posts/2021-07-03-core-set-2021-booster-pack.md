@@ -1,4 +1,4 @@
----
+﻿---
 title: "Magic: The Gathering - Core Set 2021 Booster Pack Review"
 date: "2021-07-03"
 tags:
@@ -15,7 +15,7 @@ Welcome, planeswalkers and dollar-store deckbuilding champions, to the glitterin
 
 In this review, we’ll break down what M21 (that’s MTG shorthand for Core Set 2021) brings to your drafting table, your constructed build, and your ever-hungry card-collecting heart. We’ll talk about the chances you’ll pull a mythic, the quality of art, the themes that slapped across the set, and whether this booster pack is a sane purchase for a person who has only 16 hours of free time per day (that is, all of us). If you’re here for the hot takes, you came to the right place. If you’re here for actual numbers, you might need to tighten your belt and grab a calculator because we’re going to treat probabilities like a treasure chest with a loose lid.
 
-> Psst: for the curious soul who wants to peek behind the curtain, the official overview from Wizards of the Coast is worth a read: [Official Core Set 2021 overview](https://magic.wizards.com/en/articles). And if you’re into the broader world of booster dynamics, you can also check out some related posts: {% post_url 2020-10-mythic-rarity-guide %} and {% post_url 2020-12-mtg-drafting-basics %}.
+> Psst: for the curious soul who wants to peek behind the curtain, the official overview from Wizards of the Coast is worth a read: [Official Core Set 2021 overview](https://magic.wizards.com/en/articles). And if you’re into the broader world of booster dynamics, you can also check out some related posts: {{ site.constants.wsib }}2020 10 mythic rarity guide and {{ site.constants.wsib }}2020 12 mtg drafting basics.
 
 
 ## H2: What Core Set 2021 Is All About
@@ -111,7 +111,7 @@ As with any expansion, it’s worth staying connected to the community’s pulse
 
 ## H2: Cross-Post Connections: Where to Read More
 
-If you want to see how M21 interacts with other sets or how it stacks up against other core sets in terms of draft viability, you can peek at adjacent discussions from Geeknite. For broader drafting philosophy, check out {% post_url 2020-12-mtg-drafting-basics %} and for a look at card design lessons that sometimes appear in core sets, {% post_url 2020-10-mythic-rarity-guide %}.
+If you want to see how M21 interacts with other sets or how it stacks up against other core sets in terms of draft viability, you can peek at adjacent discussions from Geeknite. For broader drafting philosophy, check out {{ site.constants.wsib }}2020 12 mtg drafting basics and for a look at card design lessons that sometimes appear in core sets, {{ site.constants.wsib }}2020 10 mythic rarity guide.
 
 And if you love the art and flavor, there are a few articles in our archives that celebrate the aesthetics of MTG cards as visual storytelling: [the art direction piece](https://www.example.com/art-direction-mtg) and [the flavor text exploration](https://www.example.com/flavor-text-mtg).
 
@@ -142,7 +142,7 @@ Here’s a simple, fun draft idea you can try with M21 cards. It’s not the met
 - Core strategy: Play efficient early creatures, back them up with a few removal spells, and then drop a midrange threat that can close games with a sturdy late kick
 - Sample curve: 1 drop x2, 2 drop x3, 3 drop x3, 4+ drop x2. A handful of removal and a finisher or two to seal the match
 
-If you want to see a posted decklist from the Geeknite community, check out this draft log: {% post_url 2020-11-gearbox-draft-log %}.
+If you want to see a posted decklist from the Geeknite community, check out this draft log: {{ site.constants.wsib }}2020 11 gearbox draft log.
 
 
 ## H2: Visual Showcase: Cards That Caught Our Eye
@@ -162,8 +162,8 @@ If you’re looking to experience Core Set 2021 with the comfort of knowing you�
 For those of you who want to push the envelope with a physical purchase, you can grab booster packs and other MTG goodies at our recommended retailer. The experience is smoother if you’re shopping from a place you trust, and trust is what you deserve when your wallet is involved in a game of chance with 16-year-old rarity charts.
 
 
-- If you’re curious about how a modern core set drafting session unfolds, take a look at {% post_url 2020-12-mtg-drafting-basics %} for a solid primer. 
-- For a deeper dive into how a single rare can alter a draft destiny, check out {% post_url 2020-10-mythic-rarity-guide %}.
+- If you’re curious about how a modern core set drafting session unfolds, take a look at {{ site.constants.wsib }}2020 12 mtg drafting basics for a solid primer. 
+- For a deeper dive into how a single rare can alter a draft destiny, check out {{ site.constants.wsib }}2020 10 mythic rarity guide.
 - For more general MTG content and a few goofy takes on card art, explore our [Geeknite archive](https://www.example.com/geeknite-archive).
 
 

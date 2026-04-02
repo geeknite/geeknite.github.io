@@ -105,8 +105,8 @@ If you’ve already embraced UNO as part of your regular rotation and you want t
 
 For more thoughts on family-friendly gaming and how we evaluate new editions, check these posts:
 
-- {% post_url 2025-07-12-best-family-board-games %}Best Family Board Games
-- {% post_url 2024-11-02-party-games-night %}Party Games to Ignite Laughter
+- {{ site.constants.wsib }}best family board gamesBest Family Board Games
+- {{ site.constants.wsib }}party games nightParty Games to Ignite Laughter
 
 External links:
 

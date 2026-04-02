@@ -1,4 +1,4 @@
----
+﻿---
 title: "2025 Mattel UNO Elite NFL Core Edition Foil Yellow Travis Kelce Color Match — A Geeknite Review"
 date: "2025-11-15"
 tags:
@@ -104,8 +104,8 @@ External purchase links and in-depth product pages:
 
 - Mattel official product page: https://www.mattelgames.com/en-us/products/uno-elite-nfl-core-edition
 - Travis Kelce NFL profile: https://www.nfl.com/players/travis-kelce
-- For broader context on our NFL-UNO coverage, see the historical post: {% post_url 2024-09-01-mattel-uno-nfl-core-edition-review %}
-- And for a lighter take on card art remixes, check our earlier art-focused post: {% post_url 2023-12-10-uno-art-remix-review %}
+- For broader context on our NFL-UNO coverage, see the historical post: {{ site.constants.wsib }}mattel uno nfl core edition review
+- And for a lighter take on card art remixes, check our earlier art-focused post: {{ site.constants.wsib }}uno art remix review
 
 ## How it compares with other collectible flavors on the shelf
 
@@ -119,9 +119,9 @@ That said, if your primary aim is to run quick games, or you’re budget-conscio
 
 ## Related reads and community notes
 
-- Our in-depth look at the standard NFL Core Edition: {% post_url 2024-09-01-mattel-uno-nfl-core-edition-review %}
-- A playful look at UNO card art remixes: {% post_url 2023-12-10-uno-art-remix-review %}
-- A quick buyer’s guide for UNO variants and what to look for: {% post_url 2022-05-18-ultimate-uno-variant-guide %}
+- Our in-depth look at the standard NFL Core Edition: {{ site.constants.wsib }}mattel uno nfl core edition review
+- A playful look at UNO card art remixes: {{ site.constants.wsib }}uno art remix review
+- A quick buyer’s guide for UNO variants and what to look for: {{ site.constants.wsib }}ultimate uno variant guide
 
 ## Final recommendation and call to action
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Mattel UNO Elite Core Edition: Yaua Diaby Yellow Tampa Bay Buccaneer'
 date: "2025-08-02"
 tags:
@@ -21,7 +21,7 @@ Welcome to the wild intersection of deck-building mania and football fandom. The
 
 We are talking premium vibes here: a deck that screams I came for game night but stayed for the photo backdrop. The Yaua Diaby design language adds a designer flavor to UNO, and the Yellow Tampa Bay Buccaneer theme brings the boardroom-level swagger you never knew your kitchen table needed. If you want the quick version: this edition is a premium reimagining of UNO with upgraded stock, sharpened edges, and a colorway that could blind a referee during a late-game moment. If you crave a little extra personality in your play, this edition invites you to level up your table banter and your card stacking confidence.
 
-Before we plunge deeper, a friendly pointer to our heritage: for a look at how Elite Core started this party, check {% post_url 2024-09-28-uno-elite-review %}. If you want more of our sports-meets-maple-syrup take on game nights, browse {% post_url 2023-05-07-sports-board-games %}. And if you crave the official flavor directly from the source, Mattel’s product page is here: [Mattel UNO Elite Core Edition page](https://www.mattel.com/en-us/products/uno-elite-core-edition).
+Before we plunge deeper, a friendly pointer to our heritage: for a look at how Elite Core started this party, check {{ site.constants.wsib }}uno elite review. If you want more of our sports-meets-maple-syrup take on game nights, browse {{ site.constants.wsib }}sports board games. And if you crave the official flavor directly from the source, Mattel’s product page is here: [Mattel UNO Elite Core Edition page](https://www.mattel.com/en-us/products/uno-elite-core-edition).
 
 Now, buckle up, because this review will swat away the myths about premium decks being “unnecessary” and prove that the right edition can elevate both the game and the mood around the table.
 
@@ -99,7 +99,7 @@ The display appeal is real. The yellow Buccaneer theme pops, and it translates w
 
 If you’re chasing the Yaua Diaby edition, you’ll find it at Mattel’s official store, mainstream retailers, and a handful of hobby shops. Expect a price premium relative to standard UNO Elite due to the branding and the premium stock. Bundle deals sometimes show up around major shopping weekends, so keep an eye on promos if you’re budgeting for a gift.
 
-External links and reference tones: Official product pages offer the most reliable specs and availability. For fans who want to see how this edition sits within the broader UNO ecosystem, our earlier UNO Elite coverage provides helpful context, accessible via {% post_url 2024-09-28-uno-elite-review %}. Sports-game enthusiasts can peek at our exploration of sports-themed board games at {% post_url 2023-05-07-sports-board-games %} to see how UNO stacks up in the trend space.
+External links and reference tones: Official product pages offer the most reliable specs and availability. For fans who want to see how this edition sits within the broader UNO ecosystem, our earlier UNO Elite coverage provides helpful context, accessible via {{ site.constants.wsib }}uno elite review. Sports-game enthusiasts can peek at our exploration of sports-themed board games at {{ site.constants.wsib }}sports board games to see how UNO stacks up in the trend space.
 
 ### Quick note on availability and authenticity
 
@@ -115,7 +115,7 @@ Bottom line: If you want to play UNO with style, with a deck that feels premium 
 
 How it handles intense matches: It remains UNO at its core, with enough refinements to make a night longer and more entertaining. The colorway helps younger players stay engaged, while older players can appreciate the design language and the quality of the components.
 
-Where to read more: For a deeper dive into UNO’s evolution, see our piece on accessory packs and premium decks: {% post_url 2022-11-15-uno-evolution %}.
+Where to read more: For a deeper dive into UNO’s evolution, see our piece on accessory packs and premium decks: {{ site.constants.wsib }}uno evolution.
 
 Final quick summary: Elite Core elevates UNO in a way that feels both necessary and celebratory. If you value design, durability, and a deck that looks like it belongs in a stylish game night in a sunlit living room, this edition is your best option among the current lines.
 

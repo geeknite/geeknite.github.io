@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Magic: The Gathering Booster Pack - Modern Horizons 2'
 date: '2021-07-15'
 tags:
@@ -89,8 +89,8 @@ That said, the set’s design leans toward a curated experience, which tends to 
 A modern horizons pack is also a conversation starter. When you open MH2, you’re not just adding a physical card; you’re adding a potential story to your Magic career. The Geeknite community loves to discuss the cards that show surprising power in either casual or competitive play. If you’re looking to compare notes, you’ll want to check out other posts in the Geeknite catalog that cover similar ground, including how our editors approach set reviews, draft strategies, and building around reprint-heavy content. See our related posts via post_url below for more context and nerdy insights.
 
 ### See also: related Geeknite posts
-- {% post_url 2021-07-01-mh2-spotlight %}
-- {% post_url 2021-06-28-modern-horizons-wrap-up %}
+- {{ site.constants.wsib }}mh2 spotlight
+- {{ site.constants.wsib }}modern horizons wrap up
 - Official coverage: [MH2 on Wizards]
 - [Our extended reviews on set design and limited power](https://example.com/geeknite-set-design-review)
 

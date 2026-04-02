@@ -1,5 +1,5 @@
----
-title: UNO Elite CORE Dual Color Yellow Green Foil: A 2025 Review
+﻿---
+title: "UNO Elite CORE Dual Color Yellow Green Foil: A 2025 Review"
 date: 2025-04-01
 tags:
   - board games
@@ -19,7 +19,7 @@ Welcome, fellow geeks, to the glossy edge of card gaming where cardboard meets c
 
 UNO remains one of the most recognizable party games in the world. It is a simple concept, easy to learn, and the kind of thing that can generate fierce opinions about rule interpretation in a single round. The Elite CORE edition aims to take that familiar framework and upgrade the tactile experience without turning UNO into a board game saga with shipping costs and a rulebook longer than a novella. The Dual Color Yellow Green Foil variant leans into two trends that have been quietly dominating hobby spaces: premium card stock and foil finishes that catch the light as if the deck were auditioning for a role in a neon film noir. The color combination is bold, almost radioactive in the best possible sense, and the foil finish adds depth that makes each card feel like a tiny treasure rather than a disposable prop.
 
-For those who crave context, the baseline UNO experience is covered in our earlier post on the classic deck and its spiritual successors. If you want to compare the core system before diving into the premium edition, you can revisit that discussion in {% post_url 2024-08-11-uno-review %}.
+For those who crave context, the baseline UNO experience is covered in our earlier post on the classic deck and its spiritual successors. If you want to compare the core system before diving into the premium edition, you can revisit that discussion in {{ site.constants.wsib }}uno review.
 
 ## Design and Build Quality
 
@@ -85,7 +85,7 @@ The standard UNO deck is approachable and charming in its simplicity. Elite CORE
 ### UNO Flip and other foil editions
 UNO Flip introduces a two sided deck with a dramatic dark mode. Elite CORE sticks to a single face with a foil flourish. The choice is not necessarily which is better, but which vibe you want. If you want dramatic reveals and color shifts, UNO Flip is your pick. If you want a sleek premium feel that remains faithful to the classic UNO rhythm, Elite CORE is a strong contender. Both have dedicated communities and both shine in different kinds of content and play settings.
 
-For more context on how different boards and variants approach the premium finish, see our post on UNO variants and design philosophy at {% post_url 2023-07-21-uno-variants-guide %}.
+For more context on how different boards and variants approach the premium finish, see our post on UNO variants and design philosophy at {{ site.constants.wsib }}uno variants guide.
 
 ## Who should buy this edition
 

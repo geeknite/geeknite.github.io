@@ -1,4 +1,4 @@
----
+﻿---
 title: Hasbro Monopoly für schlechte Verlierer – 2020
 date: 2020-04-01 12:00:00 +0000
 tags:
@@ -94,8 +94,8 @@ Insgesamt ist Hasbro Monopoly für schlechte Verlierer – 2020 eine loyale Erg�
 ## Weiterführende Ressourcen und Verweise
 
 - Offizielle Produktseite von Hasbro für Monopoly 2020 Edition: https://www.hasbro.com
-- Monopoly Editionen im Überblick – ein Blick hinter die Kulissen unserer Lieblingsfamilienserie der Brettspiele. {% post_url 2020-07-03-monopoly-editions-im-vergleich %}
-- Tipps und Tricks für Anfänger im Monopoly Universum – eine Reise von Geisterhäusern bis zur Casinowirtschaft. {% post_url 2019-08-15-brettspiel-tipps-fuer-einsteiger %}
+- Monopoly Editionen im Überblick – ein Blick hinter die Kulissen unserer Lieblingsfamilienserie der Brettspiele. {{ site.constants.wsib }}monopoly editions im vergleich
+- Tipps und Tricks für Anfänger im Monopoly Universum – eine Reise von Geisterhäusern bis zur Casinowirtschaft. {{ site.constants.wsib }}brettspiel tipps fuer einsteiger
 
 Wenn du mehr über den Stil dieser Art von Edition erfahren willst, schau dir auch unsere jüngeren Rezensionen an. Sie geben dir eine gute Orientierung, ob du eher der humorvolle Typ bist oder ob du dich lieber auf die klassischen Mechaniken versteifst. Und keine Sorge – egal, wie oft du verlierst, hier lässt dich niemand im Stich, außer du findest wirklich die perfekte Strategie und nutzt sie zu oft. Dann ist das Spiel vielleicht dein Feind, aber dein größter Lehrmeister.
 

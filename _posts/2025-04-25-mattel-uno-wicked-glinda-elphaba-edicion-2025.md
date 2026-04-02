@@ -1,5 +1,5 @@
----
-title: Mattel UNO Wicked: Glinda vs Elphaba Edición Limitada 2025
+﻿---
+title: "Mattel UNO Wicked: Glinda vs Elphaba Edición Limitada 2025"
 date: 2025-04-25 12:00:00 -0000
 tags:
   - juegos
@@ -80,9 +80,9 @@ Para aquellos interesados en la edición, las opciones suelen incluir tiendas of
 ## Enlaces y referencias útiles
 - Sitio oficial de Mattel UNO Wicked: https://www.mattelgames.com/en-us/UNO
 - Página del musical Wicked: https://wickedthemusical.com/
-- Reseñas de ediciones especiales de UNO: {% post_url 2024-11-15-ediciones-especiales-uno %}
-- Comparativa UNO original vs temáticas: {% post_url 2024-09-20-uno-musicales-comparativa %}
-- Guía rápida de reglas de UNO: {% post_url 2025-01-12-uno-reglas-rapidas %}
+- Reseñas de ediciones especiales de UNO: {{ site.constants.wsib }}ediciones especiales uno
+- Comparativa UNO original vs temáticas: {{ site.constants.wsib }}uno musicales comparativa
+- Guía rápida de reglas de UNO: {{ site.constants.wsib }}uno reglas rapidas
 
 ## Conclusión y veredicto final
 En conclusión, Mattel UNO Wicked: Glinda y Elphaba es una edición de colección que logra un equilibrio entre estética y experiencia de juego. Si eres fan de Wicked, si disfrutas de juegos que fusionan temática y partidas rápidas, o si quieres una pieza llamativa para tu estantería, esta edición merece un lugar en tu arsenal de juegos. No es la elección más barata ni la más simple para una noche de juego casual si tu prioridad es rapidez, pero si valoras la experiencia teatral y el factor sorpresa, esta edición te dará historias para contar en las próximas reuniones. 

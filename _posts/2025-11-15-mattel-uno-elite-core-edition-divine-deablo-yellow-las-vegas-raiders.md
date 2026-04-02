@@ -1,4 +1,4 @@
----
+﻿---
 title: Mattel UNO Elite Core Edition - Divine Deablo Yellow for Las Vegas Raiders
 date: "2025-11-15"
 tags:
@@ -87,8 +87,8 @@ If you want to see more official details or check current availability, the best
 
 If you’re curious about other UNO variants that shake up the formula, our sister posts on Geeknite cover a range of editions and house-rule experiments. See also:
 
-- For a deep dive into tournament-grade variants, see {% post_url 2024-08-12-uno-tournament-edition %}
-- A look at collectible UNO sets with unique art directions: {% post_url 2023-11-07-collectible-uno-series %}
+- For a deep dive into tournament-grade variants, see {{ site.constants.wsib }}uno tournament edition
+- A look at collectible UNO sets with unique art directions: {{ site.constants.wsib }}collectible uno series
 
 ## Playtest scenario: a quick walkthrough
 To give you a practical sense, here’s a short playthrough outline you can imagine while you’re sipping a cold beverage and debating the finer points of soup at the same time:
@@ -116,8 +116,8 @@ If you’re convinced that this edition belongs in your personal collection or o
 For those who still aren’t sure, consider this: a well-designed collector’s edition is not just about owning a card game. It is about owning a little slice of a broader culture that sees gaming as a form of performance art. The Divine Deablo Yellow edition captures that spirit with a playful nod to sports branding, a refined physical package, and enough gameplay refinements to keep even long-standing UNO players entertained.
 
 ## Related reads and community notes
-- If you want to nerd out about the card stock and print process that makes these sets feel premium, we’ve got a post on card stock specs and finish choices for collectible decks. {% post_url 2024-05-22-collectible-deck-pressures %}
-- For fans who adore special edition branding, our feature on how theme affects play experience might be of interest. {% post_url 2023-09-15-theme-and-play %}
+- If you want to nerd out about the card stock and print process that makes these sets feel premium, we’ve got a post on card stock specs and finish choices for collectible decks. {{ site.constants.wsib }}collectible deck pressures
+- For fans who adore special edition branding, our feature on how theme affects play experience might be of interest. {{ site.constants.wsib }}theme and play
 
 ### Final recommendation
 If you’re a collector who wants a vibrant, Raiders-flavored UNO variant that also plays well, the Divine Deablo Yellow Elite Core Edition nails the brief. It’s fun, it looks sharp on the shelf, and it delivers enough functional upgrades to justify its price for enthusiasts. If you’re after a purely neutral UNO experience, you can still enjoy it, but you may find yourself reaching for the standard deck when you want to skip the fanfare and get straight to the dice-free chaos. 

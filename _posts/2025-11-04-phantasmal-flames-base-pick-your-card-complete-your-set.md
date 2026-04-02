@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 Pokemon Phantasmal Flames - Base - Pick Your Card - Complete Your Set
 date: 2025-11-04 10:00:00 -0000
 tags:
@@ -102,7 +102,7 @@ If you’re looking to deepen your Phantasmal Flames journey, consider these ave
 - Official product page for up-to-date release notes and collectability guides (read them for the official stance while you ignore your impulse purchases). [Official Pokemon Site](https://www.pokemon.com)
 - Community-driven discussions on deck-building forums where players share lists, insights, and memes. [Player Forum Link](https://example.org)
 - Visual galleries and unboxing videos to study card art and packaging design. [YouTube Gallery](https://www.youtube.com)
-- A post about similar phantasm sets to compare design language and mechanics. {% post_url 2024-08-16-pokemon-phantasmal-compare.md %}
+- A post about similar phantasm sets to compare design language and mechanics. {{ site.constants.wsib }}pokemon phantasmal compare
 
 For those who want to dive deeper into the art side of Phantasmal Flames, a few of the more enterprising hobbyists have built glorious fan-curated galleries that contrast the heat-wave hues with more muted palettes. It’s not official content, but it’s the kind of fan energy that keeps the hobby alive when you’re not pulling the exact card you need.
 
@@ -118,6 +118,6 @@ If you’re ready to start your own Phantasmal Flames journey, don’t hesitate 
 
 **Shop the Phantasmal Flames experience now and support Geeknite through our affiliate link: https://affiliates.example.com/pokemon/phantasmal-flames?ref=geeknite**
 
-For quick access to related reviews and community discussions, check out our other posts: {% post_url 2024-07-21-pokemon-collection-starters.md %} and {% post_url 2023-12-02-pokemon-review-stars.md %}.
+For quick access to related reviews and community discussions, check out our other posts: {{ site.constants.wsib }}pokemon collection starters and {{ site.constants.wsib }}pokemon review stars.
 
 ---

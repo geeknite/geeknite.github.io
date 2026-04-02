@@ -1,5 +1,5 @@
----
-title: UNO NFL Elite Core Edition: Breece Hall Wild Foil Flux SP Review
+﻿---
+title: "UNO NFL Elite Core Edition: Breece Hall Wild Foil Flux SP Review"
 date: 2025-06-15 10:00:00 -0000
 tags:
   - collectibles
@@ -71,10 +71,10 @@ If you want to see similar designs that cross over to other NFL players, you mig
 
 ## Cross-Post Links: Where to Read More on the Hobby Universe
 
-- For a deeper dive into the fundamentals of collectable card condition and grading, see {% post_url 2024-11-12-collectible-card-basics %}.
-- If you’re chasing more Breece Hall content, checkout {% post_url 2025-03-22-breece-hall-career-highs %} for a career snapshot and why his highlight reel remains a magnet for card designers.
-- A broader discussion on foil finishes and parity in the hobby can be found in {% post_url 2023-09-01-foil-finish-deep-dive %}.
-- To explore other Jets‑flavored cards and their cross‑pollination with sports video game aesthetics, see {% post_url 2024-04-18-jets-collectibles-and-interactive-media %}.
+- For a deeper dive into the fundamentals of collectable card condition and grading, see {{ site.constants.wsib }}collectible card basics.
+- If you’re chasing more Breece Hall content, checkout {{ site.constants.wsib }}breece hall career highs for a career snapshot and why his highlight reel remains a magnet for card designers.
+- A broader discussion on foil finishes and parity in the hobby can be found in {{ site.constants.wsib }}foil finish deep dive.
+- To explore other Jets‑flavored cards and their cross‑pollination with sports video game aesthetics, see {{ site.constants.wsib }}jets collectibles and interactive media.
 
 External product pages offer another flavor of info, especially around availability and distribution windows. A typical retailer page will give you price points, shipping estimates, and a basic product description that echoes what we discussed here—in a condensed, stock photo way that’s perfect for decision making when you’re in line at the hobby shop.
 

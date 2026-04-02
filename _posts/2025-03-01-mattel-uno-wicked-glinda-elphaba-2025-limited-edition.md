@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mattel Uno Wicked Card Game: Glinda, Elphaba, and the 2025 Limited Edition"
 date: 2025-03-01
 tags:
@@ -54,9 +54,9 @@ Strategy tips
 - Don’t sleep on the Curse Deck: it’s not a minor side note. It can turn strategic planning into a chaotic dance of bluffing and misdirection. If you love table talk, this is where the real fun begins.
 
 Internal links to geeky corners of the site
-- If you want to dig into how we evaluate collectible editions, check out our guide to rare variants in this post: [Geeknite Collectible Corner](https://example.com/guide) — or use the site’s own path to a more formal review: [Our UNO Variant Guide]({% post_url '2024-11-01-uno-variant-guide' %}).
-- For more about how license-themed games handle lore, see our take on licensed campaigns in [Wicked vs Disney: The Card War]({% post_url '2023-07-14-licensed-campaigns' %}).
-- If you want to compare this with other pop culture crossovers, you can read [The Great Mashup: Board Games Remix]({% post_url '2022-09-12-great-mashups-board-games' %}).
+- If you want to dig into how we evaluate collectible editions, check out our guide to rare variants in this post: [Geeknite Collectible Corner](https://example.com/guide) — or use the site’s own path to a more formal review: [Our UNO Variant Guide]({{ site.constants.wsib }}uno variant guide).
+- For more about how license-themed games handle lore, see our take on licensed campaigns in [Wicked vs Disney: The Card War]({{ site.constants.wsib }}licensed campaigns).
+- If you want to compare this with other pop culture crossovers, you can read [The Great Mashup: Board Games Remix]({{ site.constants.wsib }}great mashups board games).
 
 Why this edition hits different
 The Wicked UNO edition is not simply about a nostalgic property slapped on a deck. It’s about how a game can incorporate narrative flavor without sacrificing the core mechanics that make UNO so accessible. The rule changes are modest enough that even a casual player can jump in quickly while still offering room for strategic depth for those who want to overthink everything on a Tuesday. The art direction makes it more than just a novelty; it creates a collectible piece that you can confidently pull out at game night and claim a small victory, whether or not you win the round.
@@ -81,9 +81,9 @@ Final recommendation
 - For casual players who want something quick and stylish: the Wicked edition is easy to pick up, quick to explain, and fun enough to justify a one-off game night.
 
 Where to read more on our site
-- Learn more about variant rules and how we rate them here: [UNO Variant Deep-Dive]({% post_url '2024-11-01-uno-variant-guide' %}).
-- Explore more pop culture edition games: [Culture Crossovers in Board Games]({% post_url '2023-12-15-pop-culture-editions' %}).
-- Check out our general UNO primer if you are new to the game: [UNO for Beginners: The Quick Start Guide]({% post_url '2024-04-20-uno-beginners-guide' %}).
+- Learn more about variant rules and how we rate them here: [UNO Variant Deep-Dive]({{ site.constants.wsib }}uno variant guide).
+- Explore more pop culture edition games: [Culture Crossovers in Board Games]({{ site.constants.wsib }}pop culture editions).
+- Check out our general UNO primer if you are new to the game: [UNO for Beginners: The Quick Start Guide]({{ site.constants.wsib }}uno beginners guide).
 
 Final call
 If you are ready to join the spellbound chaos, grab a copy and invite a few friends. You will either become a legend of the living room or the person who inspired a dramatic monologue about strategic card play. Either way, it’s a win.

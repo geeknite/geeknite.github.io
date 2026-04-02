@@ -1,5 +1,5 @@
----
-title: Mattel UNO Elite Core Edition: YaYa Diaby Yellow Tampa Bay Buccaneer – 2025 Review
+﻿---
+title: "Mattel UNO Elite Core Edition: YaYa Diaby Yellow Tampa Bay Buccaneer – 2025 Review"
 date: 2025-11-15
 tags: [toys, games, UNO, mattel, geek, crossover, football]
 ---
@@ -58,8 +58,8 @@ A notable effect of the YaYa Diaby theme is the occasional celebratory card draw
 For further reading and more variety, check out the older post on a classic UNO experience and how it aged with time: Classic UNO Review 2021 via post_url
 
 ## Links to Other Posts via post_url
-- Read more: [UNO Reboot and the Card Game Renaissance]({% post_url 'uno-reboot-renaissance' %})
-- Compare with classic UNO: [Classic UNO vs. New Schools]({% post_url 'classic-vs-new-uno' %})
+- Read more: [UNO Reboot and the Card Game Renaissance]({{ site.constants.wsib }}uno reboot renaissance)
+- Compare with classic UNO: [Classic UNO vs. New Schools]({{ site.constants.wsib }}classic vs new uno)
 
 ## Pros and Cons
 - Pros: striking visual design, premium feel, fun additions that add variety, good for fans of YaYa Diaby, accessible to casual players.

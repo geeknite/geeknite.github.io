@@ -1,4 +1,4 @@
----
+﻿---
 title: Streaking Kittens French Edition EK NEW
 date: "2022-11-18"
 tags:
@@ -88,8 +88,8 @@ Artwork remains a standout feature. The card illustrations are playful and bold,
 
 If you want to see how EK NEW stacks up against other popular expansions, here are some example links to related Geeknite posts (using post_url to keep things tidy in Jekyll):
 
-- Related review: {% post_url 2023-04-10-exploring-expansion-land %}
-- Expansion comparisons: {% post_url 2024-01-22-board-game-night-essentials %}
+- Related review: {{ site.constants.wsib }}exploring expansion land
+- Expansion comparisons: {{ site.constants.wsib }}board game night essentials
 
 For a broader context on Exploding Kittens and why the franchise keeps growing, you can also visit the official pages and community galleries:
 
@@ -121,8 +121,8 @@ If you want to maximize laughs and minimize downtime, EK NEW Streaking Kittens i
 
 Below are a couple of quick links to related Geeknite content for those who want to nerd out a little more before making a purchase:
 
-- A broader exploration of expansion strategy in party games: {% post_url 2023-11-08-expansion-strategy-party-games %}
-- A deep dive into translation and localization in board games: {% post_url 2022-09-12-translation-matters-in-board-games %}
+- A broader exploration of expansion strategy in party games: {{ site.constants.wsib }}expansion strategy party games
+- A deep dive into translation and localization in board games: {{ site.constants.wsib }}translation matters in board games
 
 ## Final word — the Geeknite take
 

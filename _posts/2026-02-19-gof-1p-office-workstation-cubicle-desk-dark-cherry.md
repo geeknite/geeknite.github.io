@@ -58,7 +58,7 @@ Visuals matter in a workspace. The dark cherry tone gives the unit a premium fee
 
 ## Comparisons and Alternatives
 
-If you are shopping around, you likely compare the GOF 1P with other compact cubicle solutions from mid tier manufacturers. A few key differentiators to consider include depth, width, and the flexibility of height adjustments. Some rivals lean into ultra modularity with variable panel heights, while GOF focuses on a balanced blend of stability and adjustability for a typical office. For readers curious about how this stacks up, you might consult posts about compact desk layouts and ergonomic studies. See {% post_url 2023-05-12-ergonomics-101.html %} and {% post_url 2024-01-20-compact-desk-ideas.html %} for context on how small modifications affect comfort and productivity. External guides such as Ergonomics Today can provide additional insights on posture and workstation arrangement if you need a broader theoretical backdrop.
+If you are shopping around, you likely compare the GOF 1P with other compact cubicle solutions from mid tier manufacturers. A few key differentiators to consider include depth, width, and the flexibility of height adjustments. Some rivals lean into ultra modularity with variable panel heights, while GOF focuses on a balanced blend of stability and adjustability for a typical office. For readers curious about how this stacks up, you might consult posts about compact desk layouts and ergonomic studies. See {{ site.constants.wsib }}ergonomics 101.html and {{ site.constants.wsib }}compact desk ideas.html for context on how small modifications affect comfort and productivity. External guides such as Ergonomics Today can provide additional insights on posture and workstation arrangement if you need a broader theoretical backdrop.
 
 ## Pros and Cons
 
@@ -90,8 +90,8 @@ This user wants quiet, clean lines and a workspace that does not scream infinite
 
 For more on how to maximize desk space and optimize your home office, you might enjoy these related pieces:
 
-- {% post_url 2023-05-12-ergonomics-101.html %}
-- {% post_url 2024-01-20-compact-desk-ideas.html %}
+- {{ site.constants.wsib }}ergonomics 101.html
+- {{ site.constants.wsib }}compact desk ideas.html
 - External resource on workstation layouts: https://www.ergonomics.org
 
 ## Final Verdict and Recommendation

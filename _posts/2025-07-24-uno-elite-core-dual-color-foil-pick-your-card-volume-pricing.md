@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 Uno Elite Core Dual Color Foil Pick Your Card Volume Pricing
 date: 2025-07-24
 tags: [Gaming, Card Games, UNO, Reviews]
@@ -79,8 +79,8 @@ One caution: foil cards can be a little more reflective under strong lighting. I
 
 ## Internal Geeknite Connections: Cross-Posts and Reading Material
 If you’re a true Geeknite devotee, you’ll enjoy wandering into related posts and seeing how UNO fits into broader tabletop culture. For a broader base of knowledge and to see how UNO sits in the pantheon of family games, you can follow these internal threads:
-- {% post_url 2024-11-18-ultimate-uno-guide %}
-- {% post_url 2023-09-04-arcade-gaming-collection-review %}
+- {{ site.constants.wsib }}ultimate uno guide
+- {{ site.constants.wsib }}arcade gaming collection review
 These internal links may guide you toward a deeper understanding of how UNO has evolved and how different editions experiment with accessibility, play length, and social dynamics at the table.
 
 External references that add context and color to the experience include:
@@ -113,8 +113,8 @@ If you’re ready to take the plunge, here are practical tips for buying:
 UNO Elite Core Dual Color Foil Pick Your Card strikes a balance between premium aesthetics and approachable gameplay. It honors the original UNO experience while offering enough new flair to feel special during a casual game night. It lands in the sweet spot for players who want a little extra sparkle without turning UNO into a complex economic model. If you’re curious about the vibe, or you’re the kind of person who takes photos of your game table for social posts, this deck is a strong candidate for your next purchase.
 
 ### Related Reading
-- {% post_url 2024-11-18-ultimate-uno-guide %}
-- {% post_url 2023-09-04-arcade-gaming-collection-review %}
+- {{ site.constants.wsib }}ultimate uno guide
+- {{ site.constants.wsib }}arcade gaming collection review
 
 ### External Links
 - Official UNO product info and broad rules: https://www.mattelgames.com/en-us

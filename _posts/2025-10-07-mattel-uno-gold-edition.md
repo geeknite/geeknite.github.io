@@ -1,5 +1,5 @@
----
-title: Mattel UNO GOLD Edition: Gioco di Carte da Collezione con Accenti Foil
+﻿---
+title: "Mattel UNO GOLD Edition: Gioco di Carte da Collezione con Accenti Foil"
 date: 2025-10-07 10:00:00 +0000
 tags: [board-games, UNO, collectible, foil-edition, mattel, review, geeknite]
 ---
@@ -13,7 +13,7 @@ E già che siamo qui, date un’occhiata rapida all’immagine di presentazione:
 
 Se vi state chiedendo se questa versione meriti un posto nella vostra collezione, tornate a pensare al pubblico con cui Giocate: bambini curiosi, adulti nostalgici, o una comitiva di gioco settimanale che ama la luce del luccichio. In questa guida, esploreremo contenuto, design, gameplay, valore a lungo termine e dove acquistare, con un’attenzione particolare al gusto Geeknite per la combinazione tra estetica e funzionalità.
 
-Per un primo confronto, potete dare un’occhiata anche alla versione classica di UNO: {% post_url 2024-08-12-uno-classic-review %} e per chi ama i consigli di collezionismo, {% post_url 2023-11-02-collectible-games-guide %}. Se preferite la fonte ufficiale, ecco la pagina di prodotto di Mattel: [Mattel UNO Gold Edition – pagina prodotto](https://www.mattel.com/en-us/products/uno-gold-edition).
+Per un primo confronto, potete dare un’occhiata anche alla versione classica di UNO: {{ site.constants.wsib }}uno classic review e per chi ama i consigli di collezionismo, {{ site.constants.wsib }}collectible games guide. Se preferite la fonte ufficiale, ecco la pagina di prodotto di Mattel: [Mattel UNO Gold Edition – pagina prodotto](https://www.mattel.com/en-us/products/uno-gold-edition).
 
 ---
 
@@ -64,7 +64,7 @@ La parte cruciale della recensione è capire se la edizione Gold migliora davver
 - Prezzo vs valore: come in tutte le edition premium, si paga un premio per l’estetica. Se l’obiettivo è una parte display o una esperienza di gioco che si ricordi, potrebbe valere la spesa extra. Se l’obiettivo primario è una giocabilità continua e concentrata sul prezzo, la versione standard è una scelta più razionale.
 - Collezionismo e display: se la vostra passione è l’esposizione, la Gold Edition è una scelta solida. Accetta protezioni e sistemi di presentazione che possono rendere la scatola un pezzo di design visibile in una sala giochi o in una stanza dedicata al collezionismo.
 
-Per chi cerca ulteriori confronti di stile, potete consultare i post correlati su UNO e giochi collezionabili: {% post_url 2024-08-12-uno-classic-review %} e {% post_url 2023-11-02-collectible-games-guide %}. Inoltre, la pagina ufficiale di Mattel fornisce dettagli tecnici e eventuali aggiornamenti di prodotto: [Mattel UNO Gold Edition – pagina prodotto](https://www.mattel.com/en-us/products/uno-gold-edition).
+Per chi cerca ulteriori confronti di stile, potete consultare i post correlati su UNO e giochi collezionabili: {{ site.constants.wsib }}uno classic review e {{ site.constants.wsib }}collectible games guide. Inoltre, la pagina ufficiale di Mattel fornisce dettagli tecnici e eventuali aggiornamenti di prodotto: [Mattel UNO Gold Edition – pagina prodotto](https://www.mattel.com/en-us/products/uno-gold-edition).
 
 ---
 

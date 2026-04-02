@@ -1,7 +1,18 @@
----
+﻿---
 title: "UNO NFL Elite Core Edition: Wild Foil Flux Will McDonald IV (Jets SP) — A Geeknite Review"
 date: 2025-08-15 12:00:00 -0000
-tags: [collectibles, trading-cards, NFL, UNO, Flux, Will McDonald IV, New York Jets, SP, foil]
+tags:
+  [
+    collectibles,
+    trading-cards,
+    NFL,
+    UNO,
+    Flux,
+    Will McDonald IV,
+    New York Jets,
+    SP,
+    foil,
+  ]
 ---
 
 Introduction
@@ -12,7 +23,7 @@ Unboxing and Packaging
 
 The box looks like someone took a Jets tailgate party and poured it into a glossy rectangle. Deep greens, crisp whites, and a splash of chrome foil along the edges set the tone that this is not your grandma’s family game night. Inside, you’ll find a standard UNO deck with one twist: Will McDonald IV as a special SP card sporting the Wild Foil Flux treatment. The Flux element means the foil isn’t static. Tilt the card under light and you’ll catch warm blues, greens, and hints of gold dancing along the surface, as if Will himself is in constant pre-game hype mode.
 
-{% image assets/images/uno-nfl-elite-core-box.jpg "UNO NFL Elite Core Edition box with Will McDonald IV SP" %}
+![UNO NFL Elite Core Edition box with Will McDonald IV SP](/assets/images/uno-nfl-elite-core-box.jpg)
 
 Unboxing details are part of the fun here. The card stock is the usual UNO heft—slightly sturdier than your typical trading card, with a finish that resists minor wear for a few rounds longer than your average deck. If you’re a collector who likes to grade by the box, you’ll be chasing that perfect, mint-looking seal that still has that brand-new cardboard scent everyone pretends not to love.
 
@@ -53,14 +64,16 @@ If you plan to buy for investment, proceed with caution. The UNO license is a co
 Cross-links to Geeknite content
 
 If you want to dive deeper into the broader UNO-collectibles ecosystem, check out these related posts:
-- {% post_url 2024-11-12-geeknite-collecting-basics %}
-- {% post_url 2025-02-07-nfl-collectibles-economy %}
-- {% post_url 2025-03-18-uno-variant-analysis %}
+
+- {{ site.constants.wsib }}geeknite collecting basics
+- {{ site.constants.wsib }}nfl collectibles economy
+- {{ site.constants.wsib }}uno variant analysis
 
 External references and context
 
 If you like to broaden your horizon beyond the Geeknite microlab, these external resources are worth a look:
-- [UNO on Wikipedia](https://en.wikipedia.org/wiki/UNO_(card_game)) to get a sense of how the game evolved from a simple pastime to a license-licensed powerhouse
+
+- [UNO on Wikipedia](<https://en.wikipedia.org/wiki/UNO_(card_game)>) to get a sense of how the game evolved from a simple pastime to a license-licensed powerhouse
 - [Will McDonald IV on the NFL official site](https://www.nfl.com/players/will-mcdonald-iv/) for the real-world athlete who inspired the card flavor
 
 Design notes for care and display
@@ -82,6 +95,7 @@ For the Geeknite community, this card has become a small meme about how a simple
 Visual gallery suggestions
 
 Here are a few display ideas to maximize your Will McDonald IV SP moment:
+
 - Create a small diorama with Jets-themed miniatures and your UNO deck fanned around the card for a cinematic reveal.
 - Photograph against a dark background with a desk lamp angled to emphasize the Flux rainbow on the card surface.
 - Pair the card with a couple of other NFL-themed UNO cards in a clear binder for a quick display that works well as a coffee-table curiosity.
@@ -100,7 +114,7 @@ If you’re hunting for this specific variant, your best bet is to keep an eye o
 
 Buying options and affiliate partners
 
-For readers who want a quick route to purchasing, consider using reputable retailers that carry licensed UNO editions or checking the official license holders’ shop pages from time to time. If you want to support Geeknite directly, our recommended route is to visit our affiliate partner—where a portion of your purchase helps support more nerdy content like this review. 
+For readers who want a quick route to purchasing, consider using reputable retailers that carry licensed UNO editions or checking the official license holders’ shop pages from time to time. If you want to support Geeknite directly, our recommended route is to visit our affiliate partner—where a portion of your purchase helps support more nerdy content like this review.
 
 Special thanks to the community
 

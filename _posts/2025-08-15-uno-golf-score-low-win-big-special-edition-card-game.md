@@ -1,4 +1,4 @@
----
+﻿---
 title: UNO Golf Score Low Win BIG Special Edition Card Game (2025 Mattel)
 date: "2025-08-15"
 tags:
@@ -113,7 +113,7 @@ If you’ve spent time with classic UNO, UNO Flip!, or other UNO spin-offs, you�
 - Compared to UNO Flip!: UNO Flip! introduces dual-sides and more dramatic color-changes. Golf Edition focuses on the consistency of score and hole-based play, with fewer flip-table moments and more “heck yeah, I nailed a par card” moments.
 - Compared to UNO Dare or UNO Emoji: These variants lean into social interaction and light party vibes. Golf Edition sits in between—still social, still light-hearted, but with a touch of strategy that can satisfy longer gaming sessions.
 
-If you want more UNO history or comparisons, you can skim our prior posts for a broader context here: [Read our previous UNO classic review]({% post_url 2024-01-15-uno-classic-review.md %}) and [A look at UNO Flip and its bold design choices]({% post_url 2024-11-02-uno-flip-review.md %}). You know, because your curiosity loves cross-pollination between card games and slightly-bingeworthy themes.
+If you want more UNO history or comparisons, you can skim our prior posts for a broader context here: [Read our previous UNO classic review]({{ site.constants.wsib }}uno classic review) and [A look at UNO Flip and its bold design choices]({{ site.constants.wsib }}uno flip review). You know, because your curiosity loves cross-pollination between card games and slightly-bingeworthy themes.
 
 
 ## Artwork, theme, and accessibility
@@ -160,8 +160,8 @@ For fans who want to dig deeper, the official product page is a nice starting po
 - Mattel UNO Golf official product page: https://www.mattel.com/en-us/products/uno-golf
 
 If you’re curious about how our community at Geeknite covers UNO variants and keeps the conversation fresh, browse these related posts to get a sense of tone and style:
-- Read our previous UNO classic review: [Read our previous UNO classic review]({% post_url 2024-01-15-uno-classic-review.md %})
-- A look at UNO Flip and its bold design choices: [A look at UNO Flip and its bold design choices]({% post_url 2024-11-02-uno-flip-review.md %})
+- Read our previous UNO classic review: [Read our previous UNO classic review]({{ site.constants.wsib }}uno classic review)
+- A look at UNO Flip and its bold design choices: [A look at UNO Flip and its bold design choices]({{ site.constants.wsib }}uno flip review)
 
 
 ## Final recommendation: should you grab UNO Golf Score Low Win BIG!?

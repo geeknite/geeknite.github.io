@@ -1,7 +1,6 @@
----
+﻿---
 title: 'MTG Kaldheim 2021: You Choose'
 date: 2021-02-28 12:00:00 -0000
-layout: post
 tags:
   - MTG
   - Kaldheim
@@ -72,7 +71,7 @@ Snow-based archetypes, while flavorful, can struggle to punch through top-tier a
 
 The You Choose ethos is about empowering players to shape their own experience. In Kaldheim, you choose when and how to apply foretell, you choose which snow synergies to pursue, and you choose how aggressive or patient you want to be in any given game. This is not merely flavor; it is a practical invitation to customize your approach on the fly. The design rewards players who take control of the pacing of the match and who can balance risk and reward across multiple turns. If you like to feel like you are steering the ship rather than merely riding the waves, you will find Kaldheim satisfying in a way that many sets do not achieve.
 
-If you want to see how this philosophy translates into real gameplay, you can also check out a couple of our earlier posts that explore similar themes. For a broader discussion of how we approach these design choices, see {% post_url 2021-02-14-mtg-kaldheim-pillars %} and {% post_url 2021-02-10-kaldheim-lore-meets-mechanics %}. These pieces complement this review by offering a closer look at the set’s core ideas and their practical implications on the table.
+If you want to see how this philosophy translates into real gameplay, you can also check out a couple of our earlier posts that explore similar themes. For a broader discussion of how we approach these design choices, see {{ site.constants.wsib }}mtg kaldheim pillars and {{ site.constants.wsib }}kaldheim lore meets mechanics. These pieces complement this review by offering a closer look at the set’s core ideas and their practical implications on the table.
 
 ### Practical picks: value and performance in Kaldheim
 
@@ -115,8 +114,8 @@ Kaldheim is a set that rewards thoughtful planning, precise timing, and a willin
 
 ### Quick links to related posts
 
-- {% post_url 2021-02-14-mtg-kaldheim-pillars %}
-- {% post_url 2021-02-10-kaldheim-lore-meets-mechanics %}
+- {{ site.constants.wsib }}mtg kaldheim pillars
+- {{ site.constants.wsib }}kaldheim lore meets mechanics
 - Official Kaldheim page: https://magic.wizards.com/en/products/kaldheim
 
 ### Visuals and media

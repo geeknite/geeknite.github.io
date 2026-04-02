@@ -1,4 +1,4 @@
----
+﻿---
 title: "MTG: Teferi, Time Raveler (LP): War of the Spark"
 date: 2024-06-22
 tags:
@@ -85,7 +85,7 @@ If you’re the kind of player who enjoys turning the tempo wheel, Teferi is you
 - Balance draw with threats: The instant and sorcery density should support your ability to keep the engine running without diluting your threats’ quality.
 - Be mindful of removal-heavy metagames: If your metagame is full of hard removal, you’ll want alternate win conditions or redundancy in your threats.
 
-For players curious about the broader ecosystem of planeswalker tempo, consider checking out my earlier exploration of planeswalker tempo strategies in this post: {% post_url 2019-11-04-planeswalker-tempo-meta %}. If you’d like a sense of how War of the Spark environments shift with time-themed cards, you can also glance at my set retrospective post: {% post_url 2019-07-20-war-of-the-spark-set-review %}.
+For players curious about the broader ecosystem of planeswalker tempo, consider checking out my earlier exploration of planeswalker tempo strategies in this post: {{ site.constants.wsib }}planeswalker tempo meta. If you’d like a sense of how War of the Spark environments shift with time-themed cards, you can also glance at my set retrospective post: {{ site.constants.wsib }}war of the spark set review.
 
 ## Flavor Text, Art, and Cultural Impact: Why Teferi Feels Right for War of the Spark
 
@@ -101,8 +101,8 @@ If you’re a fan of the historical arc of control decks in MTG, Teferi is a you
 
 ## Further Reading and Community Notes (Internal Links)
 
-- For a broader take on how tempo interacts with planeswalker design, see my older piece on planeswalker tempo: {% post_url 2019-11-04-planeswalker-tempo-meta %}.
-- If you’re curious about War of the Spark’s broader color balance and card archetypes, check this retrospective: {% post_url 2019-07-20-war-of-the-spark-set-review %}.
+- For a broader take on how tempo interacts with planeswalker design, see my older piece on planeswalker tempo: {{ site.constants.wsib }}planeswalker tempo meta.
+- If you’re curious about War of the Spark’s broader color balance and card archetypes, check this retrospective: {{ site.constants.wsib }}war of the spark set review.
 - External resources for a look at official card details and art can be found here:
   - Official card page: https://magic.wizards.com/en/cards/teferi-time-raveler
   - MTG Wiki entry: https://mtg.fandom.com/wiki/Teferi,_Time_Raveler

@@ -1,5 +1,5 @@
----
-ttitle: Exploding Kittens: A Card Game For Those Who Love Kittens (Asmodee 2018)
+﻿---
+title: "Exploding Kittens: A Card Game For Those Who Love Kittens (Asmodee 2018)"
 date: 2018-04-12
 tags: [board games, card games, humor, kittens, Asmodee, Exploding Kittens, party games]
 ---
@@ -59,7 +59,7 @@ Tips for the first timer:
 - The moment you realize a Defuse is in your hand is the moment you learn to appreciate not drawing the kitten on the next turn. Stay calm; your cat just saved your ego.
 - In a pinch, a well-timed Attack can flip the table away from you and toward your more reckless friends. Embrace the chaos, but don’t become the chaotic neutral you fear you might be.
 
-For a deeper dive into how the card dynamics shape the late-game decision-making, see our post on party-game pacing and risk management: [Deeper dive into card draw mechanics]({% post_url 2018-04-12-exploding-kittens-review.html %}).
+For a deeper dive into how the card dynamics shape the late-game decision-making, see our post on party-game pacing and risk management: [Deeper dive into card draw mechanics]({{ site.constants.wsib }}exploding kittens review.html).
 
 ---
 
@@ -113,7 +113,7 @@ One of Exploding Kittens’ sharpest strengths is accessibility. The rules are q
 
 From a family-friendly standpoint, Exploding Kittens lands in a good space. It’s not a game you’d want to teach to small children (there are some adult-oriented jokes in the NSFW expansions), but for late elementary and older kids with supervision, it can be a hilarious gateway into tabletop gaming. The short play time makes it ideal for a quick family game before dinner, a hot game after a long day, or a playful “let’s break the ice” activity at a casual party. The kitten theme keeps the atmosphere light, and the quick rounds mean you’re not trapped in a strategic slog for hours on end.
 
-If you’re hunting for a more heavily strategic party game, you’ll want to pair Exploding Kittens with other options on our list of best party games, such as quick and sharp social-deduction titles or bluffing games that don’t rely on a single card mechanic. For those curious about how Exploding Kittens fits into the broader party-game landscape, check our post: [Best party games to mix with your usual suspects]({% post_url 2018-02-20-best-party-games-for-small-groups.html %}).
+If you’re hunting for a more heavily strategic party game, you’ll want to pair Exploding Kittens with other options on our list of best party games, such as quick and sharp social-deduction titles or bluffing games that don’t rely on a single card mechanic. For those curious about how Exploding Kittens fits into the broader party-game landscape, check our post: [Best party games to mix with your usual suspects]({{ site.constants.wsib }}best party games for small groups.html).
 
 ---
 
@@ -125,7 +125,7 @@ Exploding Kittens isn’t just a base deck with some cute cards. The ecosystem h
 - NSFW expansion: For groups that want the humor to lean into irreverent territory. This one isn’t for kids or workplaces with sensitive ears, so plan accordingly.
 - Party Pack and additional promo cards: The party variants make the game even more chaotic and social, which suits big crowds that like to talk over the table and make deals with each other.
 
-If you’re curious about how these expansions affect pacing and game length, or you want recommendations on which expansions fit your group’s vibe, we’ve covered that in a companion piece: [Expansions and their impact on game length]({% post_url 2018-05-14-exploding-kittens-expansions-review.html %}).
+If you’re curious about how these expansions affect pacing and game length, or you want recommendations on which expansions fit your group’s vibe, we’ve covered that in a companion piece: [Expansions and their impact on game length]({{ site.constants.wsib }}exploding kittens expansions review.html).
 
 ---
 
@@ -151,8 +151,8 @@ If you’re curious about how these expansions affect pacing and game length, or
 If you’re looking to add Exploding Kittens to your next game night, the 2018 Asmodee edition is widely available both online and in brick-and-mortar stores. The best approach is to pick up a copy that includes the base deck and, if you want to push the party vibe further, consider the expansions or a Party Pack to scale the chaos. Local conventions, board-game cafés, and community centers often stock this title for quick demos, so you don’t have to gamble your money on a full buy-in before you know you’ll actually enjoy the vibe with your group.
 
 For readers who love reviews that provide a little more than “it’s fun,” we’ve got a handful of related reads you might enjoy:
-- If you’re curious about balancing humor with play rhythm in party games, check our guide: [Balancing humor and tempo in party games]({% post_url 2018-03-08-humor-and-tempo-in-party-games.html %}).
-- For a broader look at cat-themed games and why they’re a thing, see: [The cat-approved section of modern tabletop gaming]({% post_url 2018-02-02-cat-themed-games.html %}).
+- If you’re curious about balancing humor with play rhythm in party games, check our guide: [Balancing humor and tempo in party games]({{ site.constants.wsib }}humor and tempo in party games.html).
+- For a broader look at cat-themed games and why they’re a thing, see: [The cat-approved section of modern tabletop gaming]({{ site.constants.wsib }}cat themed games.html).
 
 If you’re ready to dive in, here are direct (affiliate-friendly) entry points:
 - Official Exploding Kittens store page: https://www.explodingkittens.com/

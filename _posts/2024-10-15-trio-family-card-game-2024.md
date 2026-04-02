@@ -1,4 +1,4 @@
----
+﻿---
 ttitle: "Trio Family Card Game 2024 - Gioco dell'Anno candidato, divertente party game per 3-6"
 date: 2024-10-15
 tags: [board games, family, party game, 3-6 players, gioco dell'anno, recensione]
@@ -66,9 +66,9 @@ Trio è molto versatile: può integrarsi bene in serate a tema, come una notte d
 - Background sul bluffing: https://en.wikipedia.org/wiki/Bluffing
 
 ### Contenuti Geeknite correlati (post_url)
-- [Guida ai party games per 3-6 giocatori]({% post_url 2024-02-15-guide-party-games-3-6 %})
-- [Recensione: Top 5 giochi familiari 2023]({% post_url 2023-11-10-family-games-top-5 %})
-- [Analisi di bluff e psicologia sociale nei giochi da tavolo]({% post_url 2023-05-22-bluff-psychology-games %})
+- [Guida ai party games per 3-6 giocatori]({{ site.constants.wsib }}guide party games 3 6)
+- [Recensione: Top 5 giochi familiari 2023]({{ site.constants.wsib }}family games top 5)
+- [Analisi di bluff e psicologia sociale nei giochi da tavolo]({{ site.constants.wsib }}bluff psychology games)
 
 ### Suggerimenti per la serata Trio
 - Rotazione di ruoli: assigna un ruolo tematico (es. detective, esploratore, capitano) per una mano per aumentare l'interazione.

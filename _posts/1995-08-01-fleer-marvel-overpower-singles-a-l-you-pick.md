@@ -110,8 +110,8 @@ Here is a compact playbook to make your A–L picks sing on the table, regardles
 
 If you want to see how these ideas translate into actual play, we’ve linked a couple of our favorite related posts below. They’re not formal rulebooks, but they’re the kind of insights that make you smile while you shuffle.
 
-- See our broader OverPower rule explorations: {% post_url 2024-12-01-core-overpower %}
-- For a nostalgia-driven look at iconic cards and their flavor text, check out our retrospective posts: {% post_url 2023-03-15-top-overpower-archetypes %}
+- See our broader OverPower rule explorations: {{ site.constants.wsib }}core overpower
+- For a nostalgia-driven look at iconic cards and their flavor text, check out our retrospective posts: {{ site.constants.wsib }}top overpower archetypes
 
 ## Collectability and value: what the A–L subset means for collectors
 The 90s was a golden era for collectible card games, and OverPower had that distinctive feel—the card stock, the glossy art, and the occasional misprint that became a badge of honor for collectors. In the A–L singles, you’ll find a mix of common, uncommon, and rare cards, with foil variants often going for a premium on the right day at the right show. For today's fans, three considerations matter:

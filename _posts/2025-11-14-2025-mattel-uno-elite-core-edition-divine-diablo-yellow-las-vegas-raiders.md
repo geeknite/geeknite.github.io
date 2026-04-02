@@ -1,4 +1,4 @@
----
+﻿---
 title: "UNO Elite Core Edition: Divine Diablo x Las Vegas Raiders in Yellow"
 date: 2025-11-14
 tags: ["toys", "board-games", "UNO", "NFL", "licensing", "raiders", "gift-guide", "review"]
@@ -95,8 +95,8 @@ The UNO Elite Core Edition: Divine Diablo Yellow with Las Vegas Raiders branding
 ![](/assets/images/uno-elite-core-raiders-back.jpg)
 
 For more UNO coverage and to explore how we rate different editions, check out our previous posts:
-- [UNO Classic Edition Review]({% post_url 2024-05-10-uno-classic-edition %})
-- [UNO Family Pack vs Party Pack]({% post_url 2023-11-01-uno-family-vs-party %})
-- [NBA/NFL Licensed Decks: A Quick Guide]({% post_url 2022-09-15-licensed-decks-guide %})
+- [UNO Classic Edition Review]({{ site.constants.wsib }}uno classic edition)
+- [UNO Family Pack vs Party Pack]({{ site.constants.wsib }}uno family vs party)
+- [NBA/NFL Licensed Decks: A Quick Guide]({{ site.constants.wsib }}licensed decks guide)
 
 If you enjoyed this in-depth take, let us know in the comments or through a social post; your feedback helps us decide which license-crazy decks deserve the Geeknite spotlight next. Happy drawing and may your hand be ever in your favor (and preferably yellow).

@@ -1,4 +1,4 @@
----
+﻿---
 ttitle: "QNAP QXG-10G1T: A Lone Wolf of 10GbE Copper"
 date: 2024-11-01 12:00:00 -0000
 tags:
@@ -108,8 +108,8 @@ If you’re debating between copper 10G and fiber, copper wins on convenience an
 
 ## Links to other Geeknite posts (for the curious minds)
 
-- For a broader NAS networking overview and how to optimize your home-lab, see {% post_url 2024-03-02-gigabit-ethernet-to-10gb-performance-step-up %}.
-- If you’re building a budget-conscious homelab and need gear suggestions, check out {% post_url 2024-10-14-building-a-cheap-homelab %}.
+- For a broader NAS networking overview and how to optimize your home-lab, see {{ site.constants.wsib }}gigabit ethernet to 10gb performance step up.
+- If you’re building a budget-conscious homelab and need gear suggestions, check out {{ site.constants.wsib }}building a cheap homelab.
 
 External resources you might find helpful:
 - QNAP product page: https://www.qnap.com/en-us/product/QXG-10G1T

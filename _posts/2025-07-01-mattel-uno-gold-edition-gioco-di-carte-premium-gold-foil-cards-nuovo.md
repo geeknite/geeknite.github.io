@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mattel UNO GOLD Edition: Gioco di Carte Premium con Foil Dorati (Nuovo)"
 date: "2025-07-01"
 tags:
@@ -21,7 +21,7 @@ Per chi cerca una sintesi rapida: se sei un fan di UNO ma sei anche l quando arr
 
 Lunghi anni di test sul tavolo di Geeknite ci hanno insegnato che una edizione premium non è sempre ragione sufficiente per giustificare un prezzo extra. Questa volta però il pacchetto si presenta con un equilibrio tra brillantezza e praticità, tra estetica e giocabilità, tra wow visivo e carico di regole di base che restano fedeli a UNO. Prima di entrare nel dettaglio, lanciamo una nota sull’aspetto pratico: la GOLD Edition non è un gioco da mettere in una teca e mai toccare. È un gioco che pretende di essere giocato, apprezzato e magari condiviso con amici che non sanno se in tavola esiste una cromatura dorata oppure una scorciatoia di colore.
 
-> Per approfondire orientamenti di stile e passato di UNO, dai un occhiata anche al nostro profilo di guide: [Guida UNO principi]({% post_url 2024-07-10-uno-principi %}) e [Recensione: UNO Classico]({% post_url 2024-05-22-uno-classico %}).
+> Per approfondire orientamenti di stile e passato di UNO, dai un occhiata anche al nostro profilo di guide: [Guida UNO principi]({{ site.constants.wsib }}uno principi) e [Recensione: UNO Classico]({{ site.constants.wsib }}uno classico).
 
 ## Contenuti della confezione e unboxing
 
@@ -132,7 +132,7 @@ Dunque, se vuoi acquistare con una mentalità spender una piccola parte di budge
 
 ## Note finali e raccomandazione di lettura
 
-- Se vuoi approfondire ulteriormente l atmosfera di UNO in altre versioni, dai un occhiata alle guide/recensioni correlate sul nostro blog: [Guida UNO principi]({% post_url 2024-07-10-uno-principi %}) e [Recensione: UNO Classico]({% post_url 2024-05-22-uno-classico %}).
+- Se vuoi approfondire ulteriormente l atmosfera di UNO in altre versioni, dai un occhiata alle guide/recensioni correlate sul nostro blog: [Guida UNO principi]({{ site.constants.wsib }}uno principi) e [Recensione: UNO Classico]({{ site.constants.wsib }}uno classico).
 - Per chi è curioso di espositori e collezionabili, mordi il link ufficiale di Mattel per verificare disponibilità e bundle in tempo reale, anche se l etichetta dorata non è per tutti i banconi: https://www.mattel.com/en-us/products/uno
 - Per una scelta di acquisto consapevole, controlla le recensioni di utenti e le foto reali della confezione in ambienti di gioco reali prima di investire, per capire se il peso e la fotogenia dorata si adattano al tuo tavolo.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Jamar Chase 2025 UNO Elite CORE Dual Color Foil Green Yellow SSP Review"
 date: 2025-11-30 10:00:00 -0000
 tags: [cards, sports, UNO Elite, foil, SSP, Jamar Chase, trading cards, review, geek culture]
@@ -103,12 +103,12 @@ If you’re hungry for more, you can explore similar topics in broader hobby cir
 
 For related posts on Geeknite’s site that touch on similar vibes, here are some quick pointers to check out (using our internal post URL system so you can jump between discussions easily):
 
-- [UNO Elite and CORE: A Deep Dive]({% post_url 2024-11-17-uno-elite-core-deep-dive %})
-- [Foil Psychology: Why Collectors Love Shine]({% post_url 2023-08-04-foil-psychology-why-collectors-love-shine %})
-- [Displaying Your Collection: Cabinets, Binders, and the Aesthetic]({% post_url 2025-03-22-displaying-collection-aesthetics %})
-- [Getting Into Grading: A Beginner’s Guide]({% post_url 2022-09-10-beginners-guide-grading-cards %})
+- [UNO Elite and CORE: A Deep Dive]({{ site.constants.wsib }}uno elite core deep dive)
+- [Foil Psychology: Why Collectors Love Shine]({{ site.constants.wsib }}foil psychology why collectors love shine)
+- [Displaying Your Collection: Cabinets, Binders, and the Aesthetic]({{ site.constants.wsib }}displaying collection aesthetics)
+- [Getting Into Grading: A Beginner’s Guide]({{ site.constants.wsib }}beginners guide grading cards)
 
-If you’re curious how the UNO Elite CORE line ties into broader card-culture discussions, you can also hop over to the latest “Crossover Cards” feature (a hypothetical cross-brand thought experiment) via this link: [Crossover Card Speculations]({% post_url 2025-07-01-crossover-card-speculations %}).
+If you’re curious how the UNO Elite CORE line ties into broader card-culture discussions, you can also hop over to the latest “Crossover Cards” feature (a hypothetical cross-brand thought experiment) via this link: [Crossover Card Speculations]({{ site.constants.wsib }}crossover card speculations).
 
 ## Community Voice: Fan Reactions and The Great Foil Debate
 

@@ -23,7 +23,7 @@ La expansión Unhappy Homes para Gloom trae una cosecha de cartas que amplían e
 
 En resumen: Unhappy Homes añade capas temáticas y mecánicas que encajan con el humor negro del título sin traicionar la simplicidad que ha hecho famoso a Gloom. No es una expansión que te obligue a reromper el reglamento, sino una ampliación elegante que te ofrece más opciones para construir tragedias familiares con estilo. Si el objetivo es hacer que el resto de la mesa se ría hasta que se les caiga la carta de la boca, esta expansión está hecha para ti.
 
-> Enlaces para ampliar tu universo: para quienes quieren leer reseñas de base o explorar variaciones de juego, echa un vistazo a [Gloom base en Geeknite]({% post_url 2025-04-15-gloom-resena-base %}) y [Cómo jugar Gloom con amigos]({% post_url 2025-11-22-gloom-juego-amigos %}). También puedes consultar información externa sobre el juego en [BoardGameGeek - Gloom Unhappy Homes]https://boardgamegeek.com/boardgame/21674/gloom-unhappy-homes).
+> Enlaces para ampliar tu universo: para quienes quieren leer reseñas de base o explorar variaciones de juego, echa un vistazo a [Gloom base en Geeknite]({{ site.constants.wsib }}gloom resena base) y [Cómo jugar Gloom con amigos]({{ site.constants.wsib }}gloom juego amigos). También puedes consultar información externa sobre el juego en [BoardGameGeek - Gloom Unhappy Homes]https://boardgamegeek.com/boardgame/21674/gloom-unhappy-homes).
 
 ## Componentes y presentación: ¿vale la pena el material?
 La presentación física de Unhappy Homes mantiene la calidad habitual de Gloom: cartas de card stock rígido, bordes limpios y un arte que juega con sombras y colores desaturados para reforzar la sensación de melancolía. En estos casos, la experiencia visual no es solo estética; funciona como motor del ritmo narrativo. Los nuevos artefactos y objetos aportan pequeños destellos de color que logran separar el momento de estar llorando por la desgracia del personaje y el momento de hacer una jugada que podría cambiar la partida.
@@ -94,8 +94,8 @@ Si te gustó Gloom pero querías un poco más de narrativa y sorpresas, Unhappy 
 La lógica de Gloom es simple en apariencia: cuantas más desgracias, más puntos de victoria para ti cuando las cartas de tus rivales se derrumban. La expansión Unhappy Homes añade capas temáticas sin convertir el juego en una ensalada de reglas. Es como haber puesto una banda sonora de cine de terror suave mientras ves a los vecinos discutir por la última carta de una casa encantada. Si hay una recomendación clara, es esta: añade Unhappy Homes a tu colección si lo que buscas es una experiencia de juego más rica, con más narrativa y un toque de absurdo sombrío que haga sonreír a la vez que te retuerce el estómago catar de la risa.
 
 ## Enlaces y referencias dentro de Geeknite
-- Reseña de Gloom base: [Gloom base en Geeknite]({% post_url 2025-04-15-gloom-resena-base %})
-- Cómo jugar Gloom con amigos: [Guía de juego para grupos]({% post_url 2025-11-22-gloom-juego-amigos %})
+- Reseña de Gloom base: [Gloom base en Geeknite]({{ site.constants.wsib }}gloom resena base)
+- Cómo jugar Gloom con amigos: [Guía de juego para grupos]({{ site.constants.wsib }}gloom juego amigos)
 - Revisión externa: [BoardGameGeek - Gloom Unhappy Homes]https://boardgamegeek.com/boardgame/21674/gloom-unhappy-homes
 
 ## Recomiendo para ti, lector, una última palabra

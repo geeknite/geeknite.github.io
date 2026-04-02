@@ -1,4 +1,4 @@
----
+﻿---
 title: '2025 Mattel UNO Elite Core Edition - YaYa Diaby Yellow Tampa Bay Buccaneer'
 date: 2025-09-10 12:00:00 -0000
 tags: [games, board-games, UNO, Mattel, pop-culture, football, collaborations]
@@ -16,8 +16,8 @@ For those who feast on product breakdowns, you’re in for a delightfully nerdy 
 External note: if you want to skim the official marketing blurb or check out Mattel’s hardware specs, you can glance at the official UNO page here: https://www.mattelgames.com/uno. For the connoisseurs who like to compare different editions, there’s also a robust companion on BoardGameGeek with user-submitted photos and comments.
 
 If you’ve come here from another post and want the straight-to-the-point comparisons, you can also hop over to our classic UNO review and the broader editions breakdown through these links (these are internal posts, used for navigation, not citations):
-- [Earlier UNO review]({% post_url 2024-07-12-mattel-uno-review %})
-- [UNO Editions Breakdown]({% post_url 2024-12-10-uno-editions-breakdown %})
+- [Earlier UNO review]({{ site.constants.wsib }}mattel uno review)
+- [UNO Editions Breakdown]({{ site.constants.wsib }}uno editions breakdown)
 - [YaYa Diaby profile]( { % post_url 2025-04-02-yaya-diab-y-profile % } )
 
 For those who just want to dive in, the rest of this article will cover unboxing, components, rule changes, and play-through experiences with the YaYa Diaby Yellow Buccaneer edition.
@@ -124,9 +124,9 @@ The 2025 Mattel UNO Elite Core Edition with YaYa Diaby and the Yellow Tampa Bay 
 If you’re shopping for a friend who loves football and board games or if you’re a self-proclaimed collector of UNO variants who enjoys a high-spirited, bright-yellow aesthetic, this edition is worth a closer look. It doesn’t pretend to be a full ecosystem of rule changes; it offers enough to refresh a handful of rounds and inject a little extra shine into your party lineup without wrecking the core UNO experience you already know and love.
 
 For those who want to revisit older editions or dive deeper into UNO’s variations, you can explore related posts:
-- [Classic UNO Recap]({% post_url 2024-03-10-classic-uno-recap %})
-- [UNO Editions Breakdown]({% post_url 2024-12-10-uno-editions-breakdown %})
-- [YaYa Diaby Spotlight]({% post_url 2025-04-02-yaya-diab-y-profile %})
+- [Classic UNO Recap]({{ site.constants.wsib }}classic uno recap)
+- [UNO Editions Breakdown]({{ site.constants.wsib }}uno editions breakdown)
+- [YaYa Diaby Spotlight]({{ site.constants.wsib }}yaya diab y profile)
 
 ### Final recommendation
 If you value a polished, themed, and genuinely enjoyable party game experience, the 2025 UNO Elite Core Edition featuring YaYa Diaby and the Yellow Buccaneer vibe earns a solid recommendation. It’s not a mandatory upgrade for every UNO household, but if you’re the kind who loves a little flair, a touch of sports-season energy, and a handful of new momentum-driven moments, this edition has your back. It’s a vibrant addition to game night, a conversation starter, and a reminder that even a simple card game can feel like slipping into a new chapter of a beloved franchise when the design and theme align just right.

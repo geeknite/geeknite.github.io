@@ -1,4 +1,4 @@
----
+﻿---
 title: Cards Against Humanity Aggiornato 2024, Un Party Game per Persone Orribili Nuovo Sigillato
 date: 2024-12-01 12:00:00 +0000
 tags:
@@ -28,7 +28,7 @@ Il set base include le carte nere e bianche, una guida rapida e un piccolo vadem
 ### Aspetto e materiale
 La grafica aggiornata mantiene l estetica iconica di CAH ma con un tocco moderno. I colori sono vivaci ma non stancanti, e la leggibilita del testo e migliore rispetto alle versioni piu vecchie. Se sei un collezionista, la nuova etichettatura e sigillo fanno sentire il pacco come una piccola reliquia da aprire in una notte di gaming. 
 
-> Per un confronto tra stili di humor e dinamiche sociali nel party game, dai un occhiata al post su Wavelength: {% post_url 2024-01-15-wavelength-review %}.
+> Per un confronto tra stili di humor e dinamiche sociali nel party game, dai un occhiata al post su Wavelength: {{ site.constants.wsib }}wavelength review.
 
 ## Contenuto e confezione: dettaglio pratico
 ### Cosa contiene la scatola sigillata
@@ -70,9 +70,9 @@ La versione sigillata di CAH aggiornata al 2024 e una scelta solida per chi ama 
 
 ## Note finali e collegamenti utili
 - Sito ufficiale CAH: https://cardsagainsthumanity.com
-- Recensione su Wavelength: {% post_url 2024-01-15-wavelength-review %}
-- Guida a Dixit: {% post_url 2023-11-02-dixit-guide %}
-- Post correlato su gioco di gruppo: {% post_url 2024-06-20-game-night-2-0 %}
+- Recensione su Wavelength: {{ site.constants.wsib }}wavelength review
+- Guida a Dixit: {{ site.constants.wsib }}dixit guide
+- Post correlato su gioco di gruppo: {{ site.constants.wsib }}game night 2 0
 
 **Se vuoi supportare Geeknite e ottenere accesso a contenuti esclusivi, usa il link affiliato qui sotto.**
 

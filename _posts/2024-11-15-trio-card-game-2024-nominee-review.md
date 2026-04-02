@@ -1,4 +1,4 @@
----
+﻿---
 title: Trio Card Game 2024 Nominee — Fun Party Game for 3-6 Players
 date: 2024-11-15
 tags:
@@ -17,7 +17,7 @@ Below you will find a deep dive into what makes Trio tick, what it does not, and
 ![Trio Card Game Artwork](/assets/images/trio-card-game-2024.jpg)
 ![Trio Components](/assets/images/trio-components.jpg)
 
-For quick context about prior work in this niche, you can peek at {% post_url 2023-02-10-trio-card-game-review %} and {% post_url 2024-04-02-party-night-overview %} to see how Trio stacks up against the earlier wave of three to six player party games. Additionally, if you want to compare Trio to a broader field, check our external write ups on the official site and board game databases linked later in this post.
+For quick context about prior work in this niche, you can peek at {{ site.constants.wsib }}trio card game review and {{ site.constants.wsib }}party night overview to see how Trio stacks up against the earlier wave of three to six player party games. Additionally, if you want to compare Trio to a broader field, check our external write ups on the official site and board game databases linked later in this post.
 
 ## Unboxing and components
 ### What you get
@@ -97,8 +97,8 @@ Trio Card Game lands as a strong nominee in the 2024 field for party oriented ga
 - For broader context, see our tie in posts about similar games in the same year and the nominees in the party game sphere.
 
 ## Links to other Geeknite posts
-- A previous Trio related review: [Trio Card Game 2023 retrospective]({% post_url 2023-02-10-trio-card-game-review %})
-- A broader party night overview: [Party Night Essentials 2024]({% post_url 2024-09-01-party-night-overview %})
+- A previous Trio related review: [Trio Card Game 2023 retrospective]({{ site.constants.wsib }}trio card game review)
+- A broader party night overview: [Party Night Essentials 2024]({{ site.constants.wsib }}party night overview)
 
 ## Final thoughts
 If you are scanning for a sociable, quick to teach, and genuinely amusing party game for a 3 to 6 player table, Trio is a worthy candidate. It honors its nominative intent with a trio of card types that keep interactions varied across rounds, while the social layer remains the star of the show. The production quality is solid, the art lands with charm, and the play rhythm is inviting for regular game nights without demanding a heavy commitment from players new to the hobby. It is not a miracle cure for every bored party moment, but it is a reliable, friendly, and occasionally unexpectedly sharp title that can anchor a casual night with vibrancy and humor.

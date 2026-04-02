@@ -1,4 +1,4 @@
----
+﻿---
 title: 2025 UNO NFL Elite Core Edition Wild Foil Flux Will McDonald IV SP — Geeknite Review
 date: 2025-11-01
 tags:
@@ -72,7 +72,7 @@ A card like this deserves display gear that respects its value and its shine. He
 - Lighting matters. A balanced desk lamp with adjustable brightness will reveal the Flux pattern in all its glory without washing out the image. If you can swing it, a gentle, cool light enhances the holographic aura without creating a blob of glare on the surface.
 - Storage environment matters. Keep the card in a climate-controlled area away from direct sunlight. UV exposure can dull foil finishes over time, which is the collector equivalent of letting your plant photosynthesize in a sunlit window while neglecting it for weeks.
 
-If you want to upgrade your display setup, you can explore our post on DIY display ideas for premium cards, including some clever builds and budget-friendly options. See it here: [DIY premium card displays]({% post_url 2024-03-21-diy-premium-card-displays %}).
+If you want to upgrade your display setup, you can explore our post on DIY display ideas for premium cards, including some clever builds and budget-friendly options. See it here: [DIY premium card displays]({{ site.constants.wsib }}diy premium card displays).
 
 ## Comparisons: Standout Alternatives in the Elite Core Universe
 
@@ -88,13 +88,13 @@ The collector journey begins with verifying the card’s edition, print run, and
 - Use a card-tracking approach. Keep a simple spreadsheet of the card’s purchase date, price, and observed market value. It helps you see trends over time and avoid emotional buying that hurts your wallet later.
 - Network with fellow collectors through forums or local card shows. The conversation can yield tips about print runs, distribution, and where to find the best deals.
 
-For deeper dives into the tradecraft of premium cards, you can review our guide on collecting premium football cards and the ethics of buying and selling high-value collectibles. See our guide here: [Premium football card collecting essentials]({% post_url 2023-09-07-premium-football-card-essentials %}).
+For deeper dives into the tradecraft of premium cards, you can review our guide on collecting premium football cards and the ethics of buying and selling high-value collectibles. See our guide here: [Premium football card collecting essentials]({{ site.constants.wsib }}premium football card essentials).
 
 ## Related Posts and Internal References
 
 To keep the Geeknite universe cohesive, we link to related content using the post_url tag. If you want to explore similar topics or revisit older insights, check these posts:
-- A deeper dive into the Elite Core lineup and its design philosophy: {% post_url 2024-08-19-elite-core-design-philosophy %}
-- A beginner-friendly guide to collecting NFL cards with a sense of humor: {% post_url 2022-05-03-trading-cards-101 %}
+- A deeper dive into the Elite Core lineup and its design philosophy: {{ site.constants.wsib }}elite core design philosophy
+- A beginner-friendly guide to collecting NFL cards with a sense of humor: {{ site.constants.wsib }}trading cards 101
 
 Additionally, for fans who want an external read on the broader NFL card ecosystem, here are a couple of stalwart resources you can visit without fear of spoilers to the review content:
 - Official Jets player page for Will McDonald IV: https://www.newyorkjets.com/players/will-mcdonald-iv/

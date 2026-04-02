@@ -86,8 +86,8 @@ If you are into collecting, there are limited editions and variants that add ext
 ![UNO Stacko Travel Size Complete Set](https://example.com/images/uno-stacko-travel-size.jpg)
 
 ## See Also
-- See our retro toy reviews: [Retro Toy Reviews]({% post_url retro-toy-reviews %})
-- The portable games critique: [Portable Party Games]({% post_url portable-party-games %})
-- The 1990s arcade vibe in modern nostalgia gear: [1990s-arcade-vibe]({% post_url 1990s-arcade-vibe %})
+- See our retro toy reviews: 
+- The portable games critique: 
+- The 1990s arcade vibe in modern nostalgia gear: 
 
 **Buy UNO Stacko Travel Size Complete Set here: https://www.amazon.com/dp/B0000XYZ**

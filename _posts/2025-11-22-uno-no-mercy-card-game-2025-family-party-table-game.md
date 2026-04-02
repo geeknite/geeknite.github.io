@@ -112,7 +112,7 @@ External resources for research:
 - General UNO information: https://en.wikipedia.org/wiki/UNO
 - Community reviews: https://boardgamegeek.com/boardgame/2632/uno
 
-If you’re curious about how UNO variants stack up against other chaos-friendly party games, check out related Geeknite content in our posts: Read about [Top 10 Family Board Games]({{ post_url 2024-12-15-top-10-family-board-games }}) and discover [How to Host an Epic Game Night]({{ post_url 2025-02-10-host-epic-game-night }}) for practical hosting tips.
+If you’re curious about how UNO variants stack up against other chaos-friendly party games, check out related Geeknite content in our posts: Read about Top 10 Family Board Games and discover How to Host an Epic Game Night for practical hosting tips.
 
 ## Final Verdict and Recommendation
 UNO No Mercy 2025 is a strong choice for groups that embrace energy, social play, and a good-natured sense of chaos. It’s not ideal for players who crave a calm, strategic marathon; it’s tailor-made for lively family nights, party gatherings, and friends who enjoy playful banter. The Mercy cards provide the unique hook that sets this edition apart, delivering memorable moments you’ll be recounting for weeks. If you want a flexible, social, and fast-paced experience that scales with your group’s energy, UNO No Mercy deserves a place on your shelf—and your table tonight.
@@ -124,9 +124,9 @@ UNO No Mercy 2025 is a strong choice for groups that embrace energy, social play
 - Serious gamers seeking deep strategy: Not the right fit; keep it for quick, fun rounds between heavier titles.
 
 ## Where to find more content on Geeknite
-- Our hosting guide to a fun but manageable game night: [How to Host an Epic Game Night]({{ post_url 2025-02-10-host-epic-game-night }})
-- Gentle, family-friendly game suggestions: [Gentle Games for Cozy Nights In]({{ post_url 2024-08-04-gentle-games-cozy-nights }})
-- UNO variants and how they alter play: [UNO Variants: The Great Color Conspiracy]({{ post_url 2023-11-02-uno-variants }})
+- Our hosting guide to a fun but manageable game night: How to Host an Epic Game Night
+- Gentle, family-friendly game suggestions: Gentle Games for Cozy Nights In
+- UNO variants and how they alter play: UNO Variants: The Great Color Conspiracy
 
 External reference and inspiration:
 - Official UNO product page: https://shop.hasbro.com/en-us/UNO

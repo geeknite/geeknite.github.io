@@ -1,4 +1,4 @@
----
+﻿---
 title: UNO Disney Wish Asha & Friends Card Game Review
 date: 2023-12-01
 tags:
@@ -121,9 +121,9 @@ External links:
 
 ## See Also: Related Posts You Might Like
 
-- {% post_url 2023-04-07-arcade-games-roundup %}
-- {% post_url 2023-11-02-family-game-night-ideas %}
-- {% post_url 2024-02-10-best-quick-play-games %}
+- {{ site.constants.wsib }}arcade games roundup
+- {{ site.constants.wsib }}family game night ideas
+- {{ site.constants.wsib }}best quick play games
 
 ## Final Thoughts and Recommendation
 

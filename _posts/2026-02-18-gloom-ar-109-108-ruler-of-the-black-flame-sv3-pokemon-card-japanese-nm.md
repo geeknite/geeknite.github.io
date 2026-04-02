@@ -104,8 +104,8 @@ External resources for broader context:
 
 ## Links to related posts on Geeknite
 
-- A primer on card grading and why NM matters: {% post_url 2023-02-14-pokemon-card-grading-101 %}
-- How to evaluate price trends for Japanese TCGs: {% post_url 2024-12-01-japanese-tcg-values %}
+- A primer on card grading and why NM matters: {{ site.constants.wsib }}pokemon card grading 101
+- How to evaluate price trends for Japanese TCGs: {{ site.constants.wsib }}japanese tcg values
 
 ## Closing thoughts: is this card for you?
 

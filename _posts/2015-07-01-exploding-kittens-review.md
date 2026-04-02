@@ -5,7 +5,7 @@ tags: ['card games', 'review', 'Exploding Kittens', 'funny']
 description: "A hilarious and detailed review of Exploding Kittens Card Game. Find out why this game is a must-have for party game enthusiasts!"
 last_modified_at: "2026-04-01"
 redirect_from:
-	- /2024/11/exploding-kittens-review.html
+  - /2024/11/exploding-kittens-review.html
 ---
 
 ![Exploding Kittens](https://i.imgur.com/Jm8ynpT.jpg)

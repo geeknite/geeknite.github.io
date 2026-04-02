@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Cards Against Humanity: Holiday Pack 2021 — Geeknite Review'
 date: 2021-12-20 18:00:00 -0000
 tags:
@@ -116,8 +116,8 @@ Compared to other holiday or party game expansions, the 2021 edition stays true 
 ## Where to buy and official links
 
 - Official product page: https://cardsagainsthumanity.com/
-- Our previous explorations and related CAH posts: [Earlier CAH explorations]({% post_url 2020-12-15-cards-against-humanity-epic-review %})
-- Holiday season companion read: [Geeks and gifts guide 2021]({% post_url 2021-11-28-geeknite-holiday-guide %})
+- Our previous explorations and related CAH posts: [Earlier CAH explorations]({{ site.constants.wsib }}cards against humanity epic review)
+- Holiday season companion read: [Geeks and gifts guide 2021]({{ site.constants.wsib }}geeknite holiday guide)
 
 External links are provided for convenience; we do not endorse any particular retailer beyond basic availability. If you want the official experience, the best starting point is the official Cards Against Humanity site where you can confirm contents, compatibility with your base deck, and the current distribution status.
 

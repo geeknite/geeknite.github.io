@@ -1,4 +1,4 @@
----
+﻿---
 title: Monopoly Classic Edition Expansion Packs The 3 Pack That Actually Speeds Things Up
 date: 2024-03-18
 tags:
@@ -106,8 +106,8 @@ External links worth a look:
 
 ### Our recommended adjacent reads
 
-- For a broader look at how speed mechanics can transform classic games, check our feature: Monopoly Variants and House Rules That Actually Work. Read more here: [Monopoly Variants and House Rules That Actually Work]({% post_url 2023-11-07-geeknite-monopoly-variants %})
-- If you’re curious about the broader idea of “classic games modernized,” see our piece on Modernizing Retro Hits. Read more here: [Modernizing Retro Hits]({% post_url 2024-02-14-geeknite-modernized-retro-games %})
+- For a broader look at how speed mechanics can transform classic games, check our feature: Monopoly Variants and House Rules That Actually Work. Read more here: [Monopoly Variants and House Rules That Actually Work]({{ site.constants.wsib }}geeknite monopoly variants)
+- If you’re curious about the broader idea of “classic games modernized,” see our piece on Modernizing Retro Hits. Read more here: [Modernizing Retro Hits]({{ site.constants.wsib }}geeknite modernized retro games)
 
 ## Final thoughts: should you add this to your shelf?
 
@@ -134,8 +134,8 @@ If you want to explore more from our site, you might enjoy our post on quick-pla
 
 For more great reads, explore our related posts and keep the nerdy vibes alive. Happy gaming, folks, and may your profits be as imaginary as your patience is real.
 
-[Related: Monopoly Variants and House Rules That Actually Work]({% post_url 2023-11-07-geeknite-monopoly-variants %})
-[Modernizing Retro Hits]({% post_url 2024-02-14-geeknite-modernized-retro-games %})
+[Related: Monopoly Variants and House Rules That Actually Work]({{ site.constants.wsib }}geeknite monopoly variants)
+[Modernizing Retro Hits]({{ site.constants.wsib }}geeknite modernized retro games)
 
 External resource: Hasbro official page https://www.hasbro.com
 

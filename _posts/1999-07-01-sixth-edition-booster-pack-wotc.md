@@ -66,9 +66,9 @@ If you are contemplating opening a 1999 Sixth Edition booster today, here is a s
 ## Related Posts and Cross-References
 For those who like to trace a thread through time, consider these classic touches that pair well with Sixth Edition nostalgia:
 
-- Retro MTG pack openings and 90s collecting lore: [Retro pack openings and the culture of early MTG]({% post_url 2018-12-15-retro-pack-openings %})
+- Retro MTG pack openings and 90s collecting lore: 
 - The evolution of booster packaging design: a mini timeline you can actually hold in your hands
-- A broader look at Sixth Edition era gameplay and deck archetypes in a casual context: [Sixth Edition era play styles]({% post_url 2015-04-10-sixth-edition-play-styles %})
+- A broader look at Sixth Edition era gameplay and deck archetypes in a casual context: 
 
 For an external read on the set that stays focused on the era rather than the current market, you can visit the historical archive at MTG Wiki and other historical decks pages:
 - Sixth Edition on MTG Wiki: https://mtg.fandom.com/wiki/Sixth_Edition

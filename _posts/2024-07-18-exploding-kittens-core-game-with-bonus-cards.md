@@ -1,4 +1,4 @@
----
+﻿---
 title: "Exploding Kittens: Core Game with Bonus Cards – A Geeknite Review"
 date: 2024-07-18
 tags:
@@ -74,9 +74,9 @@ External anchors and related content you might enjoy
 - Official product and updates: https://www.explodingkittens.com/
 - A deep-dive page: https://boardgamegeek.com/boardgame/129225/exploding-kittens
 - Our related posts on the site that weave into this topic:
-  - UNO vs Exploding Kittens: A Quick Showdown. See: {% post_url 2024-02-01-uno-vs-exploding-kittens %}
-  - Exploding Kittens: History and Cat-ocracy. See: {% post_url 2023-11-20-exploding-kittens-history %}
-  - The Board Game Guide Index for more starters and guides. See: {% post_url 2024-05-10-board-game-guide-index %}
+  - UNO vs Exploding Kittens: A Quick Showdown. See: {{ site.constants.wsib }}uno vs exploding kittens
+  - Exploding Kittens: History and Cat-ocracy. See: {{ site.constants.wsib }}exploding kittens history
+  - The Board Game Guide Index for more starters and guides. See: {{ site.constants.wsib }}board game guide index
 
 Final notes and recommendations
 

@@ -17,7 +17,7 @@ Note: in the world of racking, “42Ru” is shorthand for “42U,” with U sta
 
 Below you’ll find an extended review with practical takeaways, a tour of the build quality, airflow considerations, and a verdict that mixes genuine engineering respect with a little nerdy humor. If you’re in the market for a rack that can handle a modest-to-wild lab environment without turning your closet into a physics experiment, this one deserves your attention. For your inner sysadmin, this is the kind of hardware that makes you sigh with relief when you realize the rack rails line up like they were pre-programmed by a firmware update.
 
-> For more related reads, see {% post_url 2025-06-25-building-a-mini-datacenter %} and {% post_url 2024-11-07-rack-mount-cabling-wizardry %} when you’re in the mood for deeper tech lore.
+> For more related reads, see {{ site.constants.wsib }}building a mini datacenter and {{ site.constants.wsib }}rack mount cabling wizardry when you’re in the mood for deeper tech lore.
 
 ## What you’re buying: the specs in plain language
 
@@ -73,7 +73,7 @@ If you’re worried about hotspots, consider a front-to-back airflow strategy. T
 
 In our testing, we placed a couple of modest 1U servers, a 2U NAS, and a switch into the 42U chassis. The readers who want numbers will be pleased to see air temps staying within a tight band after a couple of hours under a synthetic load. Remember: air is a thing you can direct; the better you direct it, the happier your gear and your electricity bill will be.
 
-If you want to dive deeper into airflow optimization, check out {% post_url 2023-11-12-airflow-audit-for-small-data-centers %} for nerdy insights that will resonate with the person who reads temperature charts like a thriller novel.
+If you want to dive deeper into airflow optimization, check out {{ site.constants.wsib }}airflow audit for small data centers for nerdy insights that will resonate with the person who reads temperature charts like a thriller novel.
 
 ## Cable management: the art of not turning your rack into a bird’s nest
 
@@ -85,7 +85,7 @@ Cable management is where the real magic happens. The 600 mm width helps you wea
 
 One common complaint with any rack is the moment you discover that your 3D-printed cable guides don’t align with your real devices. The 42U design here mostly solves that with standard 19-inch rails that are predictable, even when you’re working with oddball equipment. If you’re a cabling OCD type, you’ll find the cable paths intuitive enough to make you whisper, “There is order in the universe,” right before you reach for one more yellow cat cable and realize you still have a tripping hazard in your floor.
 
-If you want to level up your cable discipline, see our earlier piece on {% post_url 2024-04-02-rack-cabling-basics %} for a methodical approach to patch panels, labels, and color-coding. It’s not glamorous, but it’s the secret to not crying at 3 a.m. when you open the closet and realize your rack has become the setting of a modern art installation featuring stray Ethernet cables.
+If you want to level up your cable discipline, see our earlier piece on {{ site.constants.wsib }}rack cabling basics for a methodical approach to patch panels, labels, and color-coding. It’s not glamorous, but it’s the secret to not crying at 3 a.m. when you open the closet and realize your rack has become the setting of a modern art installation featuring stray Ethernet cables.
 
 ## Practical use cases: who is this rack for, really?
 
@@ -109,7 +109,7 @@ Setting up a 42U rack is not a temple-building ceremony. It’s a practical exer
 5. Power and thermals: Ensure you have a UPS if necessary and a floor plan that allows for adequate airflow. If you see a single device at the top generating heat like a tiny volcano, consider moving it down or adding a fan tray.
 6. Initial power-on: Boot up devices one at a time to verify access, IP assignments, and a clear view of temps. If something smells like burnt plastic, power down immediately and re-check fan connections.
 
-If you want a deeper dive into the wiring and layout logic, we’ve got a detailed walkthrough that won’t require you to invent a new language. See the guide in {% post_url 2024-04-02-rack-cabling-basics %} for more. It includes tips on patch panel labeling, PDU placement, and the optimal route for the cable spaghetti to end up as a “design feature” rather than a hazard.
+If you want a deeper dive into the wiring and layout logic, we’ve got a detailed walkthrough that won’t require you to invent a new language. See the guide in {{ site.constants.wsib }}rack cabling basics for more. It includes tips on patch panel labeling, PDU placement, and the optimal route for the cable spaghetti to end up as a “design feature” rather than a hazard.
 
 ## Real-world testing: performance metrics you can actually use
 
@@ -120,7 +120,7 @@ We ran a battery of tests to simulate daily usage in a home-lab environment. You
 - Weight distribution: The 42U rack’s weight is substantial, and the best practice is to distribute devices evenly to avoid tipping the rack on wheels. If you’re moving it around, use two people or a dolly; this is not a solo-friendly moving target.
 - Accessibility: Front and rear doors allow service access from both sides, which means you don’t need to rescue your cables by crawling behind the rack every time you want to reach a switch. This is the kind of usability feature that makes you feel like your lab has grown up a little.
 
-If you want to compare against other enclosures, check out {% post_url 2023-11-14-rack-comparisons-101 %} for a broad discussion on how racks of different sizes stack up in real-world environments. It’s not a product page, but it’s a good compass when you’re trying to decide between size and price.
+If you want to compare against other enclosures, check out {{ site.constants.wsib }}rack comparisons 101 for a broad discussion on how racks of different sizes stack up in real-world environments. It’s not a product page, but it’s a good compass when you’re trying to decide between size and price.
 
 ## Value, price, and the “should I buy it” equation
 
@@ -128,13 +128,13 @@ Let’s cut through the marketing fluff. The 42U, 600x800 rack sits at an intere
 
 A strong factor in value is the availability of accessories: panel kits, rail extensions, cable management arms, and fan kits. The 42U chassis shines when you pair it with thoughtful add-ons. It’s a modular system in the most practical sense: not flashy, but capable of growing with you as you learn more about cooling, noise control, and the delicate art of keeping your equipment in a climate-controlled safe zone.
 
-If you want to explore different balance points between price and expandability, browse our comparative guide to racks across budgets at {% post_url 2025-02-10-budget-rack-roundup %}. It won’t sling you into debt, but it might tilt your decision toward the rack that feels like a better long-term companion for your servers.
+If you want to explore different balance points between price and expandability, browse our comparative guide to racks across budgets at {{ site.constants.wsib }}budget rack roundup. It won’t sling you into debt, but it might tilt your decision toward the rack that feels like a better long-term companion for your servers.
 
 ## Comparisons and alternatives: who should consider other options?
 
 - Smaller racks (24U or 30U): If you’re building a compact home lab with a handful of devices, a smaller footprint might be more appropriate. It reduces both cost and space requirements and can still offer clean cable management and decent airflow with the right accessories.
 - Taller, deeper racks: If you anticipate needing to grow beyond 42U or require additional depth for specific high-density gear, a larger footprint might be more future-proof. However, you’ll need more room, more planning, and more budget for cooling and power.
-- Non-standard enclosures: Some vendors offer corner racks or wall-mounted enclosures that save floor space; these can be attractive for extremely tight spaces but may impose limitations on device placement and airflow. If you’re curious about these designs, see our overview of specialty enclosures in {% post_url 2024-09-01-specialty-racks-overview %}.
+- Non-standard enclosures: Some vendors offer corner racks or wall-mounted enclosures that save floor space; these can be attractive for extremely tight spaces but may impose limitations on device placement and airflow. If you’re curious about these designs, see our overview of specialty enclosures in {{ site.constants.wsib }}specialty racks overview.
 
 ## The verdict: should you buy the 42Ru 600x800Rack?
 

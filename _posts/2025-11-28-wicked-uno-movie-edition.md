@@ -1,4 +1,4 @@
----
+﻿---
 title: Wicked Fun or Wickedly Overkill? Mattel UNO x Universal's 2025 Wicked Movie Edition Card Game
 date: 2025-11-28
 tags:
@@ -71,8 +71,8 @@ Compared to classic UNO, the Wicked edition adds a defined vibe and some extra k
 From online forums to board game night chats, the Wicked edition is generally well received for its ambiance and the way it invites a little performance flair. Some players adore the mood switch that comes with a single card, while others point out that the format can encourage slower rounds. Overall, it seems to land in the “fun gift for theatre-lovers and party crews” quadrant, which aligns well with the broader strategy of licensed UNO editions. If you want a game that doubles as a conversation starter and an occasional musical moment, this edition earns its keep on the shelf.
 
 ## See also: where this post sits in the Geeknite universe
-- See our exploration of UNO in pop culture: [UNO in Pop Culture: A Quick Look]({% post_url 2024-05-20-uno-in-pop-culture %})
-- Revisit classic UNO variants and why they endure: [Revisiting UNO Variants: A Brief History]({% post_url 2023-11-01-uno-variants-landscape %})
+- See our exploration of UNO in pop culture: [UNO in Pop Culture: A Quick Look]({{ site.constants.wsib }}uno in pop culture)
+- Revisit classic UNO variants and why they endure: [Revisiting UNO Variants: A Brief History]({{ site.constants.wsib }}uno variants landscape)
 - For fans who want the official flavor, check the product page: [Mattel UNO Wicked Movie Edition official page](https://www.mattelgames.com/en-us/products/UNO-Wicked-Movie-Edition)
 
 ## Final verdict: should you pick up the Wicked edition?

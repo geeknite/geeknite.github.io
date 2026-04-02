@@ -1,4 +1,4 @@
----
+﻿---
 title: Skip-Bo 1986 International Games in Box Complete
 date: 1986-06-15
 tags:
@@ -60,7 +60,7 @@ Despite seeming deceptively simple, there are some evergreen strategies you can 
 ## Nostalgia Meets Mechanics
 This particular edition is a bright, tactile reminder of a time when games were simpler in scope but not in social stakes. The components feel sturdy, the cards shuffle with a satisfying heft, and the overall presentation invites you to sit down, trade jokes, and attempt the impossible: to win without taking anything too seriously. The box art, with its bold colors and cartoonish numerals, is not just decoration; it is a cue that you are about to have a good time with a little bit of friendly arithmetic smoke and mirrors.
 
-If you want a closer look at how this game sits in the broader tradition of retro card games, you can read about the general landscape of card games from that era in our Top 10 Retro Card Games post. See also the cross-link to a modern overview post via {% post_url 2024-02-01-top-10-retro-card-games %}. For fans who want to compare the edition to modern day, our analysis of how Skip-Bo evolved through the years—both in rules and presentation—is also worth a look here: [Skip-Bo Through the Eras](https://boardgamegeek.com/boardgame/10287/skip-bo).
+If you want a closer look at how this game sits in the broader tradition of retro card games, you can read about the general landscape of card games from that era in our Top 10 Retro Card Games post. See also the cross-link to a modern overview post via {{ site.constants.wsib }}top 10 retro card games. For fans who want to compare the edition to modern day, our analysis of how Skip-Bo evolved through the years—both in rules and presentation—is also worth a look here: [Skip-Bo Through the Eras](https://boardgamegeek.com/boardgame/10287/skip-bo).
 
 > The joy of a Skip-Bo session is not in perfect memory or a flawless strategy but in the shared chaos, the triumphant yell when the stock pile finally empties, and the quiet contemplation after a misplay that somehow becomes a story you tell at future gatherings.
 
@@ -82,7 +82,7 @@ The beauty of these variants is that they let you tailor the experience to your 
 ## Then and Now: The Arc of Skip-Bo
 The 1986 edition sits at an interesting crossroads in the Skip-Bo lineage. It captures the original spirit before the franchise evolved under broader publishing umbrellas. Modern variants often lean into more polished components and occasionally reinterpret the rules to appeal to a contemporary audience. Yet the heart remains the same: a handful of cards, a few simple piles, and a group of players who suddenly become experts in making the impossible look easy—until it isn’t.
 
-For fans curious about the evolution, there are many recent posts that compare vintage vs modern editions and discuss how the game design adapts across generations. If you want to explore similar archetypes, you can hop over to our piece on retro card games and their lasting appeal by clicking through to [Top 10 Retro Card Games]({% post_url 2024-02-01-top-10-retro-card-games %}). If you want a direct thread to a community discussion on Skip-Bo, check out the Skip-Bo entry on BoardGameGeek: [Skip-Bo on BoardGameGeek](https://boardgamegeek.com/boardgame/10287/skip-bo).
+For fans curious about the evolution, there are many recent posts that compare vintage vs modern editions and discuss how the game design adapts across generations. If you want to explore similar archetypes, you can hop over to our piece on retro card games and their lasting appeal by clicking through to [Top 10 Retro Card Games]({{ site.constants.wsib }}top 10 retro card games). If you want a direct thread to a community discussion on Skip-Bo, check out the Skip-Bo entry on BoardGameGeek: [Skip-Bo on BoardGameGeek](https://boardgamegeek.com/boardgame/10287/skip-bo).
 
 ## The Verdict: Is It Worth Your Time
 In a world where digital games occupy vast swaths of our attention, this 1986 box still has something to offer. It demands little setup, invites social interaction, and rewards players who can keep a few numbers in their heads under the right amount of playful pressure. The components feel sturdy enough to withstand the sort of chaotic youth that is part and parcel of family game night, and the rules are approachable for younger players while still offering depth for older participants who enjoy nuanced card play. It is not a heavy strategy game; it is a light, kinetic experience that thrives on rhythm, tempo, and the occasional clever move that makes the table erupt in cheers or groans.

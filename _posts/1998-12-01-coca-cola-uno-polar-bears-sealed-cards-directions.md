@@ -62,7 +62,7 @@ External links for context (without relying on citations in this post):
 
 In the spirit of geeky cross-referencing, you might also enjoy a look at how Coca-Cola has used polar bears in branding over the years. It’s a fun tangent that makes the UNO set feel like part of a larger cultural story rather than a single promotional gimmick.
 
-For more nostalgia on similar tie-ins and retro games, see {% post_url 1999-06-15-vintage-ads-and-games %} and {% post_url 2002-03-22-collectible-toys-overview %}. Those posts cover the era when brands treated games like memorabilia and when card games were a social glue rather than a portal to a digital universe.
+
 
 ## Collectibility, Value, and Market
 
@@ -107,7 +107,7 @@ A few pointers for your search:
 - Verify the era: The 1990s marketing vibe is a clue; if the design looks newer or older than 1998, you may be dealing with a misprint or a later re-release.
 - Photograph the box: Good photos help you verify the print quality and box condition before you bid or buy.
 
-For more nostalgia hunting and cross-referencing with similar items, explore {% post_url 1997-11-01-pop-culture-merch-collectibles %} and {% post_url 1996-08-20-windows-of-collectible-toys %}. These posts offer context for how vintage tie-ins were marketed and how collectors track the provenance of items like this Coca-Cola UNO set.
+
 
 ## Final Verdict
 

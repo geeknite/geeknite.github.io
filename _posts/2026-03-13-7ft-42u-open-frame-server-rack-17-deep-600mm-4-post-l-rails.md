@@ -1,4 +1,4 @@
----
+﻿---
 title: '7ft 42U Open Frame Server Rack Review: 17 in Depth, 600mm, 4-Post L-Rail Options (Geeknite Extended)'
 date: 2026-03-13
 tags:
@@ -96,8 +96,8 @@ What it delivers is a robust, adaptable skeleton that accommodates a wide mix of
 - Setup tips: pair the rack with a disciplined cable strategy and an efficient cooling plan to maximize performance and longevity of your devices.
 
 ## Related posts and internal links
-- For a deeper look at depth options and how to pick the right one, see {% post_url 2025-08-12-rack-depth-guide %}
-- A practical primer on cable management that helps you actually finish a project, see {% post_url 2025-04-02-finishing-cables-guide %}
+- For a deeper look at depth options and how to pick the right one, see {{ site.constants.wsib }}rack depth guide
+- A practical primer on cable management that helps you actually finish a project, see {{ site.constants.wsib }}finishing cables guide
 
 ## External references
 - StarTech: https://www.startech.com/us/server-racks/open-frame-racks
@@ -114,8 +114,8 @@ What it delivers is a robust, adaptable skeleton that accommodates a wide mix of
 If you’re convinced this is the right fit, plan your purchase with an eye toward warranty and service plans. Some racks come with extended warranties or accessory packs that can save you headaches in the long run. Always verify what’s included in the kit and what you’ll need to buy separately.
 
 ## See also
-- {% post_url 2025-09-22-standalone-vs-pairs-rails %}
-- {% post_url 2026-01-12-silent-pdus-review %}
+- {{ site.constants.wsib }}standalone vs pairs rails
+- {{ site.constants.wsib }}silent pdus review
 
 ## Final call to action
 **Support Geeknite by purchasing through our affiliate partner: https://affiliates.geeknite.com/rack/7ft-42u-open-frame**

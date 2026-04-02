@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Review: 2025 Mattel UNO Elite NFL Core Edition Yellow Foil Aaron Jones Card'
 date: "2025-02-14"
 tags: [ board-games, review, NFL, UNO, collectibles ]
@@ -17,7 +17,7 @@ If you want to cut straight to the chase, this post is for you. We’ll deep-div
 
 For those who want the quick TL;DR: you’re buying a premium foil card that is as much a bragging-right piece as it is a card for playing, and whether you should chase it depends on your tolerance for shiny things, your interest in Aaron Jones, and your willingness to let your friends judge you for owning a card that could double as a tiny trophy.
 
-If you want more UNO NFL content, you can also check our prior exploration into the NFL edition landscape in our post here: [read our full UNO NFL breakdown]({% post_url 2024-06-01-mattel-uno-review %}). For a broader look at how UNO variants are evolving, see our deep-dive on collectible cards here: [NFL x UNO variant analysis]({% post_url 2024-11-20-nfl-boards-review %}). And if you’d like to compare this with other Mattel gaming experiments, our official feature list can be found on the Mattel page: [Mattel UNO NFL Core Edition official page](https://www.mattel.com/en-us/products/uno-elite-nfl-core-edition).
+If you want more UNO NFL content, you can also check our prior exploration into the NFL edition landscape in our post here: [read our full UNO NFL breakdown]({{ site.constants.wsib }}mattel uno review). For a broader look at how UNO variants are evolving, see our deep-dive on collectible cards here: [NFL x UNO variant analysis]({{ site.constants.wsib }}nfl boards review). And if you’d like to compare this with other Mattel gaming experiments, our official feature list can be found on the Mattel page: [Mattel UNO NFL Core Edition official page](https://www.mattel.com/en-us/products/uno-elite-nfl-core-edition).
 
 ---
 
@@ -27,7 +27,7 @@ The 2025 Mattel UNO Elite NFL Core Edition Yellow Foil Aaron Jones Card is part 
 
 The packaging is part of the show here. The box features team colors, bold graphics, and a glossy finish designed to scream “welcome to game night with a sports-bar vibe in your living room.” Inside, you’ll find all the standard UNO Elite NFL components—custom-numbered cards, team-inspired backdrops, and yes, a few player cards with foil accents. The Aaron Jones card is a bright centerpiece of the set, designed to attract eyes, encourage photo-ops, and maybe inspire a YouTube unboxing video that ends with a heated debate about whether foil really does improve your strategy.
 
-For a deeper look at how this edition stacks up against baseline UNO and other NFL-branded variants, you can compare the core rules of UNO with NFL aesthetics at this broader overview post: [UNO vs. NFL editions: what changes and what stays the same]({% post_url 2023-09-15-uno-nfl-overview %}). The bottom line is that this yellow foil card emphasizes collectibility and showmanship more than it rewrites the game rules—though it certainly changes the conversation at any table you bring it to.
+For a deeper look at how this edition stacks up against baseline UNO and other NFL-branded variants, you can compare the core rules of UNO with NFL aesthetics at this broader overview post: [UNO vs. NFL editions: what changes and what stays the same]({{ site.constants.wsib }}uno nfl overview). The bottom line is that this yellow foil card emphasizes collectibility and showmanship more than it rewrites the game rules—though it certainly changes the conversation at any table you bring it to.
 
 > Note: in house rules, many players treat foil cards as unique, collectible tokens rather than functional gameplay cards. Others opt to designate one foil card as a “Wild” for dramatic effect. It all depends on how chaotic you want your evening to be.
 
@@ -57,7 +57,7 @@ UNO has always thrived on social dynamics more than strict tactics. The Elite NF
 
 If you’re hosting a family game night, you’ll probably want to explain that this is a collectible variant and not a guaranteed game-changer. If you’re hosting a party where the goal is to maximize chaos, you could absolutely use the Aaron Jones foil as a strategic wild card in your own “house rules” to keep everyone guessing. The key is to ensure everyone is aware of the intended use and that no one uses it to claim advantage that violates the agreed-upon house rules.
 
-For more on how to mix official rules with community house rules, check our earlier exploration here: [House rules and UNO variants]({% post_url 2023-12-08-house-rules-UNO %}). We also discuss how to balance collectible cards with fair play in a practical guide: [Balancing collectibles in casual play]({% post_url 2024-03-22-collectibles-in-casual-play %}).
+For more on how to mix official rules with community house rules, check our earlier exploration here: [House rules and UNO variants]({{ site.constants.wsib }}house rules UNO). We also discuss how to balance collectible cards with fair play in a practical guide: [Balancing collectibles in casual play]({{ site.constants.wsib }}collectibles in casual play).
 
 ## Design and packaging: the whole box experience
 
@@ -76,7 +76,7 @@ This is the heart of why many people buy premium variants: the thrill of the cha
 
 If you’re a collector who also enjoys playing UNO, you likely want both: the utility of the card in games (if you decide to use it that way) and the bragging rights of owning a shiny Aaron Jones foil. You should expect the foil versions to command a premium on secondary markets, but remember that collectible value in board-game gear can be volatile. One season’s darling can become yesterday’s news if a newer variant drops with even flashier design or if a rival release captures the spotlight.
 
-If you’re curious about how to evaluate collectible board-game variants, we have a general guide on assessing value, condition, and price trajectory here: [Pricing collectible board games: a practical guide]({% post_url 2024-02-10-practical-guide-collectibles %}).
+If you’re curious about how to evaluate collectible board-game variants, we have a general guide on assessing value, condition, and price trajectory here: [Pricing collectible board games: a practical guide]({{ site.constants.wsib }}practical guide collectibles).
 
 ## Comparison with standard UNO and other NFL editions
 
@@ -84,7 +84,7 @@ Compared to a baseline UNO deck, the Elite NFL Core Edition leans heavy on theme
 
 When stacked against other NFL UNO editions, the 2025 yellow foil variant sits comfortably as a premium option. Other editions may emphasize alternate color palettes, different player cards, or alternate foil treatments. The Aaron Jones card’s bright yellow foil stands out in particular, making it easy to spot during a fast-paced round. For players who track variant differences, the Aaron Jones foil offers a tangibly unique collectible in the lineup without straying too far from the shared UNO core rules that unify the set.
 
-If you want a broader editorial comparison to other NFL UNO variants, check this post where we compare multiple NFL editions across different years: [NFL UNO editions: a multi-year comparison]({% post_url 2022-11-09-nfl-uno-editions-comparison %}).
+If you want a broader editorial comparison to other NFL UNO variants, check this post where we compare multiple NFL editions across different years: [NFL UNO editions: a multi-year comparison]({{ site.constants.wsib }}nfl uno editions comparison).
 
 ## The verdict: should you buy it?
 
@@ -109,8 +109,8 @@ External links:
 
 ## Related posts you might enjoy
 
-- Our long-form review of the broader UNO Elite NFL lineup: [UNO Elite NFL lineup explained]({% post_url 2024-06-01-mattel-uno-review %})
-- A collector’s guide to foil variants in board games: [Foil variants and why collectors chase them]({% post_url 2024-11-05-foil-variants-guide %})
+- Our long-form review of the broader UNO Elite NFL lineup: [UNO Elite NFL lineup explained]({{ site.constants.wsib }}mattel uno review)
+- A collector’s guide to foil variants in board games: [Foil variants and why collectors chase them]({{ site.constants.wsib }}foil variants guide)
 
 ## Final notes and scoring
 

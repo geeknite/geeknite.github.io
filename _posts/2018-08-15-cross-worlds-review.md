@@ -1,6 +1,5 @@
----
+﻿---
 ttitle: Dragon Ball Super Card Game Cross Worlds (2018) – A Comprehensive Review
-layout: post
 date: 2018-08-15 09:00:00 -0000
 tags:
   - Dragon Ball Super
@@ -17,7 +16,7 @@ Stepping into the Cross Worlds era of the Dragon Ball Super Card Game (DBSCG) in
 
 In the spirit of Geeknite, we’ll keep things practical, witty, and occasionally snarky, but we’ll also give you concrete takeaways: what to draft, what to play, and where the set really shines. If you’re coming from a late 2017 starter kit or a mid-2018 primer, you’ll recognize some familiar vibes and a few fresh spices that Cross Worlds tosses into the pot. By the end, you should have a sense of whether this set belongs on your shelves, your table, or your wishlist, and you’ll have a few battle-tested ideas to bring to your next local tournament.
 
-> For readers who want to deep-dive into the internals, here are a couple of quick links to related posts you might enjoy after you finish this: {% post_url 2018-07-15-cross-worlds-preview %} and {% post_url 2018-09-01-dbscg-tournament-breakdown %}. If you prefer the browser to the bookmark, you can also check the Dragon Ball Super Card Game Wiki for card-by-card specifics and card interactions, though we’ll keep this review spoiler-light on specific card-by-card lists to prevent spoilers for newer players: [Dragon Ball Super Card Game Wiki](https://dragonball.fandom.com/wiki/Dragon_Ball_Super_Card_Game).
+> For readers who want to deep-dive into the internals, here are a couple of quick links to related posts you might enjoy after you finish this: {{ site.constants.wsib }}cross worlds preview and {{ site.constants.wsib }}dbscg tournament breakdown. If you prefer the browser to the bookmark, you can also check the Dragon Ball Super Card Game Wiki for card-by-card specifics and card interactions, though we’ll keep this review spoiler-light on specific card-by-card lists to prevent spoilers for newer players: [Dragon Ball Super Card Game Wiki](https://dragonball.fandom.com/wiki/Dragon_Ball_Super_Card_Game).
 
 ## What Cross Worlds Tried to Do
 Cross Worlds came with a philosophy: make cross-set interactions matter, give engines that require you to think across multiple turns, and maintain the brisk tempo that DBSCG players enjoy. The set aimed to accomplish several goals:
@@ -144,6 +143,6 @@ If you’re curious to see more content like this, I’ve got you covered with f
 
 **Affiliate Link: Buy Cross Worlds booster packs and support Geeknite here — https://affiliate.geeknite.example/cross-worlds?ref=2018**
 
-For more hands-on tips and a few laughs along the way, you can also check the community-driven lists via this post: {% post_url 2018-07-15-cross-worlds-preview %} and the tournament breakdowns we’ve archived here: {% post_url 2018-09-01-dbscg-tournament-breakdown %}.
+For more hands-on tips and a few laughs along the way, you can also check the community-driven lists via this post: {{ site.constants.wsib }}cross worlds preview and the tournament breakdowns we’ve archived here: {{ site.constants.wsib }}dbscg tournament breakdown.
 
 > With Cross Worlds, the world truly feels a little more connected, and that connection is a lot more fun when you’re sitting at the table with friends who are ready to throw down—with style.

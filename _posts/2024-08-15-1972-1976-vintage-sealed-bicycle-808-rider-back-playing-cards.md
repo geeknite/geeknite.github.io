@@ -1,4 +1,4 @@
----
+﻿---
 title: 1972-1976 Vintage Sealed Bicycle 808 Rider Back Playing Cards
 date: 2024-08-15 12:00:00 -0000
 tags:
@@ -81,7 +81,7 @@ Annotate your purchase with notes about where you found the deck and any photos 
 
 ### Community checks and cross-references
 
-Consult community resources and other collectors who have handled similar editions. See how they describe the vintage feel and compare your deck’s details. The hobby thrives on shared observations, not on lone certainty. If you want to explore a related thread, check out our post on a similar Rider Back edition from another era: {% post_url 2023-02-10-vintage-rider-back-discussion %} and for a broader context, see {% post_url 2022-09-18-collectible-card-market-overview %}.
+Consult community resources and other collectors who have handled similar editions. See how they describe the vintage feel and compare your deck’s details. The hobby thrives on shared observations, not on lone certainty. If you want to explore a related thread, check out our post on a similar Rider Back edition from another era: {{ site.constants.wsib }}vintage rider back discussion and for a broader context, see {{ site.constants.wsib }}collectible card market overview.
 
 ## Care, Handling, and Preservation
 
@@ -127,9 +127,9 @@ This deck sits at an interesting intersection of graphic design evolution and ca
 
 ## Related Posts: Connecting the Dots in Our Retro Card Chronicles
 
-- For a broader look at Rider Back editions across decades, see our post on vintage Rider Back explorations: {% post_url 2023-05-17-vintage-rider-back-chronicles %}
-- If you’re curious about how packaging design influences collectibility, check out our unpacking of tuck aesthetics in the 1970s: {% post_url 2022-12-03-tuck-design-deep-dive %}
-- And for a contrast between early and mid-70s finishes, you might enjoy the discussion on stock and glaze: {% post_url 2021-08-22-stock-and-glaze-contrast %}
+- For a broader look at Rider Back editions across decades, see our post on vintage Rider Back explorations: {{ site.constants.wsib }}vintage rider back chronicles
+- If you’re curious about how packaging design influences collectibility, check out our unpacking of tuck aesthetics in the 1970s: {{ site.constants.wsib }}tuck design deep dive
+- And for a contrast between early and mid-70s finishes, you might enjoy the discussion on stock and glaze: {{ site.constants.wsib }}stock and glaze contrast
 
 ## How to Verify Authenticity: A Quick Checklist
 

@@ -1,4 +1,4 @@
----
+﻿---
 ttitle: "UNO Elite Core Edition: Divine Diablo Yellow x Las Vegas Raiders — Geeknite Review"
 date: 2025-12-05 10:00:00 -0000
 tags: [board-games, toy-review, mattel, uno, raiders, collectibles, diablo]
@@ -97,9 +97,9 @@ In terms of re-playability, the flexible rules and optional timed variants give 
 
 If you’ve followed Geeknite for a while, you know we love a theme-anchored review. We’ve covered other UNO variants and other brand collaborations in the past, and we’re always chasing that moment where a deck feels like it belongs in a story you want to tell with friends. For those curious, here are a few related reads you might enjoy (links to our own posts using post_url, as requested):
 
-- {% post_url 2024-05-12-uno-variants-history %}
-- {% post_url 2023-11-02-collectible-card-games-gaming-scene %}
-- {% post_url 2024-08-19-gaming-design-trends-2024 %}
+- {{ site.constants.wsib }}uno variants history
+- {{ site.constants.wsib }}collectible card games gaming scene
+- {{ site.constants.wsib }}gaming design trends 2024
 
 If you want a broader context on the UNO family and its crossovers, you can also check Mattel’s official UNO page for updates and expansions: https://www.mattel.com/en-us/products/uno. And for the Raiders faithful who want to soak in the team energy outside of football mode, Las Vegas Raiders official site is https://www.raiders.com.
 

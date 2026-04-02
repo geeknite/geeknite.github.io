@@ -1,7 +1,6 @@
----
+﻿---
 title: 2025 Mattel UNO Elite Core Edition - Javonte Williams Yellow (Denver Broncos)
 date: 2025-11-27
-layout: post
 tags:
   - toys
   - board-games
@@ -17,7 +16,7 @@ If you thought UNO had beaten every possible crossover into the realm of sports 
 
 Before we go into the nuts and bolts, a quick visual: this edition comes with a deck of UNO cards in Broncos-bright yellow and navy, a dedicated yellow Javonte Williams player tile, and a compact scoreboard that lives on your coffee table like a tiny stadium jumbotron. It’s not a full stadium, but the vibes are strong enough to make you squint at your own living room and whisper, is this the color of victory, or did I spill mustard on the table again? Either way, the kit is sturdy and easily ready for a weekend bender of UNO battles with friends who are so competitive they consider a wrong color to be a personal affront.
 
-If you’re curious about the brand alignment, Mattel’s official page for UNO and its variants is a good place to start: [Official Mattel UNO Page](https://www.mattelgames.com/UNO). For a deeper dive into the world of UNO crossovers and fan expectations, you can swing by [BoardGameGeek’s UNO page](https://boardgamegeek.com/boardgame/15186/uno) or read a few posts from our own archive like [a previous cross-brand review]({% post_url 2024-12-01-geeknite-toy-crossovers %}). And if you’re shopping around, a quick peek at Denver Broncos branding is worth a moment: [Denver Broncos Official](https://www.denverbroncos.com/).
+If you’re curious about the brand alignment, Mattel’s official page for UNO and its variants is a good place to start: [Official Mattel UNO Page](https://www.mattelgames.com/UNO). For a deeper dive into the world of UNO crossovers and fan expectations, you can swing by [BoardGameGeek’s UNO page](https://boardgamegeek.com/boardgame/15186/uno) or read a few posts from our own archive like [a previous cross-brand review]({{ site.constants.wsib }}geeknite toy crossovers). And if you’re shopping around, a quick peek at Denver Broncos branding is worth a moment: [Denver Broncos Official](https://www.denverbroncos.com/).
 
 Want a quick snapshot of the unboxing? See the hero shot below:
 
@@ -99,7 +98,7 @@ For the curious shopper, here are a few starting points:
 - Retail listings: [Amazon listing](https://www.amazon.com/dp/B0XXXXX?tag=geeknite-20)
 - Football fandom reference: [Denver Broncos Official](https://www.denverbroncos.com/)
 
-If you want to read more about how sports licensing intersects with board games and toy lines, check out a few related posts in our archive, such as this cross-brand discussion post: [Cross-brand toy conversations]({% post_url 2024-12-01-geeknite-toy-crossovers %}).
+If you want to read more about how sports licensing intersects with board games and toy lines, check out a few related posts in our archive, such as this cross-brand discussion post: [Cross-brand toy conversations]({{ site.constants.wsib }}geeknite toy crossovers).
 
 ## Final Verdict: Is it Worth It?
 
@@ -109,9 +108,9 @@ If you’re in the mood to upgrade your next game night with a football-flavored
 
 ### Related posts you might enjoy
 
-- A previous cross-brand adventure in the Geeknite archive: [Cross-brand toy conversations]({% post_url 2024-12-01-geeknite-toy-crossovers %})
-- A deeper look at UNO variants and why they work: [UNO variants through the years]({% post_url 2023-08-14-uno-variants-through-the-years %})
-- A Broncos-themed kickoff to the season: [Tailgate games for football fans]({% post_url 2025-09-10-tailgate-games %})
+- A previous cross-brand adventure in the Geeknite archive: [Cross-brand toy conversations]({{ site.constants.wsib }}geeknite toy crossovers)
+- A deeper look at UNO variants and why they work: [UNO variants through the years]({{ site.constants.wsib }}uno variants through the years)
+- A Broncos-themed kickoff to the season: [Tailgate games for football fans]({{ site.constants.wsib }}tailgate games)
 
 ## Final Recommendation
 

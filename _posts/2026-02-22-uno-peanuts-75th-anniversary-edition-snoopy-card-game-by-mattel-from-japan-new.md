@@ -54,7 +54,7 @@ If you are shopping from Japan or a vendor who ships internationally, a few prac
 
 Play value and replayability
 
- UNO is a staple family game for a reason. It scales well from a casual game night to a chaotic family gathering, and the Peanuts edition does not disrupt this scalability. The replay value remains strong because the core mechanic is quick and dynamic. The Snoopy theme might influence a small portion of social interactions at the table, but that is a joyful addition rather than a drawback. If you are looking to teach a first-time player, UNO Peanuts is a forgiving choice with a welcoming aesthetic, and it lets you spin a familiar mechanic into something that feels fresh and inclusive.
+UNO is a staple family game for a reason. It scales well from a casual game night to a chaotic family gathering, and the Peanuts edition does not disrupt this scalability. The replay value remains strong because the core mechanic is quick and dynamic. The Snoopy theme might influence a small portion of social interactions at the table, but that is a joyful addition rather than a drawback. If you are looking to teach a first-time player, UNO Peanuts is a forgiving choice with a welcoming aesthetic, and it lets you spin a familiar mechanic into something that feels fresh and inclusive.
 
 Value and collectibility
 
@@ -69,8 +69,8 @@ External links and where to buy
 - Official Mattel UNO product page: https://www.mattel.com/en-us/products/uno
 - Peanuts official site: https://www.peanuts.com
 - General UNO nostalgia notes: https://en.wikipedia.org/wiki/Uno_(card_game) (for background context, not used as a citation here)
-- If you are chasing a quick read on related UNO variants, check out our post on the classic UNO experiences: [Related post: UNO Showdowns and Variants]({% post_url 2025-04-20-geeknite-uno-showdowns %})
-- A deeper dive into licensed game editions: [Licensed editions and why they shine]({% post_url 2024-11-12-licensed-editions-%20geeknite %})
+- If you are chasing a quick read on related UNO variants, check out our post on the classic UNO experiences: [Related post: UNO Showdowns and Variants]({{ site.constants.wsib }}geeknite uno showdowns)
+- A deeper dive into licensed game editions: [Licensed editions and why they shine]({{ site.constants.wsib }}licensed board game editions)
 
 Image gallery and visual details
 
@@ -92,9 +92,9 @@ In short, we recommend adding this edition to your UNO collection if you enjoy c
 
 See also posts
 
-- Related post: UNO Showdowns and Variants: a practical guide to new twists in familiar territory. {% post_url 2025-04-20-geeknite-uno-showdowns %}
-- Licensed editions and why they shine. {% post_url 2024-11-12-licensed-editions-geeknite %}
-- A stroll through classic party games for family bonding. {% post_url 2023-08-03-classic-family-joy-games %}
+- Related post: UNO Showdowns and Variants: a practical guide to new twists in familiar territory. {{ site.constants.wsib }}geeknite uno showdowns
+- Licensed editions and why they shine. {{ site.constants.wsib }}licensed editions geeknite
+- A stroll through classic party games for family bonding. {{ site.constants.wsib }}classic family joy games
 
 External references and product sources
 

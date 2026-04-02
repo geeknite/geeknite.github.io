@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Codenames (2025 Edition) - Card Game Review'
 date: 2025-08-15
 tags:
@@ -15,7 +15,7 @@ If you thought your vocabulary was sharp enough to point out a carpeted room to 
 
 As a Geeknite veteran, I have learned two things for sure: first, a well chosen clue can make you feel like a genius and a questionable human simultaneously; second, any game that lets you yell redacted words across a table to your friends should be treated as a potential lifelong commitment. The 2025 edition leans into the card game format with a dash of modularity and a pinch of modern design sensibility. The result is a product that can feel fresh for seasoned players while still offering a friendly path for newcomers. If you want the condensed version, skip to the verdict at the end. If you want the longer ride of how and why, buckle up and let the pun train depart.
 
-> For more context on the classic Codenames experience, you can revisit our legacy guide here {% post_url '2023-07-12-geeknite-classic-codenames-review' %} or check out our practical tips in {% post_url '2024-09-22-top-10-party-games-for-small-groups' %}. And yes, we will still yell at each other from across the table like civilized people with better vocabulary.
+> For more context on the classic Codenames experience, you can revisit our legacy guide here {{ site.constants.wsib }}geeknite classic codenames review or check out our practical tips in {{ site.constants.wsib }}top 10 party games for small groups. And yes, we will still yell at each other from across the table like civilized people with better vocabulary.
 
 ### Visuals and components
 
@@ -141,7 +141,7 @@ If your table loves social deduction in a friendly, humorous package and you are
 
 If you are building a library of party games for a recurring game night and you want something that balances lighthearted chaos with genuine strategy, Codenames 2025 Edition is worth a seat at the table. It scales up or down with your energy, provides a few new knobs to twist, and maintains the grin factor that makes Codenames the kind of game people want to play again and again.
 
-> For the curious mind, more context on related party games can be found through our recommended reads in {% post_url '2024-12-01-top-10-party-games-for-small-groups' %} and for a deeper dive into wordplay driven games see {% post_url '2023-08-19-geeknite-lexicon-lab' %}.
+> For the curious mind, more context on related party games can be found through our recommended reads in {{ site.constants.wsib }}top 10 party games for small groups and for a deeper dive into wordplay driven games see {{ site.constants.wsib }}geeknite lexicon lab.
 
 **Grab your copy now via our affiliate link and join the table of wordplay wizards**: https://example.com/affiliate/codenames-2025-edition
 

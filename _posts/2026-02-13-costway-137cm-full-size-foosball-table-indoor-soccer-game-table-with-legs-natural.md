@@ -94,8 +94,8 @@ Where to Learn More and How to Love It More
 
 If you’re curious and want a broader context, check out more foosball resources to sharpen your fundamentals and explore different setups:
 
-- [Read more on accessible foosball strategies]({% post_url 2024-05-12-foosball-strategies %})
-- [See our arcade gear roundup for budget-friendly picks]({% post_url 2025-11-20-arcade-gadgets-roundup %})
+- [Read more on accessible foosball strategies]({{ site.constants.wsib }}foosball strategies)
+- [See our arcade gear roundup for budget-friendly picks]({{ site.constants.wsib }}arcade gadgets roundup)
 - [Foosball rules and basics on Wikipedia]https://en.wikipedia.org/wiki/Foosball
 
 Maintenance and Longevity Tips
