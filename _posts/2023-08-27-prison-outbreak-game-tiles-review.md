@@ -85,6 +85,5 @@ Prison Outbreak is a fantastic addition to any board game collection, especially
 
 **Ready to face the zombie apocalypse?** Get your copy of Prison Outbreak and experience the thrill for yourself!
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/Jm8ynpT.jpg' %}
 
 **Call to Action:** Don't miss out on the ultimate zombie board game experience! Click [here]({{ site.constants.wsib }}prison-outbreak) to get your copy of Prison Outbreak now and receive an exclusive discount! Happy gaming!

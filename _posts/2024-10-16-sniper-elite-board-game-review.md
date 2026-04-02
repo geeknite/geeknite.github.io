@@ -1,7 +1,7 @@
----
+﻿---
 title: "Sniper Elite Board Game Review: Stealth and Strategy on Your Tabletop"
 date: "2024-10-16"
-last_modified_at: "2026-04-01"
+last_modified_at: "2026-04-02"
 tags: ["board games", "review", "stealth games", "strategy games", "sniper elite"]
 description: "If you want a tense hidden-movement board game with clean rules and real table drama, Sniper Elite is an easy recommendation."
 hero_image: "A tense World War II stealth board game setup on a wooden table, miniature soldiers, mission cards and dice visible, moody cinematic lighting, photorealistic, 16:9 landscape, no text, no logos, no watermarks"
@@ -63,5 +63,5 @@ The production is solid and readable. The map gives the sniper meaningful routes
 ## Related Posts
 
 - [Nemesis Lockdown Review]({%- post_url 2023-04-08-nemesis-lockdown-review -%})
-- [Bleak Outpost Resident Evil Board Game Review]({%- post_url 2024-06-20-bleak-outpost-resident-evil-board-game-review -%})
+- [Bleak Outpost: Resident Evil Board Game Review]({%- post_url 2024-06-20-bleak-outpost-resident-evil-board-game-review -%})
 - [Against the Odds 24: Deathride Review]({%- post_url 2016-11-01-against-the-odds-24-deathride -%})

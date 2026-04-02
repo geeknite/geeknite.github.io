@@ -5,7 +5,7 @@ tags: ["board games", "Resident Evil", "review", "strategy games"]
 description: "An in-depth and humorous review of Bleak Outpost: Resident Evil Board Game. Is this game worth braving the zombie apocalypse?"
 ---
 
-[![Bleak Outpost: Resident Evil](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}bleak-outpost-resident-evil)
+[![Bleak Outpost: Resident Evil](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]({{ site.constants.wsib }}bleak-outpost-resident-evil)
 
 ## Introduction
 
@@ -35,7 +35,7 @@ Each turn, the survivors move cautiously across the board, using various actions
 
 The game shines in its strategic depth. As the survivors, you must carefully plan your moves, utilize cover, and think several steps ahead to outwit the zombies. For the mission leader, cooperation and deduction are key. You'll need to communicate effectively, share information, and anticipate the zombies' tactics to corner them successfully.
 
-![Bleak Outpost Gameplay](https://i.imgur.com/6s4IJiPm.png){: style='float: right;'}
+![Bleak Outpost Gameplay](https://i.imgur.com/6s4IJiPm.png){: .align-right}
 
 ## The Experience
 
@@ -72,7 +72,6 @@ Bleak Outpost is a fantastic addition to any board game collection, especially f
 
 So, gather your friends, set up your survival strategies, and dive into the thrilling world of Bleak Outpost. **Get your copy now and test your survival skills!**
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/3zHcfgxm.jpg' %}
 
 **Call to Action:** Don't miss out on the ultimate survival horror board game experience! Click [here]({{ site.constants.wsib }}bleak-outpost-resident-evil) to get your copy of Bleak Outpost now and receive an exclusive discount! Happy gaming!
 

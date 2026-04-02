@@ -1,8 +1,8 @@
 ---
 redirect_to: https://bikinggeek.github.io/2023/04/five-ten-sleuth-review
 title: "Five Ten Sleuth Review: The Ultimate Casual MTB Shoe"
-date: '2023-04-07'
-tags: ['Five Ten', 'Sleuth', 'MTB', 'shoe', 'review', 'funny']
+date: "2023-04-07"
+tags: ["Five Ten", "Sleuth", "MTB", "shoe", "review", "funny"]
 ---
 
 ![Five Ten Sleuth](/assets/images/general.jpg){: .align-right}
@@ -60,7 +60,9 @@ In conclusion, the Five Ten Sleuth is a fantastic choice for anyone looking to c
 Happy riding, and may your shoes always grip like a champ!
 
 ---
+
 Other posts you might like:
+
 - [We’re Back! An Update on our Progress]({% post_url 2023-04-30-back-with-big-whereshouldibuy-update %})
 - [Building a PC on eBay: A Geek's Guide]({% post_url 2025-05-02-pc-build-on-ebay %})
 - [Garmin Edge 540 Review]({% post_url 2023-07-06-garmin-edge-540-review %})

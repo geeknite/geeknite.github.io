@@ -5,7 +5,7 @@ tags: ["board games", "Starcadia Quest", "review", "space", "funny"]
 description: "Join us for a hilarious and thorough review of Starcadia Quest. Dive into space with epic battles, adventures, and plenty of laughs!"
 ---
 
-[![Starcadia Quest](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]({{ site.constants.wsib }}starcadia-quest)
+[![Starcadia Quest](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]({{ site.constants.wsib }}starcadia-quest)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Starcadia Quest is a standalone game that is part of the Arcadia Quest universe.
 
 The game comes with an array of beautifully designed miniatures, cards, tiles, and tokens. From the intricate details on alien creatures to the vibrant artwork on hero cards, these components are a visual treat.
 
-![Starcadia Quest Components](https://i.imgur.com/3zHcfgxm.jpg){: style='float: right;'}]
+![Starcadia Quest Components](https://i.imgur.com/3zHcfgxm.jpg){: .align-right}]
 
 ## The Gameplay
 
@@ -68,7 +68,6 @@ Starcadia Quest is not just a board game; it’s an adventure through the galaxy
 
 **Ready to save the galaxy? Grab your copy of Starcadia Quest today and start your epic journey!**
 
-{% include amazon.html asin="B08XYZ1234" imageUrl="https://i.imgur.com/3zHcfgxm.jpg" %}
 
 ## Linking You to More Gaming Adventures
 

@@ -11,7 +11,7 @@ description: "An in-depth and humorous review of the Star Trek Captain's Chair P
 
 Welcome aboard, Trekkies and toy enthusiasts! Today, we're beaming into the world of the **Star Trek Captain's Chair Playset**. Whether you're a die-hard Star Trek fan or someone who loves cool collectibles, this playset promises to boldly take you where no toy has gone before. So, grab your tricorder, it's time for a humorous yet thorough review!
 
-![Star Trek Captain's Chair Playset](https://example.com/star-trek-captains-chair.jpg){: .align-right}
+![Star Trek Captain's Chair Playset](/assets/images/general.jpg){: .align-right}
 
 ## What Is the Star Trek Captain's Chair Playset?
 

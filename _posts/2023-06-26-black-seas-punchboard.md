@@ -6,7 +6,7 @@ description: "A hilarious and detailed review of Black Seas Punchboard. Discover
 last_modified_at: "2025-10-08"
 ---
 
-![Black Seas Punchboard](https://i.imgur.com/UrhObsJ.jpg){: style='float: right;'}
+![Black Seas Punchboard](https://i.imgur.com/UrhObsJ.jpg){: .align-right}
 
 ## Introduction
 

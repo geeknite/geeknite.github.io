@@ -6,7 +6,7 @@ description: "A hilarious and insightful review of the Kobo Clara eReader. Find 
 last_modified_at: '2025-07-10T16:26:24.7451927Z'
 ---
 
-![Kobo Clara](https://i.imgur.com/EpCQi3gt.jpg){: style="float: right;"}({{ site.constants.wsib }}kobo-clara)
+![Kobo Clara](https://i.imgur.com/EpCQi3gt.jpg){: .align-right}({{ site.constants.wsib }}kobo-clara)
 
 Hello, fellow book enthusiasts and tech aficionados! Today, we're cracking open the digital spine of the **Kobo Clara**, the compact eReader that promises to deliver a big reading experience without breaking your back or your bank. So grab your reading glasses and let's dive into this tech tale! 📚🔍
 

@@ -5,7 +5,7 @@ tags: ["Board Games", "Dungeons & Dragons", "Review", "Strategy Games"]
 description: "A comprehensive and hilarious review of the Betrayal at Baldur's Gate modular board game. Find out why it might be the best addition to your game collection!"
 ---
 
-![Betrayal at Baldur's Gate](https://i.imgur.com/Jm8ynpT.jpg){: style='float: right;'}]
+![Betrayal at Baldur's Gate](https://i.imgur.com/Jm8ynpT.jpg){: .align-right}]
 
 ## Introduction
 
@@ -68,7 +68,6 @@ Betrayal at Baldur's Gate is a fantastic addition to any board game collection, 
 
 **Ready to face the darkness? Get your copy of Betrayal at Baldur's Gate today and start your epic adventure!**
 
-{% include amazon.html asin='B08XYZ1234' imageUrl='https://i.imgur.com/Jm8ynpT.jpg' %}
 
 ## More Board Game Reviews
 

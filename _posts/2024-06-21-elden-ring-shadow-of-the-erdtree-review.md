@@ -1,5 +1,5 @@
 ---
-title: "Elden Ring: Shadow of the Erdtree Edition Review - Microsoft Xbox Series X|S"
+title: "Elden Ring: Shadow of the Erdtree Edition Review - Microsoft Xbox Series X&#124;S"
 date: "2024-06-21"
 last_modified_at: 2026-01-17
 tags: ["gaming", "review", "xbox", "elden ring", "action rpg"]
