@@ -1,5 +1,5 @@
 ---
-title: 'Zombicide Special Guest: Lucio Parrillo Expansion'
+ttitle: 'Zombicide Special Guest: Lucio Parrillo Expansion — Expanded Review'
 date: 2026-04-06
 tags:
   - board games
@@ -7,11 +7,13 @@ tags:
   - expansion
   - art
   - lucio-parrillo
+  - review
+  - art-direction
 ---
 
-# Zombicide Special Guest: Lucio Parrillo Expansion
+## Zombicide Special Guest: Lucio Parrillo Expansion — Expanded Review
 
-If you ever dreamed of a Zombicide box that looks like a gallery opening and plays like a nightmarish scavenger hunt, you are not alone. The Zombicide Special Guest: Lucio Parrillo Expansion isn’t just a box of new figures and cards, it is a love letter to the kind of art that makes your paintbrush sweat and your friends yell watch out as a ghoul swings from a chandelier. It brings the distinctive style of fantasy horror artist Lucio Parrillo into the board game trenches, mixing high gloss art with gritty zombie mayhem. The result is a product that feels cinematic, a little cheeky, and surprisingly sturdy on the table, especially if you enjoy games that lean into theme as hard as they lean into dice.
+If you ever dreamed of a Zombicide box that looks like a gallery opening and plays like a nightmarish scavenger hunt, you are not alone. The Lucio Parrillo Expansion isn’t just a box of new figures and cards; it is a love letter to the kind of art that makes your paintbrush sweat and your squad yell to watch out as a ghoul swings from a chandelier. It brings the distinctive style of fantasy horror artist Lucio Parrillo into the trenches, mixing high gloss art with gritty zombie mayhem. The result is a product that feels cinematic, a little cheeky, and surprisingly sturdy on the table, especially if you enjoy games that lean into theme as hard as they lean into dice.
 
 If you want a quick snapshot before we dive deeper, think of this expansion as a compact art exhibit that happens to come with plastic minis and a couple dozen cards you can smack down on the table with a smug grin. For the right crowd, this is the kind of box that earns pride of place on the shelf next to your favorite fan art prints and a well-worn copy of the base game. For everyone else, it is a reminder that a game can be both beautiful and brutal at the same time.
 
@@ -33,7 +35,9 @@ The art is the star here, and the quality shows. The cards have a premium coatin
 
 For taste and tone alignment, the box nails the balance between dark whimsy and practical gameplay. It is not all atmosphere; there are clear gameplay hooks that fit neatly into established Zombicide rules, which makes it a smoother add-on than some flair-heavy expansions that forget they are a game first and a museum exhibit second. If you want to see how the art translates into gameplay, the next section dives into mechanics and balance.
 
-To see how the content looks on shelves and on the table, here is a high-res cover image you can check out: ![Lucio Parrillo Zombicide Cover](assets/images/zombicide-lucio-parrillo-cover.jpg)
+To see how the content looks on shelves and on the table, here is a high-res cover image you can check out:
+
+![](/assets/images/zombicide-lucio-parrillo-cover.jpg) 
 
 For more context on where this expansion sits in the lineup, consider visiting the official Zombicide page and some community galleries that showcase fan-made art inspired by Parrillo’s style.
 
