@@ -1,5 +1,5 @@
 ---
-ttitle: "Codenames Disney Family Edition: Geeknite's Complete Review"
+title: "Codenames Disney Family Edition: Geeknite's Complete Review"
 date: 2026-04-06
 tags:
   - board games
@@ -11,13 +11,13 @@ tags:
 ---
 
 ## Introduction
-If you’ve ever tried to wrangle a family game night and watched the children debate whether it’s fair to assign a clue that references both Mickey Mouse and Olaf the snowman while the adults quietly google the plot of a 1990s animated film, you might have found yourself daydreaming about a version of Codenames that’s actually designed for all ages and sense of humor. Enter Codenames Disney Family Edition, the game that promises the speed and brain-bending wordplay of the classic party staple, but with a Disney-coated twist that makes your inner child squeal with delight and your inner parent sigh with relief.
+If you’ve ever tried to wrangle a family game night and watched the children debate whether it’s fair to assign a clue that references both Mickey Mouse and Olaf the snowman while the adults quietly google the plot of a 1990s animated film, you might have daydreamed about a version of Codenames that’s actually designed for all ages and sense of humor. Enter Codenames Disney Family Edition, the game that promises the speed and brain-bending wordplay of the classic party staple, but with a Disney-coated twist that makes your inner child squeal with delight and your inner parent sigh with relief.
 
 I picked this up in excellent condition, complete with all rulebooks, word cards, and the snazzy Disney-themed spy plates. The box looked like it had spent a few years being guarded by a small army of plush toys and then carefully stored away by a meticulous grandmother. In other words: minty, un-crumpled, and basically ready for a triumphant return to the family table.
 
 If you’re new to the Geeknite style, we don’t just review the game—we narrate the vibe. Is this a game night win for the whole family, a chaotic but charming memory-maker, or a toy treasure that will only be pulled out during the rare blue moon when grandpa agrees to do a cameo as Spymaster? Read on.
 
-> For quick context, head over to our general board game rundown on [the basics of Codenames](https://boardgamegeek.com/boardgame/151076/codenames) and then loop back here for the Disney-specific flavor. If you want to compare family editions across genres, see our roundup of [best family board games]({% post_url 'best-family-board-games-2024' %}).
+> For quick context, head over to our general board game rundown on the basics of Codenames and then loop back here for the Disney-specific flavor. If you want to compare family editions across genres, see our roundup of best family board games.
 
 ## What is Codenames Disney Family Edition?
 Codenames Disney Family Edition is a child- and parent-friendly spin on the classic party word game, re-themed with Disney characters, locations, items, and moments that most players will recognize from multiple generations of Disney media. The core mechanic remains the same: two teams (Red and Blue) compete to locate their own agents on a grid of word cards by listening to one-word clues given by their Spymaster. The trick is that the clue must cleverly tie together several words on the board without accidentally leading the opposing team to the assassin word (the game’s version of a landmine).
@@ -27,7 +27,7 @@ The Disney touch adds a gentler, family-oriented lens: you’re more likely to s
 In practice, the Disney edition fosters shared storytelling: as clues click, the room fills with “Oh yeah, that’s from that film,” or “Who else remembers that park attraction?” It’s the kind of game night where family memories are built on a foundation of rapid-fire associations and a chorus of giggles when a clue leads to an unexpectedly perfect or hilariously wrong realization.
 
 ## Contents and Condition: What’s in the Box?
-Channeling the “mint condition” vibe, the complete Disney Family Edition box includes:
+Channeling the mint condition vibe, the complete Disney Family Edition box includes:
 
 - A sturdy game box with Disney-themed artwork, designed to withstand the cabinet shuffle of many family nights.
 - A deck of word cards featuring Disney characters, places, items, and concepts. The art is bright, friendly, and scalable for different lighting levels, which matters when you’re playing late at night and someone’s eyes are obviously not on their best game-night game.
@@ -98,14 +98,14 @@ For households with a mix of Disney lovers and word-game enthusiasts, the Disney
 ## Strategy and Tips for Success
 - Spymaster tips:
   - Leverage a couple of well-known Disney characters that can anchor several words on the board. If you can connect three or more words with a single clue without tipping off the assassin, you’re in good shape.
-  - Use multi-word hints sparingly. The one-word clue rule remains, but you can hint at multiple related words by extending the number in clever ways (e.g., “Mickey 3” when those three words are clearly connected through Mickey’s universe).
+  - Use multi-word hints sparingly. The one-word clue rule remains, but you can hint at multiple related words by extending the number in clever ways (eg, Mickey 3 when those three words are clearly connected through Mickey’s universe).
   - Tailor clues to the table. If you’ve got a lot of Disney buffs, you can push for more nuanced connections; if you’ve got kids, you may want to keep clues simpler and more obvious.
 - Guesser tips:
   - Discuss the clue briefly if needed. Team members can test the boundaries of a clue’s meaning collectively, which often reduces the risk of guessing the assassin word.
   - Don’t be afraid to pass on a guess if you’re unsure. Sometimes walking away from a guess is better than opening a can of chaos that derails the round.
 - House rules adaptation:
   - Shorter rounds for younger players: limit to 2–3 words per round.
-  - Themed nights: let players bring a favorite Disney character or film as a “lock” for a round, with the Spymaster crafting clues around that theme.
+  - Themed nights: let players bring a favorite Disney character or film as a lock for a round, with the Spymaster crafting clues around that theme.
 
 ## Final Verdict: Is It Worth It?
 If you want a family-friendly, upbeat, fast-paced word game with a beloved Disney veneer, this edition hits the sweet spot. It’s approachable enough for younger players to feel like they’re contributing meaningfully, while still offering enough puzzle-solving appeal to keep adults engaged. The elegance of this edition lies in its balance: a familiar, comforting theme that invites storytelling, without sacrificing the core mechanics that make Codenames a party staple. The components are solid, the production quality holds up to serious table warfare, and the box’s condition will likely outlast many a tech gadget in your living room by virtue of being a paper-and-card-based hero in a sea of screens.
@@ -119,8 +119,8 @@ Would I recommend it? Yes, with qualifiers: if you crave a family-night game tha
 
 ## Related Reads and Cross-links on Geeknite
 - If you’re curious about how this edition stacks up against other family-centric games, see our post on {% post_url 'best-family-board-games-2024' %}.
-- For a broader look at strategy and table dynamics in party games, our guide to [tuning your group play](https://www.geeknite.example/guide-to-group-play) has some useful tips that translate well to Codenames sessions.
-- For a deeper dive into Disney-themed board games, check out our piece on [Disney-licensed games and why they work](https://www.geeknite.example/disney-board-games-review).
+- For a broader look at strategy and table dynamics in party games, our guide to tuning your group play has some useful tips that translate well to Codenames sessions.
+- For a deeper dive into Disney-themed board games, check out our piece on Disney-licensed games and why they work.
 - Our ongoing series on game-night setup and component care can be found at {% post_url 'board-game-setup-and-care' %}.
 
 ## Visuals and Presentation
