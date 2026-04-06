@@ -1,5 +1,5 @@
 ---
-title: "Exploding Kittens: Deluxe Edition — A Geeknite Review (Updated)"
+title: Exploding Kittens Deluxe Edition — A Geeknite Review (Updated)
 date: 2026-04-06
 tags:
   - board-games
@@ -11,7 +11,9 @@ tags:
   - geeknite
 ---
 
-![Exploding Kittens Deluxe Edition cover](https://geeknite.example/assets/images/exploding-kittens-deluxe.jpg)
+{% image {-site-baseurl}assets/images/exploding-kittens-deluxe.jpg alt="Exploding Kittens Deluxe Edition cover" %}
+
+![]({{ site.baseurl }}/assets/images/exploding-kittens-deluxe.jpg)
 
 If you thought your cat could cause chaos with a laser pointer, wait until you meet Exploding Kittens Deluxe Edition — a card game that treats your living room like a tiny convention space where chaos is the main exhibit. This updated Geeknite review revisits the brand-new Deluxe Edition with the same enthusiasm you’d reserve for a dramatic cat video, but with a longer leash and fewer hairballs on the carpet. The question is simple: is it still funny after you’ve watched the same meme loop a hundred times, is the deluxe version actually deluxe, and can a kitten survive the apocalypse of exploding cards with enough swagger to outpurr the crowd?
 
@@ -21,7 +23,7 @@ Exploding Kittens is a fast-paced party game created by Elan Lee and The Oatmeal
 
 The Deluxe packaging features premium components, art upgrades, and maybe a few extra silly cards to keep you on your toes. It’s premium impulse-buy territory for folks who treat their living room as a tiny convention and who could use a little more epic cat chaos in their weekly routines.
 
-![Card art sample](https://geeknite.example/assets/images/exploding-kittens-cards.jpg)
+![]({{ site.baseurl }}/assets/images/exploding-kittens-cards.jpg)
 
 ## What's in the box?
 
@@ -34,7 +36,7 @@ Contents typically include:
 - Cat cards that force misfortune on your friends
 - Deluxe card stock and packaging with improved art
 
-In addition to the standard cards you might see some extra jokey rules or cards that add spice to re-rolls and misdirection. The Deluxe Edition tends to showcase improved art quality and thicker card stock, plus packaging with a luxe vibe that would make a cat nod in approval if it could. It’s not just “more shiny” — it’s a note that you’ve decided your game night deserves a trophy case for chaos.
+In addition to the standard cards you might see some extra jokey rules or cards that add spice to re-rolls and misdirection. The Deluxe Edition tends to showcase improved art quality and thicker card stock, plus packaging with a luxe vibe that would make a cat nod in approval if it could. It’s not just more shiny — it’s a note that you’ve decided your game night deserves a trophy case for chaos.
 
 ## How to play at a high level
 
@@ -111,7 +113,7 @@ For curious minds, you can browse community responses on board game forums or so
 
 ## Final verdict
 
-The Deluxe Edition screams “premium chaos” with tactile quality and visual flair that makes ordinary game nights feel a little more special, while still preserving the core charm of Exploding Kittens: a light, silly, quick-to-play experience that thrives on shared laughter and dramatic defusions. If you want a quick, funny party game for a casual group, this is a strong choice. If you’re after serious strategy or a brain-teaser marathon, you’ll want a different title. But if you want something that’s easy to teach, fast to play, and gratifying to watch friends collapse into chaos at the table, the Deluxe Edition is a solid fit.
+The Deluxe Edition screams premium chaos with tactile quality and visual flair that makes ordinary game nights feel a little more special, while still preserving the core charm of Exploding Kittens: a light, silly, quick-to-play experience that thrives on shared laughter and dramatic defusions. If you want a quick, funny party game for a casual group, this is a strong choice. If you’re after serious strategy or a brain-teaser marathon, you’ll want a different title. But if you want something that’s easy to teach, fast to play, and gratifying to watch friends collapse into chaos at the table, the Deluxe Edition is a solid fit.
 
 ## Final recommendation
 
