@@ -1,5 +1,5 @@
 ---
-title: The Mind Extreme Card Game: A Geeknite Deep Dive
+title: The Mind Extreme Card Game: A Geeknite Deep Dive (Expanded)
 date: 2026-04-06
 tags:
   - board-games
@@ -8,19 +8,21 @@ tags:
   - cooperative
   - the-mind
   - the-mind-extreme
+  - co-op-design
+  - silent-co-ops
 ---
 
-![The Mind Extreme cover](assets/images/the-mind-extreme.jpg)
+![The Mind Extreme cover]({{ '/assets/images/the-mind-extreme.jpg' | relative_url }})
 
 ## Introduction
-If you thought the mind is a quiet place where cards whisper at the pace of a well-tuned metronome, The Mind Extreme dares you to scream in color and chaos. This is the turbocharged cousin of that beloved cooperative micro-meditation known as The Mind. It takes the original premise, trims the external chatter, and shoves it through a kaleidoscope of new rules, fearsome timing, and a level of cooperation that would make a synchronized swimming team look like a couple of cats chasing a laser pointer.
+If you thought the mind was a quiet place where cards whisper at the pace of a well-tuned metronome, The Mind Extreme dares you to scream in color and chaos. This is the turbocharged cousin of that beloved cooperative micro-meditation known as The Mind. It takes the original premise, trims the external chatter, and shoves it through a kaleidoscope of new rules, fearsome timing, and a level of cooperation that would make a synchronized swimming team look like a couple of cats chasing a laser pointer.
 
 Geeknite has a soft spot for party games that demand nothing more than a quiet table and loud minds. The Mind Extreme obliges with a marathon of tiny decisions, each one a potential trigger for a collective euphoria or a spectacular faceplant. Will this game be your party’s next cult hero or a cautionary tale about misreading a teammate's silence? Read on, mind travelers, as we break down what works, what stumbles, and how to survive the brain jams this game loves to throw at you.
 
 ### What this review is and is not
 This is not a litany of rules word-for-word. This is a field report from a crew that has played this game with various groups, from the table-laughing crew to the intense puzzle hackers. If you want a strict ruleset, strap in and read the official manual. If you want to know how it lands on a real night, you’re in the right place. We will cover components, setup, flow, strategy, and a verdict you can take to the store or your local RPG night.
 
-For those who like cross-references to other Geeknite thoughts, we also link to our previous work on the originals and related games as a compare-and-contrast exercise. Check out our post on the mind basics here and the deeper dive into intense co-op pacing over there. [The Mind Review]({% post_url 2025-11-12-the-mind-review %}) and [The Mind: A Quick Refresher]({% post_url 2024-08-02-the-mind-quick-refresher %}). If you want the source board game nerd trivia, the BGG page is a friendly sidebar: https://boardgamegeek.com/boardgame/XXXXX/the-mind-extreme-card-game.
+For those who like cross-references to other Geeknite thoughts, we also link to our previous work on the originals and related games as a compare-and-contrast exercise. Check out our post on the originals and the deeper dive into intense co-op pacing over there. [The Mind Review]({% post_url 2025-11-12-the-mind-review %}) and [The Mind: A Quick Refresher]({% post_url 2024-08-02-the-mind-quick-refresher %}). If you want the source board game nerd trivia, the BGG page is a friendly sidebar: https://boardgamegeek.com/boardgame/XXXXX/the-mind-extreme-card-game.
 
 ## What is The Mind Extreme?
 The Mind Extreme is positioned as a willful escalation of the original experience. It keeps the core cruelty of silent collaboration intact while injecting a suite of expansions and optional twists that can be toggled on or off. The result is a game that can feel like a gentle breath of zen or like a dare from a caffeinated oracle. It scales across player counts in a way the original rarely did, offering new rhythms in rounds, new pressures, and a few surprising mechanics that test your ability to read a room without talking.
