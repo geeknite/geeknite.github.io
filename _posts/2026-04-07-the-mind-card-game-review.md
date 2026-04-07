@@ -8,13 +8,14 @@ tags:
   - family
   - review
   - geeknite
+  - cooperative-games
 ---
 
 # The Mind Card Game Review: Silent Signals, Loud Laughter for Family and Friends
 
-If you ever wanted a party game where silence is not a mood killer but a competitive sport, The Mind is your ticket. It is a cooperative card game that trusts your brain, your intuition, and the ability to ignore the urge to blurt out a victory cry at the exact wrong moment. It has earned its street cred as an award winning staple for small gatherings, and it ages surprisingly well from casual family nights to chaotic college game nights. Brace yourself for tension so thin you could cut it with a butter knife, and jokes so bad that someone will pretend to be offended just to keep the vibe alive.
+If you ever wanted a party game where silence is not a mood killer but a competitive sport, The Mind is your ticket. This cooperative card game dares you to trust your brain, your intuition, and the dangerously specific impulse to blurt out a victory cheer at the exact wrong moment. It has earned its street cred as an award-winning staple for small gatherings, and yes, it ages surprisingly well from casual family nights to chaotic college game nights. Brace yourself for tension so thin you could cut it with a butter knife, and jokes so bad that someone will pretend to be offended just to keep the vibe alive.
 
-Below we dive deep, with the usual Geeknite flair, into what makes this game work, why it shines with family and friends, and how you can wring every drop of delight out of it without ending friendships over a misplayed 37. Also, we drop some house rules, a couple of expansions you can pretend you own, and a couple of tips to become the silent ninja of your own game night.
+Below we dive deep, with the usual Geeknite flair, into what makes this game work, why it shines with family and friends, and how you can wring every drop of delight out of it without ending friendships over a misplayed 37. We also drop some house rules, a couple of expansions you can pretend you own, and a few tips to become the silent ninja of your own game night.
 
 ---
 
@@ -38,7 +39,7 @@ What can go wrong is hilariously predictable. A mis-timed card drop, a misread o
 
 The Mind runs on a simple premise: you and your crew are dealt a number of cards in your hand that depends on the round. Across roughly a dozen rounds, everyone secretly holds a set of numbered cards. The objective is to play your cards into a single central discard pile in ascending order, without verbally signaling your intent. If someone puts a card out of order, the team loses a life. Lose all lives, and the night ends right there. Keep the vibes high, and you race toward the final round where you hope to conquer the mind as one.
 
-The card numbers range from 1 to 100, which adds a dash of scale you do not always expect from a game that fits in a small box. The larger numbers means you can have longer “moments” where everyone quietly contemplates the next move, or you can have short, sprint-like bursts of loud laughter as someone suddenly realizes what a perfect nonverbal cue would be if only their eyes weren’t telling you a completely different story.
+The card numbers range from 1 to 100, which adds a dash of scale you do not always expect from a game that fits in a small box. The larger numbers mean you can have longer “moments” where everyone quietly contemplates the next move, or you can have short, sprint-like bursts of loud laughter as someone suddenly realizes what a perfect nonverbal cue would be if only their eyes weren’t telling you a completely different story.
 
 ### The round-by-round rhythm
 
