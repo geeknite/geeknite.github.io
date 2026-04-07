@@ -15,9 +15,8 @@ Hello fellow geeks and party strategists. Today we tackle a game that comes with
 
 ## Overview
 
-### What is Exploding Kittens NSFW Edition
-
-Exploding Kittens NSFW Edition is a cheeky take on a rapid fire card game about dodging donkey level chaos and exploding cats. The NSFW version keeps the same turn order and goal as the original game but ramps up the adult humor, a few extra spicy cards, and a more provocative aesthetic. The core loop is simple enough for a first time player but the joke density makes repeated play feel fresh in a group setting. The game thrives in a social space where the crowd enjoys the idea of pushing boundaries with a wink and a nod. The experience is a blend of strategy and luck with a heavy emphasis on social interaction and misdirection.
+### What is Exploding Kittens NSFW Edition?
+Exploding Kittens NSFW Edition is a cheeky take on a rapid fire card game about dodging donkey level chaos and exploding cats. The NSFW edition keeps the same turn order and goal as the original game but ramps up the adult humor, a few extra spicy cards, and a more provocative aesthetic. The core loop is simple enough for a first time player but the joke density makes repeated play feel fresh in a group setting. The game thrives in a social space where the crowd enjoys the idea of pushing boundaries with a wink and a nod. The experience is a blend of strategy and luck with a heavy emphasis on social interaction and misdirection.
 
 ### Sealed and ready for holiday chaos
 
