@@ -1,5 +1,5 @@
 ---
-title: "Codenames Board Game Review: Top Secret Wordplay for Your Next Geek Night"
+title: "Codenames Board Game Review: Expanded Top Secret Wordplay for Your Next Geek Night"
 date: 2026-04-07
 tags:
   - board games
@@ -10,13 +10,13 @@ tags:
   - tabletop
 ---
 
-![Codenames Box]( /assets/images/codenames-box.jpg )
+![Codenames Box](/assets/images/codenames-box.jpg)
 
-# Codenames Board Game Review: Top Secret Wordplay for Your Next Geek Night
+# Codenames Board Game Review: Expanded Top Secret Wordplay for Your Next Geek Night
 
-If you ever argued with your friends about whether Gandalf could out-clue Drax in a game about spy codes, congratulations: you were born to play Codenames. This brand-new, sealed copy landed on my table like a small, glossy alien artifact, blinking with secret words and a promise of chaotic coordination. What is Codenames, exactly? A party word game that spools up tension with the simplicity of a scavenger hunt and the strategic depth of a tiny, bristling chess match—without the three-hour commitment and the snarky tiebreaker that keeps your friend group up until 3 a.m. spinning a word wheel of doom. In short: it is delightful, chaotic, and oddly educational for your inner linguist. And yes, it is as brand-new as a fresh firmware update you’re afraid to install.
+If you’ve ever argued with your friends about whether Gandalf could out-clue Drax in a game about spy codes, congratulations: you were born to play Codenames. This little glossy artifact landed on my table like a tiny alien artifact from a parallel word-verse, blinking with secret words and a promise of chaotic coordination. What is Codenames, exactly? A party word game that does the spring-loaded flip of a scavenger hunt and the microdrama of a tiny, bristling chess match—without the three-hour commitment and the snarky tiebreaker that keeps your friend group up until 3 a.m. spinning a word wheel of doom. In short: it is delightful, chaotic, and oddly educational for your inner linguist. And yes, it is as brand-new as a fresh firmware update you’re afraid to install.
 
-In this long-form field test, we’ll unbox the box, decode the rules with the precision of a secret agent who actually read the manual, and give you the full verdict on who should buy this, when to play it, and why your next game night is about to become a genuinely cinematic espionage operation. If you’re a nerd who loves clever wordplay, social dynamics, and the occasional existential crisis caused by a clue that’s too on-the-nose, you’re in the right place. And if you’re not, well, you’ll still have fun watching your friends attempt to blend the same word for the 17th time in one evening. Welcome to Codenames, where every clue could be either a genius breadcrumb or a trapdoor to a 20-minute debate about word associations. Let’s dive in.
+In this expanded field test, we’ll unbox the box, decode the rules with the precision of a secret agent who actually read the manual, and give you the full verdict on who should buy this, when to play it, and why your next game night is about to become a genuinely cinematic espionage operation. If you’re a nerd who loves clever wordplay, social dynamics, and the occasional existential crisis caused by a clue that’s too on-the-nose, you’re in the right place. And if you’re not, well, you’ll still have fun watching your friends attempt to blend the same word for the 17th time in one evening. Welcome to Codenames, where every clue could be either a genius breadcrumb or a trapdoor to a 20-minute debate about word associations. Let’s dive in.
 
 > For the uninitiated: Codenames pits two teams against each other. Each round, one player from each team gives a one-word clue plus a number. That clue—ideally a word that somehow links several of their team’s agents on the map—should guide teammates to guess the correct words without stepping on a spy (which ends your turn and can be fatal for that round). The first team to guess all of its agents wins. Easy to learn, devilishly tricky to master, and perfect for a party where you’ve all sworn to go easy on the “just one more round” thing. Spoiler: you won’t.
 
@@ -30,16 +30,15 @@ The box is the sort that says, “We know you’ll bring this to every game nigh
 
 Inside the box, the setup is delightfully simple. You lay out a 5x5 grid of word tiles, reveal the key card that shows which words belong to the red team, the blue team, neutral, and the assassin, and you’re off to the races. The sheer simplicity means you can start playing within minutes, even if your brain is currently running on the bare minimum of caffeine and too many Zoom calls. And that is the beauty of Codenames: it requires almost no preamble, yet it can spiral into a legendary night of near-misses and triumphant “aha” moments.
 
-The packaging and components rate a solid Geeknite stamp of approval. The cards aren’t flimsy, the box isn’t top-heavy with filler, and the whole thing slots neatly onto a shelf between your copy of Decrypto and that Uno stack you keep promising to retire but haven’t. If you’re the sort of person who appreciates quality insert design, you’ll appreciate how the tiles settle flat without warping and how the actor cards lie in a neat little line of destiny, waiting for a clue to prompt a cascade of guesses.
+The packaging and components rate a solid Geeknite stamp of approval. The cards aren’t flimsy, the box isn’t top-heavy with filler, and the whole thing slots neatly onto a shelf between your copy of Decrypto and that Uno stack you keep promising to retire but haven’t. If you’re the sort of person who appreciates quality insert design, you’ll appreciate how the tiles settle flat without warping and how the agent cards lie in a neat little line of destiny, waiting for a clue to prompt a cascade of guesses.
 
 ---
 
 ## How Codenames Works: Rules in a Nutshell (With Details for the Avid Rule-Checkers)
 
-Codenames is deceptively simple in its core loop, but there are enough edge cases to keep your brain busy for an entire game night, especially as the players shift roles and strategies. Here’s a thorough walkthrough, including the crunchy bits you’ll to want to remember when your turn starts to form a small, tense theater around the table.
+Codenames is deceptively simple in its core loop, but there are enough edge cases to keep your brain busy for an entire game night, especially as the players shift roles and strategies. Here’s a thorough walkthrough, including the crunchy bits you’ll want to remember when your turn starts to form a small, tense theater around the table.
 
 ### Setup
-
 - Lay out 25 word tiles in a 5x5 grid. Each word is a potential agent, waiting for a code name to reveal its identity.
 - The red-blue-key card is shuffled and placed so that everyone can see which words belong to red, blue, neutral, and the assassin. The color distribution is fixed by the card, but the actual words connected to each color are random.
 - Choose a spymaster per team. The spymaster’s job is to give one-word clues plus a number to guide their teammates toward their color words. The rest of the players attempt to deduce which words are the best guesses.
@@ -78,7 +77,7 @@ Codenames’ physical footprint is modest, which is part of its charm. It doesn�
 
 The 200+ word tiles are the heart of the game. They’re bold, single-word prompts designed to evoke a spectrum of meanings. Some are sleek and modern (think tech, science, pop culture), others are wonderfully abstract (poetry, myths, or obscure terms), and a few can cause a mild existential crisis when you realize your word choices have baked-in double meanings that you didn’t intend. The tiles’ typography is crisp, with high contrast letters that are easy to read from across the table. The colors on the backing—red vs. blue—are bright enough to create that classic “team spirit” vibe without feeling gimmicky.
 
-### The Assasin Tile
+### The Assassin Tile
 
 The assassin tile is drama in tile form. It’s a constant reminder that a well-chosen clue can be a game-changer and that your grand strategy might crumble under one bold misstep. It’s not just a “lose the round” mechanic; it’s a narrative device. The assassin invites players to consider consequences, to weigh risk versus reward, and to remember that a good clue is also a responsibility.
 
@@ -211,4 +210,4 @@ If you’re into breaking the ice, building camaraderie, or just unreeling the i
 
 ---
 
-**[Buy Codenames on Amazon](https://www.amazon.com/dp/B01N5S4NDX)**
+**[Buy Codenames on Amazon](https://www.amazon.com/dp/B01N5S4NDX)
