@@ -1,5 +1,5 @@
 ---
-title: 'Exploding Kittens: NSFW Edition — Geeknite Review Updated'
+title: Exploding Kittens NSFW Edition — Geeknite Review Updated
 date: 2026-04-07
 tags: [games, board-games, nsfw, humor, reviews, party-games]
 ---
@@ -39,7 +39,7 @@ If you’re playing with a mixed-age group, consider creating a policy card that
 The NSFW edition preserves the backbone of Exploding Kittens: draw cards until you explode—or you don’t. Defuse cards can save you. The rest of the deck contains cards that let you peek, skip, attack, shuffle, or downright boop other players into chaos.
 
 ### Turn Flow
-- On your turn, you can play as many cards as you want from your hand, or you can draw one card from the deck. 
+- On your turn, you can play as many cards as you want from your hand, or you can draw one card from the deck.
 - If you draw an Exploding Kitten, you’re not necessarily out—unless you lack a Defuse card. Defuse cards act as a one-time life saver that lets you survive the draw by placing the kitten back into the deck (in a location of your choosing, after you reveal the draw). In the NSFW edition, there are sometimes additional interaction cards that modify or threaten the Defuse mechanic—intentionally adding tension.
 - The “boop” mechanic (you can boop another player to force them to draw) remains a core engine of chaos; NSFW adds spicy flavor options here, including dares that must be completed or replaced by a special card.
 
@@ -110,6 +110,11 @@ If you’re colorblind, the deck uses distinct hues and clear card framing to mi
 This edition shines in a house-party setting. It is not a game you’d play in a strict corporate environment or a family brunch with kids and grandmothers. Instead, it thrives in a living room where adults can laugh at risqué humor, riff on roasts, and synergize with a little chaotic theater. The social contract here matters: ensure consent, respect boundaries, and agree on a few ground rules before you begin.
 
 If you want to be inclusive, you can preface the game with a short consent and comfort card that explains what types of humor are welcome and which lines are off-limits. It’s a fun way to show you care about everyone’s enjoyment and still maintain the high-energy NSFW vibe.
+
+### Inclusivity, Consent, and Game Night Etiquette
+- Start with a one-page quick guide on boundaries and a simple opt-out option for dares that feel too personal.
+- Use a rotating “designated moderator” to handle disputes and to veto overly aggressive prompts.
+- Consider a “cool-down” token that allows a player to skip a dare and explain why without breaking momentum.
 
 ## The Final Verdict: Is It Worth It?
 Exploding Kittens NSFW Edition is not the game for every table. It’s a very personality-driven product that rewards bold, witty players and pun-lovers who enjoy a bit of shock value. If your group adores improv games, memes, and lighthearted adult humor, you’ll likely fall in love with its chaotic rhythm and infectious energy. If you’re more into elegant deduction, quiet strategy, or office-friendly humor, this edition will probably feel like a misfit at the table.
