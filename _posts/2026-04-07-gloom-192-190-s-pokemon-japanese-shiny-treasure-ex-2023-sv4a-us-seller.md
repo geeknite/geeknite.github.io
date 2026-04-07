@@ -1,24 +1,23 @@
 ---
-ttitle: "Gloom 192/190 S: Japanese Shiny Treasure EX 2023 SV4a — US Seller Review"
+title: 'Gloom 192/190 S: Japanese Shiny Treasure EX 2023 SV4a — US Seller Review'
 date: 2026-04-07
 tags: [Pokemon, Card Reviews, Japanese Sets, Shiny Treasure, Gloom, SV4a, US Seller, Collectible]
 ---
 
 ## Overview
-A card, a mystery, and a little bit of pocket-sized chaos: that’s what you’re signing up for when you click on 
-Gloom 192/190 S from the slippery world of Japanese Shiny Treasure EX 2023 SV4a. We’ve seen many shiny chase cards over the years, but this one has the kind of lore that makes your local card shop smell vaguely like an epic quest—if your quest involves a lot of sun-drenched foil, a dash of misprinted mystique, and a seller whose feedback score reads like a dramatic fantasy novel.
+A card, a mystery, and a little bit of pocket-sized chaos: that’s what you’re signing up for when you click on Gloom 192/190 S from the slippery world of Japanese Shiny Treasure EX 2023 SV4a. We’ve seen many shiny chase cards over the years, but this one has the kind of lore that makes your local card shop smell vaguely like an epic quest—if your quest involves a lot of sun-drenched foil, a dash of misprinted mystique, and a seller whose feedback score reads like a dramatic fantasy novel.
 
-In this review, we’re going to break down the card’s design, its place in the SV4a era, how to sanity-check authenticity when your US seller says they’re “100% legit,” and whether this specimen deserves a spot in your display case or in your “maybe someday” pile. If you came here hoping for a hard PSA 10 rating and a stock photo of a moist-printed sunrise, you might want to brace yourself, because we’re going to treat this like a quirky late-night shopping episode hosted by your nerdy best friend who tries to keep it classy while shouting about shiny Glooms.
+In this expanded review, we’re not just pausing to squint at the holo borders. No, we’re going on a full safari through the card’s design, its place in the SV4a era, and the delicate art of authenticating a hot Japanese print when your US seller claims it’s “100% legit.” We’ll also interrogate its value proposition: is it a centerpiece for a display case, a confident addition to a cross-collection mosaic, or a glittery curiosity that deserves a respectful small shelf in the back room of your heart? If you came here hoping for a PSA 10 unicorn wearing a cape, you’ll want to brace yourself for a more playful, late-night shopping show hosted by your nerdy best friend who tells jokes while sharpening the foil edge.
 
 > External context you may enjoy: for a broader look at the Gloom line across generations, see Bulbapedia’s Gloom page and the broader carding ecosystem. [Gloom on Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Gloom_(Pok%C3%A9mon))
 
-![Gloom 192/190 S Card Artwork](./assets/images/gloom-192-190-s-pokemon-japanese-shiny-treasure-ex-2023-sv4a-us-seller.jpg)
+![Gloom 192/190 S Card Artwork](./assets/images/gloom-192-190-s-pokemon-japanese-shiny-treasure-ex-2023-sv4a-us-seller.jpg){: .card-art }
 
 And for a deeper dive on the shiny treasure philosophy in collectible cards, you can peek at our internal references or jump to related posts via post URLs below.
 
 ## The Card Itself: Gloom 192/190 S
 ### Design and Artwork
-Gloom has always represented the moody charm of offbeat B-listers in the Pokemon universe. In this Japanese Shiny Treasure EX set, the 192/190 S variant leans into a sultry, dusk-tinged foil that shimmers like a neon cave—cool enough to belong on a space station, but with that classic gloom aura that fans know and love. The illustration features Gloom in a slightly more anthromorphic pose than the usual botanical vibe, almost as if the creature is simultaneously sighing and winking at you through a veil of leafy tendrils.
+Gloom has always represented the moody charm of offbeat B-listers in the Pokemon universe. In this Japanese Shiny Treasure EX set, the 192/190 S variant leans into a sultry, dusk-tinged foil that shimmers like a neon cave—cool enough to belong on a space station, but with that classic gloom aura that fans know and love. The illustration features Gloom in a slightly more anthropomorphic pose than the usual botanical vibe, almost as if the creature is simultaneously sighing and winking at you through a veil of leafy tendrils.
 
 The art direction here nods to a “treasure” theme: reflections, micro-foil accents, and a holo border that catches your eye before you even get to the card’s backstory. It’s not going to win any portrait awards, but it’s absolutely a conversation piece in a display case that also wants to vibe with your desk lamp and the glow of your monitor at 1 a.m. while you pretend to work on a decklist.
 
