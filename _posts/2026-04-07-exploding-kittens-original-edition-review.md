@@ -1,11 +1,11 @@
 ---
-title: 'Exploding Kittens - Original Edition: The 2-5 Player Cat-astrophe (Ages 8-11)'
+title: 'Exploding Kittens - Original Edition: The 2-5 Player Cat-astrophe (Ages 8-11) — Expanded and Updated'
 date: 2026-04-07
 tags: [games, board-games, reviews, ExplodingKittens, party-games, geeknite, family-friendly]
 ---
 
 ## Introduction
-There exists a small subset of tabletop gaming that can be boiled down to two elements: chaos and cats. Exploding Kittens - Original Edition is a glorious artifact that embodies both in a 2- to 5-player fireworks show. If you’re the kind of person who chuckles at the phrase breakable-logic and also loves the sound of a kitten meow, you’re in for a treat. This review covers what the Original Edition brings to the table, why it sticks in your brain like a velcro sticker, and how it behaves in a family-friendly carnage scenario that somehow stays endearing rather than cat-astrophic. And yes, it’s perfectly pitched for ages 8 through 11, which makes it a fantastic bridge game between kids and adults who still think a pun about a purring disaster is high art.
+There exists a small subset of tabletop gaming that can be boiled down to two elements: chaos and cats. Exploding Kittens - Original Edition is a glorious artifact that embodies both in a 2- to 5-player fireworks show. If you’re the kind of person who chuckles at the phrase breakable-logic and also loves the sound of a kitten meow, you’re in for a treat. This updated review dives into what the Original Edition brings to the table, why it sticks in your brain like a velcro sticker, and how it behaves in a family-friendly carnage scenario that somehow stays endearing rather than cat-astrophic. And yes, it’s pitched for ages 8 through 11, which makes it a fantastic bridge game between kids and adults who still think a pun about a purring disaster is high art.
 
 To kick things off: here’s a quick picture to whet your curiosity.
 
@@ -47,7 +47,7 @@ The objective is simple: avoid drawing an Exploding Kitten without a Defuse. The
 - Cat cards form sets that are traded in for powerful effects, if you’re lucky enough to complete the combo. It’s a bit like a tiny, chaotic set collection that rewards confidence more than actual skill.
 
 ### Turn sequence in practice
-A typical turn looks like this: you draw a card, hope you didn’t anger the feline gods, and then decide if you want to play a Defuse or any other card you’ve been hoarding like a dragon with a credit card. Players can hoard Defuses, see-through futures, and the occasional acerbic commentary about the inevitability of doom.
+A typical turn looks like this: you draw a card, hope you didn’t anger the feline gods, and then decide if you want to play a Defuse or any other card you’ve been hoarding like a dragon with a credit card. Players can hoard Defuses, See the Future, and the occasional acerbic commentary about the inevitability of doom.
 
 ### Endgame pacing
 The game is designed to move quickly. If you’re lucky, it will be a 10-minute warmup; if you’re unlucky and blessed with a chain of Exploding Kitten draws, you could be staring at a tense, ridiculous 20-minute spectacle. Either way, you will laugh at least five times per round—if not at the literal explosions, then at the timing and the faces of players who miscalculate their strategy and stare into the abyss of a pile of cat-themed doom cards.
@@ -109,7 +109,7 @@ For fans of party games with meme culture, you’ll appreciate how quickly Explo
 We’ve seen readers respond with comments that the game is perfect for a casual Friday, a pre-event warm-up, or a late-night laugh session when productivity is already far in the rear-view mirror. It’s the kind of game that leads to shared stories about ridiculous plays, surprising outcomes, and those priceless expressions when someone finally snatches victory from the brink with a defuse card and a dramatic wink. If you’re curious about how to host a session, our post on running a lively game night can be linked here: [Hosting a Geeknite Game Night]({% post_url 2025-03-14-host-game-night.md %}). For a compare-and-contrast piece on another chaotic card game, see [Explosions and Laughs: A Look at Party Card Games]({% post_url 2023-08-22-party-card-games.md %}).
 
 ## Final verdict
-Exploding Kittens - Original Edition is a delightful, approachable, and endlessly rewatchable party game. It excels as a starter for a night that could otherwise drift into features of the couch territory, a quick palate-cleanser between heavier titles, or a silly highlight reel of absurd moments that your group will remember fondly. It’s not trying to be a chess match; it’s trying to be the social glue of your gathering, wrapped in a cat-themed carnival of doom. If your group loves quick, silly interactions with a high potential for hilarity, this is a must-have.
+Exploding Kittens - Original Edition is a delightful, approachable, and endlessly rewatchable party game. It excels as a starter for a night that could otherwise drift into couch territory, a quick palate-cleanser between heavier titles, or a silly highlight reel of absurd moments that your group will remember fondly. It’s not trying to be a chess match; it’s trying to be the social glue of your gathering, wrapped in a cat-themed carnival of doom. If your group loves quick, silly interactions with a high potential for hilarity, this is a must-have.
 
 ### Where to buy and what to expect
 You can grab it from major retailers or through the official Exploding Kittens site. The experience is consistent: bright, fun components; a deck that’s easy to shuffle and not at all interested in fairness; and a few moments of pure chaos that will make your friends declare this game a staple in your shared hobby.
