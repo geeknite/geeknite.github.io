@@ -1,11 +1,11 @@
 ---
-ttitle: 'Exploding Kittens - Original Edition: The 2-5 Player Cat-astrophe (Ages 8+) — Expanded and Updated'
+title: "Exploding Kittens Original Edition: Cat-astrophe Expanded and Updated"
 date: 2026-04-07
 tags: [games, board-games, reviews, ExplodingKittens, party-games, geeknite, family-friendly, card-games]
 ---
 
 ## Introduction
-There exists a small subset of tabletop gaming that can be boiled down to two elements: chaos and cats. Exploding Kittens - Original Edition is a glorious artifact that embodies both in a 2- to 5-player fireworks show. If you’re the kind of person who chuckles at the phrase breakable-logic and also loves the sound of a kitten meow, you’re in for a treat. This updated review dives into what the Original Edition brings to the table, why it sticks in your brain like a velcro sticker, and how it behaves in a family-friendly carnage scenario that somehow stays endearing rather than cat-astrophic. And yes, it’s pitched for ages 8 and up, which makes it a fantastic bridge game between kids and adults who still think a pun about a purring disaster is high art.
+There exists a small subset of tabletop gaming that can be boiled down to two elements: chaos and cats. Exploding Kittens - Original Edition is a glorious artifact that embodies both in a 2- to 5-player fireworks show. If you’re the kind of person who chuckles at the phrase breakable-logic and also loves the sound of a kitten meow, you’re in for a treat. This expanded and updated review dives into what the Original Edition brings to the table, why it sticks in your brain like a velcro sticker, and how it behaves in a family-friendly carnage scenario that somehow stays endearing rather than cat-astrophic. And yes, it’s pitched for ages 8 and up, which makes it a fantastic bridge game between kids and adults who still think a pun about a purring disaster is high art.
 
 To kick things off: here’s a quick picture to whet your curiosity.
 
@@ -17,8 +17,10 @@ For the geeks among you who demand the exact dynamics: the core deck contains De
 
 If you’re curious about related board-night wisdom, check out our hosting guide: [Hosting a Geeknite Game Night]({% post_url 2025-03-14-host-game-night.md %}). If you want to compare vibes, see our take on a similar chaotic classic: [Codenames: The Party Advantage]({% post_url 2024-10-01-codenames-review.md %}).
 
+> Quick aside for the uninitiated: the original kit is a compact, riotously colorful box that looks like it’s designed by a cat with a marker and a caffeine addiction. The result is a visually loud invitation to chaos, which, let’s be honest, is exactly what we want on a game night. Now let’s dive deeper.
+
 ## What’s in the box (updated perspective)
-In the Original Edition, you get a deck of 56 cards, a handful of adorable but lethal kittens, and a few defensive options to keep yourself from turning into a puddle of shame if you draw the wrong card at the wrong time. The kid-friendly version of the rules keeps the stakes light but the electricity high enough to coax giggles from the most stoic grown-ups.
+In the Original Edition, you get a deck of 56 cards, a handful of adorable but lethal kittens, and a few defensive options to keep yourself from turning into a puddle of shame if you draw the wrong card at the wrong time. The kid-friendly rules keep the stakes light but the electricity high enough to coax giggles from the most stoic grown-ups.
 
 ### The lineup of cards includes:
 - Exploding Kitten cards: the big booms that end your post-mortem street cred if drawn without a Defuse.
@@ -30,6 +32,9 @@ In the Original Edition, you get a deck of 56 cards, a handful of adorable but l
 - Cat cards: pairs and triples that you can trade in for crazy combinations, trading in cat puns and memes for bigger chaos.
 
 The art is bright, playful, and a little deranged—in the best possible way. It communicates the mood instantly: this is a game about chaos, but it’s all in good fun, like a kitten wearing a party hat and accidentally knocking over a vase of your dignity.
+
+### Jekyll-and-Hyde with a Meow: why the art matters
+The visuals aren’t just decoration; they prime your brain for the “zen of ridiculousness” that Exploding Kittens excels at. A well-timed misread of a card leads to laughter, and the art helps guide what kind of laughter you’re about to hear: the goofy, the bantering, or the “you did not just bluff that confidently.” The cat mascots aren’t subtle; they’re the hype squad for your table, constantly nudging everyone toward the next ridiculous moment.
 
 ## How to play (the friendly-fire version, expanded)
 Exploding Kittens is designed to be accessible, fast, and loaded with personality. Here’s a deeper dive into how a typical session unfolds, especially when you’ve got a table full of kids and a few adults who still remember hitting the high score in arcade games.
