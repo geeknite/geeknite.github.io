@@ -1,5 +1,5 @@
 ---
-title: Exploding Kittens: Party Pack - Fun and Fast-Paced Card Game
+title: Exploding Kittens Party Pack Up to 10 Players — Chaos, Cats, and Quickfire Card Chaos
 date: 2026-04-07
 tags:
   - games
@@ -8,110 +8,133 @@ tags:
   - party
   - review
   - geeknite
+  - chaos
+  - party-pack
 ---
+
+![](assets/images/exploding-kittens-party-pack.jpg)
 
 ## Overview
 
-If your gatherings crave chaos, if your table can survive a flurry of fast moves, and if you secretly want to see a room full of adults act like caffeinated cats, then the Exploding Kittens Party Pack might just be your jam. This is the kind of game that arrives with a smile and leaves with a verdict that loyalty is earned in chaos, not in your grand strategies. The Party Pack is designed as a compact carnival of micro-games and modular chaos, a backpack full of quick rounds that you can pull out between pizza bites, responsibly ignoring the dishes for a few minutes more. Think rapid-fire rounds that can be played with a mixed crew of friends, family, or your neighbor who claims to hate party games but secretly loves chaos.
+The Party Pack is exactly what you expect: a carnival of micro games wrapped in a cat-themed bow, engineered for maximum laughter and minimum table drama. It supports up to 10 players, which means you can gather a full crew from your friend group, your chaotic family dinner, or your coworkers who swear they hate party games but secretly crave ridiculous chaos. This pack takes Exploding Kittens from a single title with a few twists to a party night curator that can stretch a single evening into an entire festival of rounds. The design goal here is not a deep strategic ballet but a sprint through a few quick decisions, a handful of jokes, and a dramatic moment when someone defuses a kitten and saves the table from catastrophe while wearing a silly hat.
 
-In Geeknite style, imagine if your game night got a cat-themed upgrade and then someone yelled, Yo, this is a tournament now, but the tournament is basically a duel over who can draw a card without bursting into laughter first. The Party Pack is less about slow, methodical tactics and more about rolling with the chaos while keeping a straight face long enough to declare a winner who may or may not be wearing a goofy hat.
+In Geeknite style, Picture this: cat art, cartoon violence of the adorable kind, and a deck that reshuffles so often you swear you are living inside a GI Joe card battle where the snacks are the real prizes. The Party Pack is the social glue, the host that keeps energy high, and the referee who tries not to laugh as someone attempts to cheat with a See the Future twist that reveals a new plan only to get sabotaged by a rogue Defuse.
 
-> Note for the uninitiated: Exploding Kittens is a cultural phenomenon, but this Party Pack is the party animal edition. It packs a bunch of variants, a deck that scales to different player counts, and enough jokes to make your cat videos jealous. If you want the short version: it is fast, funny, and fairly forgiving, which makes it a nice gateway to board game socializing, especially for groups that prefer chaos to long-winded strategy.
+> Note for newcomers: Exploding Kittens has reached meme-level recognition for a reason. The Party Pack packages its chaos in multiple quick-fire formats so you can rotate experiences with relative ease, giving your crew a dozen chances to win while only spending a fraction of the total setup time of a typical board game night.
 
 ## What’s inside the Party Pack
 
-The Party Pack is billed as a bundle designed for quick rounds, big laughs, and social chaos, not a chess match in a cave. It includes a curated set of components that lets you mix and match to your heart's content. Here is a typical breakdown you can expect, with a Geeknite twist:
+Inside this compact bundle you will find a toolkit designed for modular chaos. The contents are chosen to support a broad mix of group dynamics without requiring hardcore setup or rule slides. Here is a practical breakdown with a Geeknite tilt:
 
-- A core Exploding Kittens deck with a standard set of action cards and defuse mechanisms. You can think of this as the backbone that keeps things moving and gives players a heroic chance to avert catastrophe with a trusty Defuse card.
-- Several variant rules and mini-games that let you pivot from standard play to something more zany. These variants are designed to be dropped into a party with minimal setup, because nobody wants to spend 15 minutes learning a new system when the pizza is getting cold.
-- A set of token or score-keeping methods that help you decide a winner after a few wild rounds rather than forcing you to play until the internet wakes you up at 2 AM.
-- Thematic art that leans into the cat-and-catastrophe vibe, peppered with goofy expressions that are almost guaranteed to trigger a fit of giggles at the table.
-- A nicely sized box that travels well and can slip into a backpack for spontaneous game nights. If you travel light, this is your go-to friend for an on-the-go laughter session.
+- A core Exploding Kittens deck with the familiar Defuse cards and a suite of action cards that drive the chaos forward. Think of this as the heart that keeps the heart rate up even as the table erupts with laughter.
+- A set of variants and mini-games that plug into standard play to deliver zippy rounds with minimal learning. These variants are designed for quick adoption so you can pivot between 2 to 10 players without long downtime.
+- Simple scorekeeping or tokens that help you decide a winner after a handful of rounds rather than forcing marathon play sessions that extend into breakfast.
+- Thematic art that leans into the cat catastrophe vibe and a goofy cast of expressions that invite storytelling and smack-talk that remains good-natured.
+- A travel-friendly box that fits in a backpack for spontaneous game nights and quick trips between house sits and vacations.
 
-Inside the box you will also find a few clarifications on house rules. These are often the best part of party games: how you choose to interpret the chaos. The Party Pack invites you to experiment, mix, and reassemble the chaos until you find a rhythm that fits your crew. If you are a purist who wants the exact same play every time, you might feel a twinge of the good old days when everything had a fixed set of rules. If you love improvisation and social vibes, this is a playground with a glossy surface.
+The box also contains a handful of house-rule clarifications that invite you to remix the chaos. The Party Pack wants you to experiment, orient the chaos toward your crew, and craft a rhythm that fits the vibe of your night. If you prefer a strict, edited experience, there is a nagging whisper that you are missing out on the spontaneity that makes party games memorable. If you love improv, this is a playground with a glossy surface.
 
 ## How to play in under five minutes
 
-Explaining Exploding Kittens in a single paragraph is a challenge worthy of a cat leaping from a shelf, but here is the distilled version you can share during the first coffee break:
+Explaining Exploding Kittens in one breath is a heroic feat worthy of a legend cat, but here is the condensed version you can broadcast during the coffee break before someone shouts last orders:
 
-1) Shuffle the deck. 2) Each player draws a card. 3) When you draw an Exploding Kitten, you are closer to being eliminated unless you have a Defuse card. 4) Play action cards to alter turns, skip your forceful fate, or peek into the future to dodge doom. 5) The last player standing wins. Simple, chaotic, and gloriously unpredictable.
+- Step 1: Shuffle the deck and deal each player a starting hand. The social friction begins before you even hold your first card.
+- Step 2: On your turn, you can either draw a card or play an action that reshapes the deck, shuffles doom, or forces others to draw. Action cards are the true party favors here, allowing you to skip turns, steal cards, peek into the future, or pass the kitten doom to someone else.
+- Step 3: If you draw an Exploding Kitten and you lack a Defuse, you exit the round. If you have a Defuse, you survive with style, reinsert the kitten into the deck, and keep the party going.
+- Step 4: The last player standing takes the victory dance that may involve dramatic hair flicks and a celebratory table slam.
 
-The Party Pack’s variants streamline this process into bite-sized rounds. You can run a 2 to 3 player game with the standard deck, or you can crank the chaos to four, five, or six players with a couple of quick rule swaps. The beauty here is the speed: rounds are typically 5 to 10 minutes, which means you can sprint through a dozen rounds in an hour and still leave space for snacks, trash-talking, and the inevitable table megaphone that declares the winner like a late night game show host.
+The Party Pack variants condense and accelerate this flow for larger groups. You can jump into a 2 to 3 player game with the standard deck or crank the chaos to 4 to 6 players with a few swift rule swaps. Because speed matters more than long-term planning in this format, rounds typically clock in at around 5 to 10 minutes. That means you can run a dozen rounds in a single night, leaving room for snacks, side bets on who can hold a straight face, and a few exhausted yet triumphant victories.
 
-If you want a practical demonstration before you dive in, here is a quick 3-step play guide:
+A practical 3-step play guide for fast starters:
 
-- Step 1: Each player draws one card to start their hand. The surprise is that people will antagonize you relentlessly even before you have a hand full of Defuse cards. This is the social piggy bank where chaos pays interest.
-- Step 2: On your turn, you can either draw a card or play an action that changes the deck dynamics. The action cards are where the party truly shines, as they can force other players to skip a turn, peek at the future, or pass the kitten doom to someone else.
-- Step 3: If you draw an Exploding Kitten and you do not have a Defuse, you are out of the round. If you do have a Defuse, congratulations, you are used to this cringe-worthy moment and get to reshuffle the deck with style.
+- Step 1: Each player draws one card to begin. You will quickly discover the social currency of the night as people start taunting you from across the table before you even have a hand.
+- Step 2: On your turn, decide to draw or to deploy an action card that shifts the deck dynamics, forces a skip, or triggers a playful dare around the table.
+- Step 3: If you draw an Exploding Kitten and you lack a Defuse, you are out. If you have a Defuse, you survive with style, reinsert the kitten into the deck, and keep the chaos alive.
 
-For new players, the language of the cards is a bit cheeky but not brutal. It is designed to provoke laughs while keeping the rules approachable. If you have non-gamers in the group, the Party Pack is a good entry point because the pace and humor carry you through a learning curve that is less about strategy and more about reading the table and seizing the moment.
+For new players, the humor sits at a friendly distance from hard rules — it is cheeky and accessible rather than punitive. The Party Pack excels as an accessible entry point to tabletop gaming, particularly for groups with mixed gaming backgrounds. The pace, humor, and social pressure to perform keep the energy high and the learning curve friendly.
 
 ## Components and quality
 
-Quality is a cat that pounces twice. The Party Pack uses sturdy cards that feel comfortable in hands of all sizes and textures that are easy to grip after a couple of rounds. The artwork stays consistent with Exploding Kittens style: bold, silly, a little absurd, and always entertaining to look at. The box is compact enough to store on a shelf without taking up the entire space, but large enough to survive a wild game night where drinks a little spill, snacks get crushed, and your cat insists on supervising every draw you make.
+Quality in this pack is a cat that lands on its paws. Cards are sturdy, with a nice weight and texture that tell you they can survive a night of boisterous conversation and table shoves. The art keeps the signature Exploding Kittens aesthetic: bold, goofy, a touch absurd, and consistently entertaining to study between rounds. The box is compact yet sturdy, ready to ride in a backpack for spontaneous game sessions or late-night road trips to the lake house. The material texture is pleasant to touch and easy to manage even during rapid-fire rounds.
 
-One thing to note is that the humor might not land equally well with every group. If your table is more prone to snort-laughter than giggle-snorts, you might find yourself chasing jokes rather than chasing wins. That said, the humor is a feature, not a bug. It invites conversation, playful banter, and storytelling around the table, which is exactly what a party game should do when the cards start flying and the Defuses start stacking up like an improvised shield wall.
+One caveat: humor is a flavor thing. Some folks will be roaring with laughter, others might find some gags a touch crass or repetitive. That variability is exactly what makes party games charming and risky at the same time. If your crew enjoys playful banter and silly references, you will likely worship the humor here. If not, you might wish for a more subtle take on chaos.
+
+The design philosophy here leans into social interaction: you are not just playing a card game, you are broadcasting micro narratives about luck, risk, and the cunning deflection of doom. The boards, the tokens, and the art all work together to create story seeds that carry beyond the table.
 
 ## Why it works for party nights
 
-Party nights thrive on three things: speed, interaction, and a shared sense of ridiculousness. Exploding Kittens Party Pack nails all three. The rounds are quick, so players who arrive late still feel included. The interaction is built into the card play: you are always nudging someone else into risk territory, whether by forcing them to draw next or by dropping a card that changes the odds in a single turn. And the ridiculousness comes from the inherent absurdity of the theme and the lines on the cards. It is hard to take a game too seriously when the objective is to avoid kittens that want to explode your day in the most cartoonish way possible.
+Party nights succeed when players feel connected, energized, and a little ridiculous. Exploding Kittens Party Pack nails all three. The rounds are short, which means late arrivals can jump in without feeling left out. The interaction is built into the mechanics; you are nudging others into risk by playing cards, flipping the turn order, or passing the doom along. The humor, which ranges from goofy to cheeky, makes it easier to forgive a bad draw and celebrate a surprising survival.
 
-The social dynamics of party games are often about who can read the room and who can resist the urge to steal the show. The Party Pack gives everyone at the table something to do, something to heckle, and something to celebrate when innocence is restored by a well-timed Defuse. It also scales nicely: you can start with a few friends after dinner and expand to a bigger gathering as the night grows, or you can run a rapid-fire tournament to decide who gets the last slice of pizza with a flourish.
+The social dynamics of party nights are a dance of attention and timing. The Party Pack gives everyone something to do, someone to heckle, and a moment to claim the glory when a Defuse saves the day. It scales well for up to 10 players, where the energy can feel almost like a carnival. For groups that are new to board games, this can act as an accessible doorway into the hobby, turning skeptical friends into fellow chaos enthusiasts after a single night of domino-like rounds and celebrated near-misses.
 
-## Strategy notes (yes, there is a tiny speck of strategy here)
+## Strategy notes (tiny speck of strategy here)
 
-While Exploding Kittens Party Pack is primarily a chaotic social experience, there are still moments when a little planning pays off. Here are a few strategies you can try without insane analysis paralysis:
+Even in a chaos-driven party game, there are micro-strategies that can tilt the odds without requiring a doctoral thesis in probability:
 
-- Manage your Defuses like precious relics. They are your lifeline when the Exploding Kitten cards start cascading. Use them affordably and keep one for a critical moment when you cannot avoid doom.
-- Pay attention to turn order. In a fast round, you may want to accelerate the pace to pressure players who are slow to react or waste time overthinking each draw.
-- Watch others for tells. People have patterns when they get excited or nervous. If you notice a player leaning toward a certain move when a specific card is drawn, you can anticipate a next move and react in kind.
-- Use the See the Future or See the Future variants to peek ahead. A quick peek can save you from doom, but use it sparingly; overuse empties the suspense and robs the table of fun moment-to-moment drama.
-- Embrace the chaos. The point of a party game is to build memory anchors, silly stories, and inside jokes. If you over-optimize, you may miss the core joy of the experience, which is to laugh at the ridiculous consequences of a bad draw and celebrate the relief when someone dodges a catastrophe with a Defuse.
+- Protect your Defuses like priceless artifacts. They are the lifeline when the explosive threat lands. Use them with restraint and save at least one for critical late-game moments.
+- Track turn order and pace. In many quick rounds, pressing the tempo can pressure players who overthink, while giving nimble players a chance to exploit the chaotic flow.
+- Read the room for tells. People reveal their thinking in small tells when they are about to commit to a risky move. If you notice a pattern, you can adapt and steer the table.
+- Use See the Future variants strategically. A peek can reveal doom and save your day, but overuse reduces suspense and makes the chaos feel scripted.
+- Embrace chaos and storytelling. The real reward here is not the few cards left in the deck but the stories you walk away with. The best moments are the ones you remember long after the last card drops.
 
-If you want a more detailed breakdown of play patterns, check out our post on quick party strategies with card games: [Love Lettering and Quick Card Tricks]({% post_url quick-card-tricks %}). You might also enjoy our look at chaotic games with a similar vibe: [Riffing with Deck-Building Chaos]({% post_url deck-building-chaos-review %}).
+If you want more hard-edged insights into party card play, check out our post on quick party strategies with card games: Love Lettering and Quick Card Tricks. You might also enjoy our look at chaotic games with a similar vibe: Riffing with Deck-Building Chaos.
 
 ## Who should buy this
 
-- Groups that love fast, social, laughter-first games. If you enjoy the vibes of party games without drowning in rulebooks, this is a good fit.
-- Newcomers to tabletop gaming who want something approachable and entertaining. The learning curve is friendly, and the humor keeps things approachable.
-- People who want a compact, travel-friendly game night option. The Party Pack travels well and can slot into a weekend trip or an impromptu hangout without much setup time.
-- Families who want a light, non heavy game that still scratches the competitive itch. It is not too mean or dark, which makes it more widely accessible across ages, though parental guidance for younger players is always recommended with any party game humor.
+- Groups that crave fast, social, laughter-first experiences. If you want something that gets a room buzzing without a long rulebook, this is a strong candidate.
+- Newcomers to tabletop gaming who want something approachable and entertaining. The learning curve is friendly, and the humor keeps things light.
+- People who want a compact, travel-friendly night of gaming. The Party Pack is easy to transport and quick to set up, which is ideal for hotel rooms, house sits, or a weekend trip with friends.
+- Families seeking a light, non heavy game that still scratches the competitive itch. It is not too mean or dark, making it accessible for a wide range of ages, though parental discretion on humor is wise.
 
-Of course, if you are seeking high strategy and deep tactical play, this is probably not your jam. It is a party game for social play, not a deep thinking exercise in resource management. If you want to cater to someone who loves long, intense sessions, consider mixing this with another game that scratches that itch. The Party Pack can be a gateway to other titles that you rotate in after the laughter dies down.
+Of course, if your goal is deep strategy and long planning, this is not your jam. It is a party game for social play, not a strategic empire builder. You can pair it with another game for a balanced library, using the Party Pack as a social break between heavier experiences.
 
 ## Thematic fit and humor
 
-Exploding Kittens is unabashedly goofy. The Party Pack amplifies that vibe with art, jokes, and gags that lean into the ridiculous. If you appreciate cartoons, absurd scenarios, and cat-centric humor, you will feel right at home. The humor may not land for everyone, especially if you prefer subtle wit over loud comedic chaos. But for a group that wants a loud, chaotic, and delightfully silly time, the Party Pack delivers a strong, satisfying experience.
+Exploding Kittens runs on absurdity, and the Party Pack amplifies that energy. If you enjoy cartoon gags, silly scenarios, and cat-centric chaos, you will feel at home. The humor can land as clever and surprising or as whack-a-moo in the best possible way. If your group leans toward quiet wit, this might feel a bit loud; if you live for the comedic chaos, you will cheer the vibe.
 
-If you want to see how the tone translates across different post formats, our review system often nods to the same vibe: we love games that tell a story even during a single round. The Party Pack is one of those titles that gives you a mini story with every round. The cast of characters on the cards, the goofy art, and the way the deck reshuffles after a near miss all contribute to a sense of narrative momentum that you carry off the table long after the last card is drawn.
+Our tone on this site tends to lean into the story that each round generates. The Party Pack offers a tiny arc for every few minutes of play, with a cast of characters that appear and vanish as the deck reshuffles. That dynamic makes it easy to pull a story from the chaos, which is exactly the kind of memory you want to hold on to after the game ends. 
+
+If you want to explore tone and style across formats, check our broader review framework and the related pieces on our site that echo the same humor and tempo: Love Lettering and Quick Card Tricks and Riffing with Deck-Building Chaos.
 
 ## The quick comparison: Party Pack vs base game
 
-- Pace: The Party Pack accelerates the experience with variants that push you toward quicker, wilder rounds. The base game can settle into longer rounds if players get comfortable with their Defuse resources, but the Party Pack leans into rapid-fire play.
-- Player count: The standard setup is friendly to smaller parties, but the Party Pack is tuned to handle larger groups without losing momentum. If you have a zoo of players, this is your chance to keep everyone engaged without a long downtime between turns.
-- Content variety: The Party Pack gives you multiple mini-games and variants, allowing you to refresh the experience mid-night. The base game remains focused on a single mechanic, which is great if you want consistency, but the Party Pack wins on variety for party nights.
-- Re-playability: With the added variants, you get more life out of the same components. If you like to rotate games with friends who crave something fresh, this is a solid pick.
+- Pace and tempo: The Party Pack pushes faster rounds with a focus on social momentum, whereas the base game can swing toward longer, more measured turns as players become comfortable with defuse resources.
+- Player count handling: The Party Pack is optimized to scale up to 10 players without grinding to a halt; the base game handles smaller groups with a steadier rhythm.
+- Content variety: The Party Pack ships with multiple mini-games and variants that refresh the core experience, while the base game sticks to a single mechanic with different card flavors.
+- Rerun value: The added variants and micro-games provide more chances to rotate in new experiences for recurring game nights.
 
-If you want to dive deeper into how party game variants alter the playing field, we have a post exploring game night rotations and how to keep them from turning into a slog: [Rotating Game Night Rules that Actually Work]({% post_url game-night-rotation %}). And for a counterpoint, our piece on when to ditch chaotic games for more cooperative vibes might be of interest: [Cooperative Nights Without Chaos]({% post_url cooperative-nights %}).
+If you want to dive into how party game variants alter the ID of your night, we have a post exploring game night rotations and how to keep them from turning into a slog: Rotating Game Night Rules that Actually Work. Also check out our piece on balancing chaos with cooperation: Cooperative Nights Without Chaos.
+
+## The practical guide to hosting a 10-player night
+
+A quick primer on handling a full table plus a few stragglers:
+
+- Prep: Pull the Party Pack, clear a space on the table, grab a few spare napkins for dramatic foam firing of Defuse cards.
+- Setup: Deal starting hands quickly; with up to 10 players you will need to keep track of turns with a simple rotation or a talking-order rule to avoid the chaos becoming actual chaos.
+- Flow: Use the See the Future and other variants to keep rounds tight and avoid one player monopolizing the night with a single lucky run.
+- Etiquette: Remind players to keep the tone light, avoid cruelty, and celebrate near misses with style rather than sarcasm.
+- Endgame: When the last Exploding Kitten disappears from the deck, declare a winner and let the crowd go wild.
+
+This section gives you a blueprint to manage large groups without tripping over the pizza boxes. You can adjust the pace and the laughter to fit the room.
 
 ## Final verdict and recommendations
 
-Overall, Exploding Kittens Party Pack is a strong addition to a casual game night roster. It excels at social energy, quick rounds, and a brand of humor that keeps people smiling even as chaos escalates. It is not a deep strategic titan, but it does not pretend to be. If you want something that can be learned in under five minutes, that can either be a quick starter or a mid-night palate cleanser between longer titles, and that invites laughter more than lecture, this is a fine choice.
+Exploding Kittens Party Pack is a strong addition to a casual game night roster. It shines in social energy, quick rounds, and a humor that makes chaos feel friendly and approachable. It does not pretend to be a corner-turning strategy engine, and that is a feature, not a flaw. It is ideal as a quick starter or a palate cleanser between heavier games, or as a flexible centerpiece for a party that wants to keep the energy up.
 
-It shines in groups that enjoy banter, friendly rivalry, and moments that become stories you will retell later. It can also function as a great gateway game that introduces new players to the hobby with a sense of ease and joy. If your goal is to build a memory through a few rounds of laughter and friendly chaos, you will get your money worth in a single night. If you crave a serious strategic challenge or a heavy, long-form experience, you might want to slot this in as a palette cleanser rather than your main dish.
+The Party Pack excels in groups that enjoy banter, friendly rivalry, and the ability to spin a story from the chaos. It can also serve as a gateway to other party titles and light card games that pair well with a round of cat-based chaos. If your goal is to create a memory with a handful of rounds in a single evening, you will get good value and plenty of laughter. If your library leans toward serious strategy and long planning sessions, this is a counterpoint that you keep handy for a breaks night.
 
-In short: buy it if your party nights need a fast, funny, and flexible game that can scale from intimate to rowdy without missing a beat. It is a reliable crowd-pleaser with a characterful sense of humor that fits the Geeknite vibe of geeky fun, playful chaos, and a love for games that bring people together through laughter.
+In short: buy it if your party nights need a fast, funny, and flexible option that scales from intimate to lively without losing momentum. It remains a reliable crowd-pleaser with a recognizable sense of humor that aligns with Geeknite's love for playful chaos and social storytelling.
 
 ## Where to get it and final notes
 
-For the curious, you can find the official page and retailer options at the usual places on the web. If you want to peek at a community-driven take on the chaos, you can explore the Board Game Geek page for Exploding Kittens Party Pack, which has a chorus of opinions from players around the world. For a direct official link, see the Exploding Kittens site and follow along with updates, expansions, and new variants as they roll out.
+For the curious, the official page is a good starting point and retailer options abound. If you want to peek at a community-driven take on the chaos, the Board Game Geek page for Exploding Kittens Party Pack offers a chorus of opinions from players around the world. For a direct official link, visit the Exploding Kittens site and follow updates, expansions, and new variants as they roll out.
 
 - Official page: https://www.explodingkittens.com/
 - Board Game Geek page: https://boardgamegeek.com/boardgame/226873/exploding-kittens-party-pack
 
 If you are new to the brand, you might also enjoy other quick party explorations on our site. Check out:
-- [Love Lettering and Quick Card Tricks]({% post_url quick-card-tricks %})
-- [Riffing with Deck-Building Chaos]({% post_url deck-building-chaos-review %})
+- Love Lettering and Quick Card Tricks [post_url quick-card-tricks]
+- Riffing with Deck-Building Chaos [post_url deck-building-chaos-review]
 
 ## Final thoughts
 
