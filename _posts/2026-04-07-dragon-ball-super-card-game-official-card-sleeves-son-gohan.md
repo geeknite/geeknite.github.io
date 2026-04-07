@@ -10,6 +10,7 @@ tags:
   - Geeknite
   - Sleeve Review
   - Accessories
+  - Update
 ---
 
 ## Dragon Ball Super Card Game Official Card Sleeves: Son Gohan (Updated Deep Dive)
@@ -100,15 +101,19 @@ The packaging design keeps the experience clean and purposeful. The front shows 
 - Use a binder or deck box to minimize friction during transport. A dedicated sleeve binder is like a controlled arena for your cards—it reduces edge wear and keeps your visuals cohesive.
 - Rotate packs to keep a consistent look across your DBS collection. A rotating system helps maintain edge uniformity and visual balance across multi-deck setups.
 
+## A Quick Field Guide for Streamers and Tacticians
+
+If you’re rolling on camera, these sleeves pass a few non-obvious tests. They hide fingerprints nicely, reduce glare under bright LEDs, and keep holo foils legible during mid-game scans. That matters when your audience is chasing your “wow moment” as you reveal a combo that wins you the match in dramatic slow-mo. Pro tip: pair these with a neutral, non-reflective playmat to maximize color fidelity on stream and minimize post-production headaches.
+
 ## Related Content
 - {% post_url 2024-11-20-dbs-guide-to-sleeves %}
 - {% post_url 2025-02-01-dbs-deck-building-tips %}
 
 ## Final Verdict
 
-- Pros: Official Son Gohan art, robust exterior, matte interior to reduce glare, smooth shuffle feel, reliable durability, coherent table presence
-- Cons: Higher price point than some third-party sleeves, no variant art within the same pack line, availability can be region-dependent
-- Overall: If you value official branding, a strong, cohesive look for your DBS table, and practical performance under glare-heavy lighting, these sleeves are a solid pick. If budget constraints or a desire for art variety across your entire deck are your priorities, consider supplementing with non-official options while keeping a focused core of official sleeves for the most important decks.
+- Pros: Official Son Gohan art, robust exterior, matte interior to reduce glare, smooth shuffle feel, reliable durability, coherent table presence, decent resale value for collectors
+- Cons: Higher price point than some third-party sleeves, no variant art within the same pack line, availability can be region-dependent, some people prefer a fully uniform art system across all brands
+- Overall: If you value official branding, a strong, cohesive look for your DBS table, and practical performance under glare-heavy lighting, these sleeves are a solid pick. If budget constraints or a desire for art variety across your entire deck are your priorities, consider supplementing with non-official options while keeping the official line as a premium core for your most-used decks.
 
 ## TL;DR
 
