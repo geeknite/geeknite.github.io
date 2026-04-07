@@ -1,5 +1,5 @@
 ---
-title: "Worlds Smallest Card Game: Skip-Bo in a Micro Package, Revisited and Expanded"
+ttitle: "World's Smallest Card Game: Skip-Bo in a Micro Package, Revisited and Expanded"
 date: 2026-04-07 12:00:00 -0000
 tags:
   - games
@@ -17,7 +17,7 @@ tags:
 
 ## Introduction
 
-Welcome back, brave reader, to the universe where your card table collapses into a postage-stamp sized stage and yet somehow still hosts a dramatic showdown of speed, sequencing, and tiny chaos. Today we revisit the World’s Smallest Card Game that still bears the proud name Skip-Bo, a title that sounds like a mythical creature you whisper about during lunch breaks. If the standard Skip-Bo is a sprint through a deck, this micro version is a sprint through a desk drawer, a pocket, or a particularly judgmental plant. The allure is obvious: less space, less clutter, more chaos — the perfect desk buddy, backpack companion, or tiny rebellion against a full-sized table. In this updated take, we ask the real questions: does the micro Skip-Bo hold up under real play, and is it actually fun or merely a cute novelty that vanishes when you sneeze near the tiny stockpile?
+Welcome back, brave reader, to the universe where your card table collapses into a postage-stamp sized stage and yet somehow still hosts a dramatic showdown of speed, sequencing, and tiny chaos. Today we revisit the World’s Smallest Card Game that still bears the proud name Skip-Bo, a title that sounds like a mythical creature you whisper about during lunch breaks. If the standard Skip-Bo is a sprint through a deck, this micro version is a sprint through a desk drawer, a pocket, or a particularly judgmental plant. The allure is obvious: less space, less clutter, more chaos — the perfect desk buddy, backpack companion, or tiny rebellion against a full-sized table. In this expanded take, we ask the big questions: does the micro Skip-Bo hold up under real play, and is it actually fun or merely a cute novelty that vanishes when you sneeze near the tiny stockpile?
 
 ## What is Skip-Bo, in a Sentence?
 
@@ -139,6 +139,4 @@ The micro Skip-Bo is not some gimmick to be tucked away in a drawer. It is a pra
 
 ## Bold Call to Action
 
-Tiny, fast, and dangerously catchy: the micro Skip-Bo is ready to roll. Boldly equip your desk, your bag, or your carry-on and embrace the pocket-sized chaos.
-
-**Shop the micro Skip-Bo through our affiliate link and join the pocket-sized revolution today:** [Grab the mini Skip-Bo now](https://affiliate.geeknite.com/skipbo-smallest?ref=geeknite)**
+**Shop the micro Skip-Bo through our affiliate link and join the pocket-sized revolution today: [Grab the mini Skip-Bo now](https://affiliate.geeknite.com/skipbo-smallest?ref=geeknite)**
