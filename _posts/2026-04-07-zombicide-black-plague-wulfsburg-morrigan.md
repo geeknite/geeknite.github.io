@@ -1,7 +1,7 @@
 ---
-title: Zombicide Black Plague: Wulfsburg & Morrigan - A Grim, Giggle-Filled Review
+title: Zombicide Black Plague: Wulfsburg & Morrigan - A Grim, Giggle-Filled Review (Expanded)
 date: 2026-04-07
-tags: [board-games, zombicide, zbp, wulfsburg, morrigan, reviews, tabletop]
+tags: [board-games, zombicide, zbp, wulfsburg, morrigan, expansions, reviews, tabletop]
 ---
 
 Zombicide Black Plague is the kind of game that makes you feel like a medieval elf with a caffeine habit and a penchant for neon green plastic. It robs you of sleep, fills your living room with tiny plastic corpses, and somehow makes you laugh when you roll triple 1s because the zombie apocalypse is basically slapstick with teeth. Today we’re diving into a two-for-one spotlight that fans have been buzzing about louder than a rattling hornet nest: Wulfsburg, the grimy city district on the board, and Morrigan, the survivor with enough goth charm to power a night-light for a fortnight. If you’ve played ZBP before, you know the core vibes. If you haven’t, strap in, grab a snack, and prepare for a ride through a fog of gloom, grit, and occasional hilarity.
@@ -82,11 +82,31 @@ Compared to other ZBP expansions, Wulfsburg + Morrigan emphasizes synergy and te
 
 If you want a quick point of reference in our ongoing exploration of ZBP expansions, check out our overview post that covers base mechanics and other districts. This is a nice companion read to see how the Wulfsburg approach differs from earlier experiments. See the post here: {% post_url 2025-07-12-zombicide-black-plague-overview %} or explore a deeper mechanics dive here: {% post_url 2024-05-17-zombicide-black-plague-mechanics %}.
 
-## Conclusion and Final Recommendation
+## Expanded Tactics: Getting More from the Round, Not Just the Die
 
-Wulfsburg adds a layer of urban gloom that is both thematic and mechanically satisfying. Morrigan acts as the narrative thread that weaves through that gloom and turns it into a cooperative, tactical exercise rather than a solo slog. If your table enjoys a slower burn with moments of high reward, this pair is a strong pick. You’ll appreciate the way the district forces you to think about movement, line of sight, and loot priority, and Morrigan adds a character flavor that makes the table feel alive instead of just another board of plastic figures.
+Beyond the standard push-and-loot and center-raid strategy, Wulfsburg + Morrigan opens some less obvious avenues for clever players. Here are a few extra ideas to consider:
 
-Bottom line: Wulfsburg + Morrigan is a keeper for groups who want a richer, moodier Zombicide Black Plague experience with more opportunities for clever teamwork and less rote dice combat. It’s not a casual, pick-up-in-an-hour kind of add-on, but it is a rewarding, cinematic upgrade that gives you episodes of small triumphs that accumulate into a satisfying campaign arc.
+- Exploit timing windows: some loot cards grant bonuses if you loot on a specific turn or after clearing a nearby zombie cluster. Track turn counts like a guild accountant and you’ll punch above your weight when the clock screams in the late game.
+- Weather the storm with chained actions: Morrigan can set up a sequence where one hero draws danger into a doorway, Morrigan holds the gate, and two other heroes swing a short but deadly corridor combo. It’s cinematic and very, very effective when done right.
+- Break the rhythm with detours: sometimes a side alley contains a chest that isn’t worth the detour, but if you’re trying to thin a horde and funnel walkers into a trap, the detour pays off in the long run.
+- Rotate leadership: Morrigan isn’t the only star; rotate the responsibility of calling the plays to keep teammates engaged and to avoid one person becoming the table steward of doom. Make this a shared art rather than a solo performance.
+
+## Gallery and Visual Flavor
+
+Images and miniatures go a long way toward selling the mood. The Wulfsburg board visualizes a city block under siege with a clever blend of stonework and mossy corruption. Morrigan’s miniature captures that goth-poised intensity, a figure who looks like she’s about to crash a necromancer’s spa day and walk away with a shield and a smirk. For those who enjoy the tactile feel of a well-painted set, these components are the quiet undercurrent that sells the whole gothic-larp vibe. If you want to see the board and the mini in action, check out the gallery in the official product page or our close-ups in the sidebar.
+
+
+## Thematic Deep Dive: Why This Pair Feels Right
+
+The genius of Wulfsburg and Morrigan is that it doesn’t try to reinvent ZBP’s wheel so much as it gives it a jazz solo. The base game is lean, crunchy, and dangerous. Wulfsburg adds a city-block heartbeat that makes you feel like you’re navigating a living, breathing urban nightmare. Morrigan adds a tempo and weather forecast for the entire table: when she’s in play, you can predict a few rounds ahead, and your plan becomes a trek through a moody, cinematic landscape rather than a sprint for a single exit. The result is a campaign vibe: enough consistent tension to keep players engaged, with occasional reward that makes you grin not just at the loot, but at the clever way you used the map geometry to pull it off.
+
+### Theme & Flavor Revisited
+
+If you enjoy the moment-to-moment drama of a gothic thriller with a touch of slapstick, you’ll feel right at home. The designers embed flavor in both macro decisions (which district to push into, which objective to chase) and micro opportunities (a lucky search yields a legendary blade; a trapdoor reveals a second wave that you survive by the skin of your teeth). The tonal balance between gloom and humor is where this expansion shines the most.
+
+## Final Thoughts: Is It Worth It?
+
+Wulfsburg + Morrigan isn’t a casual add-on. It isn’t meant to be a quick one-night thrill, and it certainly isn’t something you’d skip if you want ZBP to feel more like a rational puzzle than a chaotic rush. The district’s layout nudges teams toward smart, cooperative play rather than lone-wolf heroics, and Morrigan provides a narrative hook that makes every decision feel consequential. If you enjoy a slower burn with moments of high reward, this pair is a strong match for your table. If you’re the kind of player who breathes fire into a dragon’s lair and calls it day, you’ll still get your moments, but they’ll be earned rather than accidental.
 
 External Links
 - [BoardGameGeek - Zombicide: Black Plague](https://boardgamegeek.com/boardgame/184517/zombicide-black-plague)
