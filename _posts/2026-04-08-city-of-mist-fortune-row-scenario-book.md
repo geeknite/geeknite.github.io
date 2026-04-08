@@ -1,7 +1,7 @@
 ---
 title: City of Mist: Fortune Row — A Scenario Book Review (Expanded)
 date: 2026-04-08
-tags: [City of Mist, Fortune Row, Scenario Book, RPG, Review, Tabletop]
+tags: [City of Mist, Fortune Row, Scenario Book, RPG, Review, Tabletop, Neon Noir, GM Tools]
 ---
 
 ![Fortune Row cover](/assets/images/fortune-row-cover.jpg)
