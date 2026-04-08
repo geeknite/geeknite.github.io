@@ -1,10 +1,10 @@
 ---
-title: "Codenames Disney Family Edition - A Sealed Box Saga"
-date: 2026-04-08 10:00:00 -0000
-tags: [board-games, codenames, disney, family, review, unboxing, geeknite, games-night]
+ttitle: 'Codenames Disney Family Edition - A Sealed Box Saga Revisited'
+date: '2026-04-08 10:00:00 -0000'
+tags: [board-games, codenames, disney, family, review, unboxing, geeknite, games-night, sealed-box]
 ---
 
-# Codenames Disney Family Edition - A Sealed Box Saga: A Geeknite Re-Review
+# Codenames Disney Family Edition - A Sealed Box Saga Revisited
 
 If you came for a simple board game blurb, prepare for a detour through the happiest of storefronts: a sealed box of Codenames Disney Family Edition. This edition is the kid-friendly, nostalgia-loaded cousin of the classic party game that somehow still makes adults audition their inner spy with a grin. And yes, the box is sealed, which means the plastic squeak is real, the card stock smells like possibility, and the odds of a dramatic unboxing are at peak entertainment. Welcome to a Geeknite-style exploration aimed at hitting that sweet spot where family-friendly meets brain-teasing mischief, all without requiring a PhD in cryptography or a passport to a Disney vault.
 
@@ -63,9 +63,9 @@ Durability aside, packaging stays secure and portable. If your family travels be
 
 ## Gameplay Example: A Snapshot Turn for the Night
 
-To give you a sense of flow without revealing the puzzle-y magic, imagine a blue-spymaster inspecting a grid and saying, one word, three. The team peers at the board and sees a collection of Disney icons: Elsa, Buzz Lightyear, Simba, Mickey Mouse, Woody, plus neutrals. The clue lands with a wink: ice – 3. The team quickly maps Elsa to ice and snow, then debates whether Simba might be tied to a noble concept like king or pride. They choose Elsa and Olaf as blue cards, testing a safer route first. If both are blue, awesome. If one isn’t, the round ends and the team recalibrates: do you pivot toward Buzz Lightyear and Woody, or risk a bigger clue that ties multiple blue cards together? This is the heartbeat of Codenames in action: knowledge, clever leaps, and a dash of luck, all wrapped in a family-friendly theme.
+To give you a sense of flow without revealing the puzzle-y magic, imagine a blue-spymaster inspecting a grid and saying, a one-word clue with a three-number punch. The team peers at the board and sees a collection of Disney icons: Elsa, Buzz Lightyear, Simba, Mickey Mouse, Woody, plus neutrals. The clue lands with a wink: ice – 3. The team quickly maps Elsa to ice and snow, then debates whether Simba might be tied to a noble concept like king or pride. They choose Elsa and Olaf as blue cards, testing a safer route first. If both are blue, awesome. If one isn’t, the round ends and the team recalibrates: do you pivot toward Buzz Lightyear and Woody, or risk a bigger clue that ties multiple blue cards together? This is the heartbeat of Codenames in action: knowledge, clever leaps, and a dash of luck, all wrapped in a family-friendly theme.
 
-The sequence of success or misstep creates a living social dynamic: there's laughter when a guess misses by a mile, cheers when a risky plan pays off, and groans when the assassin rears its head. The Disney factor adds cultural recognition that helps kids participate and triggers classic adult recognition—like realizing you know a Disney reference more intimately than your own home router password. That balance—inclusive yet satisfying, light-hearted yet rewarding—is what this edition aims for.
+The sequence of success or misstep creates a living social dynamic: there’s laughter when a guess misses by a mile, cheers when a risky plan pays off, and groans when the assassin rears its head. The Disney factor adds cultural recognition that helps kids participate and triggers classic adult recognition—like realizing you know a Disney reference more intimately than your own home router password. That balance—inclusive yet satisfying, light-hearted yet rewarding—is what this edition aims for.
 
 ## Artwork, Theme, and Production Value
 
