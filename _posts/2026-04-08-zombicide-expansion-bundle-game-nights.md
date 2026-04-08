@@ -1,5 +1,5 @@
 ---
-title: ZOMBICIDE Expansion Bundle - Game Nights Recharged
+title: ZOMBICIDE Expansion Bundle - Game Nights Recharged (Updated Edition)
 date: 2026-04-08
 tags:
   - board games
@@ -12,7 +12,7 @@ tags:
 ---
 
 ## Introduction
-Welcome back to Game Nights, the only sporting event where the commentary is supplied by a panicked group chat and the MVP is usually a survivor who remembered to bring a spare flashlight and a snack that isn’t half-eaten by a zombie. Today we are diving into the ZOMBICIDE Expansion Bundle, the box that promises more survivors, more zombies, more chaos, and possibly more therapy bills per turn than you can shake a crowbar at. If you love cooperative chaos with strategic nightmares that still make you laugh, this bundle is your moonlit playground. If you are new to Zombicide, think of it as a cooperative dungeon crawl where you roll more dice than a conspiracy theorist and somehow still manage to rescue a single survivor from the elevator shaft while the board vibrates with the sound of a cat walking over a keyboard during chaos mode.
+Welcome back to Game Nights, where the neon glare of a desk lamp doubles as a sun in a post-apocalyptic world and the real MVP is the player who remembered a spare snack that isn’t suspiciously chewy. Today we’re diving into the ZOMBICIDE Expansion Bundle, the box that promises more survivors, more zombies, more chaos, and a few therapy bills per turn that you’ll happily pay in the name of narrative glory. If you love cooperative chaos with strategic nightmares that still squeeze out a laugh, this bundle is your moonlit carnival of chaos. If you’re new to Zombicide, think of it as a cooperative dungeon crawl where you roll more dice than a conspiracy theorist and somehow still manage to rescue a survivor from the elevator shaft while the board hums with the sound of a cat walking across a keyboard during chaos mode.
 
 ![Zombicide Expansion]( /assets/images/zombicide-expansion.jpg)
 
