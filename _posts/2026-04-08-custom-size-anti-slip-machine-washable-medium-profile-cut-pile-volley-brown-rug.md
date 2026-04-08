@@ -8,7 +8,7 @@ tags: [rug, home-decor, anti-slip, machine-washable, custom-size, cut-pile, voll
 
 ## Introduction
 
-You know you’ve hit peak domestic tech chic when your floor game is stronger than your streaming game. Enter the Custom Size Anti Slip Machine Washable Medium Profile Cut Pile Volley Brown Rug. It’s the kind of rug that says, in a calm, patient voice, I will not slip on the hardwood when you sprint to answer a smoke alarm at 3 a.m. while juggling a cat and a coffee mug. It’s also the kind of rug that will politely remind you that your apartment floor has feelings and deserves to be cozy, not just a canvas for your last-minute laundry pile.
+You know you’ve hit peak domestic-tech chic when your floor game is stronger than your streaming game. Enter the Custom Size Anti Slip Machine Washable Medium Profile Cut Pile Volley Brown Rug. It’s the kind of rug that says, in a calm, patient voice, I will not slip on the hardwood when you sprint to answer a smoke alarm at 3 a.m. while juggling a cat and a coffee mug. It’s also the kind of rug that will politely remind you that your apartment floor has feelings and deserves to be cozy, not just a canvas for your last-minute laundry pile.
 
 In Geeknite fashion, we treat rugs like modular gadgets: they can be customized, they have safety features, they need occasional updates, and yes, they spark arguments in the comments about whether you should vacuum before or after coffee. This review dives into the nitty-gritty of what makes the Volley Brown Rug a contender for your living space and why a few simple decisions can transform a room from “meh” to “my inner introvert finally found a comfortable corner.”
 
@@ -107,7 +107,7 @@ If you want to explore related content that helps you create a cohesive interior
 
 ### Care and Maintenance Visual Guide
 
-[Image: Rug Care Diagram]({{ "/assets/images/rugs/rug-care-diagram.png" | relative_url }})
+![Rug Care Diagram]({{ "/assets/images/rugs/rug-care-diagram.png" | relative_url }})
 
 ## Conclusion and Final Verdict
 
@@ -139,4 +139,3 @@ If you’re in the market for a reliable, customizable rug that blends practical
 If you’re ready to support Geeknite and snag this rug while supporting our content—click here to buy via our trusted affiliate partner: https://www.geeknite-affiliate.example.com/rug?ref=volleybrown
 
 [Note: This review is a stylized, humorous take for Geeknite readers. Always verify current care instructions from the retailer before washing or applying any cleaning technique.]
-
