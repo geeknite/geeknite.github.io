@@ -1,5 +1,5 @@
 ---
-title: 'City of Mist: Fortune Row - Digital Character Sheets'
+title: 'City of Mist: Fortune Row - Digital Character Sheets (Extended Review)'
 date: 2026-04-08
 tags:
   - City of Mist
@@ -8,13 +8,22 @@ tags:
   - RPG
   - Geeknite
   - Review
+  - UI
+  - Tabletop Tools
+  - Masks
 ---
+
+![Fortune Row UI](https://geeknite.example/assets/fortune-row-dcs-cover.png)
 
 ## Introduction
 
 If you have ever rolled a dice so hard you could hear the dice confetti in your ears, you know City of Mist loves turning myth and urban fantasy into a playground where detectives collect legends instead of clues. Fortune Row is that particular corner of the City of Mist multiverse where mortal nerves and mythic vibes collide on a rain-slick street corner. Now, the Fortune Row Digital Character Sheets promise to transform that vibe into something you can actually manage on a screen—without sacrificing the fuzzy warmth of hand-drawn character sheets that stare back at you like a coffee-fueled oracle. The question is simple and terrifying: does Fortune Row actually improve the game night, or is it a shiny object that keeps misplacing your character’s catalyst? Spoiler alert: we went deep, and our souls survived the tabbing chaos. Here is Geeknite's extended, slightly caffeinated review.
 
-## What is Fortune Row and why digital character sheets matter
+If you want the short version up top: Fortune Row lands, it feels like a natural extension of the City of Mist ethos, and it buys you real-time clarity without yoking you to a PDF treasure chest. But like any magical notebook, it comes with quirks that you learn to work around rather than fight. Read on for the long form—plus jokes, diagrams, and a few nerdy confessions from a night that almost became a balancing act with a charger and a ghost hand.
+
+> For a little context on how we use tools around City of Mist here at Geeknite, check out our previous post on the foundational sheets and how to GM a session that feels like a case file at a coffee shop: [More City of Mist Guides]({% post_url '2025-07-14-city-of-mist-guides' %})
+
+## What Fortune Row is and why digital character sheets matter
 
 Fortune Row is a curated arc in the City of Mist universe that leans hard into the mystic underbelly of the city while giving players tools to track their alter egos, masks, and the weird little miracles that pop up when fate shows up uninvited. On a table with a dozen tabs open, rough sketches taped to the screen, and a GM that refuses to stop narrating like a noir radio host, the traditional sheets can feel like a rickety bridge across a canyon of stats. The digital character sheets for Fortune Row aim to fix that. They promise auto-calculated stat lines, quick prompts for tag adjustments, and a more consistent way to manage conditions, trauma, and XP across sessions. It is not just a digital form; it’s an attempt to capture the energy of the game and translate it into a nimble, searchable, and shareable artifact for players and GMs alike.
 
@@ -33,7 +42,7 @@ To those who love a tactile feel, fear not. The digital sheets are designed to e
 
 ### Visual Aesthetics
 
-Fortune Row’s digital sheets lean into the neon noir vibe without becoming a black hole of chrome and chrome-on-black. The color palette nods to deep purples, blues, and acid greens that remind you of a late-night storefront window. It is visually legible in a way that makes you feel like you are flipping through a city catalog rather than a biomechanical printer memory dump. The fonts are readable, the icons clear, and there is a tasteful amount of texture to avoid the clinical feel of many digital forms. If you want something more dramatic, there are alt skins and color presets you can toggle without breaking immersion or your layout patience.
+Fortune Row’s digital sheets lean into the neon noir vibe without becoming a black hole of chrome and chrome-on-black. The color palette nods to deep purples, blues, and acid greens that remind you of a late-night storefront window. It is visually legible in a way that makes you feel like you are flipping through a city catalog rather than a biomechanical memory dump. The fonts are readable, the icons clear, and there is a tasteful amount of texture to avoid the clinical feel of many digital forms. If you want something more dramatic, there are alt skins and color presets you can toggle without breaking immersion or your layout patience.
 
 ### Accessibility and cross-platform design
 
@@ -50,7 +59,7 @@ Behind the scenes, the sheet uses a lean data model that mirrors the character s
 1. Create your Fortune Row character or import an existing City of Mist character. The sheet guides you through linking your mask, your persona, and your mythic implements.
 2. Set up your initial tags. These tags drive the dice edge, the GM moves, and your options when the narrative needs a push.
 3. Choose your starting conditions and trauma markers. It gives you a quick visual cue when your story spins toward a constraint or a breakthrough moment.
-4. Establish your signature move and any快速 prompts for the scene. Yes, we know the dream is to have a fully fleshed out Mythic Edge that feels like a drumbeat in a city of echoes.
+4. Establish your signature move and any prompts for the scene. Yes, we know the dream is to have a fully fleshed out Mythic Edge that feels like a drumbeat in a city of echoes.
 
 ### During play
 
@@ -111,6 +120,12 @@ The City of Mist community tends to have strong opinions about any digital tool 
 
 For further reading on the narrative implications of a character sheet, check out our retrospective on masks and meaning in the Fortune Row arc: [Fortune Row mythic implications]({% post_url '2025-02-08-fortune-row-myths' %}).
 
+## Real-world play insights and tips from our tables
+
+- Use Fortune Row in tandem with a traditional scratch pad during the first few sessions. You will be surprised how often a few lines of improvisation get codified into a tag or a clue that you can export later.
+- Leverage the narrative prompts to break deadlocks. If your players are stuck arguing the same clue from 3 angles, a prompt nudges them toward a reveal without breaking the mood.
+- When introducing new players, run a 60 minute setup session with one short arc. It gives everyone a feel for how the UI supports the story rather than dominating the table.
+
 ## Final verdict and recommendation
 
 Fortune Row digital character sheets strike a balance many players crave: a tool that respects the mythic roots of City of Mist while trimming away some of the bureaucratic fatigue that can slow a session. They are especially strong for groups that run longer campaigns or sessions with a lot of changing conditions, clues, and evolving masks. If you value reliability, speed, and a crisp, story-forward interface, this is a solid addition to your toolkit. If you prefer to rely on hand drawn notes and live improvisation without a safety net, you may want to experiment with the offline print option and keep a separate scratch pad handy for moments when the city moves too quickly for any sheet to keep up.
@@ -120,6 +135,13 @@ TL;DR: Fortune Row digital sheets are a strong upgrade for most City of Mist cam
 ## Final thoughts and next steps
 
 If you are curious and want to see how the Fortune Row sheets perform in a typical night, we recommend a quick 60 minute test run with a small arc to calibrate your group. Bring a laptop or tablet, have a print plan for the table, and be ready to lean into the city’s mood rather than fight it. You may find that the tools fade into the background and your story takes center stage, which is precisely when City of Mist shines brightest.
+
+## Practical pro tips from denizen-tested sessions
+
+- Don’t overstuff a character with tags. The UI handles the math, but narrative clarity comes from restraint. Build a few core tags that define the character’s mythic lane and let the rest emerge through play.
+- Use the cross-session export to back up your progress. A well-tagged merge file is gold for a GM who runs side arcs or flashback-heavy sessions.
+- If you’re playing with a mixed group (newbies and veteran City of Mist players), keep a shared sheet link active that shows current masks and trauma. It reduces confusion and keeps everyone on the same page without a lecture every 20 minutes.
+- Pair Fortune Row with a dedicated “play mood” soundtrack. Neon noir and synthwave aren’t just vibes; they pair with the speed and rhythm of the sheet in a surprisingly harmonious way.
 
 ## A quick call to action
 
