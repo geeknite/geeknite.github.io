@@ -1,5 +1,5 @@
 ---
-ttitle: "Berserker Walkers for Zombicide: White Death, Green Horde, Black Plague"
+title: "Berserker Walkers for Zombicide: White Death, Green Horde, Black Plague — A Geeknite Deep Dive"
 date: 2026-04-08 12:00:00 -0000
 tags:
   - board-games
@@ -14,7 +14,7 @@ tags:
 
 Welcome, wanderers of tabletop terror. If you thought zombies were slow, forget about it: today we ride a roaring tide of berserkers through the lands of Zombicide. In this review, we dive into the Berserker Walkers across three iconic Zombicide editions: White Death, Green Horde, and Black Plague. Yes, there are fewer quiet strolls and more riotous charges, because when the Berserker Walkers show up, even the dice shake their dice at you.
 
-![Berserker Walkers]( /assets/images/berserker-walkers.jpg )
+![Berserker Walkers](/assets/images/berserker-walkers.jpg)
 
 If you clicked here, you probably want to know whether these walkers are worth your time, space, and paint brushes. Maybe you lost a game to a Berserker and swore vengeance, or perhaps you just want to win more often and look cool doing it. Either way, we’ve got you covered with strategy, lore-lite flavor, painting tips, and practical game-impact analysis. And yes, there will be links to other Geeknite posts so you can build a proper Zombicide ecosystem around your table. For the curious souls who like to hedge their bets, we’ll also sprinkle in an external-view reference or two so you can go down that rabbit hole after dinner without needing a flashlight.
 
@@ -57,6 +57,7 @@ If you want to do a white-hot centerpiece for your table, start with a white pri
 - Pair with units that benefit from pushing or pulling. The Berserker’s rush can cluster enemies into lanes where your biggest hitters can shine.
 
 ## The Green Horde Berserker Walker — nature’s fury with a swashbuckling hat
+
 Green Horde Berserker Walkers blend beastly vigor with a wild, chaotic sense of humor. The palette is earthy greens and bone whites, with organic textures suggesting scales or tough hide rather than smooth skin. They’re not just a nuisance with a big cowbell; they’re disruption engines with a “mob mentality” twist that makes them unpredictable in groups.
 
 ### Design and aesthetics
@@ -76,10 +77,11 @@ Green Horde Berserker Walkers typically function as aggressive, fast-moving thre
 Earth tones with a greenshift highlight work beautifully. Try layering a swamp green base with a deep green wash, followed by a light highlight on edges. For skin, if present, use a muted gray-green to differentiate from the primary hide color. Weathering powders can add dirt that makes the figure look as if it’s just crawled out of a bog.
 
 ## The Black Plague Berserker Walker — the medieval thunderhead
+
 Black Plague is the glam-rock of the Zombicide lineup: ornate, brutal, and a little bit terrifying. Berserker Walkers here move with a sense of historical dread that’s both cinematic and punishing. The models lean into the plague vibe with rotted, plague-mask features, tattered armor, and a silhouette that suggests a “storm of bad decisions” narrative you’ll want to own on the table.
 
 ### Design and aesthetics
-If you’re into evocative miniatures, this is the one that makes your friends say, “I want to paint that.” It has enough chain mail detail to satisfy the hobbyist who loves a busy kit, but not so much that the model becomes unmanageable. The plague-hood and mask give a grim, “grimdark medieval apocalypse” aura that reads perfectly from across the board.
+If you’re into evocative miniatures, this is the one that makes your friends say, “I want to paint that.” It has enough chain mail detail to satisfy the hobbyist who loves a busy kit, but not so much that the model becomes unmanageable. The plague-hood and mask give a grim, grimdark medieval apocalypse aura that reads perfectly from across the board.
 
 ### Gameplay flavor
 Black Plague Berserker Walkers tend to be the most punishing of the trio in terms of board presence. Their impact often hinges on crowd control and the way they force players to adapt mid-round. They can create zones of denial that require creative route planning or sacrifice to break the momentum of your opponents.
@@ -166,10 +168,10 @@ For readers who want a quick affiliate-friendly version: if you’re in the mark
 ## External resources and further reading
 
 - Official Zombicide page for background and purchase options: https://www.zombicide.com/
-- General Berserker-inspired discussion and fan art galleries: https://www.boardgamegeek.com/boardgame/196071/zombicide-want-to-see-photos (note: this is a fan hub, not a review source)
+- General Berserker-inspired discussion and fan art galleries: https://www.boardgamegeek.com/boardgame/196071/zombicide-want-to-see-photos
 - Paint, basing, and conversions guide: https://www.paperpearl.net/miniatures-painting-tips
 
-For more in-depth looks at walkers across editions and how they compare, you can also explore {% post_url 2025-06-30-zombicide-walker-editions-%} and {% post_url 2026-01-15-beyond-zombicide-walkers-analysis %}.
+For more in-depth looks at walkers across editions and how they compare, you can also explore {% post_url 2025-06-30-zombicide-walker-editions %} and {% post_url 2026-01-15-beyond-zombicide-walkers-analysis %}.
 
 ---
 
@@ -186,4 +188,3 @@ Want to see more of this kind of content? Explore our post archives for related 
 ---
 
 </br>
-
