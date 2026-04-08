@@ -9,17 +9,19 @@ tags:
   - review
   - tabletop
   - gaming
+  - co-op
+  - solo-play
 ---
 
 ## Unboxing the Scruff: A Geeknite Adventure in Cardboard and Destiny
 
-You know you have a real hobby when your unboxing becomes a small ceremony of bravery, ritual, and a little bit of swearing at the box operators who clearly never played a zombie apocalypse before. Today we tackle a brand new but suspiciously open Zombicide: Black Plague box. The kind of box that arrives with the confidence of a veteran adventurer and the swagger of a goblin who found a keytar in a dungeon. It is new, it is shiny, and it is open enough to make you suspect someone sneezed on the shrink wrap and called it a day.
+You know you have a real hobby when your unboxing becomes a small ceremony of bravery, ritual, and a lot of sighs aimed at the box operators who clearly never played a zombie apocalypse before. Today we tackle a brand new but suspiciously open Zombicide: Black Plague box—the kind of box that arrives with the confidence of a veteran adventurer and the swagger of a goblin who found a keytar in a dungeon. It is new, it is shiny, and it is open enough to make you suspect someone sneezed on the shrink wrap and called it a day.
 
-To set expectations: this is not the pristine, holy grail unboxing you see in glossy YouTube videos where the dice politely align themselves. This is a real world unboxing: a little dusty, a little crumbly, and a lot of “is that a missing piece or a clever misdirection by CMON’s quality control?” We will treat this like a mythic quest, complete with a missing survivor as the dragon at the gate.
+To set expectations: this is not the pristine, holy-grail unboxing you see in glossy YouTube videos where the dice politely align themselves. This is a real-world unboxing: a little dusty, a little crumbly, and a lot of “is that a missing piece or a clever misdirection by CMON’s quality control?” We will treat this like a mythic quest, complete with a missing survivor as the dragon at the gate.
 
-Before we dive in, a quick nod to the sacred cycle of unboxing videos. If you want a quick comparison to my earlier ramblings about another zombie-horde creator, you can peek at my thoughts in {% post_url 2025-11-01-zombicide-basic-tips %}. For a broader take on co op tabletop chaos, see {% post_url 2024-07-20-co-op-board-games-review %}. Both are excellent sanity checks when your dice refuse to roll a truthful 6.
+Before we dive in, a quick nod to the sacred cycle of unboxing videos. If you want a quick comparison to my earlier ramblings about another zombie-horde creator, you can peek at my thoughts in {% post_url 2025-11-01-zombicide-basic-tips %}. For a broader take on co-op tabletop chaos, see {% post_url 2024-07-20-co-op-board-games-review %}. Both are excellent sanity checks when your dice refuse to roll a truthful 6.
 
-![Box front]( /assets/images/zombicide-black-plague-box.jpg )
+![Box front]({{ '/assets/images/zombicide-black-plague-box.jpg' | relative_url }})
 
 ## The Box Itself: Box Art, Box Feel, and the Open Box Conspiracy
 
@@ -31,11 +33,11 @@ This is not unusual to seasoned players who have learned that a “new” box so
 
 ## The Missing Survivor: Why It Matters and How It Impacts Play
 
-In Zombicide Black Plague, a team of survivors collaborates to push back a tide of undead. Each survivor brings unique abilities, equipment options, and roles — scout, medic, heavy weapon specialist, the entire fantasy RPG mirror-ball that makes co op gaming shine. A missing survivor isn't just a figure: it is potentially a missing plan, a missing synergy, and for some players, a missing story beat you were desperate to write in your next gaming session.
+In Zombicide Black Plague, a team of survivors collaborates to push back a tide of undead. Each survivor brings unique abilities, equipment options, and roles — scout, medic, heavy weapon specialist, the entire fantasy RPG mirror-ball that makes co-op gaming shine. A missing survivor isn't just a figure: it is potentially a missing plan, a missing synergy, and for some players, a missing story beat you were desperate to write in your next gaming session.
 
 First, we must identify what a missing survivor means in practice. If you play with four players, you probably rely on a spectrum of survivability: someone to sprint, someone to heal, someone to draw aggro, and someone to quietly become the true MVP by performing essential tasks that keep the team alive longer than the rest of you deserve. If one member is not present, the team must adjust on the fly. You can house-rule a substitute: the missing figure can be a placeholder named after your favorite sitcom character. But that undermines the impartial balance designed by the game. A substitute person with a similar profile can work, but it is not ideal.
 
-There are two main school of thoughts here. The first is pragmatic: if your campaign is about a single session, you can game the system by using a different survivor with comparable save/dodge stats and call it a day. The second is purist: you pause, contact the vendor, and request a replacement. If you are anything like me, you realize you are not playing a war movie where every prop is essential; you can improvise, you can adapt, but you must acknowledge that you are altering the expected flow of the game. That is where the fun stops for a moment and the geek inside you sighs deeply and whispers, “Well done, Sherlock, you have found a loophole.”
+There are two main schools of thought here. The first is pragmatic: if your campaign is about a single session, you can game the system by using a different survivor with comparable save/dodge stats and call it a day. The second is purist: you pause, contact the vendor, and request a replacement. If you are anything like me, you realize you are not playing a war movie where every prop is essential; you can improvise, you can adapt, but you must acknowledge that you are altering the expected flow of the game. That is where the fun stops for a moment and the geek inside you sighs deeply and whispers, “Well done, Sherlock, you have found a loophole.”
 
 Replacement policies vary by retailer and by publisher. In many cases, board game manufacturers offer a straightforward replacement for missing or damaged parts, especially for new products that have left the factory with the wrong sprue or a mispackaged survivor. The process typically involves sending photos of the box contents, the sealed/unsealed state of the packaging, and your order number. Some will require proof of purchase and a serial number or batch code visible on the box rear. The good news is that modern companies understand that a missing piece is not the end of your narrative; it is an opportunity to practice good customer service and to remind yourself that your hobby is supported by people who eat, sleep, and bleed packaging tape to keep your cardboard dreams intact.
 
@@ -65,7 +67,7 @@ If you have played Zombicide before, you know the beat: you assemble a small con
 
 The missing survivor does not derail the math. The core engine — action points, dice results, and mission objectives — remains intact. The team still rolls the dice to determine their fate; the board still demands careful planning and zone control. What changes is the social dynamic: your party has one fewer resource to persuade, one fewer heartbeat to coordinate around, and one less voice to remind you that running into a crowd of zombies is a terrible idea at any level of experience. In short, the missing figure becomes a micro-lesson in resource management and improvisation, which is not a bad thing; it just makes you appreciate the value of every little plastic person you have on the table.
 
-For those of you curious about the solo viability of Zombicide Black Plague, rest assured that the game scales and can be played alone with a certain amount of patience and the right mindset. The solo experience tends to feel like a one-man army struggling through a siege, which is thematically appropriate and mechanically satisfying. If you want to see how a solo run unfolds in practice, you can reference a discussion in {% post_url 2025-11-01-zombicide-basic-tips %} where I break down setup, pacing, and how to keep the adrenaline up without a full party. And if you want to explore the broader space of co op games with a similar vibe, my thoughts on the genre appear in {% post_url 2024-07-20-co-op-board-games-review %}.
+For those of you curious about the solo viability of Zombicide Black Plague, rest assured that the game scales and can be played alone with a certain amount of patience and the right mindset. The solo experience tends to feel like a one-man army struggling through a siege, which is thematically appropriate and mechanically satisfying. If you want to see how a solo run unfolds in practice, you can reference a discussion in {% post_url 2025-11-01-zombicide-basic-tips %} where I break down setup, pacing, and how to keep the adrenaline up without a full party. And if you want to explore the broader space of co-op games with a similar vibe, my thoughts on the genre appear in {% post_url 2024-07-20-co-op-board-games-review %}.
 
 ## A Practical Unboxing and Setup Guide for the Time-Pressed Player
 
@@ -99,7 +101,7 @@ Zombicide Black Plague remains a crown jewel of cooperative board gaming. It mar
 
 If you are weighing the value proposition of Zombicide Black Plague against your budget and your desire for a sprawling, zombie-slaying experiences with friends, I say: the game remains worth it. The expansions and extra survivors you add later simply boost the experience by giving you more to coordinate and more ways to mess with your own plans in delightful ways. The missing piece does not ruin the joy; it shifts the lens through which you view the session, inviting improvisation, teamwork, and a little humor about the scarred nature of tabletop play.
 
-In short: the box is worth opening, even if the lid is a touch sullen about its open state. The game remains a fantastic, chaotic, and highly replayable co op that lives and dies by the synergy of its players as much as the luck of the dice. The missing survivor is a momentary blip that you can transform into a story you and your group will retell with increasing embellishment every time you roll a new set of dice.
+In short: the box is worth opening, even if the lid is a touch sullen about its open state. The game remains a fantastic, chaotic, and highly replayable co-op that lives and dies by the synergy of its players as much as the luck of the dice. The missing survivor is a momentary blip that you can transform into a story you and your group will retell with increasing embellishment every time you roll a new set of dice.
 
 ## See Also and External Links
 
@@ -112,7 +114,7 @@ In short: the box is worth opening, even if the lid is a touch sullen about its 
 - Box quality: solid with typical new-but-open risk; minor surface issues do not dampen core gameplay.
 - Missing piece: inconvenient but addressable with replacement options; do not fear the unknown — transform it into a quest for your group.
 - Gameplay: still deep, crunchy, and delightfully chaotic with strong thematic flavor. A great pick for groups that love planning and improvisation.
-- Value: strong with expansions; worth it if you want a large, narratively rich co op experience with friends who appreciate sarcasm as a tragedy-comedic flavor.
+- Value: strong with expansions; worth it if you want a large, narratively rich co-op experience with friends who appreciate sarcasm as a tragedy-comedic flavor.
 
 ## Final Recommendation
 
