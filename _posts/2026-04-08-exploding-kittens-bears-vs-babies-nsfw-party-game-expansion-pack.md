@@ -1,17 +1,17 @@
 ---
-title: 'Exploding Kittens: Bears Vs Babies NSFW Party Game Expansion Pack — A Geeknite Review'
+title: 'Exploding Kittens: Bears Vs Babies NSFW Expansion Pack — A Geeknite Review'
 date: 2026-04-08
 tags: ['board games', 'party games', 'Exploding Kittens', 'Bears Vs Babies', 'NSFW', 'expansion', 'geeknite']
 ---
 
 Exploding Kittens has a magical ability to turn a quiet game night into a chaotic carnival of jokes, as glittery as a spilled coffee on a keyboard. When the Bears Vs Babies NSFW Party Game Expansion Pack dropped into my inbox, I was equal parts curious and nervous: curious because the original Bears Vs Babies is a perfect holiday for brain cells that hate being productive, and nervous because adding NSFW energy to a party game is a double-edged katana. Do we really need more adult jokes in a card game about baby monsters building a magical world of mischief? Spoiler: yes, yes we do, and the result is a gloriously chaotic experience that will either end friendships or prove them to be unbreakable.
 
-![Box Art](assets/images/ek-bvb-nsfw-expansion-box.jpg)
+![Box Art]({{ '/assets/images/ek-bvb-nsfw-expansion-box.jpg' | relative_url }})
 
 And a closer look:
-![Card art close up](assets/images/ek-bvb-nsfw-expansion-cards.jpg)
+![Card art close up]({{ '/assets/images/ek-bvb-nsfw-expansion-cards.jpg' | relative_url }})
 
-The official page is a good starting point: https://www.explodingkittens.com/products/bears-vs-babies-nsfw-expansion
+The official page is a good starting point: [Exploding Kittens Bears Vs Babies NSFW Expansion](https://www.explodingkittens.com/products/bears-vs-babies-nsfw-expansion)
 
 But you come here for the real talk, not just marketing hype, so read on.
 
@@ -28,6 +28,13 @@ The art direction stays consistent with the Exploding Kittens brand: bold colors
 - Bears Vs Babies is a silly, chaotic mashup that plays like a skirmish between large gruff characters and hordes of baby monsters. The NSFW expansion adds another layer of humor and tension by introducing jokes that are clearly aimed at adult players, which can be a blast if your group is comfortable with it. It does not fundamentally overhaul the core, but it tilts the balance toward wilder, riskier play. If you loved the base game for its zaniness, you will likely adore the expansion for the same reason with added spice.
 - The NSFW expansion also provides fresh art and small mechanical tweaks that make certain card interactions feel new. If you kept using the same set for months, this pack may rekindle your enthusiasm and give you a handful of “oh wow I did not see that coming” moments.
 
+## Artwork and production quality
+The physical product is sturdy, with thick card stock and crisp printing, as you would expect from Exploding Kittens. The expansion fits snugly into the existing box, with the usual measuring tape of packaging that tells you exactly how many minutes you will spend laughing (or groaning). The NSFW label is a badge of honor more than a warning; it signals that the game is for adults who want to push the envelope in a fun, silly, often ridiculous way.
+
+## Notes on accessibility
+- If you have players who are sensitive to crude humor, consider filtering out the most explicit cards or substituting a friendlier theme for a few rounds.
+- For players with sensory difficulties, it’s worth noting that the game relies heavily on visual humor. If you or your players are color-challenged, you may want to rely on the textual cues on the cards to keep track of interactions.
+
 ## House rules and tips
 - Safety first: Decide the line between spicy and off-limits humor before you start. It’s better to set expectations ahead of time than to ruin a game night with awkward vibes.
 - Moonshot rounds: If your group loves high stakes, implement a house rule where certain cards trigger bonus points if you complete a milestone within a limited number of turns.
@@ -39,12 +46,12 @@ The art direction stays consistent with the Exploding Kittens brand: bold colors
 - If you own Bears Vs Babies already and you want a more adult edge, this expansion is a natural step. If you are hosting a mixed group with kids present, consider a separate table or deck to preserve everyone’s comfort levels.
 - For collectors: the expansion art and tiny mechanical tweaks make it a nice addition that doesn’t require a full reprint of your existing collection. It’s a aesthetically pleasing pack to display on your shelf between two big board game nights.
 
-## Artwork and production quality
-The physical product is sturdy, with thick card stock and crisp printing, as you would expect from Exploding Kittens. The expansion fits snugly into the existing box, with the usual measuring tape of packaging that tells you exactly how many minutes you will spend laughing (or groaning). The NSFW label is a badge of honor more than a warning; it signals that the game is for adults who want to push the envelope in a fun, silly, often ridiculous way.
+## Artwork and production notes
+The expansion’s art direction sticks to the brand’s signature cheekiness while nudging things into a slightly more adult palette. You’ll spot redesigned tokens, new character illustrations, and a handful of card borders that scream “attention to me, I’m spicy.” There’s a clear intent to keep the aesthetic cohesive with the core game while signaling the NSFW energy through color accents and wilder creature designs. If you’re the kind who frames your game nights in cinematic terms, this pack looks like the accessories you’d bring to a chaotic, neon-lit comedy showdown.
 
-## Notes on accessibility
-- If you have players who are sensitive to crude humor, consider filtering out the most explicit cards or substituting a friendlier theme for a few rounds.
-- For players with sensory difficulties, it’s worth noting that the game relies heavily on visual humor. If you or your players are color-challenged, you may want to rely on the textual cues on the cards to keep track of interactions.
+## Accessibility and inclusivity: a quick reality check
+- If your group includes players with sensitivities to crude humor, pre-select a “PG-13” subset of cards and run a quick test round. The NSFW expansion can be as wacky as a late-night stand-up set, but you don’t want someone walking away with sour vibes.
+- For players with sensory processing considerations, rely more on textual cues than on visual humor. Some cards lean heavily on illustrated humor that might blur lines for color-vision differences; use color-agnostic indicators where you can.
 
 ## External links and references
 For official product page: https://www.explodingkittens.com/products/bears-vs-babies-nsfw-expansion
