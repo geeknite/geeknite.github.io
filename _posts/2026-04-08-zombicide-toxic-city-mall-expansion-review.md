@@ -7,9 +7,15 @@ tags:
  - expansion
  - toxic-city-mall
  - geeknite
+ - review
+ - coop
 ---
 
-Intro: If you thought the base Zombicide game was loud, this expansion turns the undead buffet into a full blown shopping spree with hazard lights and checkout counters. Toxic City Mall is one of those expansions that feels like a wild party you didnt know you needed until you walked in and saw a zombie cheerleader wielding a broom in aisle 13. In this review, we dive into what Toxic City Mall adds, how it changes the rhythm of your round, and whether the mall is worth your bunk-change and nerves pounded into the furniture. Spoiler: it is; but it also makes your group question the meaning of a quiet Sunday with friends.
+ZOMBICIDE: Toxic City Mall Expansion — A Laugh-Loud Review
+
+Intro
+
+If you thought the base Zombicide experience was loud, this expansion turns the undead buffet into a full-blown shopping spree with hazard lights, checkout counters, and the occasional zombie squeal over a price-check gone wrong. Toxic City Mall is the kind of add-on that feels like a wild party you didn’t know you needed until you walked in and saw a zombie cheerleader wielding a broom in aisle 13. In this review, we dive into what Toxic City Mall adds, how it shifts the rhythm of your rounds, and whether the mall is worth your bunk-change and nerves pounded into the furniture. Spoiler: it is; but it also makes your group question the meaning of a quiet Sunday with friends.
 
 Visuals and components set the tone early. The box art leans into neon graffiti and a glossy mall sign that probably violates three safety standards while promising a discount on salvation. Inside, you will find new survivor miniatures, new zombie sculpts, new mission cards, and a tile set that recreates the felt notion of wandering through a hazard-laden retail labyrinth. For a game that is basically about smashing zombies with oversized hammers, the attention to tactile detail feels carefully curated rather than slapped together to save a few dollars. The quality of the components is on par with the rest of the Zombicide line, which means sturdy tokens, satisfying dice, and minis that survive more team wipe scenarios than your average grocery run.
 
@@ -90,12 +96,16 @@ A few practical notes for planning your purchase
 
 Pros and cons at a glance
 
-- Pros: strong thematic integration, dynamic hazards that influence decisions, solid component quality, repeatable scenarios, juicy replay value, good fit for groups that enjoy puzzle-like play with a touch of humor.
+- Pros: strong thematic integration, dynamic hazards that influence decisions, solid component quality, repeatable scenarios, juicy replay value, good fit for groups that enjoy puzzle-like play with a taste of humor.
 - Cons: a bit more setup time, some players may find the hazard deck a little punishing on their first sessions, balance can feel uneven if you do not manage the difficulty effectively, requires a solid playing area to accommodate the mall layout.
 
 How to use this in your Geeknite schedule
 
-If you want to weave Toxic City Mall into your standard rotation, consider a three-night arc: Night 1 introduce the mall and a light mission to teach hazard interactions; Night 2 escalate with a mid-campaign objective that relies on environmental manipulation; Night 3 culminate in a big mall showdown where a critical hazard must be triggered in the right sequence to win or to fail dramatically. You will thank yourself for the structured chaos when you later reminisce about the night the escalator became your ally and your worst enemy at the same time.
+If you want to weave Toxic City Mall into your standard rotation, consider a three-night arc:
+- Night 1: introduce the mall and a light mission to teach hazard interactions;
+- Night 2: escalate with a mid-campaign objective that relies on environmental manipulation;
+- Night 3: culminate in a big mall showdown where a critical hazard must be triggered in the right sequence to win or to fail dramatically.
+You will thank yourself for the structured chaos when you later reminisce about the night the escalator became your ally and your worst enemy at the same time.
 
 A note on tone and table dynamics
 
