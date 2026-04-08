@@ -99,7 +99,7 @@ Budget privacy screens are the pantry staples of the school and office supply wo
 
 Premium models bring design flourishes to the table—nicer finishes, sleeker frames, sometimes modular capabilities, and a dash of “happiness in engineering.” The extra cost buys you convenience (easier folding, more color options, better isolation), sometimes a sturdier warranty, and a longer life. If you’re equipping a whole building or multiple classrooms, the cumulative savings of midrange models may outshine the purchase price of premium units.
 
-If you’re a campus that rotates classrooms frequently, modular sets with feet are particularly attractive: you can reconfigure the same pieces into different room shapes with minimal effort. That’s not just money saved; that’s time saved—time that teachers won’t spend wrestling with furniture instead of teaching.
+If you’re a campus that rotates classrooms frequently, modular designs saved in a rolling cart become your best friend: you can reconfigure the same pieces into different room shapes with minimal effort. That’s not just money saved; that’s time saved—time that teachers won’t spend wrestling with furniture instead of teaching.
 
 External note: For a broad comparison of price-to-performance, you can browse general privacy screen listings at retailers like Staples or Office Depot, or the more design-forward sites if you want something that doesn’t scream “cheap office supply.” A quick external read: https://www.staples.com/privacy-screens/cat_26004 and for a more premium vibe: https://www.ikea.com/us/en/cat/privacy-screens-20669.
 
@@ -166,4 +166,4 @@ For additional context, you can read a retailer’s overview of privacy screens 
 
 In Geeknite style, we celebrate the little things that make big tasks more joyful. Here’s to fewer peeks, clearer exams, and more brainpower per desk. Stay curious, stay focused, and may your screens always be sturdy and your feet never slip.
 
-**Bold call-to-action:** Buy now through our affiliate link and power your desk privacy with a click: https://geeknite.affiliates/privacy-screen
+**Shop now via our affiliate link and power your desk privacy with a click: https://geeknite.affiliates/privacy-screen**
