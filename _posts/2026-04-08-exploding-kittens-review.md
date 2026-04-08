@@ -1,7 +1,7 @@
 ---
 title: Exploding Kittens – Grundspiel, Partyspiel und Katzen (Aktualisiert)
 date: 2026-04-08
-tags: [board-games, card-games, asmodee, party-games, kittens, family-games, explod-kittens]
+tags: [board-games, card-games, asmodee, party-games, kittens, family-games, exploding-kittens]
 ---
 
 ![Exploding Kittens Box](assets/images/exploding-kittens-box.jpg)
@@ -18,7 +18,7 @@ Bevor wir ins Detail gehen, schau dir gern unser Setup an, damit du sofort losle
 ## Inhalt der Box und Komponenten
 Eine gute Box macht die Spielzeit angenehmer, und Exploding Kittens liefert hier klare Stärken. Die Grunddeck-Box enthält eine Mischung aus Exploding Kittens-Karten, Defuse-Karten, Attack-, Skip-, See the Future- und Shuffle-Karten sowie eine stattliche Menge Cat Cards, die durch ihre Vielfalt den Humor des Spiels tragen. Ohne ins Detail-Gekrische zu geraten, hier eine kompakte Einordnung der wichtigsten Bauteile – mit Fokus auf 2-5 Spieler-Feeling und einer realistischen Spielzeit von ca. 15-20 Minuten pro Runde:
 
-- Exploding Kittens Karten: Das Kern-Element, das das Risiko jeder Runde spürbar macht. 
+- Exploding Kittens Karten: Das Kern-Element, das das Risiko jeder Runde spürbar macht.
 - Defuse Karten: Die passenden Werkzeuge, um eine Explosion doch noch abzuwenden. Ohne Defuse ist eine Katastrophe fast sicher.
 - Aktionskarten: Attack, Skip, See the Future, Shuffle – jede mit eigener Funktion, die das Spielfluss-Risiko hin und her schiebt.
 - Cat Cards: Die scheinbar harmlosen Katzenteile, die durch Kombinationen mächtig ins Spiel eingreifen können. Wer Katzen liebt, wird hier vermutlich am lautesten lachen.
@@ -90,4 +90,4 @@ Wenn du nach einer leichten, witzigen und direkt spielbaren Option suchst, die s
 
 **Kaufempfehlung**: Exploding Kittens eignet sich perfekt für spontane Abende, schnelle Partien und echten Katzenhumor. Die Grundbox liefert alles, was du brauchst, und die Erweiterungen machen daraus eine Langzeit-Show – ideal, wenn du regelmäßig Gäste hast, die gerne mitspielen. Wenn du auf der Suche nach einem leichten, witzigen und sozialen Spiel bist, das direkt ins Geschehen geht, ist Exploding Kittens eine hervorragende Wahl.
 
-**Jetzt Exploding Kittens sichern – über unseren Affiliate-Link: [Affiliate-Link](https://affiliate.example.com/ep_kittens)**
+**Jetzt Exploding Kittens sichern – über unseren Affiliate-Link: https://affiliate.example.com/ep_kittens**
