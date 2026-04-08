@@ -1,5 +1,5 @@
 ---
-title: Zombicide: Second Edition All Out Dice — A Chaotic, Comedic Review
+title: Zombicide: Second Edition All Out Dice — A Chaotic, Comedic Review (Expanded)
 date: 2026-04-08
 tags:
   - boardgames
@@ -22,7 +22,7 @@ All Out Dice is, in plain nerdy terms, a dice pack that accompanies Zombicide Se
 
 In the box you’ll find a handful of dice that feel distinct from the standard core-set dice. They’re not just “extra dice”; they’re a design that explicitly nods to cinematic zombie might: louder, bolder, and with faces that imply both glory and ridiculousness. If you like your apocalypse stories to swing between heroic saves and spectacular misadventures, All Out Dice is basically upbeat Monty Python meets Romero in tabletop form.
 
-## Box contents and first impressions
+### Box contents and first impressions
 The packaging isn’t just a shell; it’s a tiny narrative: a parchment-y color scheme with bold iconography, a few snarky flavor text lines on the back, and a feel that says, This is going to be loud. Inside you’ll locate:
 
 - A set of color-coded All Out Dice: typically a mix of melee and ranged dice, each with distinctive faces that emphasize success, critical success, failure, or the notorious All Out result.
@@ -46,7 +46,7 @@ Let’s get to the heart of the matter: what are these dice actually doing? The 
 
 If you’ve played any zombie horde game where you feel like that one hero who always rolls doubles on the bad days, the All Out Dice promise relief: fewer turns spent staring at a deck of misses and more turns spent staring down the maw of doom with renewed bravado.
 
-## Mechanics in play: how it actually feels
+### Mechanics in play: how it actually feels
 From the table’s edge, the All Out Dice feel like a cinematic upgrade rather than a mere component swap. The first playthrough often produces a cascade of “aha” moments: a dice face that turns a near-disaster into a triumphant save, or a poorly-timed bad roll that collapses a plan you were certain would work. The thrill of narrative control—where your fate was previously tethered to a single dice pool—gets blessed with a bit more chaos, which, paradoxically, can increase the sense of agency as you roll with the punches.
 
 In co-op play, this energy translates into more banter and more strategic negotiation. Do you spend All Out dice on a desperate rescue or hold them for a potentially larger payoff later? The dice don’t force your hand, but they do push you toward big, movie-like decisions. It’s not all swagger, though: there’s a cost to risk-taking, and the All Out faces remind you of that with occasional spectacular failures that are cathartic in their own right.
@@ -82,6 +82,9 @@ For those who like to storyboard campaigns, the All Out Dice can be integrated i
 
 If you want to see how others have blended expansions into campaigns, you can peek at our narrative-focused exploration post [here]({% post_url 2024-06-17-narrative-dice-implants %}). It’s a good companion read if you’re thinking about long-form play with All Out Dice on the table.
 
+### Example play: a quick mental scenario
+Imagine a mall siege where survivors hunker behind a plate-glass storefront while a tide of rot reaches the door. Early in the session you gamble with extra All Out dice on a sprint to the back service stairs, hoping to create a fast escape route and a secondary flank. If you roll well, a cinematic sequence unfolds: you break through, grab a survivor, and slam the door behind you just as the horde slams into the weaker doorframe. If you roll poorly, you get a heroic but messy stalemate: a resupply run goes sideways, but you still manage to pull off a last-ditch barricade save that buys another round of turns for a fateful, movie-like showdown. That is the essence of All Out Dice: drama that feels earned, not manufactured.
+
 ## Comparisons: how does All Out Dice stack up against other dice expansions?
 - Versus straightforward dice packs: All Out Dice stands out because it deliberately tries to alter the decision space, not just add more outcomes. It’s less about more dice for the sake of it and more about smarter moments of risk and reward.
 - Versus other Zombicide expansions: The language of the dice is consistent with the vibe of Second Edition; you’ll feel aligned with other updates, but the All Out Dice offer a more narrative engine than some of the more mechanically dense addons.
@@ -114,7 +117,7 @@ If you’re evaluating a purchase, lean into the social aspect. The All Out Dice
 
 For the curious mind that loves to trace the lineage of game components, we’ve sketched out a few related reads in this universe to help you compare design philosophies and narrative weight. Explore our posts about upgrades and expansions to better understand how the All Out Dice fit into the broader ecosystem of Zombicide Second Edition.
 
-## Final thoughts in Geeknite style
+### Final thoughts in Geeknite style
 Zombicide All Out Dice are loud and proud—the kind of accessory that makes you say, I didn’t realize I needed chaos in my strategic alliance until I rolled it. They’re not merely a toy; they’re a narrative instrument that encourages you to improvise, to seize the moment, and to laugh when the dice remind you that life (and the undead) are messy and glorious. Whether you’re a long-time fan of the franchise or a curious newcomer who wants a little extra zing, you’ll find something to love in the way these dice feel, roll, and spark conversation across the table.
 
 If you want to add a splash of cinematic chaos to your Zombicide sessions, All Out Dice are a solid choice—and a conversation starter at every meetup. They’re not essential, but they’re definitely memorable. The question isn’t whether you should add them to your collection; it’s whether you’re prepared for the All Out moment when that final die face reveals itself and you realize your team might just pull off the impossible, or at least make the other players die laughing.
@@ -126,6 +129,7 @@ For more on game flow and narrative pacing with dice-based expansions, consider 
 [Previous Zombicide Review]({% post_url 2024-11-02-zombicide-second-edition-review %})
 
 ## Images and visuals
+
 ![All Out Dice close-up](assets/images/all-out-dice-closeup.jpg)
 ![Zombicide All Out on the Table](assets/images/zombicide-all-out-dice-table.jpg)
 
