@@ -1,7 +1,7 @@
 ---
-title: Exploding Kittens Original Edition Review: Chaos, Cats, and Casual Mayhem (Updated)
+title: "Exploding Kittens Original Edition Review: Chaos, Cats, and Casual Mayhem (Updated)"
 date: 2026-04-08 12:00:00 -0000
-tag s:
+tags:
   - board-games
   - exploding-kittens
   - review
@@ -122,7 +122,7 @@ Exploding Kittens Original Edition is a party game for people who enjoy silly mo
 - Free UK delivery adds practical value
 - Quick setup means fewer barriers to gather friends
 - Perfect for newcomers and social groups
-- A strong baseline for chaotic expansions later on
+- A strong baseline for chaotic expansions later
 
 ### Cons
 - Not the deepest strategic experience
