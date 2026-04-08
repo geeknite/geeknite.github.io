@@ -9,11 +9,13 @@ tags:
   - review
   - tabletop
   - geeknite
+  - expansion
+  - social games
 ---
 
 ## Exploding Kittens: Cats vs Pickles — Expanded Geeknite Review
 
-![Cat vs Pickles art](/assets/images/cats-vs-pickles-art.jpg)
+![Cat vs Pickles art]({{ site.baseurl }}/assets/images/cats-vs-pickles-art.jpg)
 
 If you thought your family game night needed more chaos, cooler cats, and cucumbers that double as danger snacks, you were not wrong. Exploding Kittens: Cats vs Pickles is the zany spin on the original Exploding Kittens formula, sending cats and pickles to battle for your attention, snacks, and bragging rights at the table. In Geeknite fashion, we dipped our toes into this brine-bruised universe, laughed at the absurdity, and then promptly blamed the pickle fumes for our dubious decisions.
 
@@ -88,7 +90,7 @@ Like any good party game, Cats vs Pickles rewards social savvy more than pure ma
 
 ## Artwork, Humor, and Experience
 
-The humor lands because it is not mean-spirited. It’s a playful poke at cat culture and the internet’s obsession with cucumbers that somehow survived into a board game world. The art style is cartoonish and friendly, making it easy for non-gamers to join in and feel included. If you love memes, you’ll catch several quick riffs and callbacks that feel earned rather than forced.
+The humor lands because it is not mean-spirited. It’s a playful poke at cat culture and the Internet’s obsession with cucumbers that somehow survived into a board game world. The art style is cartoonish and friendly, making it easy for non-gamers to join in and feel included. If you love memes, you’ll catch several quick riffs and callbacks that feel earned rather than forced.
 
 For those who crave a deeper story, there isn’t much of one to pull you in. This is a party game first and a narrative device second. The experience is all about the social dynamic: who can hold it together when a pickle-themed disaster unfolds, and who breaks first under a chorus of cat-voice sounds? The answer, more often than not, is: everyone—and that is exactly the point.
 
@@ -147,7 +149,7 @@ The game scales nicely for families and mixed-age groups. It’s loud and colorf
 
 Overall, Exploding Kittens: Cats vs Pickles is a solid addition to the party game landscape. It doesn’t pretend to be a heavy strategy experience; it doubles down on laugh-out-loud moments, quick setup, and a shared sense of ridiculous fun. It’s best enjoyed with a group that loves improv and memes—the kind of table where someone will turn a missed card into a running joke that lasts all night.
 
-Geeknite rating: 4.5 out of 5 cat tails. It loses a star for not being as relentlessly tight as the original in pure playtime efficiency, but it wins back a star for the sheer joy and social ripple effect it creates at the table.
+Geeknite rating: 4.7 out of 5 cat tails. It loses a touch for not being as relentlessly tight as the original in pure playtime efficiency, but it wins back a star for the sheer joy and social ripple effect it creates at the table.
 
 If you want a distilled recommendation: buy it if your game nights are about energy, memes, and great company. Skip it if you crave deep tactical play or a hushed, intense dungeon crawl with dice that rattle like polished bones.
 
@@ -172,3 +174,10 @@ Cats vs Pickles captures a moment in time when casual gaming is at its peak and 
 For the curious test pilots among you, try mixing Cats vs Pickles with a short stack of classic party games. The results range from surprisingly cohesive to gloriously chaotic, but always memorable. And if you have a favorite house rule that turned a round into a legendary story, tell us in the comments or share a clip—the Geeknite community loves a good origin tale.
 
 **Grab it via our affiliate link and bring home the pickle-powered cat chaos today: https://geeknite.shop/affiliate/cats-vs-pickles**
+
+### Related reads and context
+- See how this spin-off fits into the broader Exploding Kittens universe: [Our overview of spin-offs and related titles]({% post_url 2025-06-14-spinoffs-and-related-titles.md %}).
+- Compare with the original: [Our thoughts on the original Exploding Kittens]({% post_url 2024-10-01-exploding-kittens-review.md %}).
+- If you’re planning a party night around lighter strategy, here are some more pointers: [Party Game Night Tactics]({% post_url 2023-11-02-party-game-night-tactics.md %}).
+
+---
