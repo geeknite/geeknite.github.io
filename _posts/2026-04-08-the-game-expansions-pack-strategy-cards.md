@@ -1,5 +1,5 @@
 ---
-title: The Game: Expansions Pack - Strategy Cards
+title: The Game: Expansions Pack - Strategy Cards (Extended Review)
 date: 2026-04-08 12:00:00 +0000
 tags:
   - board games
@@ -13,7 +13,7 @@ tags:
 ![Strategy Cards Expansion]({{ '/assets/img/the-game-expansions-strategy-cards.jpg' | relative_url }})
 
 ## Introduction
-Greetings, fellow table-top enthusiasts. The Game: Expansions Pack - Strategy Cards lands with the confidence of a chaotic pianist who insists that every misstep is part of the symphony. This expansion promises to turn a familiar evening into a sprawling tactical tapestry, a choreographed chaos where every choice feels pivotal, even if the board sometimes behaves like a well-meaning chaos gremlin. In this expanded review, we dive into what the Strategy Cards actually add to the core rules, how they interact with the heart of the game, and whether this pack is worth your hard-earned dollars and the inevitable complaints from friends who insist that rules exist to be argued about later, preferably with hot sauce on the side.
+Greetings, fellow table-top enthusiasts. The Game: Expansions Pack - Strategy Cards lands with the swagger of a chaotic pianist who insists that every misstep is part of the symphony. This expansion promises to turn a familiar evening into a sprawling tactical tapestry, a choreographed chaos where every choice feels pivotal, even if the board sometimes behaves like a well-meaning chaos gremlin. In this expanded review, we dive into what the Strategy Cards actually add to the core rules, how they interact with the heart of the game, and whether this pack is worth your hard-earned dollars and the inevitable complaints from friends who insist that rules exist to be argued about later, preferably with hot sauce on the side.
 
 If you want to jump straight to the bottom line, we have a clear recommendation after the maneuvers and a couple of nerdy anecdotes that show how a single card can turn a polite table into a conspiratorial improv troupe.
 
@@ -30,7 +30,7 @@ In addition to the physical components, the expansion promises a wider decision 
 - Situation Cards: The curveballs. They twist ordinary turns into mini improv sessions where the objective is to outwit the room rather than merely outrun the clock.
 
 ### Card Anatomy
-Each card adheres to the same typographic philosophy as the base game: clean, readable, and merciless in the right moments. The Core Strategy Card acts as the primary workload manager for the next three rounds; the Surprise Element introduces a dash of unpredictability; and the Interaction Cards encourage you to treat the table as a living, breathing ecosystem rather than a static scoreboard.
+Each card adheres to the same typographic philosophy as the base game: clean, readable, and merciless in the right moments. The Core Strategy Card acts as the primary workload manager for the next three rounds; the Surprise Element introduces a dash of unpredictability; and the Interaction Cards encourage you to treat the table as a living, breathing ecosystem rather than a static scoreboard. The design language is consistent enough to feel familiar but with enough bite to justify the upgrade.
 
 ## How It Changes The Base Game
 If you have played The Game before, you know that the core loop is about sequence and optimization. The Strategy Cards expand that loop, not by rewriting the rules, but by broadening the decision space. You will often delay a straightforward path in favor of a gravity-defying plan that relies on timing, bluffing, and a bit of luck. The interplay with core mechanics is thoughtful rather than forced; you are not simply rewarded for more points but for smarter, more flexible thinking. There are moments when a single card creates a chain reaction that makes you both proud and conspiratorial about how it all happened.
@@ -42,7 +42,7 @@ If you have played The Game before, you know that the core loop is about sequenc
 - Drafting and Counterplay: A few cards let you shape the order of play itself, which can feel almost like a political maneuver on a coffee table. Don’t worry; the politics are lighthearted, and the stakes are mostly who gets to say I called it first.
 
 ### Play Pace and Table Etiquette
-The pacing shifts in delightful ways. Some sessions accelerate into a brisk sprint, while others bloom into a patient, almost ceremonial chess match over the last two cards. The expansion respects the social contract: it rewards careful discussion, playful deception, and the willingness to course-correct when a plan goes sideways because someone drew a dramatic promo card from a different universe.
+The pacing shifts in delightful ways. Some sessions accelerate into a brisk sprint, while others bloom into a patient, almost ceremonial chess match over the last two cards. The expansion respects the social contract: it rewards careful discussion, playful deception, and the willingness to course-correct when a plan goes sideways because someone drew a dramatic promo card from a different universe. The etiquette becomes part of the humor—every misstep is a story you’ll tell at the next session.
 
 ## Play Experience and Accessibility
 One strength of the expansion is readability. The icons are intuitive, the text is clear, and the rule sheet provides a forgiving ramp for newcomers. There is a learning curve, sure, particularly if you are trying to micro-optimize every turn after watching a dozen YouTube run-throughs, but the curve is more like a gentle hill with a breeze than a vertical cliff of doom.
