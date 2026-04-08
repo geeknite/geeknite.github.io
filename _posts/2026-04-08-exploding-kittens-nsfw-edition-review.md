@@ -15,6 +15,7 @@ tags:
   - Erwachsenenhumor
   - Gesellschaftsspiel
   - Spaß
+  - Review-Update
 ---
 
 ![NSFW Edition – Kartendeck]({{ site.baseurl }}/assets/images/exploding-kittens-nsfw-deck.jpg)
