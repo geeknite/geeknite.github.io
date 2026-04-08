@@ -8,6 +8,8 @@ tags:
   - collectibles
   - reviews
   - features
+  - unboxing
+  - design-history
 ---
 
 ## Uno Card Game Vintage 1983 Factory Sealed: Read — Expanded Geeknite Review
@@ -144,6 +146,6 @@ If you’re reading this and the 1983 factory-sealed UNO is within your reach, g
 
 If you want to indulge in the nostalgia and support Geeknite while you do, this is the exact kind of item that deserves a home on your shelf and a regular grin during a weekend binge of old-school gaming. And if you’re ready to take the plunge, here’s a convenient affiliate link to help you snag a piece of history while supporting the site: https://affiliate.geeknite.example/uno-1983
 
-**End with a bold call-to-action — grab your 1983 UNO today and let the good times roll.**
+**Grab your 1983 UNO today and let the good times roll.**
 
 **Affiliate Buy Link (for the bold-hearted): https://affiliate.geeknite.example/uno-1983**
