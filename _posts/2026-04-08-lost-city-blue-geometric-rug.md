@@ -16,7 +16,7 @@ If you ever wanted a rug that looks like a pixelated artifact from a lost civili
 
 This expanded review leans into the nerdy soundtrack of design decisions: geometry, color theory, and the practical ways a rug can change how a space feels when you’re streaming, gaming, or pretending to adult. We’ll explore design aesthetics, materials, durability, size options, styling ideas, maintenance, and a verdict that may or may not include a dramatic drumroll. Spoiler: it’s a rug, but it is also a portal to a more confident decorating self. If the Lost City maps one thing clearly, it is that you can turn a mundane floor into an adventure zone without needing a map, a compass, or a working sense of balance.
 
-{% image src="/assets/images/lost-city-blue-geometric-rug.jpg" alt="Lost City Blue Geometric Rug in a sunny modern living room" %}
+{% image src='/assets/images/lost-city-blue-geometric-rug.jpg' alt='Lost City Blue Geometric Rug in a sunny modern living room' %}
 
 ## Design and Aesthetic: Geometry as a Treasure Map
 
