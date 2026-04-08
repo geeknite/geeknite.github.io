@@ -1,24 +1,25 @@
 ---
-ttitle: Age of Empires III The WarChiefs Expansion — A Geeknite Review
+title: Age of Empires III: The WarChiefs Expansion — A Geeknite Review Revisited
 date: 2026-04-08
+layout: post
 tags:
   - age-of-empires-iii
   - expansion
   - real-time-strategy
   - pc
   - game-review
-layout: post
+  - war-chiefs
 ---
 
-# Age of Empires III The WarChiefs Expansion — A Geeknite Review
+# Age of Empires III: The WarChiefs Expansion — A Geeknite Review Revisited
 
-Ah, Age of Empires III. A game that taught us the ancient art of chopping wood, building ridiculously large houses, and arguing over whether it is morally acceptable to burn a neighbor's fishing camp with the elegance of a mid-2000s kitchen appliance. Then came The WarChiefs expansion, a spicy, totem-toting, horse-hoofed add-on that slapped not one, but two new civilizations onto the already sprawling map of colonial chaos. If you thought the base game was a mood, wait till you see what two Native American empires do to your meta and your morale meter.
+Ah, Age of Empires III. The game that taught us the ancient art of chopping wood, building ridiculously large houses, and arguing over whether it is morally acceptable to burn a neighbor's fishing camp with the elegance of a mid-2000s kitchen appliance. Then came The WarChiefs expansion, a spicy, totem-toting, horse-hoofed add-on that slapped not one, but two new civilizations onto the already sprawling map of colonial chaos. If you thought the base game was a mood, wait till you see what two Native American empires do to your meta and your morale meter.
 
 If you’re browsing this on a caffeine-fueled late night or a nostalgia trip that tastes suspiciously like instant coffee, you’re in for a treat. We’re going to dive into the WarChiefs expansion, its two civilizations, new campaigns, balance concerns, and the kind of humor you can only extract from an RTS that lets you manage a cornucopia of crates, wagons, and arrow supply lines.
 
 > For the uninitiated, AoE3 The WarChiefs expansion released in the mid-2000s and is best enjoyed with a PC that still believes the fan is a good placement for a tiny desk fan. It adds two Native American civilizations, new campaigns, and a bunch of quality of life and balance updates that feel earned rather than slapped on like DLC albatrosses. And yes, there is a way to pronounce “Haudenosaunee” that will impress your friends or at least confuse your in-laws.
 
-![AoE3 WarChiefs expansion banner](/assets/images/aoe3-warchiefs-banner.jpg)
+![AoE3 WarChiefs expansion banner]({{ site.baseurl }}/assets/images/aoe3-warchiefs-banner.jpg)
 
 ## What The WarChiefs Brings to the Table
 
@@ -29,7 +30,7 @@ Two historically resonant empires step onto the battlefield to remind you that i
 
 1) The Iroquois Confederacy (Haudenosaunee) – The Confederacy is a civ built around unity and mobility. Expect bonuses that reward you for coordinating multiple clans (aka units) and leveraging a unique set of totem mechanics that empower your army in more ways than one. In practice, this means you’ll want to keep a keen eye on your “clan spread” and use totem upgrades to buff your troops, making your infantry far more than a pile of spears on a windy day. They are not just a melee force; they are a system, and systems win games when you treat them like an orchestra rather than a pile of tools.
 
-2) The Sioux – The horsemen’s argument with the plains finally gets a proper strategic outlet. The Sioux emphasize mobility, raiding, and fast economic acceleration. Cavalry-centric and aggressive, they excel at pressuring multiple fronts and exploiting the map’s open spaces. If you enjoy sweeping flanks, rapid aging, and raiding economies that resemble a well-timed heist, the Sioux are your homebrew coffee without the bitter aftertaste of the morning after.
+2) The Sioux – The horsemen’s argument with the plains finally gets a proper strategic outlet. The Sioux emphasize mobility, raiding, and fast economic acceleration. Cavalry-centric and aggressive, they excel at pressuring multiple fronts and exploiting the map’s open spaces. If you enjoy sweeping flanks, rapid aging, and raiding economies that resemble a well-timed heist, the Sioux are your homebrewed coffee without the bitter aftertaste of the morning after.
 
 Both civs bring unique units and landmark abilities that force you to rethink standard AoE3 macro. You’ll see farms replaced by more flexible food gathering schemes, new hunt mechanics, and a mix of early and mid game options that tilt toward “control the map” rather than “control the middle.” It’s a refreshing shakeup that doesn’t betray the core AoE3 identity; it simply adds more routes to victory and more ways to misplay spectacularly in style.
 
@@ -98,4 +99,4 @@ If you like your RTS served with a dash of history, a pinch of myth, and a whole
 
 Overall score: 8.5/10 – A thoughtful, well-balanced expansion that respects the original while providing enough novelty to feel like a real upgrade rather than a glorified patch.
 
-**Grab your copy now through this affiliate link: [AoE3 WarChiefs Expansion on Affiliate](https://example.com/affiliate/aoe3-warchiefs)**
+**Grab your copy now through this affiliate link: https://example.com/affiliate/aoe3-warchiefs**
