@@ -9,7 +9,7 @@ tags:
   - humor
   - geeknite
   - expansion
-  - explod-kittens
+  - exploding-kittens
   - party-pack
   - cats
 ---
@@ -18,7 +18,7 @@ tags:
 
 ![]( {{ '/images/exploding-kittens-party-pack-sealed.jpg' | relative_url }} )
 
-If you thought your family gatherings were safe from chaos, think again. The Exploding Kittens Party Pack has crash-landed into the living room with a swagger worthy of a feline overlord and enough wow factor to turn a Tuesday night into a full-blown glitter-and-confetti-bomb of laughter. This isn’t just a bigger version of a card game; it is a social catalyst, a risk assessment exercise for your group’s willingness to laugh loudly at well-timed misplays, and a surprisingly efficient way to decide who will fetch the snacks when the group is two cards away from catastrophe. In the Geeknite universe, this box is basically a compact party universe: a little bit of art, a dash of strategy, a pinch of chaos, and a whole lot of cat-shaped chaos control.
+If you thought family gatherings were safe from chaos, think again. The Exploding Kittens Party Pack has crash-landed into the living room with a swagger worthy of a feline overlord and enough wow factor to turn a Tuesday night into a full-blown glitter-and-confetti-bomb of laughter. This isn’t just a bigger version of a card game; it is a social catalyst, a risk assessment exercise for your group’s willingness to laugh loudly at well-timed misplays, and a surprisingly efficient way to decide who will fetch the snacks when the group is two cards away from catastrophe. In the Geeknite universe, this box is basically a compact party universe: a little bit of art, a dash of strategy, a pinch of chaos, and a whole lot of cat-shaped chaos control.
 
 ## Unboxing and First Impressions: Factory-Sealed Drama
 
@@ -71,7 +71,7 @@ Adults will appreciate the added card variety and the social spectacle that acco
 
 Exploding Kittens has always thrived on a blend of quirky visuals and clever humor. The Party Pack doubles down on that DNA. Expect puns that land better when delivered with a grin, cat illustrations that look suspiciously like something your pet might try to do, and jokes that skew toward witty rather than edgy. It is the kind of humor that travels well at gatherings with mixed ages, and it is a good fit for groups that want laughs without crossing lines. The humor works as social glue: it lowers defenses, invites storytelling, and turns misplays into punchlines rather than grudges.
 
-If you’re worried about cat-meme fatigue, fear not: the jokes ride a little higher on wit and situational comedy than on in-your-face memes. The Party Pack uses humor to remind everyone that the goal is laughter, not harm, and it accomplishes that without neutering the chaos.
+If you’re worried about cat-meme fatigue, fear not: the jokes ride a little higher on wit and situational comedy than on on-demand memes. The Party Pack uses humor to remind everyone that the goal is laughter, not harm, and it accomplishes that without neutering the chaos.
 
 ## Strategy and Tactics: How to Make the Most of It
 
