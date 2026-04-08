@@ -22,7 +22,7 @@ tags:
 
 ![NSFW Edition – Kartendeck]({{ site.baseurl }}/assets/images/exploding-kittens-nsfw-deck.jpg)
 
-Willkommen zurück bei Geeknite, dem Ort, an dem Kartendecks mehr Drama machen als der Plot-Twist deiner Lieblings memes. Wir haben die NSFW Edition von Exploding Kittens erneut durch unseren Testkeller gedreht und lassen es wie einen gut gemixten Cocktail aus Humor, Risiko und Katzenpopkultur wirken. Nachdem wir das Deck über mehrere Abende hinweg getestet haben, liefern wir dir hier eine vertiefte, bissig-lustige Überarbeitung, die Zustand, Design, Mechanik, Humor und Social Dynamics unter die Lupe nimmt. Wenn du Katzenliebe, schlüpfrigen Humor und eine Prise Provokation magst, bleib dran – wir helfen dir zu entscheiden, ob diese NSFW Edition in dein Regal gehört.
+Willkommen zurück bei Geeknite, dem Ort, an dem Kartendecks mehr Drama machen als der Plot-Twist deiner Lieblingsmemes. Wir haben die NSFW Edition von Exploding Kittens erneut durch unseren Testkeller gedreht und lassen es wie einen gut gemixten Cocktail aus Humor, Risiko und Katzenpopkultur wirken. Nachdem wir das Deck über mehrere Abende hinweg getestet haben, liefern wir dir hier eine vertiefte, bissig-lustige Überarbeitung, die Zustand, Design, Mechanik, Humor und Social Dynamics unter die Lupe nimmt. Wenn du Katzenliebe, schlüpfrigen Humor und eine Prise Provokation magst, bleib dran – wir helfen dir zu entscheiden, ob diese NSFW Edition in dein Regal gehört.
 
 ## Einordnung und Zielgruppe
 
@@ -32,18 +32,20 @@ Exploding Kittens NSFW Edition ist die Erwachsenen-Erweiterung des bekannten Par
 
 NSFW steht für Not Safe For Work – auch wenn sich die Rede in der Wohnzimmerrunde mit echten Menschen natürlich leichter umgehen lässt. Die Karten liefern Pointen, Anspielungen und Situationen, die in der Gruppe funktionieren, aber in formellen Settings vermutlich Blicke Richtung Decke senden würden. Die Grundmechanik bleibt dieselbe: Exploding Kittens, Defuse-Karten, See the Future und Co treffen auf eine Palette von Karten über Dating, Karaoke, nächtliche Snack-Orgien und mehr. Wer empfindlich gegenüber zweideutigen Inhalten ist, sollte die NSFW Edition besser aus dem Spielschrank verbannen – oder sinnvoll damit arbeiten, indem man sie mit familienfreundlicheren Karten mischt. In der Praxis bedeutet das: Du bekommst witzige, gelegentlich schlüpfrige Sprüche, eine Portion schwarzen Humors und eine Kissenplausch-Atmosphäre, die eine gute Gruppenrunde braucht.
 
-## Inhalt und Zustand: Sealed vs. Wie neu ist wie neu?
+## Zustand: Sealed vs. neu geöffnet – was bedeutet opened bundle?
 
 Der Reiz von Sealed ist kein Geheimtipp, sondern Gewissheit, dass Verpackung und Inhalt möglichst unberührt bleiben. Du kaufst dir hier Sicherheit: Karten unversehrt, Ecken sauber, Farben frisch. In der Praxis bedeutet das oft:
 
 - Karten: keine Eselsohren, keine Knicke, keine aufgeweichte Kartonlage.
 - Verpackung: keine Macken an den Ecken, kein zerdrückter Deckel, alles sitzt wie am ersten Tag.
-- Der Würde halber: selbst der WAU-Karton hat Stil. Die NSFW Edition kommt mit einem robusten Kartenvorbau, der das Material schützt und die erwachsenen Anspielungen im richtigen Licht präsentiert.
+- Gelegentlich: selbst der WAU-Karton hat Stil. Die NSFW Edition kommt mit einem robusten Kartenvorbau, der das Material schützt und die erwachsenen Anspielungen im richtigen Licht präsentiert.
 
 Key-Facts zum Zustand:
 - Zustand laut Verkäufer: Sehr gut bis wie neu – allerdings sind Kartenspiele in der Praxis oft etwas besser als wie neu, weil der Transport seine Spuren hinterlässt.
 - Kondition prüfen: Achte auf Kratzer auf Innenkarton, feine Bläschen im Folienumschlag und ob der Defuse-Stapel sichtbar genutzt wirkt. Falls du eine gebrauchte Variante kaufst, frage nach dem Zustand der Kartenrückseiten – die verraten oft, wie häufig gemischt wurde.
 - Verschluss/Versiegelung: Originalversiegelung bei wie-neu Angeboten, aber nicht immer – plane ein kurzes Öffnen des Decks, falls du dir unsicher bist, ob es wirklich sealed ist.
+
+> Hinweis: Wenn du tatsächlich eine new opened Box bekommst, halte Ausschau nach Spuren des Öffnens, wie Klebereste am Rand oder minimal abgerundete Ecken. Das bedeutet nicht automatisch Missbrauch, sondern oft eine unbeschwerte Lagerung. Wir verteidigen hier die Kunst des Wiederverpackens nie im Streit mit der guten Laune der Mitspieler.
 
 ## Design, Artwork und Thematik
 
@@ -91,7 +93,7 @@ Auch wenn Exploding Kittens auf Glück zu basieren scheint, gibt es Strategien, 
 - Hausregeln klären: Welche Inhalte sind erlaubt, was ist tabu? Das schützt die Stimmung und verhindert peinliche Momente bei neuen Spielern.
 - Regelmäßiges Mischen: Nach mehreren Runden das Deck neu mischen, damit das Risiko sich verteilt und die Spannung steigt.
 - Community-Mindset: Tauscht Patterns aus, welche Karten in eurer Gruppe funktionieren. Das erhöht den Langzeitspaß.
-- Kartenpflege: Leichte Kratzer sind okay, aber halte das Deck sauber. Vermeide Wasser, Hitze und direkte Sonneneinstrahlung – Farben und Druck leben länger.
+- Kartenpflege: Leichte Kratzer sind normal, aber halte das Deck sauber. Vermeide Wasser, Hitze und direkte Sonneneinstrahlung – Farben und Druck leben länger.
 
 ## Vergleich mit der Basisedition und anderen Kartenspielen
 
