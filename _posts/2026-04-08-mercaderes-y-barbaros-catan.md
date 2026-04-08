@@ -1,5 +1,5 @@
 ---
-title: Mercaderes y Bárbaros - Catan: Reseña para geeklets del comercio y el caos
+title: Mercaderes y Bárbaros - Catan: Reseña extendida para geeklets del comercio y el caos
 date: 2026-04-08
 tags:
   - board games
@@ -10,11 +10,11 @@ tags:
   - geeknite
 ---
 
-{% image src="/assets/images/mercaderes-y-barbaros-catan.jpg" alt="Mercaderes y Bárbaros - Catan" %}
+{% image src='/assets/images/mercaderes-y-barbaros-catan.jpg' alt='Mercaderes y Bárbaros - Catan' %}
 
 ## Introducción
 
-Si ya dominas el arte de intercambiar ovejas por madera y ladrillos como si fuera deporte olímpico, es posible que sientas que a Catan le falta un poco de chispa. Entra Mercaderes y Bárbaros, una expansión que promete convertir tu mesa de comedor en un mercado bullicioso, una caravana de caravanas y, por qué no, una pequeña invasión bárbara que podría terminar en una buena historia de terror para la próxima noche de juego. En Geeknite hemos probado esta expansión como quien prueba una nueva build de nuestro juego favorito: con curiosidad, con humor y con la firme intención de decir si vale o no la pena sacar las piezas cuando ya hay una Colina, un Bosque y un deslizamiento de dados que podría arruinar la tarde. Este análisis intenta ser claro, práctico y, si se logra, divertido. No vamos a prometer que cambiará tu vida, pero sí que cambiará la dinámica de tus partidas si te gusta introducir un poco de caos y negociaciones más largas que la lista de espera de tu tienda de cómics favorita.
+Si ya dominas el arte de intercambiar ovejas por madera y ladrillos como si fuera deporte olímpico, es posible que sientas que a Catan le falta un poco de chispa. Entra Mercaderes y Bárbaros, una expansión que promete convertir tu mesa de comedor en un mercado bullicioso, una caravana de caravanas y, por qué no, una pequeña invasión bárbara que podría terminar en una buena historia de terror para la próxima noche de juego. En Geeknite hemos probado esta expansión como quien prueba una nueva build de nuestro juego favorito: con curiosidad, con humor y con la firme intención de decir si vale o no la pena sacar las piezas cuando ya hay una colina, un bosque y un deslizamiento de dados que podría arruinar la tarde. Este análisis intenta ser claro, práctico y, si se logra, divertido. No vamos a prometer que cambiará tu vida, pero sí que cambiará la dinámica de tus partidas si te gusta introducir un poco de caos y negociaciones más largas que la lista de espera de tu tienda de cómics favorita.
 
 > Nota de estilo: aquí en Geeknite nos gusta comparar expansiones con personajes de fantasía: Mercaderes y Bárbaros es ese dúo que parece sacado de una campaña de D&D pero que en la mesa de Catan se comporta como una banda de vendedores improvisados y guerreros de bolsillo. Si lo tuyo es el ritmo rápido, tal vez esta expansión te pida un par de ajustes en la regla para que no termine pareciendo un juego de rol para cinco años. Aun así, la experiencia puede ser muy satisfactoria para grupos que ya estén curtidos en la base y busquen una nueva capa de complejidad.
 
@@ -148,4 +148,3 @@ Si lo tuyo es la eficiencia pura o un ritmo de juego ultrarrápido, quizá quier
 Si te gustan los juegos de mesa que hacen que cada recurso tenga historias que contar, Mercaderes y Bárbaros te va a regalar una campaña de diplomacia, comercio y pequeñas guerras privatizadas, todo alrededor de una mesa que podría convertirse en un mercado medieval—sin la necesidad de pagar alquiler por un puesto de mercado. ¿Vas a permitir que un bárbaro te robe esa vía de comercio que te da la victoria? ¿O vas a convertir tu vecino en tu mejor cliente hasta que el último recurso tenga sentido y el mapa diga “victoria”? En cualquier caso, te retamos a que lo pruebes con alguien que sepa negociar y con alguien que pueda provocar una pequeña hecatombe de recursos para ver quién sale ganando al final.
 
 **Compra Mercaderes y Bárbaros aquí: https://affiliate.example/mercaderes-y-barbaros**
-
