@@ -1,16 +1,16 @@
 ---
-title: 'Exploding Kittens: Throwing Shade Expansion — A Geeknite Review'
+title: 'Exploding Kittens: Throwing Shade Expansion — A Geeknite Review (Expanded)'
 date: 2026-04-08 12:00:00 -0000
-tags: [board games, exploding-kittens, expansion, card game, humor, party-games]
+tags: [board games, exploding-kittens, expansion, card game, humor, party-games, review, geeknite]
 ---
 
 ![Throwing Shade Expansion Art](assets/images/throwing-shade-expansion.jpg)
 
-Welcome fellow geeks to a box that promises chaos, a little bit of sass, and the kind of friendly sabotage that makes your Thanksgiving table feel like a LAN party circa 1999. The Throwing Shade Expansion for Exploding Kittens is not just more cards; it is a portable stage for banter, bluffing, and the occasional existential crisis when you realize you drew a clone of your own misfortune card. In this Geeknite review, we dive deep into the expansion, its mechanics, its humor, and whether it belongs in your next game night or in the recycling bin next to your last fruit fly emulation device. Buckle up, because the kitten is out of the bag and the shade is being thrown like a rogue wizard with a laser pointer.
+Welcome, fellow geeks, to a box that promises chaos, a dash of sass, and the kind of friendly sabotage that makes your Thanksgiving table feel like a LAN party circa 1999. The Throwing Shade Expansion for Exploding Kittens is not just more cards; it is a portable stage for banter, bluffing, and the occasional existential crisis when you realize you drew a clone of your own misfortune card. In this Geeknite review, we dive deep into the expansion, its mechanics, its humor, and whether it belongs in your next game night or in the recycling bin next to your last fruit fly emulation device. Buckle up, because the kitten is out of the bag and the shade is being thrown like a rogue wizard with a laser pointer.
 
 ## What is Throwing Shade Expansion
 
-In gaming terms, Throwing Shade Expansion is more like a side quest you do not know you asked for but cannot resist. It adds a new cadre of cards that lean into social dynamics and mess with the information flow around the table. The main idea is to encourage players to misdirect, bluff, and react with clockwork precision to keep the mood light while the deck bleeds hilarity. The kit includes new action cards, new draw cards, and a few fresh twists that tilt the balance toward chaos in a controlled manner. It is like swapping from a polished sword to a rainbow glitter grenade; you still have to swing, but the consequences are a lot more colorful.
+In gaming terms, Throwing Shade Expansion is more like a side quest you did not know you asked for but cannot resist. It adds a new cadre of cards that lean into social dynamics and mess with the information flow around the table. The main idea is to encourage players to misdirect, bluff, and react with clockwork precision to keep the mood light while the deck bleeds hilarity. The kit includes new action cards, new draw cards, and a few fresh twists that tilt the balance toward chaos in a controlled manner. It is like swapping from a polished sword to a rainbow glitter grenade; you still have to swing, but the consequences are a lot more colorful.
 
 The core concept here is shade. Not the emotional shade of a drama queen, but the literal shade of misdirection. Expect cards that force you to reveal your hand, swap cards under a timer, and perhaps even a card that lets you blame it on the dog while you secretly sabotage your neighbor. The tone is still firmly anchored in the cheeky humor that Exploding Kittens fans adore, so if you came for grimdark table talk you might want to bring earplugs for laughter instead.
 
@@ -23,7 +23,7 @@ Opening the Throwing Shade box is a ritual. The card stock feels sturdy enough t
 - A few new tokens that add flavor without complicating the math, because we all know that complexity is its own form of chaos.
 - A small cheat sheet that does not actually cheat, but it does remind you to look up the post_url for our previous explorations of the base game. For example check {% post_url 2025-02-14-exploding-kittens-basics %}.
 
-If you are the sort of person who likes a neat stack of cards that can double as confetti after a win, Throwing Shade will feel right at home on your table. If you prefer solitaire solvable puzzles with zero social friction, this expansion may not be your jam. The value hinges on your willingness to disrupt friendly competition with a wink and a nudge that says you are not out to ruin the game you are here to elevate it with drama.
+If you are the sort of person who likes a neat stack of cards that can double as confetti after a win, Throwing Shade will feel right at home on your table. If you prefer solitaire solvable puzzles with zero social friction, this expansion may not be your jam. The value hinges on your willingness to disrupt friendly competition with a wink and a nudge that says you are not out to ruin the game; you are here to elevate it with drama.
 
 ### How it changes the game pace
 
