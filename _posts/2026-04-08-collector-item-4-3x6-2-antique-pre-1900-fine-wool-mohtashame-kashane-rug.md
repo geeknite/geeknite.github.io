@@ -1,5 +1,5 @@
 ---
-title: "Collector Item — 4'3\" x 6'2\" Antique Pre-1900 Fine Wool Mohtashame Kashane Rug"
+title: Collector Item — 4'3" x 6'2" Antique Pre-1900 Fine Wool Mohtashane Kashane Rug
 date: 2026-04-08
 tags:
   - Rugs
@@ -10,9 +10,9 @@ tags:
   - Geeknite
 ---
 
-# Collector Item Review: 4'3" x 6'2" Antique Pre-1900 Fine Wool Mohtashame Kashane Rug
+# Collector Item Review: 4'3" x 6'2" Antique Pre-1900 Fine Wool Mohtashane Kashane Rug
 
-If you wandered into a sunlit attic and found a shimmering carpet that looked like it hopped straight out of a fairy-tableau of Persian art, you’ve probably stumbled upon something that could cause a blush in a museum curator. Today we’re geeking out over a collector item that seems to whisper: “I’ve seen dynasties come and go—and I still look fabulous.” The 4'3" x 6'2" antique pre-1900 fine wool Mohtashame Kashane rug is not just a floor covering; it’s a time capsule, a textile passport, and for some collectors, a practical excuse to stretch the living room space while pretending you own a piece of art that might outlive your mortgage.
+If you wandered into a sunlit attic and found a shimmering carpet that looked like it hopped straight out of a fairy-tableau of Persian art, you’ve probably stumbled upon something that could cause a blush in a museum curator. Today we’re geeking out over a collector item that seems to whisper: “I’ve seen dynasties come and go—and I still look fabulous.” The 4'3" x 6'2" antique pre-1900 fine wool Mohtashane Kashane rug is not just a floor covering; it’s a time capsule, a textile passport, and for some collectors, a practical excuse to stretch the living room space while pretending you own a piece of art that might outlive your mortgage.
 
 Below we unpack this specimen with the enthusiasm of a caffeine-fueled bibliophile and the precision of a lab report. Buckle up, rug nerds and casual sniffers of antique fibers: let’s dive into the yarn, the knots, the provenance, and the inevitable frugal thrill of discovering you’re holding a tiny, soft, pulsing chunk of history in your between-the-chair-and-the-wall space.
 
@@ -20,14 +20,14 @@ Below we unpack this specimen with the enthusiasm of a caffeine-fueled bibliophi
 
 - Size: 4'3" by 6'2" (roughly 51 inches by 74 inches). That’s a compact chonky cat of a rug—big enough to define a seating area, small enough to not trigger HOA disputes about “wall-to-wall is not a fashion statement.”
 - Material: Fine wool. Wool from pre-1900s Iran was typically robust, with a natural luster that makes you feel like you’re staring at a well-woven aurora borealis in carpet form.
-- Age: Pre-1900. That means this piece survived several wars, a few fashion cycles, and the occasional dusty millennia of fashion sense time travel. Pre-1900 Persian rugs are rare enough to feel like a heist movie prop—except the heist is your heart, and the prop is a vase of history that weighs about as much as your doubts about that “vintage” discount couch.
+- Age: Pre-1900. That means this piece survived several wars, a few fashion cycles, and the occasional dusty millennia of fashion sense time travel. Pre-1900 Persian rugs are rare enough to feel like a heist movie prop—except the heist is your heart, and the prop is a rug that weighs about as much as your doubts about that “vintage” discount couch.
 - Style lineage: Mohtashame Kashani (often spelled Kashan or Kashani in various catalogues). These pieces sit at a nexus of Kashan workshops known for refined floral medallions, tight knotting, and color palettes that predate the era of “neon everything.”
 - Color palette: Earthy ivories and blues, with sometimes a muted ruby or golden hour palette. The dyes used were often plant-based and mineral; the result is a warm color memory that ages gracefully rather than shouting for attention.
 
 If you’re a nerd for fiber, you’ll appreciate how the wool in these rugs accepts light rather than smolders it. In practical terms, a Mohtashame Kashane rug ages like a well-aged wine: toned, complex, and capable of haunting your furniture choices with a sense of “this piece was here before your couch existed.”
 
 > Image note: Visuals help the drama. Here’s a representation to put you in the mood. 
->
+> 
 > ![Mohtashame Kashane Rug in a sunlit corner]({{ '/assets/images/mohtashame-kashane.jpg' | relative_url }})
 
 If you want a real-life look, this is the kind of rug you’d find on a showroom wall with wool enough to make you reconsider buying a larger apartment just to give it the breathing room it deserves.
@@ -91,11 +91,15 @@ Owning an antique textile is a bit like hosting a living artifact: it requires r
 
 If you want to document care, keep a simple care log. A few notes about the rug’s location, light exposure, and any professional cleanings will help future owners know you treated it with the reverence it deserves.
 
+> Pro-tip: Drip a small, inconspicuous moisture test if you suspect past damp exposure. A quick test can save you from a growing drama under the fringe when the next monsoon hits.
+
 ## Market outlook: where does a Mohtashame Kashani rug stand today?
 
 The antique rug market is a curious blend of art, archaeology, and economics. Demand for pre-1900 Kashani pieces remains steady among serious collectors who want a historical anchor for rooms that deserve a conversation piece. Rarity, design refinement, and condition drive price fluctuations. A rug like this—relatively compact in size, with a classic design language—often finds buyers who want to balance “antique value” with a living space that can handle a piece that weighs more than a cat and looks better than most modern wall art.
 
 Market trends do not move in perfectly straight lines. A single owner’s gallery acquisition can nudge prices up, while a broader economic shift can pull things down. The best approach if you’re considering purchasing is to evaluate comparable pieces from reputable dealers, request condition reports, and, if possible, obtain a professional appraisal that considers current market conditions and recent sale prices for Mohtashame Kashani rugs of similar caliber.
+
+If you’d like to dip into the broader universe of antique textiles, our internal guides on rug history can provide context for how a pre-1900 Kashani fits into the larger tapestry of Persian weaving. For a quick primer, see our Kashan rug history post via {% post_url 2025-11-12-kashan-rug-history %} and remember to bookmark the care tips in our Rug Care for Collectors piece via {% post_url 2024-08-01-rug-care-for-collectors %} for ongoing maintenance wisdom. If you’re curious about authenticity, our guide to authenticating Persian rugs via {% post_url 2023-05-20-authenticating-persian-rugs %} has a practical checklist. External context is also useful, so you can wander down the rabbit hole at Kashan rug Wikipedia entry: https://en.wikipedia.org/wiki/Kashan_rug.
 
 ## Design analysis: motifs, color, and mood
 
