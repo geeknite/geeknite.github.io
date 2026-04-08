@@ -8,6 +8,8 @@ tags:
   - NM
   - Charts
   - Analysis
+  - Humor
+  - DataViz
 ---
 
 ![Tank Duel cover](/assets/images/tankduel-cover.jpg){: .hero }
@@ -92,7 +94,7 @@ For an external perspective on the real world of armored warfare and how enginee
 
 Tank Duel is a bold, witty experiment that fuses warfare with data visualization in a way that feels fresh and surprisingly accessible. It does not pretend to be the most realistic tank sim or the most expansive open world. Instead, it tightens the loop around a single mechanic that is executed with precision: reading and responding to charts under pressure. The result is a game that invites you to slow down for a moment, breathe in the world of dashboards, and still let you feel the push of the throttle when the plan comes together. The core challenge is learning to translate the language of bar graphs and line charts into a sequence of moves on the battlefield. The satisfaction of that interpretation is the heart of the experience, and it lands with a heartening thud that you are likely to remember long after you put the controller down.
 
-As a score, we land on a robust 8.6 out of 10. This is not a slam dunk, but it is a game that earns its place in a library of experiments that push the medium forward. If you love the idea of data narratives that come alive in the heat of battle, you will find more than enough to adore here. If charts make you glaze over, you might find the approach a bit too quirky for your taste. Either way, Tank Duel leaves a distinctive imprint on the gaming landscape and deserves a spot on your hard drive if you are curious about where data and action can meet.
+As a score, we land on a robust 9.1 out of 10. This is not a flawless masterclass, but it is a game that earns its place in a library of experiments that push the medium forward. If you love the idea of data narratives that come alive in the heat of battle, you will find more than enough to adore here. If charts make you glaze over, you might find the approach a bit too quirky for your taste. Either way, Tank Duel leaves a distinctive imprint on the gaming landscape and deserves a spot on your hard drive if you are curious about where data and action can meet.
 
 ## Where to Learn More and How to Get Involved
 
@@ -106,4 +108,3 @@ As a score, we land on a robust 8.6 out of 10. This is not a slam dunk, but it i
 If you crave a unique blend of tactical aim and data driven decision making, Tank Duel is your next obsession. It will challenge your reflexes, your ability to interpret streams of information on the fly, and your sense of humor about the whole enterprise. It is a game that rewards thinking in charts as much as thinking with your fingers, and that duality makes it a memorable experience that stands out in a crowded market. For the right kind of gamer, this is a rare treat that manages to be educational, funny, and relentlessly satisfying all at once.
 
 [**Buy Tank Duel Deluxe Edition now**](https://affiliates.geeknite.example.com/tankduel?utm_source=geeknite)
-
