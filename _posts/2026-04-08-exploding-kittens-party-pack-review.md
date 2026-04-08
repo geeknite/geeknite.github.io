@@ -11,6 +11,7 @@ tags:
   - expansion
   - explod-kittens
   - party-pack
+  - cats
 ---
 
 ![]( {{ '/images/exploding-kittens-party-pack.jpg' | relative_url }} )
@@ -83,6 +84,7 @@ If you’re worried about cat-meme fatigue, fear not: the jokes ride a little hi
 Remember, practice helps. The more you play, the better you get at spotting patterns, predicting chaos, and turning messy moments into legendary stories you will retell with a smile.
 
 ### Story Time: The Night a Late Arriver Became the Hero of Chaos
+
 A buddy rolled in halfway through the second round with a cup of coffee and a jawline of resolve. By the time he sat down, the table was already a strategic battlefield of bluffs and beeps. He claimed he was “here for the snacks,” but the way he read the risk board told a different story. In one unforgettable sequence, he baited a teammate into a bluff with a simple, well-timed Double Dare, triggering a chain of reactions that left the table howling. That moment didn’t just decide who survived the round; it cemented a new tradition: the person who arrives late controls the tempo of the night with nothing but a warm cup and a killer read of the table. This is what the Party Pack does best: it converts micro-moments into micro-epics you will retell at length.
 
 ## Comparisons: Party Pack vs Base Game vs Other Party Games
