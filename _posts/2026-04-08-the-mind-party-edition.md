@@ -1,5 +1,5 @@
 ---
-title: The Mind: Party Edition — Expanded Geeknite Review
+title: The Mind: Party Edition — Expanded Geeknite Review (Updated)
 date: 2026-04-08
 tags:
   - board-games
@@ -8,14 +8,15 @@ tags:
   - the-mind
   - party-edition
   - cooperative-games
+  - social-dynamics
 ---
 
 {% include image.html src='/assets/images/the-mind-party-edition.jpg' alt='The Mind: Party Edition box art' %}
 
 ![The Mind: Party Edition box art](/assets/images/the-mind-party-edition.jpg)
 
-## The Mind: Party Edition — Expanded Geeknite review: telepaths, party prompts, and unpredictable chaos
-If your group chat is secretly a telepathic soap opera, then The Mind: Party Edition is basically your dream come true—minus the ability to text your crew a master plan and still expect them to read it like mind reading. The base game, The Mind, gave us a minimalist dare: play numbered cards from 1 to 100 in ascending order without communicating. The Party Edition sprinkles on social pressure, party prompts, and enough glow sticks to power a small disco, turning quiet brainwaves into festival signals and the occasional librarian quiet judgment as a dramatic soundtrack.
+## The Mind: Party Edition — Expanded Geeknite review: telepaths, party prompts, and unpredictable chaos (Updated)
+If your group chat is secretly a telepathic soap opera, then The Mind: Party Edition is basically your dream come true—minus the ability to text your crew a master plan and still expect them to read it like mind reading. The base game, The Mind, posed a minimalist dare: play numbered cards from 1 to 100 in ascending order without communicating. The Party Edition sprinkles on social pressure, party prompts, and enough glow sticks to power a small disco, turning quiet brainwaves into festival signals and the occasional librarian quiet judgment as a dramatic soundtrack.
 
 In Geeknite fashion, we dragged this into a living room that could be mistaken for a black-light arcade, complete with glow sticks, questionable pizza, and a playlist that oscillates between bossa nova and a pirate-metal cover of a pop hit. The result is a hilariously chaotic test of how well you actually know your friends—specifically, which player tends to overthink every move and which one is basically a human chaos generator on a caffeine drip.
 
@@ -117,4 +118,4 @@ For a compact primer on how to get the most out of party-focused social games, s
 ## Final call to action
 If you are ready to experience a night that might involve a chorus of laughter, a few improv bits, and the glorious chaos of shared mind-reading misfires, The Mind: Party Edition is a solid bet for your next game night. It is light, it is loud in a good way, and it invites you to lean into the ridiculousness that makes group gaming so memorable. Ready for the party? Check the link below and bring the squad together.
 
-**Buy The Mind: Party Edition on Amazon (affiliate link): https://amzn.to/3example**
+**Buy The Mind: Party Edition on Amazon (affiliate link): https://amzn.to/3example-updated**
