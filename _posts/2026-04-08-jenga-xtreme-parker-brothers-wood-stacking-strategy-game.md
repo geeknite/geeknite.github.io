@@ -38,10 +38,25 @@ Jenga Xtreme thrives on the social tension. It’s the kind of game where you ca
 ### Solo play and micro-challenges
 If your friends are busy but your inner scientist is itchy to experiment, you can still extract value from Jenga Xtreme as a solo practice module. Challenge yourself to remove blocks in a sequence that preserves tower height as long as possible, or set unconventional rules like removing from a specified quadrant only or counting the number of moves until the tower collapses under a fixed sequence. These micro-challenges turn a social party game into a personal laboratory, which can be oddly satisfying when you want to measure how your nerves align with your finger dexterity after a long day.
 
+## Design philosophy and tactile science
+Beyond gameplay, Jenga Xtreme is a study in tiny engineering victories. The blocks’ friction, the precise tolerances, and the weight distribution on the top layer combine to produce a drama you can literally feel in your fingertips. The craft of the woodwork matters here: slight chamfers on each block reduce snags, while the rounded corners help prevent a block from catching awkwardly during a pull. If you ever wondered why a toy can feel premium in a casual setting, this is as good a case study as any.
+
+### How the base tray helps the table survive the night
+The base tray isn’t just a decorative cradle; it’s a stability anchor. It keeps the tower from tipping catastrophically during setup and gives players a predictable, contained space from which to evaluate each pull. When the tower leans and then resolutely rights itself, the base tray becomes a stage light focusing applause on gravity doing its job and human hands doing theirs. For social settings, the tray also doubles as a natural boundary; it signals, with a quiet dignified absence of loud plastic, that this is a real tower, not a pile of blocks staged for a slapstick remix.
+
+### Materials, finish, and accessibility
+The natural wood finish exudes warmth and a tactile richness that makes every tug feel purposeful. The blocks are easy to grip and rotate, even for players who might be playing with a slightly sweaty Friday-night grip. The finish is forgiving enough to survive a few enthusiastic yanks without chipping, though you’ll likely see a few character marks after several games. From an accessibility standpoint, the game remains approachable for a broad audience, though the nerve factor and height can pose a challenge for younger players or those with tremor. The recommended approach is to start with a few practice rounds to build confidence and rotate players so newcomers aren’t set up to fail on the first pull.
+
 ## Maintenance, storage, and long-term value
 The blocks hold up well under repeated use; you’ll see minor scuffs that tell stories about weekends spent testing the limits of gravity in a domesticated environment. When you’re done playing, the set stores neatly in the base tray, a design flourish that keeps your living room from turning into a wood-block landfill. The finish tolerates grip and release, and the color matches a broad spectrum of furniture, which is a small but meaningful triumph for those who like a tidy shelf.
 
 If you plan to travel with the set, consider a soft carry bag to protect blocks from the occasional baggage carousel misadventure. A little extra care goes a long way in keeping blocks from chipping and edges from becoming sharp, which in turn preserves the tactile joy of gripping a smooth block and the satisfaction of a clean top on the final round.
+
+### Cleaning and care tips
+- Wipe blocks with a dry microfiber cloth after a heavy session to remove oils from palms.
+- Avoid soaking blocks or leaving them in humid spots to prevent warping.
+- Check the base tray’s alignment every few games; a wobbly foundation can prematurely tilt the mood from dramatic to disastrous.
+- If blocks get nicked, a quick pass with a fine-grade sandpaper can restore the smoothness; just don’t overdo it.
 
 ## House rules and variants you might try
 No two game nights are identical, and Jenga Xtreme invites a few gentle variations to spice things up without complicating the core mechanics. Here are a handful you can try:
@@ -49,6 +64,8 @@ No two game nights are identical, and Jenga Xtreme invites a few gentle variatio
 - The Time Pressure Round: give each player a sand timer (30 seconds) to decide and pull a block. If you don’t complete your move in time, you must skip your turn. This adds pressure without erasing skill.
 - The Safe Top Rule: after placing a block on the top, the player must wait until the next round to decide another move, forcing shorter decision windows and more discussion.
 - The Double Pull: on one turn, a player can remove two blocks if the first block removal doesn’t threaten the tower’s stability. This is a high-risk/high-reward variant that tends to produce dramatic finishes.
+- The Top-Only Summit: require every successful top placement to be a distinct block pulled from the uppermost three layers. This encourages more strategic planning near the climax.
+- The Silent Round: players alternate taking turns without speaking during a pull. Laughter and groans are allowed, but conversation is off-limits, turning tension into a different kind of performance.
 
 ### Accessibility and inclusivity
 While Jenga Xtreme is accessible to most players once they understand the core rules, the height and nerve factor may be intimidating for younger players or those sensitive to loud noises and sudden collapses. For families, a gentle approach with older siblings or adult supervision helps create a welcoming experience. People with tremor or motor-control challenges can adapt with slower, more deliberate pulls and longer safety margins. The key is to keep the environment light, emphasize fun, and celebrate near-misses as teaching moments rather than failures.
