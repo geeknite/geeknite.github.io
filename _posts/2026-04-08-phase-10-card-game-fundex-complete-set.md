@@ -1,7 +1,7 @@
 ---
-title: Phase 10 Card Game - Fundex Complete Set Review
+title: Phase 10 Fundex Complete Set Review (Updated)
 date: 2026-04-08
-tags: [board-games, card-games, family-games, classics]
+tags: [board-games, card-games, family-games, classics, phase-10]
 ---
 
 ![Phase 10 Fundex Complete Set](/assets/images/phase10-fundex-complete-set.jpg)
