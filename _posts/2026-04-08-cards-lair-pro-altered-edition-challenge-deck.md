@@ -1,5 +1,5 @@
 ---
-title: Cards' Lair PRO Altered Edition Challenge Deck — Geeknite Review (Updated)
+title: Cards' Lair PRO Altered Edition Challenge Deck — Geeknite Review (Expanded)
 date: 2026-04-08
 tags:
   - games
@@ -10,11 +10,11 @@ tags:
   - deck-building
   - chaos
   - geeknite-style
+layout: post
 ---
 
 ## Introduction
-
-If you had told me a year ago that I’d be standing in a kitchen battlefield surrounded by a rainbow of sleeves, dice, snack wrappers, and a glossy deck named PRO Altered Edition Challenge Deck, I would have asked you to take your legend and stitch it into a quilt of receipts. And yet, here we are. Cards' Lair—our benevolent overlord of tiny cardboard tyrants—has released the PRO Altered Edition Challenge Deck, promising a blend of hyper-competitive drafting with rules that feel like someone spilled a portal to another dimension into a standard deck-building game and asked it to fetch coffee for the party. The question, naturally, is: does this mysterious deck actually deliver the goods, or is it just another cosplay cape for a cape-on-cape party? Spoiler: it delivers, with caveats and more humor than a late-night stream chat about the meaning of “altered.”
+If you had told me a year ago that I’d be standing in a kitchen battlefield surrounded by a rainbow of sleeves, dice, snack wrappers, and a glossy deck named PRO Altered Edition Challenge Deck, I would have politely asked you to log off and reboot your reality. And yet, here we are. Cards' Lair—our benevolent overlord of tiny cardboard tyrants—has released the PRO Altered Edition Challenge Deck, promising a blend of hyper-competitive drafting with rules that feel like someone spilled a portal to another dimension into a standard deck-building game and asked it to fetch coffee for the party. The question, naturally, is: does this mysterious deck actually deliver the goods, or is it just another cosplay cape for a cape-on-cape party? Spoiler: it delivers, with caveats and more humor than a late-night stream chat about the meaning of “altered.”
 
 Spoilers for the verdict are in the Final Verdict and Recommendation, but if you’re curious about the chaotic origins of the chaos, read on. The universe rewards the curious—and possibly the well-rested if you don’t play this at 2 a.m. with a stale slice of pizza that still believes in miracles.
 
@@ -58,6 +58,8 @@ The design philosophy here is clever: the deck rewards bold plays while keeping 
 
 One of the deck’s strongest selling points is how it reframes tabletop dynamics. It’s not just about who has the most efficient engine; it’s about who can bluff with a straight face when a Chaos Card asks you to reveal your secret objective and commit to a misdirection you didn’t plan for. The Altered Edition creates moments that land like improv theater in a dusty tavern—everyone has a stake, everyone has a fake destiny, and everyone is probably going to misread the consequences at least twice per game.
 
+![Chaos Card in action]({{ '/assets/images/cards-lair-chaos-card-action.jpg' | relative_url }})
+
 ## The Challenge: Difficulty, Replay Value, and Longevity
 
 If there’s one thing this deck sells, it’s replay value with a wink. The variety of Altered Cards means that no two games feel alike, even if you’re playing the same base deck. You can expect:
@@ -67,23 +69,11 @@ If there’s one thing this deck sells, it’s replay value with a wink. The var
 
 The longevity comes from the way Altered Edition changes the deck’s identity mid-game. It’s not a one-and-done; it’s a living puzzle you keep returning to, hoping for a single aha moment where you realize a card you overlooked can snowball into a comeback victory.
 
-![Chaos Card in action]({{ '/assets/images/cards-lair-chaos-card-action.jpg' | relative_url }})
-
 ### Endurance Through the Long Nights
 
 Let’s talk about real life: you’re not going to finish a single game in 37 minutes and then post your victory dance on social media. The PRO Altered Edition invites longer sessions—great for people who enjoy a little cognitive cardio after a long day at the keyboard, and terrible for folks who forget where they left their coffee mug mid-thought. The design tacitly acknowledges this: if your group likes the ‘one epic round and you’re done’ vibe, you’ll still have fun, but you’ll want to set expectations that your first game is practice ground for rules and chaos calibration.
 
-## Thematic Depth and Art Direction
-
-The aesthetic is unapologetically geeky in a way that will charm veteran players and confuse casual players into mild admiration. The art nods to neon-lit arcades, retro-futuristic interfaces, and fantasy epics that love logic puzzles as much as dragons. The character designs are modular enough that you can pretend the deck is a crossover between a cyberpunk deck builder and a tabletop RPG, which is precisely the vibe most gamers secretly want to achieve.
-
-If you’re a lore enjoyer, you’ll appreciate the tiny world-building touches spread across effect text and flavor art. It’s not a narrative heavyweight, but it’s enough to give you a reason to care about who is pulling the Chaos Card this round rather than just what happens next. The flavor text often lands as witty, giving you a quick laugh even when your plans collapse in a glorious, glittery puff of card-sleeved chaos.
-
-## Build Quality and Components
-
-The packaging remains sturdy enough to survive a table that occasionally doubles as a kitchen island. The magnetic closure adds a touch of drama to the opening ritual, and the card stock feels premium with a satin finish that resists fingerprints—exactly the kind of resilience you need when you’re shuffling with gusto and accidentally knocking over chips with your elbow while narrating a dramatic monologue about “rule of law and chaos.” Sleeves are a solid recommendation if your group tolerates long sessions and strategic debates about whether a misdrawn card should be rebalanced mid-game.
-
-The rulebook is thorough and readable, though you’ll want to breeze through the Altered Edition section more than once before your first full game. This is not a “rules at table” experience; it’s a “sit with the book, digest, then run a tiny practice round” kind of product.
+![Artistic tea break]({{ '/assets/images/cards-lair-art-tea-break.jpg' | relative_url }})
 
 ### Setup Time and Accessibility
 
