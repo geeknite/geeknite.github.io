@@ -1,14 +1,14 @@
 ---
 title: Sushi Go Card Game Review (Updated)
 date: 2026-04-08 12:00:00 -0000
-tags: [ board-games, card-games, quick-play, family, geeknite, portable, review ]
+tags: [ board-games, card-games, quick-play, family, geeknite, portable, review, drafting ]
 ---
 
 ![Sushi Go card lineup](/assets/images/sushi-go-cards.jpg)
 
-{% include image.html path="/assets/images/sushi-go-cards.jpg" alt="Sushi Go card lineup" %}
+{% include image.html path='/assets/images/sushi-go-cards.jpg' alt='Sushi Go card lineup' %}
 
-Sushi Go is a tiny game that somehow makes a lunch break feel like a festival of strategy and snack cravings. It is a 2 to 5 player card drafting game that plays in about 15 to 20 minutes and scales gracefully from two players to five. The goal is simple to state but delightful to chase: assemble sets of cards that earn the most points over three rounds. The theme is cute and light, the rules are crisp, and the table banter tends to run a bit wild as players chase pairs, triples, and the occasional misdirection.
+Sushi Go is a pocket-sized carnival of strategy that somehow fits in a lunch box and a pocket full of snacks. It is a 2 to 5 player card drafting game that plays in about 15 minutes and scales gracefully from two players to five. The goal is simple to state but tricky to master: assemble sets of cards that earn the most points over three rounds. The theme is cute and light, the rules are crisp, and the table banter tends to run wild as players chase pairs, triples, and the occasional misdirection.
 
 The beauty of Sushi Go lies in its pulse. You do not need a long learning session or a heavy board to enjoy the experience. The game teaches drafting and set collection in a way that feels almost like a party trick you can perform without losing your friends. It is also a perfect starter game for families, kids older than eight, or new hobbyists who want something that is easy to pick up and hard to master quickly.
 
