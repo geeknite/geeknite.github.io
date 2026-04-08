@@ -19,7 +19,7 @@ Willkommen zurück bei Geeknite, dem Ort, an dem Kartendecks mehr Drama machen a
 
 ## Einordnung und Zielgruppe
 
-Exploding Kittens NSFW Edition ist die Erwachsene Erweiterung des beliebten Partyspiels Exploding Kittens. Stell es dir wie die freche Freundin vor, die in der WG nie zu Wort kommt, bis der Kartenmix die Stimmung hochkocht. Die NSFW Edition richtet sich an Spieler ab 18 Jahren, die die Grenze zwischen lockerem Spielabend und schamlosen Gags gern verschieben. Wer Kids, Oma oder den heiligen Friedensarm des Familienabends sucht, sollte hier besser die Finger davon lassen. Die NSFW-Variante ergänzt das klassische Gameplay um Karten, die knackigen Humor, schlüpfrige Anspielungen und eine Prise Provokation ins Spiel bringen. Und ja, es knistert garantiert, wenn ihr mit katzen treffsicheren Sprüchen um die Ecke kommt.
+Exploding Kittens NSFW Edition ist die Erwachsene Erweiterung des beliebten Partyspiels Exploding Kittens. Stell es dir wie die freche Freundin vor, die in der WG nie zu Wort kommt, bis der Kartenmix die Stimmung hochkocht. Die NSFW Edition richtet sich an Spieler ab 18 Jahren, die die Grenze zwischen lockerem Spielabend und schamlosen Gags gern verschieben. Wer Kinder, Oma oder den heiligen Friedensarm des Familienabends sucht, sollte hier besser die Finger davon lassen. Die NSFW-Variante ergänzt das klassische Gameplay um Karten, die knackigen Humor, schlüpfrige Anspielungen und eine Prise Provokation ins Spiel bringen. Und ja, es knistert garantiert, wenn ihr mit katzen treffsicheren Sprüchen um die Ecke kommt.
 
 ### Was bedeutet NSFW hier genau?
 
@@ -122,7 +122,7 @@ Kurz gesagt: Ja, wenn du eine Gruppe hast, die Humor, Katzenliebe und ein wenig 
 
 ### Lohnt es sich als Langzeit-Topper?
 
-Für Serien- und Abendspiel-Nerds lohnt sich die NSFW Edition durchaus als regelmäßiger Bestandteil der Spielabende. Die Kombination aus leichten Regeln, schnellem Spieltempo und einem ordentlichen Schuss Humor macht das Produkt zu einem zuverlässigen Party-Highlight. Wenn ihr regelmäßig neue Gruppen zusammenbringt oder eure bestehende Runde variieren wollt, bietet die NSFW Edition eine einfache Möglichkeit, die Spielnächte aufzuwerten, ohne in ein komplexes Strategiespiel zu investieren.
+Für Serien- und Abendspiel-Nerds lohnt sich die NSFW Edition durchaus als regelmäßiger Bestandteil der Spielabende. Die Kombination aus leichten Regeln, schnellem Spieltempo und einem ordentlichen Schuss Humor macht das Produkt zu einer zuverlässigen Party-Highlight. Wenn ihr regelmäßig neue Gruppen zusammenbringt oder eure bestehende Runde variieren wollt, bietet die NSFW Edition eine einfache Möglichkeit, die Spielnächte aufzuwerten, ohne in ein komplexes Strategiespiel zu investieren.
 
 ## Weiterführende Ressourcen und Links
 
