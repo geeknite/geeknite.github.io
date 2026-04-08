@@ -1,5 +1,5 @@
 ---
-title: Mattel UNO Flip Card Game: UNO bifacciale con flip card - recensione
+title: Mattel UNO Flip Card Game: recensione aggiornata e approfondita della versione bifacciale con flip card
 date: 2026-04-08
 tags:
   - giochi
@@ -7,72 +7,97 @@ tags:
   - recensione
   - giochi di societa
   - geek
+  - family
+  - party games
 ---
 
-## Recensione completa: Mattel UNO Flip Card Game, la versione bifacciale che ribalta tutto
+## Recensione completa: UNO Flip Card Game di Mattel, la versione bifacciale che ribalta tutto (e ribalta la serata)
 
 ![Scatola di UNO Flip]({{ '/assets/images/uno-flip-card-game-box.jpg' | relative_url }})
 
-Quando si dice una lingua internazionale, UNO Flip Card Game è una risposta breve ma efficace. Si tratta di una variante di uno dei giochi di carte più popolari al mondo, ma questa volta le carte hanno una faccia chiara e una faccia scura. Il flipping non è solo una trovata grafica: cambia completamente le regole attive e crea una dinamica di gioco che potrebbe trasformare una mano persa in una vittoria memorabile in due mosse. In questa recensione valuteremo tutto: contenuto della scatola, qualità costruttiva, meccaniche, replay value, età consigliata, rapporto qualità-prezzo e, soprattutto, se vale la pena aggiungerla alla tua collezione.
+Quando si parla di UNO, il mondo si divide in due: chi adora la versione classica e chi ha scoperto che una carta Flip può cambiare le sorti di una partita in meno di un respiro. Il Mattel UNO Flip Card Game è proprio questa novità: una versione ufficiale di UNO in cui ogni carta ha due facce attive, una chiara e una scura, con regole che cambiano al flip. In questa recensione aggiornata, esploreremo cosa contiene la scatola, come gira il gioco su tavoli di differenti dimensioni, quali sono i reali benefici e dove potrebbero nascere i piccoli bordi che dividono l'allegria dal caos controllato. E sì, parleremo di perché potresti voler portarlo a casa domani stesso, magari invece di salvare i pixel del tuo successor to UNO classico.
 
-## Contenuto della scatola e prima impressione
+> Nota pratica: la Flip Card non è solo una trovata di design. È una meccanica che richiede memoria, gestione delle risorse (le tue carte) e un po’ di psicologia da tavolo collettiva: quando è il momento giusto per girare la carta e cambiare tutto? Andiamo per gradi.
 
-All aprire la scatola, si respira un certo entusiasmo retrȯ: le carte, le manopole e la plancia di indicazione sono ordinatamente impilate, e il design grafico richiama subito l’iconico UNO, ma con un tocco di novità. Le carte sono spesse e flessibili al punto giusto: resistono a una stagione di partite amatoriali senza richiedere una revisione frequente. La particolarità è la flip card: su un lato c’é una tinta e una funzione, sull’altro lato la variante opposta. L’effetto visivo è accattivante e, in tavola, attira l’attenzione di tutti i giocatori.
+## Contenuto della scatola e prima impressione: ordine, robustezza e una piccola sfida di setup
 
-La scatola, nuova di zecca, contiene tutto l’occorrente per iniziare una serata di giochi: una pedina di regolamento, le regole stampate con una grafica chiara, e una serie di carte in due tonalità distinte. L’assemblaggio delle componenti è solido, senza parti allentate o ritagli difettosi. Se stai pensando di comprare questa versione, troverai utile avere una piccola area dedicata al set up: posiziona le carte in modo da avere un facile accesso sia ai lati chiari sia a quelli scuri, in modo da gestire la flip senza disperdersi.
+All’apertura della scatola, la prima cosa che salta all’occhio è la qualità dei materiali. Le carte sono robuste quanto basta per sopportare una serata di gioco molto intensa—soprattutto se il tuo gruppo è quello che trasforma ogni turno in una mini-saga epica di bluff e frecciatine amichevoli. Le due facce delle carte sono chiaramente distinte: lato chiaro per una dinamica tipicamente UNO, lato scuro per le conseguenze più… tenebrose. Il flipping meccanico è presente non solo come gimmick, ma come motore di una dinamica di gioco che premia una gestione oculata della mano e una visione a medio termine sull’esito della partita.
 
-> Un aspetto pratico da considerare è la gestione delle carte logiche delle conseguenze: a volte, in una partita molto dinamica, potresti dover cercare velocemente una carta specifica tra i due lati. Una piccola dicitura leggermente più evidente sull lato flip potrebbe evitare qualche bisticcio, ma non compromette in modo significativo l’esperienza di gioco.
+La scatola, nuova di zecca, contiene tutto l’occorrente per partire subito: le carte divise chiaramente tra due set, una piccola guida di regolamento stampata con una grafica coerente al tema, e i componenti di base che permettono una partita senza intoppi dal primo turno. L’assemblaggio è solido; niente cartoncini che si piegano in punta di dita o componenti che sembrano sul punto di staccarsi. In termini di setup pratico, consigliamo di dedicare uno spazio minimo per stratificare i due lati delle carte a portata di mano: così da avere accesso rapido in seguito al flip senza dover cercare tra pile di carte impilate in modo caotico.
 
-## Meccaniche principali: come funziona la faccia bifacciale
+Un aspetto pratico da considerare è la gestione delle conseguenze: durante una partita molto dinamica, potresti essere costretto a scorrere velocemente tra due lati in cerca di una determinata carta che in una volta è stata potenziata e nell’altra è stata ridotta. Per ridurre il tempo di consultazione, una piccola dicitura più evidente sui lati flip potrebbe evitare piccoli malintesi, ma non rovina né l’esperienza né la velocità di gioco.
 
-UNO Flip funziona proprio come UNO base, con l’aggiunta che ogni carta ha due facce attive. La carta Flip permette di passare da una modalità all’altra; quando un giocatore gioca una carta Flip, la semantica e gli effetti cambiano. For example, una carta che in faccia chiara impone di pescare due carte potrebbe, nella faccia scura, avere un penalità diversa. Questo spinge i giocatori a tenere d’occhio non solo il numero ma anche quale lato è attivo, e soprattutto quando scatta l’effetto flip. In pratica, il gioco è UNO ma con un twist: la tavola diventa una piccola battaglia di memoria visiva.
+## Meccaniche principali: come funziona la faccia bifacciale senza perdere di vista il classico UNO
 
-Le regole di base restano le stesse: il primo a liberarsi di tutte le carte vince, si possono giocare carte Skip, Reverse e Draw Two, e non mancano le carte Wild che permettono di cambiare colore. La differenza è la componente flip, che crea una dinamica di rimbalzo tra due condizioni di gioco. In alcune partite, la mano finale può diventare estremamente tesa: una carta Flip inaspettata può mettere all’angolo un giocatore che sembrava in piena corsa verso la vittoria.
+UNO Flip funziona seguendo le regole di base di UNO, ma con una doppia faccia attiva per ogni carta. La carta Flip è la chiave: quando viene giocata, l’intero stato del gioco (colore e tipo di carte attive) può cambiare. Se una carta che sulla faccia chiara impone di pescare due carte diventa, sulla faccia scura, qualcosa di diverso, ecco che l’intera dinamica viene ribaltata. In pratica, non è tanto una questione di “più o meno difficile”; è una questione di “quando ti conviene cambiare lato per ottenere il miglior effetto”. Il twist è non solo estetico: le regole per la pesca, i turni e i colori da scegliere restano le stesse, ma gli effetti dinamici possono trasformare una mano apparentemente perdente in un finale emozionante in pochi turni.
+
+Nei dettagli: ogni carta ha due facce distinte, e in alcune varianti la carta Flip stessa può variare in potenza o penalità a seconda del lato attivo. Questo incoraggia la gestione della memoria visiva: i giocatori più attenti tengono a mente non solo quante carte hanno in mano, ma anche quale lato è al momento attivo nel gioco. Le regole standard di UNO rimangono valide: una mano ridotta a zero carte si traduce in vittoria, si possono giocare Skip, Reverse e Draw Two, e naturalmente ci sono le Wild che permettono di cambiare colore. La differenza è la presenza costante della flip card che crea una dinamica di flip-flop tra due condizioni di gioco, una lotta di potere a tavola che premia la flessibilità mentale più sindacabile.
 
 ### Strategie e consigli pratici
-Per i principianti, la chiave è mantenere una riserva di carta di riserva su entrambi i lati. Non essere troppo aggressivo nel giocare subito la carta Flip: a volte è meglio aspettare che la tua mano diventi più corta e che la flip possa cambiare la situazione a tuo favore. I giocatori esperti con crono mental non evitano la flip; cercano di prevedere quale lato sarà attivo al momento giusto. Ricorda: la flip non è una maledizione, è un alleato se usata al momento giusto.
+Per i principianti, la chiave è la gestione di entrambe le facce: non scambiare una carta Flip troppo frettolosamente. A volte la mossa migliore è aspettare di essere in una posizione in cui la flip possa ribaltare l’intera tattica di gioco a tuo favore. I giocatori esperti sanno leggere la tavola come un libro aperto e non hanno paura di giocare con la memoria: se una carta chiara sta per finire, è spesso saggio prepararsi al lato scuro e viceversa. Ricorda: la flip non è una maledizione, è un alleato se usata al momento giusto. E mentre la maggior parte di noi adora la spontaneità, una gestione oculata delle flip può rendere la differenza tra una sconfitta beffarda e una vittoria davvero memorabile.
 
-## Esperienza di gioco in gruppi diversi
+In termini di tattica, ecco tre idee rapide:
+- Conserva una o due carte chiave per lato: non bruciarle subito, ma tienile pronte per i momenti di maggiore tensione.
+- Osserva l’avversario: se vedi che qualcuno è vicino al 0 o al banchetto finale, potresti voler giocare una Flip per forzare un cambio di marcia tra lato chiaro e lato scuro.
+- Non sottovalutare i dettagli: a volte cambiare colore o costringere un avversario a pescare può rivelarsi più utile di una carta alta di punteggio.
 
-UNO Flip è sorprendentemente adattabile a diversi tipi di pubblico: gruppi piccoli di due o tre giocatori hanno una dinamica più rapida e fluida, mentre i gruppi numerosi (4-6 o più) creano una sinfonia di caos controllato. In due, la tensione è minore e puoi pianificare con maggiore precisione, ma la presenza di due facce di carte significa che dovrai essere pronto a svoltare la tua tattica a ogni turno, rendendo la partita più imprevedibile. In gruppi di 5-6 o più, l’effetto di flip è amplificato: ogni sventolio di carte potrebbe cambiare le sorti dell’incontro, e spesso si creano momenti comici in cui un giocatore scambia a caso una carta e inaspettatamente riapre una partita che sembrava praticamente chiusa.
+## Esperienza di gioco in gruppi diversi: come UNO Flip si adatta a varie dinamiche sociali
 
-## Contenuto aggiuntivo: coerenza visiva e materiali
+UNO Flip sorprende per la sua adattabilità: è in grado di funzionare in contesti diversi senza perdere l’energia. In gruppi piccoli (2-3 giocatori) la dinamica tende a essere più rapida; la flip card diventa un piccolo sorpasso strategico che può decidere un turno chiave. In partite con 4-6 giocatori o più, la meccanica di flip si moltiplica in complessità: ogni carta girata potrebbe sferrare un colpo cruciale che cambia di nuovo la dinamica, creando momenti di caos controllato e, di tanto in tanto, episodi di comicità spontanea che è la vera bussola del gioco di gruppo.
 
-La qualità visiva di UNO Flip è notevole. I colori sono vividi e la differenza tra lato chiaro e lato scuro è ben definita. Le icone sulle carte sono chiare e facilmente riconoscibili a distanza: non serve una lente d’ingrandimento per distinguere una carta chiara da una carta scura, e questa è una grande vittoria per chi gioca in condizioni di luce non ideali. L’uso di un lato scuro per delle azioni specifiche rende l’esperienza più tattile, e la sensazione di “girare” la carta è piacevole al tocco. Alcuni giocatori hanno riferito una leggera fastidio al rumore delle carte durante una mano particolarmente angusta; è una questione di preferenze personali e di stile di gioco, ma non compromette la qualità complessiva dell’esperienza.
+Inoltre, la presenza di due facce rende interessante l’equilibrio tra bluff e lettura della partita: alcuni giocatori potrebbero cercare di spostare l’onere di una flip su un avversario, others potrebbe voler tenere alto il controllo di quando la flip deve scattare. È una piccola ma efficace scuola di pensiero sociale, con la giusta dose di tensione ma sempre in un contesto di convivialità.
 
-## Durata, ritmo e replay value
+## Esperienza di grafica, materiali e coerenza visiva
 
-Le partite di UNO Flip possono variare considerevolmente in durata a seconda del numero di giocatori, della tattica e di come la flip card influisce sulla regole. In una serata con tre o quattro amici, puoi aspettarti una media di 15-25 minuti a partita, che è perfetta per una serata di giochi leggeri senza trasformarsi in una maratona. Il valore di replay è elevato: ogni partita si sviluppa in modo diverso a causa della flip che può cambiare l’andamento in modo imprevedibile. Dopo diverse sessioni, è facile scoprire nuove combinazioni di carte e nuove tattiche, il che rende UNO Flip una scelta molto rinfrescante rispetto al classico UNO, soprattutto se sei stanco di vedere sempre le stesse mani.
+La qualità visiva di UNO Flip rimane uno degli elementi di forza: colori vivi e differenze nette tra lato chiaro e lato scuro, icone chiare e distinte, e una tipografia leggibile anche a distanza. Le carte sono abbastanza spesse per essere maneggiate con sicurezza ma non al punto di creare rigidità: la sensazione di “girare” una carta è soddisfacente al tatto e la chiarezza delle icone riduce al minimo i tempi morti tra una mossa e l’altra. Alcuni giocatori hanno notato un leggerissimo rumore quando si gioca una carta particolarmente robusta; è un dettaglio minore ma rende l’idea che stiamo veramente usando qualcosa di concreto, non un software su una tavola.
 
-## Confronti con altre varianti e cross-giocabilità
+L’estetica, per quanto possa sembrare superficiale, influisce sull’esperienza complessiva: con UNO Flip, l’asta visiva tra lato chiaro e lato scuro è un richiamo di stile che invita a una partecipazione più attiva e a una discussione su quale lato sia più vantaggioso in quel determinato turno.
 
-Se vuoi una variante simile a UNO Flip ma con un tocco diverso, puoi considerare altre varianti di UNO o anche giochi di carte che prevedono meccaniche di cambio status tra vari lati. UNO Flip non è una versione ibrida: è una variante distinta che porta una nuova dimensione senza complicare troppo le regole. Per un confronto con questa e altre varianti, consulta le risorse di guida che abbiamo in blog: [Guida alle varianti di UNO]({{ post_url '2026-04-02-uno-variants-guide' }}) e [Strategie per giochi di carte party]({{ post_url '2025-12-18-card-games-party-strategies' }}).
+## Durata, ritmo e replay value: la partita che cambia faccia ad ogni giro
 
-## Prezzo e disponibilità
+Le partite di UNO Flip hanno una durata molto variabile in base al numero di giocatori, alle abilità di gestione delle mani e, ovviamente, a quanto la flip card decide di intervenire. In una serata con tre o quattro amici, una partita può durare tra i 15 e i 25 minuti, abbastanza per una sessione di gioco leggera ma intensa. Con gruppi più grandi (5-6 o più), la durata può allungarsi, poiché le flip introdotte da più giocatori hanno un effetto a cascata che prolunga la tensione e amplifica i colpi di scena.
 
-Il prezzo di UNO Flip dipende molto dal rivenditore e dal momento dell’anno. In genere si posiziona in una fascia medio-bassa rispetto a giochi di carte di nicchia, con un buon rapporto tra costo e divertimento. Se sei in cerca di una spinta di novità senza spendere una fortuna, è una scelta ragionevole. Ti conviene controllare i pacchetti in promozione e confrontare tra negozio fisico e online, perché spesso trovi sconti interessanti soprattutto durante periodi di lancio o di festività. Per un rapido riferimento ufficiale, visita la pagina Mattel: [Mattel UNO Flip Card Game Official Page](https://www.mattel.com/en-us/products/uno-flip-card-game).
+Il valore di replay è molto alto: non una semplice ripetizione di situazioni, ma una costante riformulazione delle condizioni di vittoria. Ogni partita è diversa, perché la flip può cambiare le potenzialità di chi sta per rimanere a corto di carte o dare una speranza a chi sembrava fuori dai giochi. Con una mano di questo tipo, la monotonía si spezza facilmente e si crea una narrativa di gioco che resta impressa nella memoria, perfino nelle sessioni successive.
 
-## Opinione personale e raccomandazioni finali
+## Confronti con altre varianti e cross-giocabilità: cosa offre in più e cosa non pretende di essere
 
-Mi piace pensare a UNO Flip come a una versione di UNO che si è guardata allo specchio e ha detto: ehi, potenzialmente potremmo essere più divertenti. E la risposta è: sì, potete. È una variante che non pretende di sostituire UNO, ma lo migliora in momenti cruciali. Se vuoi una serata di giochi in cui il gruppo ride, si confronta, e si crea una ricca narrativa di errori e colpi di scena, UNO Flip è praticamente obbligatorio nel tuo arsenale. È adatto a chi ama una leggera competizione, ma anche a chi vuole un momento di divertimento non troppo serio. Se vuoi un titolo che possa diventare una tradizione di famiglia, questa è una scelta solida, soprattutto se hai già una collezione di UNO classico. E se sei un content creator o un blogger come noi, UNO Flip offre spunti di contenuto interessanti: discussioni su strategie di lato chiaro vs lato scuro, video di mani finali e momenti di gloria o di sconfitta. In breve, un investimento che paga in risate e ricordi.
+Se cerchi qualcosa di simile ma non identico, vale la pena considerare altre varianti di UNO o giochi di carte con meccaniche di gestione tra lati. UNO Flip si presenta come una variante distinta che porta una nuova dimensione non invasiva: non pretende di sostituire UNO classico, ma di offrirti una nuova lente per guardare un titolo familiare. Se vuoi confrontarla con altre varianti, una o due letture utili online possono offrire un quadro su come la flip card si piazza rispetto ad altre torsioni meccaniche. Per approfondire, consulta [Guida alle varianti di UNO]({{ post_url '2026-04-02-uno-variants-guide' }}) e [Strategie per giochi di carte party]({{ post_url '2025-12-18-card-games-party-strategies' }}).
+
+Inoltre, se ti va di paragonarla a esperienze di gruppo diverse, guarda a giochi come Exploding Kittens o love-letter-lite: anche qui la gestione di rischi e la messa in scena di sorprese fanno miracoli per una serata spensierata, anche se non hanno la stessa dinamica di flip. L’importante è riconoscere che UNO Flip resta una scelta solida quando vuoi qualcosa di immediato ma sorprendente, facile da spiegare ma capace di creare storie da raccontare al ritorno a casa.
+
+## Prezzo e disponibilità: valore, promozioni e dove trovarlo
+
+Il prezzo di UNO Flip dipende molto dal rivenditore, dal periodo dell’anno, dalle promozioni e dalla disponibilità dei pack con eventuali espansioni. In genere si muove in una fascia medio-bassa rispetto ai giochi di carte di nicchia, offrendo un buon equilibrio tra costo e divertimento. Se stai cercando una spinta di novità senza spendere una fortuna, è una scelta ragionevole. Un trucco utile: controlla pacchetti in promozione, confronta tra negozio fisico e online e tieni d’occhio i periodi di lancio o festività per eventuali bundle o sconti.
+
+Per un riferimento ufficiale, puoi dare un’occhiata alla pagina Mattel sull’UNO Flip Card Game, dove troverai dettagli aggiornati e immagini promozionali: [Mattel UNO Flip Card Game Official Page](https://www.mattel.com/en-us/products/uno-flip-card-game).
+
+## Opinione personale e raccomandazioni finali: perché dovresti considerarlo seriamente
+
+La mia sensazione, guardando UNO Flip con una lente geek e un po’ di nostalgia per gli sfottò tra amici, è che questa versione non sostituisce UNO classico ma lo arricchisce di una dimensione extra: la tensione che cresce quando una Flip inaspettata cambia il colore, il numero e la pena. È una variante che premia la comunità: le serate in cui ridi, sbuffi, ti scontri e alla fine brilli di soddisfazione sono quelle in cui UNO Flip brilla particolarmente.
+
+Se vuoi una serata di giochi in cui il gruppo si diverte, si sfida e si racconta delle grandi mosse, UNO Flip è praticamente obbligatorio. È adatto a chi apprezza una leggera competizione senza la serietà di un party game completamente orchestrato, ma anche a chi vuole qualcosa di meno impegnativo rispetto a giochi di strategia più complessi. Può diventare una tradizione familiare: non è una cosa da mettere in soffitta dopo una sola stagione; è un titolo che può accompagnare le serate per anni, con nuove storie ogni volta.
+
+E se sei un content creator o un blogger come noi, UNO Flip fornisce ottimi spunti: analisi di strategie legate a lato chiaro vs lato scuro, momenti di finale spettacolari da ridere o da celebrare e persino idee per video di mani finali e momenti di gloria o di sconfitta. È un contenuto ricco, facile da filmare e perfetto per intrattenere una community in cerca di idee per serate social.
+
+In breve: investire in UNO Flip è una scelta che paga in termini di divertimento, socialità e contenuti. Non è un titolo di nicchia, ma rappresenta una spinta di novità in una collezione di giochi di società senza sconvolgere la logica di base di UNO. Se hai già una collezione di UNO classico o ti piace l’idea di una variante elegante ma forte, questo è un acquisto consigliato.
 
 ## Domande frequenti rivisitate
 
 ### È adatto ai bambini?
-Sì, ma come sempre, verifica l’età consigliata riportata sulla scatola e controlla le capacità motorie dei bambini coinvolti. La dexterity necessaria per mescolare e girare le carte è modesta, ma non trascurare il pericolo di essere troppo allegri e scivolare nel caos.
+Sì, ma come sempre è bene controllare l’età indicata sulla scatola, verificare la manualità dei partecipanti e adeguare le regole in base al gruppo. La gestione delle flip può richiedere una piccola curva di apprendimento per i più piccoli, ma è un’opportunità per imparare a pianificare, osservare e adattarsi in tempo reale.
 
 ### È più difficile del classico UNO?
-La base è la stessa, ma l elemento flip aggiunge una dimensione di difficoltà leggera e divertente. Puoi spiegare le regole in pochi minuti e iniziare subito una partita.
+La base resta equivalente, ma l’elemento flip aggiunge una dimensione di difficoltà leggera e divertente. Puoi spiegare le regole in pochi minuti e iniziare subito la partita. La vera sfida è capire quando e come sfruttare il flip al momento giusto.
 
 ### Quanto dura una partita tipica?
-Dipende dal numero di giocatori: da 15-20 minuti per partite rapide a 30-40 minuti per serate più lunghe con gruppi numerosi.
+Dipende da vari fattori: numero di giocatori, velocità con cui si esauriscono le mani e quanto il flip influenza l’esito. In genere, si va da 15-20 minuti per partite rapide a 30-40 minuti per sessioni sociali con gruppi più grandi.
 
 ## Riepilogo e raccomandazione finale
 
-- Se cerchi una variante di UNO che faccia gridare a ogni flip, questa è la tua scelta. 
-- Se vuoi una dinamica di gioco luminosa e caotica in modo controllato, UNO Flip è perfetto.
-- Se vuoi un gioco che stanzia bene in una serata di famiglia, con amici e anche colleghi, questa versione offre un equilibrio tra semplicità e sorpresa.
+- Se cerchi una variante di UNO che faccia nascere momenti di incredibile flip, questa è la scelta giusta. 
+- Se vuoi una dinamica di gruppo luminosa, caotica in modo controllato e molto divertente, UNO Flip è perfetto. 
+- Se cerchi un titolo che possa diventare una tradizione di famiglia e che regga bene con amici e colleghi, questa versione offre un equilibrio tra semplicità e sorpresa, senza una curva di apprendimento eccessiva.
 
-Alla fine, UNO Flip Card Game si guadagna una posizione rispettabile nella tua collezione da gioco. Non è solo una variante: è una nuova lente per guardare un classico e scoprire che la varietà rende tutto più divertente. Se vuoi un’esperienza sociale leggera ma memorabile, questo titolo è un must.
+Alla fine, UNO Flip Card Game si conquista una posizione di rilievo nella tua collezione da gioco. Non si tratta solo di una variante: è una nuova lente per guardare un classico e scoprire che la varietà rende tutto più divertente. Se vuoi un’esperienza sociale leggera ma memorabile, questo titolo è un must.
 
 **Acquista ora tramite il link affiliato qui sotto e sostieni Geeknite mentre organizzi le tue prossime serate di gioco**: https://www.amazon.it/dp/XXXXXXXXXXXX?tag=geeknite-21
