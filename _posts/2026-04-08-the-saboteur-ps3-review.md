@@ -1,5 +1,5 @@
 ---
-title: The Saboteur PS3 – Expanded Review and Colorful Liberation
+title: The Saboteur PS3 – Expanded Review and Colorful Liberation (Revised)
 date: 2026-04-08
 tags:
   - gaming
@@ -88,6 +88,8 @@ The Saboteur is a love letter to a very particular kind of gamer: someone who wa
 - Study the color map logic and plan district liberations around color flow rather than simply chasing the main objective.
 - Use distractions strategically to reposition guards and maximize takedown opportunities.
 - Don’t neglect the side missions; they are the best way to unlock upgrades earlier and see the city in full color sooner.
+- Experiment with different color schemes to discover hidden paths and alternate takedown sequences.
+- If you’re chasing a flawless run, take your time in grayscale districts to study patrol patterns and light cues.
 
 ## Read more posts on related topics
 
