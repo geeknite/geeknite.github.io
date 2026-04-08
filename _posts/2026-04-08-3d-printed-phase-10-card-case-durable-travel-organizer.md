@@ -1,5 +1,5 @@
 ---
-title: "3D Printed Phase 10 Card Case: Durable Travel Organizer"
+title: '3D Printed Phase 10 Card Case: Durable Travel Organizer'
 date: 2026-04-08 12:00:00 -0000
 tags:
   - 3d printing
@@ -7,6 +7,8 @@ tags:
   - gear reviews
   - phase 10
   - travel accessories
+  - diy
+  - gaming gear
 ---
 
 ## Overview
@@ -60,7 +62,7 @@ In the lab of geek dreams, we test the case in a few practical scenarios:
 - Weekend board game night: the case slides into a tote bag with the rest of the gaming paraphernalia. The trays hold their shape; no rattling, no fuss.
 - Coffee shop tangentials: you don’t want to spill your latte while digging for Phase 10 card #42; the case keeps them in order and your caffeine level intact.
 
-## Compatibility and customization
+### Compatibility and customization
 Phase 10 is not the only target; you can adapt the design for other card games with similar dimensions or even trade card slots for other small components (dice, tokens, or minis). If you’re into cross-compatibility, you can adjust the tray height to fit different deck sizes by tweaking a few numbers in your favorite CAD software.
 
 - Customization options:
@@ -106,5 +108,4 @@ Overall, the benefits outweigh the small setup effort. The case makes Phase 10 p
 If you want to stay on top of the latest 3D printing adaptations for board games, subscribe to our newsletter or follow our social channels for updates. We publish monthly roundups of print-ready projects you can bring to your own table, whether you’re a tabletop veteran or just discovering the joy of printed plastic.
 
 **Affiliate call-to-action:**
-Bold, practical, and slightly ridiculous: get yours today via our affiliate link and start ruling your next game night—because the only thing we want to misplace is your doubts, not your cards. https://affiliate.geeknite.example/phase10-card-case?ref=2026
-
+**Buy it now via our affiliate link: https://affiliate.geeknite.example/phase10-card-case?ref=2026**
