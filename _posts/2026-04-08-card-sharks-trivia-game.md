@@ -1,7 +1,7 @@
 ---
-title: Card Sharks Trivia Game
+title: Card Sharks Trivia Game — Updated Review
 date: 2026-04-08
-tags: [geek, games, trivia, board-games, retro]
+tags: [geek, games, trivia, board-games, retro, party-games]
 ---
 
 {% image assets/card_sharks_trivia.jpg alt='Card Sharks Trivia Game cover' %}
@@ -137,6 +137,6 @@ In the end, card sharks may be the stars, but you are the undeniable show. The t
 
 ## The geeky tally and rating
 
-Overall rating: a solid 8.1 out of 10. It is not perfect, but it nails the social satisfaction of a good game night with a retro zeal that is hard to resist. It earns extra points for staying true to the show spirit while delivering solid mechanics, a friendly learning curve, and a practical level of re-playability. If your goal is to host an engaging evening that blends memory, quick thinking, and the theater of competition, Card Sharks Trivia Game is a worthy purchase and a durable night-starter for your collection.
+Overall rating: a solid 8.3 out of 10. It is not perfect, but it nails the social satisfaction of a good game night with a retro zeal that is hard to resist. It earns extra points for staying true to the show spirit while delivering solid mechanics, a friendly learning curve, and a practical level of re-playability. If your goal is to host an engaging evening that blends memory, quick thinking, and the theater of competition, Card Sharks Trivia Game is a worthy purchase and a durable night-starter for your collection.
 
 **Buy Card Sharks Trivia Game now via our affiliate link: https://example.com/affiliate/card-sharks-trivia?ref=geeknite**
