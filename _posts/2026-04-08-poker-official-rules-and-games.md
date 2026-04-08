@@ -1,12 +1,13 @@
 ---
 title: Poker Official Rules and Games
 date: 2026-04-08
-tags: [poker, rules, games, strategy, geeknite]
+tags: [poker, rules, games, strategy, geeknite, etiquette, tournaments]
+layout: post
 ---
 
 ## Welcome to the Official Rules and Games of Poker, Geeknite Style
 
-Poker is not just a card game; it is a narrative told with chips, a math puzzle with chips, and a social experiment where you pretend to know what your opponent is thinking while secretly hoping the flop comes exactly when you need it. In this expanded guide we will unpack the official rules that govern the many flavors of poker, explain how the games are played, and give you the practical know-how to survive any table—from cozy home games to big-time tournaments. And yes, we will sprinkle in the kind of fanboy humor that makes Geeknite nights memorable rather than forgettable.
+Poker is not just a card game; it is a narrative told with chips, a math puzzle with chips, and a social experiment where you pretend to know what your opponent is thinking while secretly hoping the flop comes exactly when you need it. In this expanded guide, we will unpack the official rules that govern the many flavors of poker, explain how the games are played, and give you the practical know-how to survive any table—from cozy home games to big-time tournaments. And yes, we will sprinkle in the kind of fanboy humor that makes Geeknite nights memorable rather than forgettable.
 
 ![Poker table setup]({{ '/assets/images/poker-table.jpg' | relative_url }})
 
@@ -41,7 +42,7 @@ A typical hand proceeds through five stages: preflop, flop, turn, river, and sho
 - Flop: three community cards are dealt face up, followed by a second betting round.
 - Turn: a fourth community card is added, followed by a betting round.
 - River: the final community card is dealt, followed by the last betting round.
-- Showdown: if two or more players remain, hands are revealed and the best five card combination wins the pot.
+- Showdown: if two or more players remain, hands are revealed and the best five card combination wins.
 
 ### Betting structures at a glance
 
@@ -83,7 +84,7 @@ If more than one player remains after the river, showdowns decide the pot. The w
 
 ## Bets, bluffs, and the art of the invisible hand
 
-Poker is a negotiation with math and misdirection. The bet you choose communicates information to the table about your resources, your risk tolerance, and your read on the other players. Bluffing is a legitimate tool in the arsenal, but it is most effective when your table image supports deception. An overused bluff is easy to call. A well timed bluffer who can mix bluffs with genuine value bets will often win the war without showing a card. The table logic goes like this:
+Poker is a negotiation with math and misdirection. The bet you choose communicates information to the table about your resources, your risk tolerance, and your read on the other players. Bluffing is a legitimate tool in the arsenal, but it is most effective when your table image supports deception. An overused bluff is easy to call. A well-timed bluffer who can mix bluffs with genuine value bets will often win the war without showing a card. The table logic goes like this:
 
 - Consistency builds credibility. When you bet strong in a certain scenario, you want to repeat it with hands that justify it. 
 - Inconsistency invites questions. If you mix up your lines too often, opponents will call you down with marginal hands due to fear of a trap. 
