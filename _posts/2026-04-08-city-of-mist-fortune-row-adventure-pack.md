@@ -1,5 +1,5 @@
 ---
-title: City of Mist: Fortune Row – Adventure Pack Review
+title: City of Mist Fortune Row Adventure Pack Review Updated
 date: 2026-04-08
 tags:
   - City of Mist
@@ -8,73 +8,78 @@ tags:
   - Review
   - Geeknite
   - Fortune Row
+  - Updated
 ---
 
 ![Fortune Row Cover]({{ '/assets/images/city-of-mist/fortune-row.jpg' | relative_url }})
 
+![Fortune Row Map]({{ '/assets/images/city-of-mist/fortune-row-map.jpg' | relative_url }})
+
 ## Introduction
-City of Mist is a game about people who wear neon signs of myth and mischief on their bodies while making questionable decisions in a sprawling city that feels like a late night podcast and a neon opera at once. Fortune Row is the latest adventure pack that invites players into a street full of secrets, pacts, and maybe a bakery run by a caped villain who bakes only while singing show tunes. This review digs into the box, the tiny micro DLC vibes, the story hooks, and whether you should drop your cash on this little shard of urban legend. If you are a GM who loves a good mystery with a side of drama, Fortune Row might be your next neon-flecked obsession, ready to slip into your city with noir flair and a dash of mystic charisma.
+City of Mist remains the neon-tinted playground where detectives wear myth like a badge and every corner holds a moral dilemma wrapped in a song. Fortune Row, the latest adventure pack, invites players into a street that hums with secrets, debts, and a bakery that might just be a front for something legendary and suspiciously delicious. This updated review digs deeper into the box, the micro DLC vibes, the story hooks, and whether Fortune Row belongs on your table or on a shelf beside the longer arcs you already love. If your GM brain loves a mystery with atmosphere, Fortune Row is a compact obsession that can slip into your city with noir charm and a pinch of surreal glamour.
 
-Fortune Row isn’t just a location card and a handful of prompts. It’s a compact chorus that asks your table to lean into fate, roll with consequences, and decide who among your crew is the true fortune teller of a city that pretends to be normal. It blends the familiar City of Mist vibe with a fresh arc that can slot into a larger campaign or function as a strong, self-contained one-shot. It also comes with enough handouts to make the GM feel like a benevolent librarian who has been handed a chest of pocket watches and told to pick a story. And yes, there are enough little add-ons to feel like you are unboxing a magic shop’s mystery cabinet rather than a dry module.
+Fortune Row is more than a location card and a handful of prompts. It is a compact chorus that asks your table to lean into fate, roll with the consequences, and decide who among your crew is the true fortune teller in a city that pretends it is ordinary. It blends the familiar City of Mist vibe with a fresh arc that can slot into a larger campaign or function as a strong, self contained one shot. It comes with enough handouts to feel like a benevolent librarian who has been handed a chest of pocket watches and told to pick a story. And yes, there are enough little add ons to feel like unboxing a mystery cabinet from a secret shop rather than a dry module.
 
-For fans of our City of Mist primers, you might want to skim our primer before diving into Fortune Row. See City of Mist Primer for a quick refresher on how Mythos, Gimmick, and Legend mechanics tend to sing in a new setting. And if you are curious how we break down this pack in comparison to other adventures, check out our deeper dive on Fortune Row’s inspirations in the post about Fortune Row and the neon city mythos. You can also browse our previous City of Mist review to see how this game has evolved in our ongoing coverage.
+For fans of our City of Mist primers, you might want to skim our primer before diving into Fortune Row. See City of Mist Primer for a quick refresher on how Mythos, Gimmick, and Legend mechanics tend to sing in a new setting. And if you are curious how we break down this pack in comparison to other adventures, check out our deeper dive on Fortune Row inspiration in the post about Fortune Row and the neon city mythos. You can also browse our previous City of Mist review to see how this game has evolved in our ongoing coverage.
 
 ## What’s in Fortune Row
 ### A quick tour of the contents
-Fortune Row ships with a well-organized mix of components that scream professional product while still feeling like a friendly garage sale for mythic trinkets. Here is a snapshot of what you can expect:
-- A concise adventure book that outlines a four-act arc with escalating stakes and a few clever pivots for the GM
-- A GM screen insert designed to be used during quick reveals and location snapshots
+Fortune Row ships with a well organized mix of components that feel professional and approachable at the same time. Here is a snapshot of what you can expect:
+- A concise adventure book outlining a four act arc with escalating stakes and a few clever pivots for the GM
+- A GM screen insert designed for quick reveals and location snapshots
 - A set of player handouts that hint at lore, factions, and the secrets behind a row that seems ordinary but hums with possibility
-- Pre-generated or easy to adapt archetypes that slot neatly into the Fortune Row motif
-- A detailed map of Fortune Row with key locations, along with a few micro-locations to spice a night
-- Encounter cards or tokens that help track rising momentum and escalating mysteries
-- Narrative prompts and side quests that let players chase down clues in a way that feels cinematic without sliding into railroading
+- Pre generated or easily adaptable archetypes that slot neatly into the Fortune Row motif
+- A detailed map of Fortune Row with key locations and a few micro locations to spice a night
+- Encounter cards or tokens that help track momentum and escalating mysteries
+- Narrative prompts and side quests that let players chase clues in a cinematic way without railroading
 
 ### The vibe and setting
-Fortune Row leans into neon shadows and rainy sidewalks of a city that is as much a character as the players. The location is designed to feel like a living rumor mill, where fortunes are real in the sense that someone owes a debt to a power they barely understand. The content keeps the City of Mist tone intact by mixing mythic archetypes with modern street life. Expect a blend of noir intrigue, mythic symbolism, and a few moments that lean into the surreal in ways that make players grin and groan at the same time. The aesthetic this time around nudges a little closer to late-night bakery neon and marathon playlists of moody synth, which is exactly the right mood for a row that feels both intimate and world-shaking.
+Fortune Row leans into neon shadows and rainy sidewalks in a city that is as much a character as the players. The location is a living rumor mill where fortunes are real in the sense that someone owes a debt to a power they barely understand. The content stays true to City of Mist by mixing mythic archetypes with modern street life. Expect noir intrigue, mythic symbolism, and a dash of surreal that makes players grin and groan in equal measure. The aesthetic nudges toward late night bakery neon and synth laden playlists, which is exactly the mood for a row that feels intimate yet world shaking. Fortune Row is a pocket of urban legend that invites players to ask big questions about power, responsibility, and whether fate is a friend or a foe.
 
 ## How it plays with the core system
 ### Mechanics integration
-City of Mist runs on a mythic framework where players embody legends as part of a sprawling narrative. Fortune Row slots into this framework without overhauling core rules. It introduces fresh prompts, a handful of thematic Legend arcs, and the local color that makes a city feel alive. The mechanics stay familiar: you lean on Mythos and Gimmick attributes, perform skill-based checks when pursuing clues, and let the GM’s hands drift to steer the narrative when players fail a roll in a way that feels fair and exciting. Fortune Row respects the balance between investigation and action. Expect multi-layer scenes that escalate tension in a way that invites players to use both their Mythos and their Gimmick to cut through doors of misdirection. The pacing guidance in the pack is practical and gamer-friendly, offering scripts that can swing from slow burn to quick tempo without forcing a jarring shift. If you have run City of Mist before, Fortune Row should slide into your table with minimal friction and maximum dramatic payoff.
+City of Mist rests on a mythic framework where players inhabit legends within a sprawling narrative. Fortune Row slots into this framework without topplying the core rules. It introduces fresh prompts, a handful of thematic Legend arcs, and neighborhood color that makes a city feel alive. Mechanics stay familiar: you lean on Mythos and Gimmick attributes, perform skill based checks when pursuing clues, and let the GM steer the story when players fail a roll in a way that feels fair and thrilling.
+
+Fortune Row balances investigation with action, offering multi layer scenes that escalate tension and invite players to use both their Mythos and their Gimmick to cut through misdirection. The pacing guidance is practical and gamer friendly, offering scripts that can swing from slow burn to quick tempo without jolting the table. If you have run City of Mist before, Fortune Row should slot in with minimal friction and maximum dramatic payoff.
 
 ### Character options and new archetypes
-Fortune Row adds a handful of archetypes crafted to fit the row and the neighborhood. These archetypes come with suggested Gimmicks, a few specialty moves, and a handful of legend prompts that tie directly into the location. The characters are designed to feel distinct from standard options, offering different angles for players who want to explore new mythic lenses while staying connected to the city around them. The archetypes usually lean into social leverage, street-level mysticism, and the kind of moral ambiguity that makes a good noir story more interesting than a straightforward hero tale. If your group enjoys the social maneuvering and the idea that a rumor can be a weapon, these archetypes land with a satisfying blend of flavor and utility.
+Fortune Row brings a handful of archetypes crafted to fit the row and the neighborhood. These archetypes come with suggested Gimmicks, a few specialty moves, and a fistful of legend prompts that tie directly into the location. The characters are designed to feel distinct from standard options, offering new angles for players who want to explore fresh mythic lenses while staying connected to the city around them. Expect a tilt toward social leverage, street level mysticism, and the moral ambiguity that makes noir fiction engaging. If your group enjoys social maneuvering and the idea that a rumor can be a weapon, these archetypes land with a satisfying blend of flavor and utility.
 
 ### Investigative hooks and pacing
-The pack delivers a set of hooks that can be dropped into a long campaign or used as a stand-alone night. The hooks exploit Fortune Row as a locus where fate, politics, and myth intersect. Expect a rhythm where players poke at a mystery, reveal a new layer of myth, and then have to choose how to respond when a fortune teller predicts not just outcomes, but the shape of the next move in the night. Pacing recommendations are practical and gamer-friendly, including tips on structuring scenes to maximize suspense and to give players agency even as the plot tightens. The result is a session that feels cinematic without needing a film crew to pull it off. You get a sense of momentum that doesn’t steamroll players, and enough room to let personal stakes shine through.
+The pack delivers a set of hooks that can be dropped into a long campaign or used for a stand alone night. The hooks exploit Fortune Row as a locus where fate, politics, and myth intersect. Expect a rhythm where players poke at a mystery, reveal a new layer of myth, and then decide how to respond when a fortune teller predicts not just outcomes, but the shape of the next move in the night. Pacing recommendations are practical and gamer friendly, including tips on structuring scenes to maximize suspense and give players agency even as the plot tightens. The result is a session that feels cinematic without needing a film crew to pull it off. You get momentum that doesn’t steamroll players and enough space for personal stakes to shine through.
 
 ## Story hooks, play experience, and GM tips
 ### A toolbox of scenes
-Fortune Row offers a toolbox of scenes rather than a fixed script. You will get a handful of well-structured beats: a corner shop that is really a portal; a parade of masks that reveal a hidden faction in the city; a midnight auction where fortunes are traded in mythic tokens. The GM guidance helps you thread these beats into a cohesive arc without over-directing players. In short, it invites improvisation without leaving you in the dark about where the next clue should come from. The package also suggests modular adjustments, so you can tailor the intensity to a one-shot, a mini-arc, or a longer stretch in a larger campaign.
+Fortune Row offers a toolbox of scenes rather than a fixed script. You get a handful of well structured beats: a corner shop that is really a portal, a parade of masks that reveal a hidden faction, a midnight auction where fortunes are traded in mythic tokens. The GM guidance helps you thread these beats into a cohesive arc without over directing players. In short, it invites improvisation without leaving you in the dark about where the next clue should come from. The package also suggests modular adjustments so you can tailor the intensity to a one shot, a mini arc, or a longer stretch in a larger campaign.
 
 ### Tone and player agency
-The tone of Fortune Row is noir with a mythic blush. It invites players to interrogate what makes a fortune in a city of myths, and what value they place on power versus responsibility. The best sessions shine when players decide to leverage their legends in unique ways that reveal both the city and their own shades of ambition. The pack respects that dynamic by providing prompts that reward creative problem solving and character-driven choices rather than rote dice rolling for the sake of rolling. There is a gentle nudging of the players toward choices that carry narrative weight, not just tactical wins. If your table loves a mystery that asks more questions than it answers, Fortune Row delivers in spades.
+Fortune Row keeps noir with a mythic blush. It invites players to interrogate what makes a fortune in a city of legends and what value they place on power versus responsibility. The best sessions shine when players decide to leverage their legends in unique ways that reveal both the city and their own shades of ambition. The pack respects that dynamic by providing prompts that reward creative problem solving and character driven choices rather than rote dice rolling for the sake of rolling. If your table loves mystery that asks more questions than it answers, Fortune Row delivers in spades.
 
 ### GM preparation tips
-- Read the key scenes ahead of time and mark two or three flexible beats where player choice could shift the direction of the story.
+- Read key scenes ahead of time and mark two or three flexible beats where player choice could shift the direction of the story.
 - Prepare at least two alternate outcomes for major turns in the plot so you can adapt on the fly if players go off script.
-- Think about the factions and how Fortune Row interacts with them; a good GM can turn a social encounter into a tense negotiation with a mythic twist.
+- Think about factions and how Fortune Row interacts with them; a good GM can turn a social encounter into a tense negotiation with a mythic twist.
 - Use the handouts as narrative springboards; don’t over explain, let players fill in the gaps with their own insight into the mythic world.
-- Practice timing a few quick reveals; the pack benefits from a moment when a subtle clue becomes a reveal that redefines a character’s stake.
-- Have a backup venue ready; Fortune Row gives you the sense of a real location, so a secondary map or micro-location helps maintain momentum if things stall.
+- Practice timing a few quick reveals; the pack benefits from a moment when a subtle clue becomes a reveal that redefines a character stake.
+- Have a backup venue ready; Fortune Row gives you the sense of a real location, so a secondary map or micro location helps maintain momentum if things stall.
 
 ## Design, layout, and production values
-Fortune Row presents a visually clean product with a strong noir palette that fits the City of Mist brand. The layout is functional, with clear headings that help you navigate the acts, locations, and prompts. The typography is legible and the maps are printed clearly enough to be used at the table without constant squinting. The character sheets and archetype cards are sturdy, designed to withstand the occasional tabletop existential crisis that comes with a bad dice night. The overall aesthetic feels cohesive with the City of Mist worldbuilding; you get the same sense that every street corner could hide a mystery that binds the personal to the mythic. The production quality matters, especially for quick pickup games that rely on a mix of handouts and mood cards. Fortune Row understands that a compact product still needs to read as if it belongs on a shelf next to bigger urban myth tomes.
+Fortune Row presents a visually clean product with a strong noir palette that fits the City of Mist brand. The layout is functional, with clear headings that help you navigate acts, locations, and prompts. The typography is legible and the maps are printed clearly enough to be used at the table without squinting. The character sheets and archetype cards are sturdy, designed to withstand the inevitable dramatic dice night. The overall aesthetic feels cohesive with the City of Mist worldbuilding; you get the sense that every street corner could hide a mystery that binds the personal to the mythic. The production quality matters, especially for quick pickup games that rely on a mix of handouts and mood cards. Fortune Row understands that compact products still need to read as if they belong on a shelf beside bigger urban myth tomes.
 
 ### What stands out visually
-- Multi-layered maps with clearly labeled zones and micro-locations
-- Durable handouts that players can actually hold without tearing mid-drama
-- Archetype cards that feel like stylized mini-character sheets rather than random PDFs
-- A cohesive color story that nudges players into the mood without shouting they are in a boardwalk neon dream
+- Multi layered maps with clearly labeled zones and micro locations
+- Durable handouts that players can actually hold without tearing mid drama
+- Archetype cards that feel like stylized mini character sheets rather than random PDFs
+- A cohesive color story that nudges players into the mood without shouting neon city vibes
 
 ## Value, price, and replayability
-As an adventure pack, Fortune Row sits in a sweet spot for players who want something that can be dropped into an ongoing campaign or run as a standalone mystery. The perceived value hinges on how often you play City of Mist. If you are a once-a-month table, the four-act arc plus the supporting material can spice up several sessions. If your table meets weekly, Fortune Row can be a centerpiece for a mini-arc that spans a few weeks. The new archetypes contribute to replayability by offering fresh lenses for your crew and encouraging different approaches to familiar puzzles.
+As an adventure pack, Fortune Row sits in a sweet spot for players who want something that can be dropped into an ongoing campaign or run as a standalone mystery. The perceived value hinges on how often you play City of Mist. If you are a monthly table, the four act arc plus the supporting material can spice up several sessions. If your table meets weekly, Fortune Row can be a centerpiece for a mini arc that spans a few weeks. The new archetypes contribute to replayability by offering fresh lenses for your crew and encouraging different approaches to familiar puzzles.
 
-In terms of price, Fortune Row is typically priced to be accessible for most RPG budgets. It does not overwhelm you with content in a way that feels exploitative; instead it provides crisp content that can be consumed and executed at a variety of pacing levels. In short, if you want a compact, high impact supplement that respects the City of Mist vibe, Fortune Row delivers. It also feels like a prudent purchase for folks who want a strong one-shot that can be adapted into a longer arc without sacrificing the city vibe or pacing.
+In terms of price, Fortune Row is typically priced to be accessible for most RPG budgets. It does not overwhelm you with content in a way that feels exploitative; instead it provides crisp content that can be consumed and executed at a variety of pacing levels. In short, if you want a compact, high impact supplement that respects the City of Mist vibe, Fortune Row delivers. It also feels like a prudent purchase for folks who want a strong one shot that can be adapted into a longer arc without sacrificing the city vibe or pacing.
 
 ## How Fortune Row fits into a campaign
 ### One shot to long arc bridge
-Fortune Row shines as a bridge between long campaigns and new players. It is a nimble arc that can be slotted in during a lull or used to pivot a city-wide mystery into a local street story. The content is structured to help you escalate tension while maintaining the possibility of consequences that ripple beyond the initial night. The design here makes Fortune Row a flexible anchor point for your campaign, whether you prefer a dark, city-locked mood or a more surreal mythic atmosphere. It also creates opportunities for recurring motifs that players encounter across sessions, giving your city a memory that players can tap into later in the campaign.
+Fortune Row shines as a bridge between long campaigns and new players. It is a nimble arc that can be slotted in during a lull or used to pivot a city wide mystery into a local street story. The content is structured to help you escalate tension while maintaining the possibility of consequences that ripple beyond the initial night. The design here makes Fortune Row a flexible anchor point for your campaign, whether you prefer a dark, city locked mood or a more surreal mythic atmosphere. It also creates opportunities for recurring motifs that players encounter across sessions, giving your city a memory that players can tap into later in the campaign.
 
 ### Campaign integration tips
 - Treat Fortune Row as a hub for rumors and minor factions that your players can leverage or subvert. This makes the world feel larger than a single mission.
@@ -84,7 +89,7 @@ Fortune Row shines as a bridge between long campaigns and new players. It is a n
 - Build in a payoff scene where the consequences of a choice in Fortune Row echo in other parts of the city, reinforcing the sense that fate is a currency and a consequence.
 
 ## Comparisons and where Fortune Row stands
-If you have read other City of Mist supplements, Fortune Row stands out by being compact and highly portable. It hits a sweet spot between a contained tale that can be completed in a handful of sessions and a seed that can sprout into a longer urban legend. Other packs may lean into either pure investigation or pure action; Fortune Row threads the needle by balancing both, while maintaining a strong narrative voice that is consistent with the core game feel. It is not a radical rewrite of the system, but a well-crafted variation that respects the world and gives gamemasters a tool for thoughtful, character-driven storytelling.
+If you have read other City of Mist supplements, Fortune Row stands out by being compact and highly portable. It hits a sweet spot between a contained tale that can be completed in a handful of sessions and a seed that can sprout into a longer urban legend. Other packs may lean into either pure investigation or pure action; Fortune Row threads the needle by balancing both, while maintaining a strong narrative voice that is consistent with the core game feel. It is not a radical rewrite of the system, but a well crafted variation that respects the world and gives gamemasters a tool for thoughtful, character driven storytelling.
 
 For readers familiar with our posts on the neon city mythos, Fortune Row feels like a logical evolution: more texture in the city, more texture in the myths, and a reminder that fortune can be a currency as well as a motive. If you want to compare it with other packs we have reviewed, we recommend checking our City of Mist series post and the Forge of Masks piece for a sense of how different modules scale in tone and complexity. See our City of Mist primer and our deeper dive into urban myth to get a feel for how different packs fit into the bigger picture.
 
@@ -103,10 +108,10 @@ For readers familiar with our posts on the neon city mythos, Fortune Row feels l
 - May feel short for tables expecting a long, sprawling campaign arc
 - Some players may crave more mechanical complexity or new mechanics beyond the core system
 - The pack assumes a City of Mist tone that some tables may want to dial back if their players prefer a more grounded game
-- A couple of micro-locations may feel a tad optional or gimmicky if your table skews toward realism
+- A couple of micro locations may feel optional or gimmicky if your table skews toward realism
 
 ## Final verdict
-Fortune Row is a strong addition for City of Mist players who want a tight, atmospheric experience with a strong sense of place. It does not attempt to reinvent the wheel, but it adds enough polish to make a memorable arc without requiring a master class in GMing. If your table loves noir vibes, mythic symbolism, and the idea that a street corner can hold a dozen different legends, Fortune Row is worth your time and your table space. It shines as a drop-in adventure that can be run standalone or used as a bridge between larger acts in a campaign. If you enjoy sessions that feel cinematic yet intimate, Fortune Row delivers a satisfying blend of mystery, mood, and myth, without dumping a wall of exposition on your players.
+Fortune Row is a strong addition for City of Mist players who want a tight, atmospheric experience with a strong sense of place. It does not attempt to reinvent the wheel, but it adds enough polish to make a memorable arc without requiring a master class in GMing. If your table loves noir vibes, mythic symbolism, and the idea that a street corner can hold a dozen different legends, Fortune Row is worth your time and your table space. It shines as a drop in adventure that can be run standalone or used as a bridge between larger acts in a campaign. If you enjoy sessions that feel cinematic yet intimate, Fortune Row delivers a satisfying blend of mystery, mood, and myth, without dumping a wall of exposition on your players.
 
 If you want to test the waters with a quick run, Fortune Row provides a natural entry point for new players to discover how Mythos and Gimmick intersect with a city that talks back to them. It is a compact masterclass in how to balance tone, pacing, and player agency, and it leaves you with the feeling that the city itself has a memory, and it is watching what your crew does next.
 
@@ -128,7 +133,7 @@ If you want to test the waters with a quick run, Fortune Row provides a natural 
 - Fortune Row and the Neon City Mythos – a compare and contrast with other urban myth modules
 
 ## Final note on mood and table feel
-Fortune Row manages to be both cozy and cosmic, a rare trick that makes a table lean in to listen to a story while rolling dice with a smile. It respects the gritty real world under the neon glow while inviting players to roleplay as legends rather than mere humans with impressive stats. If you want a session that feels like a cinematic trailer in a rain-soaked city, Fortune Row is a dependable pick.
+Fortune Row manages to be both cozy and cosmic, a rare trick that makes a table lean in to listen to a story while rolling dice with a smile. It respects the gritty real world under the neon glow while inviting players to roleplay as legends rather than mere humans with impressive stats. If you want a session that feels like a cinematic trailer in a rain soaked city, Fortune Row is a dependable pick.
 
 ## External links
 - Official site for City of Mist: https://cityofmist.com
