@@ -13,6 +13,8 @@ tags:
   - color
   - humor
   - expansion
+  - analysis
+  - retro
 ---
 
 ![The Saboteur PS3 cover]({{ '/assets/images/the-saboteur-ps3-cover.jpg' | relative_url }})
@@ -83,7 +85,7 @@ The Saboteur’s charm rests on the confident swagger it brings to a story about
 
 The Saboteur is a love letter to a very particular kind of gamer: someone who wants to watch a city bloom under their thumbs while Nazis get a taste of the rainbow. The mission design isn’t flawless, and the AI occasionally forgets it’s supposed to be clever. But the momentum of liberating a district and watching the streets glow with color is a feeling that lasts longer than most open-world loops. If you enjoy a game that wears its confidence on its sleeve, pairs pulp with platforming, and understands that color can be a co-pilot for storytelling, this PS3 title deserves a place on your shelf—even if you have to forgive a few rough edges along the way.
 
-## Practical tips
+### Practical tips
 
 - Study the color map logic and plan district liberations around color flow rather than simply chasing the main objective.
 - Use distractions strategically to reposition guards and maximize takedown opportunities.
@@ -91,7 +93,7 @@ The Saboteur is a love letter to a very particular kind of gamer: someone who wa
 - Experiment with different color schemes to discover hidden paths and alternate takedown sequences.
 - If you’re chasing a flawless run, take your time in grayscale districts to study patrol patterns and light cues.
 
-## Read more posts on related topics
+### Read more posts on related topics
 
 - {% post_url 2025-10-14-open-world-review-tips %}
 - {% post_url 2023-04-17-stealth-gamecraft %}
@@ -100,4 +102,6 @@ The Saboteur is a love letter to a very particular kind of gamer: someone who wa
 
 The Saboteur PS3 is a bold, flawed, and highly entertaining game. It may not be the most refined stealth action title of its generation, but its color mechanics and pulpy energy give it a lasting charm. If you want an open-world experience that forgives its rough edges in favor of personality and flair, you will be rewarded.
 
-**Buy The Saboteur on Amazon — affiliate link: https://www.amazon.com/dp/B09SABOTEUR?tag=geeknite-20**
+If you enjoyed this updated take, you might also like to explore related topics on our site to place The Saboteur in a broader context: check out our color-focused discussions and stealth design retrospectives linked above.
+
+**Support Geeknite — Buy The Saboteur on Amazon today, affiliate link: https://www.amazon.com/dp/B09SABOTEUR?tag=geeknite-20**
