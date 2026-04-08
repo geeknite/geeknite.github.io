@@ -22,19 +22,19 @@ tags:
 
 ![NSFW Edition – Kartendeck]({{ site.baseurl }}/assets/images/exploding-kittens-nsfw-deck.jpg)
 
-Willkommen zurück bei Geeknite, dem Ort, an dem Kartendecks mehr Drama machen als der Plot-Twist deiner Lieblings memes. Wir rollen die NSFW Edition von Exploding Kittens nicht nur erneut durch unseren Testkeller, sondern lassen es wie einen gut gemixten Cocktail aus Humor, Risiko und Katzenpopkultur wirken. Nachdem wir das Deck in mehreren Abenden getestet haben, liefern wir dir jetzt eine vertiefte, bissig-lustige Überarbeitung, die Zustand, Design, Mechanik, Humor und Social Dynamics unter die Lupe nimmt. Wenn du Katzenliebe, schlüpfrigen Humor und eine Prise Provokation magst, bleib dran – wir helfen dir, zu entscheiden, ob diese NSFW Edition in dein Regal gehört.
+Willkommen zurück bei Geeknite, dem Ort, an dem Kartendecks mehr Drama machen als der Plot-Twist deiner Lieblings memes. Wir haben die NSFW Edition von Exploding Kittens erneut durch unseren Testkeller gedreht und lassen es wie einen gut gemixten Cocktail aus Humor, Risiko und Katzenpopkultur wirken. Nachdem wir das Deck über mehrere Abende hinweg getestet haben, liefern wir dir hier eine vertiefte, bissig-lustige Überarbeitung, die Zustand, Design, Mechanik, Humor und Social Dynamics unter die Lupe nimmt. Wenn du Katzenliebe, schlüpfrigen Humor und eine Prise Provokation magst, bleib dran – wir helfen dir zu entscheiden, ob diese NSFW Edition in dein Regal gehört.
 
 ## Einordnung und Zielgruppe
 
-Exploding Kittens NSFW Edition ist die Erwachsenen-Erweiterung des bekannten Partyspiels. Stell dir vor, du hast eine freche WG-Freundin, die immer eine Pointe parat hat, aber auch einen gewissen Sinn für Kontext bewahrt. Die NSFW Edition richtet sich an Spieler ab 18, die Grenzverschiebungen genießen, aber dennoch darauf achten wollen, dass der Abend nicht in eine peinliche Stille fällt. Kinderspiele? Nein danke. Oma? Vielleicht die Frage, ob sie die AfD im Kartendeck sehen will – nein, lassen wir das. Kurzum: Hier geht es um explizitere Witze, zweideutige Situationen und eine extra Portion Provokation, die dem Gruppenabend Pepp gibt, ohne ihn komplett aus dem Gleis zu werfen.
+Exploding Kittens NSFW Edition ist die Erwachsenen-Erweiterung des bekannten Partyspiels. Stell dir vor, du hast eine freche WG-Freundin, die immer eine Pointe parat hat, aber auch einen gewissen Sinn für Kontext bewahrt. Die NSFW Edition richtet sich an Spieler ab 18, die Grenzverschiebungen genießen, aber dennoch darauf achten wollen, dass der Abend nicht in eine peinliche Stille fällt. Kinderspiele? Nein danke. Oma? Vielleicht die Frage, ob sie die AfD im Kartendeck sehen will – nein, lassen wir das. Kurz gesagt: Hier geht es um explizitere Witze, zweideutige Situationen und eine extra Portion Provokation, die dem Gruppenabend Pep gibt, ohne ihn komplett aus dem Gleis zu werfen.
 
 ### Was bedeutet NSFW hier genau?
 
-NSFW steht für Not Safe For Work – auch wenn in der Wohnzimmerrunde mit richtigen Leuten die roten Schenkel schnell wieder auftauchen. Die Karten liefern Pointen, Anspielungen und Situationen, die in der Gruppe funktionieren, aber in formellen Settings vermutlich Blicke Richtung Decke senden würden. Die Grundmechanik bleibt dieselbe: Exploding Kittens, Defuse-Karten, See the Future und Co treffen auf eine Palette von Karten über Dating, Karaoke, nächtliche Snack-Orgien und mehr. Wer empfindlich gegenüber zweideutigen Inhalten ist, sollte die NSFW Edition besser aus dem Spielschrank verbannen – oder sinnvoll damit arbeiten, indem man sie mit familienfreundlicheren Karten mischt. In der Praxis bedeutet das: Du bekommst witzige, gelegentlich schlüpfrige Sprüche, eine Portion schwarzen Humors und eine Kissenplausch-Atmosphäre, die eine gute Gruppenrunde braucht.
+NSFW steht für Not Safe For Work – auch wenn sich die Rede in der Wohnzimmerrunde mit echten Menschen natürlich leichter umgehen lässt. Die Karten liefern Pointen, Anspielungen und Situationen, die in der Gruppe funktionieren, aber in formellen Settings vermutlich Blicke Richtung Decke senden würden. Die Grundmechanik bleibt dieselbe: Exploding Kittens, Defuse-Karten, See the Future und Co treffen auf eine Palette von Karten über Dating, Karaoke, nächtliche Snack-Orgien und mehr. Wer empfindlich gegenüber zweideutigen Inhalten ist, sollte die NSFW Edition besser aus dem Spielschrank verbannen – oder sinnvoll damit arbeiten, indem man sie mit familienfreundlicheren Karten mischt. In der Praxis bedeutet das: Du bekommst witzige, gelegentlich schlüpfrige Sprüche, eine Portion schwarzen Humors und eine Kissenplausch-Atmosphäre, die eine gute Gruppenrunde braucht.
 
 ## Inhalt und Zustand: Sealed vs. Wie neu ist wie neu?
 
-Der Reiz von Sealed ist nicht Geheimtipp, sondern Gewissheit, dass Verpackung und Inhalt möglichst unberührt bleiben. Du kaufst dir hier Sicherheit: Karten unversehrt, Ecken sauber, Farben frisch. In der Praxis bedeutet das oft:
+Der Reiz von Sealed ist kein Geheimtipp, sondern Gewissheit, dass Verpackung und Inhalt möglichst unberührt bleiben. Du kaufst dir hier Sicherheit: Karten unversehrt, Ecken sauber, Farben frisch. In der Praxis bedeutet das oft:
 
 - Karten: keine Eselsohren, keine Knicke, keine aufgeweichte Kartonlage.
 - Verpackung: keine Macken an den Ecken, kein zerdrückter Deckel, alles sitzt wie am ersten Tag.
@@ -81,7 +81,7 @@ Hinweise zur Gruppendynamik: NSFW bedeutet oft mit offenem Humor zu arbeiten. Ni
 Auch wenn Exploding Kittens auf Glück zu basieren scheint, gibt es Strategien, die deine Gewinnchancen erhöhen – besonders in der NSFW Edition, wo neue Kartenarrangements zu neuen Möglichkeiten führen.
 
 - Zukunft lesen: See the Future Karten geben dir Einblick in das nächste Kartendeck. Nutze diese Information, um dein Risiko abzuwägen, bevor du ziehst. Die dramatischen Momente, in denen du eine Defuse verwenden musst, gehören zum Ritual.
-- Defuse klug einsetzen: Defuse-Karten sind Gold wert. Halte sie oft bis zum richtigen Moment – wenn das Deck kurz davorsteht, zu kippen, nutze sie für das beste Timing.
+- Defuse clever einsetzen: Defuse-Karten sind Gold wert. Halte sie oft bis zum richtigen Moment – wenn das Deck kurz davorsteht, zu kippen, nutze sie für das beste Timing.
 - Cat Cards als Druckmittel: Cat Cards können in der NSFW Edition zu einer Comedy-Kurvenform werden. Verwende sie, um Mitspieler zu verunsichern oder dem Spiel eine kurze Pause mit Lachen zu gönnen.
 - Risikomanagement: Nutze Shuffle- und See-the-Future-Karten, um das Deck neu zu mischen, bevor eine Exploding-Kitten-Karte wieder auftaucht. Das erhöht deine Chancen, dem Sprung ins Ungewisse zu entgehen.
 
@@ -91,7 +91,7 @@ Auch wenn Exploding Kittens auf Glück zu basieren scheint, gibt es Strategien, 
 - Hausregeln klären: Welche Inhalte sind erlaubt, was ist tabu? Das schützt die Stimmung und verhindert peinliche Momente bei neuen Spielern.
 - Regelmäßiges Mischen: Nach mehreren Runden das Deck neu mischen, damit das Risiko sich verteilt und die Spannung steigt.
 - Community-Mindset: Tauscht Patterns aus, welche Karten in eurer Gruppe funktionieren. Das erhöht den Langzeitspaß.
-- Kartenpflege: Leichte Kratzer sind ok, aber halte das Deck sauber. Vermeide Wasser, Hitze und direkte Sonneneinstrahlung – Farben und Druck leben länger.
+- Kartenpflege: Leichte Kratzer sind okay, aber halte das Deck sauber. Vermeide Wasser, Hitze und direkte Sonneneinstrahlung – Farben und Druck leben länger.
 
 ## Vergleich mit der Basisedition und anderen Kartenspielen
 
@@ -99,7 +99,7 @@ Die NSFW Edition ergänzt die Basisedition sinnvoll: Der Humor ist direkter, die
 
 ### Intersignale zu anderen Titeln
 
-- Nein, diese Edition löscht das Risiko nicht aus, sie erhöht es manchmal sogar. Wenn du Leute kennst, die sich bei Cards Against Humanity über eine schlichte Pointe freuen, wird NSFW Edition deine Gruppe fordern, aber auch belohnen – Timing, Mut zur Provokation und eine gute Portion Selbstironie sind hier gefragt.
+- Nein, diese Edition potenziert nicht das Risikoverständnis – sie erhöht es manchmal sogar. Wenn du Leute kennst, die sich bei Cards Against Humanity über eine schlichte Pointe freuen, wird NSFW Edition deine Gruppe fordern, aber auch belohnen – Timing, Mut zur Provokation und eine gute Portion Selbstironie sind hier gefragt.
 - Wer Basisedition liebt, der findet hier mehr Live-Reaktion statt statt stiller Analysen. Die NSFW Karten fachen spontane Comedy an, ohne das Regelwerk zu strapazieren.
 
 ## Praktische Einsatzmöglichkeiten
@@ -133,7 +133,7 @@ Für größere Gruppen ist der Zeitaufwand gut skalierbar: 15 bis 30 Minuten pro
 
 - Vorab-Check: Kläre die Grenzbereiche der Gruppe klar vor dem ersten Zug – was ist tabu, welche Themen sind heikel, was darf man in bestimmten Runden ansprechen. Eine kurze Abstimmung senkt Frustration und erhöht den Spaß.
 - Start mit leichteren Regeln: Beginnt mit der Basisspielvariante und fügt nach und nach die NSFW-spezifischen Karten hinzu. Das hilft neuen Spielern, nicht sofort von der Fülle der Sprüche überwältigt zu werden.
-- Regeln flexibel anwenden: Hausregeln sind ok, solange alle daran mitwirken. Die Stimmung zählt mehr als eine strikte Regelbindung.
+- Regeln flexibel anwenden: Hausregeln sind okay, solange alle daran mitwirken. Die Stimmung zählt mehr als eine strikte Regelbindung.
 - Deckpflege: Nach jedem Abend kurz das Deck prüfen, feine Kanten kontrollieren und sauber halten. Feuchtigkeit vermeiden, Hitze meiden, damit Farben erhalten bleiben.
 
 ## Abschluss: Unsere eindeutige Empfehlung
