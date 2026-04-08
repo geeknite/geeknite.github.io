@@ -1,12 +1,12 @@
 ---
-title: Zombicide: Special Guest - Edouard Guiton Expansion
+title: Zombicide: Special Guest - Edouard Guiton Expansion (Expanded Review)
 date: 2026-04-08
-tags: [board-games, zombicide, expansion, edouard-guiton, review, geeknite]
+tags: [board-games, zombicide, expansion, edouard-guiton, review, geeknite, guest-mechanics]
 ---
 
-Zombicide has a long-standing tradition of making its players work up a sweat while the zombies do the cardio. The latest expansion in the evergreen zombie-ocalypse parade is Zombicide: Special Guest - Edouard Guiton Expansion. If you’ve ever wondered what happens when a board-game designer crashes a zombie party with a pen, a sense of humor, and probably too much coffee, this expansion is your VIP backstage pass. Edouard Guiton, the man, the myth, the Kickstarter legend, now enters the fray—not as a mere figure on a base, but as a Special Guest who changes the flow of the game the moment you crack open the box. And yes, there will be an anecdote about margins, playtesting, and a dramatic coffee spill that somehow found its way into the design notes.
+Zombicide has a long-standing tradition of making its players break a sweat while the zombies do cardio for you. The latest expansion in the evergreen zombie-ocalypse parade is Zombicide: Special Guest - Edouard Guiton Expansion. If you’ve ever wondered what happens when a board game designer crashes a zombie party with a pen, a sense of humor, and probably too much coffee, this expansion is your VIP backstage pass. Edouard Guiton, the man, the myth, the Kickstarter legend, now enters the fray not as a mere figure on a base, but as a Special Guest who changes the flow of the game the moment you crack open the box. And yes, there will be an anecdote about margins, playtesting, and a dramatic coffee spill that somehow found its way into the design notes.
 
-![Edouard Guiton as Special Guest](/assets/images/zombicide-edouard-guiton.jpg)
+![]({{ '/assets/images/zombicide-edouard-guiton.jpg' | relative_url }})
 
 If you’ve seen our past coverage of Zombicide expansions, you know we like to measure a set by how much it makes the room smell like cardboard and ambition. This one ups the ante by weaving in a designer cameo that actually affects gameplay, not just flavor text. It’s a risky move—you could end up turning a tense run for survival into a full-blown roast session about production quality and design intent. Fortunately, Edouard’s presence is more “guest of honor” than “guest of doom,” though there are a few moments that feel like you’re playing a game with a celebrity who keeps shouting “one more take” during a critical turn.
 
@@ -24,7 +24,7 @@ The expansion arrives with a compact but dense collection of goodies. You get a 
 - 1 clean set of tokens for “Guest” conditions, including a few cheeky reminder tokens that you’ll totally forget existed until the last minute.
 - A compact little booklet with the rules clarifications, scenario briefs, and a few prompts that sound suspiciously like storytelling prompts you could steal for a later podcast.
 
-![Zombicide Special Guest box art](/assets/images/zombicide-special-guest-edouard-guiton-box.jpg)
+![]({{ '/assets/images/zombicide-special-guest-edouard-guiton-box.jpg' | relative_url }})
 
 If you love the tactile feel of a well-wrapped box and you’re in the market for a long, sprawling campaign, this expansion gives you a lot of meat for relatively little extra surface area. It isn’t a “monster pack” that overhauls the game’s DNA; rather, it’s a well-timed cameo that reinterprets a few mechanics in a way that feels both respectful to the base game and injective enough to justify a replay. The result is a product that fits neatly into an existing Zombicide shelf without requiring a full re-sorting, but it also invites a more experimental playthrough if you’re so inclined.
 
@@ -39,7 +39,7 @@ Key ideas:
 - These events tend to adjust the tempo of a round, nudging you toward riskier moves that could pay off in larger rewards if executed with timing that would make a tense movie editor nod in approval.
 - They scale with player count and map size, so you don’t get a lull if you’re playing with a smaller crew or a dense layout.
 
-The effect on gameplay is subtle but persistent. You’ll feel the expansion’s influence in the pacing: the game doesn’t suddenly become easier, it just begins to feel more cinematic. And in a game about surviving waves of undead marauders, “cinematic” is exactly what you want when your last action is a desperate dice roll that could decide not just your survival, but how your group will tell the story at the end of the session.
+The effect on gameplay is subtle but persistent. You’ll feel the expansion’s influence in the pacing: the game doesn’t suddenly become easier, it just begins to feel more cinematic. And in a game about surviving waves of undead marauders, cinematic is exactly what you want when your last action is a desperate dice roll that could decide not just your survival, but how your group will tell the story at the end of the session.
 
 If you want to see how this lines up with our broader thinking on the system, you can check our primer post here: {% post_url 2025-11-03-zombicide-primer %} and our quick expansion overview here: {% post_url 2024-09-01-zombicide-expansion-roundup %}.
 
