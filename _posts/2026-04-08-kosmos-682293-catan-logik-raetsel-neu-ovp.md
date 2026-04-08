@@ -1,5 +1,5 @@
 ---
-title: KOSMOS 682293 CATAN - Logik Rätsel NEU & OVP (Update)
+ttitle: KOSMOS 682293 CATAN - Logik Rätsel NEU & OVP (Update)
 date: 2026-04-08
 tags:
   - Board games
@@ -71,7 +71,7 @@ Die Materialien halten sich an eine solide Mittellage: robust genug für regelm�
 
 Gelegentlich bietet sich eine gemütliche Spielrunde an – jeder bringt seine Denkskills ein, der Tisch wird zum Schachbrett der Logik, und wer gewinnt, trägt am Ende den Aha-Stempel.
 
-## Catan-Flavor vs. puristische Logik: Wie gut funktioniert die Mischung?
+### Catan-Flavor vs. puristische Logik: Wie gut funktioniert die Mischung?
 
 Eine der spannendsten Fragen beim Testen dieses Sets war, wie stark der Catan-Flair wirklich in den Rätsel-Mechaniken mitschwingt. Die Antwort: Der Flair ist vorhanden, aber nicht aufdringlich. Die Ressourcenwelt von Catan taucht als thematische Klammer auf – Hinweise beziehen sich oft auf Handelswege, Ressourcen oder die Idee, dass eine Entscheidung mehrere Konsequenzen hat, ähnlich wie bei einer Siedlung mit weitreichenden Auswirkungen. Dennoch bleibt der Kern fokussiert auf Logik: Es geht darum, die richtige Gedankenkette zu rekonstruieren, das Verknüpfen von Regeln und das bestmögliche Reproduzieren eines logischen Pfads.
 
