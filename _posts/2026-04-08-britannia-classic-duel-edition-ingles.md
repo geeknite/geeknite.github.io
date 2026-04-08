@@ -13,7 +13,7 @@ tags:
 
 When you open a box labeled Britannia: Classic & Duel Edition, you expect two things: a map large enough to make your coffee spill two times, and a rulebook that looks like it was written by a team of bored wizards who somehow sneak in a joke about taxes in the margins. You get both, plus a healthy dose of “how did this happen?” that only a game about ancient British misrule can conjure. This review covers the twin pillars of the box: the sprawling, empire-spanning Classic mode and the razor-edged, duel-focused variant. It’s like getting both a fully fledged epic RPG and a tight two-player sword duel in one box, with the same artist who did the parchment textures for a pirate map doing the art for both. And yes, there will be puns. There will be banners. There will be dice that look like they survived a dragon’s audit.
 
-![](./assets/britannia-classic-cover.jpg)
+![](/assets/britannia-classic-cover.jpg)
 
 ### Box contents and first impressions
 
@@ -27,7 +27,7 @@ If you’re allergic to massive rulebooks, fear not: Britannia: Classic & Duel E
 
 ### The Classic mode: scale, strategy, and empire-building
 
-The Classic game lives up to its name: you’re juggling territories, resources, and politics across a map that wants to be as big as your imagination can stretch. The factions are not merely decorative; each has a distinct path to victory, with special abilities that reward long-term planning and occasional risk-taking. It’s the sort of design where a “minor adjustment” to a city’s roads can ripple across the entire empire in surprising ways.
+The Classic game lives up to its name: you’re juggling territories, resources, and politics across a map that wants to be as big as your imagination can stretch. The factions are not merely decorative; each has a distinct path to victory, with special abilities that reward long-term planning and occasional risk-taking. It’s the sort of design where a minor adjustment to a city’s roads can ripple across the entire empire in surprising ways.
 
 What works particularly well here is the layering of decisions. In a single round you could be expanding your political influence, negotiating with other players, building up your provinces, and drafting a handful of mighty troops. The interdependence of these choices creates a crescendo of tension, especially as neighboring players decide whether to form a temporary alliance or backstab you with the efficiency of a well-timed catapult volley.
 
@@ -67,7 +67,7 @@ The interaction level sits somewhere between heavy and medium-heavy: you’re co
 
 ### Time and pacing considerations
 
-Be prepared for a session that could run anywhere from 90 minutes in Duel mode to well over three hours in a heavier Classic game with a full slate of players. The latter demands stamina and a tolerance for back-and-forth bargaining that often stretches longer than a sci-fi epic. If you’re new to Britannia, start with the Duel variant to learn the rhythm, then graduate to Classic once you’re confident you can manage the bigger stage. In either mode, expect moments of dramatic tension that make you lean in and whisper, “I have a plan,” only for reality to gently roast your plan into a crisp shard of ambition.
+Be prepared for a session that could run anywhere from 90 minutes in Duel mode to well over three hours in a heavier Classic game with a full slate of players. The latter demands stamina and a tolerance for back-and-forth bargaining that often stretches longer than a sci-fi epic. If you’re new to Britannia, start with the Duel variant to learn the rhythm, then graduate to Classic once you’re confident you can manage the bigger stage. In either mode, expect moments of dramatic tension that make you lean in and whisper, I have a plan, only for reality to gently roast your plan into a crisp shard of ambition.
 
 ## Art, components, and accessibility
 
@@ -125,6 +125,7 @@ If you’re curious about whether this will fit your table, you can read more re
 - Together, they cover both party-leaning epic sessions and intimate, adrenaline-fueled duels. If you’re building a collection, this box gives you two modes that feel thematically connected yet mechanically distinct.
 
 ### Final recommendation
+
 If you want one box that can do both showy grand strategy and a quick, surgical duel, this is it. If you prefer leaner two-player games or are new to the genre, start with the Duel rules and then move to Classic once you’re comfortable with the pacing and the negotiation dynamics. If you’re a veteran who owns a shelf of heavy strategy, this box can sit proudly as a flexible centerpiece that invites several playstyles over many months of game nights.
 
 And now, a quick call to action for the curious and the curious-adjacent: if you’re ready to dive in, consider grabbing Britannia: Classic & Duel Edition through our affiliate link to support Geeknite’s ongoing content machine. The more you buy, the more we can bring you witty reviews, spicy memes, and more board game nerdery to your feed.
