@@ -7,6 +7,8 @@ tags:
   - family game night
   - oversized cards
   - party games
+  - family fun
+  - party play
 ---
 
 Giant UNO Card Game 108 Oversized Cards - Family Game Night NEW
@@ -27,7 +29,6 @@ The packaging promises a sunny chaos and delivers 108 oversized cards, a simple 
 
 In addition to the cards, most sets include a basic card stand or mat to keep the pile within reach. The card stock is sturdy enough to survive enthusiastic shuffles, but not so thick that you could use the deck as a doorstop or a makeshift shield in a Nerf war. The color palette sticks to the classic UNO vibe: bold reds, blues, greens, and yellows that glow under the glow of a midweek living room lamp and a couple of enthusiastic kids who insist on flipping cards like a magician on caffeine.
 
-<!— Jekyll image syntax for another in-set moment —>
 {% image giant-uno-middle.jpg alt=Giant UNO table moment class=inline %}
 
 ## Setup and First Impressions
@@ -118,7 +119,7 @@ What people are saying in quick anecdotes: the first time a player shouted UNO a
 - If you have a curious pet with a card fetish, consider using a protective play mat and ensure the play area is safe from nibbling paws.
 - If you want a single phrase to remember this edition by, it is: big cards, big laughs, big memories.
 
-For a direct jump into your cart, consider this popular link that has earned its stripes among our readers: **Buy it now on Amazon via the Geeknite affiliate link: https://amzn.to/giant-uno**
+For a direct jump into your cart, consider this popular link that has earned its stripes among our readers: Buy it now on Amazon via the Geeknite affiliate link: https://amzn.to/giant-uno
 
 This concludes our giant UNO exploration. If you enjoyed this review, stay tuned for more in our ongoing series on oversized game nights and the social experiments we call family game culture.
 
