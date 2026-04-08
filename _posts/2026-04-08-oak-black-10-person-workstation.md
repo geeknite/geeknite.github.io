@@ -1,7 +1,7 @@
 ---
-title: 'Oak Black 10 Person Workstation Review Where 10 x Humans Can Sit and Keyboard Clack in Harmony (Updated)'
+title: 'Oak Black 10 Person Workstation Review: Collaboration Without Chaos (Updated)'
 date: 2026-04-08 12:00:00 -0000
-tag s:
+tags:
   - office
   - furniture
   - desk
