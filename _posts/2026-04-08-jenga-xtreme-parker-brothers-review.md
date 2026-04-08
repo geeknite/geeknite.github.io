@@ -1,5 +1,5 @@
 ---
-title: Jenga Xtreme Parker Brothers Review
+title: Jenga Xtreme: Expanded Geeknite Review of Parker Brothers’ Wood Stacking Strategy Game
 date: 2026-04-08
 tags:
   - board games
@@ -9,15 +9,18 @@ tags:
   - game-night
   - review
   - geeknite
+  - party-games
+  - dexterity
+  - family
 ---
 
 ![Jenga Xtreme Tower]({{ '/assets/images/jenga-xtreme.jpg' | relative_url }})
 
-# Jenga Xtreme: A Geeknite Dive into Parker Brothers’ Wood Stacking Strategy Game
+# Jenga Xtreme: Expanded Geeknite Dive into Parker Brothers’ Wood Stacking Strategy Game
 
 Welcome, fellow geeks, to a tower-tipping, nerve-wracking expedition into Jenga Xtreme, Parker Brothers’ bold brag in the world of wooden block diplomacy. If classic Jenga is a cozy campfire story told at a gaming night, Jenga Xtreme is the red-eye flight to the edge of the tower, where every block you pull could spark a seismic wobble that echoes through your group chat for days.
 
-In this full-bore review, we’ll unpack what makes Jenga Xtreme tick, what doesn’t, and how to run a game night that ends with more high-fives than high-pitched screams (though the latter is never totally off the table). Expect a blend of nerdy strategy, practical playing tips, and the occasional inappropriate pun—because if you’re playing with tall blocks, you deserve a few groan-worthy jokes.
+In this expanded review, we’ll unpack what makes Jenga Xtreme tick, what doesn’t, and how to run a game night that ends with more high-fives than high-pitched screams (though the latter is never totally off the table). We’ll blend nerdy strategy with practical playing tips, and yes, the occasional groan-worthy pun—because if you’re playing with tall blocks, you deserve a few groan-worthy jokes.
 
 > For the curious: you can learn more about the real-world product on Hasbro’s page: https://www.hasbro.com/en-us/product/jenga-xtreme. We’ll keep the discussion spoiler-free on the core gameplay details, but if you want the official specs, that’s your stop.
 
