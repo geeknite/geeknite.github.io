@@ -6,9 +6,9 @@ tags: [poker, rules, games, strategy, geeknite]
 
 ## Welcome to the Official Rules and Games of Poker, Geeknite Style
 
-Poker is not just a card game; it is a narrative told with chips, a math puzzle with chips, and a social experiment where you pretend to know what your opponent is thinking while secretly hoping the flop comes exactly when you need it. In this guide we will unpack the official rules that govern the many flavors of poker, explain how the games are played, and give you the practical know how to survive any table from friendly home games to high stakes tournaments. And yes, we will sprinkle in the kind of fanboy humor that makes geek nights memorable rather than forgettable.
+Poker is not just a card game; it is a narrative told with chips, a math puzzle with chips, and a social experiment where you pretend to know what your opponent is thinking while secretly hoping the flop comes exactly when you need it. In this expanded guide we will unpack the official rules that govern the many flavors of poker, explain how the games are played, and give you the practical know-how to survive any table—from cozy home games to big-time tournaments. And yes, we will sprinkle in the kind of fanboy humor that makes Geeknite nights memorable rather than forgettable.
 
-![Poker table setup]( /assets/images/poker-table.jpg )
+![Poker table setup]({{ '/assets/images/poker-table.jpg' | relative_url }})
 
 If you are new to the scene, think of poker as the ultimate theater of probability and psychology. If you are a veteran, think of this as a friendly reminder that the carpet is sticky in all the right places when you are counting outs at the river. Either way, you are in for a ride through official rules, common variants, and a few nerdy detours that make the game more fun than a rotor of spinning chips.
 
@@ -35,18 +35,18 @@ Tie breakers matter here. For example, in a tie between two flushes, the highest
 
 ### The basic structure of a hand
 
-A typical hand proceeds through five stages: preflop, flop, turn, river, and show down. In live play you will also have the time between these streets to gauge your table image and your opponent's tells. The exact progression can vary by game type, but the general rhythm is universal:
+A typical hand proceeds through five stages: preflop, flop, turn, river, and showdown. In live play you will also have the time between these streets to gauge your table image and your opponent's tells. The exact progression can vary by game type, but the general rhythm is universal:
 
-- Preflop: players are dealt private cards and betting begins with blinds or a designated first to act. 
-- Flop: three community cards are dealt face up, followed by a second betting round. 
-- Turn: a fourth community card is added, followed by a betting round. 
-- River: the final community card is dealt, followed by the last betting round. 
+- Preflop: players are dealt private cards and betting begins with blinds or a designated first to act.
+- Flop: three community cards are dealt face up, followed by a second betting round.
+- Turn: a fourth community card is added, followed by a betting round.
+- River: the final community card is dealt, followed by the last betting round.
 - Showdown: if two or more players remain, hands are revealed and the best five card combination wins the pot.
 
 ### Betting structures at a glance
 
 - No Limit: players can bet any amount up to the size of the current stack. This is the style that made Texas Holdem famous for big dramatic pots.
-- Limit: bets are capped by a fixed amount on each street. This creates more controlled risk and a different strategic texture. 
+- Limit: bets are capped by a fixed amount on each street. This creates more controlled risk and a different strategic texture.
 - Pot Limit: players can bet up to the size of the pot. This hybrid model often creates fascinating decisions on each street.
 
 In addition to structure, you will encounter table stakes rules, betting order, and options like check, bet, raise, call, and all in. The terminology can feel like its own language, but think of it as the social contract that keeps the table honest and the chips moving.
