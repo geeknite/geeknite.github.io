@@ -1,5 +1,5 @@
 ---
-title: Citadel Small Base Brush Review: Tiny Tool, Big Impact on Bases
+title: Citadel Small Base Brush Review: Tiny Tool, Big Impact on Bases (2.0)
 date: 2026-04-08
 tags:
   - miniatures
@@ -10,12 +10,12 @@ tags:
   - review
 ---
 
-# Citadel Small Base Brush Review: The Tiny Powerhouse for Miniature Bases
+# Citadel Small Base Brush Review: Tiny Tool, Big Impact on Bases
 
 ![Citadel Small Base Brush](assets/images/citadel-small-base-brush.jpg)
 
 ## Introduction
-If you’ve spent enough time around hobby shelves to know your Valhallan blue from your dry-brushing disaster, you’ll recognize that the right brush can turn a good paint job into something people stare at across the internet and whisper, “is that base actually finished?” The Citadel Small Base Brush is the kind of tool that promises precision for tiny basing work without forcing you to break out a microscope and a prayer. It is marketed as a compact, dedicated tool for base-coating. But does it deliver? Is it the unsung hero of basing, or merely a cute accessory for people who insist on base texture that looks like a postcard from a tropical island rather than a swamp you removed from a sink drain? In this review we subject the Citadel Small Base Brush to the rigorous Geeknite test: puns, paint, and actually finishing those little bases without surrendering to the brush gods.
+If you’ve spent enough time around hobby shelves to know your Valhallan blue from your dry-brushing disaster, you’ll recognize that the right brush can turn a good paint job into something people stare at across the internet and whisper, is that base actually finished? The Citadel Small Base Brush is the kind of tool that promises precision for tiny basing work without forcing you to break out a microscope and a prayer. It is marketed as a compact, dedicated tool for base-coating. But does it deliver? Is it the unsung hero of basing, or merely a cute accessory for folks who insist on base texture that looks like a postcard from a tropical island rather than a swamp you removed from a sink drain? In this review we subject the Citadel Small Base Brush to the Geeknite test: puns, paint, and actually finishing those little bases without surrendering to the brush gods.
 
 For context, basing tends to be the most frustrating part of painting for many hobbyists. It’s where you realize that you can paint the miniature to a four-star standard, but the base makes or breaks the whole presentation. A good base can echo a miniature’s story, whether it’s a blasted alien planet, a sci-fi ship deck, or a forest floor thick with tufts. The right base brush should help you apply base coats efficiently, avoid gouges, reach tight corners around rubble, and do so without blood sacrifices to the bristle gods. The Citadel Small Base Brush aims to be that tool. This review will skate through the brush’s design, how it actually performs, its longevity, and whether it’s worth your paint budget.
 
@@ -26,9 +26,9 @@ If you’re more of a visual learner, we’ve included practical tips, compariso
 ## What is the Citadel Small Base Brush?
 The Citadel Small Base Brush is a compact, pointy-tipped brush designed specifically for base layers and small, tight areas on miniature bases. It’s commonly marketed as a dedicated base brush that helps you lay down even coats on base textures—things like gravel, rubble, rusted metal, tufts, and ground cover. The idea is simple: a smaller ferrule and a milder point to reach tricky spots without inadvertently painting the model’s feet or legs. It’s the brush you pull out when you’re trying not to ruin that perfect base terrain you’ve spent an hour planning in your head.
 
-From a quick look, you’ll notice a few hallmark features: a compact head size, a fine but resilient tip, and a handle that isn’t long enough to be a hazard when you’re churning around a tabletop. Citadel brushes are known for color-coded handles and slightly stiffer bristles than “budget” alternatives, which makes them appealing to hobbyists who want control. The Small Base Brush sits in the “base coating and details” tier of Citadel’s brush lineup, sitting between the larger base brushes and the very small dry brushes. It’s not meant for lay-in highlights or heavy dry-brushing; it’s meant for crisp base layers and careful, precise, controlled application.
+From a quick look, you’ll notice a few hallmark features: a compact head size, a fine but resilient tip, and a handle that isn’t long enough to be a hazard when you’re churning around a tabletop. Citadel brushes are known for color-coded handles and slightly stiffer bristles than budget alternatives, which makes them appealing to hobbyists who want control. The Small Base Brush sits in the base coating and details tier of Citadel’s brush lineup, sitting between the larger base brushes and the very small dry brushes. It’s not meant for lay-in highlights or heavy dry-brushing; it’s meant for crisp base coats and careful, precise, controlled application.
 
-If you’re curious about what base brushes exist beyond Citadel, you’ll often see comparisons with Army Painter’s_base brushes and various sable-hair options from other brands. The goal is to decide what your workflow looks like: do you prefer synthetic bristles that hold a lot of paint or a more responsive bristle that allows you to pull paint into crevices carefully? The Small Base Brush claims to be the right choice for the first step, the part that determines whether your base has depth, texture, and a sense of place.
+If you’re curious about what base brushes exist beyond Citadel, you’ll often see comparisons with Army Painter’s base brushes and various sable-hair options from other brands. The goal is to decide what your workflow looks like: do you prefer synthetic bristles that hold a lot of paint or a more responsive bristle that allows you to pull paint into crevices carefully? The Small Base Brush claims to be the right choice for the first step, the part that determines whether your base has depth, texture, and a sense of place.
 
 ![Close-up of the Citadel Small Base Brush bristles](assets/images/citadel-small-base-brush-closeup.jpg)
 
@@ -46,13 +46,13 @@ As advertised, it’s a compact tool. The head is small enough to reach around t
 ### Base coats that behave
 The primary test for a base brush is whether it lays down a clean, even coat over varied textures. The Citadel Small Base Brush is surprisingly good at this. It holds enough paint to cover textured areas without flooding, and the fine tip lets you avoid accumulating too much paint in crevices. If you’re working with textured bases that have tiny pebbles, sand, or crystal gravels, you can deliver a base color evenly across the surface without the base turning into a stubborn, mottled mess.
 
-One practical tip: when you dip this brush into paint, avoid overloading. The Small Base Brush isn’t a “glide through everything” tool; it’s more of a precise instrument. A light touch helps maintain control and reduces the risk of paint pooling between the base texture and the base rim. You’ll want to keep your paint at a comfortable consistency—some machinists call this “the viscosity of a good coffee,” i.e., not too thick, not too thin.
+One practical tip: when you dip this brush into paint, avoid overloading. The Small Base Brush isn’t a glide-through-everything tool; it’s more of a precise instrument. A light touch helps maintain control and reduces the risk of paint pooling between the base texture and the base rim. You’ll want to keep your paint at a comfortable consistency—some machinists call this the viscosity of a good coffee, i.e., not too thick, not too thin.
 
 ### Reaching tricky edges
 The small head makes it easier to reach the edge of a base, particularly around jagged rocks or placed textures where you want an even base color without bleeding onto the miniature. In practice, the brush’s point allows you to guide paint along crevices while keeping a safe distance from the model’s lower limbs. It’s not magic, but it’s a notable improvement over using a larger brush for those micro-areas. If your bases include complex textures, the Small Base Brush gives you the control to keep edges clean and base colors within the desired zones.
 
 ### Blending and consistency
-If you’re tempted to use the brush for blending, you’ll likely find better results using it for base coats and one-dip texture work rather than for soft gradient blends. It’s not designed as a blender brush; for smooth gradients, you’ll want a softer tip with more bounce. That being said, you can achieve subtle transitions along the rim of a base by applying a light wash with this brush and then carefully pulling it toward the edges with the same instrument. It does not replace a dedicated blending brush, but it does offer a surprising amount of versatility for a brush of its size.
+If you’re tempted to use the brush for blending, you’ll likely find better results using it for base coats and one-dip texture work rather than for soft gradient blends. It’s not designed as a blender brush; for smooth gradients, you’ll want a softer tip with more bounce. That said, you can achieve subtle transitions along the rim of a base by applying a light wash with this brush and then carefully pulling it toward the edges with the same instrument. It does not replace a dedicated blending brush, but it does offer a surprising amount of versatility for a brush of its size.
 
 ## Bristle quality and longevity
 ### Early-life behavior
@@ -79,7 +79,7 @@ When pitted against Army Painter’s base brushes, the Citadel Small Base shows 
 If you absolutely need to stain a larger surface quickly, a bigger base brush gets the job done but sacrifices precision. The Small Base Brush finds a happy middle ground: it’s small enough to navigate tricky base textures but not so small that you lose coverage on flatter areas. It’s a good candidate to pair with a larger base brush in your toolkit for different stages of basing and texturing.
 
 ## Price and value
-Prices vary by region and retailer, but in general, you’ll find the Citadel Small Base Brush priced in the mid-range for hobby tools. The value proposition is not just “get the job done” but “get the job done with less frustration.” If your basing routine involves playing with texture powders, sand, and small stones, you’ll likely feel you got more control per dollar than you would with a generic, larger brush used for everything. It’s a reasonable addition to a starting hobby budget or an essential tool for more advanced basing schemes.
+Prices vary by region and retailer, but in general, you’ll find the Citadel Small Base Brush priced in the mid-range for hobby tools. The value proposition is not just get the job done but get the job done with less frustration. If your basing routine involves playing with texture powders, sand, and small stones, you’ll likely feel you got more control per dollar than you would with a generic, larger brush used for everything. It’s a reasonable addition to a starting hobby budget or an essential tool for more advanced basing schemes.
 
 ## Tips and techniques for using the Small Base Brush
 - Start with a proper paint consistency. A slightly thinner base coat helps you avoid clogging into texture cracks.
@@ -92,12 +92,12 @@ Prices vary by region and retailer, but in general, you’ll find the Citadel Sm
 ## Common criticisms
 Like any tool, the Citadel Small Base Brush isn’t perfect. A few common criticisms from the hobby community include:
 - The bristles may shed slightly over time with heavy use. This is not unusual for synthetic bristle brushes, but it can be annoying if you’re chasing a pristine bristle setup.
-- Some painters desire a slightly longer handle for better leverage on larger basing texts. If you’re mashing into rugged terrain with a lot of reach required, a longer-handled variant might feel more comfortable.
+- Some painters desire a slightly longer handle for better leverage on larger basing textures. If you’re mashing into rugged terrain with a lot of reach required, a longer-handled variant might feel more comfortable.
 - It’s not the best for large flat areas where you’d prefer speed to precision; you’ll still want a larger brush for big base textures or sidewalks of base material.
 
 ## Who should buy this brush?
-- Beginners who want a forgiving tool specifically for bases, with a level of control that helps reduce the “oops, I painted the miniature’s base” accidents.
-- Intermediate painters who want a dedicated tool for precise base-layers and tight corners around the base rim.
+- Beginners who want a forgiving tool specifically for bases, with a level of control that helps reduce the oops, I painted the miniature base accidents.
+- Intermediate painters who want a dedicated tool for precise base layers and tight corners around the base rim.
 - Hobbyists who enjoy layering textures and need a brush versatile enough to handle little edges without compromising the miniature’s main figure.
 
 If you’re someone who rushes through bases because you’re more excited about the armor side of the miniature or the dramatic paint job on the torso, this brush can be a gentle reminder to slow down and pay attention to the base as part of the whole diorama.
@@ -134,4 +134,4 @@ If you treat the Citadel Small Base Brush with a bit of respect, you’ll likely
 ## Final recommendation
 If you’re starting a basing project or you’re trying to tighten up your base coats without covering your miniature, the Citadel Small Base Brush is a solid choice. It delivers precision, control, and enough versatility to justify its place in your brush lineup. It may not replace your larger brushes or your favorite blending tools, but it will likely improve your basing workflow and reduce the number of do-overs you need to do around the base rim.
 
-**Buy via our affiliate link: [Affiliate Link](https://geeknite.shop/affiliate/citadel-small-base-brush)**
+**Buy via our affiliate link: https://geeknite.shop/affiliate/citadel-small-base-brush**
