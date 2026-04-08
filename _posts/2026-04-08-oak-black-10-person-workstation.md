@@ -12,11 +12,12 @@ tags:
   - modular
   - collaboration
   - design
+  - ten-person
 ---
 
 ![Oak Black 10P Workstation]({{ site.baseurl }}/assets/images/oak-black-10p.jpg)
 
-If you have ever tried to herd ten busy humans around a single desk without turning your workspace into a live concert of ergonomic compromises, you know there are two kinds of office furniture reviews you want: the promise of space and the reality of the floor plan. The Oak Black 10 Person Workstation promises a lot of space with a shared surface that leans into collaboration while still offering personal islands. It is the kind of product that invites a crowd yet tries to keep the audio levels civilized, like a well moderated internet forum in real life. In this update we dig into what actually works, what not so much, and how it behaves when the team hits peak velocity and mid afternoon meme storms.
+If you have ever tried to herd ten busy humans around a single desk without turning your workspace into a live concert of ergonomic compromises, you know there are two kinds of office furniture reviews you want: the promise of space and the reality of the floor plan. The Oak Black 10 Person Workstation promises a lot of space with a shared surface that leans into collaboration while still offering personal islands. It is the kind of product that invites a crowd yet tries to keep the audio levels civilized, like a well moderated internet forum in real life. In this expanded update we dig into what actually works, what not so much, and how it behaves when the team hits peak velocity and mid afternoon meme storms.
 
 For a quick context check, you can also peek at our post on desk organization tools in {% post_url 2024-05-22-modern-office-chairs-review %} and the ergonomic setup tricks in {% post_url 2026-01-10-ergonomic-checklist %}. If you are curious about deeper cable management strategies, our external guide on desk wiring and power distribution might help you plan the installation. External resources can be found here https://www.ergonomics.org/guides/desk-setup and for design minded readers, a look at modular office furniture basics is worth a read. Also see our own related deep dive on post_url 2025-03-17-ergonomic-desk-setup-tips.
 
@@ -141,6 +142,8 @@ In practice the value of the layout becomes apparent when you need to pivot quic
 ### Pivoting on the Fly: Real World Flexibility
 
 A system this size isn’t just about looks; it’s about turning chaos into choreography. On a Thursday afternoon, a last-minute design review can require shifting someone from seat 3 to seat 8, re-routing cables in a few minutes, and maintaining sightlines for a productive stand-up. The Oak Black bench handles this with surprising grace, provided you respect a basic order: plan the first topology, label the zones, and keep the cable pathways clear. The result is a floor plan that can pivot with the project without forcing a full reinstallation every sprint.
+
+If you want extra confidence for big shifts, you can integrate color-coded zones and a simple floor plan on the wall. It’s not a holy scripture, but it helps new teammates find their way through the maze of shared surfaces without turning the space into a scavenger hunt.
 
 ## Final Verdict
 
