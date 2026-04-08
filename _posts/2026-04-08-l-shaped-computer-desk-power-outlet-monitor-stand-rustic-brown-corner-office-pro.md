@@ -1,5 +1,5 @@
 ---
-title: L Shaped Computer Desk Power Outlet Monitor Stand Rustic Brown Corner Office Pro Review
+title: L Shaped Computer Desk Power Outlet Monitor Stand Rustic Brown Corner Office Pro Review (Expanded)
 date: 2026-04-08
 tags:
   - gear
@@ -16,7 +16,7 @@ In a world where desks come in two flavors — flimsy particle-board with a sing
 
 To the geeks who measure productivity in Milliamps and aesthetics in kilojoules of wood grain, this desk offers more than a surface. It offers a promise: more desk space, more organization, and a corner so well-appointed your inner gamer might stop leaving a trail of empty energy drinks across the room. So strap in, because we are about to tour a desk that tries to be both a workhorse and a Macintosh with a lumber jacket.
 
-> For the curious readers who like to compare notes, you can glide over to related setup tips in our ergonomics module: {% post_url 2024-10-ergonomics-guide-for-pc-workers %} and if you want to see a sibling of ours from the desk-organization family, check {% post_url 2023-12-01-desk-organization-tips %}. Also, keep an eye on the main page for more rambles about how to pretend you have your life together while you fight with a USB-C hub. 
+> For the curious readers who like to compare notes, you can glide over to related setup tips in our ergonomics module: {% post_url 2024-10-ergonomics-guide-for-pc-workers %} and if you want to see a sibling of ours from the desk-organization family, check {% post_url 2023-12-01-desk-organization-tips %}. Also, keep an eye on the main page for more rambles about how to pretend you have your life together while you fight with a USB-C hub.
 
 ![L Shaped Desk in Rustic Brown](assets/images/l-shaped-desk-rustic-brown-hero.jpg)
 
