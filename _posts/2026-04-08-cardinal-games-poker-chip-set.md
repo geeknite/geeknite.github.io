@@ -1,12 +1,12 @@
 ---
-title: "Cardinal Games Poker Chip Set Review: Does It Hold Up in Your Home Casino?"
+title: Cardinal Games Poker Chip Set Review: Does It Hold Up in Your Home Casino?
 date: 2026-04-08
 tags: [board-games, poker, accessories, geeknite, card-games, review]
 ---
 
 ## Introduction
 
-Let's talk poker chips. Not the existential ones that haunt your dreams after a late-night gaming binge, but the little discs that actually make your home casino feel real. Cardinal Games promises a poker chip set designed for home games, family nights, and the occasional clandestine currency exchange during holidays. In short: it’s the dumbest thing you can buy to feel like a pro while still losing to your cousin who only plays when he’s wearing sweatpants that have zero stretch. That said, if you want a chips-and-table vibe without the neon glare of a casino, this set might just be your best friend. And possibly your most judgmental one.
+Let’s talk poker chips. Not the existential ones that haunt your dreams after a late-night gaming binge, but the little discs that actually make your home casino feel real. Cardinal Games promises a poker chip set designed for home games, family nights, and the occasional clandestine currency exchange during holidays. In short: it’s the dumbest thing you can buy to feel like a pro while still losing to your cousin who only plays when he’s wearing sweatpants that have zero stretch. That said, if you want a chips-and-table vibe without the neon glare of a casino, this set might just be your best friend. And possibly your most judgmental one.
 
 Unboxing at Geeknite means you’re hoping for “the good stuff” without the extra fees you didn’t know you paid. The box promises “casino-grade feel, home-practical price.” Translation: you’ll look the part, but your stack might topple when your dog leaps onto the table. We’re going to test that theory with a credible eye for both gaming potential and the absurd.
 
