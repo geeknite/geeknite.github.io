@@ -1,5 +1,5 @@
 ---
-ttitle: The Mind: Party Edition — Expanded Geeknite Review
+title: The Mind: Party Edition — Expanded Geeknite Review
 date: 2026-04-08
 tags:
   - board-games
@@ -113,6 +113,9 @@ If you’re a geek who cherishes both brain-bending moments and ridiculous group
 [possible-house-rule tip] If you’re introducing the game to a new group, prep a small “soft landing” prompt list that includes lighter actions in the first few rounds. This eases players in, builds confidence, and keeps the energy high without momentarily turning the room into a silent, terrified audience.
 
 For a compact primer on how to get the most out of party-focused social games, see our earlier overview, which includes quick-start tips and pacing ideas. {% post_url 2025-06-14-party-games-quick-start %}
+
+### External notes for curious readers
+For a quick primer on cooperative games and the broader mechanics behind mind-reading style play, you can check out external resources such as https://en.wikipedia.org/wiki/Cooperative_game and https://en.wikipedia.org/wiki/The_Mind_(game).
 
 ## Final call to action
 If you’re ready to experience a night that might involve a chorus of laughter, a few improv bits, and the glorious chaos of shared mind-reading misfires, The Mind: Party Edition is a solid bet for your next game night. It’s light, it’s loud in a good way, and it invites you to lean into the ridiculousness that makes group gaming so memorable. Ready for the party? Check the link below and bring the squad together.
