@@ -1,5 +1,5 @@
 ---
-title: Bicycle Poker 808 Sealed 2 VTG Packs Rider Back Playing Cards - Blue and Red Decks
+title: Bicycle Poker 808 Sealed 2 VTG Packs Rider Back Playing Cards: Blue and Red
 date: 2026-04-08
 tags:
   - playing cards
@@ -8,6 +8,8 @@ tags:
   - vintage
   - reviews
   - poker
+  - magic
+  - card tricks
 ---
 
 ## Introduction
@@ -33,6 +35,8 @@ Two key components:
 
 The all-important Rider Back design is iconic: elegant symmetry, the classic swords-and-shields motif, and the back pattern that plays well with color when fans spread in unison. It’s a design that has aged gracefully, like a well-made cape that never quite goes out of style.
 
+If you’re curious about Rider Back history and how the 808 lineage threads into modern shuttle-bussing tournaments, this post will be a great side quest: [Rider Back History]({{ site.baseurl }}{{ post_url '2024-03-28-rider-back-history' }})
+
 ## Design and specs: what makes 808 Rider Back tick
 The Bicycle 808 deck is built on the familiar Rider Back template—a design that has endured because it’s visually balanced, highly readable, and forgiving in the hand. While exact production specs can vary slightly by year, several constants remain:
 
@@ -48,7 +52,7 @@ If you’re curious about Rider Back history and how the 808 lineage threads int
 Here’s where the rubber meets the table. The 808 Rider Back decks are designed to be reliable performers in the most practical sense, and that’s a big win for both poker nights and cardistry setups.
 
 - Shuffling: the stock provides enough stiffness to allow a clean riffle without collapsing into a messy avalanche of cards. The air-cushion finish helps with a crisp snap and reduces friction during faro shuffles. If you’re a perfectionist who tests shuffles for the satisfaction of listening to the perfect air as cards click into place, you’ll enjoy the tactile feedback here.
-- dealing: the faces are clean, numbers legible, pip distribution balanced, which makes dealing feel confident rather than fiddly. You aren’t fighting the cards to figure out the next card; you’re channeling your inner casino dealer and your inner card magician at the same time.
+- Dealing: the faces are clean, numbers legible, pip distribution balanced, which makes dealing feel confident rather than fiddly. You aren’t fighting the cards to figure out the next card; you’re channeling your inner casino dealer and your inner card magician at the same time.
 - Cardistry potential: yes, you can do color-coded fans and coordinations with two decks. The Rider Back’s smooth surface helps rise-and-flourish moves look crisp rather than sloppy. If you’re a budding card trickster or a video flourish enthusiast, this pair offers a workable canvas without breaking the bank.
 
 For folks who like to nerd out about stock and finish, this is a decent mid-range option—good enough for regular use, not so precious that you’ll fear a sweaty palm moment during a high-stakes game. If you want the premium feel, you’ll need to chase a higher price or a different brand; if you want a reliable, classic Rider Back experience with color variety, you’re in the right neighborhood.
@@ -100,9 +104,9 @@ As with any popular playing card release, there are fakes and rebrands. Here are
 - Read the seller notes about VTG grading carefully. If they mention wear, open-box, or questionable seals, proceed with caution.
 
 External resources for general context on Rider Back design and brand history can be found here:
-- [Bicycle Brand Page]({{ site.baseurl }}{{ post_url '2023-11-19-bicycle-brand-explained' }})
-- [Card Collecting Tips]({{ site.baseurl }}{{ post_url '2024-02-14-card-collecting-101' }})
-- [Cardistry Techniques 101]({{ site.baseurl }}{{ post_url '2025-03-21-cardistry-basics' }})
+- Bicycle Brand Page: https://www.bicyclecards.com/
+- Card Collecting Tips: {{ site.baseurl }}{{ post_url '2024-02-14-card-collecting-101' }}
+- Cardistry Techniques 101: {{ site.baseurl }}{{ post_url '2025-03-21-cardistry-basics' }}
 
 ## Final verdict: who should buy this two-pack?
 If you’re after a dependable, classic Rider Back experience with a dash of color variety, this two-pack is a solid choice. It’s not trying to reinvent the wheel; it’s re-packaging a familiar, well-loved tool in a way that makes practical sense for modern game nights and light-to-moderate cardistry. The blue deck provides a calm, reliable vibe for serious poker sessions or slow-motion shuffles, while the red deck injects a bit of drama for performances, demonstrations, or a Friday night sprint where you want to raise the energy without changing the core experience.
@@ -126,7 +130,7 @@ Two decks in one tidy package is a smart way to cover your bases: you can deploy
 
 If you want to keep the vibe classic, comfortable, and unmistakably Bicycle, this is a solid pick. If you want something more daring in feel or texture, there are higher-end finishes—but they’ll cost more and won’t feel quite as approachable for a casual game night.
 
-## Quick links to related reads
+### Quick links to related reads
 - Cardistry tips and warm-ups for beginners: [Cardistry 101]({{ site.baseurl }}{{ post_url '2025-01-12-cardistry-101' }})
 - A quick refresher on Rider Back pattern history: [Rider Back Deep Dive]({{ site.baseurl }}{{ post_url '2024-03-28-rider-back-history' }})
 - Poker night setup ideas and games to try: [Poker Night Essentials]({{ site.baseurl }}{{ post_url '2023-11-05-poker-night-essentials' }})
@@ -136,4 +140,4 @@ In the grand tradition of board-game aficionados and late-night stream monsters,
 
 And if you’re feeling extra snazzy about this purchase, you can snag a pair for yourself and your favorite card enthusiast. Two decks, two colors, one vibe: timeless Bicycle quality—reliable, recognizable, and ready for whatever your table throws at it.
 
-**[Buy now on Amazon (affiliate)](https://www.amazon.com/dp/B07ZK2XYZP?tag=geeknite-20)**
+**Buy now on Amazon (affiliate)**: https://www.amazon.com/dp/B07ZK2XYZP?tag=geeknite-20
