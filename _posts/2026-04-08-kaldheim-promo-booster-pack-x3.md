@@ -1,7 +1,7 @@
 ---
-title: "Kaldheim Promo Booster Pack x3 Review: Sealed NM Magic Gathering"
+title: "Kaldheim Promo Booster Pack x3 Review: A Frosty Triptych of Cardboard Chaos"
 date: 2026-04-08 12:00:00 -0000
-tags: [mtg, kaldheim, promo, booster, sealed, review, geeknite]
+tags: [mtg, kaldheim, promo, booster, sealed, review, geeknite, unboxing, collection]
 ---
 
 Greetings, planeswalkers, geeks, and people who think foil dice are a legit investment. Today we tackle the triple threat known as the Kaldheim Promo Booster Pack x3. Three sealed packs, a potential promo bonanza, and enough cardboard to build a small hut for your cat. The mood: Viking-inspired chaos meets pre-release party nerves. The question on everyone's lips: is this triple-pack a steal of a deal or a millstone around your mana pool?
@@ -38,6 +38,8 @@ Three Kaldeheim booster packs, which are the primary draw for most players. Kald
 
 - Expected distribution: Commons, Uncommons, and Rares/Mythics with the typical distribution you’d see in any Kaldeheim draft environment.
 - Theme: Creatures with frost effects; dwarves, elves, and Norse mythos; snow mana and flavor text that mentions gusty winds and running axes.
+
+{% image kaldheim-promo-art.jpg alt="Kaldheim promo art with frost and runes" %}
 
 ### Promo item
 
