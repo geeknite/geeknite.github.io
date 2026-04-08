@@ -72,9 +72,13 @@ The art direction is bold without being overly busy. Each faction has its own vi
 
 Flavor text on cards is often witty, and sometimes cheeky, which suits Geeknite’s sense of humor. You’ll find lines that work well as one-liners during a casual table-talk moment, and others that are perfect for dramatic pauses when you’re on the brink of victory and your friends are about to throw a glare your way.
 
+### Accessibility and inclusivity notes
+
+For a product this premium, it would be a miss not to mention accessibility touches. The iconography uses clear shapes and color-coding that help color-blind players distinguish types of cards. The rulebook includes a quick-start guide with large-print options and a visual glossary that lets you learn by looking as much as by reading. In a hobby where “fun” can sometimes feel gated behind a thesaurus of acronyms, this edition does a decent job of keeping the door propped open for newcomers.
+
 ## Audience and player experience
 
-Who should buy this edition? The answer is: if you want premium components, gorgeous art, and a more forgiving rulebook, this is for you. If you’re a purist who liked the original’s simplicity and are nervous about a heavy upgrade, you’ll still find a lot to love, especially if you enjoy the tactile joy of premium cards and collectable packaging. If you’re a casual gamer who doesn’t want to invest too much, you might consider the standard 2nd Edition (non-Collector) as a more affordable entry point.
+Who should buy this edition? The answer is simple: if you want premium components, gorgeous art, and a more forgiving rulebook, this is for you. If you’re a purist who liked the original’s simplicity and are nervous about a heavy upgrade, you’ll still find a lot to love, especially if you enjoy the tactile joy of premium cards and collectable packaging. If you’re a casual gamer who doesn’t want to invest too much, you might consider the standard 2nd Edition (non-Collector) as a more affordable entry point.
 
 If you’re a parent or guardian shopping for a family-friendly game, the complexity is approachable, and the pacing works well for a mixed-age group. The Solo mode is a nice feature for solo gamers or households with sparing opportunities for group play. In short: this edition broadens the appeal without diluting the core experience.
 
@@ -85,6 +89,7 @@ If you’re a parent or guardian shopping for a family-friendly game, the comple
 - Use the environment to your advantage: some event cards alter the board state in ways that open up new synergy windows. Be mindful of timing; you’ll usually want to trigger those events when you have several adjacent effects ready to chain.
 
 ### Variations and house rules
+
 If you’re into custom rules, the Collector’s Edition is flexible. The insert includes a few optional rules to mix up the table: a drafting variant, a hardcore mode, or a quick-play mode for shorter sessions. The editing is straightforward, which makes it easy to adopt without a master’s degree in rulebooks. If you’re a hyper-competitive group, you can even adjust the pacing by tweaking event deck draws—just remember to keep it fun for everyone else and not just for you.
 
 ## Comparisons to the original edition
@@ -151,3 +156,4 @@ For more information about the genre and related titles, you can also explore:
 The Game Card Game - 2nd Edition Collector's Edition is a celebration of what happens when a designer and a publisher decide to lean into the love of their craft. It isn’t perfect, but the overall package sells the dream of high-quality play, shared laughs, and a table that looks like a miniature museum of card artistry. If you’re in the market for a serious upgrade for your card game nights, and you’re prepared to invest in a premium playing experience, this is the edition to pick up.
 
 **Buy now via our affiliate link: https://affiliates.geeknite.com/the-game-card-game-2nd-edition-collectors-edition?ref=geeknite**
+
