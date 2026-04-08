@@ -6,16 +6,19 @@ tags:
   - card-games
   - review
   - geeknite
+  - party-games
+  - expansions
+  - humor
 ---
 
 ## Introduction
-Welcome back to Geeknite, the only place where chaos at the table is considered a feature and not a bug. Exploding Kittens Original Edition is the party card game that catapulted from a Kickstarter dream into a beloved staple of game nights, family gatherings, and the occasional heated online debate about who designed the cutest and most diabolical kitten. The premise is gloriously simple: draw cards, dodge the exploding feline bomb, and deploy Defuse cards like a magician pulling a rabbit (or a laser pointer) out of a hat. It’s fast, it’s funny, and it’s unapologetically silly in a way that makes you question your life choices while laughing at your friends’ misfortunes.
+Welcome back to Geeknite, the only corner of the internet where chaos at the table is a feature, not a bug, and where the real boss is the person who keeps saying, “Just one more round.” Exploding Kittens Original Edition is the game that catapulted a silly Kickstarter into a staple of game nights, family gatherings, and the occasional heated debate about whether a kitten should sacrifice its own tail for the greater glory of a victory dance. The premise is gloriously simple: draw cards, dodge the exploding feline bomb, and deploy Defuse cards like a magician pulling a laser-pointer from a top hat—except the audience is your friends and the rabbit is a smug cartoon kitty with a tiny bomb strapped to its chest. It’s fast, it’s funny, and it’s unapologetically silly in a way that makes you question your life choices while laughing at your friends’ misfortunes.
 
-![Exploding Kittens Original Edition](/assets/images/exploding-kittens-original.jpg)
+![Exploding Kittens Original Edition]({{ '/assets/images/exploding-kittens-original.jpg' | relative_url }})
 
-If you want to see the official site, check https://www.explodingkittens.com. For the nerve-wrangling, gut-splittingly funny community jokes, you can also browse the board game nerds over at https://boardgamegeek.com/boardgame/215769/exploding-kittens-original-edition.
+If you want the official vibes, check the official site at https://www.explodingkittens.com. For the panic-inducing, gut-splitting humor of the community, browse the board game banter on BoardGameGeek at https://boardgamegeek.com/boardgame/215769/exploding-kittens-original-edition.
 
-In this expanded review, we’ll walk through components, gameplay, strategies, and the social dynamics that make Exploding Kittens either a party-saving miracle or a chaotic free-for-all. We’ll sprinkle in a few links to other Geeknite posts using post_url, because cross-pollination is how we pretend to be organized.
+In this expanded review, we’ll walk through components, gameplay, strategies, and the social dynamics that make Exploding Kittens either a party-saving miracle or a chaotic free-for-all. We’ll sprinkle in links to other Geeknite posts using post_url, because cross-pollination is how we pretend to be organized.
 
 For quick reads of our previous thoughts, see Board Game Night Ideas and Best Family Board Games for Cozy Sundays, both linked via post_url.
 
@@ -36,7 +39,7 @@ The look-and-feel is quintessentially Geeknite: high-energy visuals, a playful w
 Exploding Kittens isn’t about deeply nested strategy; it’s about social momentum, tense reveals, and the occasional overdramatic gasp as someone dodges a blast. Here’s the vibe, with extra color for the curious new reader.
 
 ### Quick Setup
-1. Shuffle the deck well. If you own a cat, now is the time to blame it for knocking your stack over—this is how you ruin a perfectly good shuffle. 
+1. Shuffle the deck well. If you own a cat, now is the time to blame it for knocking your stack over—this is how you ruin a perfectly good shuffle.
 2. Deal each player 4 cards. We’re going for a brisk, snappy start, not a slow crawl through compliance paperwork.
 3. Remove all Exploding Kitten cards from play, shuffle the remaining deck, and deal 1 Exploding Kitten to each player (or, more accurately, add enough Exploding Kittens to fit Playercount minus one).
 4. Place the remaining deck in the center. You’re ready to begin the chaotic journey.
@@ -49,7 +52,7 @@ On your turn, you draw a card from the deck, then you may play any number of act
 - Exploding Kitten: The dreaded “you are out” card. Not particularly fun when it’s in your hand, especially after you’ve watched someone else celebrate their “defuse” dance.
 - Attack, Skip, See the Future, Shuffle: These let you manipulate timing, peek into the future, or shuffle the deck so you’re not stuck with a bad draw.
 
-As the table goes longer, the real magic emerges: the social choreography. A well-timed Defuse can spark a chorus of “You owe me a latte after this,” while a mischievous See the Future reveals can turn the next moment into a strategic comedy show.
+Beyond the basics, the mid-game becomes a rhythmic dance of mischief: one player fakes a calm, another pretends to be studying the rules, and a third builds a tiny pantomime around their fate. The social choreography is where the game earns its keep: a well-timed Defuse can spark a chorus of “your latte is on me after this,” while a See the Future reveal can turn the next moment into a strategic comedy show.
 
 ## Humor, Theme, and Visual Design
 Exploding Kittens thrives on the juxtaposition of cute and catastrophic. Kittens, swords, bombs, and ridiculous contraptions collide with a humor level that rewards banter, roast battles, and dramatic groans. The art direction from Inman leans into whimsy while nudging you toward mischief, with occasional lines that land perfectly as you watch a player leap to a safe—or not-so-safe—defense.
@@ -103,7 +106,7 @@ New players can be eased in with a few simple ideas:
 - Keep the first few games short and light to avoid analysis paralysis.
 - Encourage players to experiment with different action cards, but don’t dump them all at once. Let curiosity drive the chaos.
 
-If you’re after a quick printable reference, consider a one-page cheat sheet with the major cards, the order of operations, and a reminder to shout “KITTEN!” when something dramatic happens.
+If you’re after a quick printable reference, consider a one-page cheat sheet with the major cards, the order of operations, and a reminder to shout KITTEN! when something dramatic happens.
 
 ## How Exploding Kittens Plays Today
 In today’s market, Exploding Kittens Original Edition remains a staple for casual gatherings and streaming nights. It has earned a reputation as a reliable, approachable party game that brings laughter without forcing your brain into submission. It’s a reliable option when you want something light, fast, and endlessly replayable in small to mid-sized groups. The nostalgia of childhood games meets the chaotic flair of modern memes, and that sweet spot is where Exploding Kittens earns its keep.
