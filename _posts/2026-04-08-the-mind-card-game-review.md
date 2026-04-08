@@ -15,11 +15,11 @@ If you thought your life was fully determined by the roll of a die and the luck 
 
 > For the uninitiated, The Mind is a cooperative card game for 2 to 4 players where players discards cards from 1 to 100, in ascending order, without verbal communication. There are no turns, no talking, and yet somehow your group will either succeed spectacularly or drift into a silent, giggling chaos that says more about your friend group than any party game ever could.
 
-## TL;DR: Is this the Mind you know and love in a box that has not, at least so far, delivered a crushing dose of existential dread? Yes. And no. Let’s unpack this sealed treasure.
+## TL;DR: Is this The Mind you know and love in a box that has not, at least so far, delivered a crushing dose of existential dread? Yes. And no. Let’s unpack this sealed treasure.
 
 ![The Mind cover]( {{ '/assets/images/the-mind-cover.jpg' | relative_url }} )
 
-## What comes in the box
+## What’s new in the sealed edition
 The Mind box is a deceptively simple thing: a stack of small number cards, a few red warning cards, a tiny color-coded rulebook, and a vibe that says you are about to attempt brain communication with your closest friends while pretending you are not. In this new sealed edition, Pandasaurus sticks to their minimalist aesthetic and somehow makes the entire product feel premium without turning the table into a showroom. The card stock is sturdy, the face design is clean, and the color palette avoids the garish trap that plagues too many party games.
 
 ### Contents overview
@@ -82,6 +82,7 @@ If you want to stretch The Mind into longer sessions, consider combining with a 
 If you have played The Mind before, you know there is a certain niche of co-op games that lean heavy on social nuance rather than puzzle-solving. Other games in the same vibe include The Crew, Magic Maze, and Outfoxed. The Mind differentiates itself by removing all explicit communication; the challenge becomes a test of who can stay calm long enough for the next card to reveal itself. The sealed Pandasaurus edition adds a little extra polish to the familiar formula, but at its core, The Mind remains the same quirky, brain-tickling gem you either love or love to hate in equal measure.
 
 For players who want a deeper dive into co-op design, you can check out our post on co-op design philosophies and how games like The Mind balance tension, luck, and collaborative storytelling. See also our primer on the essential mind games in the hobby, linked here: [The Mind primer]({% post_url the-mind-primer %}).
+- If you’re curious about the broader category of silent coordination games, check out [The Crew primer]({% post_url the-crew-primer %}).
 
 ## Where this fits in a Geeknite lineup
 The Mind is a staple of the Geeknite catalog for the reasons that matter most to our readers: it is accessible, quick to teach, and demands more social alignment than a heavy rulebook. It is the kind of game that scales with players in a way that encourages repeated plays without fatigue. It’s ideal for after-work sessions when you and your crew want to feel like you have just navigated a mind-mwarm of a mission briefing, minus the coffee or the oppressive boardroom vibe.
