@@ -8,6 +8,7 @@ tags:
   - gear
   - review
   - diy
+  - geeknite
 ---
 
 ## Introduction
@@ -15,7 +16,7 @@ If your floor is feeling lonely and every morning it whispers to you that you de
 
 In Geeknite fashion, we like our gadgets to be practical, a little cheeky, and capable of a quiet heroics under the coffee table. This rug checks all those boxes. It promises a customizable size, which is perfect for those of us who own entire living rooms that require a bespoke footprint rather than a one-size-fits-all loyalty card. If you’ve ever tried to fit a standard rug into a non-standard room and ended up with a center-stage rug that looks like a misplaced puzzle piece, you know the longing for exact fit. The custom size option is the plot twist that could make your floor plans sing rather than groan.
 
-But enough preamble. Let’s dive into the memory foam-level details and the non-slip, machine-washable realities that make this rug a worthy contender in the living room arena.
+But enough preamble. Let’s dive into the memory foam–level details and the non-slip, machine-washable realities that make this rug a worthy contender in the living room arena.
 
 > For the visual folks among us, here is a quick image to set the mood: 
 > ![Custom Size Anti-Slip Rug]({{ site.baseurl }}/assets/images/custom-size-anti-slip-rug.jpg)
@@ -24,7 +25,7 @@ But enough preamble. Let’s dive into the memory foam-level details and the non
 At its core, this rug is described as a cut pile, medium profile, anti-slip, brown rug designed for custom sizing. What does that actually mean in practice?
 
 ### What you get when you order
-- A tailored rug footprint that fits your space to the centimeter, not the guesswork of a standard 8 by 10 or 5 by 7. 
+- A tailored rug footprint that fits your space to the centimeter, not the guesswork of a standard 8 by 10 or 5 by 7.
 - A medium pile that balances the plush underfoot sensation with the practicality of daily wear and tear. It’s not so fluffy that you’re walking on a mini-cloud, but it’s not a flat-on-the-floor executive carpet either. Think Goldilocks of rugs: not too high, not too low, just right for your standing desk, coffee mug, and curious cat.
 - An anti-slip backing that keeps the rug anchored on smooth surfaces like hardwood and tile — perfect for rooms where the cat might think it’s a launching pad or a slippery spreadsheet of a morning where you’re late for a meeting.
 - A brown colorway that reads warm, neutral, and versatile — a chameleon in textile form that pairs well with wood tones, stone accents, and the occasional accent rug that refuses to cooperate.
@@ -39,10 +40,10 @@ At its core, this rug is described as a cut pile, medium profile, anti-slip, bro
 If you’re a design nerd who actually cares about stitches, fibers, and the way a rug’s silhouette interacts with a room, you’ll want to know how this thing holds up under the elbow grease of daily life.
 
 ### Material feel and construction
-The cut pile erases the harshness of a machine-loomed surface by adding length to individual fibers, producing a texture that reads as inviting without screaming care label. In our lab (aka my living room, while I pretended to be a responsible adult and not a person who writes product reviews between snack breaks), the rug felt pleasantly soft under bare feet and offered a satisfying resistance when walked upon in socks, which is my personal test for “cozy but not a slip trip.” The medium height ensures that vacuum lines do not become the rug’s new permanent branding on your carpet romance story. 
+The cut pile erases the harshness of a machine-loomed surface by adding length to individual fibers, producing a texture that reads as inviting without screaming care label. In our live-in lab (aka my apartment), the rug felt pleasantly soft under bare feet and offered a satisfying resistance when walked upon in socks, which is my personal test for “cozy but not a slip trip.” The medium height ensures that vacuum lines do not become the rug’s new permanent branding on your carpet romance story.
 
 ### Anti-slip performance
-The anti-slip backing is a highlight here. On smooth floors, the rug stayed put during normal foot traffic and even during a brief “scoot-along” test where I slid across the rug to reach a remote control without losing balance. It wasn’t a perfect magnet on glossy surfaces — no rug can claim infinite grip on the marble throne — but it performed admirably. If you have radiant floor heating, occasional heat cycles, or a strong willed pet with a desire to stage-prance, you’ll be grateful for the backing’s adherence. If you want to push it to absolute limits, consider pairing with a thin rug pad underneath; the combination can improve grip further and save you from the “where did my rug slip to now?” mystery.
+The anti-slip backing is a highlight here. On smooth floors, the rug stayed put during normal foot traffic and even during a brief “scoot-along” test where I slid across the rug to reach a remote control without losing balance. It wasn’t a perfect magnet on glossy surfaces — no rug can claim infinite grip on the marble throne — but it performed admirably. If you have radiant floor heating, occasional heat cycles, or a strong-willed pet with a desire to stage-prance, you’ll be grateful for the backing. If you want to push it to absolute limits, consider pairing with a thin rug pad underneath; the combination can improve grip further and save you from the “where did my rug slip to now?” mystery.
 
 ### Aesthetic notes
 Brown, in the rug world, is the adult color. It doesn’t pretend to be flashy; it tells your furniture, “I am the quiet anchor.” With the medium pile, it catches light with a soft sheen rather than a glare, and the cut pile adds just enough texture to show that you actually cared about the fiber direction while sewing. The result is versatile enough to sit under a coffee table, a console, or a stylish chair that refuses to align with the rest of the room’s vibe. If you’re going for a modern rustic look, this rug slides in with the confidence of a well-placed cog in a well-designed machine.
