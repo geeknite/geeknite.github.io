@@ -1,5 +1,5 @@
 ---
-title: UNO 50th Anniversary: A Colorful Card Game Through Time
+ttitle: UNO 50th Anniversary: A Colorful Card Game Through Time
 date: 2026-04-08 12:00:00 -0000
 tags:
   - games
@@ -7,6 +7,7 @@ tags:
   - UNO
   - anniversaries
   - retro
+  - humor
 ---
 
 ## Introduction
