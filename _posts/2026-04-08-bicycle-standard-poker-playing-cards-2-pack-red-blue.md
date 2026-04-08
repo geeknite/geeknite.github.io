@@ -1,12 +1,12 @@
 ---
-title: "Bicycle Standard Poker Playing Cards 2 Pack Red & Blue Review"
+title: Bicycle Standard Poker Playing Cards 2 Pack Red & Blue Review
 date: 2026-04-08
-tags: [card-games, poker, Bicycle, playing-cards, product-review, geeknite]
+tags: [card-games, poker, Bicycle, playing-cards, product-review, geeknite, deck-review]
 ---
 
-Welcome, fellow geeks, gamblers, and folks who shuffle on coffee-stained desks. This is not just another unboxing video in text form; it's a full-on field test of the Bicycle Standard Poker Playing Cards 2 Pack Red & Blue. If your poker nights have felt a little too solemn, perhaps it’s not your friends' bluffs but your deck's dull back design. Enter the dynamic duo: one red deck and one blue deck, both bearing the iconic Bicycle back, both built for speed and flair. We’ll cover feel, durability, design, and, yes, whether these babies bring actual Ws to your table.
-
 ![Bicycle 2 Pack Red & Blue Cards]({{ "/assets/images/bicycle-2pack-red-blue.jpg" | relative_url }})
+
+Welcome, fellow geeks, gamblers, and folks who shuffle on coffee-stained desks. This is not just another unboxing video in text form; it is a field test, a mini expedition into the land of Bicycle Standard Poker Playing Cards 2 Pack Red & Blue. If your poker nights have felt a little too solemn, perhaps it’s not your friends' bluffs but your deck's dull back design. Enter the dynamic duo: one red deck and one blue deck, both bearing the iconic Bicycle back, both built for speed, flair, and the occasional flourish that would make a magician jealous of your ability to pretend you know what you’re doing. We’ll cover feel, durability, design, and, yes, whether these babies bring actual Ws to your table.
 
 ## Overview
 
