@@ -1,5 +1,5 @@
 ---
-title: Sushi Go Party Deluxe Review (Expanded Edition)
+title: Sushi Go Party Deluxe Review Expanded Edition
 date: 2026-04-08
 tags:
   - board games
@@ -13,9 +13,9 @@ tags:
 
 ![Sushi Go Party Deluxe box art](assets/images/sushi-go-party-deluxe.jpg)
 
-In Geeknite fashion, Sushi Go Party Deluxe stands at the podium with a glittery sash and a drumroll, announcing that dinner took a wild turn into a strategic sprint. This is not just more cards; it is a whole buffet of possibilities, a carnival of scoring, and yes, the occasional neighbor who sneaks a sneaky card you didn’t see coming. Sushi Go Party Deluxe is the big cousin to Sushi Go, but the party version that actually remembers your name and your bar napkin doodles. If the classic Sushi Go is a quiet sushi bar where you pretend to be cool while you chase a set, Sushi Go Party Deluxe is a karaoke night at a buffet—menus as the headliners, and scoring rules… well, they’re deliciously ridiculous.
+In Geeknite fashion, Sushi Go Party Deluxe crashes the dinner party with a glittery sash, a drumroll, and enough trombone noise to make even the wasabi blush. This isn’t merely more cards; it is a full buffet of possibilities, a carnival of scoring, and yes, the occasional neighbor who sneaks a sneaky card you didn’t see coming. Sushi Go Party Deluxe is the big cousin to Sushi Go, but the one who actually remembers your name and your napkin doodles. If the classic Sushi Go feels like a quiet sushi bar where you pretend to be cool while chasing a set, Sushi Go Party Deluxe is a karaoke night at a buffet—menus as headliners, and scoring rules… well, they’re deliciously ridiculous.
 
-In this expanded look, we dive into what you actually get in the deluxe edition, how the menus bend the game across player counts, practical strategies that survive the chaos, and a few nerdy tangents to make you the most popular person at your next game night. For the curious, there are external links to the official product page and a community page for deeper dives; and yes, you’ll find post links to related essays in the Geeknite archive. For a quick primer, see {% post_url 2026-03-01-sushi-go-intro %}.
+In this expanded look, we dive into what you actually get in the deluxe edition, how the menus bend the game across player counts, practical strategies that survive the chaos, and a few nerdy tangents to help you become the most popular person at your next game night. For the curious, there are external links to the official product page and a community page for deeper dives; and yes, you’ll find post links to related essays in the Geeknite archive. For a quick primer, see {% post_url 2026-03-01-sushi-go-intro %}.
 
 External links: [Official page](https://www.gamewright.com/product/sushi-go-party-deluxe) · [BGG listing](https://boardgamegeek.com/boardgame/33374/sushi-go-party)
 
