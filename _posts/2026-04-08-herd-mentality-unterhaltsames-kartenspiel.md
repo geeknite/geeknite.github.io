@@ -14,13 +14,19 @@ Herd Mentality ist ein Party-Spiel, das sich am Prinzip Gruppendenken orientiert
 
 Für Geeknite bedeutet das: Ein Spiel, das stark vom Gruppenklima abhängt, aber auch eine Menge Spielraum für Inside-Jokes bietet. Es funktioniert am besten mit 4 bis 8 Spielern, wobei mehr Teilnehmer oft zu mehr chaotischen, aber auch überraschend treffsicheren Antworten führen. Die Spielzeit pro Runde ist angenehm kurz, was bedeutet, dass du nach dem ersten Durchlauf nicht das Gefühl hast, in einer Endlosschleife von Tequila-Entscheidungen gefangen zu sein. Stattdessen bekommst du schnelle, lustige Momentaufnahmen, die sich hervorragend als Snack für die nächsten Spielrunden eignen.
 
+Wenn du auf Bilder stehst, hier ist ein visueller Eindruck der Packung und des Layouts:
+
+![Herd Mentality Box]({{ '/assets/images/herd-mentality-box.jpg' | relative_url }})
+
+Für Fans visueller Assets empfehlen wir außerdem einen Blick auf die Spielanleitung online, wo oft nützliche Tipps von der Community gesammelt sind. Wir verlinken am Ende des Artikels auf passende Ressourcen.
+
 ## Inhalt und Verpackung
 
 Die Box von Herd Mentality ist kompakt, handlich und erstaunlich unaufgeregt stylish. Die Illustrationen sind farbenfroh, mit einem leichten Cartoon-Touch, der die Stimmung der Runde sofort erfasst. Die Komponenten sind simpel: ein Kartenstapel mit Prompt-Karten, eine Anzahl von Antwortkarten oder Antworten, Stimmkarten oder Pfeile (je nach Version) und ein paar kleine Hilfskärtchen für Varianten. Solltest du Erweiterungen dabei haben, findest du dort zusätzliche Prompt-Karten mit noch abstruseren Aufgaben, die das Nervenkostüm der Gruppe gern mal auf die Probe stellen.
 
 Wie üblich bei Geeknite legen wir Wert auf die Praxis: Die Verpackung hält die Karten gut geschützt, der Spielaufbau ist zügig, und die Anleitung ist klar genug, um nicht nach der dritten Runde nach dem Sinn des Universums zu fragen. Es gibt eine gewisse Subtilität in den Kartennamen und Prompts, die beim ersten Mal etwas gewöhnungsbedürftig wirken könnten, sich aber mit jeder Runde vertiefen. Ein Aspekt, der mir besonders gefällt, ist die Mischung aus einfachen, direkten Prompts und solchen, die eine kreative, unkonventionelle Herangehensweise erfordern. Das sorgt dafür, dass die Qualität der Antworten nicht immer nur darauf abzielt, die offensichtliche Mehrheitsmeinung zu treffen, sondern auch das Publikum zum Lachen oder zumindest zum Kopfschütteln bringt.
 
-Wenn du auf Bilder stehst, hier ist ein visueller Eindruck der Packung und des Layouts:
+Wenn du Bilder magst, hier ist noch ein visueller Eindruck der Box und des Layouts:
 
 ![Herd Mentality Box]({{ '/assets/images/herd-mentality-box.jpg' | relative_url }})
 
