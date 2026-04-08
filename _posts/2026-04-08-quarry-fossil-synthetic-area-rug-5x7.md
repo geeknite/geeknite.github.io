@@ -1,5 +1,5 @@
 ---
-ttitle: Quarry Fossil Synthetic Area Rug - 5x7
+title: Quarry Fossil Synthetic Area Rug - 5x7
 date: 2026-04-08
 tags:
   - rug-review
@@ -130,6 +130,10 @@ If you like the fossil look but want something a bit more colorful or with extra
 
 We compared a few popular options and found that the Quarry Fossil rug hits a sweet spot of texture and practicality. It is less flashy than some bold patterned options but still brings character into the room without shouting for attention.
 
+### Related reads
+- Post: Quarry Bench Rug — a lighter companion piece with similar vibe but a different scale. {% post_url 2025-07-03-quarry-bench-review %}
+- Post: Modern rug materials explained — for the curious, nerdy, and cautious shopper. {% post_url 2024-11-18-modern-rug-materials %}
+
 ## Where to buy and deals
 
 The official product page linked above is a good starting point. You can also check major retailers for price matching or seasonal sales. Always compare the shipping costs and return policies when you can. If you are the kind of shopper who enjoys a good deal, keep an eye on holiday promotions or clearance events, as rugs tend to pop up with meaningful discounts during these windows.
@@ -139,13 +143,15 @@ The official product page linked above is a good starting point. You can also ch
 - Confirm the backing type and warranty if you’re placing it in a high-traffic area.
 - Check reviews for color consistency across batches; manufacturing slides can lead to subtle shade shifts between lots.
 
-## FAQs
+## FAQS
 
 - Is this rug hypoallergenic?
 - How resilient is the pattern to fading?
 - What is the backing material?
 - Can I wash it in a washing machine?
 - How does it perform on radiant heat floors?
+- Does it shed or pill after extended use?
+- How do I remove pet odors without ruining the fossil texture?
 
 If you have more questions, see the product page or the related posts below.
 
