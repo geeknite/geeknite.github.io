@@ -1,20 +1,22 @@
 ---
-title: Sushi Go! Deluxe Edition — A Deluxe Dive into a Tiny Card World
+title: Sushi Go! Deluxe Edition — A Deluxe Dive into a Tiny Card World (Expanded)
 date: 2026-04-08
 tags:
   - board games
   - reviews
-  - sushi
-  - party
+  - Sushi Go!
+  - deluxe edition
   - geeknite
+  - party games
+  - family games
 ---
 
 ## Introduction
-If you have ever looked at a conveyor belt of sushi and thought, I could totally convert this into a tabletop experience, you might be ready for Sushi Go! Deluxe Edition. This is the kind of game that makes you feel smug for drafting clever combos while quietly judging everyone who grabs the wrong maki roll and ends up with a sad pile of Prawn Praline Nigiri that no one asked for. In Geeknite fashion, we approach this from both a critical and comedic angle: can a tiny card drafting game with cute food icons actually deliver the kind of replayability and tactical depth that keeps a group of friends coming back for more, or is it just a tasty-looking paper flashlight pretending to be a strategic workout?
+If you have ever watched a conveyor belt of sushi and thought, I could totally convert this into a tabletop experience, you might be ready for Sushi Go! Deluxe Edition. This is the kind of game that makes you feel smug for drafting clever combos while quietly judging everyone who grabs the wrong maki roll and ends up with a sad pile of Prawn Praline Nigiri that no one asked for. In Geeknite fashion, we approach this from both a critical and comedic angle: can a tiny card drafting game with cute food icons actually deliver the kind of replayability and tactical depth that keeps a group of friends coming back for more, or is it just a tasty-looking paper flashlight pretending to be a strategic workout?
 
 For the uninitiated, Sushi Go! is a speed-drafting card game where players pass cards around, trying to assemble the best sets of sushi to score points. The Deluxe Edition adds shinier components, improved card stock, and some quality-of-life upgrades that, frankly, make this a no-brainer for anyone who already loves the base game and wants something a smidge more indulgent before they graduate to full-blown game nights with the budget of a small festival. In this review, we’ll explore what’s inside the box, how the deluxe improvements affect gameplay, and whether the Deluxe Edition justifies its premium price tag. Spoiler: there will be puns. There will be rice. And yes, there will be a few tiny battles over which player’s chopsticks deserve the last piece of tamago.
 
-![Sushi Go! Deluxe Edition](assets/images/sushi-go-deluxe.jpg)
+![Sushi Go! Deluxe Edition]({{ '/assets/images/sushi-go-deluxe.jpg' | relative_url }})
 
 If you want a quick bite-sized verdict before we dive in: if you adore the base Sushi Go! and you like premium components, the Deluxe Edition is worth it for the tactile experience and the extra flourish. If you’re new to the concept, start with the classic version to learn the ropes and then upgrade when you’re ready for a more polished, party-night-ready version. Now let’s roll up our sleeves and slice through the nigiri of this deluxe edition.
 
@@ -65,7 +67,7 @@ The Deluxe Edition’s hallmark is polish. If you’ve ever picked up a game and
 
 The food icons themselves are charming and legible, with enough contrast to be readable even in a dim game room or a questionable coffee shop. The art direction preserves the whimsy of a sushi train without becoming saccharine. There are little touches—like a glossy finish on the nigiri that makes it look fresh from the kitchen—that give a small but real sense of luxury without tipping into pretentiousness.
 
-From a maintenance perspective, Deluxe components matter more for family or casual play groups where cards shuffle quickly and you’ll want something that holds up to a few spoonsful of spilled beverages. The insert is a nice to have rather than a necessity, but it does keep the setup tidy and the gameplay flow smooth. And the box size? It’s travel-friendly, which matters if your game nights happen in a car, a park, or a friend’s living room that doubles as a library for everyone’s snacks.
+From a maintenance perspective, Deluxe components matter more for family or casual play groups where cards shuffle quickly and you’ll want something that holds up to a few spills. The insert is a nice to have rather than a necessity, but it does keep the setup tidy and the gameplay flow smooth. And the box size? It’s travel-friendly, which matters if your game nights happen in a car, a park, or a friend’s living room that doubles as a library for everyone’s snacks.
 
 ### Artwork and Theme: Accessible and Appealing
 Deluxe Edition makes the sushi aesthetic pop without becoming overwhelming. The visual design is friendly to players of all ages and still works as a party game centerpiece. If you like your games with personality rather than sterile minimalism, the Deluxe Edition hits the sweet spot. It’s stylish enough to feel special when you pull it out for a party, but not so fancy that it becomes a museum piece you’re afraid to touch.
