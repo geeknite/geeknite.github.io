@@ -1,11 +1,10 @@
 ---
-title: Sushi Go! Party! Card Game Review
+title: Sushi Go! Party! Card Game Review — Expanded
 date: 2026-04-08
-tags: [board-game, card-game, sushi, party-game, review]
+tags: [board-game, card-game, sushi, party-game, review, drafting, family-friendly]
 ---
 
 ## Introduction
-
 If you thought a compact drafting game with adorable food items could not possibly fill a table with laughter, shouts of victory, and maybe a minor existential crisis over choosing the right maki, you were wrong. Sushi Go! Party! Card Game — yes, the full name is a mouthful even for a foodie with a passport — is the party edition that turns a handful of simple cards into a festival of flavor, strategy, and competitive cuteness. It sits in that sweet spot between casual party games and a genuine, thinky card game that still finishes within a sitcom-length timeframe. Think of it as the sushi conveyor belt of your gaming night: items zip by, some get picked, some get snubbed, and everyone pretends they just had a master plan when they realized they took the wrong nori roll.
 
 For long-time readers of Geeknite, you know we love games that look like snacks and play like brain-teasers with a dash of Bubbly Fun. Sushi Go! Party! delivers on both fronts, with a menu of cards that can be customized to taste, up to eight players, and enough variety to make every session feel fresh. If you want a quick, breezy game that still scratches the strategic itch, this is your plate. If you prefer heavy crunchers or games that require a weekly calendar to plan the scoring, you might want to pass the soy sauce and go for something more hulking. Either way, you will have opinions.
@@ -89,6 +88,8 @@ A core feature that sets Sushi Go! Party! apart from the base Sushi Go! is the a
 - Risk management: Some menus reward you for riskier plays, like collecting high-risk cards that only score if you hit a complex condition. If your group loves adrenaline with their snacks, this is where the excitement lives.
 
 The process of building a menu is part of the game’s charm. It invites players to discuss strategy, argue over how many points a card might be worth in different contexts, and test out bold, new combos that your group has not seen before. It’s a social puzzle you can tune to your group’s mood, from light and silly to surprisingly serious.
+
+> For nerds who care about game lineage, Sushi Go! Party! sits atop a lineage of micro-game design that emphasizes drafting, set collection, and short cruelty-free decisions. If you want a deeper dive into where it sits in the family tree of sushi-themed games, check out our earlier write-up on the base Sushi Go! review in our archive: {% post_url 2026-01-15-sushi-go-review %}.
 
 ## Strategy and Tactics
 
