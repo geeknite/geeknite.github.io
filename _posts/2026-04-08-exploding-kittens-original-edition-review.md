@@ -10,6 +10,8 @@ tags:
   - party-games
   - memes
   - humor
+  - chaos
+  - tabletop
 ---
 
 ![Exploding Kittens Original Edition]( /assets/images/exploding-kittens-original-edition.jpg )
@@ -39,7 +41,7 @@ Sealed means no one has looked at these cards with suspicious hunger before you.
 Exploding Kittens is built around a simple turn structure. On your turn you can play one or more action cards, or draw a card from the deck. The goal is to avoid drawing the exploding kitten, which ends your run unless you have a defuse card. Defuse cards are a lifeline that can be used to avert disaster, a little like a spare life in a video game but with more cuteness and chaos.
 
 ### The Turn Sequence
-- The player can play any number of non draw cards that are in their hand, which typically includes peeks, shuffles, or force actions on opponents.
+- The player can play any number of non draw cards that are in their hand, which typically includes peeks, shuffles, or force actions on opponents. 
 - After playing cards, the active player draws a card from the deck. If the drawn card is an exploding kitten, the player can only survive if they have a defuse card. If not, they are out of the game.
 - The round continues around the table until only one player remains. In a party game sense, that last person is the winner who will take the glory and possibly the best bragging rights for the weekend.
 
