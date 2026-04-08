@@ -10,11 +10,12 @@ tags:
   - geeknite
   - expansion
   - explod-kittens
+  - party-pack
 ---
 
-![Exploding Kittens Party Pack on shelf]({{ '/images/exploding-kittens-party-pack.jpg' | relative_url }})
+![]( {{ '/images/exploding-kittens-party-pack.jpg' | relative_url }} )
 
-![Factory sealed Exploding Kittens Party Pack]({{ '/images/exploding-kittens-party-pack-sealed.jpg' | relative_url }})
+![]( {{ '/images/exploding-kittens-party-pack-sealed.jpg' | relative_url }} )
 
 If you thought your family gatherings were safe from chaos, think again. The Exploding Kittens Party Pack has crash-landed into the living room with a swagger worthy of a feline overlord and enough wow factor to turn a Tuesday night into a full-blown glitter-and-confetti-bomb of laughter. This isn’t just a bigger version of a card game; it is a social catalyst, a risk assessment exercise for your group’s willingness to laugh loudly at well-timed misplays, and a surprisingly efficient way to decide who will fetch the snacks when the group is two cards away from catastrophe. In the Geeknite universe, this box is basically a compact party universe: a little bit of art, a dash of strategy, a pinch of chaos, and a whole lot of cat-shaped chaos control.
 
