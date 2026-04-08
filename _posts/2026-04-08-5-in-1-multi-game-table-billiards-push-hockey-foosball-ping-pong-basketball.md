@@ -1,7 +1,7 @@
 ---
 title: "5-in-1 Multi-Game Table Review: Billiards, Push Hockey, Foosball, Ping Pong & Basketball"
 date: 2026-04-08
-tags: ["review", "gaming", "family-friendly", "multi-game-table", "geeknite"]
+tags: ["review", "gaming", "family-friendly", "multi-game-table", "geeknite", "space-saving", "home-arcade"]
 ---
 
 # 5-in-1 Multi-Game Table Review: Billiards, Push Hockey, Foosball, Ping Pong & Basketball
@@ -10,7 +10,7 @@ If you’ve ever wished your living room could multi-task as a mini arcade, a sp
 
 In Geeknite fashion, we subjected this beast to a rigorous, totally scientific battery of tests: stability when the kids peer-pressure their way into a goat-llama crosswalk of chaos, transition speed between games, and how long it takes for a grown adult to admit defeat at ping pong because a tiny ball has an existential crisis and disappears behind the sofa for six weeks. Spoiler: the results were entertaining, a little chaotic, and possibly life-affirming for people who enjoy competitive chaos.
 
-![5-in-1 Table in Living Room](./assets/images/5in1-table.jpg)
+![5-in-1 Table in Living Room]({{ '/assets/images/5in1-table.jpg' | relative_url }})
 
 For those who want to skip straight to the verdict, yes, it’s a lot of fun and surprisingly practical for family game night. For the rest of you, read on. We’re going to break down everything: build quality, setup, each game’s quirks, how it scales with players, and whether the 5-in-1 is worth your space and your sanity. And yes, we’ll drop in some nerdy comparisons to other multi-game tables so you can tell your friends you did “the homework.”
 
@@ -74,7 +74,7 @@ The basketball feature is essentially a tiny arcade-style shooter. It’s a one-
 
 If you’re investing in a multi-game table, you’re buying in for the long haul. The unit we tested held up to a few weeks of regular use, with a few signs that it isn’t meant to endure a stadium-level crowd. However, for a family that rotates games and keeps the storage area relatively clutter-free, it delivers solid value. The furniture-grade look means it won’t look out of place in a living room, and the assembly time is reasonable enough that you won’t dread pulling it out of the closet every time you want to entertain.
 
-One thing to watch out for is the wear on the playing surfaces. The billiards bed and the foosball players (even the plastic ones) will show scuffs over time if you’re playing with intense, aggressive style. Cleaning is straightforward: a gentle wipe and a quick check to ensure the bed is still flat. The hinges and storage compartments should be handled with care; avoid tipping or violent folding, because those screws aren’t made for heavyweight abuse.
+One caveat: the surfaces will show wear with serious, heavy-handed play. Billiards cloth can wear; foosball players may scuff; the plastic components can yellow a bit if exposed to sunlight over years. Cleaning is simple: a soft cloth, mild cleaner, quick check for loose screws, and you’re good to go. If you’re a family that treats furniture like a living, evolving piece of strangeness, you’ll be fine. If you’re running a rented space or a cafe with nonstop traffic, this table is probably not your MVP.
 
 Value-wise, you’re paying for versatility and space-saving design rather than premium components. If you compare it to buying five separate tables, you’ll obviously save space and some money, but you’ll also accept a handful of compromises. For a family with kids who want a variety of options and a middle-ground surface that can be used by players of all ages, it’s a compelling purchase.
 
@@ -128,4 +128,4 @@ For more nerdy, space-saving gaming furniture ideas, swing by our post on compac
 
 If you’re in the market for a versatile, family-friendly backdrop for game nights, this 5-in-1 table is worth a long look. It won’t replace a premium billiards table or a stand-alone foos table, but it offers a compelling blend of play options, space efficiency, and the kind of chaotic joy that only a room full of people pretending to be good at five different games can bring.
 
-**Ready to roll the dice on family fun? Check the latest price and buy options here: https://affiliate.example.com/5in1-table.**
+**Ready to roll the dice on family fun? Check the latest price and buy options here: https://affiliate.example.com/5in1-table**
