@@ -1,5 +1,5 @@
 ---
-title: 'Mattel Phase 10 Card Game: A Rummy-Style Family Classic Expanded Review (Age 7+)'
+title: "Mattel Phase 10 Card Game: A Rummy-Style Family Classic Expanded Review (Age 7+)"
 date: 2026-04-08 12:00:00 -0000
 tags:
   - board-games
@@ -10,11 +10,13 @@ tags:
   - Kohl's
   - strategy
   - gift-guide
+  - phase-10
+  - tabletop
 ---
 
 ![Phase 10 box image]({{ site.baseurl }}/assets/phase10-box.jpg)
 
-If you have ever stared at a deck of cards and wondered if speed dating could happen between your poker face and a set of running sequences, welcome to Phase 10. This expanded review isn’t just about a card game; it is a mini epic about memory, planning, and the art of not panicking when the discard pile suddenly becomes a tactical battlefield. Phase 10 is a rummy-style game by design, but it wears its modern family-friendly badge with a wink and a shuffle. The result is a surprisingly clever blend of memory, strategy, and chaos management that somehow feels fair even when your luck tank is at zero percent.
+If you have ever stared at a deck of cards and wondered if speed dating could happen between your poker face and a set of running sequences, welcome to Phase 10. This is not just a card game; it is a tiny operating system for your living room, a microcosm of memory, planning, and the art of not panicking when the discard pile becomes a tactical battlefield. Phase 10 is a rummy-style game by design, but it wears its modern family-friendly badge with a wink and a shuffle. The result is a surprisingly clever blend of memory, strategy, and chaos management that somehow feels fair even when your luck tank is at zero percent.
 
 This particular item often shows up as a gift option at Kohl's and other retailers, marketed as a family-friendly, age-appropriate card game for 2 to 6 players. The 7+ age rating means younger players can join the fray, while older siblings or adults aren’t forced to retire to the couch after the first round. In Geeknite style, Phase 10 is not merely a card game; it is a tiny operating system for a lively game night: a little program that tests memory, planning, and the willingness to discard a card you swore you’d regret later.
 
