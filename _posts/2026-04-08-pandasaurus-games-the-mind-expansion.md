@@ -1,5 +1,5 @@
 ---
-title: The Mind Expansion: Telepathic Chaos in a Tiny Box
+title: The Mind Expansion: Telepathic Chaos in a Tiny Box (Updated Edition)
 date: 2026-04-08
 tags:
   - board-games
@@ -7,9 +7,10 @@ tags:
   - tabletop
   - mind-expansion
   - pandasaurus
+  - co-op
 ---
 
-![The Mind Expansion art](assets/images/the-mind-expansion.jpg)
+{% include image.html src=/assets/images/the-mind-expansion.jpg alt=The Mind Expansion art %}
 
 Wake up, fellow table-top philosophers: Pandasaurus Games has handed us another tiny package that challenges your ability to think without speaking. The Mind Expansion is the kind of thing that makes you realize your friends aren’t actually wise; they’re just really good at pretending to be telepathic while you silently overthink your turn.
 
@@ -21,7 +22,9 @@ The Mind Expansion is a compact add-on that plugs into the base game, letting yo
 
 ## Box contents and setup
 
-Your box (if you can call it a box) comes with three modular packs, a short rule booklet, and a small stack of tokens that feel suspiciously like they were printed on a slightly sarcastic piece of cardboard. The components are minimalist in the best possible way; no need to rewatch a two-hour tutorial to play a three-minute round that somehow ends in a philosophical debate about whether a hand gesture counts as a “signal.”
+Your box (if you can call it a box) comes with three modular packs, a short rule booklet, and a small stack of tokens that feel suspiciously like they were printed on a slightly sarcastic piece of cardboard. The components are minimalist in the best possible way; no need to rewatch a two-hour tutorial to play a three-minute round that somehow ends in a philosophical debate about whether a hand gesture counts as a signal.
+
+{% include image.html src=assets/images/the-mind-expansion.jpg alt=The Mind Expansion art-caption %}
 
 ## Modules
 
@@ -44,7 +47,7 @@ The basic flow of a round is unchanged: distribute cards to players, reveal them
 
 ## The experience and pacing
 
-In a perfect table, expansion modules disappear into the night like clever magicians. You forget you are playing a game and become participants in a shared mental act. The Mind is known for its emphasis on silent cooperation and a kind of 'group think' that is as exhilarating as it is terrifying. The expansion keeps this core intact while introducing a handful of new decision points that add variety without breaking the underlying system.
+In a perfect table, expansion modules disappear into the night like clever magicians. You forget you are playing a game and become participants in a shared mental act. The Mind is known for its emphasis on silent cooperation and a kind of group think that is as exhilarating as it is terrifying. The expansion keeps this core intact while introducing a handful of new decision points that add variety without breaking the underlying system.
 
 ### Silent Signals experiences
 
@@ -60,11 +63,13 @@ Turbo Mode packs a punch if your group tends to stall or overanalyze. The timer 
 
 ## Art direction and presentation
 
-The Mind Expansion uses a light-touch aesthetic consistent with Pandasaurus: clean, uncluttered, and a little bit cheeky. The iconography remains minimal, the tokens are tactile enough to justify a “click” when you set them down, and the overall package feels like a premium upgrade rather than a ransom demand to buy extra pieces. The art direction does not aim for novelty; it honors the original game's vibe and adds subtle flourishes that improve readability and tension.
+The Mind Expansion uses a light-touch aesthetic consistent with Pandasaurus: clean, uncluttered, and a little bit cheeky. The iconography remains minimal, the tokens are tactile enough to justify a click when you set them down, and the overall package feels like a premium upgrade rather than a ransom demand to buy extra pieces. The art direction does not aim for novelty; it honors the original game's vibe and adds subtle flourishes that improve readability and tension.
+
+{% post_url 2025-09-12-what-is-the-mind.md %} and a follow-up on cooperative pacing in our guide to group play: {% post_url 2024-10-02-top-10-coop-games.md %}.
 
 ## Video and read-aloud moments
 
-As with many of these small expansions, the best moments come from the group dynamic rather than a dramatic story beat. A well-timed silent signal can be more emotionally satisfying than a line of dialogue, which is exactly what The Mind and its expansion are optimizing for. There is humor to be found in the tension: someone signals a seemingly straightforward card and everyone misreads, leading to a chorus of giggles and groans that would make a sitcom audience jealous.
+As with many of these small expansions, the best moments come from the group dynamics rather than a dramatic story beat. A well-timed silent signal can be more emotionally satisfying than a line of dialogue, which is exactly what The Mind and its expansion are optimizing for. There is humor to be found in the tension: someone signals a seemingly straightforward card and everyone misreads, leading to a chorus of giggles and groans that would make a sitcom audience jealous.
 
 If you want to pair this with a broader discussion, you can check out our primer on co-op dynamics in The Mind and other similar games in our post here: {% post_url 2025-09-12-what-is-the-mind.md %} and a follow-up on cooperative pacing in our guide to group play: {% post_url 2024-10-02-top-10-coop-games.md %}.
 
@@ -84,7 +89,7 @@ The Mind Expansion seems designed for players who appreciate a gentle nudge towa
 
 ## Implementation and takeaways for players
 - Start with Silent Signals and Echo Rounds for a gentle introduction to the expansion; Turbo Mode can be added later for groups that crave speed and tension.
-- Decide on a house rule about signaling before you start to avoid the classic “I waved my hand and they still didn’t read my mind” moment.
+- Decide on a house rule about signaling before you start to avoid the classic I waved my hand and they still didn’t read my mind moment.
 - Use the new tokens to reinforce memory, but avoid letting them hamper your ability to read the group’s vibe. The best moments in The Mind Expansion come when you feel the group align in a perfect moment of silent understanding.
 
 ## Candid thoughts on replayability and accessibility
@@ -97,7 +102,7 @@ In the broader board-game culture, The Mind Expansion fits into the category of 
 
 ## Where to buy and final notes
 
-You can find The Mind Expansion through Pandasaurus’s official site and major retailers. A visit to their page for the expansion provides official details and maybe a few designer notes about the intent behind the added modules. If you want to see how this expansion fares against others in the same “tiny but mighty” category, you can compare notes with some of our other reviews on co-op games, some of which you can discover via the post URLs in this article.
+You can find The Mind Expansion through Pandasaurus’s official site and major retailers. A visit to their page for the expansion provides official details and maybe a few designer notes about the intent behind the added modules. If you want to see how this expansion fares against others in the same tiny but mighty category, you can compare notes with some of our other reviews on co-op games, some of which you can discover via the post URLs in this article.
 
 ## Conclusion and final recommendation
 
