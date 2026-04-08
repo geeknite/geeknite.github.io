@@ -1,7 +1,7 @@
 ---
-title: "My First Skip-Bo Card Game (1999 Mattel) – A Nostalgic Review for Younger Players"
+title: My First Skip-Bo Card Game (1999 Mattel) – A Nostalgic Review for Younger Players (Expanded)
 date: 2026-04-08
-tags: [cards, nostalgia, family-games, skip-bo, mattel]
+tags: [cards, nostalgia, family-games, skip-bo, mattel, kids, education, retro, review]
 ---
 
 ## Introduction
@@ -9,7 +9,7 @@ Skip-Bo is one of those games that looks like chaos until you understand the rhy
 
 > Quick note for the curious: this is a review written in Geeknite style—humor included, but spoiler-light about how the game feels in practice today. For the uninitiated, think of Skip-Bo as a sequencing puzzle disguised as a family party trick.
 
-![Skip-Bo 1999 Box](./assets/images/skipbo-1999-box.jpg)
+![Skip-Bo 1999 Box]({{ site.baseurl }}/assets/images/skipbo-1999-box.jpg)
 
 ### A quick nostalgia pit stop
 If you grew up around a kitchen table with a box of cards and a timer from a pizza place, there’s a decent chance you’ve met Skip-Bo before. The 1999 Mattel edition for younger players isn’t trying to reinvent the wheel; it’s trying to fit the wheel into a small car and still make room for snacks. The packaging, the icons, and the slightly simplified rules are all designed to make the experience accessible for first-timers and early readers. It’s the kind of game that earns a spot in a family rotation because it’s fast, bright, and forgiving—perfect if you want to teach sequencing without a lecture.
@@ -132,6 +132,6 @@ That said, if you’re after a heavy strategy experience that unfolds with surgi
 - [Kid-friendly card games roundup]({{ post_url 'kid-friendly-card-games' }})
 
 ### Final wrap-up
-My First Skip-Bo Card Game (1999 Mattel) for younger players is more than a nostalgic novelty. It’s a practical, approachable way to introduce young minds to sequence-based thinking, turn-taking, and shared joy around a table. It’s not a game that demands heavy strategy; it rewards clear thinking, quick adaptation, and friendly competition. If you’re shopping for a family-friendly, quick-play card game with a dash of retro charm, this little box deserves a seat at your table.
+My First Skip-Bo Card Game (1999 Mattel) for younger players is more than a nostalgic novelty. It’s a practical, approachable way to introduce young minds to sequence-based thinking, turn-taking, and shared joy around a table. It’s not the game that will dominate your evenings, but it is the one you’ll return to when you want something quick, friendly, and lightly educational. If you’re shopping for a family-friendly, quick-play card game with a dash of retro charm, this little box deserves a seat at your table.
 
 **Affiliate link: https://www.geeknite.com/affiliates/skipbo-1999?ref=geeknite**
