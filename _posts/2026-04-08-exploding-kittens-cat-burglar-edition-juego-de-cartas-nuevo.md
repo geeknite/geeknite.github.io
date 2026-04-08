@@ -1,5 +1,5 @@
 ---
-ttitle: "Exploding Kittens Cat Burglar Edition: ¿Un Robo Maullado? Reseña de la Nueva Edición de Cartas"
+title: "Exploding Kittens Cat Burglar Edition: ¿Un Robo Maullado? Reseña de la Nueva Edición de Cartas"
 date: 2026-04-08 12:00:00 -0000
 tags:
   - juegos de mesa
@@ -58,7 +58,7 @@ Para el setup, la Cat Burglar Edition no exige una configuración excesiva. Es s
 
 Un título como este no existe sin una buena dosis de humor. Cat Burglar Edition se apoya en el doble filo del gatuno y el ladrón para construir una atmósfera de juego que es a la vez tensa y hilarante. Verás a tus amigos hacer poses dramáticas al robar cartas, o a ti mismo tratando de contener una risa en el momento más inoportuno, cuando alguien grita un truco inesperado a favor de su equipo.
 
-La edición funciona especialmente bien en grupos pequeños y medianos, donde las interacciones entre jugadores pueden resonar y generar historias memorables. Es una de esas experiencias que se vuelven anécdotas para una quedada entre amigos o una noche de juegos con la familia, siempre que todos estén dispuestos a abrazar el absurdo felino.
+La edición funciona especially bien en grupos pequeños y medianos, donde las interacciones entre jugadores pueden resonar y generar historias memorables. Es una de esas experiencias que se vuelven anécdotas para una quedada entre amigos o una noche de juegos con la familia, siempre que todos estén dispuestos a abrazar el absurdo felino.
 
 Si buscas control de humor para adolescentes, la Cat Burglar Edition es una candidata sólida. Para familias con niños pequeños, la estética es atractiva y el texto en las cartas suele ser claro, con un nivel de exigencia mental que no es abrumador pero sí lo suficiente para que la experiencia se sienta gratificante.
 
