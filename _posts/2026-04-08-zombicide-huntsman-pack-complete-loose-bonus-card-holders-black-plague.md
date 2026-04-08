@@ -149,7 +149,7 @@ For folks who want to see how it actually feels, we’ve included a few real-wor
 
 ## Alternatives and comparisons
 
-If you’re evaluating the Huntsman Pack, you’ll want to compare with a few other options in the Zombicide ecosystem. Here are some considerations:
+If you’re evaluating the Huntsman Pack, you’ll want to compare with a few other options in the Zombicide ecosystem. Here are a few considerations:
 - Other Zombicide storage solutions: Some third-party organizers offer card sleeves, token organizers, and mission trackers that can be more modular or less expensive than a full Huntsman Pack. The upside is you can tailor storage to your play style and table size. The downside is you don’t get the cohesive thematic card holders that feel like they belong to the Huntsman aesthetic.
 - Competing zombie-adventure games: If you’re curious about other games with similar vibes, explore how organizers impact tempo in titles like Dead of Winter or how a hunt-themed layout manifests in other systems. It’s not a one-for-one comparison, but it helps gauge how much value organizers add across different games.
 - Purely cosmetic alternatives: If you’re in it for display, consider a dedicated display case or a mini-diorama setup. It won’t affect gameplay directly, but it can make your shelf look like a museum of post-apocalyptic fashion.
