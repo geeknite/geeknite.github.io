@@ -1,5 +1,5 @@
 ---
-title: Cards Against Humanity 2013 PAX Prime Pack 10 Card Packs A Geeknite Review
+title: Cards Against Humanity 2013 PAX Prime Pack 10 Card Packs A Geeknite Review (Updated)
 date: 2026-04-08
 tags:
 - games
@@ -15,7 +15,7 @@ tags:
 
 ## Introduction
 
-Welcome, fellow geeks and connoisseurs of questionable humor. Today we revisit the 2013 PAX Prime release, Cards Against Humanity Pack 10 Card Packs, and we do it with the kind of long winded enthusiasm that only a late-night table full of friends can sustain. This isn’t a tech demo or a fancy curated box with a velvet bag; it’s a collection of mini packs stuffed into a tin, each mini pack a bite-sized dare to your sense of taste and decency. If you’ve ever watched an unboxing video that ends with a laugh and a sigh, you’re about to reenact that moment with cards. In short, Pack 10 is a chaotic, hilariously inappropriate good time when you’re with the right crew, and a reminder that humor is a social sport—especially the sort that makes you question whether you should have hung out with your high school therapist a little more often.
+Welcome, fellow geeks and connoisseurs of questionable humor. Today we revisit the 2013 PAX Prime release, Cards Against Humanity Pack 10 Card Packs, but we do it with the kind of long winded enthusiasm that only a late-night table full of friends can sustain. This isn’t a tech demo or a fancy curated box with a velvet bag; it’s a collection of mini packs stuffed into a tin, each mini pack a bite-sized dare to your sense of taste and decency. If you’ve ever watched an unboxing video that ends with a laugh and a sigh, you’re about to reenact that moment with cards. In short, Pack 10 is a chaotic, hilariously inappropriate good time when you’re with the right crew, and a reminder that humor is a social sport—especially the sort that makes you question whether you should have hung out with your high school therapist a little more often.
 
 Pack 10 is not just a bigger box of the same old jokes. It’s a curated kitchen-sink approach: a bundle of ten tiny packs, each with its own theme, shuffled together under the same glossy lid. The marketing blurb might call it the deluxe edition; we call it the equivalent of stacking ten spicy chips into one greasy burrito and hoping the tortilla doesn’t revolt. This is not your grandmother's cookie jar; this is a cookie jar that occasionally whispers inappropriate one-liners while you’re trying to bake. In this review, we’ll cover what makes Pack 10 tick, what doesn’t quite land, and how you might incorporate it into a regular game night without needing to hire a therapist for your friends.
 
