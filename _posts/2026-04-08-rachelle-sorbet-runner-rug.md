@@ -1,6 +1,6 @@
 ---
 title: 'Rachelle Sorbet Runner Rug: A Geeknite Review'
-ddate: 2026-04-08
+date: 2026-04-08
 tags:
   - home
   - decor
@@ -29,7 +29,7 @@ If you want a visual, here’s a hero shot of the rug in action:
 
 ## Design and Aesthetics
 
-The design language of the Rachelle Sorbet Runner is casual-luxe. It doesn’t pretend to be the king of the castle; it’s the trusted herald who walks ahead, announcing that the floor has finally evolved from 'plain beige' to something with character. The Sorbet palette features pale pinks, soft peaches, and a whisper of cream—colors that read well in a light-filled hallway and still hold their own under the glare of a fluorescent kitchen lamp.
+The design language of the Rachelle Sorbet Runner is casual-luxe. It doesn’t pretend to be the king of the castle; it’s the trusted herald who walks ahead, announcing that the floor has finally evolved from plain beige to something with character. The Sorbet palette features pale pinks, soft peaches, and a whisper of cream—colors that read well in a light-filled hallway and still hold their own under the glare of a fluorescent kitchen lamp.
 
 ### Color Palette and Mood
 The Sorbet colorway is not a scream but a whisper. It’s the type of rug that smiles at you when you walk past in your socks and asks nothing in return beyond a moment of attention. In bright rooms, it catches the eye without shouting; in dim corridors, it reflects whatever ambient light is available and makes the space feel a touch friendlier. If you’re chasing a more dramatic vibe, pair it with charcoal, black, or navy accents to let the rug act as a soft counterbalance to bolder decor.
