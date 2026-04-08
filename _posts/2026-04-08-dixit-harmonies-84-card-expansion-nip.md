@@ -1,20 +1,20 @@
 ---
-title: "Dixit Harmonies: 84-Card Expansion Pack (Asmodee) - NIP Review"
+title: "Dixit Harmonies: Expanded Dreamscapes — Asmodee's 84-Card Expansion (NIP) Review"
 date: 2026-04-08
-tags: [board-games, card-games, expansions, asmodee, dixit, review, party-games]
+tags: [board-games, card-games, expansions, asmodee, dixit, review, party-games, humor]
 ---
 
 ## Introduction
 If there’s a dreamier party game than Dixit, I haven’t woken up yet—and that dream just got a caffeinated upgrade with the Dixit Harmonies 84-Card Expansion Pack from Asmodee. Yes, 84 new chances to mislead, delight, and bewilder your friends with cards that look like they wandered out of a fantasy novel and forgot to pay rent. Dixit Harmonies is NIP (new in package) and ready to drop into your existing Dixit adventures like a friendly, art-covered load-bearing beam. If you’re a die-hard Dixit devotee or a curious ghost at the storytelling table, Harmonies promises more dreamlike prompts, more coincidences, and more opportunities to misinterpret a story in the most glorious, hilarious ways possible.
 
-In this review we’ll voyage through the box contents, the artwork, the mechanics-intake of 84 new cards, and how Harmonies sits in the competitive ecosystem of Dixit expansions. Think of this as your personal compass through a carnival of whimsy, where every card asks you, enthusiastically: What story are you going to tell with THIS one?
+In this expanded take, we’ll voyage through the box contents, the artwork, the mechanics of 84 new cards, and how Harmonies sits in the broader ecosystem of Dixit expansions. Think of this as your personal compass through a carnival of whimsy, where every card dares you to answer the one burning question: What story are you going to tell with THIS one?
 
 > If you want to dive deeper into the core Dixit mechanics, check our explainer post: {% post_url 2024-03-18-dixit-mechanics-explained %}.
 > For a broader comparison of Dixit expansions and where Harmonies fits, see our expansion roundup: {% post_url 2023-11-22-dixit-expansions-comparisons %}.
 
 ![Dixit Harmonies box art](/assets/images/dixit-harmonies-box.jpg)
 
-### What this expansion is and isn’t
+## What this expansion is and isn’t
 Dixit Harmonies isn’t a standalone game; it’s a deck of 84 new creative prompts designed to slot neatly into any existing Dixit game. The expansion doesn’t reinvent the wheel; it refines the wheel by giving players more colors, more textures, and more opportunities to tell a story that only makes sense to your particular group. Harmonies leans into the “dreamlike, surreal, and sometimes illogical” vibe that makes Dixit so charming. You’ll find images that pair with the original cards in tone, but with a fresh twist—sometimes a little more whimsical, sometimes a touch more cryptic, and occasionally downright punny.
 
 From a designer’s perspective, Harmonies does something clever: it broadens the range of associations without forcing a new set of strict game rules. It might feel like a natural extension rather than a separate product, which is exactly what you want from a Dixit expansion.
@@ -114,7 +114,7 @@ Dixit Harmonies is not a revolution in rules but a revelation in storytelling sp
 
 In other words: Harmonies is a neat, creative boost to an already-loved system. If your group thrives on whimsy, humor, and collaborative storytelling, this expansion should be very high on your shopping list.
 
-## Final recommendation and quick takeaway
+## Final takeaway and quick takeaway
 - Best for groups who enjoy vivid, interpretive prompts and a little theater at the table.
 - A strong value add for long-term Dixit players who want to refresh the deck without buying a whole new game.
 - A good entry point to experimenting with themed rounds and house rules that keep the experience fresh night after night.
