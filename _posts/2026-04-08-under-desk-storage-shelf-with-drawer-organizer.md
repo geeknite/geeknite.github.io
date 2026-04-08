@@ -1,6 +1,7 @@
 ---
 title: Under Desk Storage Shelf with Drawer Organizer — Geeknite Review (Updated Edition)
-date: 2026-04-08 tags:
+date: 2026-04-08
+tags:
   - desk
   - organization
   - storage
@@ -143,6 +144,4 @@ If you are ready to embrace the quiet efficiency of an organized workstation, th
 ## The Geeknite Recommendation
 If you believe that order is a form of productivity, this under‑desk storage shelf with a drawer organizer earns a solid thumbs‑up. It is affordable, relatively easy to assemble, and a sensible upgrade for people who want a cleaner workspace without dedicating an entire Saturday to rearranging furniture. It won’t turn your desk into a sci‑fi command center, but it will help your desk look less like a raccoon’s travel bag and more like a purposeful workstation.
 
-**Buy now and take control of your under-desk chaos with this dependable organizer. It’s the small upgrade that adds up.**
-
-**Affiliate link: https://amzn.to/3exampleaffiliate**
+**Buy now and support Geeknite with this affiliate link: https://amzn.to/3exampleaffiliate**
