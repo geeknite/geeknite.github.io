@@ -1,5 +1,5 @@
 ---
-title: "Mattel Phase 10 Card Game: A Rummy-Style Family Classic Expanded Review (Age 7+)"
+title: 'Mattel Phase 10 Card Game: Updated Review for a 2023-Sealed Edition (Ages 7+)'
 date: 2026-04-08 12:00:00 -0000
 tags:
   - board-games
