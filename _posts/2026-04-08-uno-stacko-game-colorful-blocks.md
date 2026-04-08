@@ -1,7 +1,7 @@
 ---
-title: 'Uno Stacko Game - Colorful Blocks: An Expanded Geeknite Review'
+ttitle: 'Uno Stacko Game - Colorful Blocks: An Expanded Geeknite Review'
 date: 2026-04-08
-tags: [board-games, family-games, UNO, review, toys-and-games, humor, chaos, strategy]
+tags: [board-games, family-games, UNO, review, toys-and-games, humor, chaos, strategy, accessibility]
 ---
 
 ![Uno Stacko Colorful Blocks]({{ '/assets/images/uno-stacko-colorful-blocks.jpg' | relative_url }})
@@ -131,7 +131,7 @@ If you’re aiming for a family-friendly experience with a touch of UNO’s colo
 
 External links and related reads:
 - Hasbro UNO Stacko product page: https://www.hasbro.com/en-us/products/uno-stacko
-- Related Geeknite posts: {% post_url 2019-06-20-jenga-nerds-and-nimbleness %}, {% post_url 2022-09-14-arcade-night-strategies %}
+- Related Geeknite posts: {% post_url 2019-06-20-jenga-nerds-and-nimbleness %}, {% post_url 2023-11-07-board-game-night-ideas %}
 - Official UNO trivia and rules: https://www.uno-card.com
 
 ## Where to buy and final shopping notes
