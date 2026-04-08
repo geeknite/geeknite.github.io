@@ -7,6 +7,7 @@ tags:
   - party-games
   - humor
   - geeknite
+  - explodikitty
 ---
 
 ![]({{ '/assets/images/exploding-kittens-party-pack.jpg' | relative_url }})
@@ -119,7 +120,7 @@ Official site: https://www.explodingkittens.com
 BoardGameGeek page: https://boardgamegeek.com/boardgame/221068/exploding-kittens-party-pack
 Amazon affiliate: https://www.amazon.com/dp/B08H4Y2TQF?tag=GEKN-20
 
-## Host notes and closing thoughts
+## Hosting notes and closing thoughts
 
 In practice, this pack works best when you lean into the social dimension rather than chasing perfect strategy. The humor is accessible, the energy is high, and the game night often becomes a shared comedy reel rather than a chess match. It’s an excellent entry point for people who aren’t sure about whether they like board games but want something modern and light-hearted. It scales well to larger groups, so if you have a friend crew that expands and contracts, this pack serves as an anchor for your gatherings. It’s also a great way to reintroduce lapsed players to the hobby by focusing on social dynamics rather than heavy rules.
 
@@ -130,6 +131,10 @@ Yes. You can mix and match to create a larger session or dedicated party rounds.
 - Does it support 6–8 players? Yes, with the party rules and proper setup, it works well for larger groups.
 - Is it kid-friendly?
 The humor is generally light; parental discretion is advised for younger players because some memes lean toward adult humor.
+- Can I combine it with other expansions?
+Yes, but you’ll want to test compatibility ahead of time to avoid chaos overload.
+- How long does a typical game night run with the Party Pack?
+Expect several short rounds—roughly 5–15 minutes per round, with breaks for memes and nachos.
 
 ## Internal links to Geeknite content
 
