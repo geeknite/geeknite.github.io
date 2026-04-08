@@ -1,5 +1,5 @@
 ---
-title: 'City of Mist: Fortune Row - Limited Edition Dice Review'
+title: 'City of Mist: Fortune Row - Limited Edition Dice Review (Updated)'
 date: 2026-04-08
 tags:
   - gaming
@@ -7,16 +7,17 @@ tags:
   - dice
   - review
   - tabletop
+  - update
 ---
 
-City of Mist fans, gather round the neon alleyways and flick on your chrome streetlamp because today we dive into a product that smells like rain on asphalt and conspiracy theories in a trench coat: the Fortune Row Limited Edition Dice for City of Mist. If you thought the city itself was a character, wait till you roll these crystals and watch Fortune Row glimmer back at you with promises that may or may not be kept. This is a long form lover letter to a die set, with a healthy dose of gritty humor, fan lore, and the occasional existential crisis about your dice’s alignment with fate.
+City of Mist fans, gather round the neon alleys and flick on your chrome streetlamp because today we dive into a product that smells like rain on asphalt and conspiracy theories in a trench coat: the Fortune Row Limited Edition Dice for City of Mist. If you thought the city itself was a character, wait till you roll these crystals and watch Fortune Row glimmer back at you with promises that may or may not be kept. This is a long-form love letter to a die set, with a healthy dose of gritty humor, fan lore, and the occasional existential crisis about your dice’s alignment with fate.
 
 ![Fortune Row Dice](assets/fortune-row-dice.jpg)
 
 ## Why Fortune Row, Why Now
-Fortune Row is not just a pretty accessory for your City of Mist sessions; it is a thematic bundle designed to channel the game’s spirit of mythic crime drama, noir bureaucracy, and the shifting sands of fate. The Limited Edition tag tends to raise some eyebrows at the table because for a lot of us, dice are less about math and more about mood lighting for the mind. Fortune Row aims to give you a tactile reminder that your decisions have consequences that echo through the city, even if those consequences are just your npc deciding to roll a natural 1 when you needed a 6.
+Fortune Row is not just a pretty accessory for your City of Mist sessions; it is a thematic bundle designed to channel the game’s spirit of mythic crime drama, noir bureaucracy, and the shifting sands of fate. The Limited Edition tag tends to raise some eyebrows at the table because for a lot of us, dice are less about math and more about mood lighting for the mind. Fortune Row aims to give you a tactile reminder that your decisions have consequences that echo through the city, even if those consequences are just your NPC deciding to roll a natural 1 when you needed a 6.
 
-Before we go deeper, a quick note on what you get in the box. The Limited Edition Dice set typically includes a core polyhedral suite tailored to the City of Mist vibe, a couple of unique colorways, and a presentation case designed to look like a street map map that folds into a backdrop for your table. If you are into purely functional dice, you will find the aesthetic delightful but potentially distracting. If you crave lore, the limited edition touches will give your roll a little swagger as you lean into the destiny you claim or dodge.
+Before we go deeper, a quick note on what you get in the box. The Limited Edition Dice set typically includes a core polyhedral suite tailored to the City of Mist vibe, a couple of unique colorways, and a presentation case designed to look like a street map that folds into a backdrop for your table. If you are into purely functional dice, you will find the aesthetic delightful but potentially distracting. If you crave lore, the limited edition touches will give your roll a little swagger as you lean into the destiny you claim or dodge.
 
 ## Unboxing and First Impressions
 Unboxing is a small ritual that sometimes sells you on a product even before you roll a 6. Fortune Row arrives in a compact slipcase with branding that hits you with a tasteful mix of noir typography and a neon accent. The inner tray is shaped to cradle the dice snugly, which is a fancy way of saying you won’t wake up to three orphaned d6s under the sofa after a single dramatic sigh. The dice themselves radiate a glossy luster, with color gradients that resemble streetlight reflections on rainwater, the kind of thing that makes you believe destiny has a color palette.
@@ -36,10 +37,10 @@ Every die tells a story, but the Fortune Row dice tell a design story with a win
 Fortune Row dice are typically crafted from a durable resin or acrylic blend chosen to retain crisp pips and maintain a polished finish under table lamps. The surface feels substantial but not heavy, letting you roll with confidence without the dice slipping off the map. The finish is designed to resist minor scratches from regular play, though over time you may notice micro-abrasions if you are truly rough with your setup. If you are one of those players who treats dice as heirloom artifacts, you will appreciate the sense that these dice are meant to age gracefully with you.
 
 ### Colorway and Markings
-The colorway plays with layers of urban mood lighting. The primary color often appears like a midnight teal or deep indigo with copper or brass flecks that catch the light when you lean over the table to whisper your next deception to a stubborn npc. The pips are subtly embossed and filled with a contrasting hue to maximize readability in low-light gaming rooms—a thoughtful touch that helps during those late campaigns when the city seems to be closing in around you and your players keep asking for just one more roll to solve the mystery.
+The colorway plays with layers of urban mood lighting. The primary color often appears like a midnight teal or deep indigo with copper or brass flecks that catch the light when you lean over the table to whisper your next deception to a stubborn NPC. The pips are subtly embossed and filled with a contrasting hue to maximize readability in low-light gaming rooms—a thoughtful touch that helps during those late campaigns when the city seems to be closing in around you and your players keep asking for just one more roll to solve the mystery.
 
 ### The Fortune Row Theme
-Fortune Row as a concept in City of Mist ties into factions, luck, and the idea of a street-long line of choices with potential consequences. The dice’ art and color cues reinforce this sense of a row of doors, each one opening into a different possible narrative. The Limited Edition treatment leans into the idea that you are stepping into a path where luck is a character in its own right. You can use the set to represent different factions or motifs in your campaign, such as luck versus fate, street-level power versus mythic influence, or the way small choices cascade into large consequences.
+Fortune Row as a concept in City of Mist ties into factions, luck, and the idea of a street-long line of choices with potential consequences. The dice art and color cues reinforce this sense of a row of doors, each one opening into a different possible narrative. The Limited Edition treatment leans into the idea that you are stepping into a path where luck is a character in its own right. You can use the set to represent different factions or motifs in your campaign, such as luck versus fate, street-level power versus mythic influence, or the way small choices cascade into large consequences.
 
 ## How It Plays at the Table
 Let us talk about playability and readability, because those are the two critical axes for any dice release worth its neon signage.
@@ -99,6 +100,10 @@ For internal reading on Geeknite, you may want to explore other posts that tie d
 - Explore character creation mood boards in {% post_url city-of-mist-character-creation-showdown %}
 - See table setup tips in {% post_url city-of-mist-tabletop-setup-tips %}
 
+If you came for the vibe and stayed for the dice, Fortune Row delivers both in a manner that feels like a partnership between fortune and craft. The city approves this set with a nod, a wink, and the soft clack of polished resin meeting neon night.
+
+**Purchase Fortune Row Limited Edition Dice here: https://affiliate.example.com/fortune-row-dice**
+
 ## Practical Pros and Cons
 Pros
 - Strong thematic alignment with city noir arc and fate driven play
@@ -131,4 +136,4 @@ External links and resources are included for readers who want to expand beyond 
 
 If you came for the vibe and stayed for the dice, Fortune Row delivers both in a manner that feels like a partnership between fortune and craft. The city approves this set with a nod, a wink, and the soft clack of polished resin meeting neon night.
 
-**Purchase Fortune Row Limited Edition Dice here: https://affiliate.example.com/fortune-row-dice**
+**Bold CTA: Buy Fortune Row today and roll with fate on your side.**
