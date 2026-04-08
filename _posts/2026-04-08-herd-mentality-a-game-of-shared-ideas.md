@@ -1,10 +1,21 @@
-{"post_name": "2026-04-08-herd-mentality-a-game-of-shared-ideas.md", "new_content": "---\nttitle: Herd Mentality: A Game of Shared Ideas — Expanded Review\nlayout: post\ndate: 2026-04-08 14:00:00 -0000\ntags:\n  - game-review\n  - board-games\n  - social-dynamics\n  - humor\n  - geeknite\n  - party-games\n---
+---
+ttitle: Herd Mentality: A Game of Shared Ideas — Expanded Review
+layout: post
+date: 2026-04-08 14:00:00 -0000
+tags:
+  - game-review
+  - board-games
+  - social-dynamics
+  - humor
+  - geeknite
+  - party-games
+---
 
 {% image /assets/images/herd-mentality-cover.jpg alt='Herd Mentality cover image' caption='Herd Mentality in action: a table full of ideas' %}
 
-Herd Mentality: A Game of Shared Ideas arrived at our table like a caffeinated science fair project—bright, loud, and somehow the result of a group chat you wish you could unfollow. It’s the kind of party game that makes you grin because the premise is so deliciously simple: prompts + ideas + guessing which ideas came from whom. The joke, of course, is that everyone will likely chase the same safest option, then pretend they were the bold visionary all along. Welcome to Geeknite’s extended field notes on social calibration, improv instincts, and the mathematics of “what the herd agrees is a good idea.” Yes, we’re about to dissect the chaos with the calm precision of a cat meme with a PhD.
+Herd Mentality: A Game of Shared Ideas arrived at our table like a caffeinated science fair project—bright, loud, and somehow the result of a group chat you wish you could unfollow. It’s the kind of party game that makes you grin because the premise is so deliciously simple: prompts + ideas + guessing which ideas came from whom. The joke, of course, is that everyone will likely chase the same safest option, then pretend they were the bold visionary all along. Welcome to Geeknite’s expanded field notes on social calibration, improv instincts, and the mathematics of “what the herd agrees is a good idea.” Yes, we’re about to dissect the chaos with the calm precision of a cat meme with a PhD.
 
-In this expanded review, we’ll unpack not just what works and what stumbles, but how the design nudges players toward a shared memory of the evening rather than a carved-in-stone masterpiece. We’ll dig into setup rituals, the table dynamics that emerge when a timer looms, and a handful of pragmatic strategies to keep the group from morphing into a real-world version of a comment-section flame war. And yes, there are links to related Geeknite content and a friendly affiliate nudge at the end, because we believe in nerdy cross-pollination and(one-day) sustainable hobbies.
+In this expanded review, we’ll unpack not just what works and what stumbles, but how the design nudges players toward a shared memory of the evening rather than a carved-in-stone masterpiece. We’ll dig into setup rituals, the table dynamics that emerge when a timer looms, and a generous bag of pragmatic strategies to keep the group from morphing into a real-world version of a comment-section flame war. And yes, there are links to related Geeknite content and a friendly affiliate nudge at the end, because we believe in nerdy cross-pollination and (one day) sustainable hobbies.
 
 ## Overview
 
@@ -79,24 +90,6 @@ There are a few optional expansions that add new prompt cards and occasional twi
 
 If you’re curious about the expansion experience, our related discussion on mix-and-match party games may be of interest. See the linked post below for a deeper dive into how expansions alter the social calculus and sometimes double the chaos in a good way.
 
-## Comparisons with other party games
-
-If you’ve played Monikers, Codenames, or Telestrations, Herd Mentality occupies a similar shelf space but leans toward the social calculus rather than pure wordplay or drawing. It doesn’t demand a large vocabulary or a flawless memory; instead, it nails the feeling of being part of a crowd and the hilarity that comes when the crowd decides what counts as “the idea.”
-
-Compared with The Mind, it’s warmer and much more talkative. It has less silent stealth and more table talk, which is ideal for groups that want a social experience with some cognitive spice but without getting bogged down in rules intricacy. If you enjoy collaborative humor that emerges from shared experiences rather than hidden information, you’ll likely prefer Herd Mentality to many classic party games.
-
-## Accessibility, inclusivity, and inclusiveness notes
-
-The prompts can be friendly to a broad range of ages and backgrounds, a definite plus for mixed-density households. Some prompts lean on popular culture or niche memes; if your group isn’t steeped in those references, substitute in a few universal prompts to keep everyone engaged. The scoring system remains forgiving, which helps players who are still getting a handle on the group dynamics. If you run a local game night with a rotating cast of players, this is a nice “level-set” game that can break the ice and reintroduce friendly competition season after season.
-
-## Visuals and production value
-
-The cover art is cheerful and inviting, signaling that the game is meant to be accessible and fun. Inside, the cards are easy to read, with clear prompts and well-spaced answer options. The timer is compact and robust enough for repeated use, though it’s not the most precise instrument in your kit. Production values support a casual play style without demanding a premium-tier investment. The most important aspect is that components hold up through several nights of reckless laughter and questionable interpretations.
-
-## Where to buy and value for money
-
-Herd Mentality sits in that sweet spot of affordability for a party game that promises hours of lighthearted social interaction. If you’re shopping for a gift or a new staple for monthly game nights, it’s a pragmatic choice that can grow with your group’s rhythm. Look for bundles with the base game and a few expansion packs if you’re planning to host longer sessions. As with any party game, mileage varies based on your group’s energy and how much you lean into humor versus competition.
-
 External links:
 - BoardGameGeek page: https://boardgamegeek.com/boardgame/401120/herd-mentality-a-game-of-shared-ideas
 - Publisher page: https://www.example-publisher.com/herd-mentality
@@ -129,4 +122,4 @@ If your game nights skew toward lighthearted social experiments with a warm, inc
 
 For a night that blends coffee-fueled spontaneity with genuine laughter, add Herd Mentality to your cart, invite a crew, and prepare to witness the glorious chaos of collective thinking in action.
 
-**Buy now via our affiliate link and support Geeknite: https://affiliate.geeknite.example/herd-mentality?ref=geeknite**"}
+**Buy now via our affiliate link and support Geeknite: https://affiliate.geeknite.example/herd-mentality?ref=geeknite**
