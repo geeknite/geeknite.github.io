@@ -1,126 +1,104 @@
 ---
-title: Geeknite Review - Hand Tufted Wool Decor Rug, Custom Size Carpet, Luxury Wool Area Rug Decor Rug
+title: Geeknite Review - NIB Exploding Kittens NSFW Deck Edition (Factory Sealed Box)
 date: 2026-04-08
-tags: [review, decor, rug, home, wool, custom-size, luxury, interior-design]
+tags: [review, games, card-games, nsfw, party-games, board-games, pop-culture, geeknite]
 ---
 
 ## Introduction
-If your living room floor could talk, it would probably beg for a hug. Or at least a hug that doesn’t squeak every time you drag a coffee table across a splintered pine board. Welcome to the Hand Tufted Wool Decor Rug, a custom-size statement piece that promises luxury underfoot without requiring you to mortgage your first-born to afford it. In Geeknite fashion, we’re not here to pretend rugs are just “soft floor blankets.” We’re here to judge them like the dramatic, fiber-filled stars they are: texture, feel, aesthetics, practicality, and whether they survive your life with a dog, a toddler, and the occasional spilled red wine.
+If your game shelf could talk, it would ask for a raise so it could finally afford some adult supervision. Enter the NIB Exploding Kittens NSFW Deck Edition, a factory sealed box of mischief that embraces chaos with a wink and a dare. This is the kind of deck that arrives with a sticker that says NSFW and a loving aunt who tells you not to drop the deck in coffee. Here at Geeknite, we treat it like any other party game: rules first, jokes later, and a fierce debate about whether a card featuring a cat wearing sunglasses can ethically be described as art. And yes, this is new in box (NIB) for those who crave the aroma of unopened pulp and the jittery excitement of a fresh card stock crack.
 
-{% image assets/images/hand-tufted-wool-decor-rug.jpg alt='Hand Tufted Wool Decor Rug in a cozy living room' %}
+{% image assets/images/exploding-kittens-nsfw-nib.jpg alt='Exploding Kittens NSFW Deck in factory sealed box' %}
 
-This rug isn’t a one-trick pony. It’s a hand-tufted wool marvel designed for size customization, color fidelity, and that crisp, luxurious pile that makes guests say, “Wait, is that furniture or a sculpture?” The premise is simple: you pick the size that fits your space exactly, you select a wool pile that suits your traffic, and you enjoy the kind of warmth that makes you want to stand barefoot on the rug at 6 a.m. to savor the day’s first coffee. If you crave a rug that feels like you’ve wrapped your room in a soft, designer-scented cloud, this one might just be your vibe. For interior-minded readers who like to nerd out about layout, lighting, and texture harmony, we’ll sprinkle in a few decor-nerd tips along the way. See the Geeknite library for deeper dives into how lighting and rug choice influence room perception, via {% post_url 2026-02-28-lighting-your-workspace.md %} and {% post_url 2026-03-15-office-ergonomics.md %}.
+This edition brings the well-loved Exploding Kittens core into an NSFW vibe that amps up the jokes and the risk. If you like your humor with a little bite and your strategy with a dash of chaos, you are in for a treat. The NSFW deck sits alongside the standard cards, which means you still get the classic defuse and explode cards, but with more pepper to the punchlines. For those who love to nerd out about game balance, we will stroll through how this edition handles risk, pacing, and player interaction without losing the silly edge that makes Exploding Kittens irresistible. If you want more context on how a well-timed cat meme can alter a game night, browse our past posts on party-game dynamics: {% post_url 2026-01-12-party-game-dynamics.md %} and {% post_url 2026-03-22-board-game-night-setup.md %}.
 
-## What this rug offers and how it feels in the room
-This rug is designed to anchor a space without overwhelming it. The hand-tufted wool gives you a plush, dense pile that feels substantial underfoot, yet remains surprisingly forgiving for high-traffic zones like living rooms, bedrooms, and the occasional chaotic play area. Wool, as a material, carries a reputation for natural resilience—crisp fibers spring back after compression, stains welcome a quick challenge, and the pile tends to hide foot traffic’s inevitable character marks better than synthetic cousins. On that note, this rug isn’t a magic carpet. It won’t erase the mess of life, but it does a fantastic job of making the mess feel intentional.
+## What this NSFW edition promises and how it feels in the room
+This is not a game for grandma’s bingo night. It’s a fast, irreverent party game that thrives on quick rounds, surprising twists, and a whole lot of laughter at the expense of a few furry memes and some playful innuendo. The NSFW deck adds new card art and new punchlines that push the envelope just enough to feel cheeky without crossing into actual outrage. It’s the kind of humor that lands best when you have a group that can riff with you rather than at you. If you are playing with someone who still thinks a pun is a personal attack, this edition might be a field test for your friendships.
 
-### Design and color options (a quick cheat sheet)
-- Pile height and density: Expect a mid- to high-pile feel that cushions the step but remains flat enough to keep a low-clearance coffee table from looking like it’s about to topple. The tufting should be tight enough to resist excessive shedding, especially in families with pets.
-- Color fidelity: Wool takes dye well, and a hand-tufted approach often yields nuanced color depth with subtle tonal variation. Depending on the rug’s colorway, you’ll notice a soft, museum-grade look that reads sophisticated in living rooms and calm in bedrooms.
-- Patterns: The rug can range from solid, elegant fields to subtle geometric or abstract motifs. The hand-tufted process tends to render these patterns with depth that machine-made options sometimes struggle to achieve.
+### How NSFW changes the dynamic
+- Thematically spicier jokes and art that skew toward adult humor while keeping the rules familiar.
+- Additional card types that influence risk management, like more defuse options and booby-trapped kittens that force players to react quickly.
+- A tempo shift that rewards fast thinking, bluffing, and the occasional sacrificial card play that makes everyone cackle.
 
-### How it feels underfoot
-If you’d describe a rug by the “stomp test,” this one passes with flying colors. Barefoot warmth, a plush step that cushions the joints during long movie marathons, and a satisfying give that isn’t so soft you feel every squeaky floorboard through the cushion. It’s the kind of rug that makes you want to stand on it for a couple of extra minutes just to enjoy the texture. And yes, you can still slide a cat or a child across it without fear of a static shock or a pile that looks like it’s been through a bad haircut.
+### Setup quick take
+1. Shuffle the NSFW deck with the base Exploding Kittens deck. 2. Deal cards according to the standard recipe for 2–5 players. 3. Decide on a referee if your group needs one or just wing it and let chaos reign. 4. Draw, play, and try not to cry when a kitty explodes at the most dramatic moment.
 
-### A note on customization
-Custom sizing is the big selling point here. Walls aren’t perfectly square? No problem. This rug can be sized to fit an odd-shaped living room, a long hallway, or under a sectional with a coffee-table haven in the middle. The customization is not just about width and length; it can involve edging details and pile density that influence how the rug wears over time. If you’re a layout nerd who loves pin-sleek alignment, this is your playground. For those into the math of space planning, measuring twice, sewing once—this rug becomes your friendly ceiling-to-floor, wall-to-wall companion.
+{% image assets/images/nsfw-deck-art.jpg alt='NSFW deck art from Exploding Kittens' %}
 
-## Materials, craftsmanship, and care
-Hand-tufted wool rugs are a joy to inspect closely, because the craftsmanship reveals itself in every fiber. Here’s what to expect on the build and how to think about long-term care.
+For those who want to deep-dish on strategy, there are a few routes. Some folks love the defuse card timing and the artful baiting of opponents, while others prefer a misdirection game where you bait your friends into a safe move just to blow up their hopes in the next turn. If you want to dive into house rules used by our editors, peek at {% post_url 2026-05-01-house-rules-night.md %} and {% post_url 2026-04-15-tactical-party-games.md %}.
 
-### Materials
-- Wool fibers: Natural, durable, and resilient. Wool is known for its flame resistance and stain resistance relative to many other natural fibers, though no fiber is totally stain-proof. Wool’s insulating properties also keep feet pleasantly warm in winter and cooler in summer, depending on the rug’s weave and pile density.
-- Backing and construction: Hand-tufted rugs usually use a combination of a fabric backing and a tight knot pattern visible on the surface. A quality rug will have a sturdy back that aligns with the front’s density, ensuring longevity and even wear.
+## Cards, humor, and production quality
+Here is where the NSFW deck shines and where it might unsettle the more conservative corners of your game table. The card stock feels sturdy enough to survive enthusiastic shuffles and gravity-induced spillages, while the card art leans into the meme culture that made Exploding Kittens famous. The NSFW variants push the humor into a more adult lane, which means you might not want to play this with kids or in a formal work event. That said, the printing quality and color fidelity are strong, with crisp lines and vibrant hues that hold up under room lighting. The box is solid and the cards sit snugly, avoiding that unsettling loose-deck vibe that can derail a game night.
 
-### Durability and maintenance
-- Vacuuming: Use a low-suction setting or a handheld vacuum with a gentle brush. Regular vacuuming helps prevent dirt from becoming embedded in the fibers.
-- Spills and stains: Wool is relatively resilient to stains, but quick action helps a lot. Blot—don’t rub—the spill with a clean cloth, and treat with a wool-safe stain remover if needed. It’s worth testing any cleaner on a small, inconspicuous area first.
-- Professional cleaning: A professional cleaning every 12–24 months (depending on foot traffic) can refresh the fibers and extend the rug’s life. When in doubt, follow the care label or consult a rug care professional.
+### What is included
+- NSFW deck with new art and jokes
+- Core Exploding Kittens cards (explode, defuse, and action cards)
+- A sturdy rule sheet that keeps things moving without resorting to a pocket dictionary of rules
+- A sealed box that feels premium right out of the shrink wrap
 
-### Care tips from the pros
-- Rotate periodically: If your space has a strong light source from one side, rotate the rug every few months to prevent uneven color fading and pile wear.
-- Pad it up: A quality rug pad eliminates slipping, protects the floor underneath, and improves the rug’s feel. A pad also helps extend the rug’s life by reducing friction against the floor.
-- Avoid sunsing: Excessive sun exposure can fade wool colors over time. If possible, position the rug in a spot with balanced light or use window treatments to shield it.
+### Card stock and durability notes
+- The cards are laminated with a matte finish that reduces glare and makes shuffling pleasant. If you are rough with cards, expect a handful of edges to show wear after many sessions, but the core gameplay cards should be resilient enough to outlive casual use.
+- The NSFW art is bold but not vulgar; it lands in a zone that is cheeky rather than truly offensive, which means you can still laugh with your grandma if your grandma has a sense of humor.
 
-For deeper care guidance, check our reference on rug maintenance from The Spruce: [The Spruce rug care guide](https://www.thespruce.com/how-to-clean-wool-rugs-4842143).
+## Play experience and pacing
+Exploding Kittens thrives on short, punchy rounds and the NSFW deck keeps the energy humming. The pace tends to be lively, with players watching for a moment that could swing the table from humor to shock. The core mechanic remains straightforward: avoid drawing an exploding card or risk a cascade of events that ends with someone declaring victory in a chorus of mock horror. If your group loves quick sabotage, short turns, and a dash of bluffing, this edition hits the sweet spot.
 
-## Sizing, customization, and installation reality
-Custom-size rugs are a two-edged sword: the flexibility is amazing, but the process takes a tad more planning than grabbing a standard 8x10 from the shelf. Here’s what to expect and how to optimize.
+### A sample round
+- Player A lays down a defuse or uses a cat card to bait a counter move. 
+- Player B draws and crosses fingers, praying for a safe pick.
+- The tension builds as the deck thins and the last few cards are teased like a magician’s hat trick.
+- A well-timed blow up or a daring defuse is shared in a moment of collective laughter. 
 
-### Sizing options and order process
-- Typical size increments: Width and length options often come in inches, with the ability to tailor precise dimensions to suit odd spaces, hallway runners, or under a dining table with a nonstandard footprint.
-- Lead times: Custom orders can take longer to produce and ship than standard stock carpets. Plan for a few extra days or weeks for production and delivery, depending on the retailer and the complexity of your chosen edging or pattern.
-- Color and pattern matching: For large spaces, sample swatches or life-sized runners can help ensure color fidelity in your lighting. Wool dyes can shift slightly under different lighting, so it’s wise to view the rug in your room before finalizing the order.
+For players who crave more depth, you can incorporate house rules that widen strategy: role cards, optional chaos cards, or a timer that speeds up rounds. If you want to dive into house rules used by our editors, peek at {% post_url 2026-05-01-house-rules-night.md %} and {% post_url 2026-04-15-tactical-party-games.md %}.
 
-### Installation reality
-- Subfloor prep: Ensure the floor is clean, dry, and smooth. Uneven subfloors can cause the rug to sit oddly or wear unevenly where the pile meets the edges.
-- Padding: A good rug pad is non-negotiable for lengthening the rug’s life and preventing slip hazards on hard floors. It also cushions foot traffic and reduces movement for dining chairs.
-- Placement and room flow: Consider how the rug anchors furniture. A well-sized rug should frame the sofa, chairs, and coffee table in a way that invites conversational flow rather than forcing you to tip-toe around bare floor at night.
+## Production values and how it feels in hand
+Materials matter in a game that thrives on quick play and frequent handling. The NSFW deck uses solid card stock with a sturdy weight that feels premium without being overweight. The finish reduces glare, which helps in well-lit living rooms and dim basement dives alike. The art direction keeps the vibe comic, not cruel, with playful anthropomorphism that nods to meme culture without becoming mean spirited. The box is compact and travel friendly, which is essential for game nights at a friend’s apartment or a convention display booth where you want something that stands out on a shelf.
 
-If you’re curious about layout and room balance, you might enjoy {% post_url 2026-04-01-home-decor-roundup.md %} for broader decor ideas, or the ergonomics piece {% post_url 2026-03-15-office-ergonomics.md %} to see how textures influence perceived space and comfort.
+If you care about authenticity, you can compare this edition with other expansions and variants, like the base Exploding Kittens set or the other NSFW alternatives. For a deeper dive into card art and production practices, you might enjoy our write ups on card design in games: {% post_url 2026-03-22-board-game-art-and-design.md %} and our review of a cult-loved indie game art style: {% post_url 2026-02-13-artistic-games-review.md %}.
 
-## Aesthetics, vibe, and room balance
-Texture and color drive mood. A hand-tufted wool rug with rich, layered color can anchor a space with a sense of timeless luxury, while a lighter, airy palette can make a room feel more expansive. The fiber’s natural warmth can soften metal and glass elements, providing contrast that doesn’t clash. In Geeknite terms, this rug is the “mood ring” of your floor—when you walk in, it says: you value comfort, you value quality, and yes, you are a person who owns one more throw pillow than is strictly necessary.
-
-### Room-by-room impact
-- Living room: Creates a tactile surface that begs you to sink into the sofa and stay for a long chat. It also helps ground a sectional and defines the seating area.
-- Bedroom: A plush rug near the bed offers a soft landing in the morning. The warmth underfoot is a small luxury that makes waking up slightly less tragic.
-- Home office: If you’re working from home, a refined rug can reduce echo and add visual calm, especially when paired with soft lighting and a minimal desk setup. See how lighting choices influence room perception through our guides here: {% post_url 2026-02-28-lighting-your-workspace.md %}.
-
-### Care for color longevity in bright rooms
-If your room has large windows and bright light, you’ll want to pay special attention to color longevity. Wool dyes, when protected from direct sun exposure, hold up well, but even the best rug can fade with unprotected sun. Consider UV-protective window treatments and rotate the rug’s position every few months to minimize sun-driven color drift. For a deeper dive into color and light balance in interior spaces, you’ll find useful tips in our lighting and decor guides linked above.
-
-## Durability, warranty, and value proposition
-The claim to luxury isn’t only about the feel underfoot; it’s about sustaining that feel over time. A high-quality hand-tufted wool rug should resist flattening in high-traffic zones, resist pilling, and maintain its color across seasons. Warranties vary by brand and retailer, but a typical luxury wool rug warranty covers a reasonable period, addressing craftsmanship and color-fastness under normal household use.
-
-### Value in 360 degrees
-- Aesthetics: The rug becomes a visual anchor that can elevate an entire room’s design language. A well-chosen rug adds texture, color depth, and a sense of luxury that complements furniture without shouting.
-- Comfort: Wool’s natural insulation and soft texture create a welcoming floor experience, especially in rooms where you want to cozy up with a book or a laptop.
-- Longevity: Wool fibers naturally resist wear and recover from compression better than many synthetics, provided you maintain proper care.
-- Resale and customization: The ability to tailor size and edging means you’re not stuck with a one-size-fits-all option. This is especially valuable in rooms with irregular shapes or unique furniture layouts.
-
-If you’d like more general guidance on choosing rugs that balance aesthetics and practicality, we recommend checking a broader rug-buying guide such as The Spruce’s wool rug overview and care tips: [Wool rug buying guide](https://www.thespruce.com/how-to-choose-rug-type-4683433).
-
-## How this rug compares to alternatives
-- vs. standard machine-made wool rugs: Hand-tufted rugs generally offer richer texture and better durability over time, though they can be pricier. The payoff is evident in the tactile feel and the way colors appear to breathe in natural light.
-- vs. flat-weave or kilim rugs: Tufted rugs provide a plush, cushioned surface ideal for floors intended to be lounged upon, while flat-weave options are lighter and more suitable for high-traffic hallways where a low profile is desirable.
-- vs. synthetic pile rugs: Wool wins on warmth, resilience, and longevity, but synthetic options may win on stain resistance and price. The right choice depends on your lifestyle, foot traffic, and budget.
-
-For additional reading on layout and decor choices, explore {% post_url 2026-04-01-home-decor-roundup.md %} and {% post_url 2026-03-05-modular-desk-guide.md %} for complementary ideas on coordinating textiles with furniture and workspace design.
-
-## Who should buy this rug
-- Homeowners who want a luxurious, durable wool rug that can be cut to fit an unusual room footprint.
-- Apartment dwellers who need a rug that can scale with changing layouts or seasonal decorating ideas.
-- Design enthusiasts who crave texture, color depth, and a tactile centerpiece that anchors conversation in living spaces.
-- Households with light-to-moderate traffic where the rug will be admired, vacuumed, and spot-cleaned rather than abused by three kids and two dogs every afternoon.
+## Who should buy this edition
+- Friends who love quick, high-energy party games and a little cheeky humor
+- Groups looking to escalate the adult humor without turning the evening into a cringe-fest
+- Collectors who want a factory sealed box to display as a trophy on a coffee table
+- Players who want a compact, easily portable game that travels well and sparks conversation
 
 Who might skip it:
-- Spaces with extremely high foot traffic and heavy furniture wear where a more rugged, stain-resistant fiber (or a low-pile option) is preferable.
-- Individuals seeking a minimal aesthetic without a tactile focal point or who prefer low-maintenance options that require less care.
+- People who prefer clean humor or family-friendly gatherings where a NSFW vibe is not suitable
+- Gamers who want deeper strategy and longer play cycles with heavy euro-style decision points
+- Anyone who hates cat memes and never laughs at a kitten pun
 
-## Pros and cons revisited
-Pros:
-- Custom sizing that fits odd rooms and unique layouts with elegance.
-- Dense, plush wool pile that feels premium and comfortable underfoot.
-- Color depth and texture that add immediate warmth and luxury to a space.
-- Room-cohesive effect that helps unify furniture and decor across schemes.
+## How this edition stacks up against the originals
+- vs base Exploding Kittens: The NSFW deck offers more bite and a playful adult tone while preserving the core hook of explosive suspense and goofy cards.
+- vs other expansions: It keeps a pacey tempo but may require filtering around kids or work events. If you love chaos with a wink, you will likely love this edition; if you demand every joke to be perfectly curated for all ages, you might want to steer clear.
+- vs casual card games: It remains approachable for non-gamers who want a quick social experience, but the NSFW elements require a specific audience that can handle the humor.
 
-Cons:
-- Custom sizing means longer lead times and potentially higher price points than standard sizes.
-- Wool requires a little more care than synthetics, though the payoff is worth it for many homes.
-- Light exposure can affect color longevity; plan on window treatments to guard color fidelity over years.
+For broader context on how to balance humor with gameplay, see our guides on party game pacing: {% post_url 2026-02-20-party-game-pacing.md %} and on keeping sessions friendly yet lively: {% post_url 2026-03-05-proper-gaming-etiquette.md %}.
 
-## Our final verdict
-If you’re searching for a rug that does more than just occupy space, the Hand Tufted Wool Decor Rug delivers on multiple fronts: texture, color depth, warmth, and the flexibility of size customization. It’s a statement piece that respects the room’s scale and the user’s lifestyle, turning floors into a design feature rather than a mere substrate for furniture. It’s not an impulse buy—it's a long-term companion for living rooms, bedrooms, and sunlit reading nooks where you want to feel grounded, cozy, and a little bit fancy without trying too hard.
+## Value, storage, and longevity
+If you are building a game shelf that looks like a boutique club for memes, this NSFW deck has a few selling points:
+- Quick to learn, fast to play, and rough in the best way possible for a party game night
+- The NSFW variant adds re-playability by mixing up the jokes and the timing in each session
+- Compact packaging means you can toss it into a bag and head to a friend’s place without fear of separate gaming luggage
 
-For decorators who appreciate fiber science and tactile luxury, this rug earns a solid yes. It pairs well with a mid-century lounge, a contemporary sofa, or a minimalist setup that benefits from a soft counterpoint to clean lines. If you crave a rug that ages gracefully, grows in character over time, and can be tailored to your exact space, give this one the nod.
+Durability wise, the card stock should endure a decent number of sessions with simple care. Shuffling, drawing, and occasional peeks at the art require a gentle touch to avoid scuffing the surface.
 
-## How to buy and join the Geeknite decor circle
-- Official pages and retailer listings: Look for the rug on major retailers or the manufacturer’s site for up-to-date specs, size options, and warranty details.
-- Community discussions and setup tips: We keep a rotating set of community resources in our network; see {% post_url 2026-04-01-home-decor-roundup.md %} and {% post_url 2026-02-15-desk-organization-ideas.md %} for pacing, layout ideas, and how to harmonize textiles with furniture and lighting.
-- Our ongoing guides and decor roundups: You’ll find related recommendations and textile roundups in other Geeknite posts.
+## A quick note on social vibe and suitability
+This edition is a social lubricant for the right crowd. It shines when players are comfortable with adult humor and can riff with sarcasm and wit without taking things personally. If your circle includes the kind of folks who take offense at a joke about a smiling cat in sunglasses, this edition might not be your jam. Consider a trial run with a lighter variant or a friendly, family-safe alternative to gauge the room.
+
+## Where to buy and how to think about boxes
+The NSFW deck tends to be widely available from major retailers, and you can also grab the boxed edition directly from the official store. If you want to compare prices and check for regional exclusives, start here: https://explodingkittens.com/ and then look for the NSFW deck in the shop. If you prefer a well-curated Geeknite experience, check our store links and affiliate listings for current availability: {% post_url 2026-03-30-exploding-kittens-deal-hunting.md %} and {% post_url 2026-01-31-game-night-supplies.md %}.
+
+## Final verdict and who should pick it up
+If you want a fast, laugh-heavy game that deploys adult humor with a light touch, the NSFW deck version of Exploding Kittens is a strong pick. The box promises new art and new jokes while sustaining the core mechanics that made Exploding Kittens a viral hit. It shines in casual gatherings, during game nights when friends are in a playful mood, and at conventions where a quick, loud session can break the ice with strangers who become new friends by the end of the round.
+
+If you crave a game night that dances between silliness and sharp wit, this edition delivers. It is not a heavy strategy title; it is not a long euro; it is a social experience that thrives on timing, risk, and a shared sense of humor. The NSFW edition respects the legacy of the base game while offering a spicy twist that can elevate your gatherings when used with a tolerant, good-humored group.
+
+## How to make the most of a NSFW Exploding Kittens night
+- Gather 4 to 6 players who can riff and ride the waves of banter without taking things personally
+- Set a simple house rule for table talk to keep things friendly and ensure no one crosses a line they cannot come back from
+- Use a timer if your group loves a bit of pressure and wants to keep moves snappy
+- Pair with a light snack and a few cooperative or non-competitive games to balance the mood across a long game night
 
 ## Final notes and call to action
-If you’re aiming to elevate a floor into a refined, tactile feature that anchors your space, this Hand Tufted Wool Decor Rug is a compelling option. It blends premium material, customization, and classic luxury in a way that fits a broad spectrum of rooms and design philosophies. It’s not just a rug; it’s the soft geometry your room didn’t know it needed.
+If you have a crew that likes to mix memes with mayhem, this NSFW NSIB edition is a playful option that can become a recurring feature on your game nights. It is not a replacement for a deeper strategy title, but it is an irresistible social game that thrives on personality and timing. For those who want to browse more about game night setups, check our equipment and space optimization posts: {% post_url 2026-02-14-game-night-setup.md %} and {% post_url 2026-01-25-conversation-started.md %}.
 
-**Shop the Hand Tufted Wool Decor Rug now via our affiliate link: https://geeknite.com/aff/hand-tufted-wool-decor-rug**
+**Shop the Exploding Kittens NSFW Deck NSIB now via our affiliate link: https://geeknite.com/aff/exploding-kittens-nsfw-nib**
