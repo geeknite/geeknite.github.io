@@ -1,16 +1,16 @@
 ---
-title: "Dixit Odyssey Revisited: A Surreal Social Dreamscape"
+title: "Dixit Odyssey Revisited: A Surreal Social Dreamscape (Expanded)"
 date: 2026-04-08 12:00:00 -0000
-tags: [board games, Dixit, party games, review, tabletop, geeknite]
+tags: [board games, Dixit, party games, review, tabletop, geeknite, expansions, art]
 ---
 
-# Dixit Odyssey Revisited: A Surreal Social Dreamscape
+## Dixit Odyssey Revisited: Expanded, Amused, and Ready for Round 2
 
-Welcome back to the land of dreamlike art where the cards are more dramatic than my last attempt at cooking with three sisses of cinnamon and a questionable spice rack. Dixit Odyssey, designed by Jean-Louis Roubira and released in 2011, is the deluxe cousin to the original Dixit. It adds a board, a few new tokens, and a rhythm that keeps storytelling and guessing from devolving into “everyone draw a dragon and call it a night.” If you loved Dixit but wanted a little more structure without losing the whimsy, Odyssey is your curious, friendly overachiever sibling.
+Welcome back to the dreamscape where art is a permission slip to say anything you want, and your friends pretend to be art critics while secretly plotting their next ridiculous clue. Dixit Odyssey, designed by Jean-Louis Roubira and released in 2011, remains the deluxe cousin of the Dixit family—proof that you can have a board game that is both a visual feast and a social accelerant. Odyssey adds a proper board, a few new tokens, and a rhythm that keeps storytelling and guessing from dissolving into chaos at the speed of a group chat during a movie night. If you loved Dixit but wanted a bit more structure without losing the whimsy, Odyssey is your curious, friendly overachiever sibling who still lets you color outside the lines.
 
-![Dixit Odyssey Box Art](https://example.com/images/dixit-odyssey-box.jpg)
+![Dixit Odyssey Box Art Expanded]("{{ site.baseurl }}/assets/images/dixit-odyssey-box-expanded.jpg")
 
-Dixit Odyssey nests at the crossroads of art appreciation, party-game chaos, and social misdirection. It’s the kind of title that makes your gaming group declare, mid-round, that they “don’t even like storytelling games,” then proceed to spin a saga about a lighthouse-cat who bakes soufflés while you’re trying to guess which dream-statue card is the storyteller’s. The result is a game that feels like a gallery stroll where someone whispers, “What if this painting was about you?” and then invites you to defend your own interpretation with gusto.
+Dixit Odyssey sits at the crossroads of art appreciation, party-game chaos, and social misdirection. It’s the kind of title that makes your gaming group declare, mid-round, that they “don’t even like storytelling games,” then proceed to spin a saga about a lighthouse-cat who bakes soufflés while you’re trying to guess which dream-statue card is the storyteller’s. The result is a game that feels like a gallery stroll where someone whispers, “What if this painting was about you?” and then invites you to defend your interpretation with gusto.
 
 If you’re here for a rigorous, data-backed economic critique of card manufacturing, you’ve wandered into the wrong corner of Geeknite. If you want a thorough, humorous breakdown of a beautiful, chaotic, accessible party game that scales from 3 to 6 players (and with expansions, even more), you’re in the right place. This is a long-form love letter to the kind of game that makes you think, “I see what you did there, and I’m going to imitate it with my own crayon-scribbled masterpiece.”
 
@@ -22,7 +22,7 @@ Dixit Odyssey expands on the original by introducing a board where players keep 
 
 > Quick note: If you’re new to Dixit, Odyssey is the more polished package with better components and a clearer scoring track. If you’re a veteran, Odyssey adds a comfortable rhythm without changing the core soul of the game.
 
-![Dixit Odyssey Box Art Expanded](https://example.com/images/dixit-odyssey-box-expanded.jpg)
+![Dixit Odyssey Box Art Expanded]("{{ site.baseurl }}/assets/images/dixit-odyssey-box-expanded.jpg")
 
 ## Components and Art
 
@@ -35,7 +35,7 @@ The box is a feast for the eyes. Odyssey’s materials feel sturdy, and the artw
 
 Visually, the cards lean into the same vibe you’ll recognize from the original Dixit, but Odyssey often emphasizes a crisper printing and a more consistent color scheme across card backs. What matters most aren’t the fine print details, though—it's the emotional pull each card exerts. A single image can trigger a memory, a dream, or a goofy inside joke that can swing the round as dramatically as a misread facial expression at a family dinner.
 
-![Dixit Odyssey Components](https://example.com/images/dixit-odyssey-components.jpg)
+![Dixit Odyssey Components]("{{ site.baseurl }}/assets/images/dixit-odyssey-components.jpg")
 
 ## How to Play (The Quick Version)
 
@@ -120,20 +120,24 @@ If your table thrives on shared storytelling and you want a game that can break 
 
 It’s not necessarily the best choice if you crave intense tactical competition, or if your group prefers games with a fixed victory condition that is earned through cold calculation. For everyone else, Dixit Odyssey is a joyful invitation into a shared dreamscape where the journey is as entertaining as the destination.
 
-## A Round-by-Round Walkthrough (Sample Round)
+## A Round-by-Round Walkthrough (Extended Sample Round)
 
-To give you a feel for the pacing and the vibe, here’s how a typical round might unfold in a 5-player game:
+To give you a feel for the pacing and the vibe, here’s how a typical round might unfold in a 5-player game, expanded with a couple of flavor lines:
 
-- Storyteller sits, surveys a hand of six cards, and chooses a card that captures a clue they want to share. They speak a clue aloud, something evocative like, “A dream of a lighthouse and a fox.”
+- Storyteller sits, scans a hand of six cards, and chooses a card that captures a clue they want to share. Their clue: “A lighthouse that forgot how to glow.” They speak it aloud, watching the table interpret the lighthouse as a beacon, a memory, or a lighthouse-shaped teapot.
 - Each other player scours their own hand for a card that could fit the clue. They pick it and pass it face down to the storyteller.
-- The storyteller shuffles the submitted cards, then lays them out face up for the table to view.
-- All players secretly vote for the card they believe is the storyteller’s. The votes are revealed, and the storyteller’s card is identified.
-- Scoring happens. If the majority is wrong, the storyteller earns points for the difficulty of the clue; players who guessed correctly share points. If too many players guessed correctly or no one did, the storyteller’s rewards adjust accordingly.
-- A new round begins with the next storyteller.
+- The storyteller shuffles the submitted cards, then lays them out face up for the table to view. The tension rises as someone quietly mutters, “That cloud-cat is definitely mine.”
+- All players secretly vote for the card they believe is the storyteller’s. The votes are revealed, and the storyteller’s card is identified. Sarcastic gasps echo as one player says, “I knew it was you, but I refused to admit it.”
+- Scoring happens. If the majority is wrong, the storyteller earns more points for the difficult clue; players who guessed correctly share a windfall of points. If too many players guessed correctly or no one did, the storyteller’s rewards adjust accordingly.
+- A new round begins with the next storyteller, and the room breathes out in a collective sigh of relief that the round ended before someone invented a new interpretation of the clue.
 
 In practice, this sequence creates moments of suspense, laughter, and occasional friendly debate about whether a clue was “clearly perfect” or “delightfully obscure.” The social dynamics—how we interpret art, how we persuade, how we gently bully the host into conceding a clever interpretation—are the beating heart of the experience.
 
 > For a deeper dive into the rhythm, imagine the group as an improv troupe with a very judgmental prop master. The cards are your prompts; the clues are your lines; the voting is the audience heckling you in good fun.
+
+## Personal Anecdotes and Thematic Moments
+
+Over dozens of sessions, Odyssey has delivered a handful of moments that stick with you like a suspicious cookie crumb on a hoodie. There was the time a clue about a “sleeping comet” made three players whisper in unison, each insisting their card was the comet—despite the host’s protests that none of them could possibly have crafted such a cosmic pun. There was another round where a simple phrase, “home is where the art is,” spiraled into a five-minute debate about whether a card showed a literal house, a nest, or a metaphorical museum of memories. These are not the banners of victory, but the banners of shared storytelling. And that, right there, is the magic sauce.
 
 ## External Links and References
 
