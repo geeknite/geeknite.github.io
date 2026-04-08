@@ -60,15 +60,17 @@ If you already love the base game but crave more variety in a bigger group, the 
 
 The Party Pack is marketed as family-and-party friendly. Yes, it is great for kids learning social cues, but it is also a playground for adults who want to sink their teeth into a clean, fast-paced chaos that still feels clever. The humor stays light enough for younger players, yet the social dynamics give grown-ups plenty of opportunities to show off micro-bluffs and cunning turn-taking.
 
-For the Kids
-The silliness of the cards and turn order provides a natural framework for quick thinking and reading the room. The learning curve is forgiving, and the pacing keeps energy high. If your household values rapid play and high-energy outcomes, this edition is a durable choice that can become a mainstay on family game nights.
+### For the Kids
+The silliness of the cards and turn order provides a natural framework for quick thinking and reading the room. The learning curve is forgiving, and the pacing keeps energy high. If your household values rapid play and high-energy outcomes, this edition is a durable choice that can become a mainstay on family game nights. It also offers a gentle introduction to risk assessment: do you draw, or do you bluff? The kids will enjoy the shared suspense and knee-slapping payoffs when a bluff pays off or a misread blows up in someone’s face.
 
-For the Adults
-Adults will appreciate the added card variety and the social spectacle that accompanies it. The pack fosters quick banter and playful one-upmanship in a way that is accessible and inclusive. It is the kind of game that invites inside jokes and bragging rights about a bold play that paid off through a perfect bluff or a clever misdirection.
+### For the Adults
+Adults will appreciate the added card variety and the social spectacle that accompanies it. The pack fosters quick banter and playful one-upmanship in a way that is accessible and inclusive. It is the kind of game that invites inside jokes and bragging rights about a bold play that paid off through a perfect bluff or a clever misdirection. And yes, the late-game reveals can turn into hilarious storytelling material for weeks of group chats and after-work beers.
 
 ## The Humor: Cats, Chaos, and Clean Jokes
 
-Exploding Kittens has always thrived on a blend of quirky visuals and clever humor. The Party Pack doubles down on that DNA. Expect puns that land better when delivered with a grin, cat illustrations that look suspiciously like something your pet might try to do, and jokes that skew toward witty rather than edgy. It is the kind of humor that travels well at gatherings with mixed ages, and it is a good fit for groups that want laughs without crossing lines.
+Exploding Kittens has always thrived on a blend of quirky visuals and clever humor. The Party Pack doubles down on that DNA. Expect puns that land better when delivered with a grin, cat illustrations that look suspiciously like something your pet might try to do, and jokes that skew toward witty rather than edgy. It is the kind of humor that travels well at gatherings with mixed ages, and it is a good fit for groups that want laughs without crossing lines. The humor works as social glue: it lowers defenses, invites storytelling, and turns misplays into punchlines rather than grudges.
+
+If you’re worried about the cat meme fatigue, fear not: the jokes ride a little higher on wit and situational comedy than on in-your-face memes. The Party Pack uses humor to remind everyone that the goal is laughter, not harm, and it accomplishes that without neutering the chaos.
 
 ## Strategy and Tactics: How to Make the Most of It
 
@@ -76,6 +78,7 @@ Exploding Kittens has always thrived on a blend of quirky visuals and clever hum
 - Time your defenses: The right moment to deploy a defense or bluff can swing the table. The more players you have, the more options you have to misdirect and mislead.
 - Diversify your targets: Avoid fixating on a single player; spread your attention to maintain energy and avoid stagnation.
 - Adapt to the group: A party pack thrives on dynamic groups. Be ready to switch your trash talk style between friendly and cheeky to keep the vibe inclusive.
+- Leverage late arrivals: A newcomer can become a spoiler or a savior depending on when you bring them into the fold. Use their surprise entry to your advantage with a quick, cheeky reset.
 
 Remember, practice helps. The more you play, the better you get at spotting patterns, predicting chaos, and turning messy moments into legendary stories you will retell with a smile.
 
