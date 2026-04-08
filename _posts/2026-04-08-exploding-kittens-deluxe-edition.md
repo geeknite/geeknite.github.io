@@ -35,7 +35,7 @@ One note about humor: while the cat jokes land reliably with adults and teen pla
 
 ## Gameplay Basics
 
-Exploding Kittens remains a push-your-luck party game at heart. The Deluxe Edition expands the pool of cards with more cat-themed antics and defensive tools, which slightly lengthens the average playtime and adds a few more misdirection opportunities. The core loop is simple: you draw cards, you hope you don’t draw an Exploding Kitten, you use Defuse or risk elimination. The Deluxe Edition adds more levers you can pull, which introduces a bit more strategy without demanding a full-blown game-night manual.
+Exploding Kittens remains a push-your-luck party game at heart. The Deluxe Edition expands the pool of cards with more cat-themed antics and defensive tools, which slightly lengthen the average playtime and add a few more misdirection opportunities. The core loop is simple: you draw cards, you hope you don’t draw an Exploding Kitten, you use Defuse or risk elimination. The Deluxe Edition adds more levers you can pull, which introduces a bit more strategy without demanding a full-blown game-night manual.
 
 #### How to Play (Short Version) – The Deluxe Flavor
 
@@ -134,6 +134,7 @@ For players who crave a solo challenge, the most reliable path is to adopt a tim
 - How long does a typical game take? Usually 15-25 minutes, depending on how aggressively you flirt with danger and how effective your defusing skills turn out to be.
 - Is it suitable for kids? The humor is accessible to older children and adults, but some jokes and references may go over younger players’ heads. Adjust the tone in your table talk to keep the environment friendly for all ages.
 - Can I combine the Deluxe Edition with the base game for more chaos? Yes, you can mix components from both versions, but be mindful of card counts and house rules. A little chaos goes a long way, so don’t let the two versions collide like cats at a laser pointer convention.
+- Does the Deluxe Edition require more space? A touch more table real estate is helpful for the larger components and the longer play sessions, but you can still play on a modest coffee table with a little planning.
 
 ### Related Reads
 
