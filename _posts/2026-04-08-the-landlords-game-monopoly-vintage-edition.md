@@ -8,6 +8,8 @@ tags:
   - the-landlords-game
   - vintage-edition
   - gaming-culture
+  - design
+  - analysis
 ---
 
 ## Introduction: A board game with a moral compass that somehow became a meme about hotels
