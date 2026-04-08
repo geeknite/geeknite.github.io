@@ -1,5 +1,5 @@
 ---
-ttitle: Thames & Kosmos — The Gang Review Expanded
+title: Thames & Kosmos — The Gang Review Expanded
 date: 2026-04-08
 tags:
   - board-games
@@ -10,16 +10,17 @@ tags:
   - the-gang
 ---
 
-![The Gang box art](/assets/images/the-gang.jpg)
-![Crew around a table](/assets/images/the-gang-table.jpg)
+![]( /assets/images/the-gang.jpg)
 
-Thames and Kosmos drop a curious salad onto your coffee table: a cooperative card game that looks and behaves like poker, but begs you to work together instead of shouting into the void about who got the best hand. The Gang is a cheeky wink and a dare wrapped in glossy packaging. It calls itself a cooperative poker card game, pitched as a crew heist where your success hinges on clever hand management, sharp bluffing, and a willingness to read your friends like an open rulebook you left in the rain. The pitch remains irresistibly glossy and somehow still undercooked enough to feel approachable. Assemble a crew, meet a string of challenges by playing cards with ranks, suits, and a handful of special abilities, and somehow win as a team without any single person hogging all the glory. It sounds like a party game fused with a caper movie, where the soundtrack is a malfunctioning wallet and the stakes are not money but your social equity and the fragile balance of who you will still want to ride the subway with after the table talk storms past midnight.
+![]( /assets/images/the-gang-table.jpg)
+
+Thames and Kosmos drops a curious salad onto your coffee table: a cooperative card game that looks and behaves like poker, but begs you to work together instead of shouting into the void about who got the best hand. The Gang is a cheeky wink and a dare wrapped in glossy packaging. It calls itself a cooperative poker card game, pitched as a crew heist where success hinges on clever hand management, sharp bluffing, and a willingness to read friends like an open rulebook you left in the rain. The pitch remains irresistibly glossy and somehow still undercooked enough to feel approachable. Assemble a crew, meet a string of challenges by playing cards with ranks, suits, and a handful of special abilities, and somehow win as a team without any single person hogging all the glory. It sounds like a party game fused with a caper movie, where the soundtrack is a malfunctioning wallet and the stakes are not money but social equity and the fragile balance of who you will still want to ride the subway with after the table talk storms past midnight.
 
 In this expanded take, we crack open the tin (carefully, so the cat does not use it as a scratching post), shuffle through the themes again, and stress test the mechanics in the kind of real world chaos that only a group of friends and a mischievous cat can provide. If you are here to decide whether The Gang deserves a spot on your shelf, buckle up: this one has more twists than a pretzel stand at a sci fi convention, and more drama than a group chat after an Instagram drop.
 
-The Gang is a cooperative experience, but not the kind that makes your group hug in a rom com montage. It is the cunningly cooperative kind that asks you to predict teammates moves, bluff with a straight face, and occasionally sacrifice a perfect hand for the greater good. We are going to unpack components, walk through a typical round (with inevitable cat interference), talk about luck versus skill, and compare The Gang to other coop adjacent experiences you might be weighing while coffee cools and social anxiety about table talk kicks in.
+The Gang is a cooperative experience, but not the kind that makes your group hug in a rom com montage. It is the cunningly cooperative kind that asks you to predict teammates moves, bluff with a straight face, and occasionally sacrifice a perfect hand for the greater good. We are going to unpack components, walk through a typical round, talk about luck versus skill, and compare The Gang to other coop adjacent experiences you might be weighing while coffee cools and social anxiety about table talk kicks in.
 
-If you are curious about more coop centric card games on Geeknite you might want to peek at our primer on cooperative games and how they nudge your brain toward teamwork without a therapy bill: [Cooperative games primer]({% post_url 2025-12-01-cooperative-games-essentials %}). Now, let us dive into the specifics of this stylishly suspicious package.
+If you are curious about more coop centric card games on Geeknite you might want to peek at our primer on cooperative games and how they nudge your brain toward teamwork without a therapy bill: {% post_url 2025-12-01-cooperative-games-essentials %}. Now, let us dive into the specifics of this stylishly suspicious package.
 
 ## Overview and First Impressions
 
@@ -99,7 +100,7 @@ If you have played other cooperative card games with a poker flavor, you have li
 
 If you are curious about the broader spectrum of cooperative card games, you can compare the flow to our primer on cooperative games and see how different titles handle the tension between personal gain and collective success. It is a small universe, but once you dive in, you will notice how each title nudges you to adapt your approach to the table mood. For a quick stroll down memory lane, check the primer linked below and imagine how your group might react to each tone:
 
-- [Cooperative games primer]({% post_url 2025-12-01-cooperative-games-essentials %})
+- {% post_url 2025-12-01-cooperative-games-essentials %}
 
 ## Artistry, Production Value, and Practicalities
 
@@ -113,13 +114,13 @@ One caveat: the more you lean into heavy strategy, the more you risk a lull as p
 
 Should The Gang find itself on your shelf, the short answer is yes if you enjoy cooperative dynamics that do not require everyone to have poker face discipline rivaling a casino floor robot. It is approachable for newcomers to join quickly, but it also offers a layer of nuance for those who enjoy role dynamics, reading people, and orchestrating a team effort without turning table talk into existential crisis theater.
 
-If you are shopping for a game night that blends social interaction with tactical decisions, The Gang is a strong candidate that will not let the room stagnate. It is not going to replace your go to heavy co ops, but it will happily share the stage with them by offering a lighter, more theater mitered approach to collaborative problem solving. It is a great bridge title when you want laughter and chat as part of the strategy, rather than a pure brain burn session.
+If you are shopping for a game night that blends social interaction with tactical decisions, The Gang is a strong candidate that will not let the room stagnate. It is not going to replace your go to heavy co ops, but it will happily share the stage with them by offering a lighter, more theater minded approach to collaborative problem solving. It is a great bridge title when you want laughter and chat as part of the strategy, rather than a pure brain burn session.
 
-However, if you exist at the other end of the spectrum—if you crave strict rules mastery and long, intricate rulebooks before you roll any die—the Gang might feel breezy to a fault. It may also disappoint players who crave purely deterministic outcomes; the charm of a cooperative poker card game is often in its unpredictability. In that sense, The Gang is best enjoyed with a crew that loves talking through decisions, celebrating group wins, and embracing the chaos that arises when a table full of friends attempts to out bluff a room full of expectations.
+However, if you exist at the other end of the spectrum — if you crave strict rules mastery and long, intricate rulebooks before you roll any die — The Gang might feel breezy to a fault. It may also disappoint players who crave purely deterministic outcomes; the charm of a cooperative poker card game is often in its unpredictability. In that sense, The Gang is best enjoyed with a crew that loves talking through decisions, celebrating group wins, and embracing the chaos that arises when a table full of friends attempts to out bluff a room full of expectations.
 
 ## Where to Buy and Additional Resources
 
-If you are convinced this is the chaos your next game night needs, you can check the official product page for more details, variants, and availability: https://www.thamesandkosmos.com/en/products/the-gang. If you are the type who loves reading about a game s ideas before you buy, we won t judge. You can also explore related topics on our site: [Cooperative games primer]({% post_url 2025-12-01-cooperative-games-essentials %}).
+If you are convinced this is the chaos your next game night needs, you can check the official product page for more details, variants, and availability: https://www.thamesandkosmos.com/en/products/the-gang. If you are the type who loves reading about a game ideas before you buy, we won t judge. You can also explore related topics on our site: [Cooperative games primer]({% post_url 2025-12-01-cooperative-games-essentials %}).
 
 For players who want a direct path to live action game nights, consider combining The Gang with other light to medium cooperative titles in your collection. The mix can yield amazing sessions where the line between strategic planning and playful chaos becomes the night s running joke.
 
