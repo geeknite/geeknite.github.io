@@ -47,6 +47,11 @@ Balance remains a key concern, of course. The designers have attempted to weave 
 
 For those who enjoy set-piece missions, the Outlands shines. There are scenarios where the terrain itself becomes an adversary or ally—wind-swept canyons that change line of sight, dwindling water caches that force risky decisions, and salvage hunts where you recover gear but risk injury. It’s the kind of design that makes you want to set up a proper diorama: dusty crates, rusting conveyors, and a horizon that feels just a little too wide for the hive you know.
 
+### Frontier Outposts, Supply Lines, and Narrative Cards
+- Frontier outposts are not mere scenery; they are objectives that shape tempo. Holding a post can grant resources, control in a region, or even narrative boons that influence later missions.
+- Supply lines introduce tension. If an opponent sabotages or disrupts your line, you must improvise—scramble scavenged gear, renegotiate caravans, or pivot your strategy mid-campaign.
+- Narrative cards inject story twists that feel earned rather than contrived. Friends who roll well on a “Chance Encounter” card might stumble into a merchant who offers a bargain you shouldn’t take—until you do, and it shifts the entire arc of your season.
+
 ## Factions, Gangs, and New Toys
 New gangs bring a refreshing dynamic to Necromunda. Each faction has a distinct flavor of play and a set of thematic rules that encourage varied strategies. Whether you prefer the improvisational brutality of a frontier-ready gang or the cunning rasp of a trader-priest network, there’s something here to scratch your hobby itch.
 
@@ -62,6 +67,11 @@ The narrative core of the Book of the Outlands is its campaign structure. It’s
 Story beats happen across sessions rather than within a single game. You’ll track how many outposts you hold, how many caravans you lose to raiders, and which factions you’ve managed to form temporary truces with. The satisfaction of a successful season is in the interplay of short-term tactical victories and long-term narrative momentum. It’s the tabletop equivalent of watching a slow-burn TV arc unfold in side quests and board setups, and it’s absolutely delicious if you’re in the mood for something more than a one-and-done skirmish.
 
 If your group enjoys cooperative storytelling, you’ll appreciate the way the book scaffolds player input into the campaign. You’re encouraged to contribute background lore for the factions, your own homebrew contracts, and even the occasional in-fiction emergency that causes a temporary alignment shift. It’s a brave, if slightly chaotic, invitation to co-create a shared universe around your table.
+
+### Narrative Pivots and Player-Driven Lore
+- Players can draft faction histories, map a frontier, and seed future plot twists with contract-like pacts.
+- Temporary truces introduce trust dynamics that rival the best poker tells in tabletop form.
+- Side quests and salvage hunts keep the group engaged between big battles, ensuring every session feels consequential.
 
 ## Hobby and Miniature Standouts
 From a hobby perspective, the Book of the Outlands provides ample opportunities for conversions and diorama glory. The frontier aesthetic invites weathering, dust, and salvage-culture chrome that looks great on the tabletop and photographs well for painting tutorials. If you’re someone who enjoys a good project, you’ll likely spend more time planning paint schemes and basing than playing the first few sessions— which, honestly, is part of the charm here.
