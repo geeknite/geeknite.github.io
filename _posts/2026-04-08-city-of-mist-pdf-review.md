@@ -79,6 +79,13 @@ What does this mean for your table? Faster setup, less rule-flipping, and more t
 4) Use the quick-reference tools: The PDF’s tables and sidebars are meant for on-the-fly use. Keep key tags and threat ratings at your fingertips so you aren’t pausing the game to hunt for a rule. A lightweight cheat sheet for common checks speeds things up and keeps momentum high.
 5) Close with consequence and growth: City of Mist rewards endings that reflect how the city and the hero have changed each other. Conclude sessions by highlighting how a Mythos has reshaped the character’s life and how the city has reoriented itself in response to the changes you’ve co-created.
 
+## Batch of practical tips for GMs and players
+- Use a “city mood board” as a living document: post-its with Mythos sparks, Logos echoes, and a running tally of who in the city knows what. The PDF supports this with prompts and checklists, but the real magic happens when you let the players doodle on the city’s skin.
+- Treat each session as a scene in a larger neon-noir film: think beat-by-beat pacing, with a cliffhanger tag that pulls players back for the next episode. The PDF’s pacing guidance makes this doable even if you’re juggling two jobs and a cat that insists on dramatic entrances.
+- Design encounters as narrative beats first, mechanics second: when you frame the challenge as a mythic test rather than a dice grind, players lean into roleplaying and problem-solving in ways a crunchy system rarely encourages.
+- For accessibility: maintain a shared glossary on Mythos and Logos. The PDF has a glossary and index, but a living reader’s guide at the table speeds up onboarding and reduces confusion during tense moments.
+- Printing and home setup: print-ahead a small stack of reference pages, a GM-facing sheet, and a character sheet. Two-page spreads are common, and printing allows you to have a “GM screen” that is actually a fold-out mini-map of clues and suspects.
+
 ## External links and further reading
 - Official City of Mist site: https://cityofmist.com
 - DriveThruRPG listing (digital PDF): https://www.drivethrurpg.com/browse.php?filters=0_0_0_0_0_0
