@@ -1,5 +1,5 @@
 ---
-title: Exploding Kittens Original Edition: Sealed MISB, New NIP
+title: Exploding Kittens Original Edition — Sealed MISB, New NIP (Expanded Edition)
 date: 2026-04-08
 tags:
   - board-games
@@ -15,11 +15,13 @@ layout: post
 
 If you came here for a sterile, clinical product teardown, I have bad news: you came to the wrong nebula. Exploding Kittens Original Edition in MISB (mint in sealed box) and NIP (new in plastic) is the kind of item that makes even seasoned geeks giggle like a cat who just sat on a laser pointer. The box screams chaos in the most adorable way possible: bold, goofy art, a playful bomb-cat vibe, and a promise that no two hands will handle it the same way without some perfectly timed puns.
 
-In this unboxing, we crack the shrink wrap with the enthusiasm of a level-1 wizard opening a treasure chest labeled only with a cat emoji. The box texture is sturdy enough to survive a chaotic game night and at least one accidental spill of soda, because bottle caps and cardboard are sworn frenemies. Inside, you get a deck of cards, a few rules sheets that look like they were written during a very caffeinated board game meeting, and a vibe so cheerful you could fuse it with a lighthearted meme and still get a wholesome product.
+In this expanded look, we crack the shrink wrap with the enthusiasm of a level-1 wizard opening a treasure chest labeled only with a cat emoji. The box texture is sturdy enough to survive a chaotic game night and at least one accidental spill of soda, because bottle caps and cardboard are sworn frenemies. Inside, you get a deck of cards, a few rules sheets that look like they were written during a very caffeinated board game meeting, and a vibe so cheerful you could fuse it with a lighthearted meme and still get a wholesome product.
 
 And there it is: the iconic deck, weighted with card stock that feels substantial enough to survive your typical kitchen-table dungeon run. The art is chaotic cute, the kind that makes you want to join a club just to have more reasons to show your friends the kitten-with-a-bomb meme in real life. There are plenty of glossy finishes, bold colors, and that playful, slightly anarchic energy that made Exploding Kittens a phenomenon in the first place.
 
 > Quick tip: if you plan to actually play this sealed, don’t. But if you plan to keep it, you’re already winning at life. The sealed edition has a special flavor of nostalgia that is hard to replicate once the shrink wrap is off and the cards have seen daylight and a few spilled drinks.
+
+![Unboxing MISB copy]( /assets/images/exploding-kittens-original-edition-misb-unboxing.jpg)
 
 ## What MISB and NIP Mean for Collectors (and Players)
 
@@ -66,7 +68,7 @@ If you want a more history-forward take on the brand’s humor evolution, check 
 
 ## Market Value and Collector Value: Is Sealed Still Gold?
 
-Time is the most mysterious force in the universe, and it has a strange way of transforming ordinary cardboard into something you’ll brag about at a convention. Sealed Original Edition boxes of Exploding Kittens have a certain nostalgic glow that makes them appealing for collectors who joined the meme train early. The market varies by condition, regional demand, and whether the box show any signs of humidity battles. MISB is the holy grail for some, while others are totally content with NIP for gameplay and long-term storage.
+Time is the most mysterious force in the universe, and it has a strange way of transforming ordinary cardboard into something you’ll brag about at a convention. Sealed Original Edition boxes of Exploding Kittens have a certain nostalgic glow that makes them appealing for collectors who joined the meme train early. The market varies by condition, regional demand, and whether the box shows any signs of humidity battles. MISB is the holy grail for some, while others are totally content with NIP for gameplay and long-term storage.
 
 Prices swing, but the value proposition isn’t just about money. It’s about owning a piece of a moment when a goofy cat card game exploded into a global sensation. The newer editions and expansions did improve production quality in some areas, but for many fans the charm of the Original Edition is tied to memory and the specific artwork that defined the early wave of memes.
 
@@ -81,7 +83,7 @@ Key strategic notes:
 
 If you crave deeper tactical layers, this may not scratch every itch. But for a rowdy game night with friends who love puns and pop culture references, the Original Edition nails the feel and the pacing.
 
-For a deeper dive into rules and interplay with specific card types, revisit the quick guide here: {% post_url 2024 06 20 exploding-kittens-rules-quick-guide %}.
+For a deeper dive into rules and interplay with specific card types, revisit the quick guide here: {% post_url 2024 06 20 exploding-kittens-rules-essentials %}.
 
 ## Comparisons: Original Edition vs Later Variants
 
@@ -107,6 +109,8 @@ A sealed box is a time capsule. Once the seal is broken, you’ll be tempted to 
 - Gentle handling: even though the cards are durable, you’ll thank your future self for not shuffling with greasy hands after a snack-fueled session.
 
 Storage also means resisting the urge to open the box just to look at the art every few months. There’s a fine line between devotion and cardio for your dopamine. If you plan to flip the box for resale, keep receipts and packaging tidy—a small folder of provenance can go a long way toward maintaining that MISB sparkle.
+
+![See the Future card example]( /assets/images/exploding-kittens-card-example.jpg)
 
 ## The Geeknite Verdict: Is It Worth It?
 
