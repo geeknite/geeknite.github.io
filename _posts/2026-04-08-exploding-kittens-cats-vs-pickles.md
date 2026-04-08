@@ -1,5 +1,5 @@
 ---
-title: Exploding Kittens: Cats vs Pickles — A Geeknite Review (Expanded)
+title: Exploding Kittens: Cats vs Pickles — Expanded Geeknite Review
 date: 2026-04-08
 tags:
   - board games
@@ -8,9 +8,10 @@ tags:
   - party games
   - review
   - tabletop
+  - geeknite
 ---
 
-## Exploding Kittens: Cats vs Pickles — A Geeknite Review (Expanded)
+## Exploding Kittens: Cats vs Pickles — Expanded Geeknite Review
 
 ![Cat vs Pickles art](/assets/images/cats-vs-pickles-art.jpg)
 
@@ -146,7 +147,7 @@ The game scales nicely for families and mixed-age groups. It’s loud and colorf
 
 Overall, Exploding Kittens: Cats vs Pickles is a solid addition to the party game landscape. It doesn’t pretend to be a heavy strategy experience; it doubles down on laugh-out-loud moments, quick setup, and a shared sense of ridiculous fun. It’s best enjoyed with a group that loves improv and memes—the kind of table where someone will turn a missed card into a running joke that lasts all night.
 
-Geeknite rating: 4 out of 5 cat tails. It loses a star for not being as relentlessly tight as the original in pure playtime efficiency, but it wins back two stars for the sheer joy and social ripple effect it creates at the table.
+Geeknite rating: 4.5 out of 5 cat tails. It loses a star for not being as relentlessly tight as the original in pure playtime efficiency, but it wins back a star for the sheer joy and social ripple effect it creates at the table.
 
 If you want a distilled recommendation: buy it if your game nights are about energy, memes, and great company. Skip it if you crave deep tactical play or a hushed, intense dungeon crawl with dice that rattle like polished bones.
 
