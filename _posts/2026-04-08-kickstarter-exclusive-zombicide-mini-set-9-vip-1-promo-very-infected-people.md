@@ -14,7 +14,7 @@ tags:
 
 # Kickstarter Exclusive Zombicide Mini Set 9 VIP 1 Promo: Very Infected People (Updated Review)
 
-![](![Zombicide Set 9 VIP 1 Promo](./assets/images/zombicide-set9-vip1.jpg "Zombicide Set 9 VIP 1 Promo"){: .center-image })
+![Zombicide Set 9 VIP 1 Promo]( {{ '/assets/images/zombicide-set9-vip1.jpg' | relative_url }}){: .center-image }
 
 If you’ve ever wondered what happens when a cheerful zombie apocalypse slides into your hobby room wearing a VIP badge, congratulations: you’ve found the right corner of Geeknite. Today we revisit and expand upon the Kickstarter Exclusive Zombicide Mini Set 9 VIP 1 Promo, affectionately christened “Very Infected People.” This promo pack arrived with the subtle percussion of plastic and the satisfying clack of a tiny hatchet against a display tray. Strap in, because this update will nudge every facet of the set—from the minis and cards to the packaging and price—through a longer, louder lens. And yes, we’ll pepper in a few memes for good measure, because a post-apo world is obviously a world full of punchlines.
 
@@ -136,6 +136,7 @@ If you’ve sampled other Zombicide Kickstarter waves or similar promo drops, Se
 ---
 
 ## See Also
+
 - {% post_url 2025-04-12-zombicide-black-plague-review %} Zombicide Black Plague Review: When Fire and Blood Collide
 - {% post_url 2025-11-07-kickstarter-roundup %} Kickstarter Roundup: The Great Board Game Follies of 2025
 - {% post_url 2026-02-15-kickoff-geeknite-zombicide-roundup %} Zombicide Roundup: First Impressions from the Hive
@@ -155,5 +156,3 @@ If you want a direct route to the post that sparked this piece, you can also che
 **Verdict with a wink: the Very Infected People are here to make your nights a little livelier, your photos a little more dramatic, and your gaming group a little more cautious about what lurks behind the coffee table.**
 
 **Buy via our affiliate link: https://affiliates.geeknite.example/kz9vip**
-
----
