@@ -18,6 +18,8 @@ In Geeknite terms, Phase 10 is a sandbox RPG for your hands. The phases are the 
 
 > External sneak peek: Mattel’s Phase 10 product page with current price and editions: [Mattel Phase 10 Original Card Game](https://www.mattel.com/en-us/products/phase-10-original-card-game)
 
+{% include image.html src="assets/phase10-cards.jpg" alt="Phase 10 cards" %}
+
 ![Phase 10 cards](assets/phase10-cards.jpg)
 
 ### A quick pitch: what is Phase 10 anyway?
@@ -112,20 +114,17 @@ Cons:
 
 For those who want a modern refresh or a slightly sharper experience, there are newer games with phase-like objectives or more dynamic player interaction. But the original Phase 10 has a timeless charm that makes it a safe bet for game night staples. It’s the type of game you reach for when you want something that’s not overly intense but still sparkly enough to keep the energy up.
 
-### A nod to the geeks who love cross-links
+### A nod to cross-links and cross-promotions
 If you’re the type who loves cross-promoting content across your stacks of games, you’ll enjoy connecting Phase 10 with other posts in the Geeknite archive. Check out our deeper dive on card-sorting strategies in [Phase 10 strategy breakdowns and how to win more often]({% post_url 2025-11-02-phase-10-strategy-breakdown %}) and our lighthearted comparison with Uno in [Phase 10 vs. Uno: a classic face-off]({% post_url 2025-07-14-phase-10-vs-uno %}). You might also enjoy our look into the mechanics of card-phase games in [Card Phase Mechanics 101]({% post_url 2024-05-18-card-phase-mechanics-101 %}).
 
-### The social mosaic: a night in the Phase-10 universe
-Phase 10 nights tend to become memory-makers. A long-cold phone call after a rainy Thursday might start with a simple misdeal and end with a story about the time someone discarded the exact card another player needed to finish Phase 7, triggering a chain reaction of coffee-spilling laughter. It’s not just a game; it’s a social ritual that reinforces how you interact with friends, siblings, roommates, or that one cousin who only visits for holidays and somehow makes Phase 9 look easy.
+### The social mosaic: a night in the Phase-10 universe (redux)
+Phase 10 nights tend to become memory-makers. A long-cold phone call after a rainy Thursday might start with a simple misdeal and end with a story about the time someone discarded the exact card another player needed to finish Phase 7, triggering a chain reaction of coffee-spilling laughter. It’s not just a game; it’s a social ritual that reinforces how you interact with friends, siblings, roommates, or that one cousin who only visits for holidays and somehow makes Phase 9 look easy. And yes, there are stories of dramatic shade during discards and the legendary “I’ll finish Phase 10, somehow, while everyone else is arguing about the color of the phase card.”
 
-### The post-night wrap-up
-In the end, Phase 10 is a friendly game with a built-in arc. It invites you to embrace a little chaos, a pinch of strategy, and a splash of nostalgia. If you’re building a board-game shelf or just want something that can be learned in one sitting and sprawl into a full evening of hijinks, Phase 10 will likely earn a permanent spot near the snacks.
-
-And if you’re still not convinced, there’s only one test that matters: gather a crew, shuffle the deck, and let the phase countdown begin. Your friends will either become loyal fans or commit to a strict “no Phase 10 on rainy Thursdays ever again” pact. Either way, you’ll have stories to tell, snacks to eat, and a card game that is willing to endure a thousand replays with the same goofy enthusiasm it started with.
+### The post-night wrap-up (redux)
+In the end, Phase 10 remains a friendly game with a built-in arc. It invites you to embrace a little chaos, a pinch of strategy, and a splash of nostalgia. If you’re building a board-game shelf or just want something that can be learned in one sitting and sprawl into a full evening of hijinks, Phase 10 will likely earn a permanent spot near the snacks. And if you’re still not convinced, there’s only one test that matters: gather a crew, shuffle the deck, and let the phase countdown begin. Your friends will either become loyal fans or sign an unwritten pact that Phase 10 is banned on rainy Thursdays forever. Either way, you’ll have stories to tell, snacks to eat, and a card game that is willing to endure a thousand replays with the same goofy enthusiasm it started with.
 
 ## A deeper dive into the Phase-10 ecosystem (history, variants, and why it endures)
 Phase 10 may be an older title, but its design survived the test of time by leaning into a simple yet flexible engine: phase-based objectives layered onto hand-management, with enough unpredictability to stay fresh. In practice, that means:
-
 - You don’t draft a fixed hand; you chase evolving targets as the phases reveal themselves in real-time as players advance. This makes every round feel like a new puzzle, even if the pieces look familiar.
 - The social contract is explicit but forgiving. People joke, bluff, and occasionally betray. This isn’t a pure abstract puzzle; it’s a social activity that happens to use cards as the interface.
 - The visuals and components are approachable. Bright colors, bold numbers, and large enough cards reduce the intimidation factor for newcomers and keep the table accessible after a long workday.
@@ -170,10 +169,7 @@ Phase 10 nights tend to become memory-makers. A long-cold phone call after a rai
 ### The post-night wrap-up (redux)
 In the end, Phase 10 remains a friendly game with a built-in arc. It invites you to embrace a little chaos, a pinch of strategy, and a splash of nostalgia. If you’re building a board-game shelf or just want something that can be learned in one sitting and sprawl into a full evening of hijinks, Phase 10 will likely earn a permanent spot near the snacks. And if you’re still not convinced, there’s only one test that matters: gather a crew, shuffle the deck, and let the phase countdown begin. Your friends will either become loyal fans or sign an unwritten pact that Phase 10 is banned on rainy Thursdays forever. Either way, you’ll have stories to tell, snacks to eat, and a card game that is willing to endure a thousand replays with the same goofy enthusiasm it started with.
 
-## Final push: the affiliate nudge
+### Final push: the affiliate nudge
 If you want a reliable, social, laugh-filled card game that scales from casual to competitive with ease, Phase 10 is a solid pick. It won’t outshine a modern designer game in terms of complexity or thematic depth, but it excels at the things that matter on a game night: accessibility, quick rounds, and a social dynamic that keeps the momentum going. It’s the kind of title you return to when you want something that’s familiar, friendly, and a little bit cheeky. The original Phase 10 remains a veteran of the living room cavalry, ready to storm the space with a chorus of “phase one!” and a chorus of laughter.
 
 **Grab Phase 10 now via our affiliate link and support Geeknite: https://affiliate.geeknite.example/phase10**
-
----
-
