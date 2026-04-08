@@ -1,7 +1,8 @@
 ---
-title: Card Sharks: Interactive Card Game Adventure
+ttitle: Card Sharks: Interactive Card Game Adventure — Expanded Review
+layout: post
 date: 2026-04-08
-tags: [games, cards, nostalgia, interactive, geeknite]
+tags: [games, cards, nostalgia, interactive, geeknite, review, expansion]
 ---
 
 ![Card Sharks Interactive Artwork](/assets/images/card-sharks-interactive-artwork.jpg)
@@ -104,7 +105,7 @@ The game is adaptable to different group vibes, which is exactly what a modern p
 
 If Card Sharks has a cousin, it would be a cross between a classic card-guessing game and a live-show drafting session. It sits somewhere between a light strategy game and a party game, in the sense that you can lean into the strategic elements without requiring a spreadsheet to track who owes whom a snack. Compared to pure trick-taking games or deck-building titles, Card Sharks emphasizes social negotiation and risk-taking more than efficiency and optimization. That’s not a flaw; it’s the product’s identity.
 
-For players who crave heavier math on the table, Card Sharks might feel light. But if you enjoy the interplay of bluffing, probability talk, and crowd energy, you will probably find the balance quite satisfying. If you want an alternative with more structural depth, you could explore a few of our recommended deck-building games in the [Retro Deck Series]({{ post_url '2025-01-20-retro-deck-series' }}), which keeps the humor and the heart but ratchets up the strategic calculus. 
+For players who crave heavier math on the table, Card Sharks might feel light. But if you enjoy the interplay of bluffing, probability talk, and crowd energy, you will probably find the balance quite satisfying. If you want an alternative with more structural depth, you could explore a few of our recommended deck-building games in the [Retro Deck Series]({{ post_url '2025-01-20-retro-deck-series' }}), which keeps the humor and the heart but ratchets up the strategic calculus.
 
 For fans of the television show who miss the days of watching hosts conjure suspense with a timer and a team of contestants, Card Sharks channels that same vibe—without requiring a studio, a soundstage, or a crew of 20. It’s the glorious, in-house version of a show that once lived on a prime-time stage and now lives on your coffee table.
 
