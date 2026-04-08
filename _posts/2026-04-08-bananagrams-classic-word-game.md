@@ -1,5 +1,5 @@
 ---
-ttitle: Bananagrams Classic Word Game — A Geeknite Review (Updated)
+title: Bananagrams Classic Word Game — A Geeknite Review (Updated)
 date: 2026-04-08
 tags:
   - board games
@@ -187,4 +187,6 @@ If you’re ready to take the plunge, consider snagging your own Bananagrams via
 
 ---
 
-Note: This review is written in a Geeknite style for fans of fast, witty, family-friendly gaming. It is not sponsored, but it happily includes internal post references to keep the site vibe consistent and interconnected for readers who like diving deeper into our word game universe. For more reviews in this vein, explore our other posts and follow along for updates on fresh game-night takes, tech-themed party ideas, and all things nerdy and nice. ---
+Note: This review is written in a Geeknite style for fans of fast, witty, family-friendly gaming. It is not sponsored, but it happily includes internal post references to keep the site vibe consistent and interconnected for readers who like diving deeper into our word game universe. For more reviews in this vein, explore our other posts and follow along for updates on fresh game-night takes, tech-themed party ideas, and all things nerdy and nice.
+
+---
