@@ -1,5 +1,5 @@
 ---
-title: Audrey the Bookworm: Zombicide Kickstarter Exclusive CMON NISB
+title: Audrey the Bookworm: Zombicide Kickstarter Exclusive CMON NISB (Expanded Review)
 date: 2026-04-08
 tags:
   - board-games
@@ -11,9 +11,10 @@ tags:
   - NISB
   - minis
   - reviews
+  - review-updates
 ---
 
-# Audrey the Bookworm: Zombicide Kickstarter Exclusive CMON NISB
+# Audrey the Bookworm: Zombicide Kickstarter Exclusive CMON NISB (Expanded Review)
 
 ![Audrey the Bookworm mini](assets/images/audrey-bookworm.jpg)
 
@@ -31,7 +32,7 @@ Audrey is not just another character in a lineup of survivors who all look like 
 
 The Kickstarter Exclusive label means Audrey is not part of the base game; she’s a bonus add-on for backers who chose the exclusive tier. That translates to a few key things: rarified availability, a little extra bragging rights on your shelf, and a not insignificant chance of your local game store asking you to display her like a pet in a pet shop window (which is a weird request, but we’ve all been there).
 
-From a design standpoint, Audrey's miniature brings a lot of personality without jeopardizing gameplay. The sculpt reads as both cute and dangerous, which is exactly the vibe CMON aims for with their niche exclusives. The model features good line work and sharp details for a NISB piece, which means you can still appreciate the linework even if you unwrap it weeks after your package arrives. The paint job on official photos is usually crisp, but the real joy comes when you crack her out and realize she’s a surprisingly capable unit in the right setup.
+From a design standpoint, Audrey's miniature brings a lot of personality without jeopardizing gameplay. The sculpt reads as both cute and dangerous, which is exactly the vibe CMON aims for with their niche exclusives. The model features sharp line work and crisp details for a NISB piece, which means you can still appreciate the linework even if you unwrap it weeks after your package arrives. The paint job on official photos is usually crisp, but the real joy comes when you crack her out and realize she’s a surprisingly capable unit in the right setup.
 
 ### Design Details Worth Singing About (H3)
 
@@ -125,6 +126,10 @@ If you crave a unique character who brings a sense of narrative depth to your Zo
 - Start with a narrative objective: pair Audrey with cards that reward puzzle-solving and environment control. The more you lean into the environment as a weapon, the more Audrey shines.
 - Pair her with teammates who excel at search actions and loot distribution. Audrey’s bookish vibe pairs well with a risk-taker who can exploit the extra actions found in hard-to-reach corners of the map.
 - Use her as a “moral booster” in campaign mode. A little narrative polish goes a long way toward keeping players invested when the going gets grim.
+
+### Extended Play Scenarios (H3)
+
+In longer campaigns, you can craft a narrative arc where Audrey uncovers a hidden archive that unlocks a multi-map objective. Think of it as a scavenger hunt with undead interruptions: every time you decode a clue, you reveal a new room with better loot or a strategic advantage. This kind of setup rewards planning ahead and reinforces the library-as-armory motif that Audrey embodies. If you want to run such a scenario, try pairing Audrey with survivors who excel at disarming traps and uncovering hidden loot caches. The synergy isn't just thematic; it creates actual tactical leverage for your team when the horde swells.
 
 ## How to Care for NISB Minis and Display (H2)
 
