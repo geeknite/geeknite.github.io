@@ -1,18 +1,18 @@
 ---
 title: La mentalidad compartida en la empresa Preziosa 9789877230949 Free Shipping
 date: 2026-04-08 12:00:00 -0000
-tags: [empresa, cultura, liderazgo, humor, libros]
+tags: [empresa, cultura, liderazgo, humor, libros, geek, productividad]
 ---
 
-## Introduccion
+## Introducción
 
-La mentalidad compartida en la empresa es ese superpoder invisible que evita que el equipo se desarme ante la llegada del lunes como si fuera un jefe final de videojuego. Es esa cosa que no se ve, pero se siente cuando alguien te pasa el reporte correcto a las 9 en punto, sin necesidad de recriminaciones ni notas en la impresora. En este articulo vamos a diseccionar ese concepto con humor, referencias geek y una pizca de romantica obsesion por Preziosa y su ISBN 9789877230949, porque si algo puede enseñar una historia de oficina es que el libro correcto, combinado con un envio gratis, puede cambiar la cultura de una empresa entera.
+La mentalidad compartida en la empresa es ese superpoder invisible que evita que el equipo se desarme ante la llegada del lunes como si fuera un jefe final de videojuego. Es esa cosa que no se ve, pero se siente cuando alguien te pasa el reporte correcto a las 9 en punto, sin necesidad de recriminaciones ni notas en la impresora. En este artículo vamos a diseccionar ese concepto con humor, referencias geek y una pizca de romantica obsesión por Preziosa y su ISBN 9789877230949, porque si algo puede enseñar una historia de oficina es que el libro correcto, combinado con un envio gratis, puede cambiar la cultura de una empresa entera.
 
-Para empezar, colocamos una imagen que simboliza la cultura de equipo. 
+Para empezar, colocamos una imagen que simboliza la cultura de equipo.
 
 ![Portada de Preziosa]({{ '/assets/img/preziosa-cover.jpg' | relative_url }})
 
-Y para no dejar a la suerte el argumento, añadimos otra imagen que captura la esencia del trabajo colaborativo: 
+Y para no dejar a la suerte el argumento, añadimos otra imagen que captura la esencia del trabajo colaborativo:
 
 ![Equipo trabajando]({{ '/assets/img/team-work.jpg' | relative_url }})
 
