@@ -9,11 +9,13 @@ tags:
   - Gamewright
   - expansion
   - family gaming
+  - deluxe
+  - geeknite
 ---
 
-![Sushi Go Party Deluxe box art](assets/images/sushi-go-party-deluxe.jpg)
+![Sushi Go Party Deluxe in multicolor art](assets/images/sushi-go-party-deluxe.jpg)
 
-In Geeknite fashion, Sushi Go Party Deluxe crashes the dinner party with a glittery sash, a drumroll, and enough trombone noise to make even the wasabi blush. This isn’t merely more cards; it is a full buffet of possibilities, a carnival of scoring, and yes, the occasional neighbor who sneaks a sneaky card you didn’t see coming. Sushi Go Party Deluxe is the big cousin to Sushi Go, but the one who actually remembers your name and your napkin doodles. If the classic Sushi Go feels like a quiet sushi bar where you pretend to be cool while chasing a set, Sushi Go Party Deluxe is a karaoke night at a buffet—menus as headliners, and scoring rules… well, they’re deliciously ridiculous.
+In Geeknite fashion, Sushi Go Party Deluxe crashes the dinner party with a glittery sash, a drumroll, and enough trombone noise to make even the wasabi blush. This isn't merely more cards; it is a full buffet of possibilities, a carnival of scoring, and yes, the occasional neighbor who sneaks a sneaky card you didn't see coming. Sushi Go Party Deluxe is the big cousin to Sushi Go, but the one who actually remembers your name and your napkin doodles. If the classic Sushi Go feels like a quiet sushi bar where you pretend to be cool while chasing a set, Sushi Go Party Deluxe is a karaoke night at a buffet—menus as headliners, and scoring rules… well, they're deliciously ridiculous.
 
 In this expanded look, we dive into what you actually get in the deluxe edition, how the menus bend the game across player counts, practical strategies that survive the chaos, and a few nerdy tangents to help you become the most popular person at your next game night. For the curious, there are external links to the official product page and a community page for deeper dives; and yes, you’ll find post links to related essays in the Geeknite archive. For a quick primer, see {% post_url 2026-03-01-sushi-go-intro %}.
 
@@ -35,7 +37,7 @@ The Deluxe edition shines because of its menus. The original Sushi Go focuses on
 
 ## How to play: quick refresher
 ### The core loop
-At the heart of Sushi Go Party Deluxe is a simple loop wrapped in a strategic sheen. Each round, you receive a hand from the current menu. You pick one card to keep in front of you and pass the rest to your left. This continues until all cards are gone. Then you score based on the menu’s conditions for that round and reset for the next one, sometimes with a new menu, sometimes the same, depending on your setup. In a sentence: you draft, you pass, you score, you brag. If you enjoy the crisp rhythm of pick and pass and the satisfaction of assembling a coherent salad of choices, you’ll feel right at home here.
+At the heart of Sushi Go Party Deluxe is a simple loop wrapped in a strategic sheen. Each round, you receive a hand from the current menu. You pick one card to keep in front of you and pass the rest to your left. This continues until all cards are gone. Then you score based on the menu's conditions for that round and reset for the next one, sometimes with a new menu, sometimes the same, depending on your setup. In a sentence: you draft, you pass, you score, you brag. If you enjoy the crisp rhythm of pick and pass and the satisfaction of assembling a coherent salad of choices, you’ll feel right at home here.
 
 ### The impact of multiple menus
 Because there are many menus in play, you have to be mindful about what you are trying to assemble. Some menus can be completed with a handful of cards, others require a broader strategy across multiple cards. This means you can plan around high-value targets while still reacting to what your neighbors are sneaking into their hands. The Deluxe variant invites a degree of negotiation, bluffing, and table talk as you try to gauge what others are aiming for and—more importantly—what they might inadvertently tip into your lap.
@@ -48,19 +50,19 @@ One delightful side effect of the menu variety is the social economy it builds. 
 
 ## Strategy and tips
 ### General tips for success
-- Prioritize early information gathering. A quick scan of a few neighbors’ targets can tilt your picks toward chasing those cards, or blocking them if the menu is punishing to nominating opponents. The Deluxe edition rewards adaptability because there are many menus; you get to pivot with a bit more confidence when new scoring twists appear mid-game.
+- Prioritize early information gathering. A quick scan of a few neighbors' targets can tilt your picks toward chasing those cards, or blocking them if the menu is punishing to nominating opponents. The Deluxe edition rewards adaptability because there are many menus; you get to pivot with a bit more confidence when new scoring twists appear mid-game.
 - Use chopsticks strategically. Drafting two cards in a round can swing a round, but it also doubles your risk if your planned route collapses. Use them to complete a target quickly or to snag a critical card your opponent would otherwise steal.
-- Don’t chase points you cannot see clearly. If a menu’s payoff hides behind a few rounds of ambiguity, it’s often wiser to secure steady points from mid-value cards rather than chase an uncertain payoff that might vanish in the last acts of chaos.
+- Don't chase points you cannot see clearly. If a menu's payoff hides behind a few rounds of ambiguity, it's often wiser to secure steady points from mid-value cards rather than chase an uncertain payoff that might vanish in the last acts of chaos.
 - Balance risk and reward. The Deluxe menus encourage variety; sometimes a conservative plan with a steady trickle of points beats a flashy but brittle one. A common winning approach is to build multiple small leads across menus and push for a big one when the timing aligns.
 
 ### Practical in-game decisions
-- Early rounds: gather a flexible mix that can zing up several potential menus. Don’t overinvest in a single card family too soon unless you’re sure it will align with the menus in play.
-- Mid-game: start pinning down two or three menus you can realistically complete with expected cards. It’s better to have a coherent plan than a dozen fragile sub-plans that require perfect luck.
-- Late game: this is where knowledge and table dynamics pay off. You should sometimes block a rival’s obvious finish to keep your own plan viable. The Deluxe menus reward cunning and timing, so don’t shy away from a little social engineering to nudged a friend toward the exact card you need.
+- Early rounds: gather a flexible mix that can zing up several potential menus. Don't overinvest in a single card family too soon unless you're sure it will align with the menus in play.
+- Mid-game: start pinning down two or three menus you can realistically complete with expected cards. It's better to have a coherent plan than a dozen fragile sub-plans that require perfect luck.
+- Late game: this is where knowledge and table dynamics pay off. You should sometimes block a rival's obvious finish to keep your own plan viable. The Deluxe menus reward cunning and timing, so don't shy away from a little social engineering to nudged a friend toward the exact card you need.
 
 ### Common pitfalls to avoid
 - Over-scoping your goals. It is easy to bite off more than you can chew with dozens of menus. If you chase too many goals at once, you risk hosting a banquet of partial wins.
-- Underestimating the power of small points. Some menus aren’t about a big payoff but about securing contributions across several rounds. A few well-placed single-card scores can accumulate into a sizeable lead by the end.
+- Underestimating the power of small points. Some menus aren't about a big payoff but about securing contributions across several rounds. A few well-placed single-card scores can accumulate into a sizeable lead by the end.
 - Forgetting table dynamics. With more players and more menus, subtle tells become more valuable. Ignore them at your peril; you might miss a blocking opportunity or a perfect finish for someone else and end with terminal regret.
 
 ## Design, art, and vibe
@@ -78,17 +80,17 @@ As with the base Sushi Go, the Deluxe edition toes the line between luck and ski
 
 ### Who might pass on it
 - Players who crave heavy strategy and long, deeply tactical games. The Deluxe edition remains approachable but if your group seeks brutal brain-burners, you might prefer heavier drafting titles.
-- Groups with tight budgets. The Deluxe edition is a premium investment compared to base Sushi Go, so if you already own the original and you aren’t chasing a hard core expansion, you may want to borrow or sample first.
+- Groups with tight budgets. The Deluxe edition is a premium investment compared to base Sushi Go, so if you already own the original and you aren't chasing a hard core expansion, you may want to borrow or sample first.
 
 ## Variations, expansions, and how to mix it up
 ### Mixing menus for varied nights
-One of the delights of the Deluxe edition is the ability to mix and match menus. You can create different flavor profiles for each game night by selecting a subset of menus that align with your group’s mood. A fast-paced, light-hearted menu set plays nicely for family nights; a more puzzle-like set can tilt toward nerdy competition for a gaming evening with friends who enjoy mathy vibes and delightful card art.
+One of the delights of the Deluxe edition is the ability to mix and match menus. You can create different flavor profiles for each game night by selecting a subset of menus that align with your group's mood. A fast-paced, light-hearted menu set plays nicely for family nights; a more puzzle-like set can tilt toward nerdy competition for a gaming evening with friends who enjoy mathy vibes and delightful card art.
 
 ### Solo and smaller group play
 While designed with party vibes in mind, you can still enjoy Sushi Go Party Deluxe in a small group. The pace slows a touch, and the variability remains engaging, making it a worthwhile addition even when you only have three or four players. If you are into solo play, the deluxe menus can provide a gentle challenge, though the social dimension that makes the game stand out is naturally reduced in single-player scenarios.
 
 ### Potential expansions and future tweaks
-As with many modern board games, fans tend to imagine the next step. A modular expansion pack focusing on seasonal menus or a simplified rule variant for younger players could extend the life of the Deluxe edition and keep the experience fresh without sacrificing accessibility. If you are reading this in a year or two when new content drops, the same play patterns will apply, but with new icons, new synergies, and new reasons to steal a card from the neighbor’s plate.
+As with many modern board games, fans tend to imagine the next step. A modular expansion pack focusing on seasonal menus or a simplified rule variant for younger players could extend the life of the Deluxe edition and keep the experience fresh without sacrificing accessibility. If you are reading this in a year or two when new content drops, the same play patterns will apply, but with new icons, new synergies, and new reasons to steal a card from the neighbor's plate.
 
 ## Comparisons with base Sushi Go
 ### Similarities that keep the heart intact
