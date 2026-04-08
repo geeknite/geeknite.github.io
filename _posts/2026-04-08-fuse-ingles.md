@@ -1,7 +1,7 @@
 ---
 title: Fuse (Inglés)
 date: 2026-04-08
-tags: [games, reviews, fuse, english, geeknite]
+tags: [games, reviews, fuse, english, geeknite, co-op, modular-weapons, retro]
 ---
 
 ![Fuse cover art](./assets/images/fuse-cover.jpg)
@@ -46,11 +46,11 @@ The gunplay in Fuse sits on that sweet spot where you feel meaningful recoil wit
 
 ### Upgrades, loot, and progression that feels fair
 
-Progression in Fuse is built around a mix of in-mmission pickups and a persistent weapon upgrade path. Early in the game you’ll learn the ropes: how to store up energy, how to time your fusion mechanic for maximum effect, and how to protect your squad by coordinating overlapping fields of fire. The upgrade system encourages replayability, but it doesn’t condemn you if you miss a few optional objectives. You’ll still feel capable without farming the mission for every last upgrade shard, which is a surprisingly forgiving design choice that helps keep the pace moving forward rather than grinding to a halt.
+Progression in Fuse is built around a mix of in-mission pickups and a persistent weapon upgrade path. Early in the game you’ll learn the ropes: how to store up energy, how to time your fusion mechanic for maximum effect, and how to protect your squad by coordinating overlapping fields of fire. The upgrade system encourages replayability, but it doesn’t condemn you if you miss a few optional objectives. You’ll still feel capable without farming the mission for every last upgrade shard, which is a surprisingly forgiving design choice that helps keep the pace moving forward rather than grinding to a halt.
 
 ### Mission pacing: from claustrophobic to chaotic
 
-The swing of Fuse’s pacing is the real star. Some sections tilt toward tight, corridor-driven skirmishes that demand exact positioning and precise execution. Others explode into wide open arenas where you’ll need to manage multiple targets at once, switch weapons rapidly, and keep an eye on your team’s ammo andFuse energy. You’ll appreciate the variety because it prevents the experience from stagnating after a handful of missions. The flip side is that some missions feel a bit too long for the payoff they offer. After the eighth or ninth straight wave of enemies, the game can start to drag, especially if you’re playing solo or with AI teammates who don’t quite mirror your level of urgency.
+The swing of Fuse’s pacing is the real star. Some sections tilt toward tight, corridor-driven skirmishes that demand exact positioning and precise execution. Others explode into wide open arenas where you’ll need to manage multiple targets at once, switch weapons rapidly, and keep an eye on your team’s ammo and fuse energy. You’ll appreciate the variety because it prevents the experience from stagnating after a handful of missions. The flip side is that some missions feel a bit too long for the payoff they offer. After the eighth or ninth straight wave of enemies, the game can start to drag, especially if you’re playing solo or with AI teammates who don’t quite mirror your level of urgency.
 
 ## Story, tone, and character depth
 
