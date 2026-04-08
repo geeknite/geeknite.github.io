@@ -1,5 +1,5 @@
 ---
-ttitle: "Kickstarter Exclusive Zombicide Mini Set 9 VIP 1 Promo: Very Infected People (Updated Review)"
+title: Kickstarter Exclusive Zombicide Mini Set 9 VIP 1 Promo - Very Infected People (Updated Review)
 date: 2026-04-08
 tags:
   - Zombicide
@@ -11,8 +11,6 @@ tags:
   - Promo
   - Unboxing
 ---
-
-# Kickstarter Exclusive Zombicide Mini Set 9 VIP 1 Promo: Very Infected People (Updated Review)
 
 ![Zombicide Set 9 VIP 1 Promo]( {{ '/assets/images/zombicide-set9-vip1.jpg' | relative_url }}){: .center-image }
 
@@ -153,6 +151,6 @@ External retailer reference: https://www.exampleboardgameshop.com/zombicide-set9
 
 If you want a direct route to the post that sparked this piece, you can also check our archival notes here: {% post_url 2026-02-15-kickoff-geeknite-zombicide-roundup %}
 
-**Verdict with a wink: the Very Infected People are here to make your nights a little livelier, your photos a little more dramatic, and your gaming group a little more cautious about what lurks behind the coffee table.**
+Verdict with a wink: the Very Infected People are here to make your nights a little livelier, your photos a little more dramatic, and your gaming group a little more cautious about what lurks behind the coffee table.
 
 **Buy via our affiliate link: https://affiliates.geeknite.example/kz9vip**
