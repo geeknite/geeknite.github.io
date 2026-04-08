@@ -7,7 +7,7 @@ tags: [board-games, humor, review, cards-against-humanity, geeknite]
 ## Introduction
 If you have ever wanted to turn a casual party into a screamingly awkward symposium of inappropriate humor, then congratulations, you probably own a copy of Cards Against Humanity. If you just want to make your friends squirm enough to drop their snacks and declare themselves a winner without ever finishing a sentence, you are in luck. The Green Box Expansion Pack, officially known as CAH2015, brings 300 fresh cards into the mix and promises to keep the chaos rolling longer than your tolerance can handle. The green box asserts its dominance with a bold color choice and a marketing pitch that sounds like it was written by a mischievous software update: more cards, more cringe, more laughter, or at least more awkward silences when someone reads a prompt that hits a little too close to home.
 
-InGeeknite fashion we take our humor with a side of skepticism and a dash of geeky enthusiasm. The Green Box is not just a random pile of cards; it is a curated set that aims to expand the flavor profile of CAH without turning the game into a totally different beast. That means more prompts that feel familiar yet fresh, more offbeat answers, and enough new combinations to tempt you to break the old deck habit and mix things up at your next game night. We will dive into the specifics, the laugh quality, the practicalities of card stock and design, and whether this expansion is worth your gaming shelf space. If you want a sneak peek of what we cover, check out our looks at other expansions in the Geeknite catalog, including our side-by-side notes on how CAH stacks up against other party games. For context, this review assumes you already know the base game inside and out and you want to know if the Green Box can squeeze out a few more hours of chaotic fun without turning your living room into a courtroom.
+In Geeknite fashion we take our humor with a side of skepticism and a dash of geeky enthusiasm. The Green Box is not just a random pile of cards; it is a curated set that aims to expand the flavor profile of CAH without turning the game into a totally different beast. That means more prompts that feel familiar yet fresh, more offbeat answers, and enough new combinations to tempt you to break the old deck habit and mix things up at your next game night. We will dive into the specifics, the laugh quality, the practicalities of card stock and design, and whether this expansion is worth your gaming shelf space. If you want a sneak peek of what we cover, check out our looks at other expansions in the Geeknite catalog, including our side-by-side notes on how CAH stacks up against other party games. For context, this review assumes you already know the base game inside and out and you want to know if the Green Box can squeeze out a few more hours of chaotic fun without turning your living room into a courtroom.
 
 And yes, we will occasionally reference the wild, glorious, unanswerable chaos that is Cards Against Humanity with gusto. You have been warned.
 
@@ -28,7 +28,7 @@ The cards are your standard CAH stock—cheap cardstock that is perfectly playab
 ### Humor direction and content boundaries
 Green Box leans into more current cultural references and a broader set of awkward social situations. The humor remains caustic, flexible, and willing to go places that make you snicker, clap, and sometimes deny you a social life for a moment. It is not for everyone, and you should be mindful of your group’s comfort level. If your crew leans into edgy humor, you will likely find more hits than misses here; if someone in your circle dislikes taking things too far or tends to interpret edgy jokes literally, you may want to pre-screen a few prompts or add a soft ground rule to bounce out cards that cross a line before they do permanent damage to the vibe.
 
-The expansion does a decent job of staying on the line rather than leaping over it. You will still want to monitor the room, because CAH is as much about the social dynamics as it is about the card text. And yes, there are some prompts that will land badly in some contexts; the Green Box does not magically solve all-of-the-world-woes with a laugh track, but it does give you more opportunities to pivot to something unexpectedly wholesome mid-session if your group is feeling emotionally constipated after a heavy round of dark humor.
+The expansion does a decent job of staying on the line rather than leaping over it. You will still want to monitor the room, because CAH is as much about the social dynamics as it is about the card text. And yes, there are some prompts that will land badly in some contexts; the Green Box does not magically solve all of the world woes with a laugh track, but it does give you more opportunities to pivot to something unexpectedly wholesome mid-session if your group is feeling emotionally constipated after a heavy round of dark humor.
 
 ## Gameplay Experience with the Green Box
 
@@ -37,6 +37,9 @@ With 300 cards ready to roll, setup is straightforward: shuffle the new cards se
 
 ### Interactions and group dynamics
 The expansion shines when the group dynamics are lively. It gives players more chance to produce outrageous combos that highlight a particular friend’s flair for the dramatic, the deadpan, or the absurd. You will see players lean hard into a white card that is a perfect match for a black prompt, or you will witness someone assemble a counter-humor strategy that becomes the go-to move for the rest of the night. The social fabric of a CAH night is fragile but wonderfully fun; the Green Box amplifies that fabric by providing more threads for the threadbare couch of your humor to cling to. And yes, you will get a few lines that crash and burn; that is part of the experience and often the thing that makes the night memorable in the long run.
+
+### Ethical edge and room management
+If your group leans into the more boundary-pushing corners, you will need a quick lift-the-curve rule: designate a few prompts to skip before you start and have a soft stop card ready. CAH nights can be a social roller-coaster, and the Green Box adds a few loops that ride the line between clever and mean. The beauty of CAH is that you can tailor the risk tolerance in real time by the players themselves. If someone calls timeout, you listen. If a card prompts a line that makes the room freeze, you pause, chuckle, and move on. The Green Box does not demand moral sedation; it invites you to steer the chaos with a wink and a nod toward consent and comfort.
 
 ## Pros and Cons
 
@@ -54,7 +57,7 @@ The expansion shines when the group dynamics are lively. It gives players more c
 - The box itself is a container for chaos; storage space for a growing CAH collection becomes a minor concern
 
 ## Thematic and Humor Style Analysis
-Green Box embodies the CAH ethos: punchy, provocative, and prone to turning everyday situations into a test of social nerves. The expansion leans toward a sharper tilt on current events and pop culture, which makes it feel contemporary without becoming a dated relic in a few months. The humor is not merely shock value; it often relies on clever phrasing, double meanings, and a twist that you see coming only after the laugh starts. That balance—humor that hits you in the timing rather than the surprise—keeps it within the wheelhouse of CAH in a way that is enjoyable when the group is firing on all cylinders and a little cringe-worthy when the room loses its energy.
+Green Box embodies the CAH ethos: punchy, provocative, and prone to turning everyday situations into a test of social nerves. The expansion leans toward a sharper tilt on current events and pop culture, which makes it feel timely without becoming a dated relic in a few months. The humor is not merely shock value; it often relies on clever phrasing, double meanings, and a twist that you see coming only after the laugh starts. That balance—humor that hits you in the timing rather than the surprise—keeps it within the wheelhouse of CAH in a way that is enjoyable when the group is firing on all cylinders and a little cringe-worthy when the room loses its energy.
 
 If you are the kind of player who enjoys the subtext and the social choreography of a group decision, you will find value in the Green Box. It gives you more opportunities to spotlight a friend who excels at roasting the prompt with an unexpected but perfect white card, while also presenting a handful of prompts that require a more nuanced or absurd approach. The expansion does not pretend to be inclusive or gentle; it revels in the disarming potential of humor that pushes boundaries and then asks you to decide if your table is ready to cross them together.
 
@@ -78,10 +81,10 @@ If you want a quick takeaway: you will get more laughs per night with the Green 
 
 ## Where to buy and external resources
 - Official site: https://cardsagainsthumanity.com
-- Quick reference guide to CAH basics: [CAH quick guide](https://example.com/cah-guide)
+- Quick reference guide to CAH basics: CAH quick guide
 - Related Geeknite posts: [CAH base game review]({% post_url 2024-03-22-cards-against-humanity-base-game-review %})
 - Related Geeknite posts: [Top 10 party games for geeks]({% post_url 2025-11-20-top-10-party-games %})
-- Official product page teaser: [Green Box expansion details](https://cardsagainsthumanity.com/products/green-box-expansion)
+- Official product page teaser: Green Box expansion details: https://cardsagainsthumanity.com/products/green-box-expansion
 
 ## Final thoughts and recommendations
 - Best for: players who crave new prompts, a higher energy vibe, and a willingness to push boundaries in a safe, consenting group
