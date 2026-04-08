@@ -21,17 +21,19 @@ Para lectores hispanohablantes que aman el tono de la vieja escuela Geeknite, es
 
 > Nota de estilo Geeknite: humor ligero, referencias culturales y ejemplos de videojuegos que no te hacen sentir que estás leyendo un manual de quirófano, sino que aprendes a ganar en la vida real sin perder la sonrisa.
 
+---
+
+![Portada de Cambia Tu Mentalidad](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop)
+
 ## Portada, imagen y primer contacto visual
 
 La edición en español conserva la fotografía de la cubierta original y la adapta a un estilo más cercano a la cultura hispana, con toques de colores que evocan energía sin perder la elegancia. Portada que inspira curiosidad y una sensación de que este no es solo un libro de teoría, sino una guía para experimentar cambios reales. A modo de estética Geeknite, la imagen funciona como un tablero de juego en el que cada página es una misión más.
-
-![Portada de Cambia Tu Mentalidad](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop)
 
 ### El tono que te acompaña desde la primera página
 
 El autor adopta un tono directo sin mansplaining ni sobreexplicaciones. Se nota que quiere ayudar a lectores que llevan una vida de estudio, trabajo y proyectos personales. No debería sorprendernos si en un capítulo aparece una referencia a un jefe final de rol clásico o un glitch de software que solo un programador experimentado registraría. Ese toque humorístico funciona como lubricante para las ideas, permitiendo que el lector se sienta parte de una conversación más que de un manual de instrucciones.
 
-## Qué promete el libro
+## ¿Qué promete el libro?
 
 ### Dos mentalidades, dos trenes de pensamiento
 
