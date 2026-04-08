@@ -1,5 +1,5 @@
 ---
-title: Mystique Canvas Wool Custom Area Rug - Custom Size or 8x10
+ttitle: Mystique Canvas Wool Custom Area Rug - Custom Size or 8x10
 date: 2026-04-08
 tags:
   - home-decor
@@ -11,16 +11,15 @@ tags:
   - review
   - geeknite
 ---
-
 # Mystique Canvas Wool Custom Area Rug - Custom Size or 8x10
 
-If you came here wondering whether the Mystique Canvas Wool Custom Area Rug is the stuff of Instagram dreams or an overhyped floor fashion disaster, you’ve landed in a cozy corner of the internet where yarn tangles are treated like tiny epic quests and loom gods whisper in your ear to buy more tape measure batteries. Spoiler: we did the heavy lifting so you don’t have to. This is Geeknite’s thorough, possibly too enthusiastic, but always honest take on the Mystique Canvas Wool rug in either custom size or the classic 8x10 option.
+If you came here wondering whether the Mystique Canvas Wool Custom Area Rug is the stuff of Instagram dreams or an overhyped floor fashion disaster, you’ve landed on Geeknite’s favorite couch cushion of opinions: soft, funny, and a little bit obsessed with fibers. We did the heavy lifting so you don’t have to—taming looms, measuring rooms, and arguing with your inner designer about whether a rug can be “too soft.” Spoiler: the answer is probably not, but we’ll test it anyway. This is Geeknite’s thorough, possibly too enthusiastic, but always honest take on the Mystique Canvas Wool rug in either custom size or the classic 8x10 option.
 
 Below, we’ll break down the weave, the weight, the vibe, and the kind of personality this rug brings to a room. If you’re on the hunt for a rug that can survive a small dog’s existential crisis and still look like it belongs in a designer showroom, you might be in the right aisle. If not, the wrong aisle will still feel like a private spa for your feet. Either way, strap in.
 
-![{Mystique Canvas Wool Rug}({% asset 'images/mystique-canvas-wool-rug.jpg' %})]
+![Mystique Canvas Wool Rug]({% asset 'images/mystique-canvas-wool-rug.jpg' %})
 
-![{Close-up weave}({% asset 'images/mystique-canvas-wool-weave.jpg' %})]
+![Close-up weave]({% asset 'images/mystique-canvas-wool-weave.jpg' %})
 
 For the fashion-forward home painter who wants something with texture and a subtle storytelling vibe, the Mystique Canvas Wool rug is basically a three-act play for your floor: Act I is the soft, welcoming feel under bare feet; Act II reveals the detailed weave that reads as “crafted by a patient hedgehog with a loom”; Act III is the inevitable reveal when you spill coffee and discover that wool forgives more than your ex ever did. Now that we’ve set the stage, let’s dive deep into the fabric, fiber, and fantasies of this small-but-mighty carpet.
 
@@ -160,7 +159,6 @@ If you’re ready to elevate the room with texture, warmth, and a touch of moder
 - If you love wool’s natural fiber characteristics and want a rug that ages gracefully while staying stylish, this is a smart choice to consider.
 
 In the end, the decision boils down to your space, your patience for perfection, and your appetite for texture underfoot. If you want an anchor that feels grown-up, cozy, and a little bit nerdy in the best possible way, the Mystique Canvas Wool is worth a closer look.
-
 
 **Ready to level up your floor game? Explore the Mystique Canvas Wool options now and click through to the retailer for the best current pricing. Your feet will thank you, and your living room will finally stop pretending to be a museum exhibit.**
 
