@@ -64,7 +64,7 @@ Playing with different groups
 
 The deck as a platform for creative play
 
-What makes this kit interesting is not just the novelty of customizable wild cards but the sense that UNO becomes a platform for social experimentation. The ability to write your own effects—within reason—means you can tailor the game to your group’s rhythm. Some groups will want to craft clever meta rules that reference in-jokes and pop culture, while others will prefer a more minimal approach with a handful of reliably entertaining effects. Either way, the kit invites you to think of UNO as a living game, not a static artifact sitting on your shelf collecting dust between family visits.
+What makes this kit interesting is not just the novelty of customizable wild cards but the sense that UNO becomes a platform for social experimentation. The ability to write your own effects within reason means you can tailor the game to your group’s rhythm. Some groups will want to craft clever meta rules that reference in-jokes and pop culture, while others will prefer a more minimal approach with a handful of reliably entertaining effects. Either way, the kit invites you to think of UNO as a living game, not a static artifact sitting on your shelf collecting dust between family visits.
 
 A quick comparison with standard UNO and expansions
 
@@ -122,7 +122,7 @@ Final tips for your UNO customization night
 
 A final note on the Geeknite vibe
 
-We at Geeknite are fans of games that spark laughter, friendly competition, and a sense of creative exploration. The UNO Customizable Wild Cards kit fits into our philosophy of playful experimentation that does not require a PhD in game design to enjoy. It isn't a must-have for every gamer, but for groups looking for something that mixes familiar comfort with a splash of chaos, it can be a surprisingly satisfying addition. Just remember to treat the wild cards as a shared joke rather than a tool for domination. The best nights end with everyone smiling, even the person who got decked by a Wild Draw Five that somehow traveled through three different rules before landing in their hand.
+We at Geeknite are fans of games that spark laughter, friendly competition, and a sense of creative exploration. The UNO Customizable Wild Cards kit fits into our philosophy of playful experimentation that does not require a PhD in game design to enjoy. It isn’t a must-have for every gamer, but for groups looking for something that mixes familiar comfort with a splash of chaos, it can be a surprisingly satisfying addition. Just remember to treat the wild cards as a shared joke rather than a tool for domination. The best nights end with everyone smiling, even the person who got decked by a Wild Draw Five that somehow traveled through three different rules before landing in their hand.
 
 In conclusion, if you want to bring a fresh spark to classic UNO without sacrificing what makes the game approachable, grab the customizable wild cards kit and give your crew something new to talk about besides who trash talks the most on video or who forgot to shout UNO first. It is a small step toward a bigger social experiment, and who knows, you may end up discovering a new tradition around the table that lasts longer than the last season of your favorite binge show.
 
