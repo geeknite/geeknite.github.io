@@ -1,20 +1,28 @@
 ---
-title: Zombicide Compendium: A Geeknite Deep Dive (Extended)
+title: Zombicide Compendium A Geeknite Deep Dive Extended
 date: 2026-04-08
-tags: [board games, zombies, coop, review, compendium, updated, extended]
+tags:
+  - board games
+  - zombies
+  - coop
+  - review
+  - compendium
+  - updated
+  - extended
+layout: post
 ---
 
 ![Zombicide Compendium cover]({{ '/assets/images/zombicide-compendium-cover.jpg' | relative_url }})
 
 ## Introduction: Why a Compendium, Anyway?
 
-Welcome back to Geeknite, where we treat rulebooks like living entities and every errata drop as a chance to tighten our belts and unpack more dice. The Zombicide Compendium aims to be a single spine for many editions. The question: does spine hold up, or does it crack under the weight of a thousand synergy memes? In this extended dive, we explore not only what the compendium does but how it actually feels to use it at table, with a few tips on how to avoid turning your kitchen into a ruined, zombie-infested cram session.
+Welcome back to Geeknite, where we treat rulebooks like living organisms and every errata drop as a chance to tighten our belts and unpack more dice. The Zombicide Compendium aims to be a single spine for many editions. The question: does that spine hold up, or does it crack under the weight of a thousand synergy memes? In this extended dive, we explore not only what the compendium does but how it actually feels to use it at table, with a few tips on how to avoid turning your kitchen into a ruined, zombie-infested cram session.
 
 Official Zombicide site: https://www.zombicide.com/
 
 ## What It Is Supposed to Do (Expanded)
 
-The compendium is community-driven, a patchwork collage of rules, cards, and scenarios designed to reduce the time players spend flipping to the appendix and flipping the table in confused rage. It is not official, but it pretends to be a robust source of truth. The goal is to unify rules across editions, condense card lists, and present curated scenarios in a modular format that can be dropped into most tables with minimal drama.
+The compendium is a community-driven patchwork collage of rules, cards, and scenarios designed to reduce the time players spend flipping to the appendix and flipping the table in confused rage. It is not official, but it pretends to be a robust source of truth. The goal is to unify rules across editions, condense card lists, and present curated scenarios in a modular format that can be dropped into most tables with minimal drama.
 
 - Single source of truth: yes, but it never forgets to wink at the chaos of edition-specific quirks.
 - Rapid access: check the quick references, not the full rules, for that crisis moment.
