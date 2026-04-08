@@ -1,5 +1,5 @@
 ---
-title: Bananagrams Classic Word Game — A Geeknite Review
+ttitle: Bananagrams Classic Word Game — A Geeknite Review (Updated)
 date: 2026-04-08
 tags:
   - board games
@@ -7,11 +7,12 @@ tags:
   - reviews
   - geek culture
   - family friendly
+  - update
 ---
 
-# Bananagrams Classic Word Game: A Geeknite Review
+## Bananagrams Classic Word Game: A Geeknite Review (Updated)
 
-If you thought word games were about delicate letters and polite pauses, Bananagrams barges into the party wearing a banana suit and shouting consonants in glorious anarchy. It is the rebellious cousin of Scrabble that refuses to wait for a turn, insists you juggle tiles like a caffeinated magician, and still ends up creating real, functioning words that make your grandmother say im impressed and mildly terrified. Welcome to Bananagrams, the compact chaos that fits in a bag the size of a loaf of bread and somehow manages to be both educational and ridiculous at the same time.
+If you thought word games were about delicate letters and polite pauses, Bananagrams barges into the party wearing a banana suit and shouting consonants in glorious anarchy. It is the rebellious cousin of Scrabble that refuses to wait for a turn, insists you juggle tiles like a caffeinated magician, and still ends up creating real, functioning words that make your grandmother say, “Impressed and mildly terrified.” Welcome to Bananagrams, the compact chaos that fits in a bag the size of a loaf of bread and somehow manages to be both educational and ridiculous at the same time.
 
 ![Bananagrams tiles](/assets/img/bananagrams-tile-set.jpg)
 
@@ -51,7 +52,7 @@ You might be wondering how Bananagrams stacks up next to Scrabble, the classic k
 
 If you want to explore a deeper comparison with a longer format, you can reference our post about Word Game Showdowns, which compares Bananagrams with Scrabble and other word staples: {% post_url 2024-11-12-word-game-showdowns.html %}.
 
-## Setting Up: What Comes in the Box
+### Setting Up: What Comes in the Box
 
 The box is deliberately no-frills, which is a compliment in Geeknite terms. You get the banana-shaped tile bag, a river of tiles, and enough air to make you believe in conspiracy theories about packaging. The tiles are sturdy and fairly standard in size, making them comfortable to handle for small children and adults with average-sized hands. The font on the tiles is clean, legible, and built to survive a few kitchen-table punch-ups without fading.
 
@@ -80,7 +81,7 @@ Note: For a broader sense of how Bananagrams sits within the word-game ecosystem
 
 If you’re curious about how we’ve shaped these rules in practice on Geeknite, see our post on Family Night Mechanics: {% post_url 2023-08-21-family-night-mechanics.html %} and our quick-start guide for busy players: {% post_url 2024-02-03-quick-start-word-games.html %}.
 
-## Strategy: Quick Wins and Long-Term Tactics
+### Strategy: Quick Wins and Long-Term Tactics
 
 Bananagrams rewards flexible thinking more than long-term planning. You’ll learn to optimize three core skills: tile distribution awareness, grid flexibility, and rapid word recognition. Here are some practical strategies to win the banana race:
 
