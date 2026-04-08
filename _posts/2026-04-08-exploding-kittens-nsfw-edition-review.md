@@ -9,25 +9,26 @@ tags:
   - Geeknite
   - Katzenhumor
   - Partyspiele
+  - Zustand
 ---
 
-![Exploding Kittens NSFW Edition – wie neu](/assets/images/exploding-kittens-nsfw-edition.jpg)
+![NSFW Edition – Kartendeck]({{ site.baseurl }}/assets/images/exploding-kittens-nsfw-deck.jpg)
 
-Willkommen zurück bei Geeknite, wo wir Karten mischen, Katzen schnurren und unsere Würfel mit den Augen rollen. Die Exploding Kittens NSFW Edition ist mehr als nur ein weiteres Kartenspiel. Es ist ein Chaoskatalysator, der in einer Packung steckt und darauf wartet, sich in eurem Wohnzimmer zu entladen — oder besser gesagt, in eurem Spielzimmer, wo die Snacks immer schon zu lange offen danebenstehen. Wenn du Katzenmagnet bist, Humor scharf wie ein Laserpointer und kein Blatt vor dem Mund hast, dann bist du hier genau richtig. Heute schauen wir uns an, was sich hinter der NSFW Edition versteckt, warum sie in der Regel wie neu ankommt und wie viel Chaos wirklich hinter der Kätzchen-Flagge steckt.
+Willkommen zurück bei Geeknite, dem Ort, an dem Kartendecks mehr Drama machen als der Plot-Twist deiner Lieblings-Memes. Die Exploding Kittens NSFW Edition ist nicht einfach nur ein Kartenspiel; sie ist ein Chaoskatalysator, der eure Spielabende in eine wilde Mischung aus Katzencontent, schwarzem Humor und blitzschnellen Entscheidungen verwandelt. Und ja, heute schauen wir uns speziell an, wie sich die NSFW Edition verhält, wenn sie in einer Seal-Wechselstube ankommt – also noch versiegelt, ungeöffnet und bereit, die Partie mit einem Anflug von Provokation zu entfachen. Wenn du Katzenmagnet bist, Humor scharf wie ein Laserpointer und kein Blatt vor dem Mund hast, bleib dran. Wir tauchen ein in Gameplay, Zustand, Design, Humor und alles, was du wissen musst, bevor du die Katzenklicker drückst.
 
 ## Einordnung und Zielgruppe
 
-Exploding Kittens NSFW Edition ist eine Abwandlung des beliebten Partyspiels Exploding Kittens. Man könnte sagen, es ist die erwachsene Schwester, die in der WG nie zu Wort kommt, bis der Card-Deck-Potenzial zum Zünden kommt. Die NSFW Edition richtet sich an Spieler ab 18 Jahren, die die Grenze zwischen sauberem Spielabend und schamlosen Gags gern verschieben. Wer Also Kids, Oma oder den heiligen Friedensarm des Familienabends sucht, sollte hier besser die Finger davon lassen. Die NSFW-Variante ergänzt das klassische Gameplay um Karten, die knackigen Humor, schlüpfrige Anspielungen und eine Prise Provokation ins Spiel bringt. Und ja, es knistert garantiert, wenn ihr mit kätzchen-treffernden Sprüchen um die Ecke kommt.
+Exploding Kittens NSFW Edition ist eine Abwandlung des beliebten Partyspiels Exploding Kittens. Man könnte sagen, es ist die erwachsene Schwester, die in der WG nie zu Wort kommt, bis der Card-Deck-Potenzial zum Zünden kommt. Die NSFW Edition richtet sich an Spieler ab 18 Jahren, die die Grenze zwischen sauberem Spielabend und schamlosen Gags gern verschieben. Wer also Kids, Oma oder den heiligen Friedensarm des Familienabends sucht, sollte hier besser die Finger davon lassen. Die NSFW-Variante ergänzt das klassische Gameplay um Karten, die knackigen Humor, schlüpfrige Anspielungen und eine Prise Provokation ins Spiel bringen. Und ja, es knistert garantiert, wenn ihr mit kätzchen-treffernden Sprüchen um die Ecke kommt.
 
 ### Was bedeutet NSFW hier genau?
 
 NSFW steht bei Exploding Kittens für Not Safe For Work. Das bedeutet konkret: Die Karten enthalten Witze, Anspielungen und Situationen, die in einem lockeren Freundeskreis zwar völlig okay sind, in formellen Settings aber eher peinlich wirken. Die Grundidee bleibt dieselbe: Explodierende Katzenkuchen, Defuse-Karten, See the Future und Co. treffen auf eine Reihe von Karten, die sich über Dating, Karaoke, nächtliche Snack-Orgien und mehr lustig machen. Wer also empfindlich gegenüber expliziten oder zweideutigen Inhalten ist, sollte die NSFW Edition lieber aus dem Spielschrank verbannen – oder sie zumindest mit den freundlichen, unbedenklichen Familienkarten kombinieren. In der Praxis bedeutet das: Du bekommst witzige, manchmal schlüpfrige Sprüche, stylische Katzenvasen voller Chaos und eine Portion schwarzer Humor, die die Spielrunden in bunte Eskapaden stürzt.
 
-## Inhalt und Zustand: Wie neu ist wie neu?
+## Inhalt und Zustand: Sealed vs. Wie neu ist wie neu?
 
-Der große Reiz der Kategorie Wie neu ist, dass du dir beim Kauf der NSFW Edition sicher sein kannst, dass die Verpackung und der Inhalt nahezu unberührt sind. Du kannst drauf wetten, dass Karten sauber getrennt, Kartenränder frei von Abrieb und das Artwork frisch wirkt. In der Praxis bedeutet das oft:
+Der große Reiz der Kategorie Sealed ist, dass du dir beim Kauf der NSFW Edition sicher sein kannst, dass Verpackung und Inhalt nahezu unberührt sind. Du kannst darauf wetten, dass Karten sauber versiegelt, Kartenränder frei von Abrieb und das Artwork frisch wirkt. In der Praxis bedeutet das oft:
 
-- Karten: keine Eselsohren, keine Knicke, keine aufgeweichte Packs, kein Farbverlust.
+- Karten: keine Eselsohren, keine Knicke, keine aufgeweichte Packungen, kein Farbverlust.
 - Verpackung: keine Abnutzung an Ecken, kein gequetschter Deckel – alles passt wie am ersten Tag.
 - Rolle der Würde: ja, selbst der WAU-Karton hat Stil. Die NSFW Edition kommt mit einem knackigen Kartenvorbau, der das Kartenmaterial schützt und gleichzeitig die „adult“-Anspielungen im richtigen Licht präsentiert.
 
@@ -108,9 +109,10 @@ Altersempfehlung: in der Regel 18+, einige Inhalte können bis 21+ gehen, je nac
 
 ## Fazit: Lohnt sich der NSFW-Kauf – insbesondere, wenn der Zustand wie neu ist?
 
-Kurz gesagt: Ja, wenn du eine Gruppe hast, die Humor, Katzenliebe und ein wenig pikanten Charme zu schätzen weiß. Die NSFW Edition bietet eine erfrischende Abwechslung zur Basisedition, indem sie den Humor erhöht, neue Kartenmechaniken ins Spiel bringt und das Gesamterlebnis intensiver macht. Wenn du eine gebrauchte Ausgabe als wie-neu kaufst, bekommst du ein erstklassiges Gefühl von Frische und Sauberkeit, das den Spaß am Anfang nicht ruinieren wird. Die Künstin von Geeknite schmunzelt: Ja, du bekommst eine spannende Mischung aus Strategie, Glück und improvisierter Komik, die in jeder Spielnacht für Lacher sorgt.
+Kurz gesagt: Ja, wenn du eine Gruppe hast, die Humor, Katzenliebe und ein wenig pikanten Charme zu schätzen weiß. Die NSFW Edition bietet eine erfrischende Abwechslung zur Basisedition, indem sie den Humor erhöht, neue Kartenmechaniken ins Spiel bringt und das Gesamterlebnis intensiver macht. Wenn du eine gebrauchte oder sealed Ausgabe als wie-neu kaufst, bekommst du ein erstklassiges Gefühl von Frische und Sauberkeit, das den Spaß am Anfang nicht ruinieren wird. Die Katze von Geeknite schmunzelt: Ja, du bekommst eine spannende Mischung aus Strategie, Glück und improvisierter Komik, die in jeder Spielnacht für Lacher sorgt.
 
 ### Lohnt es sich als Langzeit-Topper?
+
 Für Serien- und Abendspiel-Nerds lohnt sich die NSFW Edition durchaus als regelmäßiger Bestandteil der Spielabende. Die Kombination aus leichten Regeln, schnellem Spieltempo und einem ordentlichen Schuss Humor macht das Produkt zu einem zuverlässigen Party-Highlight. Wenn ihr regelmäßig neue Gruppen zusammenbringt oder eure bestehende Runde variieren wollt, bietet die NSFW Edition eine einfache Möglichkeit, die Spielnächte aufzuwerten, ohne in ein komplexes Strategiespiel zu investieren.
 
 ## Weiterführende Ressourcen und Links
@@ -122,10 +124,11 @@ Für Serien- und Abendspiel-Nerds lohnt sich die NSFW Edition durchaus als regel
 
 ## Bilder und Medien im Beitrag
 
-- Promo-Schnappschuss des Sets: ![NSFW Edition – Kartendeck](/assets/images/exploding-kittens-nsfw-deck.jpg)
-- Illustration eines typischen Spielzugs: ![Spielzug-Beispiel](/assets/images/exploding-kittens-nsfw-play.jpg)
+- Promo-Schnappschuss des Sets: ![NSFW Edition – Kartendeck]({{ site.baseurl }}/assets/images/exploding-kittens-nsfw-deck.jpg)
+- Illustration eines typischen Spielzugs: ![Spielzug-Beispiel]({{ site.baseurl }}/assets/images/exploding-kittens-nsfw-play.jpg)
 
 ### Abschluss: Unsere eindeutige Empfehlung
+
 Wenn du eine etwas frechere, humorvolle Kartenrunde suchst, die trotzdem schnell erklärt ist und die Aufmerksamkeit der Gruppe hält, ist Exploding Kittens NSFW Edition definitiv eine Überlegung wert – vorausgesetzt, du bist bereit für ein wenig provokanten Spaß. Die Kombination aus wie-neu Zustand, gutem Artwork und dem bewährten Spielprinzip macht sie zu einer soliden Wahl für gelegentliche Spielnächte.
 
 Für Katzenfans mit einem Hang zu schlüpfrigen One-Linern in einer entspannten Runde: Ja, gönn dir die NSFW Edition – sie wird dich überraschen, lachen lassen und in Erinnerung bleiben, wie eine gute Katzen-Show, nur mit mehr Explodieren und weniger Quietscheentchen.
