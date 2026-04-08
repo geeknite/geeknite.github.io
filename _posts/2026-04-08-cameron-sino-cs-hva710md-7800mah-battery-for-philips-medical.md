@@ -1,5 +1,5 @@
 ---
-title: Cameron Sino CS-HVA710MD 7800mAh Battery for Philips Medical - Geeknite Review Updated
+title: Cameron Sino CS-HVA710MD 7800mAh Battery for Philips Medical — Geeknite Review Updated
 date: 2026-04-08
 tags:
   - battery
