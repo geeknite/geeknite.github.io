@@ -102,6 +102,33 @@ In der Spielrunde entstehen oft kleine Popkultur-Threads, die sich durch mehrere
 - Wenn der Raum lacht, bleibe bei der gleichen Thematik. Konsistenz in der eigenen Herd-Mentalität kann dir eine Serie von Punkten sichern.
 - Stimme die Spielzeit auf die Gruppe ab. In kleinen Runden macht es Sinn, mehrere kurze Runden zu spielen; in größeren Gruppen kann man zwei oder drei Durchläufe mit Pausen dazwischen planen.
 
+## Variationen und Hausregeln
+
+Wenn ihr Herd Mentality regelmäßig spielt, könnt ihr mit einfachen Hausregeln neue Dynamiken schaffen:
+
+- Schnellrunden-Modus: Limitiere jede Runde auf 3 Minuten – inklusive Prompt-Aufdeckung, Antworten schreiben und Abstimmung. Das erhöht Stress oder Spaß je nach Gruppe und sorgt für viel Gelächter.
+- Doppelantworten: Jede Person reicht zwei Antworten ein, aber die Abstimmung bezieht sich nur auf die erste Antwort. Wer mutig ist, kann aber absichtlich die zweite, härtere Option mit ins Spiel werfen, um Überraschungen zu erzeugen.
+- Publikumsvotum: Beziehe eine oder zwei außenstehende Zuschauer (z. B. andere Spieler, die gerade nicht aktiv sind) ein, die für eine Runde entscheiden, welche Antwort „die Herd-Majorität“ am ehesten getroffen hat. Das verdichtet Retro-Gameshow-Vibes.
+- Themen-Serien: Für eine komplette Session wählt ihr eine Oberthemen-Reihe (z. B. Geek-Alltag, Schule der Wizards, Büro-Wichteln) und spielt mehrere Runden mit jeweils demselben Oberthema, um eine kleine erzählerische Fadenführung zu erzeugen.
+
+## Praxis-Tipps für Moderatoren
+
+- Klare Zeitlimits setzen und niemanden mit langen Erklärungen aufhalten. Moderation ist der Schlüssel, damit der Fluss nicht abreißt.
+- Respect-Check: Bevor Prompts gespielt werden, kurz klären, welche Themen tabu sind – besonders sensibel oder potenziell verletzend können vermieden werden, ohne die Lachkultur zu brechen.
+- Insider-Witze zulassen, aber nur, wenn sie inklusiv bleiben. Wenn jemand neu dabei ist, poste eine kurze Einführung in die wiederkehrenden Running Gags.
+- Ausgleich für Introvertierte: Gib jedem die Möglichkeit, eine kurze, prägnante Antwort zu geben. Manchmal ist eine stille, aber pointierte Pointe genau das, was die Gruppe braucht.
+
+## Praxisbeispiele aus unseren Spielabenden
+
+- Prompt: Wie würdest du einem Drachen zum Mittagessen bitten?
+  - Antworten: höflich wie ein Kellner; königlich dramatisch mit Drachengold-Preis; oder schnippisch mit einem Augenzwinkern – und die Gruppe bricht sofort in Gelächter aus.
+- Prompt: Was wäre das peinlichste Soundeffect beim High Five?
+  - Antworten: ein überzogenes Klingeln aus alten Telefonen; ein keckes Naseräuspern; ein lautes Silent-High-Five, das niemandem wirklich Kontakt ermöglicht.
+- Prompt: Wenn dein Smartphone ein Haustier wäre, wie würde es heißen?
+  - Antworten: Sir Akku-Bär; Lady Akku-Bunny; Dr. Pixel-Paws, der immer Updates will.
+- Prompt: Welche Methode würdest du verwenden, um die Zeit bei einem Meet-and-Greet mit Außerirdischen zu vertreiben?
+  - Antworten: Nano-Tier-Challenge; interstellare Karaoke; Propeller-Demonstration mit Raumanzug-Accessoires.
+
 ## Unsere Bewertung
 
 Stärken:
@@ -115,7 +142,7 @@ Schwächen:
 - einige Prompts funktionieren besser in bestimmten Kulturen oder Subkulturen
 - Wer sehr ernst ist, könnte das Spiel als zu leicht empfinden, aber das ist ja auch der Point of Fun
 
-Gesamtbewertung: 8 von 10 Punkten
+Gesamtbewertung: 8.5 von 10 Punkten
 
 ## Fazit und Empfehlung
 
