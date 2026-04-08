@@ -1,26 +1,29 @@
 ---
-title: Eternal 10 Person Oak and Black Workstation Review
-date: 2026-04-08 10:00:00 -0000
+title: Eternal 10 Person Oak and Black Workstation Review (Updated)
+date: 2026-04-08 12:00:00 -0000
 tags:
   - review
   - office furniture
   - ergonomics
   - geeknite
+  - modular
+  - collaboration
+  - oak
 ---
 
-Welcome to the Geeknite field guide to the Eternal 10 Person Oak and Black Workstation, a product that sounds like a fantasy epic and behaves like a Swiss army desk. If your team has grown beyond the cramped kitchen table and is ready to storm the productivity gates with a single heroic surface, this oak and black colossus might be your Excalibur. Or it might just be a really big desk that costs more than a small car. Either way, we tested it so you dont have to pretend to be a hero while you wire up a server rack in your living room.
+![](assets/images/eternal-10-person-oak-black-workstation.jpg "Eternal 10 Person Oak and Black Workstation in a modern open-plan office")
 
-![Eternal 10 Person Oak and Black Workstation](/assets/images/eternal-10-person-oak-black-workstation.jpg)
+Welcome back to the Geeknite field guide to the Eternal 10 Person Oak and Black Workstation, the desk that looks like it could host a small startup and behaves like a Swiss army desk with extra batteries. If your crew has outgrown the kitchen table and you’re ready to storm the productivity gates with a single heroic surface, this oak-and-black behemoth might be your Excalibur. Or it might just be a really, really big desk that costs more than a small car. Either way, we tested it so you don’t have to pretend to be a hero while you wire up a server rack in your living room and pretend it’s a data center.
 
 ## Overview
-The Eternal 10 Person Oak and Black Workstation is explicitly designed for teams that need a unified work surface without sacrificing personal space. Picture a row of desks with a continuous oak top supported by a black powder-coated steel frame. The result looks like a corporate great outdoors meets a woodland vampire aesthetic. It is not subtle, and that is part of its charm. This is not a single desk meant for one person who prefers minimalism. This is a networked battlestation meant for squads who code, brainstorm, and occasionally argue about whiteboard marker etiquette in the same breath.
+The Eternal 10 Person Oak and Black Workstation is explicitly designed for teams that crave a unified work surface without sacrificing personal space. Picture a long row of desks with a continuous oak top supported by a black powder-coated steel frame. The result looks like a corporate outdoors meets a woodland vampire aesthetic. It is not subtle, and that is part of its charm. This is not a single desk meant for one person who demands minimalism. This is a networked battlestation meant for squads who code, brainstorm, and occasionally argue about whiteboard marker etiquette in the same breath.
 
-The core idea behind this setup is a shared, scalable surface with modular modules that you can slide in and out as projects demand. At Geeknite we love modularity that does not require a forklift to rearrange. The Eternal system aims to tick that box with options for appendages like monitor arms, storage cabinets, cable trays, and under-desk drawers. If your team is distributed across a few rooms, you can even split the line into smaller clusters and still claim that you are a rock solid office family rather than a row of people staring at a single screen until someone breaks coffee mugs in solidarity.
+The core idea here is a shared, scalable surface with modular modules that you can slide in and out as projects demand. At Geeknite we love modularity that does not require a forklift to rearrange. The Eternal system aims to tick that box with options for appendages like monitor arms, storage cabinets, cable trays, and under-desk drawers. If your team is distributed across a few rooms, you can even split the line into smaller clusters and still claim you’re a rock-solid office family rather than a lineup of people staring at a single screen until someone breaks coffee mugs in solidarity.
 
 ## Design and Build Quality
-A quick tactile measurement of what you get here tells you that this desk means business. The oak top is real wood, not a thin veneer pretending to be wood. It carries a warm grain that can survive casual drips of coffee and those inevitable coffee-stained post-it notes that accumulate in every good planning session. The oak top is paired with a black steel frame that looks industrial but polished rather than industrial in the sense of a warehouse with fluorescent lighting. The finish on the steel is smooth to the touch and resists fingerprints that somehow happen when you are deep in a sprint and your brain has a mind of its own.
+A quick tactile measurement of what you get here tells you that this desk means business. The oak top is real wood, not a thin veneer pretending to be wood. It carries a warm grain that can survive casual drips of coffee and the inevitable coffee-stained post-it notes that accumulate in every good planning session. The oak top is paired with a black steel frame that looks industrial yet polished rather than industrial in the sense of a warehouse with fluorescent lighting. The finish on the steel is smooth to the touch and resists fingerprints that somehow appear when you’re deep in a sprint and your brain has a mind of its own.
 
-The entire assembly feels sturdy. It does not creak loudly when you lean into a corner or when you stretch to grab a stray cable. The legs are thick and the cross-bracing is visible, which is a good reminder that this is not a delicate tulip table. This is a workhorse designed to handle a full team of engineers, designers, marketers, and the occasional intern who thinks a standing desk is a new kind of treadmill for pixels.
+The entire assembly feels sturdy. It does not creak loudly when you lean into a corner or stretch to grab a stray cable. The legs are thick and the cross-bracing is visible, a nice reminder this is not a delicate tulip table. This is a workhorse designed to handle a full team of engineers, designers, marketers, and the occasional intern who thinks a standing desk is a new kind of treadmill for pixels.
 
 Weight capacity is a talking point here. You can load this baby with monitors, keyboards, and the occasional sunbeam from a screen that needs a bigger canvas. In our tests, we stacked multiple large displays and left enough space for a tiny plant that pretends to improve morale. The result was a surface that felt anchored rather than top-heavy, which is exactly what you want when your team is debating the best approach to a design sprint while two people fight over who gets the window seat on the dev side.
 
@@ -50,7 +53,7 @@ Size matters when you are dealing with 10 people who all believe they deserve th
 
 One of the most underrated aspects of a large shared desk is the social ergonomics. When queues form around a whiteboard, you want people to be able to move their chairs without bumping into the next person. The Eternal desk accomplishes this by offering a wide central surface with clear demarcations for each workstation. It is not a privacy fortress, but it does give individuals a sense of space, which reduces the midday email drama that can erupt when someone sits too close to your keyboard and claims your personal sprint backlog.
 
-## Cable Management and Tech Ready-ness
+## Cable Management and Tech Readiness
 The tech life loves cables as much as humans love coffee. The Eternal system comes with integrated cable channels and optional trays that make it possible to route power, data, and HDMI cables without turning the entire desk into a nest of spaghetti. A practical tip is to pre-plan your power distribution. The last thing you want is to discover that a single power strip is insufficient for a row of 8–10 workstations plus occasional guest laptops. Our test setup used a central trunk line with detachable branches so you can remove a module or reconfigure the line without unplugging everything in a theatrical fit of frustration.
 
 Access to cabling is reasonably straightforward. You can slip modular trays in and out, which helps during maintenance and upgrades. In the long run, the cable management system pays for itself in the time saved during reconfigurations and in the fewer headaches from tangled cords that somehow manage to survive even in a modern cloud-powered world.
