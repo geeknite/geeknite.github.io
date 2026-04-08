@@ -1,5 +1,5 @@
 ---
-ttitle: Pandasaurus Games THE MIND Lets Become One
+title: Pandasaurus The Mind Lets Become One
 date: 2026-04-08
 tags:
   - board-games
@@ -9,13 +9,13 @@ tags:
   - party-game
 ---
 
-![The Mind box](\/assets\/images\/the-mind-box.jpg)
+![The Mind box]({{ site.baseurl }}/assets/images/the-mind-box.jpg)
 
 ## Introduction
 
-In the evergreen world of tabletop gaming, there are games that want to be epic and games that want to be clever and swift. The Mind sits comfortably in the latter camp, a cooperative card game from Pandasaurus that pretends to be telepathy and often delivers more giggles than grand strategy. If you crave deep mechanical engines, the Mind is probably not your long-lost love. If you enjoy watching a friend stare blankly at a stack of numbered cards and whispering in the universal language of nods and gasps, this is your jam.
+In the evergreen world of tabletop gaming, there are games that want to be epic and games that want to be clever and swift. The Mind sits comfortably in the latter camp, a cooperative card game from Pandasaurus that pretends to be telepathy and often delivers more giggles than grand strategy. If you crave deep mechanical engines, The Mind is probably not your long-lost love. If you enjoy watching a friend stare blankly at a stack of numbered cards and whispering in the universal language of nods and gasps, this is your jam.
 
-The pitch is simple: players work together to play cards in ascending order without communicating. No talking, no signals, no sneaky gestures. Just a shared intuition and the occasional celebratory high five when someone drops a card that somehow slides into place exactly when it should. The Mind does not punish you for thinking aloud. It rewards you for thinking in sync with your fellow humans, which is a surprisingly rare talent when you add friends and snacks to a game night.
+The pitch is simple: players work together to play cards in ascending order without communicating. No talking, no signals, no sneaky gestures. Just a shared intuition and the occasional celebratory high five when someone drops a card that somehow slides into place exactly when it should. The Mind says you should not punishingly overthink it; it rewards you for thinking in sync with your fellow humans, which is a surprisingly rare talent when you add friends and snacks to a game night.
 
 Pure, silly, and a touch nerve-wracking, The Mind might be the happiest kind of chaos. It wears its minimalism as a badge of honor and dares you to trust your gut and your group more than your cards. The result is a game that can spit out loud laughter or tense silence with equal ease, depending on your crew. If you like social experiments that end with a chorus of triumphs and a few exaggerated groans, you will likely fall in love. If you want a game with rails so rigid you can predict every twist, there are better engines for you somewhere in the multiverse. The Mind is a wildcard in the best sense of the word.
 
@@ -74,11 +74,11 @@ The lack of a heavy thematic overlay is a feature, not a flaw. The Mind wants yo
 
 ### Pacing and mood
 
-The tempo of a Mind session is the real star. There are moments of almost philosophical silence as the room waits, listening to the subtle cues and the soft clinking of cards being placed. Then a single card falls into place and the table erupts with a shared elation that feels earned, even if it is just a handful of numbers. The mood swings are gentle but real; you can shift from meditative calm to triumphant exhale in the blink of an eye. The overall feel is like a micro-workout for your social muscles: it exercises patience, trust, and the art of not spoiling the moment for everyone else.
+The Mind session tempo is the real star. There are moments of almost philosophical silence as the room waits, listening to the subtle cues and the soft clinking of cards being placed. Then a single card falls into place and the table erupts with a shared elation that feels earned, even if it is just a handful of numbers. The mood swings are gentle but real; you can shift from meditative calm to triumphant exhale in the blink of an eye. The overall feel is like a micro-workout for your social muscles: it exercises patience, trust, and the art of not spoiling the moment for everyone else.
 
 ### Replayability and longevity
 
-The mind is a small system with a big effect. Each run can last roughly 15 to 30 minutes depending on your group size and how well you ride the waves. Because the core rules are so lean, there is a strong sense of novelty in every session. You can opt into variants and expansions to stretch the life of the game, but the baseline experience remains a solid core that can be revisited again and again with the same light weight and the same sense of discovery. It is rare to find a game that scales so gracefully in both group size and duration without losing its fundamental charm, and The Mind manages that trick with surprising grace.
+The Mind is a small system with a big effect. Each run can last roughly 15 to 30 minutes depending on your group size and how well you ride the waves. Because the core rules are so lean, there is a strong sense of novelty in every session. You can opt into variants and expansions to stretch the life of the game, but the baseline experience remains a solid core that can be revisited again and again with the same light weight and the same sense of discovery. It is rare to find a game that scales so gracefully in both group size and duration without losing its fundamental charm, and The Mind manages that trick with surprising grace.
 
 ### Accessibility and inclusivity
 
@@ -100,8 +100,8 @@ You can usually find The Mind at major retailers and local game stores. The pric
 
 External links:
 
-- Pandasaurus official site: https://pandasaurusgames.com (for official news, expansions, and retail partners)
-- BoardGameGeek page on The Mind: https://boardgamegeek.com/boardgame/2102/the-mind (community reviews, photos, and strategies)
+- Pandasaurus official site: https://pandasaurusgames.com
+- BoardGameGeek page on The Mind: https://boardgamegeek.com/boardgame/2102/the-mind
 - For more on how we balance group dynamics in co op games, see our post on co op vs competitive dynamics: {% post_url 2023-08-18-co-op-vs-competitive-board-games %}
 - If you want a broader take on how to run a great game night with fast, accessible titles, check out Geeknite's game night essentials post: {% post_url 2024-11-02-geeknite-game-night-essentials %}
 - Another Geeknite discussion on telepathic vibes and subtle signals in social games: {% post_url 2025-03-12-geeknite-telepathic-games %}
