@@ -1,107 +1,100 @@
 ---
 layout: post
-title: Sushi Go The Pick and Pass Card Game for 2-5 Players
+title: Sushi Go! The Pick and Pass: revisión extendida y nuevo sellado
 date: 2026-04-08 12:00:00 -0000
-tags: [board games, card games, gamewright, sushi go, review, geeknite]
+tags: [board games, card games, gamewright, sushi go, review, geeknite, español]
 ---
 
-Welcome to another spin in the geeky arcade of tabletop thrills. Today we dunk our chopsticks into the glossy cards of Sushi Go, the quick and delightful pick and pass cardio for 2 to 5 players. If you want a palate cleanser between long RPG sessions or a party game that begs for competitive bragging rights, this is the snackable contender you did not know you needed until you saw the tiny green wasabi card wink at you from the pile.
+# Sushi Go! The Pick and Pass: revisión extendida y nuevo sellado
 
-![Sushi Go sealed box]( /assets/images/sushi-go-sealed.jpg )
+Bienvenidos a una versión ampliada de nuestra ruta de snacks nerds: Sushi Go con The Pick and Pass, ahora en un nuevo sellado que parece haber pasado la prueba de humo de la cocina y obtenerse un premio imaginario al mejor juguete. Este post no solo actualiza nuestra mirada sobre el juego clásico, sino que entra en modo épico para cubrir desde la caja hasta las risas en la mesa, pasando por estrategias que te hacen sentir como un chef de sushi con talento para adivinar el futuro de una mano entera. Si buscas un juego corto, social y con personalidad, este es tu bocado favorito que nadie pidió pero todos aceptaron con gusto.
 
-Sushi Go is a fast drafting card game from Gamewright that plays in about 15 minutes, which means you can squeeze in a dozen rounds if your group has the attention span of orbiting satellites and the snack supply to match. The core mechanic is straightforward: each player starts with a hand of cards, picks one, and passes the rest to the next player. You repeat until all cards are claimed. The scoring comes from building combos that maximize points for your team of pretend sushi chefs. The game rewards quick decisions, sharp memory, and a dash of risk management as you anticipate what your neighbors might grab on the next pass.
+![Sushi Go sealed box](/assets/images/sushi-go-sealed.jpg)
 
-In this review, we will dive into components, gameplay flow, strategic considerations, player counts, and a little flavor that makes Sushi Go more than just a disposable party card. If you are new to the series, this is a perfect quick-start dish. If you are a veteran hungry for a few new crunches, we will sprinkle some tips to elevate your drafting game and maybe win a round or two without glancing at your neighbor to steal their dumplings. And just so you know, we will link out to a couple of old Geeknite posts for the curious mind who wants to dig deeper into how we approach small card games with big personality.
+Sushi Go es un juego de draft veloz desarrollado por Gamewright. En torno a 15 minutos por partida, suficiente para sacar una docena de rondas en una noche siempre que la mesa tenga hambre de risas y carta pasada de moda. La idea central es simple: cada jugador recibe una mano de cartas, elige una para conservar y pasa el resto a la izquierda. Se repite hasta que no quede carta y luego se puntúa. El objetivo: construir combos que maximicen puntos con una pizca de memoria y un toque de lectura de la mesa. En la edición The Pick and Pass, el ritmo se mantiene, pero la experiencia de juego crece gracias al nuevo sellado y pequeños refinamientos en la arte y el material que hacen que el juego se sienta más pulido sin perder su alma juguetona.
 
-## What is in the box
-The sealed box carries a promise of simple joy and a lot of cute food puns locked inside. The components are minimalistic by design, which is part of the charm. You get a deck of sushi cards in five themes, a handful of scoring cards, and a modest reference sheet that politely tells you how to tally points. The art style is bright, cartoony, and friendly to both kids and adults who still think a cartoon chef hairnet is a fashion statement. The quality is reliable enough that you will shuffle, slice, and pass without worrying about smudges or cardboard wear after a couple of dozen rounds.
+## ¿Qué hay en la caja (con el nuevo sellado)?
+La versión reciente llega en un empaquetado compacto, fácil de transportar y con un acabado que aguanta mejores historias de viaje que un mapa de tesoro. Dentro encontrarás:
 
-A single page rule sheet is included, which is a blessing if you played a lot of heavy Euro games that require a PhD in rule parsing. The rules are written to be read aloud and explained in less time than it takes to fry a tempura shrimp. The packaging favors a thin, portable footprint, perfect for travel or a quick game night when you forgot to book a bigger table at your favorite cafe.
+- Una baraja de cartas de sushi agrupadas por categorías: nigiri, tempura, sashimi, makizushi y dumplings, junto con las cartas de pudding que sirven de endgame. 
+- Cartas de puntuación que se suman a lo largo de la ronda y la hoja de reglas de una página que explica todo sin necesidad de una tesis en reglas avanzadas.
+- Un diseño de arte colorido y agradable que funciona tanto para niños como para adultos que nunca perdieron su amor por un chef de sombrero gigante y una ración de sushi de plástico en la mesa de comedor.
+- Un nuevo sellado que mejora la robustez del producto, con un acabado que resiste el bombardeo de dedos curiosos, papeles pegados y sorpresas de merienda.
 
-### Component quality
-- Cards: standard playing card stock with a gentle gloss; they shuffle nicely and hold up as you grab and pass. Expect the occasional corner crease if your players treat the cards like tiny paper fortunes, but hey, that just adds character.
-- Score markers: no separate bits to lose; scoring happens on the cards themselves which keeps the table clean and simple.
-- Artwork: chef hats, sushi nigiri, and pastel backgrounds that radiate cheerful vibes. If you are a person who judges games by their color palette, Sushi Go passes with flying colors.
+### Componentes y calidad
+Las cartas están hechas con un cartón estándar de buena calidad, con acabado ligeramente glossy que facilita el manejo y el paso de cartas entre jugadores. No hay piezas sueltas ni elementos que se desarmen ante una pequeña caída de la taza de café. El set de puntuación está integrado en las cartas para reducir el desorden, y el arte es lo suficientemente claro para que, incluso en ronda atascada, la mesa pueda ver rápidamente qué combina con qué.
 
-## How to set up and play
-Setting up is a five-second ritual that requires you to deal a hand of cards to each player, and then place a single draw deck in the center. The first player picks one card to keep and passes the rest to the player on their left. This goes around until all cards are gone. Then you score based on the set of cards you collected for that round. The next round you pass in the opposite direction. A full game is typically three rounds, which means a solid 15 to 20 minutes of joyful chaos with a hint of strategic regret.
+### Arte y temática
+La estética de Sushi Go mantiene su tono ligero: personajes caricaturescos, colores pastel y una ambientación que invita a sonreír. No pretendemos una obra maestra del diseño, pero sí una atmósfera que te dice: esto es diversión ligera, apta para todas las edades. En el sellado reciente, el uso del color es más pronounced y el contraste facilita distinguir los componentes cuando la mesa está llena de risas y conversaciones simultáneas.
 
-### The draft mechanic in a nut shell
-Drafting means you need to look beyond what you want right now. You must anticipate what your neighbor is likely to take, and how that choice affects your eventual score. The key is to balance between snagging sure-fire points and denying your opponents from building big combos. The excitement is in the tension: you can see your plan unfolding as cards move from hand to hand and suddenly you realize you left yourself with a handful of dumplings that will score nothing but make your friend laugh as they endlessly munch on victory food while you count your losses.
+## Cómo se juega: la mecánica de drafting en detalle
+La esencia de Sushi Go es el draft rápido: recibes una mano, eliges una carta y pasas el resto a tu vecino. Repite hasta que todas las cartas se han llevado a casa, y luego puntúas basándote en los patrones que has formado. Con hasta 5 jugadores, la dinámica se enciende: cada pasada es una decisión que te fuerza a mirar dos pasos adelante, y aun así la carta que llega a tu mano siguiente puede cambiar por completo tu plan. Con dos jugadores, hay menos ruido social, pero cada decisión siente más peso; la tensión se concentra y la victoria se siente más personal, como una batalla de sushi entre dos palillos hábiles.
 
-#### Card types that define scoring
-- Nigiri: these little bites come in classic varieties like egg, salmon, and squid. The value of a Nigiri scales with Wasabi cards in your hand, which doubles your next Nigiri value. The combo concept is deliciously simple: play Wasabi on any turn, then hope your next kept Nigiri pays off big time.
-- Tempura: collect at least two Tempura cards to score a small batch of points. It is the classic risk reward of Sushi Go: two cards for a sure but modest payoff, or one card that may not yield any points if you miss the second one.
-- Sashimi: three cards of the same type yield a larger payoff. Missing one means nothing happens, which makes you chase the third card with the passion of a cat eyeing the red dot on the wall.
-- Dumplings: more is better here. The longer you stack dumplings, the more points you can grow. It is the simple ladder of the game — collect more dumplings to score more points.
-- Makizushi: these are trickier because you need two of them to score. They reward careful planning and a bit of bread crumb luck to ensure you grab a pair before your neighbor does.
-- Pudding: introduced as the endgame kicker, pudding cards count at the end of all rounds for a potential swing in points. The most pudding can win you extra points, or at least a smug sense of superiority when you beat your friends at something that technically counts as a dessert.
+### Tipos de cartas y cómo puntúan
+- Nigiri: puntos base que pueden duplicarse si tienes Wasabi en juego. Wasabi en una mano y Nigiri en la siguiente puede crear combos que parecen magia de contador de puntos.
+- Tempura: dos cartas de Tempura te dan un pequeño puñado de puntos. Es un riesgo calculado: dos cartas para un payoff estable o arriesgar por una bola extra de puntuación.
+- Sashimi: tres cartas te otorgan una recompensa mayor; perder una de ellas suele ocasionar un suspiro de resignación en la mesa.
+- Dumplings: la recompensa crece con cada dumpling adicional que consigues. Es una escalada de puntos que recompensa la paciencia y la previsión.
+- Makizushi: necesitas dos para puntuar; la táctica aquí está en reforzar la probabilidad de que consigas el par antes de que el rival tome el segundo.
+- Pudding: el gran swing del juego; se cuentan al final de todas las rondas y pueden darle la vuelta a la carrera si uno tiene suficientes pudding para rematar.
 
-Each round ends when all cards have been claimed. Then you total up the points for the cards you kept that round and write them down. The next round resets the dance floor, and players pass again until the end. It is a perfectly scaling experience; with more players, the tempo increases and the tension grows as the passing becomes noisier and the table becomes a merry wreck of tiny paper sushi fortunes.
+Cada ronda concluye cuando ya no quedan cartas para repartir. Luego se suman los puntos del set recogido y se inicia una nueva ronda en la dirección opuesta. Completar tres rondas te da la sensación de haber pasado por un pequeño parque de diversiones de papel, con carcajadas y la satisfacción de ver cómo las piezas encajan en un momento de claridad culinaria.
 
-## Strategy for new players
-Sushi Go rewards fast, confident decisions but also demands the ability to read the room. Here are some practical tips to get you scoring sooner rather than later.
+## Estrategias para principiantes y veteranos (sin complicarse la vida)
+Sushi Go premia la rapidez y la capacidad de leer a la mesa sin convertirse en un algoritmo de cálculo. Aquí tienes un conjunto de consejos prácticos para sacar más provecho desde el primer turno:
 
-- Favor small, high-probability combos early on. You want to build a reliable baseline rather than gambling on a miracle round that pays out nothing.
-- Watch the card flow. If you see a lot of Makizushi or Sashimi come through, adjust your plan to capitalize on those trends. It is a small race where the pace of the deck matters as much as your choices.
-- Remember Wasabi and Nigiri. The double-dip mechanic is one of the sharp edges of Sushi Go. It rewards you for thinking ahead about your next pick, not just this moment.
-- Pudding as the endgame wildcard. If you are ahead on pudding at the start of the final round, you can aim to deny others by steering the flow toward other cards. If you are behind, go for the pudding to catch up. It is a simple but powerful lever that can swing the entire match.
-- Endgame awareness. The last turns can be chaotic. Keep a mental tally of what your opponents might still need to complete a set, and use your last picks to either complete your own set or block someone else from finishing one.
+- Prioriza combos pequeños y fiables al inicio. Construir una base de puntos consistente te mantiene a flote cuando el mazo se pone caprichoso.
+- Observa el flujo de cartas y ajusta tu plan. Si ves que llegan muchos Makizushi o Sashimi, adapta tu estrategia para aprovechar esas tendencias sin desperdiciar acciones útiles.
+- Entiende Wasabi y Nigiri. La clave está en planear la siguiente jugada basada en la carta que recibirás en la ronda siguiente, no solo en la carta que tienes en la mano ahora.
+- Pudding como comodín de fin de partida. Si vas adelantado en pudding, podrías intentar dirigir la mesa para que el resto pierda oportunidades, o intentar mantener el pudding alto para asegurar el título de “saboreo del año”.
+- El control de la mesa en las rondas finales: la última parte de la partida puede ser caótica. Mantén un recuento mental de qué conjuntos siguen vivos para ti o para tus oponentes y usa tus últimas cartas para bloquear o completar tu propio set.
 
-Two player mode adds a different texture to the experience. In two players, you feel the rounds finish a little quicker and the dethroning of your dining rival becomes personal. You do not get the social clown show that comes with a full table, but you gain a sense of intimate strategic tête-à-tête that can be very satisfying for a quiet night in.
+La versión para dos jugadores agrega un punto de tensión especial: menos ruido, más foco. Es perfecto para una noche tranquila de acertijos con una pareja, o para una sesión de juego corto que se alarga por la diversión de la conversación entre tiradas de sushi.
 
-## Variant and expansions
-Sushi Go has a party spin in Sushi Go Party, which expands the card pool and allows you to tailor the experience to your crew. The base game remains lean and fast, which is the exact vibe you want when you have a room full of laughter and very little patience for long setup rituals. If you enjoy customizing micro games for different crowds, Sushi Go Party adds a layer of personalization while preserving the quick drafting engine that makes Sushi Go so endearing.
+## Variantes y expansiones: manteniendo el ritmo
+Sushi Go Party amplía el universo del juego base, permitiéndote personalizar la baraja para distintos grupos. Añade variedad sin romper la velocidad del draft, y es ideal cuando tienes una sala de juego que se llena de gente diversa. En este artículo no profundizaremos en cada carta o variante, pero si quieres entender cómo se mantiene el espíritu ligero mientras se añade profundidad, Sushi Go Party es la evolución natural para grupos que buscan mayor rejugabilidad sin sacrificar la fluidez.
 
-For the sake of keeping this review grounded, we will not dive too deep into every card or every variant in the Party edition. If you crave more elaborate combos and quirky scoring methods, Sushi Go Party is a natural evolution of the base experience.
+## La experiencia de producción y accesibilidad
+La base de Sushi Go es una experiencia amigable para todo tipo de público: reglas cortas, juego corto, y un tema que es fácil de abrazar incluso si la persona no se considera jugadora de mesa. El nuevo sellado fortalece esa accesibilidad: las cartas resisten mejor el desgaste de largas noches de juego, la mesa se mantiene limpia gracias a la concentración de la puntuación en las cartas, y el aspecto visual trae un aire de frescura sin que el conjunto se desincronice con su identidad. Si buscas un juego que puedas enseñar en menos de 5 minutos y que aún así deje a todos con ganas de una segunda ronda, Sushi Go en su edición The Pick and Pass cumple con creces.
 
-## Thematic flavor and production value
-Sushi Go leans into a lighthearted theme that works well for all ages. The art style keeps things accessible and humorous. You can joke about the lack of actual sushi being eaten, while your table debates whether the squid Nigiri deserves extra points for bewitching eyes on the illustration. That playful tone is part of why Sushi Go remains a staple on many game shelves. It is not trying to be a culinary epic; it is a delightful, portable drafting game with a lot of personality baked in the cards.
+## ¿Cómo se compara con otros drafting rápidos? (un pequeño espejo de compatibilidad)
+Si te atrae la idea del drafting pero prefieres algo menos denso que un euro, Sushi Go encaja en ese punto dulce. Comparte ADN con micro-drafting juegos, pero brilla gracias a su temática tierna y al sistema de puntuación directo que permite ver los efectos de cada decisión al instante. No pretende ser un simulador económico ni una simulación militar; quiere ser una cálida experiencia social que puedas jugar en una mesa estrecha, en una sala de estar o incluso en el bar de la oficina durante la hora de la comida. Si te gustan combinaciones rápidas y giros simpáticos, Sushi Go se coloca junto a títulos como Love Letter o 6 Nimmt, con su propio sabor culinario y su humor ligero.
 
-From a production standpoint, the game is compact and travel-friendly. The cards survive a few nights of enthusiastic hands and occasional crumbs. The scoring sheet is uncomplicated and the overall presentation keeps the vibe positive. If you want a game that looks friendly on a coffee table and plays like a dream at a casual gathering, Sushi Go hits the mark.
+## Accesibilidad y público objetivo
+Es una opción ideal para familias, compañeros de piso y grupos casuales que buscan algo útil para un rato sin comprometer la comodidad. Sus reglas son fáciles de explicar, las rondas son cortas y cada decisión aporta valor. Además, su diseño lo hace apto para enseñar conceptos básicos de estrategia sin asustar a nadie con fórmulas complejas. Funciona especialmente bien como apertura de noche de juegos o como la pausa entre títulos más envolventes. En resoluciones más grandes, la experiencia se mantiene pujante gracias al ritmo de pases y a la variedad de cartas que evitan la repetición monotónica.
 
-## How it compares to other quick drafting games
-If you like the flavor of drafting but want something lighter than a heavy Euro system, Sushi Go sits in a sweet middle ground. It shares DNA with other micro-drafting titles, but it stands out with its charming theme and accessible scoring. It is not trying to be a brain-burner; it is trying to be a quick social experience where players can slip in and out with a smile. If you enjoy bridging games that combine speed with a dash of strategy, this is a good candidate to try alongside short classics like Love Letter or 6 Nimmt.
+## Relevancia para la biblioteca Geeknite
+Sushi Go encaja con la filosofía de Geeknite: corto, divertido, con un toque de humor y absolutamente social. Es ideal para reseñas que buscan destacar juegos de mesa que permiten conectar a personas sin quedarse pegadas a la mesa durante horas. Si ya hemos comentado sobre micro-juegos o guías de juegos familiares, este título se alinea con la idea de que la diversión puede ser tan valiosa como la profundidad estratégica, y que el humor alrededor de la comida puede convertir una tarde común en una experiencia memorable.
 
-## Accessibility and audience
-Sushi Go is a strong pick for families, roommates, and casual game groups. Its rules are easy to explain, the rounds are short, and the decisions are meaningful without being overwhelming. It works well as a warm-up game before heavier titles or as a light lunchtime pastime when you want something satisfying but not time-consuming. It also scales gracefully with the number of players; more players means more card flow and more interesting decisions, while fewer players keeps the tempo brisk and dynamic.
-
-If you are teaching new players, a single round is often enough to teach the core concept and the family-friendly vibe. The game becomes a fun shared activity rather than a test of memory or calculus. That is a win in our book, and the reason why Sushi Go keeps resurfacing on many top recommendations lists.
-
-## Relevance to the Geeknite catalog
-Sushi Go fits neatly into the Geeknite cadence: short, sharp, funny, and a little nerdy in its own culinary way. It aligns with posts that celebrate quick table-top wins, easy-to-learn mechanics, and the cultural joy of shared play spaces. If you have checked our posts about micro games or favorite family games, you will recognize the shared spirit of games that reward quick thinking, social interaction, and a sense of playful competition. For readers who enjoy a little geeky humor, Sushi Go is a frequent source of lighthearted talk while you gather around the table with friends who might not call themselves board game enthusiasts but who will happily pretend to be sushi chefs for an evening.
-
-## External resources and community chatter
-For those who want to dive deeper into the card breakdowns or the various scoring edge cases, a few online hubs host robust discussions and fan-made variants. A classic entry on BoardGameGeek offers a concise look at card types, typical scores, and common house rules. You can chase down the official product page for a quick purchase link and a glance at official artwork. The broader community also catalogs fan-made variants and quick playthrough videos that show the speed and charm of the drafting mechanic in action.
+## Recursos externos y conversación comunitaria
+Para profundizar en card breakdowns, edge cases y variantes, BoardGameGeek ofrece hilos y fichas útiles. También está la página oficial del producto para ver imágenes, detalles de producción y opciones de compra. Si te interesa una versión ampliada con más tarjetas y modos para grupos grandes, Sushi Go Party es la opción destacada.
 
 - External link: Sushi Go on BoardGameGeek https://boardgamegeek.com/boardgame/29764/sushi-go
 - Official product page on Gamewright https://gamewright.com/gamewright/product.asp?pid=3432
 - A look at Sushi Go Party for those who want more toppings and more cards (external discussion and ideas): https://boardgamegeek.com/boardgame/161177/sushi-go-party
 
-## Internal posts you might enjoy
-If you want to branch out from this quick review into more micro game adventures, check these posts from our shelves:
+## Enlaces internos que podrían gustarte
+Si quieres ampliar tus horizontes en micro juegos, echa un vistazo a estos posts anteriores de Geeknite:
 - {% post_url 2025-11-01-micro-card-games-for-casual-nights %}
 - {% post_url 2024-08-22-quick-play-family-games-guide %}
 
-## Final verdict
-Sushi Go delivers what it promises: a fast, delightful drafting experience with adorable sushi visuals, accessible rules, and a satisfying loop of passing and planning. It rewards you for early choices and shrewd reads of your tablemates, without punishing you for a clever misread beyond a few points on the score sheet. It is the kind of game you can bring to a kitchen table, a living room, or a conference room, and people will reach for it because it feels doable and friendly right away.
-
-If you want something that can be taught in minutes, played in even less, and enjoyed by a wide spectrum of players, Sushi Go earns its place on the table. It is not the deepest or most demanding game in the library, but it has heart, humor, and enough bite to keep the competition lively. For a quick, social, and snackable game night, Sushi Go is a delicious call that almost always delivers a smile.
+## Veredicto extendido y recomendación final
+Sushi Go sigue prometiendo lo que entrega: una experiencia de drafting rápida, con una estética adorable y reglas que se vuelven intuitivas al instante. Su mayor logro es hacer que un público diverso, desde niños curiosos hasta adultos que buscan un momento ligero, se sienta cómodo con la idea de comer sushi sin moverse de la mesa. Esta edición con el nuevo sellado mantiene esa atmósfera y añade una capa de robustez que funciona bien para viajes, noches caóticas de juego o reuniones espontáneas con amigos. Si quieres un juego que puedas enseñar en minutos, jugar en minutos más y compartir risas con un grupo heterogéneo, Sushi Go merece un lugar en tu colección. No pretende ser el título más profundo, pero sí el más sociable, el que te permite decir: vamos a jugar, vamos a reír, y tal vez al final ganes un puñado de puntos o al menos un recuerdo divertido de la ronda.
 
 Pros
-- Short play time and simple setup
-- Clear drafting mechanic with meaningful choices
-- Attractive art and approachable theme
-- Scales nicely across 2 to 5 players
-- Works well as a family option or a light party game
+- Tiempo de juego corto y configuración simple
+- Mecánica de drafting clara con elecciones significativas
+- Arte atractivo y tema accesible
+- Escala bien entre 2 y 5 jugadores
+- Funciona como opción familiar o juego ligero de fiesta
 
 Cons
-- Repetitive for some groups after several sessions
-- Scoring can feel a little swingy, depending on card flow
-- The base set may feel a bit light for players seeking deeper strategy
+- Puede volverse repetitivo para ciertos grupos tras varias sesiones
+- La puntuación puede sentirse swingy dependiendo del flujo de cartas
+- La base podría sentirse un poco ligera para jugadores que buscan más profundidad estratégica
 
-In short, if you crave a game that feels like a party but plays like a crisp mini strategy exercise, Sushi Go is your move. The gentle chaos of the pass and the lure of perfect combos create a satisfying loop that keeps players returning for one more round, one more card combo, one more dream of the ultimate nigiri line.
+Conclusión: si buscas un juego que funcione como parte de una noche social, con humor y con una curva de aprendizaje suave, Sushi Go es una carta segura para sacar sonrisas sin complicaciones. La versión The Pick and Pass añade un pequeño incremento en robustez y experiencia de usuario sin traicionar su identidad original. Si te entusiasma tener una experiencia rápida, divertida y con posibilidad de re-jugabilidad en todas tus reuniones, este título se convertirá en un eterno snack de la mesa.
 
-For the curious, the next step is to grab a copy and test it with your crew. If you want our trusted vibe at a good price, we have a handy affiliate link that helps support Geeknite while you build your personal sushi draft hall of fame.
+Para quienes quieren apoyar a Geeknite y a su curación de recomendaciones de calidad sin complicaciones, nuestro enlace de afiliado está disponible para facilitar la adquisición y, al mismo tiempo, ayudar a que podamos seguir probando juegos nuevos para ustedes.
 
-**Grab your copy now and taste the victory at https://www.geeknite.com/affiliate/sushigo**
+**Compra aquí y apoya Geeknite: https://www.geeknite.com/affiliate/sushigo**
