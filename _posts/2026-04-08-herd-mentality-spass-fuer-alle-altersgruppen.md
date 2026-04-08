@@ -1,5 +1,5 @@
 ---
-title: Herd Mentality – Spaß für alle Altersgruppen
+title: Herd Mentality – Spaß für alle Altersgruppen (Update)
 date: 2026-04-08
 tags:
   - Brettspiel
@@ -7,11 +7,12 @@ tags:
   - Familienfreundlich
   - Review
   - Geeknite
+  - All-Age
 ---
 
 ## Einleitung
 
-Herd Mentality ist mehr als nur ein weiteres Partyspiel aus der Spielzeugabteilung der Großstadt. Es ist eine Lach-Reaktionskammer, eine Bühne für skurrile Ideen und ein schnelles Festival der Kommunikation. Wir bei Geeknite lieben die Mischung aus einfachem Regelwerk, freier Assoziation und dem spürbaren Druck, mit der Gruppe mitzugehen. Das Spiel fühlt sich an wie eine gute Teleportation: Du denkst an etwas Verrücktes, die Gruppe denkt mit, und plötzlich kollidieren die Gedanken, die man nie erwartet hätte. Und das Beste daran: Es ist spielerisch inklusiv – perfekt für Jung und Alt, Großfamilienrunden oder die WG-Truppe, die sich mal wieder zu spät am Abend in gute Laune stürzt.
+Herd Mentality ist mehr als ein weiteres Partyspiel aus der Spielzeugabteilung der Großstadt. Es ist eine Lach-Reaktionskammer, eine Bühne für skurrile Ideen und ein schnelles Festival der Kommunikation. Wir bei Geeknite lieben die Mischung aus einfachem Regelwerk, freier Assoziation und dem spürbaren Druck, mit der Gruppe mitzugehen. Das Spiel fühlt sich an wie eine gute Teleportation: Du denkst an etwas Verrücktes, die Gruppe denkt mit, und plötzlich kollidieren Gedanken, die man nie erwartet hätte. Und das Beste daran: Es ist spielerisch inklusiv – perfekt für Jung und Alt, Großfamilienrunden oder die WG-Truppe, die sich mal wieder zu spät am Abend in gute Laune stürzt.
 
 Um die Stimmung zu Beginn zu setzen, schauen wir, worum es bei Herd Mentality überhaupt geht und warum es sich in unserer Geeknite Bibliothek so gut macht.
 
@@ -32,7 +33,7 @@ Weitere Infos zum Spiel findest du auch auf der offiziellen Seite der Hersteller
 ## Was macht Herd Mentality aus?
 
 ### Die Grundidee
-Herd Mentality lebt von der Beobachtungsgabe der Gruppe. Du musst einschätzen, welche Antworten offensichtlich oder überraschend sind – nicht welche die beste oder logischste ist. Die Kunst besteht darin, die andere Spieler zu antizipieren, die mit dir in der Herd-Liga denken könnten. Das führt oft zu Momenten, in denen man denkt: Ach, genau diese Antwort hätten die anderen wahrscheinlich genauso gewählt – und boom, die Punkte reihen sich in einer kleinen Streak zusammen.
+Herd Mentality lebt von der Beobachtungsgabe der Gruppe. Du musst einschätzen, welche Antworten offensichtlich oder überraschend sind – nicht welche die beste oder logischste ist. Die Kunst besteht darin, die anderen Spieler zu antizipieren, die mit dir in der Herd-Liga denken könnten. Das führt oft zu Momenten, in denen man denkt: Ach, genau diese Antwort hätten die anderen wahrscheinlich genauso gewählt – und boom, die Punkte reihen sich in einer kleinen Streak zusammen.
 
 ### Spieleranzahl, Tempo und Zugänglichkeit
 Herd Mentality ist besonders flexibel, was die Spielerzahl angeht. Ob zu zweit, in der großen Runde mit dem gesamten Freundeskreis oder beim Familienabend – das Spiel skaliert gut. Die Dauer einer Runde ist angenehm kurz, was es ideal macht, um mehrere Partien hintereinander zu spielen, ohne dass die Stimmung kippt. Es gibt kein langwieriges Setup, keine komplizierten Regeln, und doch reichen die Prompts oft so viel Spielraum, dass man sich immer wieder überraschen lässt.
