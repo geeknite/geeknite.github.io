@@ -1,7 +1,7 @@
 ---
-title: Mattel UNO Classic Card Game — A Nostalgic Showdown (Updated)
+title: Mattel UNO Classic Card Game — A Nostalgic Showdown (Updated, 2k Word Edition)
 date: 2026-04-08
-tags: [ games, board-games, uno, nostalgia, geeknite, review ]
+tags: [ games, board-games, uno, nostalgia, geeknite, review, party-games ]
 ---
 
 ![UNO deck](/assets/images/uno-classic.jpg)
@@ -12,7 +12,7 @@ If you grew up sprinting toward the living room table like a caffeinated spacesh
 ## What is UNO Classic Card Game?
 UNO is a tiny, loud arena for chaos and companionship. The Classic Card Game unfolds from a 108-card deck with four color suits (red, yellow, blue, green), numbered 0 through 9, plus action cards such as Skip, Reverse, Draw Two, Wild, and Wild Draw Four. The objective is simple: be the first person to discard all your cards. The twist is that the deck loves reminding you that you are not the star of the show—you are everyone’s side quest, performing your turns with the solemn dignity of someone attempting to wonk through a LAN party cleanup without spilling snacks all over the table.
 
-In practical terms, UNO is a rhythm game for social skills. You read the room, anticipate which friend will explode in triumph or rage when a Draw Two lands, and bluff with a silent, heroic UNO moment even when you hold a fistful of cards and your brain is yelling, why me? It is the perfect antidote to a dull evening, and a test of your tolerance for tiny indignities: the person who plays Wild Draw Four when you’re down to your last two cards, the friend who forgets to call UNO and gets a penalty, or the cousin who shuffles the deck with the energy of a caffeinated hummingbird. 
+In practical terms, UNO is a rhythm game for social skills. You read the room, anticipate which friend will explode in triumph or rage when a Draw Two lands, and bluff with a silent, heroic UNO moment even when you hold a fistful of cards and your brain is yelling, why me? It is the perfect antidote to a dull evening, and a test of your tolerance for tiny indignities: the person who plays Wild Draw Four when you’re down to your last two cards, the friend who forgets to call UNO and gets a penalty, or the cousin who shuffles the deck with the energy of a caffeinated hummingbird.
 
 ## The Magic Ingredients: Cards, Colors, and Chaos
 UNO’s beauty lies in its purity. The deck relies on color, symbols, and a handful of strategic quirks that can transform random luck into clever strategy—or glorious failure, depending on how you roll:
@@ -22,7 +22,7 @@ UNO’s beauty lies in its purity. The deck relies on color, symbols, and a hand
 - Action cards: Skip, Reverse, Draw Two. These are the cayenne of UNO. Add Wild and Wild Draw Four to keep the spice level unpredictable. 
 - The Uno Rulebook You Always Forget: You must yell UNO when you have one card left. Forget, and your friends will remind you with the precision of a court jester wielding a red card. 
 
-Here at Geeknite, we celebrate the tactile joy of a well-worn UNO deck. The plastic wears the sheen of a tiny shield; the corners bend like veteran corners of a battle-worn table. The cards smell like a mix of factory polish, popcorn, and the sweet scent of victory when someone bluff-checks you under pressure without blinking. 
+Here at Geeknite, we celebrate the tactile joy of a well-worn UNO deck. The plastic wears the sheen of a tiny shield; the corners bend like veteran corners of a battle-worn table. The cards smell like a mix of factory polish, popcorn, and the sweet scent of victory when someone bluff-checks you under pressure without blinking.
 
 ## How to Play: A Quick Refresher for Time-Crunched Nerds
 If you’re new to UNO, or you’re teaching a friend who believes coding is the same as cryptography and also can’t count to ten without a finger-prop, here’s the gist expanded for a Saturday-night broadcast:
