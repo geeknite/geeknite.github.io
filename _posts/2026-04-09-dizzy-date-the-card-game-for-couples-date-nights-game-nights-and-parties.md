@@ -1,5 +1,6 @@
 ---
-title: Dizzy Date - the Card Game for Couples, Date Nights, Game Nights, and Parties
+ttitle: Dizzy Date - the Card Game for Couples, Date Nights, Game Nights, and Parties CW
+layout: post
 date: 2026-04-09
 tags:
   - board-games
