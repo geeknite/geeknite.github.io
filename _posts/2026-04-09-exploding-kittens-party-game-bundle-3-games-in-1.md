@@ -14,7 +14,7 @@ Welcome back to Geeknite, the sacred corner of the internet where cardboard stan
 
 The bundle advertises three distinct experiences, each with its own tempo, card effects, and opportunities to blame the dog for your misplays. Here’s the breakdown as we experienced it at a table that was clearly too caffeinated for its own good.
 
-- **Game 1: Classic Exploding Kittens** – the OG. A tight, tense game of draw, counterplay, and the ever-present dread of drawing the “Exploding Kitten” card. The pacing is deliberate, the humor is sharp, and the tension is palpable enough to make your friend who always plays the “safe” move suddenly dive into a risky bluff.
+- **Game 1: Classic Exploding Kittens** – the OG. A tight, tense game of draw, counterplay, and the ever-present dread of drawing the Exploding Kitten card. The pacing is deliberate, the humor is sharp, and the tension is palpable enough to make your friend who always plays the safe move suddenly dive into a risky bluff.
 - **Game 2: Party Mode** – a wilder variant designed for social hijinks. Expect sabotage cards, audience interactions, and a few cards that incentivize misdirection, betrayal, and performance art. It’s basically stand-up comedy with a deck and a timer.
 - **Game 3: Speed Round** – the adrenaline shot. A rapid-fire mode where decisions must be made before the timer breathes down your neck. It’s chaotic, it’s loud, and it’s perfect for the kind of group that believes a 10-minute sprint is a full workout for the brain.
 
@@ -24,10 +24,10 @@ To give you an even better picture, we’ve included a quick glance at the compo
 
 The physical build of the bundle is sturdy, with glossy cards that resist coffee spills and the occasional accidental spill from the person who thinks the game’s foreshadowing is a buffet line. The art retains the brand’s signature blend of cheeky humor and cat-themed mischief, which lands well with both kids and adults who still laugh at cartoon violence as a form of affectionate humor.
 
-- **Card stock**: Thick enough to survive a few dozen shuffles, a couple of elbow bumps, and that one friend who insists on riffling through every card like a blackjack dealer.
-- **Artwork**: Playful, bright, and just subversive enough to spark a few memes after the table has closed. The cat business is real, folks, and it’s not going anywhere.
-- **Accessories**: A compact timer in Speed Round, plus a handful of tokens and rule sheets that are concise without feeling pushy.
-- **Durability note**: If you’re the kind of host who loves to reuse games for years, consider sleeves for the cards or a small binder for rule clarifications. It saves time and preserves your sanity during the third round’s chaos.
+- Card stock: Thick enough to survive a few dozen shuffles, a couple of elbow bumps, and that one friend who insists on riffling through every card like a blackjack dealer.
+- Artwork: Playful, bright, and just subversive enough to spark a few memes after the table has closed. The cat business is real, folks, and it’s not going anywhere.
+- Accessories: A compact timer in Speed Round, plus a handful of tokens and rule sheets that are concise without feeling pushy.
+- Durability note: If you’re the kind of host who loves to reuse games for years, consider sleeves for the cards or a small binder for rule clarifications. It saves time and preserves your sanity during the third round’s chaos.
 
 Visuals matter, especially when the core mechanic is a draw-and-hope-you-live kind of game. The bundle nails the vibe: kitten chaos with a wink and a nod to the kind of humor that makes geeks snort-laugh in public.
 
@@ -35,9 +35,9 @@ Visuals matter, especially when the core mechanic is a draw-and-hope-you-live ki
 
 The three modes borrow the same core concept—draw cards, play actions, avoid a timely explosion—but each twists the radiation of risk in its own direction. The setup is efficient: shuffle decks, place them within arm’s reach, deal starting hands, and pick your mode. The turn structure evolves depending on mode, but the vibe remains consistent: fast, funny, and occasionally ruthless.
 
-- **Classic Exploding Kittens**: Draw a card, hope for safety, play action cards to dodge doom. The tempo is steady, with a satisfying rhythm that rewards smart counting and nerve.
-- **Party Mode**: Adds crowd-pleasing cards and chaotic interactions. Expect more direct player-to-player interactions, sneaky plays, and the occasional revelation of a club-level strategy that only makes sense after three rounds of poor life choices.
-- **Speed Round**: The timer becomes the antagonist. You’ll learn who talks through a moeilijk decision and who simply mashes the table in a panic. It’s not just who’s fast; it’s who can keep a straight face while the clock squeals like a hungry penguin.
+- Classic Exploding Kittens: Draw a card, hope for safety, play action cards to dodge doom. The tempo is steady, with a satisfying rhythm that rewards smart counting and nerve.
+- Party Mode: Adds crowd-pleasing cards and chaotic interactions. Expect more direct player-to-player interactions, sneaky plays, and the occasional revelation of a club-level strategy that only makes sense after three rounds of poor life choices.
+- Speed Round: The timer becomes the antagonist. You’ll learn who talks through a moeilich decision and who simply mashes the table in a panic. It’s not just who’s fast; it’s who can keep a straight face while the clock squeals like a hungry penguin.
 
 For a deeper rules primer, we point you toward our evergreen explainer posts. If you want a refresher on the base game before dipping into the three modes, check out our beginner’s guide here: {% post_url 2025-02-12-exploding-kittens-beginners-guide.html %}. It’s short, sweet, and a solid warm-up for tonight’s chaos.
 
@@ -45,9 +45,9 @@ For a deeper rules primer, we point you toward our evergreen explainer posts. If
 
 The concept of three games in one is as spicy as it sounds and as practical as a Swiss Army knife. You get options, you get flexibility, and you get three distinct emotional journeys in one purchase. The problem, of course, is that three games in one can feel a bit compartmentalized; you might love two modes and feel only lukewarm about the third. In this bundle, the common core keeps things cohesive, so even the least-loved mode still feels like a purposeful part of a larger experience rather than a stand-alone misfire.
 
-- **Pros**: High replay value, compact packaging, approachable rules, and a robust sense of humor that doesn’t rely on cartoon violence too heavily.
-- **Cons**: If you crave deep strategy or long tabletop campaigns, you might want to pair this with another, more methodical title. The three modes share a lot of DNA, which can feel repetitive after a few nights in a row.
-- **Audience-fit**: This one shines at casual gatherings, family game nights, and mixed groups where some players want quick rounds and others want to show off a trickier bluff.
+- Pros: High replay value, compact packaging, approachable rules, and a robust sense of humor that doesn’t rely on cartoon violence too heavily.
+- Cons: If you crave deep strategy or long tabletop campaigns, you might want to pair this with another, more methodical title. The three modes share a lot of DNA, which can feel repetitive after a few nights in a row.
+- Audience-fit: This one shines at casual gatherings, family game nights, and mixed groups where some players want quick rounds and others want to show off a trickier bluff.
 
 If you’re the type to want a more formal recommendation, our field notes on party-game dynamics offer more context on how this bundle can slot into your usual rotation. See our party-night guide here: {% post_url 2024-06-15-party-games-social-night.html %}.
 
