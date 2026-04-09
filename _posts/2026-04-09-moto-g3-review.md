@@ -1,5 +1,5 @@
 ---
-title: Moto G3 Retro Review - The Budget Phone That Still Holds Its Own
+title: Moto G3 Retro Review 2.0: Still the Budget Phone That Holds Its Own
 date: 2026-04-09
 tags:
   - smartphones
@@ -7,6 +7,8 @@ tags:
   - budget
   - review
   - geeknite
+  - retro
+  - 2015
 ---
 
 ## Introduction
