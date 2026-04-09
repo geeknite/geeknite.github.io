@@ -1,5 +1,5 @@
 ---
-title: Gloom AR 109/108: Ruler of the Black Flame SV3 — Japanese Near Mint Review
+title: Gloom AR 109/108: Ruler of the Black Flame SV3 — Japanese Near Mint Review (Updated)
 date: 2026-04-09
 tags:
   - pokemon
@@ -9,13 +9,14 @@ tags:
   - sv3
   - japanese
   - near-mint
+  - updated
 ---
 
-![Gloom AR SV3]( {{ site.baseurl }}/assets/images/gloom-ar-109-108-sv3.jpg )
+![Gloom AR SV3]( {{ site.baseurl }} /assets/images/gloom-ar-109-108-sv3.jpg )
 
 Introduction
 ------------
-If you thought the world of card collecting couldnt get any more dramatic, then allow me to introduce Gloom AR 109/108 Ruler of the Black Flame SV3, a Japanese near mint specimen that looks like it wandered straight out of a fever dream and landed in your mailbox wearing a cape made of smoke. This AR, or Alternate Art, belongs to the SV3 era of the Pokemon TCG, a set that fans either worship or pretend to understand while secretly muttering about print runs and scarcities. Today we dive into the mystic vines around this card, the aesthetic choices, and the practical nerdy stuff that makes this one both a showpiece and a playable oddity in certain formats.
+If you thought the world of card collecting couldn't get any more dramatic, then allow me to introduce Gloom AR 109/108 Ruler of the Black Flame SV3, a Japanese near mint specimen that looks like it wandered straight out of a fever dream and landed in your mailbox wearing a cape made of smoke. This AR, or Alternate Art, belongs to the SV3 era of the Pokemon TCG, a set that fans either worship or pretend to understand while secretly muttering about print runs and scarcities. Today we dive into the mystic vines around this card, the aesthetic choices, and the practical nerdy stuff that makes this one both a showpiece and a playable oddity in certain formats.
 
 Why Gloom and SV3 matter
 -------------------------
@@ -33,7 +34,7 @@ Ruler of the Black Flame suggests a dark monarch, a being who has learned to ben
 
 Print Run and Rarity
 --------------------
-SV3 ARs are limited editions within a set, and Japanese print runs in particular tend to be more coveted by some collectors due to perceived print quality and distribution nuances. The 109/108 notation is intriguing because, on the surface, it appears to be a misprint or an intentional paradox designed to spark rumor mills. It’s not uncommon for collectors to chase “mystery numbers” as curiosities, and this particular pair can fuel conversations about misprints versus deliberate variant numbering in the SV3 era.
+SV3 ARs are limited editions within a set, and Japanese print runs in particular tend to be more coveted by some collectors due to perceived print quality and distribution nuances. The 109/108 notation is intriguing because, on the surface, it appears to be a misprint or an intentional paradox designed to spark rumor mills. It’s not uncommon for collectors to chase mystery numbers as curiosities, and this particular pair can fuel conversations about misprints versus deliberate variant numbering in the SV3 era.
 
 If you are considering this card as an investment, remember that rarity is a blend of print scarcity, demand, and the integrity of the card’s condition. A near mint Gloom AR SV3 in Japanese can fetch a premium compared to a similar English release, but the premium is not infinite. Timing, market sentiment, and the condition of the foil layer all influence the eventual resale price.
 
@@ -116,7 +117,7 @@ Cons
 
 Final Recommendation
 --------------------
-If you are building a collection that blends aesthetic impact with a touch of mystery, the Gloom AR SV3 Ruler of the Black Flame in Japanese near mint is a compelling centerpiece. It works as a showpiece, a talking point at gatherings, and a reminder that trading cards can be more than just tools for victory in battles — they can be windows into a shared hobby that celebrates art, fiction, and the silly thrill of the chase.
+If you are building a collection that blends aesthetic impact with a touch of mystery, the Gloom AR SV3 Ruler of the Black Flame in Japanese near mint is a compelling centerpiece. It works as a showpiece, a talking point at gatherings, and a reminder that trading cards can be more than just tools for victory in battles they can be windows into a shared hobby that celebrates art, fiction, and the silly thrill of the chase.
 
 Bonus Tip: How to Display for Maximum Impact
 -------------------------------------------
