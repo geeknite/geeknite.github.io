@@ -1,7 +1,7 @@
 ---
 title: 'Exploding Kittens NSFW Edition: Not Safe For Smirkiness (Geeknite Review 2.0)'
 date: 2026-04-09
-tags: ['board-games', 'reviews', 'humor', 'NSFW', 'party-games', 'exploding-kittens']
+tags: ['board-games', 'reviews', 'humor', 'NSFW', 'party-games', 'exploding-kittens', 'editions']
 ---
 
 ## Introduction
