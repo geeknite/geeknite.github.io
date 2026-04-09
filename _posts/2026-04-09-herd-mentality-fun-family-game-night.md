@@ -1,5 +1,5 @@
 ---
-title: 'Herd Mentality: Family Game Night Expanded and Amused'
+title: 'Herd Mentality: Family Game Night Expanded and Amused (Updated for 2026)'
 date: 2026-04-09
 tags:
   - games
@@ -9,6 +9,7 @@ tags:
   - humor
   - review
   - geeknite
+  - herd-mentality
 ---
 
 ![Herd Mentality setup]({{ '/assets/images/herd-mentality-setup.jpg' | relative_url }})
@@ -28,7 +29,6 @@ For a broader take on party game curation, see {% post_url 2025-12-01-board-game
 - How rounds work and how scoring operates
 - Variants and house rules to fit different ages
 - A final verdict and who should buy it (and who should borrow it for a rainy day)
-
 
 ## What is Herd Mentality?
 Herd Mentality is a party game designed to flex your social muscles, reveal your closest pretzel-twist of logic, and celebrate the art of guessing what the majority would say. The premise is simple: players answer questions, then attempt to align their answer with what the herd would pick. The more popular your answer according to the others, the more points you snag. It is cognitive weather forecasting with punchlines, a social experiment you can legally host in your living room.
