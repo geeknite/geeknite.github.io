@@ -94,6 +94,12 @@ Rispetto alle edizioni passate, la 40th Anniversary si distingue per una estetic
 
 Phase 10 40th Anniversary è fondamentalmente una macchina per socialità. È perfetta per una serata di famiglia, un ritrovo tra amici o una pausa pranzo di gruppo tra nerd che hanno deciso di non parlare di lavoro per un paio d’ore. La dinamica è snella: puoi chiacchierare, fare battute e scambiare pensieri su come la tua mano si è trasformata in una sequenza di fasi dal sapore di retro gaming. Se c’è una lezione da imparare, è che le serate di gioco non devono essere intense come una maratona di serie TV, ma possono diventare memorabili quando c’è spazio per una risata collettiva al momento giusto, magari con una carta che sorprende tutti.
 
+## Regole rapide e consigli pratici (Bonus per la serata)
+
+- Inizia con una regola base chiara: non complicare troppo all’inizio per permettere a chi arriva per la prima volta di prendere confidenza.
+- Se vuoi introdurre una variante, fallo in modo graduale: una sola modifica per una partita pilota, poi decidi se proseguire con la nuova regola nelle partite successive.
+- Distribuisci l’attenzione: invita anche chi non è solito essere al centro della tavola a fare una mano, così nessuno si sente escluso.
+
 ## Recensione personale e consigli finali
 
 Personalmente, apprezzo la coerenza tra l’eredità di Phase 10 e la cura del design di questa edizione. Non è la rivoluzione di cui il genere aveva bisogno, ma è la piccola innovazione che rende la celebrazione autentica e utile nel tempo. Le scelte grafiche, la qualità dei componenti e l’equilibrio tra adrenalina e calma sono calibrati per una serata che può spaziare dal momento di pura comicità a una micro-sfida strategica. Se siete una famiglia che sta crescendo e vuole una esperienza accessibile ma significativa, o un gruppo di amici che cerca una serata leggera ma non superficiale, questa edizione è una paziente compagna di gioco.
