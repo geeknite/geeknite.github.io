@@ -18,7 +18,7 @@ From the moment you slide open the box, Exploding Kittens NSFW Edition announces
 
 ![Exploding Kittens NSFW Edition box art](/assets/exploding-kittens-nsfw.jpg)
 
-The heft of the box feels sturdy, though the real weight lies in the conversations you’ll have after a few rounds. If you’re a zealot for pristine insert trays and box liners, you may sigh at the lack of a premium storage solution. If you’re here for the jokes and the chaos, you’ll probably punch the air with glee when you catch the first no doubt moment that lands perfectly.
+The heft of the box feels sturdy, though the real weight lies in the conversations you’ll have after a few rounds. If you’re a zealot for pristine insert trays and box liners, you may sigh at the lack of a premium storage solution. If you’re here for the jokes and the chaos, you’ll probably punch the air with glee when you catch the first no-doubt moment that lands perfectly.
 
 ## What is Exploding Kittens NSFW Edition?
 Exploding Kittens NSFW Edition is the adult sibling in the Exploding Kittens family. It keeps the core mechanic—draw cards, avoid the exploding kitten, use defuses, and try to outsmart your friends—while introducing more mature jokes, risqué references, and a wilder sandbox for players who want to push the envelope. It is not a replacement for the base game; it is a spicy upgrade for nights when the group is in the mood to flirt with the line between clever banter and undeniable cringe.
