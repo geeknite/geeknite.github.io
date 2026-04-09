@@ -1,7 +1,7 @@
 ---
-title: 'Exploding Kittens NSFW Edition: Not Safe For Smirkiness (Geeknite Review 2.0)'
+title: 'Exploding Kittens NSFW Edition: Not Safe For Smirkiness (Geeknite Review 2.0) — Expanded'
 date: 2026-04-09
-tags: ['board-games', 'reviews', 'humor', 'NSFW', 'party-games', 'exploding-kittens', 'editions']
+tags: ['board-games', 'reviews', 'humor', 'NSFW', 'party-games', 'exploding-kittens', 'editions', 'geeknite-updates']
 ---
 
 ## Introduction
@@ -11,7 +11,7 @@ If you want to compare this spicy edition to other party staples, you can hop to
 
 Final verdict at a glance: NSFW Edition brings bold humor, snappy rounds, and a level of audacity that can transform a night from meh to meme-worthy—so long as your group is into pushing boundaries without pushing anyone into the kiddie pool of awkwardness.
 
-### Visual first impressions
+## Visual first impressions
 From the moment you slide open the box, Exploding Kittens NSFW Edition announces itself with swagger. The art style leans into cheeky, risqué humor—bold colors, cartoonish gore, and more sass than a caffeinated parrot. The card backs glow with neon frames that scream party rather than library, which is exactly the vibe this edition aims for. The packaging promises a night of loud laughter, questionable choices, and enough moral hazard to keep your group interesting for several rounds.
 
 {% image.html path='/assets/exploding-kittens-nsfw.jpg' alt='Exploding Kittens NSFW Edition box art' %}
@@ -29,6 +29,7 @@ A typical NSFW kit includes:
 - A handful of mischief counters or novelty tokens for special rounds
 - A quick-start guide for those who prefer to wing it rather than read the entire rulebook
 - A compact rulebook that doubles as a blunt object for theater of the mind rule explanations when your table needs a reset
+- A few cheeky add-ons that scream chaos more than quality control
 
 The components feel sturdy enough for regular game nights, though the art budget clearly favors adult humor over artisanal packaging. If you’re the type who hoards box inserts like a dragon, you may want to sleeve the cards so the cheeky designs survive the inevitable table-flipping ritual.
 
