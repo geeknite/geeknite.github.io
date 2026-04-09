@@ -1,17 +1,19 @@
 ---
-title: The Mind: Challenge Edition Gift Set Review
-date: 2026-04-09 10:00:00 -0000
+title: The Mind: Challenge Edition Gift Set Review — Expanded
+date: 2026-04-09 12:00:00 -0000
 tags:
   - board games
   - reviews
   - mind games
   - gift sets
   - geeknite
+  - party games
+  - social
 ---
 
-Hello, fellow night owls and card-counting wizards. The Mind: Challenge Edition Gift Set lands on the table like a polite ninja, except the ninja is wearing a party hat and whispering about probabilities. This is not just a reprint or a minor add on; it is a gift set that tries to squeeze more silent chaos from a concept that already tests human telepathy, group trust, and your willingness to pretend you are not thinking about pizza.
+Hello, fellow night owls and card-counting wizards. The Mind: Challenge Edition Gift Set lands on the table like a polite ninja wearing a party hat and whispering about probabilities. This is not just a reprint or a minor add-on; it is a gift set that tries to squeeze more silent chaos from a concept that already tests human telepathy, group trust, and your willingness to pretend you are not thinking about pizza. But this time, we are deeper in the rabbit hole: we will break down every twist, every spacer, every snack you wish you could place instead of a card.
 
-Unboxing: The box is compact yet heavy enough to feel like a trophy; The art is clean, modern, and a little cheeky; The contents are the base mind deck plus several new challenge decks, a compact rule booklet, a timer card, and a handful of tokens and standees to mark new twists. There is also a small poster with a few wise quotes about thinking quietly and letting time do the talking. The packaging signals serious business, but the inside jokes remind you that the best nights are the ones where you cannot help laughing at your friends attempts to synchronize brain waves.
+Unboxing: The box is compact yet heavy enough to feel like a trophy; the art is clean, modern, and a little cheeky; the contents are the base mind deck plus several new challenge decks, a compact rule booklet, a timer card, and a handful of tokens and standees to mark new twists. There is also a small poster with a few wise quotes about thinking quietly and letting time do the talking. The packaging signals serious business, but the inside jokes remind you that the best nights are the ones where you cannot help laughing at your friends' attempts to synchronize brain waves.
 
 ![The Mind Gift Set](/assets/images/mind-gift-set.jpg)
 
