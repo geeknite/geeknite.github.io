@@ -1,7 +1,7 @@
 ---
-title: City of Mist: Fortune Row - Accessories Bundle Review
+title: City of Mist: Fortune Row - Accessories Bundle Review (Expanded)
 date: 2026-04-09
-tags: ["City of Mist", "RPG", "Accessories", "Review", "Tabletop", "Fortune Row"]
+tags: ["City of Mist", "RPG", "Accessories", "Review", "Tabletop", "Fortune Row", "Gear"]
 ---
 
 City of Mist Fortune Row accessories bundle lands on the table like a neon dragon in a noir alley. If you thought a tabletop RPG prop kit would be a boring shelf accessory, think again. This bundle oozes atmosphere, tactile charm, and enough tchotchkes to turn a sleepy Monday night into a caper worthy of a late night pulp novel. It promises to help you push Fortune Row into sharper focus, giving GMs tangible props and players a set of prompts to spark dramatic scenes. The question is whether the bundle delivers the mood without turning your gaming table into a cluttered craft fair. Spoiler: it mostly does, with a wink and a cigarette smoke trail escaping the corner of the cover art.
