@@ -9,11 +9,11 @@ tags:
   - card games
 ---
 
-# Exploding Kittens: Mini-Version — A Tiny Card Hurricane for Tiny Living Rooms
+## Exploding Kittens: Mini-Version — A Tiny Card Hurricane for Tiny Living Rooms
 
 Welcome back, fellow geeks and accidental game night organizers. Today we reach into the pocket of chaos and pull out the Micro-Mojo of modern tabletop chaos: Exploding Kittens: Mini-Version. If the original Exploding Kittens is a carnival bus that somehow fits in your living room, Mini-Version is a pocket-sized firecracker that goes off in three seconds, two jokes, and one questionable decision. It is small, it is loud, and it comes with enough cat antics to make a meow-mentous impact on your next game night.
 
-![]( {{ site.baseurl }}/assets/images/exploding-kittens-mini-box.jpg )
+![]({{ site.baseurl }}/assets/images/exploding-kittens-mini-box.jpg)
 
 This review aims to answer the burning questions we all have when a new mini edition drops: does size really matter in the realm of chaos, is the learning curve friendly for casual players, and can a Micro-Explosion keep a party going longer than a bowl of chips and a questionable playlist?
 
@@ -27,19 +27,19 @@ Exploding Kittens: Mini-Version is a compact take on the beloved chaos engine. I
 
 For Folks Who Like Numbers: the game plays fast. Expect rounds to last anywhere from 3 to 7 minutes, depending on how aggressively the group leans into the chaos. There is a rhythm to the game that becomes apparent after a few plays. It starts with a cautious draw, accelerates as players start to anticipate the inevitable, and ends with a flurry of last second gambits that would impress even a late night hacker who forgot coffee exists. If you are into marathon sessions, you can chain a few games back to back to simulate the tempo of a longer night without losing the audience to boredom.
 
-## Packaging and Components
+### Packaging and Components
 
-### What’s in the Tiny Box
+#### What’s in the Tiny Box
 
 The Mini-Version box is deliberately compact, a feat of packaging engineering that seems to say we respect your shelf space and your patience. Inside, you will find a condensed deck of cards, a couple of kitten tokens that serve as visual relief during tense moments, and a small rule sheet that somehow manages to be both concise and cryptic. The art remains the signature fun and slightly deranged style, with cat faces wearing exaggerated expressions that tell you exactly how to feel about your card in any given turn.
 
 The card stock is sturdy enough to survive a few table tosses but not so thick that you need a pry bar to shuffle. It reminds you that miniaturization in gaming can be a good thing when done with care. You do not want to feel as if you are playing a fragile ornament; you want to feel like you are wielding a tiny weapon of mass mirth. The quality is in the right ballpark for a micro edition and signals that this isn’t a throwaway spin for a novelty night, but a purposeful twist on a familiar mechanism.
 
-### The Rule Sheet
+#### The Rule Sheet
 
 The rule sheet is small but not sneaky. It presents a few key sections: setup, play order, the way to handle exploding kittens, and the win condition. The wording leans into a lighthearted tone, with a few cheeky lines that remind you this is a game built for laughter first and strategy second. If you are new to Exploding Kittens in general, you will be guided through a gentle learning curve. If you are an old hand, you will smile at the familiar cadence and shout at the table when someone mischievously uses a card to flip the round right under your nose.
 
-### The Interplay of Cards
+#### The Interplay of Cards
 
 In this mini format the card types you remember from the original are present but simplified. You still have attack cards, favor cards, and of course the exploding kitten that you want to avoid. The action cards work a little more aggressively here, designed to keep the tension crisp during the short rounds. The balance is keenly tuned so that even newer players can swing a dramatic move by reading the room and bluffing with confidence. It is a reminder that in micro games, social dynamics often outpace raw probability, and that is where the real entertainment lives.
 
@@ -47,7 +47,7 @@ In this mini format the card types you remember from the original are present bu
 
 ### Setup and Start
 
-To begin, each player draws a fixed number of cards from the Mini deck and the play begins with a set turn order. The short deck means you get to see more rounds in the same amount of time, which translates to more opportunities for glorious wreckage and surprising comebacks. The setup is painless enough that even your most rules averse friend can jump in without a two hour lecture on how the exploding kitten works.
+To begin, each player draws a fixed number of cards from the Mini deck and the play begins with a set turn order. The short deck means you get to see more rounds in the same amount of time, which translates to more opportunities for glorious wreckage and surprising comebacks. The setup is painless enough that even your most rules-averse friend can jump in without a two hour lecture on how the exploding kitten works.
 
 ### The Core Loop
 
@@ -74,7 +74,7 @@ Pros:
 - Pocket size with great production value for a micro edition
 - Accessible to newcomers while still offering sneaky depth for veterans
 - High replayability due to social dynamics and bluffing opportunities
-- Affordable entry point into the Exploding Kittens universe without sacrficing the vibe
+- Affordable entry point into the Exploding Kittens universe without sacrificing the vibe
 
 Cons:
 - The brevity can feel unsatisfying for players who crave longer strategic arcs
