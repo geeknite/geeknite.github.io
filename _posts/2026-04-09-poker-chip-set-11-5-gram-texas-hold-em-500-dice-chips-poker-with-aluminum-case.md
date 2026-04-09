@@ -7,6 +7,7 @@ tags:
   - review
   - geeknite
   - tabletop
+  - home-games
 ---
 
 {% image /assets/images/poker-chip-set-11-5gram.jpg alt='Poker chip set with aluminum case' %}
@@ -14,7 +15,7 @@ tags:
 ## Overview
 Welcome back to Geeknite’s infamous gadget-and-game corner, where we test if the shiny stuff at the table is worth the money, or if it’s just shiny. Today we’re meeting a Poker Chip Set that proudly declares its chips weigh 11.5 grams each, comes with a 500-chip count, and ships in an aluminum case that could double as a minimal personal safe. If you have dreams of becoming the table’s most stylish bluff master, this kit says: I came prepared, and I came shiny.
 
-In this review we’ll walk you through what you actually get, how these chips perform in real-life lounge-lizard poker sessions, how the aluminum case holds up under a weekend siege, and whether the price tag matches the perceived glam. We’ll also drop some nerdy math insights, practical buying tips, and a few tongue-in-cheek jokes about the state of our poker face after a few hours of play. Strap in, the flop is heavy and the chips are heavier.
+In this expanded take, we’ll walk you through what you actually get, how these chips perform in real-life lounge-lizard poker sessions, how the aluminum case holds up under a weekend siege, and whether the price tag matches the perceived glam. We’ll also drop some nerdy math insights, practical buying tips, and a few tongue-in-cheek jokes about the state of our poker face after a few hours of play. Strap in, the flop is heavy and the chips are heavier.
 
 ### Quick specs (at a glance)
 - Chips: 500 total, each weighing 11.5 g
