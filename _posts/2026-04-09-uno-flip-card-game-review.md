@@ -1,7 +1,7 @@
 ---
 title: UNO Flip Card Game Review: A Double-Sided Shuffle into Chaos (Expanded)
 date: 2026-04-09
-tags: [board-game, family, card-games, UNO, review, expanded, chaos, two-sided]
+tags: [board-game, family, card-games, UNO, review, expanded, chaos, two-sided, party-game]
 ---
 
 {% image /assets/images/uno_flip_box.jpg alt=UNO Flip Box front %}
@@ -142,7 +142,7 @@ If you’re ready to bring the chaos to your next game night, here are a couple 
 
 For more reading on why these kinds of card games work so well socially, revisit our in-depth look at card game mechanics in [the Ultimate Card Games Guide]({% post_url 2024-03-12-ultimate-card-games-guide %}) and see how UNO Flip stacks up against other family-friendly titles in [Family Game Night Picks]({% post_url 2024-10-01-family-game-night-best-picks %}). The official product page is a handy reference for current variants and rules: [UNO Flip on Mattel’s site](https://www.mattelgames.com/en-us/products/uno-flip).
 
-## Quick Take
+### Quick Take
 - Fun factor: High
 - Accessibility: High
 - Replay value: High
