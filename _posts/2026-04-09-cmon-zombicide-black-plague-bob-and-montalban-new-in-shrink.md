@@ -1,5 +1,5 @@
 ---
-title: CMON - Zombicide: Black Plague – Bob and Montalban - NEW IN SHRINK!
+title: CMON - Zombicide: Black Plague – Bob and Montalban Revisited: NEW IN SHRINK!
 date: 2026-04-09
 tags:
   - board games
@@ -8,13 +8,16 @@ tags:
   - Black Plague
   - expansions
   - review
+  - shrink-wrapped
+  - unboxing
+  - solo play
 ---
 
-# CMON - Zombicide: Black Plague – Bob and Montalban - NEW IN SHRINK!
+# CMON - Zombicide: Black Plague – Bob and Montalban Revisited: NEW IN SHRINK!
 
 Unboxing shrink wrap is a proud tradition in geek culture, second only to arguing about which zombie apocalypse survivor has the best fashion sense. In the case of CMONs Zombicide: Black Plague Bob and Montalban, the shrink wrap is not just a cocoon to protect tiny plastic humans; it is a ceremonial envelope that promises two new survivors, fresh chaos, and a strong chance that your dice will betray you in glorious fashion. If you are hunting for a sealed copy, this is the kind of thing that tempts even the most stoic gamer into a spontaneous unboxing spree.
 
-This review digs into the sealed Bob and Montalban shrink wrap, what you actually get inside, how these two humans fit into the world of Zombicide Black Plague, and whether this little box is worth your precious shelf space and time. We will cover component quality, gameplay implications, solo and co-op viability, and most importantly, how Bob and Montalban handle the zombie hordes while somehow looking cooler than a knight in a candle-lit tavern.
+This updated review digs into the sealed Bob and Montalban shrink wrap, what you actually get inside, how these two humans fit into the world of Zombicide Black Plague, and whether this little box is worth your precious shelf space and time. We will cover component quality, gameplay implications, solo and co-op viability, and most importantly, how Bob and Montalban handle the zombie hordes while somehow looking cooler than a knight in a candle-lit tavern.
 
 ![Bob and Montalban box art]({{ site.baseurl }}/assets/images/cmon-zombicide-black-plague-bob-montalban-box.jpg)
 
@@ -62,7 +65,7 @@ In terms of entry difficulty, the box does not demand a steep learning curve. If
 
 ## Value for money and replayability
 
-Pricing for sealed expansions is always a balancing act, and this Bob and Montalban box sits in the middle ground between “great value” and “collector novelty.” If you already own multiple Zombicide add-ons, the software of your board game library says yes, you want these two, if only to refresh your table with new combos and new micro-stories. If you are a newer player, this is a nice bite-sized chunk that introduces two new mechanics without overloading you with a dozen new rules. The replayability factor is decent; two survivors open a spectrum of potential team compositions, and the new item cards add variety to resource management games across multiple sessions.
+Pricing for sealed expansions is always a balancing act, and this Bob and Montalban box sits in the middle ground between great value and collector novelty. If you already own multiple Zombicide add-ons, the software of your board game library says yes, you want these two, if only to refresh your table with new combos and new micro-stories. If you are a newer player, this is a nice bite-sized chunk that introduces two new mechanics without overloading you with a dozen new rules. The replayability factor is decent; two survivors open a spectrum of potential team compositions, and the new item cards add variety to resource management games across multiple sessions.
 
 One nice practical note: the tokens and counters included in this shrink-wrapped release are ready to drop straight into your standard Zombicide alpha deck and co-exist with the base game’s components. You do not have to dismantle a pre-existing setup or rearrange a dozen accessory organizers to make room for Bob and Montalban. That kind of compatibility is the unsung hero of expanding board game ecosystems and should be celebrated in a world where most new content arrives as a cardboard labyrinth and a warning that your shelf will soon be a hazard zone for dice and plastic limbs.
 
@@ -106,7 +109,5 @@ In short: yes, this sealed expansion is worth your time, especially if you are a
 If you are ready to add Bob and Montalban to your Zombicide Black Plague collection, consider checking out our recommended retailer through our affiliate link. We appreciate the support and it helps keep Geeknite going strong so we can keep turning gaming shelves into battlefields of laughter and strategy.
 
 **Purchase CMON Zombicide Black Plague Bob and Montalban via our affiliate link here for a seamless checkout and a bit of Nerdy Joy [affiliate link].**
-
-Bold final call to action for the enthusiastic reader
 
 **Get yours now through this Geeknite affiliate link and join the ranks of heroes who survived another night of the Black Plague – your table will thank you. https://shop.geeknite.com/affiliate/zombicide-bob-montalban-2026**
