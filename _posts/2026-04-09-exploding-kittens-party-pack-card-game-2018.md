@@ -9,7 +9,10 @@ tags:
   - exploding-kittens
 ---
 
-![Exploding Kittens Party Pack](https://example.com/assets/images/exploding-kittens-party-pack.jpg)
+<figure>
+  <img src="{{ '/assets/images/exploding-kittens-party-pack.jpg' | relative_url }}" alt="Exploding Kittens Party Pack" />
+  <figcaption>Cat-powered chaos in a box</figcaption>
+</figure>
 
 Introductory blurb: In the wild world of party games, Exploding Kittens Party Pack arrives like a glitter bomb of chaos wrapped in a cat hoodie. It promises big-group mayhem, quick rounds, and enough card flavor to fuel a lazy Sunday afternoon and a tense game night all at once. If you’re assembling a squad for a game night that could double as a meme factory, this box might be right up your alley. If you’re looking for a quiet, sleepy, strategy-heavy experience, you might want to steer toward something with fewer kittens and more strategy trees. In Geeknite fashion, we’re going to dive deep into why the Party Pack works, what it adds to the original Exploding Kittens, what to watch out for, and how to wrangle chaos into something enjoyable without turning your living room into a battlefield of cat-themed mayhem.
 
@@ -107,9 +110,13 @@ Value depends a lot on your group size and how many times you’ll actually host
 
 When evaluating value, consider setup and cleanup time. The more variants you use, the longer it will take to get to the action. In exchange for that initial time sink, you’ll likely harvest a steadier stream of laughs and memorable chaos across nights. For the Geeknite audience, that’s usually worth the cost of admission.
 
+### Pros and Cons (quick snapshot)
+- Pros: scalable chaos for big groups, lots of new card interactions, strong social payoff, accessible core mechanic, durable components.
+- Cons: can be overwhelming for first-timers, longer setup with many variants, not ideal for players seeking deep engine-building or tight control.
+
 ## Conclusion and Final Recommendation
 
-So, should you buy Exploding Kittens Party Pack? If your game nights swing toward loud, high-energy social play with a prefered emphasis on humor, chaos, and quick rounds, then yes, reach for the Party Pack. It scales with crowds, it rewards social cunning, and it delivers a level of comedic chaos that’s hard to replicate in other formats without a hefty design budget or a surprisingly large improv troupe. It’s not a heavy strategy game, but it doesn’t pretend to be one. It’s a party game that happens to look pretty, feel fast, and play well enough to justify its shelf space next to the couch and a bowl of pretzels.
+So, should you buy Exploding Kittens Party Pack? If your game nights swing toward loud, high-energy social play with a preferred emphasis on humor, chaos, and quick rounds, then yes, reach for the Party Pack. It scales with crowds, it rewards social cunning, and it delivers a level of comedic chaos that’s hard to replicate in other formats without a hefty design budget or a surprisingly large improv troupe. It’s not a heavy strategy game, but it doesn’t pretend to be one. It’s a party game that happens to look pretty, feel fast, and play well enough to justify its shelf space next to the couch and a bowl of pretzels.
 
 If, however, you’re searching for deep, long-term engine-building, meticulously crafted tension, or a game you can master in one session and then explain to others with clinical precision, you’ll want to look elsewhere. The Party Pack isn’t meant to be a long-term chess match; it’s intended to be a release valve for social energy, a spark for comedic chaos, and a way to earn some legendary group memories (even if those memories involve someone accidentally tossing a card across the room in a fit of giggles).
 
