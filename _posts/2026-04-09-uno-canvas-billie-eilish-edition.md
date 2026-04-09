@@ -18,7 +18,7 @@ In this expanded take, we dive deeper into the box contents, the tactile joy of 
 
 If you want a quick pro tip before we dive in: skim the final verdict, then circle back for art details and actual play-by-play. This is UNO Canvas Billie Eilish Edition, Geeknite style, with extra glitter and a few more existential questions.
 
-![UNO Canvas Billie Eilish Box Art](/assets/images/uno-canvas-billie-eilish-box.jpg)
+{% image assets/images/uno-canvas-billie-eilish-box.jpg alt='UNO Canvas Billie Eilish Box Art' %}
 
 ## What is UNO Canvas Billie Eilish Edition
 
@@ -26,9 +26,9 @@ UNO Canvas Billie Eilish Edition is a collectible card game adaptation of the cl
 
 The game keeps the core mechanics of UNO intact for the most part but sprinkles in a handful of rules and tokens that reward players who savor the little moments of artistry and strategy. It is a cousin to UNO Flip and UNO Dare, but with more atmosphere and a dash of nostalgia for those who collected art cards in their preteen years and thought that was peak sophistication. Spoiler: it’s not, but it’s a pretty good attempt at sophistication with a wink.
 
-As with any collectible game, your mileage will vary with the edition you buy. Some copies are pristine, some are used by the kind of people who shuffle cards like a magician shuffles time, and some are hoarded by folks who think rare cards are more valuable than friendship. In this case, Billie Eilish branding adds a cultural collectibility that can matter more to some players than the exact number of Draw Two cards in the deck. We will discuss collectibility and resale value later, but for now, let’s inspect what you actually get in the box.
+As with any collectible edition, your mileage will vary with the edition you buy. Some copies are pristine, some are used by the kind of people who shuffle cards like a magician shuffles time, and some are hoarded by folks who think rare cards are more valuable than friendship. In this case, Billie Eilish branding adds a cultural collectibility that can matter more to some players than the exact number of Draw Two cards in the deck. We will discuss collectibility and resale value later, but for now, let’s inspect what you actually get in the box.
 
-![UNO Canvas Billie Eilish Edition Cards](/assets/images/uno-canvas-billie-eilish-cards.jpg)
+{% image assets/images/uno-canvas-billie-eilish-cards.jpg alt='UNO Canvas Billie Eilish Edition Cards' %}
 
 ## Box contents and components
 
@@ -141,7 +141,7 @@ If you are seeking a game night that blends art, music culture, and casual compe
 
 You can typically find UNO Canvas Billie Eilish Edition at major toy and hobby retailers, as well as online marketplaces. If you are chasing a collectible feel with the art elements front and center, this edition is worth exploring. Just remember that prices for collectible editions are often driven by supply and demand, with early boxes potentially carrying a premium for collectors. If you only want to play, don’t overspend on rare variants unless you truly love the artwork or you plan to collect several editions for display purposes.
 
-For official purchasing options and to see current stock, you can check the official product pages and major retailers. Be mindful of counterfeit or mispackaged copies when shopping in marketplaces with limited oversight. When possible, buy from reputable retailers that provide clear packaging descriptions and return policies.
+For official purchasing options and to see current stock, you can check the official product pages and major retailers. Be mindful of counterfeit or mispacked copies when shopping in marketplaces with limited oversight. When possible, buy from reputable retailers that provide clear packaging descriptions and return policies.
 
 If you want to see more about the art and play variety, you can explore our internal community roundups and reviews by visiting posts about UNO variants and collectible games. [Our Primer on UNO Variants]({% post_url 2025-03-22-uno-variants-guide %}) and [Collector's Corner: Rare Cards and What They Do]({% post_url 2025-01-17-collectors-corner-cards %}).
 
