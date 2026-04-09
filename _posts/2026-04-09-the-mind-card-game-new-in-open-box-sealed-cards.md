@@ -1,14 +1,14 @@
 ---
-ttitle: "The Mind Card Game: New in Open Box, Sealed Cards - A Geeknite Review"
+title: 'The Mind Card Game: Open Box, Sealed Cards — A Geeknite Review (Revised)'
 date: 2026-04-09
 tags: [board-games, reviews, The Mind, open-box, sealed-cards, cooperative-games, gaming-humor]
 ---
 
 ## Introduction
 
-The Mind is not just a card game; it's a social experiment where you and three (or more) strangers attempt to communicate telepathically through the sacred language of card numbers. Yes, this is that game where you don’t need a translator, because the rules are simple enough to fit on a sticky note, and yet the experience can feel like navigating a mall during a blackout sale. Today we’re diving into a brand-new, “OPEN BOX, SEALED CARDS” scenario. The box says NEW, but the vibe says “did someone forget to say go?” Let’s cut to the chase: how does this particular copy perform when the plastic is still gleaming, the deck is pristine, and your group’s patience is, uh, optional.
+The Mind is not just a card game; it is a social experiment conducted on a coffee table with questionable snacks and a willingness to pretend you can read minds. In this updated take, we tackle a very specific sub-genre: open box, sealed cards. The box says new, the vibe says “we still have no idea what we’re doing,” and somewhere a player is silently calculating if they should go for the extra snack or trust the vibes. If you love cooperative games that require almost no setup but demand maximum group awkwardness, you are in the right place. This review dives into how a pristine, sealed-deck experience feels when the plastic is still gleaming and your friends are still convinced they can telepathically align the deck without talking.
 
-> Quick note for the curious: The Mind is a cooperative game designed by Wolfgang Warsch and published by Ocean/PNP/Asmodee in various regions. It’s famous for requiring almost no setup and for creating tension that only a group of sleep-deprived adults could love.
+> Quick note for the curious: The Mind is a cooperative game designed by Wolfgang Warsch and published by a constellation of publishers in various regions. It’s famous for requiring almost no setup and for creating tension that only a group of sleep-deprived adults could love.
 
 ![The Mind setup in pristine open-box glory]({{ '/assets/images/themind-setup-pristine.jpg' | relative_url }})
 
@@ -101,7 +101,7 @@ If you’re curious about official expansions, check the publisher’s site or a
 
 The Mind is a terrific pick for:
 - Groups who enjoy social experiments more than intense strategy trees.
-- Players who like a quick pickup-and-play session with high replayability. 
+- Players who like a quick pickup-and-play session with high replayability.
 - People who appreciate quiet moments of tension punctuated by a sudden “aha” when the cards align.
 
 It’s less ideal for:
