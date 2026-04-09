@@ -28,6 +28,8 @@ The Party Pack doubles down on the chaos. It is the bigger, louder cousin of the
 
 This edition is marketed for up to 10 players. That means you can finally test your friendships at scale, with the tempo designed to spin your group into a shared mini-series of dramatic reveals and improvised backstories about who should have learned to say no to the seventh defuse card. The Party Pack also bundles in a broader card count and the expansions needed to accommodate big groups, so you won’t be hunting down a dozen separate packs mid-game. The end result is a game that plays fast, can get ridiculously silly quickly, and rewards players who lean into the ridiculous rather than resist it.
 
+> Pro tip: the box is louder than your living room speakers, and that’s a feature, not a bug.
+
 ## Unboxing and components
 
 Opening the box is a ritual, almost sacred in a chaotic sort of way. You pull out the deck, a chunky instruction sheet that looks like a top-secret manual for a heist, a little board of symbols that may or may not become your best friends during the chaos, and a handful of tokens that tell you exactly who is in the danger zone and who is simply here for the memes.
