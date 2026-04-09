@@ -1,5 +1,5 @@
 ---
-title: "Double Black Meeting Pod with Integrated Technology: The Quiet Revolution in Office Showdowns"
+title: Double Black Meeting Pod with Integrated Technology: The Quiet Revolution in Office Showdowns
 date: 2026-04-09 12:00:00 -0400
 tags:
   - office gear
@@ -11,7 +11,7 @@ tags:
 layout: post
 ---
 
-![Double Black Meeting Pod](/assets/images/double-black-meeting-pod.jpg "Double Black Meeting Pod")
+![Double Black Meeting Pod]
 
 Intro
 
@@ -112,7 +112,7 @@ Compared to other pods on the market, the Double Black tends to strike a nice ba
 
 ## Maintenance and Durability
 
-The pod’s premium materials hold up well under typical office use. Panels unlock for cleaning, the glass remains clear, and the hinges don’t squeak after a few months of repeated door openings. Regular maintenance should include filter checks for any built-in air circulations, periodic firmware updates for the display and microphones, and a gentle reminder to refill the waste bin if you’re letting design sprints run long enough to generate mood boards and snack wrappers.
+The pod’s premium materials hold up well under typical office use. Panels unlock for cleaning, the glass remains clear, and the hinges don’t squeak after a few months of repeated door openings. Regular maintenance should include firmware updates for the display and microphones, and a gentle reminder to refill the waste bin if you’re letting design sprints run long enough to generate mood boards and snack wrappers.
 
 ## Environmental Impact and Sustainability
 
@@ -144,7 +144,7 @@ If you’re in a space that values quiet focus and productive collaboration, the
 
 ## Visual Gallery
 
-![](/assets/images/double-black-meeting-pod-setup.jpg "Setup in a modern office")
+![](/assets/images/double-black-meeting-pod-setup.jpg)
 
 ## Final Thoughts on Integration and Future Potential
 
