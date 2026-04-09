@@ -1,5 +1,5 @@
 ---
-ttitle: Poker Official Rules and Games
+title: Poker Official Rules and Games
 date: 2026-04-09
 tags:
   - Poker
@@ -16,6 +16,8 @@ If you thought poker was a mysterious beast wearing sunglasses at the table, you
 For beginners and veterans alike, this post will walk you through the official backbone of poker, the common variants you’ll actually encounter in clubs and online, and the etiquette that separates a gentleman from a grumpy villain who argues about a misread card for 40 minutes. We’ll pepper in practical tips, links to more in-depth reads, and the kind of nerdy humor that makes math cheese-on-crackers tasty rather than terrifying. If you want a compact rules cheat sheet, you can skim the headings and come back for the long form later. Either way, by the end you’ll be confidently calling hands and pretending you read the rules before the flop.
 
 > Quick note: there is no universal, one-size-fits-all poker rulebook because many organizations publish their own house rules. However, the core hand rankings, betting concepts, and the general structure of the most common variants stay remarkably consistent. If you’re playing in a specific venue, always check their house rules. Think of it as the difference between a recommended firmware update and the exact patch your grandma uses on her vintage oven. The flavor is similar, but the specifics matter when you’re dealing with a live pot of chips and pride.
+
+![Poker table at night]( /assets/images/poker-table-night.jpg )
 
 ## What is Poker and Why Do Rules Matter?
 
@@ -58,6 +60,7 @@ Here’s a compact ladder you can memorize without breaking a sweat. It’s the 
 - Reads and tells: Humans are complicated machines that sometimes reveal their plans in subtle ways. Don’t rely on them, but don’t ignore them either.
 
 ## Variants You’ll Meet at the Tables
+
 While there are many poker flavors, three stand out as the backbone of modern play. We’ll cover them with enough detail to get you through a friendly home game or a friendly-ish online room without needing a crash course in number theory.
 
 ### Texas Hold'em: The Modern King
@@ -113,7 +116,7 @@ Poker is a blend of math, psychology, and stagecraft. You’ll hear folks say th
 - Manage your bankroll: It’s dull but essential. Don’t play above your comfort zone, and have a plan for downswings. A good bankroll is a quiet hero that lets you learn without the fear of a dramatic bust.
 - Practice makes permanent: The best way to improve is to play (and then review hands later). Consider keeping a notebook or reading recap to analyze your decisions after the session.
 
-If you want deeper, more technical tips, we’ve got a stack of internal guides and references to help you sharpen your game. Check out the internal post-url links for beginner-focused material and more advanced reads that expand on geometry, outs, and pot control.
+If you want deeper, more technical tips, we’ve got a stack of internal guides and references to help you sharpen your game. Check out the internal post_url links for beginner-focused material and more advanced reads that expand on geometry, outs, and pot control.
 
 ## Tools and Gadgets: Do You Need Them?
 
@@ -147,6 +150,7 @@ We’ve covered the core variants most players actually encounter, and we’ve e
 - Internal: {% post_url 2025-07-18-poker-beginners-guide %} A friendly ladder to getting your first wins at the felt.
 - Internal: {% post_url 2024-11-02-poker-math %} The math you actually use without turning poker into a calculus exam.
 - Internal: {% post_url 2026-01-12-poker-bluffing-tips %} Practical bluffing concepts that avoid turning your table into a TED talk.
+- Internal: {% post_url 2026-03-14-poker-hand-review-tips %} Hands that made you cry and learn.
 - External: [Poker on Wikipedia](https://en.wikipedia.org/wiki/Poker)
 - External: [WSOP Rules](https://www.wsop.com/)
 
@@ -157,6 +161,3 @@ If you are new to poker, start with Texas Hold'em and a home game with friendly 
 If you want a one-stop resource that combines rules, practical tips, and a wink of nerdy humor, this guide is your friendly starting point. And if you want to take the experience to the next level, our recommended kit (and our affiliate links) help you support Geeknite while upgrading your table setup and learning tools at the same time.
 
 **Buy the Poker Starter Kit through our affiliate link and support Geeknite at the same time: https://example.com/aff/poker-kit**
-
----
-
