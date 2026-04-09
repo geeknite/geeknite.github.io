@@ -1,5 +1,5 @@
 ---
-ttitle: DC Universe Miniature Game: The Batman Who Laughs Knight Models Figure Review
+title: DC Universe Miniature Game: The Batman Who Laughs Knight Models Figure Review
 date: 2026-04-09
 tags:
   - DC Universe Miniature Game
@@ -10,9 +10,11 @@ tags:
   - Painting
 ---
 
+![Batman Who Laughs Knight Models](/assets/images/batman-who-laughs-knight-models.jpg)
+
 Introduction
 
-Greetings, aspiring vigilantes and hobby masochists alike. Today we dive into the curious case of The Batman Who Laughs, Knight Models edition, a miniature that seems to have wandered straight out of a dark fairy tale and landed squarely on your paint rack. If you are anything like me, you opened the box with the intoxicating scent of resin, primed optimism, and the faint whiff of inevitable mold lines that will haunt your dreams at 3 a.m. This review is a long-form love letter to a figure that wears a perpetual grin like a weather delay and arrives with the aura of a villain who knows the plot twists better than you do.
+Greetings, aspiring vigilantes and hobby masochists alike. Today we dive into the curious case of The Batman Who Laughs, Knight Models edition, a miniature that seems to have wandered straight out of a dark fairy tale and landed squarely on your paint rack. If you are anything like me, you opened the box with the intoxicating scent of resin, primed optimism, and the faint whiff of inevitabile mold lines that will haunt your dreams at 3 a.m. This review is a long-form love letter to a figure that wears a perpetual grin like a weather delay and arrives with the aura of a villain who knows the plot twists better than you do.
 
 The DC Universe Miniature Game (DCU MG) from Knight Models has long walked the line between a tabletop skirmish game and a museum-caliber display hobby. The Batman Who Laughs figure is one of those pieces that looks spectacular under paint and potentially terrifying on a tabletop if you roll well and mispronounce his name at the wrong moment. Is this figure worth adding to your collection, or is it destined to sit on your shelf like a villainous trophy for your next league to mock? Strap in as we examine design, engineering, painting, assembly, basework, gameplay implications, and the cultural whisper that accompanies every good Batman villain: chaos with a tailored suit and a sinister smirk.
 
@@ -22,7 +24,7 @@ The Batman Who Laughs is an icon from the Dark Multiverse: the concept of Batman
 
 Pose and presence
 
-The pose is dynamic without being exuberant. The Batman Who Laughs is not doing a full backflip in a victory pose; he is mid-malkin grin, with one hand extended as if to conjure some trick from his pocket dimension. That restraint is refreshing. It means you can paint for effect rather than fight against a choked silhouette or an awkward knee angle. The cloak flows in a way that suggests wind or the villain’s own unholy shrug at your best-laid plans. The sculpts capture the character’s mood: predatory, cunning, and identifiable even at a small scale. If you know the character, you will recognize the fevered energy in the sculpt—no need for an elaborate backstory in your head to enjoy the piece.
+The pose is dynamic without being exuberant. The Batman Who Laughs is not doing a full backflip in a victory pose; he is mid-smirk grin, with one hand extended as if to conjure some trick from his pocket dimension. That restraint is refreshing. It means you can paint for effect rather than fight against a choked silhouette or an awkward knee angle. The cloak flows in a way that suggests wind or the villain’s own unholy shrug at your best-laid plans. The sculpts capture the character’s mood: predatory, cunning, and identifiable even at a small scale. If you know the character, you will recognize the fevered energy in the sculpt—no need for an elaborate backstory in your head to enjoy the piece.
 
 Details and fidelity
 
@@ -30,7 +32,7 @@ The fine details—grimace lines, the belt buckle, the subtle tatter on the cape
 
 Tooling and mold quality
 
-From a hobbyist perspective, the mold quality seems consistent with Knight Models’ standard at the time. Mold seams are present in some places, but they are manageable with a sharp hobby knife and a steady hand. The resin tends to hold detail well, and you don’t feel a heavy reliance on post-crompt with insane cleanup. If you enjoy a slightly more forgiving piece, you may be able to clean up without resorting to power tools, which is the dream of many a hobbyist after a long day of real life and bad coffee.
+From a hobbyist perspective, the mold quality seems consistent with Knight Models’ standard at the time. Mold seams are present in some places, but they are manageable with a sharp hobby knife and a steady hand. The resin tends to hold detail well, and you don’t feel a heavy reliance on post-cleanup. If you enjoy a slightly more forgiving piece, you may be able to clean up without resorting to power tools, which is the dream of many a hobbyist after a long day of real life and bad coffee.
 
 Assembling and converting: flexibility or fragility?
 
@@ -40,7 +42,7 @@ Painting guide: palette and technique for the chaos grin
 
 Base coating and priming
 
-Prime the figure with a light gray or white primer to ensure depth, then apply a mid-tone base color for the suit—navy or charcoal works nicely, as does a deep midnight blue for extra drama. The Batman Who Laughs wears a suit that can be characterized as “corporate villain with extra teeth.” The base color should reflect that duality: the suit is dark, but with reflective highlights that hint at the character’s malevolent sparkle.
+Prime the figure with a light gray or white primer to ensure depth, then apply a mid-tone base color for the suit—navy or charcoal works nicely, as does a deep midnight blue for extra drama. The Batman Who Laughs wears a suit that can be characterized as ‘corporate villain with extra teeth.’ The base color should reflect that duality: the suit is dark, but with reflective highlights that hint at the character’s malevolent sparkle.
 
 Color choices
 
@@ -52,7 +54,7 @@ Color choices
 
 Layering and shading
 
-A rule of thumb: the more you lean into contrast, the more the figure will pop on the table. For the Batman Who Laughs, you can push shading in the recesses to bring out the creases and folds in the cloak. Use a moderate wash to settle the armor panels and allow the sculpted details to breathe. A dark blue glaze over the suit can help tie the figure to the cape while a green wash across the exposed skin makes the face read as ominous rather than “just dirty.” For the belt and any metallic bits, a cool silver with a touch of brass highlights yields a sense of worn, once-glossy gear.
+A rule of thumb: the more you lean into contrast, the more the figure will pop on the table. For the Batman Who Laughs, you can push shading in the recesses to bring out the creases and folds in the cloak. Use a moderate wash to settle the armor panels and allow the sculpted details to breathe. A dark blue glaze over the suit can help tie the figure to the cape while a green wash across the exposed skin makes the face read as ominous rather than ‘just dirty.’ For the belt and any metallic bits, a cool silver with a touch of brass highlights yields a sense of worn, once-glossy gear.
 
 Edge highlighting and final touches
 
@@ -64,7 +66,7 @@ The base is not an afterthought here. You can keep it minimal with a textured bl
 
 In-game stats and gameplay considerations: how does this piece play?
 
-The DC Universe Miniature Game relies on a mix of movement speed, melee range, attack power, defense, and unique abilities that reflect each character’s mythos. The Batman Who Laughs, under Knight Models’ representation, would likely skew toward cunning, resilience, and a pocketful of tricks. In the ruleset world, you may encounter special abilities like fear checks against nearby figurines, or a signature “smirk” attack that imposes a debuff on enemy leaders, or a unique movement pun that allows a sudden repositioning for a surprise strike. While I won’t pretend to quote the exact stat block here—because this is one of those things that changes with edition—expect typical Batman-family synergy to be intense, while his own kit may include a few abilities that punish reckless charges and reward careful positioning.
+The DC Universe Miniature Game relies on a mix of movement speed, melee range, attack power, defense, and unique abilities that reflect each character’s mythos. The Batman Who Laughs, under Knight Models’ representation, would likely skew toward cunning, resilience, and a pocketful of tricks. In the ruleset world, you may encounter special abilities like fear checks against nearby figurines, or a signature ‘smirk’ attack that imposes a debuff on enemy leaders, or a unique movement pun that allows a sudden repositioning for a surprise strike. While I won’t pretend to quote the exact stat block here—because this is one of those things that changes with edition—expect typical Batman-family synergy to be intense, while his own kit may include a few abilities that punish reckless charges and reward careful positioning.
 
 If you want to review actual numbers from the most recent ruleset, see our past exploration of DCU MG mechanics and how this figure tends to perform in a balanced list. For context, our earlier post covers the basics of building a robust DCU MG list and how to balance power with risk. {% post_url 2025-08-15-dc-universe-miniature-game-overview %}
 
@@ -106,7 +108,7 @@ If you crave a centerpiece that looks equal parts terrifying and spectacular, Th
 
 Playing the long game: the figure as a storytelling tool
 
-Beyond the shininess of the resin, this figure offers a narrative hook. The Batman Who Laughs represents a collision of order and chaos, a villain who speaks in riddles and moves in the shadows. Use your miniature to tell a story at the table: how the hero or villain interacts with this figure can drive a campaign, a one-shot scenario, or a narrative-driven league that keeps players coming back for more. A final note: if you want to see how we frame a narrative around this model, check out our prior narrative-driven post where we pair a Bat-family rogue with this exact villain for a climactic showdown. {% post_url 2025-05-10-dc-universe-narrative-battle %%}
+Beyond the shininess of the resin, this figure offers a narrative hook. The Batman Who Laughs represents a collision of order and chaos, a villain who speaks in riddles and moves in the shadows. Use your miniature to tell a story at the table: how the hero or villain interacts with this figure can drive a campaign, a one-shot scenario, or a narrative-driven league that keeps players coming back for more. A final note: if you want to see how we frame a narrative around this model, check out our prior narrative-driven post where we pair a Bat-family rogue with this exact villain for a climactic showdown. {% post_url 2025-05-10-dc-universe-narrative-battle %}
 
 Gallery and resources
 
