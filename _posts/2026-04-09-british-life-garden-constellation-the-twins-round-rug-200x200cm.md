@@ -6,11 +6,13 @@ tags:
   - garden
   - decor
   - product
+  - outdoor
+  - round-rug
 ---
 
-Welcome to Geeknite's orbit around the British Life Garden Constellation The Twins Round Rug 200X200Cm. It's not just a floor covering; it's a space-faring platform for your outdoor chill sessions, a star map you can lay under your feet, and a practical solution to tie mismatched furniture into a single, harmonious galaxy. If you're tired of the same rectangular patio rug that looks good in photos but folds like a taco in real life, strap in. This rug means business—cosmic business.
+Welcome to Geeknite's orbit around the British Life Garden Constellation The Twins Round Rug 200X200Cm. It's not just a floor covering; it's a space-faring platform for your outdoor chill sessions, a star map you can lay under your feet, and a practical solution to tie mismatched furniture into a single, harmonious galaxy. If you're tired of the same rectangular patio rug that folds like a taco in real life, strap in. This rug means business—cosmic business.
 
-![Constellation The Twins rug in a sunlit patio](/assets/images/british-life-garden-constellation-the-twins-round-rug-200x200cm.jpg)
+![Constellation The Twins rug in a sunlit patio]({{ '/assets/images/british-life-garden-constellation-the-twins-round-rug-200x200cm.jpg' | relative_url }})
 
 ## Overview
 
@@ -84,7 +86,7 @@ Product visuals and additional details can be found at https://www.britishlife.c
 
 Galleria image:
 
-![](/assets/images/british-life-garden-constellation-the-twins-round-rug-200x200cm.jpg)
+![]({{ '/assets/images/british-life-garden-constellation-the-twins-round-rug-200x200cm.jpg' | relative_url }})
 
 ## Availability and Price Range
 
@@ -110,7 +112,7 @@ Yes, it can function indoors if you have a large circular room with a patio vibe
 Roll or fold with care and store in a dry, ventilated space. If you’re in a high-humidity area, ensure it’s completely dry before storage to prevent mildew growth.
 
 ### Is the rug suitable for extremely windy balconies?
-Yes, but you’ll want to anchor the edges with rugs grippers or heavier furniture. The heavier weight helps, but never rely on gravity alone for a windy day.
+Yes, but you’ll want to anchor the edges with rug grippers or heavier furniture. The heavier weight helps, but never rely on gravity alone for a windy day.
 
 ## Final Thoughts from the Geeknite Crew
 
