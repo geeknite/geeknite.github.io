@@ -1,6 +1,6 @@
 ---
 title: Exploding Kittens Party Pack Edition — A Geeknite Review (Expanded)
-date: 2026-04-09
+d date: 2026-04-09
 tags: [board-games, card-games, party-games, review, geek]
 ---
 
@@ -103,4 +103,4 @@ Overall rating: A solid 4 out of 5 odd cats wobbling on a defused fuse. It’s n
 
 **Final recommendation from Geeknite: if you’re hosting a party and want an experience that’s easy to teach, quick to play, and guaranteed to spark laughter, buy the Exploding Kittens Party Pack Edition. It’s the kind of chaos that makes memories.**
 
-**Buy Exploding Kittens Party Pack Edition now on Amazon (affiliate link): https://amzn.to/3exampleaffiliate**
+**[Buy Exploding Kittens Party Pack Edition on Amazon (affiliate)](https://amzn.to/3exampleaffiliate)**
