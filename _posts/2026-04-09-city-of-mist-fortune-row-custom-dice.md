@@ -11,124 +11,142 @@ tags:
 
 ## Introduction
 
-If you thought you could walk into a City of Mist session with a spare set of bland dice and a shrug, you were mistaken. Fortune Row is the kind of concept that sounds like it should belong in a late-night dream and somehow it ends up on your table with the gentle, inexorable tug of fate. In City of Mist, where heroes are myths and myths are often fueled by the most human of impulses, Fortune Row proposes a different kind of chaos: custom dice built to echo the narrative weather of your session. This is not just another color-swapped D20; it is a storytelling tool dressed up as a gaming accessory, a toy that might just be a conversation starter or a plot device all by itself.
+If you thought you could stroll into a City of Mist session with a boring spare set of dice and a shrug, Fortune Row is here to give your table a dramatic entrance and a mood-altering glow. Fortune Row is the kind of concept that sounds like a late night dream materialized on cardboard and resin, then squinted at by neon-lit lampposts on a rain-soaked street. In City of Mist, myths walk the sidewalks and the hum of fate is audible in the click of a die on a wooden table. Fortune Row offers a storytelling toolkit: custom dice designed to echo the narrative weather of your session. This isn’t just a color swap D20; it is a storytelling instrument that can spark conversation, become a plot device, and occasionally steal a scene right out from under the GM’s carefully plotted twist.
 
-First, a quick premise for any newcomers: Fortune Row isn’t a standing rule or a hard mechanic in the City of Mist core; it’s a flavor-forward concept that invites players to craft or collect dice that visually and mechanically reflect their character’s fortune or misfortune. You want dice that glow with the same mood as your vigilante hacker or your tragic masked maestro? Fortune Row says yes, and then throws in a dash of randomness to remind you that in a world built on myths, chance still has a microphone.
+First, a quick premise for newcomers: Fortune Row isn’t a standing rule or a hard mechanic in the City of Mist core. It’s a flavor-forward concept inviting players to craft or collect dice that visually and mechanically reflect a character’s fortune or misfortune. You want dice that glow with the mood of your vigilante hacker or your tragic masked maestro? Fortune Row says yes, and then serves up a dash of randomness to remind you that in a world built on myths, chance still has a microphone.
 
-As a review begins, I want to acknowledge a crucial thing up front: Fortune Row is about ambience as much as it is about numbers. If you’re looking for a strictly optimized, numerically perfect dice set, Fortune Row will still reward you, but the real joy lies in the storytelling texture—the way a die’s color shift, pip layout, or even the way it clatters on the table signals a turn in the plot. With that in mind, let’s dive into what makes these custom dice sing, where they shine, and where they might make you want to roll a second set for the heck of it.
+As a review, I want to acknowledge up front that Fortune Row is as much about ambience as it is about numbers. If you’re chasing numerical perfection, you’ll still be rewarded by the texture and mood of these dice, but the real joy lies in the storytelling texture—the way color shifts, engraved glyphs, or the way dice clatter signal a beat in the plot. With that in mind, let’s dive into what makes Fortune Row sing, where it shines, and where it might tempt you to collect a second set for the heck of it.
 
 > For fans who want to explore more of City of Mist systems and lore, see our related posts on City of Mist dice mechanics and character design: {% post_url 2025-11-02-city-of-mist-dice-mechanics.md %} and {% post_url 2025-07-14-city-of-mist-character-roles.md %}.
 
 
 ## What Fortune Row Brings to the Table
 
-Fortune Row sits at the intersection of narrative control and tactile joy. The concept is simple enough: you gather a handful of dice, each representing a facet of fortune—happiness, luck, chaos, ruin, or a more personal angle tied to a character’s arc. Each die isn’t just a random generator; it’s a living emblem that can influence how scenes unfold. The die’s color, material, and pips offer a visual shorthand for mood, while the surface texture or engraving hints at backstory that players can lean on during a session.
+Fortune Row sits at the intersection of narrative control and tactile joy. The idea is simple: you gather a handful of dice, each representing a facet of fortune like happiness, luck, chaos, ruin, or a personal angle tied to a character arc. Each die isn’t merely a random results generator; it’s a living emblem that can influence how scenes unfold. The die color, material, and pips offer a visual shorthand for mood, while surface texture and engraving hint at backstory players can lean on during a session.
 
-This approach aligns perfectly with City of Mist’s premise: the game is about masks, power, and the myths we carry. Fortune Row nudges you to encode those myths into the dice themselves, so a throw becomes a beat in the city’s mythic drum. It’s not about superstition. It’s about consistency of feel. When your players reach for a die that embodies misfortune, you want them to feel the weight of that choice even before the result lands on the table.
+This approach aligns with City of Mist’s premise: the game is about masks, power, and the myths we carry. Fortune Row nudges you to encode those myths into the dice themselves, so a throw becomes a beat in the city’s mythic drum. It isn’t superstition; it’s a consistent mood framework. When players reach for a die that embodies misfortune, they feel the weight of that choice even before the result lands on the table.
+
+### Narrative Economy in Dice Form
+Fortune Row is about economy of storytelling. Fewer dice, bigger texture. The idea is to keep the set manageable, then layer in meaning through color and engraving rather than rules shenanigans. The dice become little narrative flags you plant on the table, signaling a turn in the story without shouting over the GM’s twists.
+
+### Aesthetics as Mechanics Lite
+Do not mistake the aesthetics for a crunchy overhaul. The color language and tactile cues do not rewire City of Mist dice rules; they enhance your ability to communicate mood to the table. A die that glows when misfortune is on screen can prompt players to lean into character flaws, misdirections, or the moral costs of power. It’s about feel, not about rewriting probability.
+
+### Quick Setup Mental Model
+Topline takeaway: Fortune Row is a mood toolkit. Assign dice by arc themes, map each to a narrative cue, and let the table read mood through tactile cues as much as through numbers. The dice provide a shared visual language for scene shifts and dramatic reveals.
+
+### The Thematic Match with City of Mist
+Fortune Row thrives in a city where legends wear ordinary clothes and everyday scenes hide extraordinary power. A detective luck die might glow with a cool blue-white tint, echoing precision and cold logic turned toward a breakthrough. A street-poet sorcerer’s ruin die could be a smoky resin piece that feels heavy, signaling that magic bears a price. You craft a personal iconography that makes the city intimate rather than generic. The table becomes a canvas for a shared storytelling language.
+
 
 ## Design and Build: A Closer Look at the Dice
 
 ### Dice Components
 
-Fortune Row dice come in a handful of formats, but the most compelling sets I’ve seen lean into a mix of resin and wood, with engraved pips and UV-reactive inks. The resin dice glow faintly under blacklight, giving your combat scenes a neon-bathed vibe—perfect for a city where myths wear neon as a signature color. The wooden dice variant, on the other hand, evokes a more grounded, earthy texture that seats the dice visually in a noir-mythic mood. The contrast between a glowing purple resin die and a matte ebony-wood die is not just aesthetic; it’s a storytelling tool. It alternates your sensory cues as you switch between fortunes: light, electricity, shadow, and fate.
+Fortune Row dice tend to blend resin and wood, with engraved pips and UV-reactive inks. Resin dice glow faintly under blacklight, giving neon-noir vibes ideal for a city that loves neon as a signature color. Wooden dice, by contrast, offer a grounded texture that sits well in noir-mythic mood. The contrast between a glowing resin die and a matte ebony wood die becomes a storytelling tool in itself, with sensory cues changing as you switch fortunes.
+
+> Visual cue: a quick glance at the dice tells you where the scene sits on the mood spectrum, and you can lean on that cue as much as numbers to steer narration.
 
 ### Color Schemes and Symbol Language
 
-Color is not accidental here. Fortune Row uses a small, intentional palette where each hue correlates to a fortune archetype: gold for luck, crimson for danger, emerald for growth, sapphire for truth, onyx for ruin. The pips are sometimes crystals or carved marks rather than plain dots, which sounds fussy but reads beautifully on a busy table. A quick glance tells you which dice to lean on during a tense moment. The color language isn’t merely decorative; it telegraphs intent, which is exactly what you want when the GM is spinning a twist and you need players to react in character, not in habit.
+Color is purposeful: each hue maps to a fortune archetype. Gold for luck, crimson for danger, emerald for growth, sapphire for truth, onyx for ruin. The pips may be crystals or carved glyphs rather than plain dots, reading beautifully on a busy table. A quick glance tells you which dice to lean on during a tense moment. The color language functions as a nonverbal cue that prunes debate and speeds storytelling.
 
 ### Texture, Engraving, and Tactile Feedback
 
-Fortune Row dice boast engraved glyphs and tactile textures—tiny ridges, etched sigils, or raised rims that catch the light and your attention. Tactile feedback matters in a game where you’re rolling with intention rather than random chance. If your dice have a rough edge around the fortune glyphs, you’ll instinctively adjust your grip during a pivotal moment, buying a fraction of a second to center yourself before the roll. In role-playing, that moment can feel like a heartbeat. These small physical cues help anchor players in the scene and remind them that the dice carry a narrative impact beyond raw probability.
+Engraved glyphs and tactile textures—tiny ridges, etched sigils, raised rims—catch light and attention. Tactile feedback matters in a game where intention matters more than brute luck. A rough edge around fortune glyphs can prompt players to adjust their grip mid-roll, buying a heartbeat of narrative focus.
 
 ### Mechanical Implications and Probability Shaping
 
-From a rules perspective, Fortune Row doesn’t override the standard City of Mist dice mechanics, but it can influence your decision-making. For example, you might assign a particular die to a specific action style or to a scene’s tonal pivot. The probability remains the same, but the perceived odds shift because players subconsciously bias toward a die that represents their current fortune. The best Fortune Row sets I’ve used create a few self-imposed “soft rules”: when a critical moment arrives, a player may be encouraged to reach for the high-risk die; when a character achieves a small victory, a success-dominant die might be chosen to reflect momentum. It’s not game-breaking; it’s game-enhancing in a way that rewards narrative consistency.
+Fortune Row does not override standard City of Mist dice mechanics, but it can influence decision-making. You might assign a particular die to a specific action style or to a scene’s tonal pivot. Probability stays the same, but perceived odds shift as players subconsciously bias toward a die that represents their current fortune.
 
-To illustrate, consider a scenario where your masked vigilante needs a breakthrough in a city-wide conspiracy. A gold, high-risk die at the Fortune Row might be chosen to represent a precarious stake—bright, charged, almost singing with possibility. If the roll lands well, the GM gets to narrate a moment of almost cinematic relief; if it fails, the scene can tilt into a noir twist where consequences ripple through the city’s myths. Fortune Row, when used with care, transforms moments into cinematic punctuation without overpowering the core dice system.
+The best Fortune Row sets use soft rules that reinforce narrative momentum. For instance:
+- In a pivotal moment, reach for the high-risk die to signal a bold choice.
+- In a small victory, lean into a momentum die to reflect narrative progress.
+- For a twist that demands restraint, pull the subdued tone die to coax a more measured outcome.
 
-### Thematic Alignment with the City of Mist World
+Example scenario: a masked vigilante must pierce a city-wide conspiracy. A gold high-risk die signals a stake as bright as it is dangerous. If the roll succeeds, narration cues a cinematic relief moment; if it fails, the city’s myth frays and reveals a more noir path of consequences. Fortune Row doesn’t steal agency from the GM; it hands players a symbol with which to narrate their fate.
 
-Fortune Row’s strength lies in its compatibility with mythic realism: you inhabit a city where legends walk the same sidewalks as the rest of us. The dice become little logos of your character’s arc. A detective’s luck die might glimmer with a blue-white tint, evoking a cold, calculating intellect turned toward a break in the case. A street-antique sorcerer’s ruin die might be a smoky, jagged piece of resin that feels heavy when you pick it up, signaling that every spell comes with price. The hook is clear: you craft a personal iconography that makes the city feel personal, not generic. The table becomes a canvas for a shared storytelling language.
+### Thematic Alignment with the City of Mist World (Expanded)
+Fortune Row shines when you lean into mythic realism. Your table becomes a lab for personal iconography. A detective’s luck die could glow light-blue to evoke a mind that never stops calculating. A street-musician sorcerer’s ruin die might be a smoky resin piece that feels heavy in the hand. You’re not just rolling to succeed; you are rolling to reveal part of your character’s myth, and the dice become the physical footprints of that myth in the city’s ground truth.
+
 
 ## Using Fortune Row: Play Scenarios and Tips
 
 ### Quick Start: Your First Session with Fortune Row
 
-If you’re trying Fortune Row for the first time, start simple. Assign two dice to key narrative arcs: one die for the character’s core fortune (the thing that defines their arc), and one for the GM’s planned twist that could tilt the balance. Begin with a scene in which both dice are nudged into play by the plot: a moment that could swing the story toward hope or ruin. As players resolve that moment, the dice visually reinforce the narrative shift. You’ll be surprised how quickly players begin to interpret the scene through the die’s color and texture rather than simply asking for the numbers.
+If you are trying Fortune Row for the first time, start simple. Assign two dice to key narrative arcs: one die for the character’s core fortune and one die for the GM’s looming twist. Begin with a scene where both dice interact with the plot: a moment that could tilt toward hope or ruin. As players resolve that moment, the dice visually reinforce the narrative shift. You’ll be surprised how quickly players interpret the scene through color and texture rather than the numbers themselves.
 
 ### Flavor-First Rules of Thumb
 
-- Do not over-index on dice. Fortune Row shines when it’s a pocket of mood, not a mechanical crutch. Use a handful of well-chosen dice: three to five in a core set, with a couple of spare pieces for seasonally shifting arcs.
+- Do not over-index on dice. Fortune Row shines as a mood pocket, not a mechanical crutch. Use a core set of three to five dice, with a couple of extras for seasonal arcs.
 - Align dice with character arcs. If a player has a long-running myth about resilience, reserve a die that visually communicates resilience for that player’s big moments.
-- Let visuals influence narration. If a die shows a symbol of a mythic tree, let a line of narration reference roots and growth when that die is rolled well.
-- Create a ritual. A small pre-roll ritual that acknowledges fortune can turn a routine roll into a story beat. It could be a whispered line, a breath, or a quick glance at a fortune die before rolling.
+- Let visuals influence narration. If a die shows a symbol of a mythic tree, weave lines of narration about roots and growth when that die rolls well.
+- Create a ritual. A short pre-roll ritual that acknowledges fortune can turn a routine roll into a story beat. Whispered lines, a breath, a glance at the fortune die before rolling can do the trick.
 
 ### Playtime and Table Feel
-
-Fortune Row is especially effective in a table that enjoys a blend of narration and strategy. It invites players to be mindful of tone without turning the game into a heavy rules debate. It’s easy to integrate into sessions that already lean into masks and mythic structures. If your table routinely skips roleplay in favor of crunch, Fortune Row can be a gentle nudge toward the storytelling side without drowning in mechanics.
+Fortune Row works best at a table that enjoys a blend of narration and strategy. It nudges players toward a storytelling mindset without forcing heavy rules debates. It integrates well with sessions already leaning into masks and mythic structures. If your table tends to chase raw optimization, Fortune Row still plays nice as a storytelling accelerant rather than a replacement for core mechanics.
 
 ### Incorporating Post URL Deep Dives
-
-For groups who want to attach Fortune Row more tightly to City of Mist lore, you can pair each dice theme with a micro-article or character sketch. For example, have a short piece in your campaign notes about the myth your fortune die represents, and link it through a post_url to a canonical or fan-favorite write-up: {% post_url 2025-11-02-city-of-mist-dice-mechanics.md %} or {% post_url 2024-08-18-city-of-mist-worldbuilding.md %}. This keeps the dice feeling like they’re part of a living world rather than a neat accessory.
+If you want to thread Fortune Row deeper into City of Mist lore, pair each die theme with micro-articles or character sketches. A quick campaign note about the myth your fortune die represents can be linked via post_url to canonical or fan-favorite write-ups: {% post_url 2025-11-02-city-of-mist-dice-mechanics.md %} or {% post_url 2024-08-18-city-of-mist-worldbuilding.md %}. This makes the dice feel like they are part of a living world rather than a neat accessory.
 
 
 ## How to Build Your Own Fortune Row Dice Set
 
-If you’re inspired enough to assemble your own fortune-row set, here are practical steps to get you started without losing your mind in resin dust and glitter glue.
+If you are inspired to assemble your own fortune-row set, here are practical steps to get started without losing your mind in resin dust and glitter glue.
 
 ### Materials and Tools
 
-- Clear resin or acrylic blanks (varied shapes: d6, d8, d12)
+- Clear resin or acrylic blanks in varied shapes (d6, d8, d12)
 - UV resin glow accents or phosphorescent pigments
-- Fine-grit sandpaper and polishing pad
-- Engraving tools (hand or laser, depending on your setup)
+- Fine-grit sandpaper and a polishing pad
+- Engraving tools (hand or laser depending on setup)
 - Durable storage tray that fits your table height
-- Optional wood tokens for a contrasting set
+- Optional wood tokens for contrast
 
 ### Color Coding and Personalization
 
-Create a palette that maps to your narrative. A good rule of thumb: limit to four primary fortune meanings and one wild-card accent. This helps keep the table readable while letting players quickly identify which die represents which narrative current. If you’re artistic, paint-handled edges can add a tactile cue—silver for truth, amber for luck, midnight blue for danger, and emerald for growth. If you’re not, consider vinyl decals or heat-transferred symbols to convey the same language without carving every symbol by hand.
+Create a palette that maps to your narrative. A practical rule is to limit to four primary fortune meanings plus one wild-card accent. This keeps the table readable while letting players quickly identify which die represents which cue. If you are artistic, paint-handled edges can add a tactile cue—silver for truth, amber for luck, midnight blue for danger, emerald for growth. If you are not, vinyl decals or heat-transferred symbols can convey the same language without carving every symbol by hand.
 
 ### Engraving and Glyph Choices
 
-Engrave a small glyph on each die that resonates with its fortune archetype. Keep it simple: a pulse for momentum, a teardrop for loss, a flame for passion, a knot for fate. The glyphs don’t have to be identical across dice; variety can reinforce the idea that fortune is a mosaic rather than a single force. If you use a laser-engraver, you can create precise glyphs that read well at the table. If you work with hand tools, a clean, legible engraving is enough to convey the idea—don’t overcomplicate things.
+Engrave a small glyph on each die that resonates with its fortune archetype. Keep it simple: a pulse for momentum, a teardrop for loss, a flame for passion, a knot for fate. Glyphs don’t have to be identical across dice; variety reinforces the mosaic nature of fortune. If you use a laser engraver, you can create precise glyphs that read well at the table. If you work with hand tools, aim for clean, legible engravings that convey the idea without overcomplication.
 
 ### Presets and Starter Sets
 
-For beginners, a starter set with three dice per player is enough to begin exploring. One die for personal fortune (your character’s core arc), one die for the GM’s looming twist (the city’s macro fate), and one die as a wild-card (permits you to introduce a new twist when the moment demands). Add a couple of “momentum dice” for scenes that escalate quickly. You can always expand later with specialty dice that fit specific campaigns, seasons, or villain plots.
+For beginners, a starter set with three dice per player is a good launching point. One die for personal fortune (your character’s core arc), one die for the GM’s looming twist (the city’s macro fate), and one die as a wild-card for unexpected twists. Add a couple of momentum dice for escalating scenes. You can expand later with specialty dice tailored to campaigns, seasons, or villain plots.
 
 ### Protecting Your Investment
 
-Custom dice can be delicate depending on materials. Use padded storage, keep them away from heat sources that could warp resin, and consider a velvet pouch to prevent scratches on engraved glyphs. The better you protect your dice, the longer they will carry the mood of your campaign.
+Custom dice can be delicate depending on materials. Use padded storage, keep them away from heat sources that could warp resin, and consider a velvet pouch to prevent scratches on engraved glyphs. The better you protect your dice, the longer they carry the mood of your campaign.
 
 
 ## In-Session Experience: What Fortune Row Does for City of Mist
 
-While this section is not a magic spell, it’s worth naming plainly: Fortune Row can dramatically shift your table’s energy. It gives players a tactile, recurring reminder that fortune is a character of its own, not just a stat. The dice become narrative punctuation marks—good or bad—that players can hold, inspect, and interpret before a roll. In practice, you’ll notice three things:
+Fortune Row is not a magic spell, but it can dramatically shift your table energy. It provides players with a tactile, recurring reminder that Fortune is a character of its own. The dice become narrative punctuation marks, good or bad, that players can hold, inspect, and interpret before a roll. In practice, you may notice three things:
 
-1) Pacing gains momentum when players use the dice to signal mood shifts rather than pulling a random numeric result.
-2) The GM can quickly align mood and stakes, because the dice’s appearance cues a scene’s emotional register.
-3) Character-anchored dice encourage players to lean into their masks, embracing flaws and strengths with equal enthusiasm.
+1) Pacing gains momentum as players use the dice to signal mood shifts rather than pulling a numeric result.
+2) The GM can quickly align mood and stakes because the dice appearance cues the scene's emotional register.
+3) Character anchored dice encourage players to lean into their masks, embracing flaws and strengths with equal enthusiasm.
 
-For a group that values mood and theme, Fortune Row can be a star lightweight system that enhances immersion without forcing a new rulebook on everyone. For groups chasing optimization, Fortune Row remains compatible but shines most when used as a storytelling accelerant rather than a replacement for core mechanics.
+For groups that savor mood and theme, Fortune Row can be a star lightweight system that enhances immersion without burying play in new rules. For groups chasing optimization, Fortune Row remains compatible but shines most when used as a storytelling accelerant rather than a core mechanic.
 
 
 ## Pros, Cons, and Balance Considerations
 
 Pros:
-- Strong thematic cohesion with City of Mist’s mythic-noir vibe
+- Strong thematic cohesion with City of Mist's mythic noir vibe
 - Flexible, modular approach to dice design and usage
-- Tactile and visual cues that reinforce storytelling
+- Tactile and visual cues reinforce storytelling
 - Easy to adopt in existing campaigns without heavy rules changes
 
 Cons:
-- Potentially overemphasizes aesthetics over roll outcomes if not used with restraint
+- Potential to overemphasize aesthetics at the expense of outcomes if not used with restraint
 - Can become costly to maintain multiple sets for different campaigns
 - Some players may rely on dice appearance to judge outcomes rather than the narrative
 
 Balance considerations:
-- Use Fortune Row as a mood set rather than a mechanic overhaul
-- Limit per-session dice to avoid table clutter and analysis paralysis
+- Use Fortune Row as a mood set rather than a mechanical overhaul
+- Limit per session dice to avoid table clutter and analysis paralysis
 - Provide a simple, documented mapping of dice meanings for players
 
 
@@ -136,22 +154,22 @@ Balance considerations:
 
 - Official City of Mist site: https://cityofmistgame.com
 - A companion read on mask mechanics and mythic storytelling: https://example.org/masks-and-myths
-- A gallery of Fortune Row-inspired art and community dice builds: https://reddit.com/r/CityOfMistFortune
+- A gallery of Fortune Row inspired art and community dice builds: https://reddit.com/r/CityOfMistFortune
 - For deeper lore connections, see our post on City of Mist worldbuilding: {% post_url 2024-08-10-city-of-mist-worldbuilding.md %}
 - A deeper dive into dice mechanics in City of Mist: {% post_url 2025-11-02-city-of-mist-dice-mechanics.md %}
 
 
 ## Final Verdict and Recommendations
 
-Fortune Row is a delightful addition to the City of Mist hobby that leans heavily into atmosphere while staying faithful to the game’s core philosophies. It rewards players who enjoy a table that feels alive with myth and mood, without introducing complexity that stalls play. If you’re a GM who loves narrative hooks and a player who appreciates tactile storytelling, Fortune Row is a smart investment. It’s not a mandatory add-on, but it’s one you’ll find yourself reaching for in moments when your session needs a little spark of mythic energy.
+Fortune Row is a delightful addition to the City of Mist hobby that leans into atmosphere while staying faithful to the game’s core philosophies. It rewards players who savor a table that feels alive with myth and mood without introducing complexity that stalls play. If you are a GM who loves narrative hooks and a player who appreciates tactile storytelling, Fortune Row is a smart investment. It is not mandatory, but it is a tool you will reach for during moments when your session needs a spark of mythic energy.
 
-If you’re unsure whether Fortune Row is right for your group, try a half-set first: three dice per player, one mood die for the group, and one wild-card. Go for a session focused on a single arc or a city-wide plot twist. If you come away with a few memorable scenes and a stronger sense of your character’s emotional weather, you’ve done it right.
+If you are unsure whether Fortune Row fits your group, start with a half-set: three dice per player, one mood die for the group, and one wild-card. Run a single arc or a city-wide plot twist and see if you hear more narratively evocative lines around the table. If you close the session with a handful of memorable scenes and a stronger sense of your character’s emotional weather, you have earned an exhale and a second cup of coffee.
 
 
 ## Where to Start: A Quick Setup Guide
 
 1) Decide your fortune archetypes. Pick two to four archetypes that reflect your group’s preferred moods: luck, danger, truth, ruin, and resilience are a good starting quartet.
-2) Pick your materials. Resin glow dice for scenes with neon-noir energy, wood dice for grounded, intimate moments.
+2) Pick your materials. Resin glow dice for neon-noir energy, wood dice for grounded intimate moments.
 3) Create simple mappings. Tie each die to a narrative cue. Write a one-line cue card for each die and keep them near the table.
 4) Introduce a small ritual. A brief pre-roll toast or a moment of character reflection can elevate the moment when fortune is on the line.
 5) Integrate with existing rules. Use Fortune Row as a storytelling accelerator rather than a replacement for roleplay or mechanics.
@@ -160,14 +178,13 @@ If you’re unsure whether Fortune Row is right for your group, try a half-set f
 
 ## Postscript: The Geeknite Spirit in Fortune Row
 
-As with many of our favorite tabletop flavor add-ons, the joy of Fortune Row isn’t just in the dice themselves. It’s in the shared moment—the table’s breathing pattern when a die slides into place, the color catching the lamp just so, and the GM leaning into a line that the dice have tipped toward. The dice become a chorus of mood and momentum. The city changes a little bit every time you roll, and that’s what makes it worth trying.
+As with many of our favorite tabletop flavor add-ons, the joy of Fortune Row is less about the dice than the table’s energy. It is the table’s breathing pattern when a die slides into place, the color catching the lamp just so, and the GM leaning into a line the dice have tipped toward. The dice become a chorus of mood and momentum. The city changes a little bit every time you roll, and that is what makes it worth trying.
 
-If you’ve ever wished for a physical embodiment of your character’s luck or curse, Fortune Row is doing something right. It is a playful, well-thought-out homage to the city’s mythic core, with a practical path to bring that myth into your sessions without breaking the pace. It’s the kind of accessory that could redefine your table’s tone without redefining your rules.
-
+If you have ever wished for a physical embodiment of your character luck or curse, Fortune Row is doing something right. It is a playful yet thoughtful homage to the city’s mythic core, with a practical path to bring that myth into sessions without breaking pace. It is the kind of accessory that can redefine your table’s tone without rewriting your rules.
 
 ### References to related content on this site
 
-- City of Mist: Dice Mechanics Deep Dive — a primer on how dice interact with the city’s mythic systems. See {% post_url 2025-11-02-city-of-mist-dice-mechanics.html %}
+- City of Mist: Dice Mechanics Deep Dive — a primer on how dice interact with the citys mythic systems. See {% post_url 2025-11-02-city-of-mist-dice-mechanics.html %}
 - City of Mist: Character Masks and Arcs — how to design your mythic persona and tie it to narrative momentum. See {% post_url 2024-06-18-city-of-mist-character-masks-arcs.html %}
 
 **Buy Fortune Row Custom Dice now and roll with the mood of the city.**
