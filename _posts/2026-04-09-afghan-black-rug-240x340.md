@@ -1,5 +1,5 @@
 ---
-title: 'Afghan Black Rug 240x340 Review: A Geeknite Take on Wool, Warps, and Wow (Updated)'
+title: 'Afghan Black Rug 240x340 Review: A Geeknite Extended Take on Wool, Warps, and Wow (Updated)'
 date: 2026-04-09
 tags:
   - rug
@@ -12,6 +12,8 @@ tags:
   - handmade
   - wool
   - durability
+  - underlay
+  - styling
 ---
 
 ![Afghan Black Rug 240x340]({{ site.baseurl }}/assets/images/afghan-black-rug-240x340.jpg)
@@ -58,11 +60,28 @@ Spills happen to the best of us. For liquids, the key is to blot, not rub. Use a
 
 It is worth noting that for tough stains a professional cleaner with experience in wool and handmade rugs is the best choice. They understand the weave and know how to treat the fibers without distorting the knot or color. If you are in a shared space such as a home with multiple occupants, mark the rug care schedule on your calendar so everyone knows the rotation plan.
 
+### Colorfastness, sun, and seasonal care
+Direct sun can fade the color of wool over years. If your room is bathed in sunlight for most of the day, consider rotating the rug seasonally or investing in UV-blocking window treatments. A professional rug cleaner can also advise on colorfastness boosters for wool; this is a good idea if you live in a high-heat or high-sun climate.
+
+### Underlay and padding
+A good rug pad is not a luxury; it is a life support system for your Afghan rug. A dense felt pad adds cushioning, reduces wear, and helps keep the rug in place on hard floors. A rubberized non-slip pad is a great option if you have a slippery surface such as polished wood. For large sizes like 240x340, a multi-zone pad can help distribute weight evenly and prevent creasing. If you want to preserve pile height, look for a pad that does not compress too aggressively in high-traffic areas.
+
+### Pet friendliness and everyday life
+Pets bring chaos and charm in equal measure. The wool pile is relatively resistant to pet hair and can shed less than low-pile synthetics, but claws can still snag if the knots are finer. Regular short brushing or gentle vacuuming in pet zones can help maintain the look. If your cat loves to dig or scratch, consider placing a cat tree or a rug corner protector to deflect attention away from the main field.
+
 ## Why size matters and how 240x340 works with your space
 
 The 240x340 cm size is a strong middle ground that suits many spaces. It is large enough to cover a main seating area, while not so large that it dominates a small room. In a large living space, you can pair the rug with a sectional or a long sofa to define two distinct zones within a single plane. In a smaller room, the rug can become the anchor for a single seating arrangement, with the edges of furniture resting on the rug so that the entire furniture set sits on a shared plane.
 
 In our experience, this size also forces a better furniture layout. It tends to encourage more open traffic patterns and reduces the urge to cram furniture into corners to hide the floor. The rug becomes a stage on which the furniture performs, and you become the director who decides which pillow goes where.
+
+### Placement experiments and room psychology
+Placing a 240x340 rug under a sofa and coffee table changes not just the geometry, but the way people move through the space. It creates a natural boundary that guides conversation and seating balance. A rug this size can also anchor a bed setup in a bedroom, offering a soft landing for toes in the morning and a warm stepping stone to a desk setup for late-night work sessions.
+
+### Layout ideas by room type
+- Living room with a long sofa: let the rug define the seating zone with the front legs on the rug; the back legs can stay on wood or tile for a breathable feel.
+- Loft or studio: use the rug to create a distinct living area within an open space—one side for lounging, the other for a workspace.
+- Bedroom: place the rug so that the bed sits on the rug’s edge, allowing a warm step out of bed onto wool rather than cold floor.
 
 ## Styling tips for the Afghan black rug 240x340
 
@@ -77,7 +96,6 @@ Consider these practical styling ideas:
 - If you have a bold art piece in the room, the rug can act as a quiet base, letting the art shine.
 
 If you want to see more rug styling ideas, check out our post on modern rug styles [Modern Rug Styles]({% post_url 2024-11-20-modern-rug-styles %}) or the classic rug care tips [Rug care 101]({% post_url 2025-01-12-rug-care-101 %}). For more general style tips, our guide to room transformation can be found in [Transform your space]({% post_url 2022-08-04-transform-your-space %}).
-
 External inspiration: you can also browse rug design trends from reputable sources like [The Spruce rug trends](https://www.thespruce.com).
 
 ## Durability, value, and how to decide if this rug is for you
@@ -86,9 +104,11 @@ Durability in handmade wool rugs is a function of fiber, weave, density, and the
 
 In terms of value, you get a lot for your money if you approach the purchase as a long term investment. A well made handmade rug in wool can outlast many of the other components of a living room, including the sofa and the coffee table. Of course, you should consider the total cost of ownership, including potential professional cleaning every few years depending on usage, against the price you paid. If you buy smart, you may not need to replace this rug for decades.
 
-## Where to buy and price considerations
+## Underlay, installation, and price considerations
 
-You can find Afghan black 240x340 rugs from a variety of sources, including dedicated rug stores and online marketplaces. You will often see the size listed as 240 by 340 cm. The price will depend on the exact knot density, pile height, the complexity of the pattern, and the provenance of the wool. Expect a spectrum from mid hundreds to the low thousands for genuine handmade pieces. The price is not always a measure of quality, but it is a helpful indicator, especially if you are shopping in the handmade category where price often correlates with the labor involved.
+A proper underlay is critical for longevity. A high-quality rug pad reduces wear, prevents bunching, and helps the dark field pop with clarity. For large formats like 240x340, consider a multi-zone pad to prevent sagging in the center and to maintain a flat, showroom-like appearance. Installation is straightforward for most homeowners: unroll, place, and adjust. Avoid sliding the rug across the floor surface to minimize fiber abrasion at the edges.
+
+You can find Afghan black 240x340 rugs from a variety of sources, including dedicated rug stores and online marketplaces. The price will depend on knot density, pile height, the complexity of the pattern, and the provenance of the wool. Expect a spectrum from mid hundreds to the low thousands for genuine handmade pieces. The price is not always a measure of quality, but it is a helpful indicator, especially if you are shopping in the handmade category where price often correlates with labor involved.
 
 When shopping, verify the loom method and check for a certificate of authenticity when possible. This is a handmade product, so minor variations from one piece to another are both natural and part of its charm. If you want to compare options, check our article on rug buying basics [Rug buying basics]({% post_url 2023-09-15-rug-buying-basics %}) to understand what to look for beyond price.
 
