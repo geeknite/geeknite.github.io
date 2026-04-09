@@ -1,7 +1,7 @@
 ---
-title: EXPLODING KITTENS: The Streaking Kittens Expansion
+ttitle: EXPLODING KITTENS: The Streaking Kittens Expansion
 date: 2026-04-09
-tags: [games, card-games, exploding-kittens, expansions, humor]
+tags: [games, card-games, exploding-kittens, expansions, humor, party-games]
 ---
 
 ![Streaking Kittens Expansion Artwork]({{ '/assets/images/streaking-kittens-expansion.jpg' | relative_url }})
@@ -9,7 +9,7 @@ tags: [games, card-games, exploding-kittens, expansions, humor]
 ## Overview
 If you thought Exploding Kittens had peaked, buckle up, because the Streaking Kittens Expansion storms the party like a cat with a double espresso and a laser pointer. In Geeknite fashion, we approach this expansion with equal parts scientific curiosity and reckless giggling. The Streaking Kittens Expansion is not just more cards; it’s a re-tuning of chaos, a slightly wobbly, neon-lit lens that makes a familiar game feel new enough to reintroduce it to veterans and bait newcomers who thought “kayfabe” was a wrestling term for the snack aisle.
 
-For long-time fans, this set adds a splash of extra chaos without mutating the core DNA. For newcomers, it can seem like stepping into a cat-collecting, card-slapping carnival where you’re trying not to trip over your own laughter. The expansion’s core idea is simple: amplify the tempo, reward risky plays, and occasionally reward you for doing something so ridiculous that you forget you’re playing a strategy game and remember you’re playing with kittens in funny hats. It’s chaotic brilliance wrapped in pastel snark and a little glitter.
+For long-time fans, this set adds a splash of extra chaos without mutating the core DNA. For newcomers, it can feel like stepping into a cat-collecting, card-slapping carnival where you’re trying not to trip over your own laughter. The expansion’s core idea is simple: amplify the tempo, reward risky plays, and occasionally reward you for doing something so ridiculous that you forget you’re playing a strategy game and remember you’re playing with kittens in funny hats. It’s chaotic brilliance wrapped in pastel snark and a little glitter.
 
 If you’re curious about how this expansion slots into an existing Exploding Kittens collection, you can peek at my previous exploration [Exploding Kittens Review]({% post_url 2024-08-15-exploding-kittens-review %}) for a baseline. For a broader sense of where this fits in the board game hobby, the Official Site is a good anchor: [Official Exploding Kittens](https://www.explodingkittens.com/). And yes, this is the kind of thing you’ll want to read before the next game night, preferably with a beverage that also has a kitten on the label.
 
@@ -111,9 +111,8 @@ For groups that prefer a calmer pace or a more strategic approach, you may want 
 If you’re curious about how it stacks up to other expansions in the Exploding Kittens universe, consider sampling both the base game and a couple of expansion experiences to discover which mix best fits your crew. The result should be a night full of laughter, learning, and enough missed counters to justify a few extra cups of coffee or tea to stay awake for the finale.
 
 ## Final thoughts
-Streaking Kittens is the kind of expansion that reminds you why you started playing these games in the first place: to enjoy friends, mischief, and the ridiculous feeling of narrowly escaping disaster while your own plan collapses in a spectacular, meme-worthy fashion. It respects the original while offering a playful nudge toward faster rounds, bigger reactions, and more shared stories. The only thing you’ll need after a session is a towel for the tears of laughter and a mop for the glitter that somehow has invaded every corner of your living room.
+Streaking Kittens is the kind of expansion that reminds you why you started playing these games in the first place: to enjoy friends, mischief, and the ridiculous feeling of narrowly escaping disaster while your own plan collapses in a spectacular, meme-worthy fashion. It respects the original while offering a playful nudging toward faster rounds, bigger reactions, and more shared stories. The only thing you’ll need after a session is a towel for the tears of laughter and a mop for the glitter that somehow has invaded every corner of your living room.
 
 If you want to grab a copy and spread the chaos, consider using our affiliate link below to support Geeknite. It helps us keep making goofy but useful content without selling your soul to the algorithm.
 
-**Affiliate link to purchase: https://affiliates.geeknite.example.com/exploding-kittens-streaking-kittens**
-
+**Grab it here and support Geeknite: https://affiliates.geeknite.example.com/exploding-kittens-streaking-kittens**
