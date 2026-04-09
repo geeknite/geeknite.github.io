@@ -13,7 +13,7 @@ tags:
 
 # Express Modular Workstation for Team Collaboration
 
-In the wild jungle of whiteboards, sticky notes, and the endless ritual of stand-up meetings, there strides a solution that promises both order and a dash of sci-fi pizzazz: the Express Modular Workstation. This is not your grandma’s clattering desk with a suspicious coffee ring; this is a modular, configurable fortress designed for teams that want to share ideas, not elbow each other out of the way. If your crew needs to sprint from stand-up to sprint review without morphing into a human Jenga tower, you’ve found your furniture soulmate. If you’re perfectly content with a lonely corner-desk existence, well, we’ll still be friends—just with a lot less aisle-dance energy.
+In the wild jungle of whiteboards, sticky notes, and the ritual of stand-up meetings, there strides a solution that promises both order and a dash of sci-fi pizzazz: the Express Modular Workstation. This is not your grandma’s clattering desk with a suspicious coffee ring; this is a modular, configurable fortress designed for teams that want to share ideas, not elbow each other out of the way. If your crew needs to sprint from stand-up to sprint review without morphing into a human Jenga tower, you’ve found your furniture soulmate. If you’re perfectly content with a lonely corner-desk existence, well, we’ll still be friends—just with a lot less aisle-dance energy.
 
 ## What is the Express Modular Workstation? A quick primer
 
@@ -99,10 +99,11 @@ A modern team relies on docking stations, external displays, and sometimes a pri
 We paired two 27" 4K monitors on one side and used a wall of widgets on the other side. The result was a pleasing blend of solo focus and group collaboration. A central whiteboard wall kept the team’s backlog and doodles visible, while the surrounding decks allowed side conversations and mini-breakout sessions without people shouting across the room.
 
 To keep collaboration modern, we connected the workstation to the team’s chat hub for instant messaging and file sharing. If you’re curious about cross-pollinating physical spaces with software tools, you can check out these internal references:
-- [The Great Desk War: Ergonomics Edition]({% post_url 2024-02-01-the-great-desk-war-ergonomics-edition.md %})
-- [Cable Chaos: Taming the Tangled Web]({% post_url 2025-07-10-cable-chaos-taming-the-tangled-web.md %})
+- {% post_url 2024-02-01-the-great-desk-war-ergonomics-edition.md %}
+- {% post_url 2025-07-10-cable-chaos-taming-the-tangled-web.md %}
 
 ### The social side: stand-ups, demos, and spontaneous brainstorms
+
 A modular workstation changes the social math of a team. Stand-ups become more efficient when everyone can easily share the center screen, annotate in real time, and adjust the space without breaking the flow. Impromptu brainstorms are easier when you can slide a panel aside to reveal a whiteboard or mount a shared screen for a quick live design review. You’ll still have jokes about coffee joints and post-its, but now you’ll be able to anchor them to a tangible, upgradable platform rather than a pile of nameless furniture scraps.
 
 ## Aesthetics and atmosphere: color, finishes, and the vibe
@@ -136,4 +137,4 @@ As with any big furniture decision, the best way to know is to test it with your
 
 If you’re shopping for a collaborative upgrade and you believe your team deserves a desk that can actually keep pace with your ideas, the Express Modular Workstation deserves a closer look. It’s not a miracle solution, but it’s one of the few office furniture systems that makes collaboration feel easier rather than more expensive.
 
-**Buy it here: https://affiliate.example.com/express-modular-workstation**
+**Buy it now: https://affiliate.example.com/express-modular-workstation**
