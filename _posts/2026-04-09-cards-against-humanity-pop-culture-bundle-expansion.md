@@ -102,7 +102,7 @@ Compared to other pop culture decks, this bundle tends to stay more balanced, wi
 ### Who might skip it for now
 - Groups that prefer quick, light rounds with broadly accessible humor. The expansion can slow down if a lot of prompts require a minor culture decoding session.
 - Players who hate meme culture with a passion. If you cannot tolerate pop culture jokes for one night, you might want to skip this one or limit prompts to a curated subset.
-- People with budget constraints who would rather save for a larger game night overhaul rather than a themed expansion.
+- People with budget constraints who would rather save for a larger game night overhaul than a themed expansion.
 
 ### Alternatives and companion options
 If you want a different flavor, consider other CAH expansions that emphasize specific themes like classic cinema, television, or absurd humor. You can mix and match to craft a custom experience that suits your group better than any single bundle could. And if you want to go beyond CAH, there are other party games with bold humor and meme saturation that can fill the same space in your evenings.
