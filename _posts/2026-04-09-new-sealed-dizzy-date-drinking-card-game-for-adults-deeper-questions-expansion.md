@@ -8,10 +8,11 @@ tags:
   - adult-games
   - dizzy-date
   - expansion
+  - humor
 ---
 
 ## Overview
-If you thought Dizzy Date was enough to ruin friendships in the most delightful way, the Deeper Questions expansion arrives sealed and ready to tilt the table into chaos. This is not a gentle add-on that asks a few goofy prompts; this is the adult edition of a game that wants to know how you really feel after you have three shots and a questionable hot sauce chaser. In short, it is the extension that turns small talk into a therapy session with punchlines. Whether you are playing with your closest crew or the folks you never planned to drink with, this expansion aims to deliver a new layer of conversation fuel while preserving the fast-paced, chaotic energy Dizzy Date is known for.
+If you thought Dizzy Date was enough to ruin friendships in the most delightful way, the Deeper Questions expansion arrives sealed and ready to tilt the table into chaos. This is not a gentle add‑on that asks a few goofy prompts; this is the adult edition of a game that wants to know how you really feel after you have three shots and a questionable hot sauce chaser. In short, it is the extension that turns small talk into a therapy session with punchlines. Whether you are playing with your closest crew or the folks you never planned to drink with, this expansion aims to deliver a new layer of conversation fuel while preserving the fast-paced, chaotic energy Dizzy Date is known for.
 
 ![Dizzy Date Deeper Questions expansion art](https://example.com/assets/images/dizzy-date-deeper-questions.jpg)
 
@@ -21,7 +22,7 @@ External product page: [Official Dizzy Date Deeper Questions Expansion](https://
 
 ## In the box
 ### What you get
-The Deeper Questions expansion arrives in the same compact box as the original Dizzy Date, only with art that looks like a late night doodle session by a sleep-deprived philosopher. Inside you will find a stack of new question cards, a few rule clarifications, and a handful of penalty cards that escalate when players reveal truly embarrassing secrets. The card stock is sturdy, the corners are rounded, and there is a satisfying weight that says this is not a throwaway add-on. If you like tactile feedback in your tabletop experiences, you will enjoy flipping these cards and watching the laminate gleam under the ceiling light.
+The Deeper Questions expansion arrives in the same compact box as the original Dizzy Date, only with art that looks like a late night doodle session by a sleep-deprived philosopher. Inside you will find a stack of new question cards, a few rule clarifications, and a handful of penalty cards that escalate when players reveal truly embarrassing secrets. The card stock is sturdy, the corners are rounded, and there is a weight to the package that says this is not a throwaway add-on. If you like tactile feedback in your tabletop experiences, you will enjoy flipping these cards and watching the laminate gleam under the ceiling light.
 
 ### Card types
 The expansion categorizes prompts into three broad vibes:
@@ -35,7 +36,7 @@ The expansion is designed to slot right into the original card flow. You pull a 
 ## How to play with the Deeper Questions expansion
 ### Setup
 - Shuffle the new Deeper Questions deck separately and place it within arm's reach of the host.
-- Decide on the drinking or point system you want to use. If you have a mixed group, a simple rule is to assign one sip per honest-but-mifficult-to-answer prompt and a bigger gulp for the more intense prompts.
+- Decide on the drinking or point system you want to use. If you have a mixed group, a simple rule is to assign one sip per honest-but-difficult-to-answer prompt and a bigger gulp for the more intense prompts.
 - If you are a veteran, you can set a maximum number of reveal prompts per round to keep the game from breaking into a deep philosophy seminar.
 
 ### Turn structure
@@ -47,7 +48,7 @@ The expansion is designed to slot right into the original card flow. You pull a 
 ### Drinking rules
 The expansion keeps the drink economy in the foreground but makes room for smarter sips. You can choose among:
 - Sip and reflect: a quiet minute to compose your thoughts after a heavy prompt.
-- Shot of courage: a bigger trigger prompt that necessitates a braver reveal or a ridiculous lie}
+- Shot of courage: a bigger trigger prompt that necessitates a braver reveal or a ridiculous lie
 - Pass the bottle: a social round where players pass a token around, and the one holding it when a question ends up being answered must take a sip.
 
 Note: Always keep water handy, and set a safe word for players who might feel overwhelmed. The goal is fun and connection, not a tour through trauma town after three rounds of a pink lemonade shooter.
@@ -66,14 +67,14 @@ The art style in this expansion maintains Dizzy Date sassy humor with a slightly
 - Silly: Describe your life as a rom-com montage in under 60 seconds, including the cat and the emergency pizza delivery.
 - Reflection: Which friendship do you think has influenced you the most, and what did you learn from them?
 
-## Play styles and strategy tips
-### For new players
+### Play styles and strategy tips
+#### For new players
 If you are new to Dizzy Date, start with the base game prompts and gradually introduce the Deeper Questions deck once the group is comfortable with the flow. Let the room guide the pace; not everyone has to reveal everything in one night, and you can always place a ceiling on intensity. This is a game about storytelling and listening as much as it is about drinking.
 
-### For long time players
+#### For long time players
 If you have played Dizzy Date for a while, you will appreciate the deeper prompts that actually require you to think and listen. Use the expansion to create arcs: one round for confessions, one for a mini debate, and one for a group storytelling chain. The variety helps prevent fatigue and keeps the energy up even after a marathon night.
 
-### House rules to consider
+#### House rules to consider
 - Time box prompts to ensure everyone gets a chance to speak.
 - Tie-breakers for the most entertaining answer instead of the loudest voice.
 - A soft cap on drinks, paired with water breaks fore and after intense prompts.
