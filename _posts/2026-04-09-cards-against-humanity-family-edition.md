@@ -1,6 +1,6 @@
 ---
-ttitle: "Cards Against Humanity: Family Edition — A Geeknite Review"
-date: "2026-04-09"
+title: Cards Against Humanity: Family Edition — A Geeknite Review
+date: 2026-04-09
 tags:
   - board-games
   - cards-against-humanity
@@ -26,7 +26,7 @@ In this review, we’ll dive into what CAH: FE is, what it isn’t, and how to r
 
 ## What is Cards Against Humanity: Family Edition?
 
-Let’s start with the elevator pitch that will make you either nod in nostalgia or grimace politely: CAH: FE is the adult party game you know and love, but the prompts have been edited to be family-friendly. It’s designed for ages 8 and up, though we’d argue that the humor is one of those “adult-friendly in a PG-13, safe-for-table-tears” kind of things. The white cards, which are the answers, typically swing toward silly, wholesome, and surprisingly creative. The black cards—the prompts—range from “Make a sentence with this blank” to “A card that asks for something unexpected”—all in the realm of “fun at the dinner table, not at the guilt-inducing after-dinner coffee talk.”
+Let’s start with the elevator pitch that will make you either nod in nostalgia or grimace politely: CAH: FE is the adult party game you know and love, but the prompts have been edited to be family-friendly. It’s designed for ages 8 and up, though we’d argue that the humor is one of those “adult-friendly in a PG-13, safe-for-table-tears” kind of things. The white cards, which are the answers, typically swing toward silly, wholesome, and surprisingly creative. The black cards—the prompts—range from openings like Make a sentence with this blank to lighthearted prompts that invite unexpected combos—all in the realm of “fun at the dinner table, not at the guilt-inducing after-dinner coffee talk.”
 
 The result is a game that can slot into a family gathering, a casual game night, or a classroom-organized activity with a wink and a nod. It doesn’t demand your most shocking wit; it rewards the most readily deployable, groan-worthy punchlines. The humor leans into clever wordplay and situational comedy rather than shock value, making it accessible to younger players while still delivering those “aha!” moments for grown-ups who remember what a good pun feels like.
 
@@ -34,7 +34,7 @@ The result is a game that can slot into a family gathering, a casual game night,
 
 CAH: FE comes with the standard, battle-tested components you’d expect from the franchise, but retooled for decorous digs around the dining table. Here’s a practical breakdown:
 
-- White cards (the answer cards): They’re shorter than the standard CAH white cards, and the text is scrubbed of explicit content. Expect wacky, quirky, and occasionally surprisingly wholesome phrases. Think lunchtime humor rather than after-hours. 
+- White cards (the answer cards): They’re shorter than the standard CAH white cards, and the text is scrubbed of explicit content. Expect wacky, quirky, and occasionally surprisingly wholesome phrases. Think lunchtime humor rather than after-hours.
 - Black cards (the prompt cards): A handful of prompt styles that lean into family-friendly absurdity, pop culture references, and “what’s the worst thing you could say” style setups—just dialed down to avoid embarrassment over mashed potatoes.
 - Rule sheet: Short, snappy, and perfectly adequate for a quick teach-and-play session.
 - A sturdy storage box: Because you’ll want to hide the evidence of your mid-game giggle fits before the PTA crowd arrives.
@@ -90,10 +90,10 @@ To give you a feel for the rhythm, here’s a tiny mock session written in the s
 
 - Black card: What’s the secret ingredient in grandma’s fruit salad?
 - White card submissions:
-  - A: “Unidentified marshmallow things.”
-  - B: “Three scoops of suspicious sprinkles.”
-  - C: “The ghost of last year’s talent show.”
-- Czar reads them aloud, after which the room erupts in laughter with C and B getting the chorus of “yo-ho-ho that’s weird, but I like it.” The Czar declares B as winner because it’s short, absurd, and somehow both sweet and not. The round ends with the family chanting, “Again! Again!”
+  - A: Unidentified marshmallow things.
+  - B: Three scoops of suspicious sprinkles.
+  - C: The ghost of last year’s talent show.
+- Czar reads them aloud, after which the room erupts in laughter with C and B getting the chorus of yo-ho-ho that’s weird, but I like it. The Czar declares B as winner because it’s short, absurd, and somehow both sweet and not. The round ends with the family chanting, Again! Again!
 
 This kind of micro-play is what CAH: FE is optimized for. Short, repeatable rounds, easy to pick up, and enough room for players to improvise without needing a dictionary of tricky, adult-only references.
 
@@ -151,9 +151,9 @@ If you’re into party games with a dash of pop culture, sharp pacing, and a bia
 
 In Geeknite terms: a solid, entertaining, family-friendly party game that respects the room while delivering big goofy smiles. It’s not pretending to reinvent the wheel; it’s polishing it so your cousin three times removed can join in without fear. If you want a game night that travels smoothly across ages and keeps the vibe positive, Cards Against Humanity: Family Edition is a strong contender.
 
-**Buy it now and unleash the giggles responsibly: https://amzn.to/CAH-Family-Edition- affiliate**
+**Buy it now and unleash the giggles responsibly: https://amzn.to/CAH-Family-Edition-affiliate**
 
-If you’re curious about similar family-friendly party staples, you can swing by our ongoing recommendations: {%% post_url 2024-03-28-family-friendly-party-games %%} and {%% post_url 2025-09-12-board-game-light-essentials %%}.
+If you’re curious about similar family-friendly party staples, you can swing by our ongoing recommendations: {% post_url 2024-03-28-family-friendly-party-games %} and {% post_url 2025-09-12-board-game-light-essentials %}.
 
 ## Final call-to-action
 
