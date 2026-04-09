@@ -1,5 +1,5 @@
 ---
-title: 'Shore Truffle: Modern Hand Tufted Rug Review — Expanded Deep Dive'
+title: 'Shore Truffle: Modern Hand Tufted Rug Review — Expanded Deep Dive (Updated Edition)'
 date: 2026-04-09
 tags:
   - rug
@@ -8,9 +8,12 @@ tags:
   - geeknite
   - product-review
   - modern-rugs
+  - updated
 ---
 
 ![Shore Truffle rug in a sunlit living room](/assets/images/shore-truffle-hero.jpg)
+
+![](/assets/images/shore-truffle-closeup.jpg)
 
 ## Introduction
 
@@ -118,6 +121,18 @@ Families with kids and pets know the drill: carpets take hits, then bounce back.
 
 A lot of our readers ask about pet hair and claw marks. The Shore Truffle does a surprisingly good job at masking cat fur and dog tumble lines thanks to the tonal variation in the pile. It isn’t scratch-proof, of course, but a well chosen fiber blend offers enough resilience that you won’t see immediate pull-throughs after a few weeks of daily paw action.
 
+### Cornered office nooks
+
+A small desk corner can become a design dilemma. Shore Truffle lays a calm base that lets your desk lamp and plant take center stage without clashing. The texture adds a touch of tactile warmth, which helps keep a home office from feeling sterile, especially during long Zoom calls.
+
+### Under a coffee table with wheels
+
+If your coffee table glides or swivels, this rug’s grip on the floor matters. A good rug pad reduces sliding and edge curling. In practice, you won’t notice the pad once the furniture is set, but you will notice when it’s missing as the chair drags the rug edge with every push in and out. Trust the pad.
+
+### Seasonal color chemistry
+
+The Shore Truffle can handle seasonal color shifts in your decor. If you swap pillow covers from olive to burnt orange or switch a blanket from deep navy to cream, the rug’s marled depth remains an anchor. It does not compete, which is exactly what you want when you are juggling multiple textiles in a shared space.
+
 ## Care and longevity: pro tips
 
 - Vacuum regularly on a low setting. Avoid high suction that can pull fibers loose.
@@ -155,17 +170,17 @@ If you want a direct line to more rug nerdiness, check out the modern rug matrix
 
 ## Real-world testing, extended: more scenarios
 
-### Cornered office nooks
+### Seasonal and accidental spill simulations
 
-A small desk corner can become a design dilemma. Shore Truffle lays a calm base that lets your desk lamp and plant take center stage without clashing. The texture adds a touch of tactile warmth, which helps keep a home office from feeling sterile, especially during long Zoom calls.
+We ran a rogue test involving a spill of merlot during a mock dinner party and a cat sprint test to simulate daily life. The results were reassuring: merlot blotting worked with a mild detergent, and the marled texture helped conceal minor spatters that would have screamed crime-scene on a flat weave. The cat sprint test revealed that while the fiber can be pried a tad, the pile resilience and density recovered quickly after the sprint. The lesson: this rug forgives you for human moments and furry chaos alike.
 
-### Under a coffee table with wheels
+### Hallway runner potential
 
-If your coffee table glides or swivels, this rug’s grip on the floor matters. A good rug pad reduces sliding and edge curling. In practice, you won’t notice the pad once the furniture is set, but you will notice when it’s missing as the chair drags the rug edge with every push in and out. Trust the pad.
+While Shore Truffle is marketed in larger formats, many readers ask about using it as a hallway runner. It can work in longer, narrower spaces if you pair it with a minimal console and consistent lighting. The key is ensuring the edges are secured with a good pad or double-sided tape specifically rated for rug edges to avoid curling at the ends.
 
-### Seasonal color chemistry
+### Kids and play zones
 
-The Shore Truffle can handle seasonal color shifts in your decor. If you swap pillow covers from olive to burnt orange or switch a blanket from deep navy to cream, the rug’s marled depth remains an anchor. It does not compete, which is exactly what you want when you are juggling multiple textiles in a shared space.
+Kids will drag toys and spill snacks; the marled fiber helps hide crumbs and light stains, and the plush surface offers a forgiving landing zone for crawl-to-stand drills. A quick reminder: choose a size that allows ample play space and keeps pathways clear to prevent accidental door-dash collisions with the sofa legs.
 
 ## Final verdict and recommendation
 
