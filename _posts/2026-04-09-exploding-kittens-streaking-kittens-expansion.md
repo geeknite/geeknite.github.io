@@ -1,5 +1,5 @@
 ---
-title: EXPLODING KITTENS: The Streaking Kittens Expansion
+title: EXPLODING KITTENS: The Streaking Kittens Expansion (Updated Review)
 date: 2026-04-09
 tags: [games, card-games, exploding-kittens, expansions, humor, party-games]
 ---
