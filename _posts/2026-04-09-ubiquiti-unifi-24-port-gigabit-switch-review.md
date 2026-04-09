@@ -1,26 +1,29 @@
 ---
-title: Ubiquiti UniFi 24 Port Gigabit Switch Review
+title: Ubiquiti UniFi 24 Port Gigabit Switch Review (Updated)
 date: 2026-04-09
 tags:
   - Networking
   - Ubiquiti
   - Unifi
   - Review
+  - Geeknite
+  - HomeLab
+  - PoE
 ---
 
 ## Introduction
-If your home lab or tiny business network were a party, the Ubiquiti UniFi 24 Port Gigabit Switch would be the bouncer who actually knows everyone’s name and remembers who brought the snacks. It’s not flashy like a router with edge lighting, but it’s the workhorse you pretend you don’t depend on until your NAS starts exporting data at coffee break speeds. The UniFi line has a knack for turning network gear into a centralized, manageable ecosystem, and the UniFi 24 Port Gigabit Switch (often seen as US-24 or US-24-250W in the wild) is one of the most popular mid-range options for folks who want PoE options without getting into the 48-port megaphone of doom.
+If your home lab or tiny business network were a party, the Ubiquiti UniFi 24 Port Gigabit Switch would be the bouncer who actually knows everyone’s name and remembers who brought the snacks. It’s not flashy like a router with edge lighting, but it’s the workhorse you pretend you don’t depend on until your NAS starts exporting data at coffee-break speeds. The UniFi line has a knack for turning network gear into a centralized, manageable ecosystem, and the UniFi 24 Port Gigabit Switch (often seen as US-24 or US-24-250W in the wild) is one of the most popular mid-range options for folks who want PoE options without getting into the 48-port megaphone of doom.
 
-In this review, we’ll explore what makes the UniFi 24 Port Gigabit Switch tick, what it does well, what it doesn’t, and how it stacks up against its siblings in the UniFi family. Spoiler alert: it’s a sturdy, quiet, and reasonably priced piece of hardware that plays nicely with the rest of the UniFi ecosystem. If you’ve been eyeing a way to power cameras, APs, and a small fleet of PoE devices without sacrificing management quality, you’re in the right chorus.
+In this updated review, we’ll dive deeper into what makes the UniFi 24 Port Gigabit Switch tick, what it does well, what it doesn’t, and how it stacks up against its siblings in the UniFi family. Spoiler: it’s a sturdy, quiet, and reasonably priced piece of hardware that plays nicely with the rest of the UniFi ecosystem. If you’ve been eyeing a way to power cameras, APs, and a small fleet of PoE devices without sacrificing management quality, you’re in the right chorus.
 
-We’ll also drop some nerdy benchmarks, a handful of setup tips, and a few jokes to keep the vibe Geeknite (and not a data center diary). For visual learners, we’ve included a couple of images to give you a sense of scale and build quality. For the beige-gear folks who want numbers and graphs, we’ve sprinkled some general performance notes that won’t bore you into a firmware upgrade.
+We’ll sprinkle in practical benchmarks, setup tips that avoid turning your rack into a science fair project, and a few jokes to keep the vibe Geeknite (and not a data-center diary). For visual learners, there are images to give you a sense of scale and build quality. For the beige-gear folks who want numbers and graphs, we’ve included practical notes that won’t require a firmware upgrade to understand.
 
 > If you want a quick taste of the product page, check out the official UniFi Switch 24-250W page for details and up-to-date specs: https://store.ui.com/products/unifi-switch-24-250w. For a developer-y deep dive into the switching hardware and features, the UniFi help docs are where the user manuals live: https://help.ui.com/hc/en-us/articles/204713035-UniFi-Switch.
 
-![UniFi 24-Port Switch](assets/images/ubiquiti-us24.jpg)
+![UniFi 24-Port Switch]({{ '/assets/images/ubiquiti-us24.jpg' | relative_url }})
 
-### What you’ll get with the UniFi 24 Port Gigabit Switch
-The UniFi 24 Port is a compact, fanless (in the non-PoE variant) or quiet-cooled (PoE budget variants) Layer 2 switch designed to sit in a rack or on a shelf and happily dispatch frames between 24 wired devices. The core promise is clear: reliable, scalable switching that you can manage from the same controller you already use for your access points and cameras. It’s like the nerdy but lovable head of a very efficient communications department.
+### What you’ll get with the UniFi 24 Port Gigabit Switch (Updated outlook)
+The UniFi 24 Port remains a compact, fanless (in the non-PoE variant) or quiet-cooled (PoE budget variants) Layer 2 switch designed to sit in a rack or on a shelf and happily dispatch frames between 24 wired devices. The core promise is still: reliable, scalable switching that you can manage from the same controller you already use for your access points and cameras. It’s like the nerdy but lovable head of a very efficient communications department.
 
 In practice, you get 24 gigabit Ethernet ports, with the option to configure PoE on some models to power compatible devices directly from the switch. The uplinks typically come in the form of SFP ports (for fiber or higher-speed uplinks), which means you can attach it to a fiber backbone or a higher-bandwidth link without pulling a 10G copper cable just yet. The chassis is metal, the vents are sensible, and the overall design aims to disappear into your rack rather than demand constant attention.
 
@@ -39,7 +42,7 @@ The port density is solid: 24 ports means you can connect a few APs, a couple of
 
 ## Features that matter in practice
 ### L2 switching features and VLANs
-The UniFi 24 Port brings a robust set of Layer 2 features: VLAN tagging, port-based VLANs, voice VLANs, link aggregation (where supported), and quality of service (QoS) rules that let you prioritize traffic for APs, VoIP phones, or streaming devices. It’s not a router, so you’re not performing inter-VLAN routing on the switch itself, but you’ll find the VLAN tooling intuitive and well integrated with the UniFi Controller.
+The UniFi 24 Port brings a robust set of Layer 2 features: VLAN tagging, port-based VLANs, voice VLANs, link aggregation (where supported), and quality of service (QoS) rules that let you prioritize traffic for APs, VoIP phones, or streaming devices. It’s not a router, so inter-VLAN routing happens on the router, but you’ll find the VLAN tooling intuitive and well integrated with the UniFi Controller.
 
 If you’re building a segmented network for security or performance reasons, the ability to tag traffic and quarantine devices within VLANs is essential. The controller’s GUI makes it straightforward to define VLANs, assign them to ports, and monitor who’s talking to whom. It won’t do full network automation on its own, but it plays well with other UniFi gear when you want to stitch a multi-device network together.
 
