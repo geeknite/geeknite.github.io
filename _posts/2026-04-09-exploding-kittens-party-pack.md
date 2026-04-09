@@ -1,5 +1,5 @@
 ---
-ttitle: Exploding Kittens: Party Pack — A Geeknite Review (Redux)
+title: Exploding Kittens Party Pack: Play with up to 10 Players! Family Card Game — Geeknite Redux Review
 date: 2026-04-09 12:00:00 -0000
 tags: [board-games, party-games, humor, review, chaos, cat-cards]
 ---
@@ -103,6 +103,9 @@ The Party Pack nails the tension between luck and social manipulation. The desig
 - The Quick Night Rule: For a hyper-short session, remove some of the longer interaction cards and limit the number of rounds. You’ll still get the chaos and the laughs, but you’ll finish faster.
 - The Narrator’s Cut: Assign a storyteller each round who must narrate any significant move. This stretches the comedic potential and gives players who love performance a lot of stage time.
 - The Safe Mode: If you’ve got a family with younger players, you can limit the more risqué humor and replace it with kid-friendly variants that still deliver laughs.
+
+### The Quick Night Rule, Expanded
+If you’re hosting a three-hour game night and want to squeeze in two full rounds with maximum chaos, you can drop See the Future variants and reduce the number of Defuse cards slightly to keep the risk high but the turn-rate brisk. The idea is to preserve that adrenaline spike without dragging everyone into a drafting room for strategic planning. It’s chaos, but you’re the DJ managing the beat rather than a boardroom doing a quarterly planning retreat.
 
 ## Final Verdict: Who Should Buy Exploding Kittens: Party Pack
 - For party-night crews who want an upbeat, chaotic game that’s easy to explain, this is a slam dunk.
