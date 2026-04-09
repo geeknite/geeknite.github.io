@@ -1,5 +1,5 @@
 ---
-title: The Mind Card Game: Pandasaurus's Family-Friendly Mind-Bend
+title: The Mind Card Game: Pandasaurus's Family-Friendly Mind-Bend (Updated)
 date: 2026-04-09
 tags:
   - board games
@@ -7,15 +7,16 @@ tags:
   - family-friendly
   - pandasaurus
   - cooperative
+  - modern-family-games
 ---
 
 ## Introduction
 
 When the dinner-table trembles with the tremor of a thousand kid-friendly cartoon fragments and the grown-ups suddenly remember they still own two decks of cards, a hero emerges from the box: The Mind Card Game by Pandasaurus. It is the kind of family-friendly game that looks simple enough to explain in under a minute and clever enough to keep adults grinning through the last round. Think of it as a cooperative puzzle dressed in bright colors, where the objective is not to “win” in the traditional sense but to ride the wave of focus with your fellow players until the table breathes as one. And yes, there is a secret joy in realizing you can be quiet for a whole game and still feel like you crushed it with teamwork.
 
-This review is a measured, geeky deep-dive into what makes this title work, where it falters, and how it slots into a family game night without turning your living room into a battlefield. If you’ve ever wanted a game that’s fast, friendly, and slightly mischievous in the best possible way, keep reading. If not, there is always the option to claim you were born in the wrong era and start a long, dramatic monologue about the glory of silent coordination—your audience might thank you for it later.
+This updated take digs into how the design nudges players toward calm suspense, how the pacing lands in real households, and where the game nudges past the edge of “soft” into “quietly tense.” If you’ve ever wanted a game that’s fast, friendly, and delightfully mischievous in the best possible way, keep reading. If not, there is always the option to claim you were born in the wrong era and start a long, dramatic monologue about the glory of silent coordination—your audience might thank you for it later.
 
-![The Mind Card Game cover](/assets/images/the-mind-card-game-cover.jpg)
+![The Mind Card Game cover]({{ '/assets/images/the-mind-card-game-cover.jpg' | relative_url }})
 
 For fans of the Geeknite voice and long, goofy tangents about game feel, this title checks a lot of boxes: approachable, social, and surprisingly tense in a calm, almost zen way. It’s the kind of game that gets better with repeat plays, especially as players learn to read the table without a single whispered syllable. If you want more background on the design choices behind family-friendly co-ops, you can check our older post on minimalist co-ops here: {% post_url 2025-11-03-family-games-roundup %} and a piece on silent coordination here: {% post_url 2024-07-19-solo-to-coop-learning %}.
 
@@ -92,7 +93,7 @@ If you’re shopping for a light, approachable co-op that still delivers tension
 External links and further reading
 
 - Official Pandasaurus product page: https://pandasaurusgames.com/
-- The Mind Card Game — reviews and community discussions: https://boardgamegeek.com/boardgame/279637/the-mind-card-game (placeholder slug)
+- The Mind Card Game — reviews and community discussions: https://boardgamegeek.com/boardgame/279637/the-mind-card-game
 - Our related family game content: {% post_url 2025-11-03-family-games-roundup %} {% post_url 2024-12-15-designing-family-games %}
 
 ### Final recommendation
