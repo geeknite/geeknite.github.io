@@ -10,7 +10,6 @@ tags:
   - World War II
   - Open World
 ---
-
 ![The Saboteur cover]({{ '/assets/images/the-saboteur-ps3-cover.jpg' | relative_url }})
 
 Welcome back to Geeknite’s rain-soaked, color-splashed alleyway of a review. If you remember The Saboteur—the PS3 launch-era curiosity that tried to be a colorized melodrama and a free-roaming WWII playground all at once—this updated take is for you. If you missed it, consider this a friendly, slightly caffeinated entry point into a game that wears its ambitions like a trench coat: big, a little ridiculous, and somehow charming enough to keep you turning the page (or, you know, the controller).
