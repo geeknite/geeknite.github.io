@@ -1,5 +1,5 @@
 ---
-title: "Dixit Family Board Game: A Picture is Worth a Thousand Words (New Sealed)"
+title: 'Dixit Family Board Game: A Picture is Worth a Thousand Words (New Sealed)'
 date: 2026-04-09 12:00:00 -0000
 tags:
   - board games
@@ -11,9 +11,11 @@ tags:
 
 # Dixit Family Board Game: A Picture is Worth a Thousand Words (New Sealed)
 
+![Dixit cards spread]( /assets/images/dixit-cards-spread.jpg )
+
 If you ever wondered what happens when art school and a party game get trapped in the same room, Dixit happened. And it brought a deck of dreamlike images that could start a storytelling revolution in a coffee-fueled living room. Today we’re taking a thorough, slightly sarcastic stroll through a brand-new, still-sealed copy of the classic Dixit. The box is pristine, the cards are whispering stories to you from inside their plastic cocoon, and your group chat just exploded with enthusiastic groans and giggles. Let’s dive into why this game has endured the test of time, and why your next game night probably needs a little more surreal imagery and a lot more imagination.
 
-## Opening the Box: Unboxing a New Sealed Dixit
+## Opening the Box: A Pristine Portal to Imagination
 
 First impressions matter, and a sealed Dixit box is not quiet about it. The box looks friendly enough for a family with its soft pastel greens and whimsical font, but then you open it and discover something that makes you feel like a magician unveiling a trick:
 
@@ -111,7 +113,7 @@ In the end, you’re not just playing a game; you’re co-authoring a tiny, ephe
 
 ## Where to Learn More and What to Do Next
 
-- Explore the base Dixit experience and consider expansions if your group wants more imagery and more story prompts. 
+- Explore the base Dixit experience and consider expansions if your group wants more imagery and more story prompts.
 - If you enjoyed this review, check out other genre-spanning party games on the site and compare notes on what makes a storytelling game sing.
 - For players who want a slightly moodier vibe, cross over to Mysterium and feel the tension between deduction and dreamlike imagery.
 
