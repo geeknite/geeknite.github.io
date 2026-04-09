@@ -1,11 +1,11 @@
 ---
-ttitle: Skip-Bo: Mattel's Sequencing Card Game for Ages 7+ — Geeknite's Fresh Take
+title: Skip-Bo: Mattel's Sequencing Card Game for Ages 7+ — Geeknite's Fresh Take (Updated)
 date: 2026-04-09
-tags: [geeknite, games, card-games, family-games, skip-bo, mattel, review, sequencing, family-night]
+tags: [geeknite, games, card-games, family-games, skip-bo, mattel, review, sequencing, family-night, updated]
 ---
 
 ## Introduction
-Skip-Bo. The game that teaches you patience while also slinging wild cards like a tiny card shark in a cardigan. Mattel's Skip-Bo has stayed a staple in many family game drawers, not because it's the most complex brain workout on the shelf, but because it scratches a surprisingly clever itch: sequencing, speed, and table-talk drama all wrapped in a cheerful, family-friendly bow. This fresh Geeknite revisit leans into the heart of why Skip-Bo works, how the components hold up after years of casual abuse, and how you can turn a routine night into a mini chaotic operetta of planning and bluffing.
+Skip-Bo. The game that teaches patience while also slinging wild cards like a tiny card shark in a cardigan. Mattel's Skip-Bo has stayed a staple in many family game drawers, not because it's the most complex brain workout on the shelf, but because it scratches a surprisingly clever itch: sequencing, speed, and table-talk drama all wrapped in a cheerful, family-friendly bow. This updated Geeknite take leans into the heart of why Skip-Bo works, how the components hold up after years of casual abuse, and how you can turn a routine night into a mini chaotic operetta of planning and bluffing.
 
 ![Skip-Bo box art]({{ site.baseurl }}/assets/images/skipbo-box.jpg)
 
@@ -29,9 +29,11 @@ Skip-Bo’s packaging is a cheerful, almost neon invitation to play. Inside you�
 
 Build quality sits in that sweet Mattel sweet spot: sturdy cards, clear typography, artwork that radiates sunshine without needing sunglasses. The card stock holds up to enthusiastic chair-slamming, snack-fueled table chatter, and the occasional kid who treats the table like a launchpad for rocket-like throws. The rulebook is compact, approachable, and surprisingly readable for non-gamers, which is a rare treat in a hobby that loves its long-winded rule explanations.
 
+A quick nod to accessibility in print: the numbers are large-ish, the symbols are distinct, and the overall layout minimizes frantic hunting for the right card. If you’ve got a table with a few colorblind players, consider labeling stock piles with bold numerals or using high-contrast sleeves to keep everyone in the running.
+
 ## How to play: a primer for the tabletop commander in you
 The engine of Skip-Bo is tempo management and flexible planning. The rules are straightforward, designed for quick rounds rather than encyclopedia-length tomes. Here’s the expanded version without burying you in fine print:
-- Each player starts with a stock pile, face-down. The top card reveals your starting count.
+- Each player starts with a stock pile, face-down. The top card reveals your starting count. If you’re lucky, that top card is a celebratory number; if you’re unlucky, you get to title the next round as “the shall-not-be-named number.”
 - The goal is to discard your stock pile by playing cards onto the central build piles in ascending order (1, 2, 3, … 12).
 - You can play any eligible card from your hand or your discard piles onto the build piles.
 - Skip-Bo wild cards can stand in for any number, a lifeline when you’re staring at stubborn sequences.
