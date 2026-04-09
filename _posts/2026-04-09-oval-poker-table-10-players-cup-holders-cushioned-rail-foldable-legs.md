@@ -41,6 +41,7 @@ The foldable legs unlock the table’s portability game. It folds down to a mana
 Build quality and materials
 
 What’s the table top made of?
+
 The top features a durable, wipe-clean surface with a faux-leather feel that resists sweat, beer foam, and the occasional ketchup mishap. It’s not genuine leather, obviously — we’re not in a fantasy realm where every table is a dragon-skin masterpiece — but the textured surface gives a premium vibe without the luxury-price runaround. The cushions are EVA foam with a pleasant density that doesn’t compress to a hollow echo after a long night. The cup holders and rail integrate seamlessly, with seam lines that hide minor scuffs gracefully. If you’re worried about long-term wear, you can flip the table’s underside struts to even out weight distribution and reduce flex when you’re on the final river card.
 
 Materials and durability
@@ -110,11 +111,11 @@ Images
 
 For a closer look, here are a few images from various angles to help you imagine the table in your own game room:
 
-![](/assets/images/oval-poker-table-hero.jpg "Oval Poker Table – Hero View")
+![](/assets/images/oval-poker-table-hero.jpg)
 
-![](/assets/images/oval-poker-table-side-view.jpg "Oval Poker Table – Side View with Cup Holders")
+![](/assets/images/oval-poker-table-side-view.jpg)
 
-![](/assets/images/oval-poker-table-legs-folded.jpg "Oval Poker Table – Folded Legs Demonstration")
+![](/assets/images/oval-poker-table-legs-folded.jpg)
 
 External links and references
 
