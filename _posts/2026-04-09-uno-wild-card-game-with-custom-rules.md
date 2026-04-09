@@ -1,5 +1,5 @@
 ---
-title: Uno Wild Card Game with Custom Rules
+title: Uno Wild Card Game with Custom Rules - Expanded Edition
 date: 2026-04-09
 tags:
   - Uno
@@ -11,15 +11,15 @@ tags:
 
 ## Introduction
 
-Welcome to the living room battlefield where the table is the arena and the UNO deck is the weapon of choice. In Geeknite fashion we take a beloved classic and fuse it with house rules so wild that even your neighbor who swears by math will pause to count cards and laugh at the chaos. This is not a dry handbook on card distribution; this is a field report from the lab of late night game nights where we test new rules, argue about color choices, and discover that the real power of UNO is not who wins, but who survives the silence while everyone tries to remember if stacking plus two cards is a thing you can do without starting a mutiny.
+Welcome back to the living room battlefield where the coffee table is a battlefield, the couch is a trench, and the UNO deck is the weapon of choice. In Geeknite fashion we take a beloved classic and fuse it with house rules so wild that even your neighbor who swears by math will pause to count cards and laugh at the chaos. This is not a dry handbook on card distribution; this is a field report from the lab of late night game nights where we test new rules, argue about color choices, and discover that the real power of UNO is not who wins, but who survives the silence while everyone tries to remember if stacking plus two cards is a thing you can do without starting a mutiny.
 
 To be clear from the start, this is a guide for playing UNO with custom rules that you can adopt, adapt, or completely ignore in favor of pure clownery. If you want something closer to a sober board game experience, you can stick with the classic rules and pretend this article never happened. For everyone else who enjoys a splash of chaos with their snacks, this is your manual. We will cover the core components, a toolkit of house rules, practical playtests, and the social science of why kids games become epic when unbounded by the strictures of tradition.
 
-![Uno Wild Cards]( /assets/images/uno-wild-cards.jpg)
+![Uno Wild Cards]({{ '/assets/images/uno-wild-cards.jpg' | relative_url }})
 
-## What makes UNO a candidate for custom rules
+## Why UNO deserves a playground of house rules
 
-UNO is already a social experiment wrapped in a deck of colorful cards. It works because it provides just enough structure to prevent outright anarchy while leaving room for interpretive play. A set of custom rules can turn pickup lines into strategy, and strategy into hilarious derailment. The core mechanic of matching color or number remains, but the added rules turn a simple color run into a roller coaster of penalties, reversals, and dramatic last card moments. We are not here to rewrite the game from scratch; we are here to tinker, to balance, and to inject a little nerdy flavor that makes every hand feel like a boss fight.
+UNO is already a social experiment wrapped in a deck of colorful cards. It works because it provides just enough structure to prevent outright anarchy while leaving room for interpretive play. A set of custom rules can turn pickup lines into strategy, and strategy into hilariously derailed moments. The core mechanic of matching color or number remains, but the added rules turn a simple color run into a roller coaster of penalties, reversals, and dramatic last card moments. We are not here to rewrite the game from scratch; we are here to tinker, to balance, and to inject a little nerdy flavor that makes every hand feel like a boss fight.
 
 For the curious, UNO has a long history of variants and wild memes alike. The official rules are simple enough for a family night, but the real juice is found in the shared improvisation between players. If you want to peek at official territory or find inspiration from fans, you can check the official page and a few community wikis. For now, we assume you are about to assemble a crew that is ready for extra cards, extra bragging rights, and extra laughs. If you want to see how some players structure their own rule sets, there is no shame in following a few templates and then subverting them as the night goes on.
 
