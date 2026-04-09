@@ -5,7 +5,7 @@ tags:
   - board-games
   - party-games
   - reviews
-  - explodings-kittens
+  - exploding-kittens
   - party-pack-2
   - humor
 ---
@@ -76,7 +76,7 @@ Rounds are quick, often under 10 minutes per match, depending on group size and 
 If you want a longer engine of play, you can pair Party Pack 2 with a longer session of the base game and allow a few longer rounds to stretch the tension. The key is to balance the energy with breaks so no one ends up burnt out or bogged down by constant near misses.
 
 ## Setup and storage considerations
-Storage-wise, Party Pack 2 is similar to the original: a compact box with a few stacks of cards and small accessories. If you already own a card organizer or a dedicated game shelf, you’ll find that the new pack slides in neatly with your other Exploding Kittens titles. If you travel for game nights, the portability remains a robust selling point — you can slip the box into a bag and still retain the vibe of a full-blown party game club in a tiny apartment kitchen.
+Storage wise, Party Pack 2 is similar to the original: a compact box with a few stacks of cards and small accessories. If you already own a card organizer or a dedicated game shelf, you’ll find that the new pack slides in neatly with your other Exploding Kittens titles. If you travel for game nights, the portability remains a robust selling point — you can slip the box into a bag and still retain the vibe of a full-blown party game club in a tiny apartment kitchen.
 
 ## Pros and cons at a glance
 - Pros:
@@ -110,6 +110,6 @@ If you like high energy, quick rounds, and a party vibe that invites both chaos 
 - See also: [Base game review]({% post_url 2026-01-01-exploding-kittens-base-game %})
 - See also: [Expansions roundup]({% post_url 2026-03-10-exploding-kittens-expansions %})
 
-**Bold final note:** this box is built for social energy. If your crew loves fast, goofy, high-suspense play with willing participants, Party Pack 2 will become a staple of your game nights. If not, you might want to borrow it for a single wild evening and then hand it back. Either way, you’ll have stories to tell. 
+**Bold final note:** this box is built for social energy. If your crew loves fast, goofy, high-suspense play with willing participants, Party Pack 2 will become a staple of your game nights. If not, you might want to borrow it for a single wild evening and then hand it back. Either way, you’ll have stories to tell.
 
 **Affiliate link:** https://amzn.to/3Xx9K9X
