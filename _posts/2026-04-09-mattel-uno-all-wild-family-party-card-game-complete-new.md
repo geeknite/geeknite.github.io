@@ -14,7 +14,7 @@ In this extended update, we push past the basics and dive into the moments that 
 
 ## Unboxing and first impressions
 
-![Card art for UNO All Wild]( {{ site.baseurl }}/assets/images/uno-all-wild-family-party-cover.jpg )
+![]({{ site.baseurl }}/assets/images/uno-all-wild-family-party-cover.jpg) 
 
 The box feels substantial, as if it will survive a family road trip in the trunk of a minivan without surrendering its soul to spilled juice boxes. Inside you will find two sturdy decks, a glossary of new wild cards, a handful of party challenge cards, a few score sheets, and a rules sheet that looks easy enough to learn but will still take at least one family round to fully internalize. The card stock is decent; not luxury, but it’s robust enough to withstand the kind of determined shoving that only a sibling with a competitive streak can supply. If you have ever worried about your UNO cards bending under the weight of a bored 7-year-old, fear not — these cards are built to take the kind of abuse that only a family can deliver between holiday meals.
 
@@ -34,7 +34,10 @@ The design is approachable. The art on the cards keeps the recognizable UNO vibe
 UNO All Wild Family Party introduces a few twists that you will either love or loudly veto within the first two rounds. Here is a compact overview of what to expect when you set up for the first time.
 
 ### Setup
-1. Shuffle both decks together and deal seven cards to each player, just like classic UNO. 2. Place the top card of the draw pile face up to begin the discard pile. 3. Decide who will be the scorekeeper if you are playing a longer session. 4. Keep the new wild and party cards separate until you need them, then mix them into the draw pile as directed by the rules.
+1. Shuffle both decks together and deal seven cards to each player, just like classic UNO. 
+2. Place the top card of the draw pile face up to begin the discard pile. 
+3. Decide who will be the scorekeeper if you are playing a longer session. 
+4. Keep the new wild and party cards separate until you need them, then mix them into the draw pile as directed by the rules.
 
 The setup feels familiar but with a nudge toward mischief. It sets the tone: we are here to have a good time, not to prove math genius caliber from the first draw. You’ll likely find yourself debating whether to shuffle again if a sequence of wild color changes hits back-to-back, which makes for excellent group chat fodder after the game ends.
 
@@ -108,7 +111,6 @@ Caveats: if your crew dislikes shouting, improvisational dares, or the sensation
 - Price reasonable for the amount of content and replay value
 
 If you are ready to embrace the chaos and the chuckles, this is a strong pick that deserves a spot on your shelf. For the curious, you can also explore the broader UNO family at the official page linked above and take a peek at our related posts to round out your strategy and social play:
-
 - Read more in our UNO variants coverage: [UNO Variants and the Social Card Game Circus]({{ post_url 'uno-variants-review' }})
 - Family night ideas that pair well with UNO All Wild: [Top Family Game Night Picks]({{ post_url 'family-game-night-ideas' }})
 
