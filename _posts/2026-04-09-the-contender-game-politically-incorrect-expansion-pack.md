@@ -1,5 +1,5 @@
 ---
-title: The Contender Game | Politically Incorrect Expansion Pack — A Geeknite Review
+title: The Contender Game | Politically Incorrect Expansion Pack — A Geeknite Review (Updated 2026)
 date: 2026-04-09
 tags:
   - games
@@ -18,14 +18,12 @@ As with any expansion that touts political incorrectness, there’s a risk: you�
 
 External link: For broader context on political satire in games, you can check out this discussion on satire mechanics in modern board games: https://boardgamegeek.com/article/1234/example-satire-mechanics.
 
-Also, if you want some nostalgia about the base game before you dive into the expansion, see [the earlier base-game feature]({% post_url 2025-02-10-the-contender-game-base-review %}).
+Also, if you want some nostalgia about the base game before you dive into the expansion, see the earlier base-game feature here: [{% post_url 2025-02-10-the-contender-game-base-review %}].
 
 Cover image: ![The Contender Game expansion art](assets/images/contender-pack.jpg)
 
 Additionally, a tiny glimpse at the expansion art in Jekyll image syntax:
 {% image assets/images/contender-pack.jpg alt='The Contender Game expansion art' %}
-
-Now, let’s break down what the Politically Incorrect Expansion Pack actually does, how it feels in play, and whether it’s a must-have in your gaming shelf or a “maybe later while you drink water and pretend you didn’t overcommit.”
 
 ## What is in the expansion?
 
@@ -54,7 +52,7 @@ The core addition is the Blame Dial, a four-sided spin device that sits in the c
 
 Policy Cards offer a mix of practical and speculative stances. Some cards grant direct victory points for popular opinions in your faction’s lane, while others impose risks—vulnerability to a counter-card that “exposes” you as inconsistent, or a private objective that requires you to defend a stance you privately view as questionable. The tension comes from balancing the sincerity of your public stance with the complexity of your private motives. It’s an invitation to players to think about the difference between persuasion and deception, and to what extent either is acceptable in a game where everyone is pretending to be the bravest and smartest version of themselves.
 
-Event Cards inject randomness that tests your adaptability. An event might force players to switch seats, swap hands, or reveal a “policy shift,” which is a moment to rethink your entire approach. The best moments arrive when you’re forced to improvise a policy pitch in two minutes or less, juggling data, sarcasm, and the occasional well-timed pun. The weaker moments arrive when an event stalls the board for too long or feels like a gimmick that only benefits the loudest player. Fortunately, the expansion isn’t heavy-handed with events; they’re balanced to avoid walls-of-text fatigue while still delivering dramatic turns.
+Event Cards inject randomness that tests your adaptability. An event might force players to switch seats, swap hands, or reveal a policy shift, which is a moment to rethink your entire approach. The best moments arrive when you’re forced to improvise a policy pitch in two minutes or less, juggling data, sarcasm, and the occasional well-timed pun. The weaker moments arrive when an event stalls the board for too long or feels like a gimmick that only benefits the loudest player. Fortunately, the expansion isn’t heavy-handed with events; they’re balanced to avoid walls-of-text fatigue while still delivering dramatic turns.
 
 Role Cards add a personal arc to the round. Each role has a special ability tied to a unique objective, nudging you toward certain strategies. You’ll see a mix of “swing voter” roles, “policy architect” roles, and “media magnate” roles, each with its own bragging rights when you manage to pull off a victory with style. The roles aren’t just cosmetic; they shape your options and how others respond to you, which is where the social dynamic truly shines.
 
@@ -70,7 +68,7 @@ The Blame Dial is the star for the actual flow. It acts as a friction device tha
 
 Geeks who care about visuals will enjoy the aesthetic. The art is bold, with a satirical flavor that understands its own jokes and the risk of not landing. The typography is crisp, the card backs hide well-thrown shade, and the tokens are tactile enough to encourage constant fiddling during conversations that aren’t strictly about the game. The quality control on printing is solid; the cards don’t warp, the boards lay flat, and the dial clicks with a satisfying weight that changes the tactile experience in a good way.
 
-Accessibility considerations stand out here. The expansion doesn’t water down its satire for the sake of a universal audience, but it does include a few optional rules that reduce potential offensiveness and tabling. There’s a “light-touch” mode that limits certain edge-case cards and favors broad, non-targeted humor. If you’re running a mixed group with varying sensitivities, starting with the lighter mode is a wise choice. If your table is purely in it for the satire and isn’t worried about offense, you can ramp up quickly to the standard rules. The designers clearly thought about audience segmentation, which is a nice touch in a product that aims to go toe-to-toe with social dynamics rather than simply showcase clever card text.
+Accessibility considerations stand out here. The expansion doesn’t water down its satire for the sake of a universal audience, but it does include a few optional rules that reduce potential offensiveness and tabling. There’s a light-touch mode that limits certain edge-case cards and favors broad, non-targeted humor. If you’re running a mixed group with varying sensitivities, starting with the lighter mode is a wise choice. If your table is purely in it for the satire and isn’t worried about offense, you can ramp up quickly to the standard rules. The designers clearly thought about audience segmentation, which is a nice touch in a product that aims to go toe-to-toe with social dynamics rather than simply showcase clever card text.
 
 ## Balance and replayability
 
@@ -91,6 +89,10 @@ One potential pitfall is the expansion’s appetite for table talk. If your grou
 Compared to other political-satire expansions in tabletop land, Politically Incorrect sits in a sweet spot: it’s provocative enough to spark strong opinions without becoming a license to hurl personal slurs or target vulnerable groups. The creative direction leans into satire with care and intent, balancing risk with reward in a way that invites discussion rather than shutting it down.
 
 If you’re already a fan of the base game for its social mechanics and witty banter, the expansion feels like a natural progression—more of what you love, plus a few extra spicy tools to escalate the conversation. It doesn’t trivialize diplomacy; instead, it choreographs a space where rhetoric, misdirection, and group dynamics collide for rapid-fire entertainment. If you’re not into political satire, you’ll still find value in the strategic depth and the way the new cards scaffold new kinds of debates, though the humor may land differently for you.
+
+### A note on inclusivity and taste
+
+The expansion does not pretend politics is a safe playground, and it shouldn’t. Yet it also recognizes the importance of reading the room. If your group includes players who prefer gentler humor or avoidance of sensitive topics, the light-touch mode is a clear win. If your crew thrives on sharp thrusts and clever dissection of policy, the standard rules offer the full bite. The design team deserves credit for delivering a product that invites sensitive discussions rather than shouting matches at the same time every turn.
 
 ## Which players should consider this expansion?
 
@@ -119,7 +121,7 @@ Overall, a confident addition that broadens the social horizons of The Contender
 
 External resources you might enjoy while thinking about politics in games:
 - A thoughtful piece on satire mechanics in modern board games: https://boardgamegeek.com/article/5678/satire-in-games
-- A classic reference on debate structure and rhetoric in game design: https://www.xkcd.com/ship-it/ (for a lighter take on “ship it” culture)
+- A classic reference on debate structure and rhetoric in game design: https://www.xkcd.com/ship-it/ (for a lighter take on ship it culture)
 
 If you’re looking to connect with other players who adore sharp banter and clever cardplay, this expansion is a strong entry point. It invites conversation, invites experimentation, and invites you to reflect on what it means to persuade others through a game rather than through a podium.
 
@@ -129,7 +131,6 @@ If you’re looking to connect with other players who adore sharp banter and cle
 
 ## Final note on playgroup compatibility
 
-Before you break out the cards, have a quick chat with your group about boundaries and comfort levels. The expansion is designed to provoke thought and laughter, but it should never become an arena for personal attack. Agree on a few ground rules, consider a “pause” option for anyone who feels stepped-on, and remember the real goal: enjoy a night of clever banter, shared stories, and maybe a few zingers you’ll still be laughing about at brunch the next day.
+Before you break out the cards, have a quick chat with your group about boundaries and comfort levels. The expansion is designed to provoke thought and laughter, but it should never become an arena for personal attack. Agree on a few ground rules, consider a counterbalance if needed, and remember the real goal: enjoy a night of clever banter, shared stories, and maybe a few zingers you’ll still be laughing about at brunch the next day.
 
 **Get it here via our affiliate link: https://affiliate.geeknite.example/contender-expansion**
-
