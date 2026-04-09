@@ -1,5 +1,5 @@
 ---
-title: Phase 10: Gioco di Carte - Confezione da 2 - Recensione Geeknite (Aggiornamento 2026)
+title: 'Phase 10: Gioco di Carte - Confezione da 2 - Recensione Geeknite (Aggiornamento 2026)'
 date: 2026-04-09
 tags:
   - giochi da tavolo
@@ -34,7 +34,7 @@ Phase 10 è un gioco di carte a gestione di mani e strategie, in cui l’obietti
 I termini principali: la mano iniziale è composta da dieci carte, le fasi vanno dalla prima a decima, e vincere non significa necessariamente avere la mano migliore ma aver completato per primo tutte le fasi in sequenza o in un modo che le regole consentono. Un aspetto interessante è la gestione del mazzo di pesca: quando la pila si esaurisce, si rimescola il mazzo degli scarti. In due giocatori, questo può diventare una piccola strategia a parte, con la possibilità di osservare l’andamento degli scarti dell’avversario e modulare la propria prossima mossa di conseguenza. In sostanza, Phase 10 è un gioco di pianificazione, memory e un pizzico di fortuna.
 
 ## Phase 10 in due: come cambia la dinamica
-L asoggettiva fase di gioco in due è molto legata al controllo della mano. Con due mazzi, hai la possibilità di osservare più varianti disponibili per completare una determinata fase, ma devi anche gestire la tua mano in un modo che minimizzi la vulnerabilità ai movimenti dell’avversario. Due mazzi possono offrire una maggiore varietà di carte utili sulla tavola, ma la quantità di carte da gestire può aumentare la complessità se non si tiene sott’occhio il conteggio delle carte rimanenti. In pratica, la versione da 2 di Phase 10 permette di giocare con alleati o rivalli, ma in ciascun caso, la chiave è l’equilibrio tra attenzione alle fasi e gestione della propria mano.
+L asoggettiva fase di gioco in due è molto legata al controllo della mano. Con due mazzi, hai la possibilità di osservare più varianti disponibili per completare una determinata fase, ma devi anche gestire la tua mano in un modo che minimizzi la vulnerabilità ai movimenti dell’avversario. Due mazzi possono offrire una maggiore varietà di carte utili sulla tavola, ma la quantità di carte da gestire può aumentare la complessità se non si tiene sott’occhio il conteggio delle carte rimanenti. In pratica, la versione da 2 di Phase 10 permette di giocare con alleati o rivali, ma in ciascun caso, la chiave è l’equilibrio tra attenzione alle fasi e gestione della propria mano.
 
 Nella nostra esperienza, la confezione da 2 funziona più come una casa dei giochi di carte: offre un doppio set di ruoli, ma la riduzione dei tempi di gioco dipende dalla familiarità con le fasi e dal grado di sincronizzazione tra i due mazzi. Se vuoi una partita rapida senza troppa riflessione, la confezione potrebbe allungare i tempi a causa di una maggiore varietà di carte disponibili. Se vuoi una partita più tattica e meditata, la doppia presenza di mazzi può favorire letture di gioco più complesse.
 
