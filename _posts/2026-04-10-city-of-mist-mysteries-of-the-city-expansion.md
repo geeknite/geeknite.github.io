@@ -1,5 +1,5 @@
 ---
-title: City of Mist: Mysteries of the City - Expansion
+title: City of Mist: Mysteries of the City - Expansion (Expanded Review)
 date: 2026-04-10
 tags:
   - board games
@@ -10,113 +10,110 @@ tags:
 ---
 
 ![Mysteries of the City expansion cover](assets/city-of-mist-mysteries-cover.jpg)
+![City map snippet](assets/city-mist-map-snippet.jpg)
 
-City of Mist has always been the kind of game that makes you feel like a pulp hero trapped in a coffee shop schedule. The new expansion, Mysteries of the City, drops into the neon-lit alleys with the swagger of a deus ex machina and a pocket full of conspiracy theories about pigeons with secret agendas. Is it a must-have? Does it breathe new life into a game that already runs on fog, myth, and the occasional dramatic monologue? Strap in, because we’re about to labyrinth our way through masks, mysteries, and maybe a romance with a very suspicious traffic light.
+City of Mist has always been the kind of game that makes you feel like a pulp hero trapped in a coffee shop schedule. The Mysteries of the City expansion slides into the neon-lit alleys with the swagger of a late-night informant and a pocket full of conspiracy theories about pigeons with clandestine agendas. Is it a must-have? Does it breathe new life into a game that already runs on fog, myth, and the occasional dramatic monologue? Strap in, because we’re about to labyrinth our way through masks, mysteries, and maybe a romance with a very suspicious traffic light.
 
-## Overview
-Mysteries of the City is the latest expansion for City of Mist, a game where players embody modern-day legends—Wisecrackers, Architects, and all the other masked archetypes we pretend we are in the shower. The expansion promises more masks, more mysteries, and more ways to weave personal myth into the city’s sprawling, neon-soaked narratives. The tone remains true to City of Mist: moody, cinematic, and occasionally ridiculous in the best possible way. It’s the sort of product that would make the City Council jealous of a fictional council of superheroes.
+## Overview: what Mysteries of the City actually does
+Mysteries of the City is the expansion that leans into the city-as-character vibe with a heavier dose of noir flavor and meta-narrative hooks. It’s not a shallow add-on; it assumes you’ve already fallen in love with Logos, Mythos, and the idea that a night out can become a season-long mythic investigation. The expansion slots neatly into a running City of Mist campaign and, more importantly, antaa players a few more levers to pull when the city starts whispering back. If you’re brand-new to City of Mist, this one is best enjoyed after you’ve got a few sessions under your belt with the core rules. If you’re a veteran, read on for the new toys you’ll actually want to use on a Tuesday night when the neon rain is at peak level.
 
-If you’re coming to this with a fresh set of dice in hand, you’ll find Mysteries of the City to be a robust add-on rather than a light refresh. It assumes you already know the base game and are comfortable with the concept of Logos and Mythos, the two core mechanics that govern how masks, powers, and personal myths collide in glorious, chaotic fashion. If you’re new to the world, you might want to take a detour through the core rules first; this is the expansion that leans into the “now we’re solving crimes at a metaphysical level” vibe, which is both wonderful and slightly terrifying for your coffee budget.
+Two quick notes before we dive deeper: Mysteries of the City remains fully compatible with the core rulebook and other City of Mist supplements. It shines, however, when used as a complete city-building toolkit—more settings, more masks, more mystery cards—and it keeps the moody art direction that fans adore. If the base game felt like a moody film-noir poster come to life, this expansion feels like it stapled a new act onto the poster and invited you to step through the frame.
 
-Two key notes before we dive deeper: the expansion is compatible with the core rulebook and other City of Mist supplements, but it shines when used as a complete city-building toolkit. Also, the art direction remains unapologetically moody, balanced with a wry sense of humor. If you thought the base game was atmospheric, Mysteries of the City doubles down with more noir photography, more idiosyncratic city landmarks, and more mystery cards that force you to lean into your character’s deepest contradictions.
+If you’re swapping in this expansion for a single night, you’ll notice it assumes a level of table maturity: players who enjoy weaving subplots, following red herrings, and enjoying the city’s dramatic irony will get the most from Mysteries of the City. Don’t worry, though—the toolkit remains accessible, and the new assets respect your time: you can scale up or down the complexity to taste.
 
 ## What’s new in Mysteries of the City
-This section breaks down the meat and potatoes of the expansion. I’ll cover the big-ticket items first and then zoom into the tiny spice jars that actually bring out the flavor of your sessions.
+This section is for the curious players who want to know precisely where the spice lands. I’ll break down the bigger items first and then zoom into the smaller, flavorful details that actually affect your table.
 
 ### New Masks and Motifs
-Masks are the core of City of Mist’s identity mechanic. The expansion brings a hefty handful of new Masks to unlock your inner thunderbolt, plus additional Motifs—narrative themes that shape how a character’s powers and weaknesses interact with the city. The new Masks are designed to slot into existing archetypes or create intriguing hybrids. Imagine a character who is “The Auditor of Illusions” (a Mask focused on debunking lies with a sly sense of justice) or “The Velvet Anvil” (a Mask that can harden resolve but softens their public persona with kindly, tepid coffee shop smiles). It’s clever, it’s funny, and it’s not afraid to lean into the absurdity of “I’m a myth in a suit.”
+Masks are City of Mist’s core identity mechanic, and the expansion delivers a hearty handful of new Masks along with additional Motifs—narrative themes that shape how powers interact with the city’s darker corners. The new Masks slot nicely into existing archetypes or create intriguing hybrids. Think of a character who is The Auditor of Illusions (a mask for debunking lies with a sly sense of justice) or The Velvet Anvil (a mask that can harden resolve but softens their public persona with kindly, tepid coffee-shop smiles). It’s clever, it’s funny, and yes, it leans into the delightful absurdity of “I’m a myth in a suit.”
 
-If you’re a player who loves the meta-narrative, the new Masks include some surprising twists that reward clever roleplay rather than brute-force dice. For the game master who loves stitching seams between subplots, these Masks provide ready-made hooks and a platform to spin long-running city-wide arcs. The best part? They don’t invalidate your existing Masks; they expand the sandbox so you can sandbox harder without breaking the game’s rhythm.
+If meta-narrative is your jam, the new Masks offer twists that reward clever roleplay over brute dice-stacking. For GMs, they’re a ready-made toolkit to stitch subplots into city-wide arcs. The best part? They don’t invalidate your existing Masks; they expand the sandbox so you can sandbox harder without throwing the entire balance out of whack.
 
 ### Investigative Toolkit and Mystery Cards
-A big chunk of what makes City of Mist sing is how the players uncover clues, pursue leads, and navigate conflicting motives. Mysteries of the City expands that toolbox with additional investigative mechanics and a bigger deck of mystery cards. The deck is designed so you can pull a scene that feels both fresh and terrifyingly plausible—because real-life mysteries tend to come with a noir soundtrack and a dozen “could be anything” moments.
+City of Mist thrives on clues, leads, and the tangled motives of a living city. Mysteries of the City expands that toolkit with additional investigative mechanics and a larger deck of mystery cards. The deck is designed so you can pull scenes that feel both fresh and terrifyingly plausible—the kind of moments that make your players lean in and say, “We’re in the noir now.”
 
-The investigative toolkit introduces a few new skills and action options that mesh well with existing systems. You’ll be able to coordinate cross-city investigations, set up long-term mystery arcs, and manage multiple suspect timelines without losing track of who’s bluffing whom. The result is a more cinematic detective experience that still respects the game’s core principle: the city is a character, and the clues are its heartbeat.
+New skills and action options mesh with existing systems. You’ll be able to coordinate cross-city investigations, set up long-term mystery arcs, and manage multiple suspect timelines without losing track of who’s bluffing whom. The result is a more cinematic detective experience that still respects the core principle: the city is a character, and clues are its heartbeat.
 
 ### City Settings, Landmarks, and Flavor
-Mysteries of the City leans into world-building. It provides a batch of new city settings—hipster-drenched districts, underground tunnels carved beneath a cathedral, and a skyline that changes with each season of your campaign. Landmarks become more than backdrops; they are narrative engines that can trigger side quests, flashbacks, or revealed backstory that ties into the players’ Masks.
+Mysteries of the City doubles down on world-building. You get a batch of new city settings—hipper-than-thou districts, underground tunnels carved beneath a cathedral, a skyline that literally changes with each season of your campaign. Landmarks become narrative engines that trigger side quests, flashbacks, or backstory reveals tied to players’ Masks.
 
-The flavor notes are strong without being overbearing. You’ll get the sense that the city itself is watching—maybe not judging, but certainly taking notes. The expansion provides evocative flavor text, illustrated prompts, and a handful of “city-lore” cards that can sprout into side quests or major turning points in a season. If you like your campaigns to feel like an endlessly unfolding pulp serial, you’ll savor these additions.
+Flavor text and illustrated prompts intensify the sense that the city itself is listening, watching, making notes. If you like your campaigns to feel like an endlessly unfolding pulp serial, you’ll savor these additions.
 
 ### Thematic Cohesion and Interaction with Core Rules
-Despite being a separate product, Mysteries of the City maintains a tight thematic cohesion with the base game. Masks remain about strong identities; Mythos still collides with Logos; and the city’s hidden power remains a character in and of itself. The expansion leans into the meta-narrative more than the base game did, giving players ways to reflect on their own myths and the myths of others. It’s the kind of expansion that invites meta-layers for players who enjoy stepping out from the story to comment on genre conventions with a wink.
-
-Mechanically, you’ll notice a few tweaks that feel intuitive rather than invasive. For example, new scenes use a slightly altered success threshold that rewards collaboration without punishing risk-taking. It’s a gentle nudge toward shared storytelling, which is precisely what City of Mist aims to foster: you and your friends, co-creating a mythic city together instead of dutifully following a pre-written path.
+Despite being an expansion, Mysteries of the City remains thematically tight with the base game. Masks continue to be about identity; Mythos collides with Logos; and the city’s hidden power remains a character in its own right. The expansion nudges the meta-narrative a notch higher, giving players ways to reflect on their myths and the myths of others with a wink rather than a guillotine. Mechanically, you’ll notice tweaks that feel intuitive—slightly altered scene thresholds that reward collaboration and shared storytelling without turning sessions into a math lecture.
 
 ## Mechanics and Balance
-A good expansion preserves the feel of the base game while offering fresh tools. Mysteries of the City does exactly that by layering in more options without turning the core dice pool and conflict resolution into a math-major’s nightmare.
+A good expansion preserves the core feel while offering fresh tools. Mysteries of the City does this by layering in more options without turning the dice pool into a spreadsheet of doom.
 
 ### Dice, Difficulty, and Drama
-City of Mist uses a unique approach to dice that mirrors the mythic vibe: your skills, your Masks, and your choices determine the odds more than a single die roll. Mysteries of the City introduces new scenes and thresholds; however, it keeps the feel of “trust the story” intact. If you’ve ever rolled with the curious joy of hoping for a perfect metaphor rather than a perfect number, you’ll appreciate how the new material fits into the established rhythm.
+City of Mist uses a dice mechanism that matches its mythic vibe: skills, Masks, and narrative choices push the odds more than one stubborn die. Mysteries of the City adds new scenes and thresholds, but preserves the story-first rhythm. If you’ve ever rolled for metaphor rather than for numbers, you’ll feel right at home with these additions.
 
-There are a few added interaction rules that promote collaboration. The idea is not to stat-correct the game into a boardroom meeting but to nudge players toward interpreting clues with each other’s guideposts. The net effect is a more cinematic arc that feels less like a puzzle and more like a conversation told in neon and returning firelight.
+There are new interaction rules that promote collaboration. The aim isn’t to burden the party with “correctness” but to nudge players toward interpreting clues through each other’s guidance. The net effect is a more cinematic arc where the city’s neon rain feels like a living soundtrack rather than a static backdrop.
 
 ### Sensible Power Scaling
-Power scaling can be tricky in expansions—too much power drains the suspense; too little makes it feel like a downgrade. Mysteries of the City handles scaling with care. New Masks offer varied power budgets, with some extremes designed to create memorable moments rather than lone-wolf dominance. The designers also provide optional integration rules for groups who want faster play or longer campaigns. If you’re already a metropolis of mayhem, these options let you dial the intensity up or down without rewriting the core rules.
+Power scaling can ruin a mood if it goes crazy. The expansion handles this with care. New Masks offer varied power budgets, with extremes designed to yield memorable moments without letting a single character monopolize the spotlight. Optional integration rules let groups tailor the experience for faster play or longer campaigns. If you’re already a metropolis of mayhem, you can dial intensity up or down without rewriting rules.
 
-The expansion also acknowledges balance concerns by including recommended playtest notes and guardrails for groups with homebrew content. That means you won’t be punished for writing your own city’s mythology; you’ll just have to negotiate it with your fellow players in a fun, suspiciously dramatic way.
+There’s also a note of caution: the designers include guardrails and playtest notes for homebrew cities. If you love writing your own city legends, you’ll appreciate the space to do so without breaking the mood balance.
 
 ## Thematic Fit and City Flavor
-Mysteries of the City is not just new toys; it’s a curated mood board. The expansion leans into the noir-urban fantasia vibe that City of Mist is known for. Expect rain-slick streets, neon reflections on puddles, and a chorus of suspicious conversations in back-alley diners.
+Mysteries of the City isn’t merely new toys; it’s a curated mood board. The expansion leans into the noir-urban fantasia vibe City of Mist is famous for: rain-slick streets, neon reflections on puddles, and a chorus of suspicious conversations in back-alley diners.
 
-The art direction continues to be one of City of Mist’ s strongest suits. The illustrations feature expressive character portraits and moody cityscapes that feel like panels from a late-graphic-novel adaptation. The color palette leans toward electric blues and hot pinks—delightfully over the top but in a way that never feels out of place in the game’s world. If you’re a visual person who loves to describe a scene in a smoky breath, you’ll find Mysteries of the City a dream to narrate.
+Art direction remains a star. The illustrations favor expressive portraits and moody cityscapes—color palettes shift toward electric blues and hot pinks and then swing back to smoky midnight tones. If you’re the kind of player who loves painting a scene with words, you’ll find the visuals provide a powerful springboard for your narration.
 
-And the storytelling horizon broadens. The expansion offers arcs that can scale to a one-shot, a short campaign, or a season-long mystery labyrinth. It’s flexible enough to accommodate a group that loves to improvise as much as a table that wants to plan every beat. That balance is the delight of this release: it rewards improvisation without punishing careful prep.
+Storytelling horizons broaden as well. The arcs scale for one-shot sessions, short campaigns, or season-long mysteries. It’s flexible enough to accommodate improv junkies and meticulous planners alike, a rare balance that feels like a team sport rather than a solo performance.
 
-## Play Experience: A Sample Scenario
-Here’s a quick, spoiler-free vignette to give you a feel for how Mysteries of the City changes your game night. Picture a rainy evening in a district where old factories meet indie coffee roasters. The group has two new Masks in play. We’ll call them The Auditor of Illusions and The Velvet Anvil for flavor.
+## Play Experience: A Sample Scenario Expanded
+To give you a sense of how Mysteries of the City alters play, here’s a longer, spoiler-light vignette you can actually run this weekend. Imagine a rain-soaked district where old factories meet indie coffee roasters. Two new Masks occupy the stage: The Auditor of Illusions and The Velvet Anvil.
 
-1) Opening hook: A politician’s press conference is interrupted by a sudden, inexplicable blackout across the district. The city’s lights blink like a nervous tic. Clues hint at a covert connection between the power grid and a long-defunct theater—the city’s symbolic heart.
-2) Investigation: The players use the new investigative toolkit to trace power surges to a private warehouse where a troupe rehearses “genuine phantoms” for a local festival. The Masks clash: The Auditor of Illusions seeks to reveal the truth behind a political benefactor’s charity gala; The Velvet Anvil wants to crash the gala by strength of argument and maybe a subtle charisma check.
-3) Complication: A local myth claims the festival’s headliner is a real ghost, granted a temporary lease on the living world during performance nights. The players must decide whether to help the ghost, expose the ghost, or use the ghost to leverage a deal with the festival organizers.
-4) Climax: The blackout returns with a dramatic reveal: the city’s power is being siphoned by a rival faction with a complex motive. The heroes must choose between a dramatic public reveal or a quiet, risky move to rewire the grid from a hidden control room beneath the theater.
+1) Opening hook: A politician’s press conference is interrupted by a sudden blackout spanning the district. The city’s lights blink like a nervous tic. Clues point to a covert connection between the power grid and a long-defunct theatre—the city’s symbolic heart.
+2) Investigation: The group uses the new investigative toolkit to trace surges to a private warehouse where a troupe rehearses “genuine phantoms” for a local festival. The Auditor of Illusions wants to reveal the truth behind a charity gala funded by the same benefactor; The Velvet Anvil wants to crash the gala using a mix of argument and charisma checks.
+3) Complication: A local myth claims the festival’s headliner is a real ghost, granted a temporary lease on the living world during performance nights. The players decide whether to help the ghost, expose the ghost, or leverage the ghost for a deal with festival organizers.
+4) Climax: The blackout returns with a dramatic reveal: the city’s power is being siphoned by a rival faction with a layered motive. The heroes must choose between a dramatic public reveal or a careful, risky rewire from a hidden control room beneath the theatre.
 
-This is a tiny, bite-sized example, but it should illustrate how the expansion nudges players toward collaborative problem-solving while giving them a vehicle to explore personal myths in more depth.
-
-For further inspiration, you can read additional thoughts on related themes in [City of Mist: Core Rules]({% post_url 2024-05-12-city-of-mist-core-rules %}) and [Masks Unleashed]({% post_url 2025-02-10-masks-unleashed %}). If you want to see a more extended, playtest-inspired note, take a peek at our [City of Mist Playtest Notes]({% post_url 2026-01-21-city-of-mist-playtest-notes %}).
+This is a small taste of how the expansion nudges players toward collaborative problem-solving while giving them a vehicle to explore personal myths in greater depth. For additional inspiration, you can read more thoughts on related themes in City of Mist: Core Rules and Masks Unleashed. If you’re curious about playtest notes and session planning, check City of Mist Playtest Notes for deeper context.
 
 ## Artwork and Presentation
-If you’re a sucker for art direction, Mysteries of the City delivers. The cover art continues to evoke a film-noir poster with a modern twist—sunglasses reflecting a cityscape that’s half-dmartian dream, half rain-soaked reality. Inside, the illustrations lean into character portraits and gesture-driven scenes that convey mood efficiently. The layout remains clean, with generous margins and a practical art-to-text ratio. It’s a product that feels premium without demanding a mortgage to own it.
+If you’re an art aficionado, Mysteries of the City delivers. The cover art maintains that film-noir poster vibe with a modern twist—sunglasses reflecting a cityscape that’s half dream, half rain-soaked reality. Inside, the illustrations lean into character portraits and gesture-driven scenes that convey mood efficiently. The layout is clean, with generous margins and a practical art-to-text ratio. It feels premium—without needing a mortgage to own it.
 
-Jekyll-and-Hyde moments arise as you flip through the new mystery cards. Some are stark and dramatic—the kind that make you gasp and then grin at your own over-earnest storytelling. Others are playful, offering light relief with witty flavor text that lands perfectly at the table. It’s a good balance: intense moments punctuated by moments of humor that remind you this is still a game about people pretending to be gods in a very, very messy city.
+Jekyll-and-Hyde moments arise as you flip through the new mystery cards. Some are stark and dramatic—the kind that yield a gasp followed by a grin at your own melodramatic storytelling. Others are playful, offering light relief with witty flavor text that lands perfectly at the table. It’s a careful balance: intense moments punctuated by humor that reminds you this game is about people pretending to be gods in a very messy city.
 
 ## Compatibility, Setup, and How to Use It
-Mysteries of the City is designed to slot into your current City of Mist setup with relative ease. You’ll need the base game for the core mechanics, and you can mix and match with other expansions if you want to tailor the experience. The recommended setup is straightforward:
+Mysteries of the City slots into your current City of Mist setup with relative ease. You’ll need the base game for core mechanics, and you can mix and match with other expansions to tailor the experience. The recommended setup is straightforward:
 - Base game: City of Mist core rules
 - Mysteries of the City expansion pack
-- A few props or handouts for the players to hold onto, such as notes or “city-lore” cards
+- A few props or handouts for players to hold, such as notes or city-lore cards
 - A notebook for the Game Master to track clues, suspects, and changing motives
 
-One caveat: it’s easier to run with a stable group rather than jumping in with three new Masks and a deck of mystery cards in a single sitting. As with many narrative RPGs, the strength lies in players leaning into the vibe as much as the mechanics they choose to deploy. If your group tends to get overwhelmed by options, take the expansion in small bites—start with a single new Mask and one mystery arc, then layer in more complexity once you’re comfortable with the tables and the flow of scenes.
+One caveat: a stable group is your friend. Jumping in with three new Masks and a deck of mystery cards in a single sitting can overwhelm even seasoned Mist-makers. The expansion shines when you pace it—start with one new Mask and a single mystery arc, then layer in more complexity as everyone settles into the vibe.
 
-For those curious about broader expansion strategy, our city-wide play style notes might be helpful. See our discussion on [City-building in City of Mist]({% post_url 2023-11-02-city-building-in-city-of-mist %}). And if you’re curious about how expansions influence ongoing campaigns, you can check [Campaign Design in City of Mist]({% post_url 2023-07-19-campaign-design-city-of-mist %}).
+If you’re curious about broader expansion strategy, our city-wide play style notes might be helpful. See City-building in City of Mist for a sense of scale, and Campaign Design in City of Mist for how expansions influence ongoing campaigns.
 
 ## How Mysteries of the City compares to other expansions
-Compared to earlier additions, Mysteries of the City leans more toward narrative architecture. It isn’t about adding new powers for powers’ sake; it’s about weaving new threads into the city’s fabric—threads that can be pulled to reveal surprising patterns. If you’ve ever wanted to turn a single mystery into a season-long thread that reshapes a district’s future, this expansion delivers.
+Compared to earlier additions, Mysteries of the City leans more toward narrative architecture than raw power creep. It isn’t about shoving new powers into your play area; it’s about weaving new threads into the city’s fabric—threads you can pull to reveal surprising patterns. If you’ve ever wanted to turn a single mystery into a season-long thread that reshapes a district’s future, this expansion delivers.
 
-There are some who might prefer a leaner, puzzle-focused expansion. That’s valid too. Mysteries of the City isn’t heavy-handed about forcing the GM to run sprawling arcs; instead, it gives you options. You can run a tight, compact investigation that lasts a single session or a sprawling, city-defining mystery arc across several nights. It’s not a one-size-fits-all approach; it’s a toolbox that respects different play styles.
+There will be players who prefer a leaner, puzzle-oriented expansion. That’s totally valid. Mysteries of the City isn’t heavy-handed about forcing sprawling arcs; it gives you options. You can run a tight, single-session investigation or a sprawling, city-defining mystery arc across multiple nights. It’s not a one-size-fits-all; it’s a toolbox that respects different play styles.
 
-As a note to veterans: if you’re fond of the base game’s “myth meets street” vibe, you’ll feel right at home. If you’re new to the franchise and you want a robust introduction to the aesthetics of City of Mist, this expansion can feel like a slightly more complicated starter pack—but in a good way: it rewards players who want to invest time in crafting a shared myth.
+For veterans: if you’re fond of the base game’s “myth meets street” vibe, you’ll feel right at home. If you’re new and want a robust intro to the aesthetics of City of Mist, this expansion can feel a touch more intricate—but in a good way. It rewards players who want to invest time in crafting a shared myth.
 
 ## Final Verdict
-Mysteries of the City is a strong addition to the City of Mist lineup. It respects the game’s core identity while offering enough new content to refresh long-running campaigns and provide bite-sized adventures for groups that want a shorter night. The new Masks, mystery cards, and city settings give your table more levers to pull without tipping the balance, and the narrative focus elevates the roleplaying experience to something that feels both cinematic and personal. If you love the idea of a city that feels alive—the type of place where your choices ripple through the neon haze like a pebble in a rainstorm—Mysteries of the City is likely to become a staple in your game nights.
+Mysteries of the City is a strong addition to City of Mist’s lineup. It respects the core identity while offering enough new content to refresh long-running campaigns and provide bite-sized adventures for groups that want a shorter night. The new Masks, mystery cards, and city settings give your table more levers to pull without tipping the balance, and the narrative focus elevates roleplaying to something cinematic and personal. If you love the idea of a city that feels alive—the kind of place where your choices ripple through neon haze like a pebble in a rainstorm—Mysteries of the City is likely to become a staple at your table.
 
-That doesn’t mean it’s perfect for everyone. Some groups might find the narrative emphasis a touch overwhelming if you prefer pure tactical play. Other groups will adore the way it invites them to live in a city that’s always asking questions back. If your group falls into the latter category, this expansion is a must-have, a gleaming ticket to new stories and new ways to tell them.
+That said, it isn’t for everyone. Some groups might find the narrative emphasis a touch overwhelming if you prefer pure tactical play. Others will adore the invitation to live in a city that’s always asking questions back. If your group leans toward the latter, this expansion is a must-have—a gleaming ticket to new stories and new ways to tell them.
 
 ## Where to buy and official resources
 - Official product page: https://cityofmist.com/mysteries-of-the-city
-- Base game reference: [City of Mist: Core Rules]({% post_url 2024-05-12-city-of-mist-core-rules %})
-- Related expansions: [Masks Unleashed]({% post_url 2025-02-10-masks-unleashed %})
+- Base game reference: City of Mist: Core Rules (internal): {% post_url 2024-05-12-city-of-mist-core-rules %}
+- Related expansions: Masks Unleashed (internal): {% post_url 2025-02-10-masks-unleashed %}
 - Community discussion and play guides: https://cityofmist.fandom.com/
 
-If you’re curious to read a few play reports and community-curated tips, you can also explore fan resources and blog notes linked from our own curated center in the city. And if you want to rap with fellow Mist-makers about how you’re weaving your next mystery, drop by the discussion threads in our forum and join the neon-lit conversation.
+For deeper dives and community-driven tips, explore fan resources and blog notes linked from our city-center hub. If you want to chat with fellow Mist-makers about weaving your next mystery, drop by the discussion threads in our forum and join the neon-lit conversation.
 
-## Final Recommendation
+### Final Recommendation
 - For players who crave deeper mythic storytelling and richer city flavor: 9/10
 - For groups seeking quick one-shots with strong mood and roleplay potential: 8/10
 - For those who prefer a lean, puzzle-friendly expansion: 7/10 (not bad, just not as aligned with the expansion’s strengths)
 
-If you want to lean into the neon noir and conjure city-wide legends, Mysteries of the City is your jam. It gives you more masks to inhabit, more mysteries to chase, and more reasons to argue about what the city really wants from you. It’s a celebration of storytelling that doesn’t forget to wink at the audience and laugh at its own melodrama.
+If you want to lean into neon noir and conjure city-wide legends, Mysteries of the City is your jam. It gives you more masks to inhabit, more mysteries to chase, and more reasons to argue about what the city really wants from you. It’s a celebration of storytelling that doesn’t forget to wink at the audience and laugh at its own melodrama.
 
 External links:
 - Official site: https://cityofmist.com
