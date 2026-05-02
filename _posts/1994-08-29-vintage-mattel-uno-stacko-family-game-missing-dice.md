@@ -72,10 +72,7 @@ If you crave a nostalgic trip that combines UNO chaos with a tactile stacking ch
 On the value scale, it is a mixed bag. If you want pristine completeness and flawless equipment, this may not be your best bet. If you want a conversation piece that sparks joy, memory, and creative rule making, then this is a winner. As a retro artifact, it scores high for mood, adaptation potential, and the pure geek joy of handling a toy that survived the era’s plastic gravity test. The dice may be gone, but the soul of the game remains deliciously tangible and endlessly narratable.
 
 ## Links to Fellow Geeknite Classics
-For readers who want to dive deeper into the vintage toy scene, check out related posts in our archive that explore other old school gaming gems and the stories behind their odd components. You might enjoy these reads:
-- [A Retro Toy Arsenal]({% post_url 1999-07-15-retro-toy-arsenal %})
-- [The Great Board Game Renaissance]({% post_url 1995-05-12-board-game-renaissance %})
-- [Nostalgia vs. Necessity in 90s Toys]({% post_url 1992-11-03-nostalgia-90s-toys %})
+For readers who want to dive deeper into the vintage toy scene, check out related posts in our archive that explore other old school gaming gems and the stories behind their odd components.
 
 If you are into more UNO flavored nostalgia plus a little hardware scavenging, this box is your portal to a story of playful resilience and the kind of family chaos that makes for legendary tales around the dinner table. The missing dice become a prompt to adapt and create, which is exactly the spirit we celebrate here at Geeknite.
 
@@ -84,4 +81,4 @@ In a world where modern party games are often apps with required updates, a boxe
 
 Are you ready to resurrect that tower and toast to a memory that outlived its dice? Then this vintage Stacko is your doorway to hours of chaotic joy, storytelling, and the occasional block avalanche that gives you a heart-stopping moment and a room full of laughter.
 
-**[Buy UNO Stacko Vintage 1994 Edition on Amazon (affiliate)](https://www.amazon.com/dp/B099XXXXXX)**
+**[Buy UNO Stacko Vintage on Amazon]({{ site.constants.wsib }}uno stacko 1994)**
