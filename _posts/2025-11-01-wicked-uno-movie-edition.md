@@ -1,6 +1,6 @@
 ---
-title: WICKED Meets UNO: A Geeknite Review of the 2025 Mattel UNO x Universal Movie Edition
-date: 2025-11-01
+title: "WICKED Meets UNO: A Geeknite Review of the 2025 Mattel UNO x Universal Movie Edition"
+date: "2025-11-01"
 tags: [games, UNO, merch, movies, review, collectibles]
 ---
 

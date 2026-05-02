@@ -1,5 +1,5 @@
 ---
-ttitle: 'Face a Faccia Celebrità 1991: la carta indovina la celebrità'
+title: 'Face a Faccia Celebrità 1991: la carta indovina la celebrità'
 date: '1991-11-17'
 tags:
   - board-games
@@ -88,9 +88,8 @@ Link esterni utili
 - Guida ai giochi di carte retrò sul nostro sito: https://www.geeknite.it/guide/giocare-carte-anni-90
 
 Collegamenti a post correlati (nella nostra redazione, usa post_url per rimandare ai contenuti esistenti)
-- Scopri la nascita dei party game: {% post_url 1990-05-15-origins-party-games %}
-- Retro-gaming negli anni ’90: le carte che hanno segnato l’epoca: {% post_url 1993-09-20-retro-carte-anni-90 %}
-- Come costruire una serata gaming perfetta: {% post_url 2021-03-12-serate-boardgames-perfette %}
+- Retro-gaming negli anni ‘90: le carte che hanno segnato l’epoca
+- Come costruire una serata gaming perfetta
 
 Aspetti culturali e stile Geeknite: perché amo questo tipo di giochi
 
@@ -106,4 +105,4 @@ Raccomandazione finale
 
 Se adori i classici party game con una forte componente sociale, Face a Faccia Celebrità 1991 è una scelta sicura per una serata di amici, famiglia o colleghi che vogliono spezzare il ghiaccio. Non è necessario essere esperti di cultura pop per apprezzarlo: basta avere una mente pronta a improvvisare, un gruppo che ama le battute taglienti e una clessidra che scappa veloce tra una risata e l’altra. L’invito è semplice: recupera una copia, organizza una serata retro e lasciati guidare dal gusto di quegli anni in cui tutto era possibile, soprattutto il divertimento collettivo.
 
-**Acquista ora qui: https://affiliate.example.com/1991-face-a-faccia-celebrita**
+**[Acquista ora giochi da tavolo retrò]({{ site.constants.wsib }}party games vintage)**

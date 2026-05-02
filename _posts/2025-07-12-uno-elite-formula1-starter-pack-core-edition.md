@@ -1,6 +1,6 @@
 ---
-title UNO Elite Formula 1 Starter Pack 2025 Core Edition Review
-date 2025-07-12
+title: "UNO Elite Formula 1 Starter Pack 2025 Core Edition Review"
+date: "2025-07-12"
 tags:
   - board-games
   - UNO

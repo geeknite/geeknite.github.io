@@ -1,6 +1,6 @@
 ---
-title: 2025 Uno Elite Core Green: Yaya Diaby and the Tampa Bay Buccaneers
-date: 2025-12-15 12:00:00 -0000
+title: "2025 Uno Elite Core Green: Yaya Diaby and the Tampa Bay Buccaneers"
+date: "2025-12-15"
 tags: [games, reviews, sports-crossovers, uno, buccaneers, geeknite]
 ---
 

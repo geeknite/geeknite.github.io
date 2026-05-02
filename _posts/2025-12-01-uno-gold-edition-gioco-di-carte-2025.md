@@ -1,7 +1,7 @@
 ---
-title: UNO Gold Edition Gioco di Carte 2025: Recensione Geeknite
-date: 2025-12-01
-tags: [ giochi, carte, UNO, recensione, geeknite, party-games ]
+title: "UNO Gold Edition Gioco di Carte 2025: Recensione Geeknite"
+date: "2025-12-01"
+tags: [giochi, carte, UNO, recensione, geeknite, party-games]
 ---
 
 ## Introduzione
