@@ -1,6 +1,6 @@
 ---
-title: Carletto Findus 2025: UNO Mattel LIMITED EDITION Collezione
-date: 2025-06-15
+title: "Carletto Findus 2025: UNO Mattel LIMITED EDITION Collezione"
+date: "2025-06-15"
 tags: [UNO, Mattel, Limited Edition, Giochi, Collezione, Geek]
 ---
 

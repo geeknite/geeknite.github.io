@@ -60,6 +60,7 @@ Il punto chiave con UNO Gold Edition è capire quando usare le carte dorate per 
 - Cinque o sei giocatori: è il vero party game. Il tavolo si riempie di bromance e competitive vibe. L'entusiasmo sale quando una carta dorata ribalta la situazione a favore di chi meno sembrava in corsa. È qui che UNO Gold Edition mostra la sua anima da editoria per eventi sociali: una serata di gioco semplice, ma con una marcia in più.
 
 ### Modalità e varianti consigliate per casa
+
 - Gold Rush: ogni volta che una carta dorata viene giocata, i giocatori possono guadagnare una piccola ricompensa simbolica, come un punto temporaneo. Alla fine della partita, il totale di questi punti stabilisce un extra premio per il vincitore. È una variante leggera, adatta a chi ama un pizzico di spice extra senza stravolgere la dinamica di base.
 - Gold Relay: i giocatori passano una sorta di “mancia dorata” a destra ogni qualvolta una carta dorata viene giocata. Questo crea una rotazione di potere che premia i giocatori più flessibili e attenti ai cambi di colore.
 - One Card Dorata: se arrivi all'ultimo turno con una carta dorata in mano, devi giocarne una sul tavolo e rimanere fedele al colore, altrimenti si applica una piccola penalità. È una variante che mette alla prova la memoria e la gestione delle pressioni sociali: chi non ha mai avuto una mano dorata in mano al momento giusto?

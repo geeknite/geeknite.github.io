@@ -1,6 +1,6 @@
 ---
-title: Trudvang Legends: Westmark Expansion — CMON's 2024 Kickstarter Takeover (A Geeknite Review)
-date: 2024-11-15
+title: "Trudvang Legends: Westmark Expansion — CMON's 2024 Kickstarter Takeover (A Geeknite Review)"
+date: "2024-11-15"
 tags:
   - board-games
   - kickstarter

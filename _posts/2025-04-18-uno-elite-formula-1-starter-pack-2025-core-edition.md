@@ -1,6 +1,6 @@
 ---
-title: \"UNO Elite Formula 1 Starter Pack 2025 Core Edition: A High-Speed Card Combat Review\"
-date: 2025-04-18 09:00:00 -0000
+title: "UNO Elite Formula 1 Starter Pack 2025 Core Edition: A High-Speed Card Combat Review"
+date: "2025-04-18"
 tags:
   - board games
   - UNO

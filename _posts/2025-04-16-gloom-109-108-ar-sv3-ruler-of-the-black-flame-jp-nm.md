@@ -1,6 +1,6 @@
 ---
-title: Gloom 109/108 AR SV3: Ruler of the Black Flame (Japanese Near Mint) – A Geeknite Review
-date: 2025-04-16
+title: "Gloom 109/108 AR SV3: Ruler of the Black Flame (Japanese Near Mint) – A Geeknite Review"
+date: "2025-04-16"
 tags:
   - Pokemon TCG
   - Gloom

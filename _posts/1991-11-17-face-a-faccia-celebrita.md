@@ -1,6 +1,6 @@
 ---
-title: 'Face a Faccia Celebrità 1991: la carta indovina la celebrità'
-date: '1991-11-17'
+title: "Face a Faccia Celebrità 1991: la carta indovina la celebrità"
+date: "1991-11-17"
 tags:
   - board-games
   - retro
@@ -47,12 +47,14 @@ Questo titolo è una celebrazione dell’improvvisazione. Le regole favoriscono 
 Pro e contro: cosa funziona davvero e cosa può creare frustrazione
 
 Pro:
+
 - Semplicità d’ingresso: poche regole, subito operative, nessuna lunga lettura di manuale. Perfetto per una serata improvvisata.
 - Interazione sociale elevata: costringe i partecipanti a parlare, a interpretare segnali non verbali e a improvvisare descrizioni comiche.
 - Adatto a gruppi misti: non richiede una competenza pregressa, basta saper ridere e avere una certa pazienza per i turni.
 - Richiamo nostalgico: la grafica, le illustrazioni e il packaging hanno una forza evocativa che rievoca l’epoca in cui la cultura pop era in piena espansione.
 
 Contro:
+
 - Ripetitività: se giochi spesso, le stesse stranezze descrittive possono iniziare a riemergere, riducendo la sorpresa turn by turn.
 - Dipendenza dal gruppo: l’efficacia del titolo è direttamente proporzionale al livello di chimica tra i giocatori. Gruppi molto timidi o molto competitivi potrebbero non godere della stessa libertà espressiva.
 - Rischio di svelamenti troppo facili: se i giocatori omettono troppi dettagli, l’indovinante rischia di indovinare per puro caso, riducendo la soddisfazione.
@@ -84,10 +86,12 @@ Istruzione esterna: dove leggere di più sui giochi di società degli anni ’90
 Se vuoi inquadrare Face a Faccia Celebrità 1991 nel contesto più ampio dei party games di quegli anni, dai un’occhiata a risorse esterne che trattano generi simili: per esempio, la pagina di party game su Wikipedia offre una panoramica utile sui meccanismi di bluff, indizio e dinamiche sociali che hanno reso celebre questo tipo di prodotto. Inoltre, il nostro archivio di Geeknite contiene post correlati che esplorano la scena dei giochi di carte e la loro evoluzione nel tempo, adatto a chi vuole confrontare diverse epoche e stili di progettazione.
 
 Link esterni utili
+
 - Party game su Wikipedia: https://en.wikipedia.org/wiki/Party_game
 - Guida ai giochi di carte retrò sul nostro sito: https://www.geeknite.it/guide/giocare-carte-anni-90
 
 Collegamenti a post correlati (nella nostra redazione, usa post_url per rimandare ai contenuti esistenti)
+
 - Retro-gaming negli anni ‘90: le carte che hanno segnato l’epoca
 - Come costruire una serata gaming perfetta
 

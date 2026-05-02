@@ -139,12 +139,14 @@ For a deeper dive into UNO strategy in cross-brand editions, you can browse our 
 ## Design, quality, and what fans should know before buying
 
 ### Pros
+
 - Strong thematic integration with Wicked aesthetics while preserving UNO's core gameplay.
 - Solid card stock and a comfortable feel that stands up to regular use.
 - Added Spell and Character cards provide fresh strategic angles and fan service.
 - Accessible to families while still offering enough depth for seasoned players.
 
 ### Cons
+
 - The rule booklet can feel a tad clunky for first-time players; you may end up learning via play rather than reading the manual.
 - Some players may view the theme as a cosmetic overlay rather than a meaningful mechanical expansion.
 - Availability and price volatility around movie tie-ins can blur the line between value and fad.

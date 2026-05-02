@@ -16,8 +16,6 @@ If you thought Jenga was chaotic with a straight face, prepare for UNO Stacko—
 
 In this review, we’ll dive into what makes UNO Stacko tick, what to look for in a complete set, and how it stacks up against modern party games you’ll actually want to store on a shelf you’ll pretend to dust more often than you should. If you’re hunting for a conversation starter at a garage sale or a solid addition to a growing vintage collection, this one deserves a closer look.
 
-> For more on nostalgia-fueled game design, see our post on [Collectors’ Guides for 90s Toys]({% post_url 2023-06-15-90s-toy-collectors-guide %}).
-
 
 ## What’s in the Box
 A vintage stack-and-draw-tale like UNO Stacko is all about components that feel tactile and sturdy. Here’s what you should expect in a complete 51-block set with dice and a tray:
@@ -99,8 +97,7 @@ External sources offer general history and discussion of UNO’s brand expansion
 
 
 ## Cross-Links in Geeknite: Find Related Reads
-- See our post on [Gadget Grading: 90s Toys That Still Hold Up]({% post_url 2023-04-21-90s-toys-grading %}) for a broader look at how we evaluate vintage toy quality.
-- If you’re curious about other block stacking variants, check [Mattel’s Jenga Variants: A Playground of Gravity]({% post_url 2021-12-02-mattels-jenga-variants %}).
+- If you’re curious about other block stacking variants, check our Mattel games collection.
 
 
 ## Final Recommendation
@@ -118,4 +115,4 @@ In the end, UNO Stacko isn’t just a game to pass the time; it’s a little kin
 - Consider pairing UNO Stacko with a small, dedicated display shelf so it’s easy to revisit the nostalgia on a lazy Sunday.
 
 
-**Grab this UNO Stacko now via our affiliate link: https://geeknite.example/affiliate/uno-stacko**
+**[Grab UNO Stacko and more vintage games]({{ site.constants.wsib }}uno stacko vintage)**
