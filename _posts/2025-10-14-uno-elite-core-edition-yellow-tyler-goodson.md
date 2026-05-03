@@ -64,8 +64,8 @@ One of UNO core strengths is its adaptability Elite Core Edition does not requir
 These are optional but they keep the energy high without turning UNO into a science experiment. If you run a weekly gaming night you can rotate between Edition Night Elite Core and Classic UNO letting players appreciate both design languages while maintaining fairness.
 
 For players who want to dive deeper here are some helpful posts to cross reference
-- [Earlier UNO Review]({% post_url 2024-11-15-uno-review %})
-- [Collecting Tips for New Card Variants]({% post_url 2023-07-18-collectible-tips %})
+- Earlier UNO Review
+- Collecting Tips for New Card Variants
 
 ## Availability Pricing and Availability Window
 When it comes to price Elite Core Edition sits in the mid range for UNO variants. Its not the cheapest variant you will find but it offers added value through collectible art and the novelty of a Tyson like vibe on the card face. Availability will vary by retailer with some online stores placing pre orders weeks before stock arrives. If you are shopping for a gift you will want to consider pre order dates and shipping windows to ensure you receive the set in time for your next game night.
@@ -112,8 +112,8 @@ External links
 - NFL profile for Tyler Goodson: https://www.nfl.com/players/tyler-goodson/
 
 If you want to keep the wild energy alive check out more of our content
-- [Older UNO Review]({% post_url 2024-11-15-uno-review %})
-- [Collectible Card Guide]({% post_url 2023-07-18-collectible-tips %})
+- Older UNO Review
+- Collectible Card Guide
 
 ## Takeaway Why This Edition Fits a Geek Night
 This edition is about vibe as much as the card mechanics. It is the difference between wearing a plain tee and a jersey with your favorite players name stitched on the back. The Yellow Tyler Goodson edition provides a visually striking deck that makes your game night feel like a stadium event even when you are playing on a coffee table in a sunlit apartment. It is the kind of product that tempts you with a quick high and rewards you with a quick laugh which is precisely what geek culture celebrates.

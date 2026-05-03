@@ -76,9 +76,9 @@ If you’re buying booster packs for entertainment, you’re probably chasing a 
 The MTG market is volatile, and booster packs are part of that ecosystem. Reprints can affect price, but they also ensure that new players aren’t priced out of the hobby before they’ve had a chance to explore. If your goal is to build a modern MTG library, M21 offers a foundation that is friendly to beginners and still interesting for collectors who enjoy the occasional nostalgia hit. The long-term value isn’t guaranteed to skyrocket, but the enjoyment and the ability to draft with friends are real, tangible outcomes that keep players coming back for more.
 
 ## A Tour of Useful Links and Post References
-- For a broader look at what Core Sets can offer, see our past exploration in Core Set 2020, including drafting tips and early deck-building ideas: [Core Set 2020 Booster Pack Review]({% post_url 2020-07-04-core-set-2020-booster-pack %}).
-- If you’re curious about drafting strategy in modern times, you might enjoy our post on beginner drafting tips and curve management: [Beginner Drafting Guide]({% post_url 2020-07-11-core-set-drafting-guide %}).
-- For more context on older Core Sets and their evolving mechanics, check our retrospective post: [Core Sets Through the Ages]({% post_url 2019-08-15-core-sets-retrospective %}).
+- For a broader look at what Core Sets can offer, see our past exploration in Core Set 2020, including drafting tips and early deck-building ideas: Core Set 2020 Booster Pack Review.
+- If you’re curious about drafting strategy in modern times, you might enjoy our post on beginner drafting tips and curve management: Beginner Drafting Guide.
+- For more context on older Core Sets and their evolving mechanics, check our retrospective post: Core Sets Through the Ages.
 - Official product page for Core Set 2021 with card list previews and flavor text: https://magic.wizards.com/en-us/products/core-set-2021
 
 ## Final Verdict and Recommendations

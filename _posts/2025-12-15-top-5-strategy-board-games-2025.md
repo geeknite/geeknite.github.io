@@ -29,9 +29,9 @@ Ark Nova plays 1–4 players and typically clocks in around 90–150 minutes, de
 
 ### External links and internal cross-references
 - Official Ark Nova page: https://boardgamegeek.com/boardgame/198257/ark-nova
-- See other engine-builders in our roundup: [Best Engine-Building Games]({% post_url 2024-03-12-best-engine-building-games %})
-- For casual-friendly but clever plays, check our post on [Lightweight Strategy for Casual Nights]({% post_url 2023-11-07-lightweight-strategy-nights %})
-- Want cooperative vibes with a strategy backbone? See [Best Cooperative Strategy Games]({% post_url 2024-01-12-best-cooperative-strategy-games %})
+- See other engine-builders in our roundup: Best Engine-Building Games
+- For casual-friendly but clever plays, check our post on Lightweight Strategy for Casual Nights
+- Want cooperative vibes with a strategy backbone? See Best Cooperative Strategy Games
 - Related read: Ark Nova on BoardGameGeek for deep-dive rules and variants: https://boardgamegeek.com/boardgame/198257/ark-nova
 
 ### Why this game deserves to be in your collection (and your group’s shared calendar)
@@ -57,7 +57,7 @@ Expect about 60–120 minutes per session. The game is fast enough to stay dynam
 ### Quick links to world-building and rules discussions
 - Official page: https://www.duneimperium.com/
 - Rule clarifications and community FAQ: https://boardgamegeek.com/thread/xxxxx
-- Cross-reference: if you liked Dune, you might also enjoy our post on [Best 2-Player Strategy Games]({% post_url 2023-04-18-best-2p-strategy-games %})
+- Cross-reference: if you liked Dune, you might also enjoy our post on Best 2-Player Strategy Games
 
 ### Why this game nails the sci-fi strategy vibe
 Dune: Imperium captures the essence of a political game wrapped in a sci-fi coat. You’ll negotiate, bet, and backstab with stylish cards that feel like you’re wielding a Atreides-ian influence while still typing your turn order into a timer. The spice economy is a clever friction point: you’ll be balancing the urge to expand your empire with the cost of keeping your alliance intact. It’s a spicy cocktail in the best sense: not too bitter, with a smooth aftertaste of “I did it.”
@@ -82,7 +82,7 @@ Scythe shines at 1–5 players, with typical games taking 90–120 minutes. It p
 ### Quick reads and deeper dives
 - Official page: https://www.scythegame.com/
 - Lead designer interview (behind-the-scenes chaos): https://www.example.com/scythe-interview
-- Cross post: [Engine-Building vs. Combat Suites]({% post_url 2024-05-22-engine-building-vs-combat-suites %})
+- Cross post: Engine-Building vs. Combat Suites
 
 ### Why you should consider Scythe in 2025
 If Ark Nova is the conservationist in you and Dune: Imperium is the politician, Scythe is the tactician. It rewards careful positioning, long-term planning, and a willingness to adapt when your neighbors suddenly pivot to aggressive expansion. The art direction and components also make it a conversation starter even outside of game nights—a rare win for a strategy title.
@@ -107,8 +107,8 @@ Root shines at 2–4 players, with sessions commonly lasting 90–150 minutes de
 ### Links and references
 - Official Root page: https://www.root-game.com/
 - A deeper dive into faction balance: https://boardgamegeek.com/boardgame/151592/root
-- Cross-link: [Best 2-Player Strategy Games]({% post_url 2023-04-18-best-2p-strategy-games %})
-- Related discussion: [Designing Asymmetry in Board Games]({% post_url 2022-09-03-asymmetry-design %})
+- Cross-link: Best 2-Player Strategy Games
+- Related discussion: Designing Asymmetry in Board Games
 
 ### Why Root remains a staple in 2025
 Root’s enduring appeal lies in the tension between competing factions—each turn feels like a chess match with woodland vibes. It’s not a “solo big brain” game; it’s a social strategy game that rewards collaboration, negotiation, and the occasional betrayal (friendly or not, depending on your table’s vibe). If you’ve got a table of players who crave narrative and sharp interactions, Root will become your group’s ritual game night staple.
@@ -133,8 +133,8 @@ Expect roughly 30–60 minutes per session at 1–2 players, swelling to 60–90
 ### External resources and internal connections
 - Official page: https://www-cool-stuff.com/arndark
 - BoardGameGeek page: https://boardgamegeek.com/boardgame/167873/lost-ruins-of-arnak
-- Related recommended read: [Best Family-Weight Strategy Games]({% post_url 2024-08-09-best-family-strategy-games %})
-- For those who want to mix deck-building with exploration: [Deck-Building in Euro-Style Games]({% post_url 2023-12-01-deck-building-euro-style %})
+- Related recommended read: Best Family-Weight Strategy Games
+- For those who want to mix deck-building with exploration: Deck-Building in Euro-Style Games
 
 ### Why this title still sells in 2025
 Lost Ruins of Arnak hits that sweet spot where you don’t need a PhD in archaeology to enjoy it, but a small stack of brain cells helps you optimize your artifact engine. It’s accessible, it’s stylish, and it offers a satisfying crescendo as you unlock more artifacts and push your engine to higher gears. If you’re assembling a mixed group in 2025, this one acts as the “midweight anchor” that both veterans and newcomers can rally around.
@@ -147,7 +147,7 @@ If you’re planning a game night in 2025 and want to cover a broad spectrum of 
 
 To pick the best one for your group, start with your players’ appetite for conflict versus collaboration. If your crowd loves tight control and mechanistic depth, Ark Nova and Scythe will feel like home. If you crave negotiation and a strong social layer, Root and Dune: Imperium deliver. For a compact, exploration-laced engine-builder that still punches, Lost Ruins of Arnak is the sleeper hit you didn’t know you needed until you played it twice in a row.
 
-If you want to expand your horizons beyond our picks, check out our older guides: [Best Engine-Building Games]({% post_url 2024-03-12-best-engine-building-games %}), [Best Cooperative Strategy Games]({% post_url 2024-01-12-best-cooperative-strategy-games %}), and [Lightweight Strategy for Casual Nights]({% post_url 2023-11-07-lightweight-strategy-nights %}). These posts pair well with the big players above and help you tailor a night that doesn’t require a calendar as thick as the rulebook.
+If you want to expand your horizons beyond our picks, check out our older guides: Best Engine-Building Games, Best Cooperative Strategy Games, and Lightweight Strategy for Casual Nights. These posts pair well with the big players above and help you tailor a night that doesn’t require a calendar as thick as the rulebook.
 
 ## Final call to action
 If you’re ready to dive into any of these titles right now, or you want to snag some copies for your next game night, we’ve got you covered with a safe, friendly portal to the good stuff. And yes, we’ll earn a tiny commission that helps keep the lights on and the meeples well-rested.
@@ -157,8 +157,8 @@ If you’re ready to dive into any of these titles right now, or you want to sna
 ---
 
 If you want to explore more nerdy goodness, follow us on the intertubes and check these posts for related vibes:
-- [Best Lightweight Strategy Games]({% post_url 2023-08-14-best-lightweight-strategy-games %})
-- [Top Cooperative Strategy Games]({% post_url 2024-01-12-top-coop-strategy-games %})
-- [Classic Euro-Heavy Games You Must Try]({% post_url 2022-05-03-classic-euro-heavy-games %})
+- Best Lightweight Strategy Games
+- Top Cooperative Strategy Games
+- Classic Euro-Heavy Games You Must Try
 
 And remember: on Geeknite, we don’t just review games—we build a culture around laughing at ourselves while we pretend to be serious about balance and resource management. Now go forth, pick a title, and conquer a table near you. You’re welcome, and may your endgame be glorious and merciful.

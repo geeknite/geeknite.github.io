@@ -108,9 +108,9 @@ One nice thing about modern UNO variants is the sense that the experience can cr
 Accessibility wise, the rules remain readable and the game scales well for players with different ages and cognitive styles. If you have family members who benefit from larger imagery or more pronounced color cues, the Gold Edition’s design enhancements can serve as a small but helpful upgrade.
 
 ## See Also: Related Posts on Geeknite
-- {% post_url 2024-uno-trends %} UNO Trends 2024: The Colorful Way Games Are Evolving
-- {% post_url 2023-best-party-games %} The Best Party Games for 2023: A Geeknite Roundup
-- {% post_url 2022-game-night-humor %} Tabletop Humor: Anecdotes from Game Night
+- <!-- removed broken link: 2024-uno-trends --> UNO Trends 2024: The Colorful Way Games Are Evolving
+- <!-- removed broken link: 2023-best-party-games --> The Best Party Games for 2023: A Geeknite Roundup
+- <!-- removed broken link: 2022-game-night-humor --> Tabletop Humor: Anecdotes from Game Night
 
 If you’re curious about how UNO variants fit into broader game-night ecosystems, these posts offer context and humor to complement your Gold Edition experience. They’re also a great way to explore how our community thinks about “things that sparkle” in tabletop culture.
 

@@ -22,7 +22,7 @@ Um direkt ins Eingemachte zu gehen: Wir testen, lachen, kritisieren und schauen,
 
 Für diejenigen, die gerne sofort tiefer einsteigen: das Spiel verlinkt üblicherweise zur offiziellen Seite von Cards Against Humanity und rundet das Paket mit einer weihnachtlichen Prise schwarzer Komik ab. Mehr Hintergrund zum ursprünglichen Spiel findest du hier: [Cards Against Humanity – offizielle Seite](https://cardsagainst humanity.com/). Und falls du allgemein mehr über das Prinzip dieser Art von Kartenspielen erfahren willst, schau dir den Wikipedia-Eintrag an.
 
-Darüber hinaus verweben wir interne Verweise zu älteren Geeknite-Beiträgen, damit ihr die Evolution des Humors im Blog nachvollziehen könnt: {% post_url 2025-12-24-geeknite-christmas-review %} und {% post_url 2024-11-28-board-game-nerds-recap %}.
+Darüber hinaus verweben wir interne Verweise zu älteren Geeknite-Beiträgen, damit ihr die Evolution des Humors im Blog nachvollziehen könnt: <!-- removed broken link: 2025-12-24-geeknite-christmas-review --> und <!-- removed: 2024-11-28-board-game-nerds-recap -->.
 
 ## Das Prinzip – Weihnachten trifft CAH
 ### Die Karten – Rot, Weiß, und Rotwein-Noten
@@ -57,8 +57,8 @@ Neben dem Text bieten wir visuelle Inspirationen: Das oben gezeigte Artwork ist 
 
 - CAH offizielle Seite: https://cardsagainst humanity.com/
 - Geeignete Hintergrundinfos: https://en.wikipedia.org/wiki/Cards_Against_Humanity
-- Empfohlene Lektüre auf Geeknite: {% post_url 2025-12-24-geeknite-christmas-review %}
-- Eine weitere, ähnliche Besprechung unserer Archiv-Reihe: {% post_url 2024-11-28-board-game-nerds-recap %}
+- Empfohlene Lektüre auf Geeknite: <!-- removed broken link: 2025-12-24-geeknite-christmas-review -->
+- Eine weitere, ähnliche Besprechung unserer Archiv-Reihe: <!-- removed broken link: 2024-11-28-board-game-nerds-recap -->
 
 ## Kontextualisierung – CAH im Vergleich zu anderen Editionen
 ### Die Weihnachtsedition vs. reguläre Editionen
@@ -89,6 +89,6 @@ Für alle, die mehr wollen, lohnt sich ein Blick auf weitere Artikel in unserem 
 ## Weiterführende Gedanken & Abschlusshinweis
 Wenn ihr eure Runden variieren wollt, könnt ihr auch eigene Hausregeln hinzufügen – zum Beispiel eine Regel, die es erlaubt, bestimmte Karten nur in einer bestimmten Runde zu spielen, oder eine Runde, in der Leute gezwungen sind, eine persönliche Geschichte hinter ihrer Antwort zu erzählen. Die Weihnachtsedition bietet genug Spielraum, um Kreativität zu fördern, ohne dabei die Grundmechanik zu gefährden. Und wer weiß, vielleicht entdeckt ihr dabei neue Comedy-Kaliber – Werke, die ihr in stand-up-artigen Momenten verwenden könnt, wenn ihr die Familienrunden überdauert.
 
-Für weiterführende geistige Nahrung aus unserem Nerd-Universum könnt ihr diese Posts lesen: {% post_url 2025-12-24-geeknite-christmas-review %} und {% post_url 2024-11-28-board-game-nerds-recap %}.
+Für weiterführende geistige Nahrung aus unserem Nerd-Universum könnt ihr diese Posts lesen: <!-- removed broken link: 2025-12-24-geeknite-christmas-review --> und <!-- removed: 2024-11-28-board-game-nerds-recap -->.
 
 **Kaufe Cards Against Humanity – Die Weihnachtsedition hier über unseren Affiliate-Link und unterstütze Geeknite: https://example-affiliate.com/cah-christmas?ref=geeknite**

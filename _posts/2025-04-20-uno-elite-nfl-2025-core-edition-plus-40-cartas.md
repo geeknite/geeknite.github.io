@@ -84,8 +84,8 @@ El set es compacto y ligero, y las cartas resisten un par de caídas inocentes e
 Si ya has probado otras ediciones temáticas de UNO, notarás que este pack se mantiene fiel a la experiencia de UNO mientras añade un toque de NFL sin complicar las reglas. En comparación con ediciones puramente decorativas que solo cambian los colores, estas 40 cartas aportan mecánicas ligeras que pueden realinear estrategias sin hacer que el juego parezca otro. Para fanáticos de otras temáticas, podría ser interesante cruzar referencias: por ejemplo, un vistazo a nuestras entradas sobre ediciones deportivas anteriores o expansiones puede ofrecer ideas para adaptar reglas o combinar barajas sin perder el espíritu original.
 
 Para más ideas sobre expansiones de UNO, echa un vistazo a estas entradas:
-- [UNO clásico y sus evoluciones]({% post_url 2024-01-01-uno-classic.md %})
-- [Expansiones deportivas de UNO y alternativas]({% post_url 2024-07-18-uno-sport-edition.md %})
+- UNO clásico y sus evoluciones
+- Expansiones deportivas de UNO y alternativas
 
 ## ¿Vale la pena comprarlo?
 Esta pregunta merece una respuesta clara: si eres fan de la NFL y te gusta UNO, la respuesta es si, siempre que entiendas que es un refuerzo, no un reemplazo. Este pack añade variedad sin complicar en exceso las reglas, lo cual es perfecto para reuniones casuales y para empezar a introducir a nuevos jugadores a UNO. Si tu objetivo es convertir cada juego en un mini crash course de estrategia avanzada, este set puede quedarse corto; si, por el contrario, quieres un motivo extra para reunir a la tropa y gritarle a la mesa cada vez que sale la carta de un equipo que te cae simpático, este pack cumple con creces.

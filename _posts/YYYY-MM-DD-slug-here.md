@@ -108,8 +108,8 @@ If you’re ready to push the envelope in a respectful, shared way, this NSFW Ed
 
 ## External Resources and Community Voices
 - Official product page: https://explodingkittens.com/products/nsfw-edition
-- A deeper dive into adult party games: {% post_url 2026-05-01-adult-party-games.md %}
-- Quick tips for keeping humor inclusive: {% post_url 2026-04-01-inclusive-humor.md %}
+- A deeper dive into adult party games: <!-- removed: 2026-05-01-adult-party-games -->
+- Quick tips for keeping humor inclusive: <!-- removed: 2026-04-01-inclusive-humor -->
 
 ## Final Recommendation and Where to Buy
 If you’re shopping for a game night that leans into adult humor and wants a brisk, social experience with a playful edge, Exploding Kittens NSFW Edition is a solid addition to your shelves. It offers approachable rules, quick rounds, and jokes that land with a confident wink. It won’t replace your go-to party games for every scenario, but for the right crew, it is the laugh-at-occasional-awkward-moment kind of hit that makes a night memorable.

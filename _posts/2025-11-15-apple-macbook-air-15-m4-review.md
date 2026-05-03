@@ -77,11 +77,11 @@ What About Comparisons? Old Posts and New Lessons
 
 If you want to see how the 15-inch M4 stacks up against prior generations or other Apple machines, check out our older posts. For a quick context, see our take on the 14-inch M3 here:
 
-[Related comparison: 14-inch M3 Review]({% post_url 2024-09-01-macbook-air-m3-review %})
+Related comparison: 14-inch M3 Review
 
 And for a broader look at battery test methodology and real-world usage, you can skim our battery test guide here:
 
-[Battery life and testing methodology]({% post_url 2023-05-14-battery-test-methodology %})
+Battery life and testing methodology
 
 External Links: Official Sips of Truth
 

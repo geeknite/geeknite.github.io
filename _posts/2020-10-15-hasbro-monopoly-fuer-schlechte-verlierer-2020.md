@@ -82,8 +82,8 @@ Was letztlich zählt, ist der Spielfluss. Die neuen Karten können das Spieltemp
 - External: Hasbro offizielle Seite – für Hintergrundinformationen, Produktdetails und offizielle FAQs: https://hasbro.com
 - External: BoardGameGeek-Community – Diskussionen, Nutzerbewertungen und Spiel-Logs: https://boardgamegeek.com
 - Interne Verweise (Post URLs):
-  - Mehr zu Monopoly-Varianten: [Monopoly-Varianten im Überblick]({% post_url 2020-03-20-monopoly-variante-review %})
-  - Tipps für entspannte Brettspielabende: [Tipps für gelassene Spielabende]({% post_url 2020-05-12-brettspiel-tipps %})
+  - Mehr zu Monopoly-Varianten: Monopoly-Varianten im Überblick
+  - Tipps für entspannte Brettspielabende: Tipps für gelassene Spielabende
 
 ## Fazit: Lohnt sich der Kampf gegen die Hypothekenkonsorten?
 Kurz gesagt: Ja, aber nur, wenn du eine Gruppe hast, die Verlieren zu einer Show machen will. Wenn du nach einem trockenen, hitzefreien Börsencrash suchst, bist du hier falsch. Wenn du aber bereit bist, Verlieren zu einem Comedy-Event zu machen, dann ist dieses Monopoly-Set genau dein Ding. Es bietet die perfekte Mischung aus Spannung, Humor und der befreienden Erkenntnis, dass manche Verluste zwar teuer, aber nicht sinnentleert sind – sie sind Teil einer gemeinsamen, oft urkomischen Reise durch die Welt der Immobilien im Kleinformat.

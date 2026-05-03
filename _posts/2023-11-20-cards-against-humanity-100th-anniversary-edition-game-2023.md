@@ -96,8 +96,8 @@ CAH has a long history of expansions and deck additions. The 100th Anniversary E
 - Prepare a post-night debrief. A little reflection on the funniest lines, the most outrageous combos, and the unexpected partnerships that formed is a great way to cap the night and create those “remember that one” moments that fans talk about for weeks.
 
 ## Links to other Geeknite posts
-- For a deeper dive into the art of hosting chaotic board games, check out our prior piece on how to turn a casual board-game night into a legendary event: {% post_url 2024-04-18-best-party-games-for-large-groups %}.
-- If you’re curious about how to balance humor and inclusivity at the table, you might enjoy our guide on navigating sensitive topics in party games: {% post_url 2023-12-01-navigating-sensitivity-in-party-games %}.
+- For a deeper dive into the art of hosting chaotic board games, check out our prior piece on how to turn a casual board-game night into a legendary event: <!-- removed broken link: 2024-04-18-best-party-games-for-large-groups -->.
+- If you’re curious about how to balance humor and inclusivity at the table, you might enjoy our guide on navigating sensitive topics in party games: <!-- removed broken link: 2023-12-01-navigating-sensitivity-in-party-games -->.
 
 ## External references and where to buy
 - Official product page: https://cardsagainsthumanity.com/products/100th-anniversary-edition

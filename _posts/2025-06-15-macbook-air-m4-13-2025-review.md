@@ -15,7 +15,7 @@ If you came here hoping for a whisper-quiet miracle machine that stamps out your
 
 External link to the official product page for those who want the official spec sheet without my jokes: https://www.apple.com/macbook-air/
 
-In this review, we will cover design, display, performance, thermals, keyboard and trackpad, ports, battery life, software experience, gaming viability, and whether the 256 GB storage sweet spot is a trap or a blessing. For some historical flashbacks and further context, you can skim related posts like {% post_url 2024-11-02-macbook-air-m2-vs-m3 %} and {% post_url 2024-09-14-best-macbook-setup %}. You know the drill: a few click-throughs, a few nerdy chuckles, and a verdict you can actually use at a coffee shop without having to pretend you care about the latte art.
+In this review, we will cover design, display, performance, thermals, keyboard and trackpad, ports, battery life, software experience, gaming viability, and whether the 256 GB storage sweet spot is a trap or a blessing. For some historical flashbacks and further context, you can skim related posts like <!-- removed broken link: 2024-11-02-macbook-air-m2-vs-m3 --> and <!-- removed: 2024-09-14-best-macbook-setup -->. You know the drill: a few click-throughs, a few nerdy chuckles, and a verdict you can actually use at a coffee shop without having to pretend you care about the latte art.
 
 ## Design and Build: Featherweight Wonder with a Sky Splash
 
@@ -45,7 +45,7 @@ For an extra giggle, the color palette here makes the Air feel almost like a tin
 - Glow and grading: good out-of-box color balance for general use
 - Anti-glare: decent, with glare resistance typical for the class
 
-If you want more nerdy comparisons in the display realm, see our earlier write-up on how the M2 and M3 models fared in color accuracy and brightness. You can also check our in-depth comparison post via {% post_url 2024-11-02-macbook-air-m2-vs-m3 %} for a broader context.
+If you want more nerdy comparisons in the display realm, see our earlier write-up on how the M2 and M3 models fared in color accuracy and brightness. You can also check our in-depth comparison post via <!-- removed broken link: 2024-11-02-macbook-air-m2-vs-m3 --> for a broader context.
 
 ## Performance: The M4 Treats Your Apps Like Slivers of Quantum Cheese
 
@@ -69,7 +69,7 @@ The 16 GB RAM choice on the M4 Air is a sensible baseline for multitaskers who e
 
 A pleasant reality: the overall system’s storage-sanity shopping experience is smooth. You can receive a Mac with a modest starting storage figure and still successfully manage your daily load by moving large assets to iCloud or external drives when needed. The key is to plan a storage strategy that fits your actual usage: keep your essential apps and current projects on the internal drive, and offload the rest to the external world, where speed is often more than adequate for day-to-day tasks.
 
-If you want to see how this stack compares to a higher-end model, our post on the M2 vs M4 line offers a broader sense of where the memory and storage trade-offs land in 2025. You can find that discussion here via {% post_url 2024-11-02-macbook-air-m2-vs-m3 %}.
+If you want to see how this stack compares to a higher-end model, our post on the M2 vs M4 line offers a broader sense of where the memory and storage trade-offs land in 2025. You can find that discussion here via <!-- removed broken link: 2024-11-02-macbook-air-m2-vs-m3 -->.
 
 ## Battery Life: A Day, and Then Some, If You Don’t Abuse It
 
@@ -132,9 +132,9 @@ That is the Geeknite verdict: solid daily driver, a little dash of flair, not to
 
 ## Related Reads and Further Explorations
 
-- For more on how Apple Silicon handles long-term multitasking, read our deeper dive into memory management on M-series Macs: {% post_url 2024-10-18-apple-silicon-memory-management %}
-- If you want a broader sense of how Apple designs for portability, check our exploration of ultrabook trends in 2025: {% post_url 2025-01-12-ultrabook-trends-2025 %}
-- Our hands-on guide to optimizing macOS for efficiency and battery life: {% post_url 2023-08-03-optimizing-macos-battery-life %}
+- For more on how Apple Silicon handles long-term multitasking, read our deeper dive into memory management on M-series Macs: <!-- removed broken link: 2024-10-18-apple-silicon-memory-management -->
+- If you want a broader sense of how Apple designs for portability, check our exploration of ultrabook trends in 2025: <!-- removed broken link: 2025-01-12-ultrabook-trends-2025 -->
+- Our hands-on guide to optimizing macOS for efficiency and battery life: <!-- removed broken link: 2023-08-03-optimizing-macos-battery-life -->
 
 External resources:
 - Official Apple MacBook Air page: https://www.apple.com/macbook-air/

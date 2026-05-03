@@ -141,10 +141,10 @@ Who might want something else?
 
 - Official product page (Winning Moves): https://www.winning-moves.com
 - For a broader look at retro card games, see my post on Deck Crafting 101 and how to mix modern play with vintage components:
-  - [Deck Crafting 101]({% post_url 2023-07-14-deck-crafting-101 %})
-  - [The Great Card Game Reboot]({% post_url 2024-02-20-great-card-game-reboot %})
+  - Deck Crafting 101
+  - The Great Card Game Reboot
 - If you want to compare other 2000s card games, check out my piece on The Card Game Renaissance that dives into the era’s design choices and market strategies:
-  - [The Card Game Renaissance]({% post_url 2022-11-03-card-game-renaissance %})
+  - The Card Game Renaissance
 
 ## Final Recommendation
 

@@ -80,7 +80,7 @@ Things to consider if you’re buying this vintage edition: the rarity of a comp
 ## Nostalgia, family, and the Geeknite effect
 The best thing about vintage game sets is how they anchor you to a time when a big night meant calling grandma down from the attic, grabbing a bowl of chips, and letting a couple of siblings laugh until someone flips over the wrong card. Skip-Bo’s numbers, its wild cards, and the whole concept of building piles echo a simpler time when the rules didn’t come with a 12-page PDF and a dedicated app to manage every interaction. This is a reflection of a gaming era that prized social interaction and the joy of figuring things out together—an ethos that resonates with Geeknite’s mission to highlight the fun of imperfect, humorous, and heartwarming games.
 
-If you want more nostalgia-cracking content, check out our post on the vintage game shelf and how to curate the perfect retro collection: [A curated retro shelf for geeks]({% post_url 2023-06-10-vintage-games-guide.html %}). For a direct comparison to a modern, app-based counterpart, see [Uno vs Skip-Bo: The Tabletop Debate]({% post_url 2024-01-15-uno-vs-skip-bo.html %}).
+If you want more nostalgia-cracking content, check out our post on the vintage game shelf and how to curate the perfect retro collection: A curated retro shelf for geeks. For a direct comparison to a modern, app-based counterpart, see Uno vs Skip-Bo: The Tabletop Debate.
 
 External resources: you can peek at the official wiki for historical context and variations here: https://en.wikipedia.org/wiki/Skip-Bo
 
@@ -94,8 +94,8 @@ External resources: you can peek at the official wiki for historical context and
 Skip-Bo is not about the perfect play; it’s about the story of the night—the little triumphs, the kids calling out “uno” and meaning Skip-Bo, and the uncle who can’t stop laughing when a wild card flips into the wrong pile. That’s the Geeknite effect: the joy of imperfect, friendly competition with a dash of humor. It’s the kind of night you’ll remember long after the cards are shuffled and returned to the shelf—where they live as little reminders that family games can be hysterically fun even when the instructions are MIA.
 
 If you loved this nostalgia trip, check out our other posts:
-- Uno vs Skip-Bo: The Tabletop Debate [{% post_url 2024-01-15-uno-vs-skip-bo.html %}]
-- A Curated Retro Shelf for Geeks [{% post_url 2023-06-10-vintage-games-guide.html %}]
+- Uno vs Skip-Bo: The Tabletop Debate [<!-- removed: 2024-01-15-uno-vs-skip-bo -->]
+- A Curated Retro Shelf for Geeks [<!-- removed: 2023-06-10-vintage-games-guide -->]
 
 External resources: https://en.wikipedia.org/wiki/Skip-Bo
 
@@ -110,8 +110,8 @@ If you’re ready to dive into a vintage experience, you can purchase vintage Sk
 Buy now via our affiliate link: https://www.example-affiliate.com/skipbo-1993?ref=geeknite
 
 For more on retro game nights and to follow our ongoing explorations of classic family games, check out our other posts:
-- [Uno vs Skip-Bo: The Tabletop Debate]({% post_url 2024-01-15-uno-vs-skip-bo.html %})
-- [A Curated Retro Shelf for Geeks]({% post_url 2023-06-10-vintage-games-guide.html %})
+- Uno vs Skip-Bo: The Tabletop Debate
+- A Curated Retro Shelf for Geeks
 
 External resources: https://en.wikipedia.org/wiki/Skip-Bo
 

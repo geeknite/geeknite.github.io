@@ -99,9 +99,9 @@ External links:
 - https://boardgamegeek.com/boardgame/xxxxxx/modern-art-card-game
 
 ### Related Geeknite reads you might enjoy
-- A retrospective on Knizia’s art-market mechanics and how they’ve aged over 20+ years. {% post_url 2023-03-19-knizia-art-mechanics-retro %}
-- Sealed deck strategies that actually work in lightweight auction games. {% post_url 2022-11-02-sealed-deck-strategies %}
-- The “What makes a good art-market game?” explainer and a few favorites. {% post_url 2021-08-15-art-market-games %}
+- A retrospective on Knizia’s art-market mechanics and how they’ve aged over 20+ years. <!-- removed broken link: 2023-03-19-knizia-art-mechanics-retro -->
+- Sealed deck strategies that actually work in lightweight auction games. <!-- removed broken link: 2022-11-02-sealed-deck-strategies -->
+- The “What makes a good art-market game?” explainer and a few favorites. <!-- removed broken link: 2021-08-15-art-market-games -->
 
 ## Final recommendation: who should pick this up?
 

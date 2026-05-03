@@ -111,7 +111,7 @@ If you are curious about the official launch and want to sniff out the exact spe
 - Official page: https://shop.mattel.com/product/phase-10-go-pocket-size
 - Additional details and community feedback: [Phase 10 GO mini on BoardGameGeek](https://boardgamegeek.com/boardgame/phase-10-go-mini)
 
-If you enjoyed this pocket sized exploration into Phase 10 GO 2025 mini, you may also want to revisit some of our older gadget guides and gaming gear discussions. For a deeper look into the GO line, you can follow this link to our earlier post on the micro GO line {% post_url 2024-11-01-phase-10-go-review %} or the 2023 quick take on pocket friendly card games {% post_url 2023-05-12-pocket-card-roundup %} for a broader perspective on how micro games are shaping the hobby.
+If you enjoyed this pocket sized exploration into Phase 10 GO 2025 mini, you may also want to revisit some of our older gadget guides and gaming gear discussions. For a deeper look into the GO line, you can follow this link to our earlier post on the micro GO line <!-- removed broken link: 2024-11-01-phase-10-go-review --> or the 2023 quick take on pocket friendly card games <!-- removed: 2023-05-12-pocket-card-roundup --> for a broader perspective on how micro games are shaping the hobby.
 
 In the end, Phase 10 GO mini is a charming, portable edition that captures the spirit of a classic and gives you something you can actually take on a trip without needing a separate carry-on. It may not be the bookish epic of the board game shelf, but it is a reliable, friendly gateway to a quick gaming session when you are not in the mood to commit to a heavy campaign. If you value portability, quick rounds, and a dash of nostalgia in your pocket, the GO mini earns a place in the travel gaming closet.
 

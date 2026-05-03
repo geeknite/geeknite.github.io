@@ -17,7 +17,7 @@ Dieses Review geht der Frage nach: Lohnt sich dieses Konzept, oder ist es doch e
 
 ![Monopoly für schlechte Verlierer – Box](assets/images/monopoly-bad-losers-2020.jpg)
 
-Für alle, die mehr zu klassischen Monopoly-Varianten lesen möchten, empfehlen wir einen Blick in unsere früheren Beiträge und Verweise am Ende dieses Artikels. Falls du das Thema direkt weiterverfolgen willst: {% post_url 2023-11-01-monopoly-mods-fuer-familien %}.
+Für alle, die mehr zu klassischen Monopoly-Varianten lesen möchten, empfehlen wir einen Blick in unsere früheren Beiträge und Verweise am Ende dieses Artikels. Falls du das Thema direkt weiterverfolgen willst: <!-- removed broken link: 2023-11-01-monopoly-mods-fuer-familien -->.
 
 ### Inhalt des Sets – was steckt drin?
 In der Box findest du neben dem altbekannten Monopoly-Spielfeld, Karten, Geld und Häusern eine Reihe von Ergänzungen, die das Verlierer-Feeling gezielt ansprechen. Dazu gehören neue Event-Karten, die das Spieltempo rasant beeinflussen können, sowie ein kleines Regelheft, das ausdrücklich darauf abzielt, die Emotionen der Verlierer-Gänger zu kanalisieren. Die Farben des Spiels wirken gewohnt plakativ – Rot für Risiko, Grün für Besitz, Blau für Investitionen – doch hier hängt mehr daran, wie du Verlieren stylisch angehst, als daran, wie viel Geld du insgesamt besitzt. Die Materialqualität liegt auf dem üblichen Hasbro-Niveau: robustes Kartenmaterial, solide Spielfiguren und ein Spielfeld, das sich klar abhebt, damit Verlieren sichtbar wird, nicht nur innerlich.
@@ -79,8 +79,8 @@ Der größte Unterschied liegt in der Betonung des Verlieren-Feeling. Während k
 - Kombiniere mit anderen Varianten: Wer sich ausleihen will, kann eine Runde dieses Sets als Auftakt verwenden, danach zu einem härteren Monopoly übergehen, um den Abend mit einem Kontrast zu beenden.
 
 ## Vorschläge für passende Begleitinhalte auf Geeknite
-- Weiterführend zu diesem Thema könnte unser Beitrag zu Monopoly-Modifikationen für Familien interessant sein: {% post_url 2023-11-01-monopoly-mods-fuer-familien %}.
-- Wenn du nach weiteren humorvollen Brettspiel-Erlebnissen suchst, schau dir unseren Artikel zu Spieletests in der Praxis an, der zeigt, wie man auch in verlustreichen Spielen noch Spaß haben kann: {% post_url 2022-06-15-spieltests-in-praxis %}.
+- Weiterführend zu diesem Thema könnte unser Beitrag zu Monopoly-Modifikationen für Familien interessant sein: <!-- removed broken link: 2023-11-01-monopoly-mods-fuer-familien -->.
+- Wenn du nach weiteren humorvollen Brettspiel-Erlebnissen suchst, schau dir unseren Artikel zu Spieletests in der Praxis an, der zeigt, wie man auch in verlustreichen Spielen noch Spaß haben kann: <!-- removed broken link: 2022-06-15-spieltests-in-praxis -->.
 
 ## Fazit – Empfehlung, Disclaimer, und Abschlussgedanken
 Hasbro Monopoly für schlechte Verlierer ist eine mutige, teils chaotische, teils gerechte Variante, die Bereiche von Humor, Gruppeninteraktion und emotionaler Intelligenz miteinander verknüpft. Die Idee, Verlieren in eine sportliche Aktivität zu verwandeln, trifft in vielen Gruppen auf offene Ohren und irre Lachmomente, in anderen kann sie jedoch zu Frustrationen führen, wenn Regeln zu oft neu interpretiert werden. Es ist kein universelles Wundermittel, das jedes Spielglück garantiert. Vielmehr ist es ein Werkzeug, das mit dem richtigen Ton und der richtigen Gruppe richtig funktionieren kann: als Anstoß für lockere Abende, die das Thema Konkurrenz mit einer guten Portion Gelassenheit mischen.

@@ -135,7 +135,7 @@ The XXL 6-meter Santa sits at a premium end of inflatables. You’re paying for 
 
 In the world of holiday tech toys, we’ve seen interesting stuff: drone-powered snowflakes, programmable LED icicles, and robotic sleighs with rubber reindeer. The 6-meter Santa is a different beast: it’s a throwback to the classic inflatable craze, upgraded with LED modernity and a stadium-sized presence. If you crave the nostalgia of giant yard inflatables but want it to be visible from the neighbor’s kitchen window, this is your pick. If you prefer subtlety and a softer winter theme, you’ll want to pass and let the more modest inflatables do the talking.
 
-For a quick comparison, you can revisit our earlier LED-themed inflatable reviews here: {% post_url 2026-11-15-led-outdoor-decor-review %} and here: {% post_url 2026-11-01-christmas-lawn-ornaments-roundup %}. Those posts give you a sense of scale and lighting strategy across a broader range of decorations.
+For a quick comparison, you can revisit our earlier LED-themed inflatable reviews here: <!-- removed broken link: 2026-11-15-led-outdoor-decor-review --> and here: <!-- removed: 2026-11-01-christmas-lawn-ornaments-roundup -->. Those posts give you a sense of scale and lighting strategy across a broader range of decorations.
 
 ## Real-world usage stories from the Geeknite crew
 
@@ -173,8 +173,8 @@ For those who want to dive in with minimal fuss, here are quick purchase tips:
 - Pair with complementary decor to maximize visibility while keeping a coherent theme.
 
 External resources and a few more ideas can help you shape a display that’s uniquely yours. For an in-depth look at related LED inflatable decor, you can explore our other posts:
-- [LED Outdoor Decor Guide]({% post_url 2026-11-15-led-outdoor-decor-guide %})
-- [Giant Inflatable Showdowns: Size and Impact]({% post_url 2026-11-10-inflatable-showdown %})
+- LED Outdoor Decor Guide
+- Giant Inflatable Showdowns: Size and Impact
 
 ### Where to buy and warranty considerations
 

@@ -1,5 +1,5 @@
 ---
-title: Disney Beat The Parents: 2023 Edition Review
+title: "Disney Beat The Parents: 2023 Edition Review"
 date: 2023-11-15 12:00:00 -0000
 tags:
   - board games
@@ -34,11 +34,11 @@ The 2023 edition is compact, sturdy, and pleasantly glossy. The lid slides open 
 
 Setting up Disney Beat The Parents 2023 is a quick ritual rather than a ceremony. Here’s the typical flow:
 
-1) Place the timer within easy reach of all players. If you’re playing with tall folks and short folks, consider placing it on a shelf for visibility without neck gymnastics.
-2) Shuffle the question cards and place them in the center. Pro-tip: keep a small stack of “starter” cards on top to get the energy up right away.
-3) Decide the teams. The classic dynamic is Kids versus Parents, but you’re free to do a “Team Potbelly Rollers” meme edition if that sounds like your household humor. The important thing is to have two teams that can volley banter back and forth without resentment.
-4) Each player chooses a character token. This is less about strategy and more about vibes. Do you want to channel the energy of a grumpy genie or the optimism of a cheerful fairy godmother? The choice is yours.
-5) Review the scoring method with the team. Most versions reward closer predictions more points, and some rounds offer bonus points for dramatic storytelling. The 2023 edition keeps things accessible while encouraging some theatrical flair.
+1. Place the timer within easy reach of all players. If you’re playing with tall folks and short folks, consider placing it on a shelf for visibility without neck gymnastics.
+2. Shuffle the question cards and place them in the center. Pro-tip: keep a small stack of “starter” cards on top to get the energy up right away.
+3. Decide the teams. The classic dynamic is Kids versus Parents, but you’re free to do a “Team Potbelly Rollers” meme edition if that sounds like your household humor. The important thing is to have two teams that can volley banter back and forth without resentment.
+4. Each player chooses a character token. This is less about strategy and more about vibes. Do you want to channel the energy of a grumpy genie or the optimism of a cheerful fairy godmother? The choice is yours.
+5. Review the scoring method with the team. Most versions reward closer predictions more points, and some rounds offer bonus points for dramatic storytelling. The 2023 edition keeps things accessible while encouraging some theatrical flair.
 
 Within five minutes, you’re into the rhythm: a question is drawn, teams confer, an answer is flashed on the board (in your own, goofy heads), and points are tallied. The dynamic depends on your group. If you have a roomful of film buffs who can recite a line from every Disney film released since 1995, you’ll spend more time debating the accuracy of quotes than actually answering questions. If your family is more casual about the Disney canon, you’ll savor the shared laughter and the occasional “wait, that’s not what I thought the parents would say.” Either way, the start is brisk and never feels forced.
 
@@ -46,14 +46,15 @@ Within five minutes, you’re into the rhythm: a question is drawn, teams confer
 
 The core mechanic is built around predicting the parents’ (or a designated authority’s) answers. The question cards offer prompts that force players to think about what the broader group believes is the canonical reaction inside a Disney context. The 2023 edition uses a mix of question types that play to different strengths:
 
-- Knowledge checks: What is the name of the talking teapot in a classic animated feature? 
-- Scenario predictions: If Sally the kitten starred in a Disney movie, which character would she most closely resemble? 
-- Song and lyric rounds: Which line comes next in a famous Disney song? 
-- Plot twist prompts: Which plot twist would be most surprising to a group of parents listening to a modern Disney blockbuster? 
+- Knowledge checks: What is the name of the talking teapot in a classic animated feature?
+- Scenario predictions: If Sally the kitten starred in a Disney movie, which character would she most closely resemble?
+- Song and lyric rounds: Which line comes next in a famous Disney song?
+- Plot twist prompts: Which plot twist would be most surprising to a group of parents listening to a modern Disney blockbuster?
 
 The timer adds pressure, but not the pressure of a final boss fight. It’s the kind of pace that keeps momentum without turning into a speedrun nightmare. Points typically reward both accuracy and how entertaining your justification is. The 2023 edition leans into the social fun: if you can justify a wacky but plausible answer with a quick story, you’ll earn bonus points for creativity.
 
 A few practical tips for beginners:
+
 - Don’t overthink it. Disney trivia is gloriously inconsistent across eras; what matters more is your tone and your team’s mood.
 - Use the category bonuses wisely. If you’ve got a team that excels in music or character impressions, lean into those rounds to rack up big points.
 - Keep the energy positive. The game is designed to be playful; avoid the trap of turning a question into a group roast unless your crew enjoys that vibe.
@@ -111,6 +112,7 @@ If you’re hoping for doorstop-level depth or a long campaign, Beat The Parents
 ## Pros and Cons
 
 Pros:
+
 - Accessible setup: fast to start, quick to play, easy to explain.
 - Strong Disney flavor without becoming a niche gopher hole of trivia.
 - Family-friendly humor that invites everyone to participate.
@@ -118,6 +120,7 @@ Pros:
 - Good balance between knowledge and storytelling that keeps players engaged.
 
 Cons:
+
 - Some questions rely on widely known facts rather than deep Disney lore, which can be a miss for hardcore fans.
 - If your group prefers heavy strategy or cutthroat competition, the scoring and rules might feel a touch light.
 - Replaying the same deck can feel repetitive over a long stretch; consider mixing in a custom deck for long-term replayability.
@@ -134,7 +137,7 @@ Overall, the pros outweigh the cons for most families looking to blend pop cultu
 
 ## A Brief Look at Other Editions (For Compare and Contrast)
 
-If you’ve played a prior edition of Beat The Parents, you’ll notice how the 2023 Disney release leans into the studio’s modern archive while preserving the core premise. The classic edition had a more generic setup and relied on broad family questions. The Disney 2023 variant tightens the theme, but doesn’t forget that the point is to have fun together. For those curious about the lineage, you can check our earlier note on the classic edition here: [Beat the Parents - Classic Edition]({% post_url 2023-05-02-beat-the-parents-classic-edition %}). If you want to compare to more recent family game-night coverage, see our take on a different theme night here: [Disney in the Living Room: A Modern Family Game Night]({% post_url 2024-02-11-disney-edition-review %}).
+If you’ve played a prior edition of Beat The Parents, you’ll notice how the 2023 Disney release leans into the studio’s modern archive while preserving the core premise. The classic edition had a more generic setup and relied on broad family questions. The Disney 2023 variant tightens the theme, but doesn’t forget that the point is to have fun together. For those curious about the lineage, you can check our earlier note on the classic edition here: Beat the Parents - Classic Edition. If you want to compare to more recent family game-night coverage, see our take on a different theme night here: Disney in the Living Room: A Modern Family Game Night.
 
 ## Final Verdict
 
@@ -145,14 +148,14 @@ If you want something that’s easy to learn, quick to play, and rich with famil
 ## External Resources
 
 - Official Disney edition page: https://www.hasbro.com/en-us/search?q=beat%20the%20parents
-- Related Geeknite post: Beat the Parents - Classic Edition: {% post_url 2023-05-02-beat-the-parents-classic-edition %}
-- Related Geeknite post: Disney Edition Coverage: {% post_url 2024-02-11-disney-edition-review %}
+- Related Geeknite post: Beat the Parents - Classic Edition: <!-- removed broken link: 2023-05-02-beat-the-parents-classic-edition -->
+- Related Geeknite post: Disney Edition Coverage: <!-- removed broken link: 2024-02-11-disney-edition-review -->
 
 ## Image Gallery
 
 ![][Disney Beat The Parents 2023 Edition Box Art]({{ site.baseurl }}/assets/images/disney-beat-the-parents-2023.jpg)
 
-[External image credits: Disney licensing and Hasbro packaging art] 
+[External image credits: Disney licensing and Hasbro packaging art]
 
 ## Concluding Thoughts
 

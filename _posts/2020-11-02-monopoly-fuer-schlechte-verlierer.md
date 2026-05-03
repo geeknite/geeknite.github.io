@@ -74,8 +74,8 @@ Die Edition entsteht aus dem Wunsch, Monopoly zugänglicher für Spielergruppen 
 
 ### Weiterführende Links und Referenzen
 - Offizielle Hasbro-Seite: https://www.hasbro.com
-- Monopoly Variationen: [Mehr Monopoly-Varianten]({% post_url 2020-04-10-monopoly-varianten %})
-- Monopoly – Geeknite Review-Sammlung: [Alle Monopoly-Posts]({% post_url 2020-03-02-monopoly-alle-varianten %})
+- Monopoly Variationen: Mehr Monopoly-Varianten
+- Monopoly – Geeknite Review-Sammlung: Alle Monopoly-Posts
 - Allgemeine Brettspiel-Entwicklung: https://boardgamegeek.com
 
 ## Langzeitwert und Wiederspielwert

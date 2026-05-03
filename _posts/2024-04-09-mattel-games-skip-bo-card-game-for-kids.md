@@ -39,8 +39,8 @@ I also appreciate that the design keeps the focus on play rather than gimmicks. 
 
 For more on how Skip-Bo stacks up against other kids’ card games, you might want to compare notes with our earlier guide on family-friendly options. The interlink below helps you skim quickly to similar content without wading through a dozen pages of text.
 
-- More on kid-friendly games: <a href="{% post_url 2023-06-15-board-games-for-kids.html %}">Board Games for Kids</a>
-- House rules and expansions: <a href="{% post_url 2023-03-12-family-game-night-essentials.html %}">Family Game Night Essentials</a>
+- More on kid-friendly games: <a href="<!-- removed: 2023-06-15-board-games-for-kids -->">Board Games for Kids</a>
+- House rules and expansions: <a href="<!-- removed: 2023-03-12-family-game-night-essentials -->">Family Game Night Essentials</a>
 
 ## How the gameplay flows: a kid-friendly but not baby-safe sprint to the finish
 Skip-Bo is designed so that a kid can pick it up in minutes, but it rewards smarter decisions as you play more rounds. Here is a practical walkthrough for families with younger players who are excited about numbers but still learning strategy.
@@ -93,7 +93,7 @@ One of the best features of Skip-Bo is that it invites house rules without feeli
 - Hand-swap rares: If a player ends their turn with a gap in a build pile that cannot be filled immediately, allow a one-card hand swap between players as a courtesy move. It keeps the game moving and reduces the risk of stuck rounds.
 - Cooperative mode: Use the shared build piles as a team project against a ticking clock rather than competing against each other. This can be a nice switch for kids who feel overwhelmed by head-to-head pressure.
 
-If you want to dive deeper into what other families do with card game variants, these inter-post links can guide you toward more ideas: <a href="{% post_url 2023-06-15-board-games-for-kids.html %}">Board Games for Kids</a> and <a href="{% post_url 2023-03-12-family-game-night-essentials.html %}">Family Game Night Essentials</a>.
+If you want to dive deeper into what other families do with card game variants, these inter-post links can guide you toward more ideas: <a href="<!-- removed: 2023-06-15-board-games-for-kids -->">Board Games for Kids</a> and <a href="<!-- removed: 2023-03-12-family-game-night-essentials.html -->">Family Game Night Essentials</a>.
 
 ## Real-world play tests: what happens when actual kids and grown-ups play
 We ran several test rounds with a mixed group: a 6-year-old beginner who counted with toes and fingers, a 9-year-old who could bluff with the best of them, and two adults who treated the game like a minor tactical puzzle. The results were consistently entertaining. The 6-year-old learned quickly by watching the numbers emerge on the table, calling out the numbers in a sing-song voice that somehow made counting feel like a catchy jingle. The 9-year-old quickly learned to save the wilds for moments when a sequence looked precarious, proving that patience and timing are as valuable as raw speed.

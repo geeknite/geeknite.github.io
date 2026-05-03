@@ -44,7 +44,7 @@ Price is the elephant in the room for sealed MTG products. The M21 Collector Boo
 
 If you want to understand current market dynamics for M21, you can check the official product page for Core Set 2021 to see what Wizards of the Coast is marketing. Here is the official product page: https://magic.wizards.com/en/products/core-set-2021. For price trends and breakdowns from the community, you may also see market trackers and retailer price histories on sites like MTGGoldfish or TCGPlayer. Keep in mind that sealed product values are influenced by card prices, the desirability of particular foils, and the general health of the market.
 
-If you want to learn how to maximize your odds when opening these packs, check out some practical tips in our earlier post about dealing with sealed product and pack opening strategies, such as the one at {% post_url 2020-07-12-magic-box-opening-tips %}. You can also compare with a different sealed product approach in our post on {% post_url 2020-07-01-sealed-mbox-guide %}.
+If you want to learn how to maximize your odds when opening these packs, check out some practical tips in our earlier post about dealing with sealed product and pack opening strategies, such as the one at <!-- removed broken link: 2020-07-12-magic-box-opening-tips -->. You can also compare with a different sealed product approach in our post on <!-- removed: 2020-07-01-sealed-mbox-guide -->.
 
 ## Pros and cons
 Pros:
@@ -77,8 +77,8 @@ Because M21 is older, supply dynamics and regional demand can swing prices. Loca
 
 ### Official and community resources
 For the official information on Core Set 2021, you can visit Wizards of the Coast product page: https://magic.wizards.com/en/products/core-set-2021. If you are curious about player tips and market insights, the community often shares real-world data on price movements and volatility, which can inform your purchasing decisions. You can also check the following internal resources for related topics:
-- {% post_url 2020-07-12-magic-box-opening-tips %}
-- {% post_url 2020-07-01-sealed-mbox-guide %}
+- <!-- removed broken link: 2020-07-12-magic-box-opening-tips -->
+- <!-- removed broken link: 2020-07-01-sealed-mbox-guide -->
 
 ## Open box impressions and our verdict
 The M21 Collector Booster Display Box is a premium product aimed at the thrill of the chase and the beauty of foils. It is not a guaranteed value machine, but it is a striking display piece and a tempting way to explore the set without building a straight deck from a bulk of boosters. If you value the thrill and the art more than the practical deck-building outcomes, this product likely fits your taste. If you are purely looking for the best ROI or the easiest path to decks, you may want to diversify into singles or Set Boosters first.

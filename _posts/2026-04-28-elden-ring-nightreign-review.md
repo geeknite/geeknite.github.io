@@ -116,7 +116,7 @@ Praise the optimization team. Unlike Elden Ring's rocky PC launch, Nightreign ru
 
 DLSS 4 and FSR 4 are both supported. With frame generation, even 1080p cards push past 60 FPS at Max settings.
 
-For [PS5]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}) owners considering the [PS5 Pro]({%- post_url 2025-03-07-ps5-pro-review -%}), the Pro offers native 4K60 without dynamic resolution drops — a genuine upgrade for this title.
+For [PS5]({{ site.constants.wsib }}playstation 5) owners considering the [PS5 Pro](/2025/03/ps5-pro-review.html), the Pro offers native 4K60 without dynamic resolution drops — a genuine upgrade for this title.
 
 ## Criticisms (Minor)
 
@@ -126,7 +126,7 @@ For [PS5]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}) own
 
 ## The Verdict: 9.5/10 🏆
 
-Elden Ring Nightreign is the [best co-op game]({%- post_url 2026-04-22-best-cooperative-board-games-2026 -%}) I've played in years — digital or analog. It proves that FromSoftware's combat system, widely considered the best in the industry, only gets better when you add friends and strip away the padding. Every run is tense, every boss kill is euphoric, every wipe teaches you something.
+Elden Ring Nightreign is the [best co-op game](/2026/04/best-cooperative-board-games-2026.html) I've played in years — digital or analog. It proves that FromSoftware's combat system, widely considered the best in the industry, only gets better when you add friends and strip away the padding. Every run is tense, every boss kill is euphoric, every wipe teaches you something.
 
 If you own a PS5, Xbox, or PC capable of running it — buy it. If you have two friends who enjoy action games — buy it and gift them copies. It's that good.
 
@@ -136,8 +136,8 @@ If you own a PS5, Xbox, or PC capable of running it — buy it. If you have two 
 
 ## Related Posts
 
-- [Elden Ring Nightreign PS5 Preview]({%- post_url 2025-01-24-elden-ring-nightreign-ps5-review -%}) — Our early impressions from the network test
-- [PS5 Comprehensive Review]({%- post_url 2023-02-01-ps5-comprehensive-review-good-bad-big -%}) — The console it runs on
-- [PS5 Pro Review]({%- post_url 2025-03-07-ps5-pro-review -%}) — The premium console experience
-- [Best Cooperative Board Games 2026]({%- post_url 2026-04-22-best-cooperative-board-games-2026 -%}) — More co-op for tabletop nights
-- [Nintendo Switch 2 Launch Games]({%- post_url 2026-04-12-nintendo-switch-2-launch-games-guide -%}) — Switch 2's Nightreign port
+- [Elden Ring Nightreign PS5 Preview](/2025/01/elden-ring-nightreign-ps5-review.html) — Our early impressions from the network test
+- [PS5 Buying Guide]({{ site.constants.wsib }}playstation 5) — The console it runs on
+- [PS5 Pro Review](/2025/03/ps5-pro-review.html) — The premium console experience
+- [Best Cooperative Board Games 2026](/2026/04/best-cooperative-board-games-2026.html) — More co-op for tabletop nights
+- [Nintendo Switch 2 Launch Games](/2026/04/nintendo-switch-2-launch-games-guide.html) — Switch 2's Nightreign port

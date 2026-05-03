@@ -79,8 +79,8 @@ external resources
 - kickstarter project page: https://www.kickstarter.com/projects/cmon/zombicide-season-3-infected-pack
 
 for related posts on geeknite
-- read more on a prior zombicide review: {% post_url 2024-04-12-zombicide-season-2-review %}
-- other boardgame kickstarter roundups: {% post_url 2024-02-20-kickstarter-roundup %}
+- read more on a prior zombicide review: <!-- removed broken link: 2024-04-12-zombicide-season-2-review -->
+- other boardgame kickstarter roundups: <!-- removed broken link: 2024-02-20-kickstarter-roundup -->
 
 ## final recommendation
 

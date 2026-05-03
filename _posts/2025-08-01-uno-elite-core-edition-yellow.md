@@ -99,8 +99,8 @@ External links:
 - BoardGameGeek entry (for community feedback and variant ideas): https://boardgamegeek.com/boardgame/18206/uno
 
 For internal readers who want to explore related content, you can check our older posts about UNO strategies and variants:
-- Read our Classic UNO Review here: {% post_url 2024-11-20-uno-classic-review %}
-- Dive into UNO Strategy Tips here: {% post_url 2025-01-02-uno-strategy-guide %}
+- Read our Classic UNO Review here: <!-- removed broken link: 2024-11-20-uno-classic-review -->
+- Dive into UNO Strategy Tips here: <!-- removed broken link: 2025-01-02-uno-strategy-guide -->
 
 ## Final Verdict: Should You Buy It?
 Yes, if your goal is to upgrade your UNO nights with a color that practically glows with enthusiasm and a set of improvements that reduces the learning curve for new players, the UNO Elite CORE EDITION Yellow earns serious bonus points. It’s not a radical overhaul of the UNO formula, but it doesn’t pretend to be. It respects the tradition while inviting a new wave of energy to your table. The new action cards are fun, the quick-reference guide is surprisingly handy, and the overall production quality makes it a welcome addition to any game-night arsenal.

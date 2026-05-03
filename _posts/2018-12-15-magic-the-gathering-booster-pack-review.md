@@ -1,7 +1,7 @@
 ---
 title: 'Magic: The Gathering - Booster Pack Review'
 date: "2018-12-15"
-tags: ['Magic: The Gathering', 'Booster Packs', 'Card Games', 'Review']
+tags: ["Magic: The Gathering", 'Booster Packs', 'Card Games', 'Review']
 description: 'Dive into the world of Magic: The Gathering and explore the highs and lows of booster packs.'
 last_modified_at: "2026-03-12"
 ---

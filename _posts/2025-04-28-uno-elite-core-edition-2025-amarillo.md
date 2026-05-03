@@ -82,7 +82,7 @@ While UNO is often about luck, there’s enough room in Amarillo to deploy strat
 - Keep a mental map of colors: The Amarillo deck’s color dynamics can be exploited by players who track which colors have popped up the most and which players seem to hold onto big cards. It’s not cheating; it’s situational awareness, which many players confuse for “nerd mode.”
 - Use the new action cards strategically: Some are best played early to set the tempo, while others shine when you’re close to going out. Use the “swing” cards to disrupt your strongest competitor’s rhythm, not to whittle your own hand into oblivion.
 
-If you want more depth on strategy and learning curves, you can revisit some of our prior thoughts in the [UNO Classic Review]({% post_url 2024-07-02-uno-classic-review %}) and compare how the core competition has evolved over time. For a broader context on how party games can balance luck and strategy, check our discussion in the [Board Games Night Guide]({% post_url 2023-08-15-board-games-night-guide %}).
+If you want more depth on strategy and learning curves, you can revisit some of our prior thoughts in the UNO Classic Review and compare how the core competition has evolved over time. For a broader context on how party games can balance luck and strategy, check our discussion in the Board Games Night Guide.
 
 
 ## Accessibility, Inclusivity, and Design Considerations
@@ -132,9 +132,9 @@ To summarize: Amarillo is a bright, practical upgrade for most households and ga
 ## Where to Buy and Where to Read More
 
 If you’d like to see more about UNO’s evolutions and how these editions compare across the spectrum, you can explore our review archive, including: 
-- [UNO Classic Review]({% post_url 2024-07-02-uno-classic-review %})
-- [Board Games Night Guide]({% post_url 2023-08-15-board-games-night-guide %})
-- [UNO Variants Roundup]({% post_url 2023-12-11-uno-variants-roundup %})
+- UNO Classic Review
+- Board Games Night Guide
+- UNO Variants Roundup
 
 For direct product details, you can also visit the official UNO site:
 - <https://www.uno.com>

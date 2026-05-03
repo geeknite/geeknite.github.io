@@ -77,8 +77,8 @@ The Air 15" sticks with a pragmatic port lineup. Expect USB-C/Thunderbolt for ex
 macOS Sonoma (or its contemporaries as of 2025) is the default, and that means you get a cohesive experience with your iPhone and iPad. Features like Universal Control, Handoff, Sidecar, and Continuity are not just marketing shtick—they genuinely streamline cross-device workflows. Copy on iPhone, paste on Mac; drag a photo from an iPad into a Pages document; and rely on iCloud to keep your files in sync across devices. If you already live in the Apple ecosystem, this is where the Air 15" becomes a central hub rather than a lonely laptop in your bag.
 
 Here are a couple of internal reads you might enjoy for context (use post_url to fetch the exact pages):
-- [Apple Silicon Evolution]( {% post_url 2024-12-01-apple-silicon-evolution %} )
-- [macOS Sonoma Deep Dive]( {% post_url 2024-10-14-macos-sonoma-deep-dive %} )
+- [Apple Silicon Evolution]( <!-- removed broken link: 2024-12-01-apple-silicon-evolution --> )
+- [macOS Sonoma Deep Dive]( <!-- removed broken link: 2024-10-14-macos-sonoma-deep-dive --> )
 
 External reference for your curiosity: [Official MacBook Air 15" Page](https://www.apple.com/macbook-air-15/) for specs and official features.
 
@@ -124,8 +124,8 @@ Final verdict: The MacBook Air 15" M4 in Midnight is a strong gain for people wh
 
 
 ## Related Geeknite Posts (for the curious)
-- A deeper dive into Apple Silicon: {% post_url 2024-12-01-apple-silicon-evolution %}
-- The MacBook Air vs. the MacBook Pro: Which one is right for you? {% post_url 2024-10-22-air-vs-pro-comparison %}
+- A deeper dive into Apple Silicon: <!-- removed broken link: 2024-12-01-apple-silicon-evolution -->
+- The MacBook Air vs. the MacBook Pro: Which one is right for you? <!-- removed broken link: 2024-10-22-air-vs-pro-comparison -->
 
 External resource with more specs and words: [Apple official MacBook Air 15 page](https://www.apple.com/macbook-air-15/).
 

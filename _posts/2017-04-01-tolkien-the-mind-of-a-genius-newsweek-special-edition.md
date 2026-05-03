@@ -69,9 +69,9 @@ If you want a quick entry point into the mind behind the myths, this edition off
 ## Interconnected reads
 For readers who want to deepen their exploration, consider checking out related posts in the Geeknite archive. You can explore broader discussions about Tolkien and language in our previous article on the deep linguistics behind epic fantasy. For a broader cultural context, you might enjoy our post on mythmaking in modern media. And for a practical look at worldbuilding in games and fiction, we have a dedicated guide that breaks down step by step how to craft believable languages, cultures, and histories.
 
-- Related post on Tolkien and language mechanics: {% post_url 2018-04-12-tolkien-language-mechanics %}
-- Related post on mythmaking in modern media: {% post_url 2019-09-07-mythmaking-modern-era %}
-- Worldbuilding guide for creators: {% post_url 2020-02-15-worldbuilding-101 %}
+- Related post on Tolkien and language mechanics: <!-- removed broken link: 2018-04-12-tolkien-language-mechanics -->
+- Related post on mythmaking in modern media: <!-- removed broken link: 2019-09-07-mythmaking-modern-era -->
+- Worldbuilding guide for creators: <!-- removed broken link: 2020-02-15-worldbuilding-101 -->
 
 External resources you might find enriching:
 - Newsweek official site: https://www.newsweek.com

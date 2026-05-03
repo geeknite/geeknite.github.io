@@ -62,9 +62,9 @@ In real-world usage, you will probably find the UNO Elite Core 2025 edition shin
 External Links and References
 
 - a quick look at the UNO Elite Core lineage on the company site: [UNO Elite Core product page](https://example.com/quentin-lake-2025-uno-elite-core)
-- a look back at other Geeknite keyboard reviews for context and comparison: [older keyboard roundups]({% post_url 2024-11-01-keyboard-roundup %})
-- another Geeknite post on foil keycaps and color schemes: [foil keycaps trends]({% post_url 2024-08-15-foil-keycaps-trends %})
-- a nerdy discussion on switches and dampening: [switch dampening deep dive]({% post_url 2023-07-12-switch-dampening-dive %})
+- a look back at other Geeknite keyboard reviews for context and comparison: older keyboard roundups
+- another Geeknite post on foil keycaps and color schemes: foil keycaps trends
+- a nerdy discussion on switches and dampening: switch dampening deep dive
 
 Pros and Cons
 

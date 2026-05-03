@@ -87,9 +87,9 @@ Skyzoo’s craft sits in the tradition of lyric-driven storytelling within hip-h
 - A discussion about Skyzoo and his work in the broader hip-hop landscape: https://en.wikipedia.org/wiki/Skyzoo
 
 ## You Might Also Like: Related Geeknite Posts
-- {% post_url 2024-08-15-vinyl-care-101 %}Vinyl Care 101: Cleaning, Storing, and Keeping Grooves Sharp
-- {% post_url 2024-03-22-hip-hop-samples-101 %}Hip-Hop Samples 101: How Producers Build Worlds from Short Clips
-- {% post_url 2024-06-07-turntable-aesthetics %}Turntable Aesthetics: The Art of the Setup and the Look of Your Listening Room
+- <!-- removed broken link: 2024-08-15-vinyl-care-101 -->Vinyl Care 101: Cleaning, Storing, and Keeping Grooves Sharp
+- <!-- removed broken link: 2024-03-22-hip-hop-samples-101 -->Hip-Hop Samples 101: How Producers Build Worlds from Short Clips
+- <!-- removed broken link: 2024-06-07-turntable-aesthetics -->Turntable Aesthetics: The Art of the Setup and the Look of Your Listening Room
 
 ## Final Verdict: Is the Skyzoo Mind of a Giant Deluxe Edition Worth It?
 If you’re a die-hard Skyzoo fan, a vinyl collector who loves a well-presented package, or someone who enjoys the ritual of taking a record for a long, thoughtful spin, the deluxe edition of The Mind of a Giant is a solid buy. The packaging is sturdy, the booklet is worth reading, and the color-pressed discs offer a tactile joy that digital formats can’t replicate. It’s not a game-changing leap over a standard edition in terms of raw audio novelty, but it is a meaningful enrichment: a curated artifact that pairs with the music rather than merely containing it. The deluxe edition works best when you treat it as an experience—spend time with the lyrics, savor the warmth of the vinyl, and let the narrative unfold with the attention it deserves.

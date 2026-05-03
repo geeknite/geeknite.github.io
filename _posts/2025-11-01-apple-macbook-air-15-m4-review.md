@@ -14,7 +14,7 @@ tags:
 ## Introduction: Welcome to Bigger, Cooler, Quieter Sanity
 If you thought the MacBook Air line couldn’t get any bigger or cooler without turning into a portable spaceship, Apple just rolled up with a midnight-blue meteor and parked it in your lap. The 15-inch MacBook Air with the M4 chip, 16GB RAM, and 256GB SSD in the Midnight color is the kind of device that makes you question your life choices—especially the ones that led you to wait for a “more affordable” ultrabook that could run your entire Steam library while still making it to lunch before your boss calls. In this review, we’re going to break down what this giant (for an Air) hall monitor does right, what it does wrong, and whether you should upgrade your life to a bigger screen and a shinier chip.
 
-If you want the quick take: yes, it’s the most portable desktop-grade machine you can legally call a laptop that also doubles as a productivity dictator. If you want the long, nerdy version with diagrams and jokes, you’re in the right place. For more nerdy reading on related topics, see {% post_url 2024-09-01-macbook-air-refresh %} and {% post_url 2023-05-02-apple-silicon-journey %}.
+If you want the quick take: yes, it’s the most portable desktop-grade machine you can legally call a laptop that also doubles as a productivity dictator. If you want the long, nerdy version with diagrams and jokes, you’re in the right place. For more nerdy reading on related topics, see <!-- removed broken link: 2024-09-01-macbook-air-refresh --> and <!-- removed: 2023-05-02-apple-silicon-journey -->.
 
 Boom. Let’s dive in.
 
@@ -116,7 +116,7 @@ Apple’s silicon and software optimization means you’ll likely enjoy several 
 
 ## Where to Learn More and Related Reads
 - Official Apple product page: https://www.apple.com/macbook-air-15/
-- Related Geeknite reads: {% post_url 2024-09-01-macbook-air-refresh %}, {% post_url 2023-05-02-apple-silicon-journey %}
+- Related Geeknite reads: <!-- removed broken link: 2024-09-01-macbook-air-refresh -->, <!-- removed: 2023-05-02-apple-silicon-journey -->
 
 ### Final Thought
 The MacBook Air 15-inch M4 is the sweet spot for those who want more screen real estate without stepping into the heavier Pro territory. It’s a practical, stylish, and capable companion for everyday work, study, and light creative tasks. If your pockets are modest but your ambitions aren’t, this is a device that turns the word portability from a buzzword into a daily habit. It’s not flawless, but it’s thoroughly delightful in several important ways—quiet, efficient, and'sly powerful when needed.

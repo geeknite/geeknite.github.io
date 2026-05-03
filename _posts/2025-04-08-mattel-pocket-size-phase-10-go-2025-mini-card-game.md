@@ -18,7 +18,7 @@ As with most Geeknite reviews, we approach this pocketable punch machine with a 
 
 If you are a fan of compact thrills, if your backpack doubles as a board-game carry-on, or if you simply enjoy mocking your friends while trying to collect all ten phases on a tiny table, this review is for you. We will cover what’s in the box, how the gameplay translates to a mini format, the quality of components, and whether this is a game you should actually consider for your next travel session or just a cute shelf-trophy with a built-in bragging right.
 
-For nerdy readers who want to compare notes with other Geeknite posts, you can peek at our earlier coverage of similar pocket innovations and small-box wonders via {% post_url 2024-05-12-mini-board-games-a-nifty-trend %} and {% post_url 2023-09-22-travel-friendly-tabletop-dos-and-donts %}. And if you want the official stance from Mattel on the GO! line (in case your curiosity needs more corporate color), check the official page here: https://www.mattelgames.com/en-us/products/phase-10-go-pocket-size.
+For nerdy readers who want to compare notes with other Geeknite posts, you can peek at our earlier coverage of similar pocket innovations and small-box wonders via <!-- removed broken link: 2024-05-12-mini-board-games-a-nifty-trend --> and <!-- removed: 2023-09-22-travel-friendly-tabletop-dos-and-donts -->. And if you want the official stance from Mattel on the GO! line (in case your curiosity needs more corporate color), check the official page here: https://www.mattelgames.com/en-us/products/phase-10-go-pocket-size.
 
 ## What’s in the box
 The pocket edition comes in a chibi-friendly box that looks like it swallowed a standard Phase 10 GO! set and asked for a shrink ray as a consolation prize. Inside, you typically find:
@@ -72,7 +72,7 @@ Price-wise, pocket editions typically cost a small premium for the convenience f
 
 For geeky households that collect variants of popular games, this is a welcome addition. It offers the same core challenge with a form factor that plays nicely with travel schedules and crowded living rooms. And if you enjoy the ritual of setting up a game while pretending you are in a sci-fi heist movie, the pocket version does not disappoint in capturing that spirit in a more portable container.
 
-If you want a direct apples-to-apples comparison with the standard Phase 10 GO! experience, you can read our older long-form review of the full-size version via {% post_url 2023-11-01-phase-10-go-full-review %}. For a lighter look at small-box gaming in general, check out our notes on pocket-friendly party games in {% post_url 2024-07-16-pocket-game-roundup %}. And of course, you can always visit the official page to see the glossy photos and official blurbs: https://www.mattelgames.com/en-us/products/phase-10-go-pocket-size.
+If you want a direct apples-to-apples comparison with the standard Phase 10 GO! experience, you can read our older long-form review of the full-size version via <!-- removed broken link: 2023-11-01-phase-10-go-full-review -->. For a lighter look at small-box gaming in general, check out our notes on pocket-friendly party games in <!-- removed: 2024-07-16-pocket-game-roundup -->. And of course, you can always visit the official page to see the glossy photos and official blurbs: https://www.mattelgames.com/en-us/products/phase-10-go-pocket-size.
 
 ## How it stacks up against the standard Phase 10 GO!
 - Portability: The pocket size shines here. It slips into small bags, coat pockets, and that secret pouch you forgot you had in your messenger bag.
@@ -96,8 +96,8 @@ If you are the kind of person who enjoys theater in the living room and a sense 
 
 ## Cross-linking with the Geeknite ecosystem
 For those who want to explore more pocket-friendly gaming, you can also head to our mini roundups and deep-dives on similar topics:
-- A quick check-in on small-box games: {% post_url 2024-05-12-mini-board-games-quick-takes %}
-- The essential traveler’s game kit: {% post_url 2024-12-01-travel-games-guide %}
+- A quick check-in on small-box games: <!-- removed broken link: 2024-05-12-mini-board-games-quick-takes -->
+- The essential traveler’s game kit: <!-- removed broken link: 2024-12-01-travel-games-guide -->
 
 ## External resources and community opinions
 If you want a different flavor of analysis, consider reading community threads and user reviews about pocket Phase 10 GO! variants. They offer a blend of practical tips and humorous anecdotes from players who have actually tried to fit a full game into the tiniest of bags. The comments section on these topics often reveals clever hacks for organizing the tiny components and experimenting with house rules that preserve the strategic tension while minimizing setup time.

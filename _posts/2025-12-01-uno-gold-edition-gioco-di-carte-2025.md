@@ -10,7 +10,7 @@ Benvenuti, mortali del tubo catodico e degli shiny gimmicks, a una nuova edizion
 
 Perché questo confronto tra l'UNO classico e la variante dorata? Perché, come ogni oggetto di lusso, anche questa edizione dice molto su chi siamo quando giochiamo a carte: siamo pronti a rischiare una mano intera per una sola carta dorata? Oppure preferiamo la pura semplicità di una partita senza fronzoli? Scopriamolo insieme.
 
-> In questa guida troverete anche riferimenti interni a contenuti correlati, così potete approfondire le regole di base o le strategie avanzate: {% post_url 2024-uno-regole-y-estrategias %}, {% post_url 2023-gioco-con-piu-giocatori %}, {% post_url 2022-strategie-avanzate-uno %}.
+> In questa guida troverete anche riferimenti interni a contenuti correlati, così potete approfondire le regole di base o le strategie avanzate: <!-- removed broken link: 2024-uno-regole-y-estrategias -->, <!-- removed: 2023-gioco-con-piu-giocatori -->, <!-- removed: 2022-strategie-avanzate-uno -->.
 
 ![Copertina UNO Gold Edition 2025](assets/images/uno-gold-edition-2025-cover.jpg)
 

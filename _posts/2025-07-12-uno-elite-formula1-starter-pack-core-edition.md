@@ -15,7 +15,7 @@ tags:
 
 If your gaming table ever whispered to you during a boring Sunday, demanding something faster than a nap and louder than a blender, the UNO Elite Formula 1 Starter Pack 2025 Core Edition from Mattel might be your answer. This sealed package promises a glossy, adrenaline-fueled variant of the evergreen card game we all know and love, with a Formula 1 skin that shouts fast laps, pit stops, and dramatic overtakes louder than a family dinner. In this review, we will unbox the sealed pack, dissect the components, test drive the rules on a wind-up track of chaos, and decide whether this is a must-have for fans of speed, strategy, or simply competitive chaos that makes you forget you were losing to your niece at Uno for the seventh time in a row.
 
-If you want to dive deeper into the world of UNO variants, you can check our deeper dive on UNO variants here: [{% post_url 2024-09-01-uno-variants-overview %}]. For tips on making family game night enjoyable for non-gamers, see our family gaming guides here: [{% post_url 2025-02-03-family-gaming-tips %}]. And for a more strategic take on the UNO family, here is a post that focuses on technique and risk management: [{% post_url 2024-11-19-uno-strategy-roundup %}].
+If you want to dive deeper into the world of UNO variants, you can check our deeper dive on UNO variants here: [<!-- removed broken link: 2024-09-01-uno-variants-overview -->]. For tips on making family game night enjoyable for non-gamers, see our family gaming guides here: [<!-- removed: 2025-02-03-family-gaming-tips -->]. And for a more strategic take on the UNO family, here is a post that focuses on technique and risk management: [<!-- removed: 2024-11-19-uno-strategy-roundup -->].
 
 ### Design and Aesthetic: The Pit Crew’s Card Deck
 

@@ -81,9 +81,9 @@ Si vous cherchez à booster votre bibliothèque sans vous ruiner et sans vous en
 - Cible café ludique : un jeu rapide qui peut être utilisé pour briser la glace et lancer une conversation autour des goûts culinaires, ou des compétences de bluff amical.
 
 ## Liens et références internes
-- Pour explorer les variantes, consultez notre post sur Sushi Go Party et découvrez si vous aimez les menus personnalisables : {% post_url 2020-05-10-sushi-go-party-review %}
-- Si vous souhaitez une comparaison plus fournie avec d autres jeux de draft légers, jetez un œil à notre revue rapide de Ramen Fury : {% post_url 2019-11-02-ramen-fury-review %}
-- Pour les curieux qui veulent savoir pourquoi les Wasabi peuvent multiplier les points, lisez notre guide rapide sur les mécanismes de bonus : {% post_url 2021-03-22-wasabi-guide %}
+- Pour explorer les variantes, consultez notre post sur Sushi Go Party et découvrez si vous aimez les menus personnalisables : <!-- removed broken link: 2020-05-10-sushi-go-party-review -->
+- Si vous souhaitez une comparaison plus fournie avec d autres jeux de draft légers, jetez un œil à notre revue rapide de Ramen Fury : <!-- removed broken link: 2019-11-02-ramen-fury-review -->
+- Pour les curieux qui veulent savoir pourquoi les Wasabi peuvent multiplier les points, lisez notre guide rapide sur les mécanismes de bonus : <!-- removed broken link: 2021-03-22-wasabi-guide -->
 
 ## Conclusion personnelle et recommandation finale
 Sushi Go! Édition Originale est un petit trésor de ludisme contemporain : simple, rapide, réactif et généreux en sourires. Il n’impose pas un fardeau narratif sur vos épaules ni une stratégie hérissée de complications. Il propose une discipline utile : apprendre à faire des choix dans l’instant, puis à anticiper rapidement ce que les autres vont faire. C’est exactement ce dont le genre a besoin pour rester vivant entre les mains d’un groupe et s’épanouir sur une table de cuisine ou un canapé lumineux. Si vous cherchez à étoffer votre collection sans vous intoxiquer de règles complexes, c’est probablement l’un des meilleurs choix à faire.

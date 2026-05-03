@@ -31,7 +31,7 @@ In Theros, the world is a mythic stage where gods, mortals, and legendary beings
 
 One might draw a comparison to classic fantasy heroes: a shield maiden who leads from the front and inspires others to join the march. The aesthetic aligns with Theros's mythic vibe, the sun-dappled plains, and the idea that heroism is a team sport.
 
-If you want to read more on flavor and design, you can check out some extended commentary on the set's themes and how walkers like Elspeth tie into that mythos: [Theros flavor overview]({% post_url 2023-11-15-theros-flavor-overview %}).
+If you want to read more on flavor and design, you can check out some extended commentary on the set's themes and how walkers like Elspeth tie into that mythos: Theros flavor overview.
 
 ## Mechanics and Playstyle
 Elspeth pushes you toward a particular tempo: you want to accelerate into a board presence that your opponent cannot answer on the same turn. The plus ability is your tempo tool, turning the board into a swarm of small creatures with vigilance. The minus ability acts as a strategic board wipe, letting you purge the battlefield of the big threats while leaving your small soldiers intact. The emblem synergy is what players remember most about Elspeth: it makes your entire army more potent over time.
@@ -58,14 +58,14 @@ You can slot Elspeth into a number of shells that exist in both standard and com
 - Commander: Elspeth in a white or white green deck can be a separate engine that creates a constant stream of tokens with synergy from other commanders and cards that reference tokens.
 - Pioneer/Modern: It depends on the local meta, but in general Elspeth works best in a deck that can support a token strategy with some protection and removal.
 
-In this section you might want to check out some of our earlier posts on deckbuilding with token synergy: [Token chaos in the white weave clan]({% post_url 2024-01-20-token-chaos-white-clan %}) and [Midrange elegance with the tokens]({% post_url 2023-09-07-midrange-tokens-elegance %}).
+In this section you might want to check out some of our earlier posts on deckbuilding with token synergy: Token chaos in the white weave clan and Midrange elegance with the tokens.
 
 ## The Meta and Where Elspeth Fits
 Elspeth arrived at a time when the meta could use a reliable token engine and a board wipe combined with a powerful emblem. In many metas, her +1 can accelerate into a board control plan that carries the game into your final win. In slower metas, your tokens can become an unstoppable river of bodies that eventually overwhelm opponents.
 
 The fun of Elspeth often lies in the interactions with other cards that care about tokens and creature counts. Decks that run a few extra token producers can profit from the synergy, and you can find yourself trading early threats with the ability to reestablish a dominant board.
 
-For a broader look at Elspeth's role across formats and how tokens shaped the Theros era, check out this inspirational piece: [Elspeth and the token revolution]({% post_url 2023-12-03-elspeth-token-revolution %}).
+For a broader look at Elspeth's role across formats and how tokens shaped the Theros era, check out this inspirational piece: Elspeth and the token revolution.
 
 ## Real Talk: Pros and Cons
 Pros:

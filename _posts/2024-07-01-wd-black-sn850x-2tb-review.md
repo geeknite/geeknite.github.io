@@ -1,5 +1,5 @@
 ---
-title: WD Black SN850X 2TB Review: Gen4 Gaming Domination in a Tiny Form Factor
+title: "WD Black SN850X 2TB Review: Gen4 Gaming Domination in a Tiny Form Factor"
 date: 2024-07-01 12:00:00 -0000
 tags:
   - hardware
@@ -27,7 +27,7 @@ The SN850X is built for PCIe Gen4 x4, with NVMe at its core. It is a 2280 device
 
 ### Where to learn more
 
-If you want the official specs straight from WD, check out the WD official page. You can also compare this drive with others in the Gen4 camp via our handy posts: [NVMe Gen4 showdown]({% post_url 2024-03-15-nvme-gen4-showdown %}) and [SSD speed myths debunked]({% post_url 2023-11-20-ssd-speed-myths %}).
+If you want the official specs straight from WD, check out the WD official page. You can also compare this drive with others in the Gen4 camp via our handy posts: NVMe Gen4 showdown and SSD speed myths debunked.
 
 ![WD SN850X 2TB close-up](/assets/images/wd-sn850x-2tb.jpg)
 
@@ -69,7 +69,7 @@ If you’re a creator who edits 4K footage or builds large game assets, this dri
 
 When you compare Gen4 NVMe drives, you’ll find a few options that push similar numbers in synthetic tests. In real-world use, however, the SN850X’s combination of fast sequential speeds, strong random I/O, and caching translates to consistently smooth performance across many workloads. If you want a more aggressive write performance, you may opt for other drives; if you want a well-rounded package that will feel fast in every task, SN850X is an excellent pick.
 
-For deeper dives, you can explore our related posts: [WD SN750 vs SN850X]({% post_url 2023-08-10-wd-sn750-vs-sn850x %}) and [Gen4 speed guide]({% post_url 2024-01-22-gen4-speed-guide %}).
+For deeper dives, you can explore our related posts: WD SN750 vs SN850X and Gen4 speed guide.
 
 ## Final verdict and recommendation
 

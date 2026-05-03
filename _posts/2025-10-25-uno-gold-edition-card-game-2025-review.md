@@ -62,9 +62,9 @@ Strategy tips for Gold Edition:
 No matter how polished a product, house rules are how most sessions actually shape the night. The rule sheet in Gold Edition includes clarifications and a few suggested house rules that encourage more dynamic play. If you like to escalate, consider a light version of a power-up auction: players bid on using a Gold Edition power card during a single round. The catch is that you must draw a penalty card if you win the bid but fail to execute the effect perfectly. It keeps players honest, and it adds a shared moment of hilarity when you misjudge the timing.
 
 If you want to see how other Geeknite writers approach UNO variants, check these posts:
-- UNO Classic Review: {% post_url 2023-05-12-uno-classic-review %}
-- UNO Evolution: The Great Reset: {% post_url 2024-11-02-uno-evolution %}
-- Board Game Night: 2024 UNO Championship: {% post_url 2024-08-20-uno-championship %}
+- UNO Classic Review: <!-- removed broken link: 2023-05-12-uno-classic-review -->
+- UNO Evolution: The Great Reset: <!-- removed broken link: 2024-11-02-uno-evolution -->
+- Board Game Night: 2024 UNO Championship: <!-- removed broken link: 2024-08-20-uno-championship -->
 
 Links to official sources for those who want to nerd out on the tiny legal details:
 - Official UNO page (Mattel): https://www.mattelgames.com/en-us/products/uno
@@ -107,9 +107,9 @@ If you and your crew love a dash of flair with your UNO and you enjoy a version 
 That said, if you already own standard UNO and you’re not interested in shiny foil or a handful of new cards that require a moment of study, you might be perfectly happy with your current deck. The Gold Edition is most valuable for players who enjoy a sensory upgrade and a few extra tactical angles that can swing a game night in surprising ways. It’s not a must-have for everyone, but it’s a very nice-to-have for players who like to treat their family game nights like a tiny festival of color and chaos.
 
 ## Related posts you might enjoy
-- UNO Classic Review: simple, timeless, and a little chaotic at times. {% post_url 2023-05-12-uno-classic-review %}
-- UNO Evolution: The Great Reset, where the rules get a glow-up and the drama gets louder. {% post_url 2024-11-02-uno-evolution %}
-- Board Game Night: 2024 UNO Championship, a field guide to outsmartting friends who think they’ve got the game memorized. {% post_url 2024-08-20-uno-championship %}
+- UNO Classic Review: simple, timeless, and a little chaotic at times. <!-- removed broken link: 2023-05-12-uno-classic-review -->
+- UNO Evolution: The Great Reset, where the rules get a glow-up and the drama gets louder. <!-- removed broken link: 2024-11-02-uno-evolution -->
+- Board Game Night: 2024 UNO Championship, a field guide to outsmartting friends who think they’ve got the game memorized. <!-- removed broken link: 2024-08-20-uno-championship -->
 
 ## External resources
 - Official UNO product page: https://www.mattelgames.com/en-us/products/uno

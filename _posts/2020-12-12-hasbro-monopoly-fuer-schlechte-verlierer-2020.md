@@ -12,7 +12,7 @@ Wir greifen hier nicht nur das Thema rein, sondern vergleichen auch mit dem Stan
 
 > Hinweis: Alle hier geäußerten Eindrücke beziehen sich auf die Spielvariante der Edition 2020 und reflektieren persönliche Eindrücke aus mehreren Proberunden. Hasbro hat uns nicht bezahlt, aber falls ihr den Affiliate-Link nutzt, unterstützt ihr Geeknite beim Erstellen weiterer Reviews – danke dafür.
 
-![Monopoly für schlechte Verlierer 2020]( /assets/images/monopoly-schlechte-verlierer-2020.jpg )
+![Monopoly für schlechte Verlierer 2020](/assets/images/monopoly-schlechte-verlierer-2020.jpg)
 
 ## Was bedeutet Monopoly für schlechte Verlierer eigentlich genau?
 
@@ -66,7 +66,7 @@ Für Familien mit Kindern im Grundschulalter bietet die Edition eine interessant
 
 Ein praktischer Tipp für den Wiedereinstieg: Lege zu Beginn der ersten Partie fest, welche Verlierer-Karten dauerhaft aus dem Spiel genommen werden, falls jemand wirklich unkomfortabel auf die Aufgaben reagiert. Alternativ kann man auch eine Humorklasse definieren, die besagt, dass bestimmte Karten nur dann gezogen werden, wenn alle Spieler sagen, dass es in Ordnung ist. So bleibt der Spaß erhalten, ohne jemanden zu überfordern. Ein weiterer Trick ist, die Spieldauer auf maximal zwei Runden pro Partie zu limitieren – das verringert die Gefahr von längeren Frustphasen und schickt die Gruppe direkt in eine neue, frische Runde.
 
-Wenn ihr mehr in Richtung Strategie und Tipps für Monopoly-Perfomance gehen wollt, schmeißt euch auf unsere vorherigen Beiträge. Zum Beispiel hier: {% post_url 2020-04-15-geeknite-monopoly-overview %} und dort weiterführend {% post_url 2020-07-22-geeknite-spieltips-monopoly-party %}. Dort findet ihr Hinweise, wie man das Monopoly-Erlebnis insgesamt verbessern kann, unabhängig von der jeweiligen Edition.
+Wenn ihr mehr in Richtung Strategie und Tipps für Monopoly-Perfomance gehen wollt, schmeißt euch auf unsere vorherigen Beiträge über Monopoly-Strategien. Dort findet ihr Hinweise, wie man das Monopoly-Erlebnis insgesamt verbessern kann, unabhängig von der jeweiligen Edition.
 
 ## Qualität, Langlebigkeit und Packaging-Überlegungen
 
@@ -86,12 +86,12 @@ Hasbro Monopoly für schlechte Verlierer aus 2020 ist eine humorvolle Variante, 
 
 ## Empfehlung und abschließende Gedanken
 
-- Gute Wahl für Familienabende mit Humor und Spaß. 
-- Empfehlenswert für Freundesrunden, die gerne improvisieren und sich gegenseitig auf die Schippe nehmen. 
+- Gute Wahl für Familienabende mit Humor und Spaß.
+- Empfehlenswert für Freundesrunden, die gerne improvisieren und sich gegenseitig auf die Schippe nehmen.
 - Nicht ideal für schwere Strategen oder Gruppen, die gerne lange, ernsthafte Verhandlungen führen.
 - Praktisch, um regelmäßig neue Rituale in die Spielabende einzubauen, inklusive kurzer Performances, die während des Spiels entstehen.
 - Die Karten-Mechanik bietet ausreichend Abwechslung, um mehrmals zu spielen, ohne dass es langweilig wird.
 
-Wenn ihr Interesse habt, dieses Spiel zu testen, könnt ihr mehr darüber erfahren und das Produkt direkt bei Hasbro entdecken unter https://www.hasbro.com. Für weitere Geeknite-Inhalte schaut euch auch unsere früheren Beiträge an: {% post_url 2020-04-15-geeknite-monopoly-overview %} und {% post_url 2020-07-22-geeknite-spieltips-monopoly-party %}.
+Wenn ihr Interesse habt, dieses Spiel zu testen, könnt ihr mehr darüber erfahren und das Produkt direkt bei Hasbro entdecken unter https://www.hasbro.com. Für weitere Geeknite-Inhalte schaut euch auch unsere früheren Beiträge über Monopoly an.
 
-**Jetzt bestellen über unseren Affiliate-Link: https://affiliate.geeknite.example/monopoly-schlechte-verlierer**
+**[Jetzt bestellen]({{ site.constants.wsib }}monopoly schlechte verlierer)**

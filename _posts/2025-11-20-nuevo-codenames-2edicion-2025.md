@@ -9,7 +9,7 @@ Bienvenidos, aventureros del escritorio, a la crujiente y alocada nueva edición
 
 Codenames siempre fue un juego de comunicación, de asociaciones improbables y de ingenio competitivo entre dos equipos. La edición 2025 llega con una promesa: acelerar la decisión, ampliar el vocabulario y a la vez hacer más fácil que un grupo nuevo entre por primera vez sin perder el ritmo. ¿La promesa se mantiene? ¿O es solo marketing con estética de futurismo suave? Vamos a desenredarlo, palabra a palabra, con el tono que caracteriza a Geeknite: un poco ácido, mucho entusiasmo, y una cantidad razonable de sarcasmo para que nadie se tome el juego demasiado en serio.
 
-> Si te encanta el juego y quieres comparar con otras reseñas, échale un vistazo a nuestra entrada anterior sobre el original: [Revisión del Codenames original]({% post_url 2024-04-14-codenames-original.md %}). También puedes leer nuestra guía de estrategias para principiantes en la sección de tutoriales de la web.
+> Si te encanta el juego y quieres comparar con otras reseñas, échale un vistazo a nuestra entrada anterior sobre el original: Revisión del Codenames original. También puedes leer nuestra guía de estrategias para principiantes en la sección de tutoriales de la web.
 
 ![Codenames 2ª Edición 2025](assets/images/codenames-2edicion-2025.jpg)
 

@@ -98,7 +98,7 @@ The unboxing moment matters. The packaging is designed to be ceremonious, with t
 
 ### Official Resources and Community Buzz
 
-Fans of the concept will likely turn to community forums and social channels for fan art, play recommendations, and potential house-rule variants. There is a robust ecosystem of fan-made adaptations and memes around sports-themed UNO editions, and the Red Yaya edition has a particularly strong storytelling vibe that lends itself to creative play. If you want to explore more crossovers, you can browse posts using links like {% post_url 2024-11-20-geek-nite-board-game-roundup %} and {% post_url 2024-08-02-collectible-card-editions %} to see how other Geeknite writers approach the intersection of sports, collectibles, and tabletop entertainment.
+Fans of the concept will likely turn to community forums and social channels for fan art, play recommendations, and potential house-rule variants. There is a robust ecosystem of fan-made adaptations and memes around sports-themed UNO editions, and the Red Yaya edition has a particularly strong storytelling vibe that lends itself to creative play. If you want to explore more crossovers, you can browse posts using links like <!-- removed broken link: 2024-11-20-geek-nite-board-game-roundup --> and <!-- removed: 2024-08-02-collectible-card-editions --> to see how other Geeknite writers approach the intersection of sports, collectibles, and tabletop entertainment.
 
 ### Image Gallery
 

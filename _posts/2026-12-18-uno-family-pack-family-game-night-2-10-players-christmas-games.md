@@ -12,7 +12,7 @@ GEeknite elves have tested it in a dozen different living rooms, from the tiny a
 
 Before we dive deep, picture this: a table full of color coded cards, a chorus of exclamations, and a rulebook that is short enough to read aloud during a coffee break but long enough to require a second coffee. That is the essence of the UNO FAMILY pack. Now, set the scene at Christmas time and you have a night that will be recounted at family reunions in the years to come as the time when we discovered who actually knows how to count to ten while wearing a Santa hat.
 
-> External note: if you want to compare options, you can also check out our post on other family friendly party games at the end of this review. For a quick jump to related content, see {% post_url 2025-11-01-family-games-night.html %} and {% post_url 2024-12-15-christmas-board-games-roundup.html %}.
+> External note: if you want to compare options, you can also check out our post on other family friendly party games at the end of this review. For a quick jump to related content, see <!-- removed: 2025-11-01-family-games-night --> and <!-- removed: 2024-12-15-christmas-board-games-roundup.html -->.
 
 
 ![UNO Family Pack image](/assets/images/uno-family-pack.jpg)
@@ -74,7 +74,7 @@ Every family is unique, and the UNO FAMILY pack invites a few optional house rul
 - Sudden death draw: if the draw pile runs low, shuffle the discard pile to create a new draw deck with heightened tension
 - Santa shuffle: a random rule card is revealed every few rounds that changes the objective slightly, making it feel fresh without breaking the core rules
 
-If you like to tinker, you can also explore other posts on family friendly games to borrow ideas from the community. See {% post_url 2024-10-05-family-game-night-hack.html %} for a similar theme and some creative twists that players claim add giggles without adding chaos.
+If you like to tinker, you can also explore other posts on family friendly games to borrow ideas from the community. See <!-- removed: 2024-10-05-family-game-night-hack --> for a similar theme and some creative twists that players claim add giggles without adding chaos.
 
 ## Deck design and game balance
 
@@ -116,7 +116,7 @@ For readers who enjoy a direct comparison, a good way to think about it is as fo
 
 The UNO FAMILY pack is a celebration of brightness and brevity. The design favors quick understanding and a forgiving vibe so that players who have never picked up a UNO deck can still jump in and contribute without fear of grim retribution from the rule book. It keeps the energy up and the bickering at a friendly, not cutting, level. If you are shopping for a Christmas game that can bridge the gap between a quiet night and a riot of laughter, this pack is a strong candidate.
 
-For the curious reader who loves a broader board game anthology, our site also features a round up of other family friendly options. Check out the Christmas games category for more inspiration and ideas on how to craft a rotating schedule so that every family member gets a turn to dominate the table with clever card plays. See our recent post on family game night hacks at {% post_url 2025-11-01-family-games-night.html %}.
+For the curious reader who loves a broader board game anthology, our site also features a round up of other family friendly options. Check out the Christmas games category for more inspiration and ideas on how to craft a rotating schedule so that every family member gets a turn to dominate the table with clever card plays. See our recent post on family game night hacks at <!-- removed: 2025-11-01-family-games-night -->.
 
 ## Practical buying advice and where to find it online
 
@@ -136,7 +136,7 @@ If you are a content creator looking for something to feature in a gift guide, t
 
 ## Where this lands in the Geeknite rotation
 
-This review slots into our Christmas and family gaming section as a go to pick for readers who want something low effort to set up but high on laughs. It pairs nicely with our posts about cozy gaming spaces, quick party game ruling tips, and the occasional debunk of the myth that long games are the only way to get revelry. If you enjoyed this breakdown, you might also enjoy our earlier piece on quick party games that are friendly for kids and adults alike at {% post_url 2023-12-01-quick-party-games.html %} and our guide to holiday game night planning in 2024.
+This review slots into our Christmas and family gaming section as a go to pick for readers who want something low effort to set up but high on laughs. It pairs nicely with our posts about cozy gaming spaces, quick party game ruling tips, and the occasional debunk of the myth that long games are the only way to get revelry. If you enjoyed this breakdown, you might also enjoy our earlier piece on quick party games that are friendly for kids and adults alike at <!-- removed: 2023-12-01-quick-party-games --> and our guide to holiday game night planning in 2024.
 
 ## Final thoughts and a bold call to action
 

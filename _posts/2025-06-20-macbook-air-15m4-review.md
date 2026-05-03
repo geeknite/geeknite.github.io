@@ -21,7 +21,7 @@ The MacBook Air 15-inch M4 Midnight is the kind of laptop that makes you reconsi
 
 What this machine promises on paper is simple: a larger canvas, the hush of a fanless design, and enough speed to feel modern for the remainder of the decade. In the box you’ll find the usual suspects: the Air itself, a USB-C charging cable, and the quiet confidence that only a midnight finish can provide. Apple reserves the midnight color for those who want to look like they know what they are doing while sipping a latte that costs more than most vacations. Breakfast meet laptop that costs more than your first car.
 
-For a quick refresher on how this stacks up against other recent MacBooks, you can check our older comparison post when the dust of 2024 lazily settled: {% post_url '2024-09-12-macbook-air-2024-review' %}. If you’re new to the brand, our buying guide might also help you parse the hype: {% post_url '2025-02-18-macbook-buying-guide' %}.
+For a quick refresher on how this stacks up against other recent MacBooks, you can check our older comparison post when the dust of 2024 lazily settled: <!-- removed: 2024-09-12-macbook-air-2024-review -->. If you’re new to the brand, our buying guide might also help you parse the hype: <!-- removed: '2025-02-18-macbook-buying-guide' -->.
 
 External links:
 - [Apple Official Page](https://www.apple.com/macbook-air-15/)
@@ -43,7 +43,7 @@ The panel refresh rate is standard for a device in this class, delivering smooth
 
 Pro tip for creators: use the larger canvas to place references side by side when editing photos and videos. The extra real estate helps you pretend you have time-management skills while your timeline is screaming for a deadline. The display is easy on the eyes for long sessions, which is exactly what you want when you discover you have 72 tabs open and your coffee has gone cold.
 
-External resources and in-depth screen tech nerd-out: [Apple Official Page](https://www.apple.com/macbook-air-15/). For a cross-ecosystem comparison, see our earlier post on display tech in laptops: {% post_url '2025-01-11-laptop-display-nerd-notes' %}.
+External resources and in-depth screen tech nerd-out: [Apple Official Page](https://www.apple.com/macbook-air-15/). For a cross-ecosystem comparison, see our earlier post on display tech in laptops: <!-- removed: 2025-01-11-laptop-display-nerd-notes -->.
 
 ## Performance and Thermal Management: Quiet Power, Loud Confidence
 
@@ -53,9 +53,9 @@ Thermals on a fanless design are always the talking point. The Air 15 keeps thin
 
 For creative workflows, you’ll notice snappy renders, faster exports, and a smoother timeline scrubbing compared to older Air models. It’s not a gaming laptop, but you can enjoy casual titles at medium settings without turning your workspace into a windy helicopter pad. If you value quiet operation and long battery life more than flashy numbers, this is your best friend.
 
-If you want to see how the Air 15 stacks up against a broader set of machines, our guides on laptop performance can be found at the following link: {% post_url '2025-03-22-laptop-performance-roundup' %}.
+If you want to see how the Air 15 stacks up against a broader set of machines, our guides on laptop performance can be found at the following link: <!-- removed: 2025-03-22-laptop-performance-roundup -->.
 
-External note: for an adventure in how Apple tunes iOS and macOS together for a seamless creative flow, check Apple’s product page linked earlier. And if you want a broader perspective on performance in 2025, you can peek at our older review of a 14-inch sibling here: {% post_url '2024-09-12-macbook-air-2024-review' %}.
+External note: for an adventure in how Apple tunes iOS and macOS together for a seamless creative flow, check Apple’s product page linked earlier. And if you want a broader perspective on performance in 2025, you can peek at our older review of a 14-inch sibling here: <!-- removed: 2024-09-12-macbook-air-2024-review -->.
 
 ## Keyboard, Trackpad, and Typing Experience: The Feel You Crave
 
@@ -65,7 +65,7 @@ The trackpad remains large and precise, with the expected multi-touch polish. Ge
 
 For those who do a lot of typing on the go, the Air 15 is a relief compared to laptops that pretend to be ultralight but stab your wrists with chunky keys. Apple has tuned the layout to reduce fat-finger mistakes, and that makes a real difference when you are drafting receipts, code, or YouTube video descriptions at hyperspeed.
 
-If you want to compare the typing experience across models, our hands-on notes often reference the 14 and 13-inch lines: {% post_url '2024-05-14-macbook-air-typing-differences' %}.
+If you want to compare the typing experience across models, our hands-on notes often reference the 14 and 13-inch lines: <!-- removed: 2024-05-14-macbook-air-typing-differences -->.
 
 ## Ports, Connectivity, and Daily Rigmarole
 
@@ -73,9 +73,9 @@ The port selection on a modern ultra-thin matters more than it used to because e
 
 This configuration makes the Air 15 wonderfully compatible with a small desk setup, a travel bag, and those situations where you need to connect a display and keep a clean, USB-C only life on the other side. If you are a creator who uses multiple peripherals, you’ll appreciate the decent expansion without needing a bulky dock.
 
-If you need a cross-device comparison on how this port selection stacks up against a Windows competitor, our 2025 buying guide has several charts and real-world usage notes: {% post_url '2025-04-08-windows-vs-mac-port-choices' %}.
+If you need a cross-device comparison on how this port selection stacks up against a Windows competitor, our 2025 buying guide has several charts and real-world usage notes: <!-- removed: 2025-04-08-windows-vs-mac-port-choices -->.
 
-External: Apple’s official tech specs page linked at the top is the definitive source for port specifics. For a quick internal read, you can also explore our older note on how ports evolved across the Air lineup: {% post_url '2024-11-05-air-ports-evolution' %}.
+External: Apple’s official tech specs page linked at the top is the definitive source for port specifics. For a quick internal read, you can also explore our older note on how ports evolved across the Air lineup: <!-- removed: 2024-11-05-air-ports-evolution -->.
 
 ## Camera, Microphone, and Video Calls
 
@@ -89,7 +89,7 @@ Battery life is the headline feature here for many buyers. The 15-inch Air with 
 
 Charging speed is reasonable rather than breathtaking. The USB-C/Thunderbolt port supports fast charging, so you can top up during a quick coffee break if you are lucky enough to have access to a fast charger. In a pinch, you’ll still be able to juice up enough to squeeze out a few more hours of productivity after a long video call marathon.
 
-For more details on battery strategies in modern laptops, see our energy use guide linked in our older posts: {% post_url '2025-03-01-energy-smart-laptops' %}.
+For more details on battery strategies in modern laptops, see our energy use guide linked in our older posts: <!-- removed: 2025-03-01-energy-smart-laptops -->.
 
 ## Software, Ecosystem, and Day-to-Day Usability
 
@@ -97,13 +97,13 @@ macOS has matured into a platform that feels reliable for daily tasks with consi
 
 This machine shines as a creator’s companion: you can edit photos, compile a quick video, and run code without the system bending under pressure. The larger screen provides a more comfortable editing environment, where timelines stretch across more of your life than you realize. Multitasking is less of a chore when you can pin a reference site on one side of the screen and work on a document on the other. It’s the kind of workflow that makes you feel like you are hacking the matrix without breaking a single rule—and maybe without needing a second monitor.
 
-For those curious about cross-platform workflows, we have posts explaining how macOS interacts with Linux tools and Windows virtualization: {% post_url '2025-01-23-macos-linux-windows-workflow' %}.
+For those curious about cross-platform workflows, we have posts explaining how macOS interacts with Linux tools and Windows virtualization: <!-- removed: 2025-01-23-macos-linux-windows-workflow -->.
 
 ## Gaming and Real-World Performance
 
 Let’s be honest: this is not a gaming laptop, and Apple’s M4 does not turn it into a portable console. That said, casual gaming on the Air 15 is perfectly viable. You can enjoy lighter titles at respectable frame rates and medium visual settings. The fanless design keeps things quiet, preserving your focus for work while still scratching that gaming itch. If you’re hoping to play the latest triple-A titles at ultra settings on the train, you’ll probably be disappointed. The Air is a productivity machine with a side gig in gaming, not a gaming laptop that moonlights as a production studio.
 
-If you want to read about actual gaming numbers across different Macs, our comparison page includes a few micro-charts from real tests: {% post_url '2025-02-28-mac-gaming-performance' %}.
+If you want to read about actual gaming numbers across different Macs, our comparison page includes a few micro-charts from real tests: <!-- removed: 2025-02-28-mac-gaming-performance -->.
 
 ## Value, Warranty, and Longevity
 
@@ -113,7 +113,7 @@ The 16 GB RAM is a sane baseline for creative work and multitasking in 2025. If 
 
 Warranty coverage for Apple devices remains a strong selling point for many buyers. The standard warranty and optional AppleCare provide peace of mind for a device you will likely rely on for several years. If you plan to travel a lot, the build quality and battery endurance become even more appealing, because you want a device that can keep up without constantly begging for a charger in airline lounges.
 
-If you want to compare the value proposition across models, our prior buyer’s guide may help you decide between a larger Air and a smaller Pro: {% post_url '2024-12-02-air-vs-pro-value' %}.
+If you want to compare the value proposition across models, our prior buyer’s guide may help you decide between a larger Air and a smaller Pro: <!-- removed: 2024-12-02-air-vs-pro-value -->.
 
 ## Who Should Buy This Laptop
 
@@ -128,13 +128,13 @@ It’s not for hardcore gamers who crave thunderous frame rates on the latest ti
 
 If you want a laptop that is big enough to keep your references within arm’s reach, light enough to toss into a bag without feeling like you just carried a small piano, and fast enough to handle a modern workload without sounding like a jet engine, the MacBook Air 15-inch M4 Midnight might be your new favorite assistant. It doesn’t pretend to be something it isn’t: a premium, efficient, and incredibly usable machine that understands you better than your last two phones combined. The larger display invites longer sessions, the battery invites longer days, and the overall polish invites longer life. It’s not flashy for flashy’s sake; it’s the kind of device that feels like a trusted coworker who somehow never complains about meetings.
 
-If you are in the mood for a broader perspective on how this kind of device fits into a modern workflow, we suggest starting with our buying guides and then drift into our ecosystem deep dives: {% post_url '2025-04-15-creative-workflows-mac' %} and {% post_url '2025-01-23-macos-linux-windows-workflow' %}.
+If you are in the mood for a broader perspective on how this kind of device fits into a modern workflow, we suggest starting with our buying guides and then drift into our ecosystem deep dives: <!-- removed: 2025-04-15-creative-workflows-mac --> and <!-- removed: '2025-01-23-macos-linux-windows-workflow' -->.
 
 Recommendation: This is the everyday laptop with enough screen real estate to feel like a desktop and enough efficiency to feel like a dream. If you want a balanced, trustworthy machine that handles daily tasks and occasional creative bursts with a grin, the MacBook Air 15 M4 Midnight is a solid choice.
 
 External links for more reading:
 - Apple official page: https://www.apple.com/macbook-air-15/
-- A side-by-side with other Air models: {% post_url '2024-09-12-macbook-air-2024-review' %}
+- A side-by-side with other Air models: <!-- removed: 2024-09-12-macbook-air-2024-review -->
 
 In short, it’s not just big; it’s smartly big. If you like the idea of more screen for more life, you will probably love the Air 15.
 

@@ -76,9 +76,9 @@ Recomendación de compra: si tu grupo de juego tiende a abrazar el humor comprom
 
 ## Enlaces útiles y citas de la biblioteca Geeknite
 
-- Si quieres ver cómo tratamos juegos de fiesta en otros contextos, échale un vistazo a nuestra reseña de otros clásicos estilo party game en la entrada anterior: {% post_url 2023-07-15-resena-juegos-de-fiesta-populares %}
-- Para una guía rápida de juegos de mesa orientados a grupos grandes, puedes revisar nuestra publicación de referencia: {% post_url 2024-02-20-guia-rapida-juegos-de-fiesta-para-grupos-grandes %}
-- Si buscas ver una versión anterior de esta saga, consulta la reseña de la edición previa en nuestra colección: {% post_url 2022-09-10-resena-cah-edition-legacy %}
+- Si quieres ver cómo tratamos juegos de fiesta en otros contextos, échale un vistazo a nuestra reseña de otros clásicos estilo party game en la entrada anterior: <!-- removed broken link: 2023-07-15-resena-juegos-de-fiesta-populares -->
+- Para una guía rápida de juegos de mesa orientados a grupos grandes, puedes revisar nuestra publicación de referencia: <!-- removed broken link: 2024-02-20-guia-rapida-juegos-de-fiesta-para-grupos-grandes -->
+- Si buscas ver una versión anterior de esta saga, consulta la reseña de la edición previa en nuestra colección: <!-- removed broken link: 2022-09-10-resena-cah-edition-legacy -->
 - Imagen adicional del set de cartas y más contenido visual: ![Cartas de CAH 2024 en mesa](/assets/images/cah2024-cards-on-table.jpg)
 - Enlaces externos para comparar ediciones y precios, útiles si quieres comparar entre tiendas, aunque en Geeknite recomendamos revisar políticas de envíos y reseñas de usuarios para evitar sorpresas: https://example.com/comparador-cah-ediciones
 

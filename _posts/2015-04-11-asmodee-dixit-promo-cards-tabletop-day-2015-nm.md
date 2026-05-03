@@ -24,7 +24,7 @@ Promos like these usually come with a blurb from the publisher and a note about 
 
 If you are here mostly for the gameplay impact, keep reading. If you are here for the spice of the art, you will also be satisfied. If you are here for the nostalgia trip of Tabletop Day, well, you are in for a trip down memory lane that involves canceled calendars, ancient con badges, and a good old-fashioned appetite for storytelling cards that would make a bard jealous.
 
-For a quick note on the broader ecosystem of Dixit promos, you can check the usual suspects and the kind of blog post that collects promo numbers like a dragon collects gold. For instance, see our related post on the base Dixit experience and how promos shine when you want to remix the deck for a special night. [Read more in our Dixit base game review]({% post_url 2015-01-20-dixit-base-game-review %}). If you want something a little spicier, there is also a previous discussion about promo packs and how they change the dynamics of a storytelling round in [Dixit promos and game night hijinks]({% post_url 2015-02-14-dixit-promos-and-night-hijinks %}).
+For a quick note on the broader ecosystem of Dixit promos, you can check the usual suspects and the kind of blog post that collects promo numbers like a dragon collects gold. For instance, see our related post on the base Dixit experience and how promos shine when you want to remix the deck for a special night. Read more in our Dixit base game review. If you want something a little spicier, there is also a previous discussion about promo packs and how they change the dynamics of a storytelling round in Dixit promos and game night hijinks.
 
 ## Artwork and Design
 
@@ -81,8 +81,8 @@ Tabletop Day has always been a cultural moment for board gaming, a day when fans
 If you were there, you probably remember the signups, the chatter about favorite Dixit prompts, and the way a six-card set suddenly made your club feel like a micro-exhibit on the art of storytelling. If you were not there, you can still feel the vibe by collecting the cards now, letting the imagery spark conversations about interpretation, and imagining the excitement that comes from a free promo that arrives with event energy intact.
 
 To satisfy the curious mind, here are a couple of related reads you might enjoy, linked as internal posts for navigation: 
-- Read about the Dixit base game and why the promos align well with its core experience: {% post_url 2015-01-20-dixit-base-game-review %} 
-- See a comparison that brings in Odyssey and other expansions for context: {% post_url 2015-02-14-dixit-promos-and-night-hijinks %}
+- Read about the Dixit base game and why the promos align well with its core experience: <!-- removed broken link: 2015-01-20-dixit-base-game-review --> 
+- See a comparison that brings in Odyssey and other expansions for context: <!-- removed broken link: 2015-02-14-dixit-promos-and-night-hijinks -->
 
 External voices also have their say. If you want the official word on the Dixit universe and its ongoing expansion for storytelling nights, you can explore the official Dixit site at https://www.dixitgame.com. For those who love stats and community photos alike, a quick visit to the Dixit page on BoardGameGeek offers a glimpse into what players around the world think about these cards and their usage in real games: https://boardgamegeek.com/boardgame/48239/dixit.
 
@@ -110,8 +110,8 @@ For those who prefer a convenience-first approach, you can also consider purchas
 
 ## Related posts you might enjoy
 
-- Dixit base game review and why it remains a staple in storytelling games: {% post_url 2015-01-20-dixit-base-game-review %}
-- A look at Dixit Odyssey and how it expands the same world with new mechanics and artwork: {% post_url 2015-03-30-dixit-odyssey-expansion-notes %}
+- Dixit base game review and why it remains a staple in storytelling games: <!-- removed broken link: 2015-01-20-dixit-base-game-review -->
+- A look at Dixit Odyssey and how it expands the same world with new mechanics and artwork: <!-- removed broken link: 2015-03-30-dixit-odyssey-expansion-notes -->
 
 External references for the curious mind and curious wallets: 
 - Official Dixit site: https://www.dixitgame.com

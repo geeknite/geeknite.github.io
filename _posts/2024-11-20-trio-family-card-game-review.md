@@ -103,8 +103,8 @@ To that end, the replayability is real enough to justify multiple plays across w
 External resources for curious readers:
 - Official product page: https://www.triocardgame.example
 - BoardGameGeek page: https://boardgamegeek.com/boardgame/XXXXX
-- Our sister post on family game night ideas: {% post_url 2024-05-12-best-family-board-games %}
-- Our recent top picks: {% post_url 2023-10-27-top-party-games %}
+- Our sister post on family game night ideas: <!-- removed broken link: 2024-05-12-best-family-board-games -->
+- Our recent top picks: <!-- removed broken link: 2023-10-27-top-party-games -->
 
 ## Final Rating and Recommendation
 Trio Family Card Game manages to be both approachable and sufficiently tactical to keep adults engaged, which is a rare feat for a game marketed to families. It shines as a portable, quick-play option that still rewards attention and planning. It’s not going to replace your regular “heavy hitter,” but it earns a long shelf life on the coffee table and in the memory banks of your weekly game night crew.
@@ -137,8 +137,8 @@ For parents balancing school nights and screen time, Trio offers a compelling wa
 External links:
 - Official site: https://www.triocardgame.example
 - Review roundup: https://www.boardgamegeek.com/thread/xxxxx
-- Family game night ideas: {% post_url 2024-05-12-best-family-board-games %}
-- Top party games: {% post_url 2023-10-27-top-party-games %}
+- Family game night ideas: <!-- removed broken link: 2024-05-12-best-family-board-games -->
+- Top party games: <!-- removed broken link: 2023-10-27-top-party-games -->
 
 ## Final Recommendation and Call to Action
 If you’re shopping for a game that’s genuinely inclusive, easy to teach, and stacked with smiles, Trio Family Card Game is a strong contender for your next tabletop night. It invites engagement, fosters light competition, and rewards players who pay attention to the board and each other. It’s the kind of title that makes you think, You know what? We’re doing this again next week, and probably the week after that.
@@ -149,5 +149,5 @@ And if you want to help Geeknite keep the lights on while you upgrade your game 
 
 **Grab Trio today and join the three-fold revolution of quick play, clever combos, and cheerful chaos.**
 
-{{% post_url 2024-03-01-trio-family-card-games-advances %}}
+{<!-- removed broken link: 2024-03-01-trio-family-card-games-advances -->}
 

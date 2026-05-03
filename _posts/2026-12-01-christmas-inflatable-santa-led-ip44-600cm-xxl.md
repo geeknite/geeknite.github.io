@@ -140,7 +140,7 @@ Choosing a Santa inflatable is partly about space and partly about your willingn
 
 When you are ready to buy, compare options on major retailers and look for the robust version as the baseline. The XXL Santa is not a cheap novelty; it is a long-term installation that can bring many years of holiday cheer to your home.
 
-For more on yard decor, you can read related content from our archive. Check out our post on inflatable decor safety {% post_url 2024-12-15-inflatable-decor-safety %} and the inflatable lighting teardown article {% post_url 2025-12-02-outdoor-led-lights-review %}. You can also explore our guide to outdoor display setups in our post {% post_url 2025-11-20-best-outdoor-holiday-decor-ideas %} for a broader context.
+For more on yard decor, you can read related content from our archive. Check out our post on inflatable decor safety <!-- removed broken link: 2024-12-15-inflatable-decor-safety --> and the inflatable lighting teardown article <!-- removed: 2025-12-02-outdoor-led-lights-review -->. You can also explore our guide to outdoor display setups in our post <!-- removed: 2025-11-20-best-outdoor-holiday-decor-ideas --> for a broader context.
 
 External resources that help you understand environmental resilience and IP ratings:
 

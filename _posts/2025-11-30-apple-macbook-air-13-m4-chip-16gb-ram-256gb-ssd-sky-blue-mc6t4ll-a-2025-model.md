@@ -14,7 +14,7 @@ External readers can peek at Apple’s official page for context on what Apple c
 
 External link: https://www.apple.com/macbook-air/
 
-If you want to compare this to something we’ve already reviewed on Geeknite, check out our previous M3 Air analysis here: {% post_url 2024-11-15-macbook-air-m3-review %}. And for a broader Apple-ecosystem perspective, see {% post_url 2023-10-08-macbook-ecosystem-review %}.
+If you want to compare this to something we’ve already reviewed on Geeknite, check out our previous M3 Air analysis here: <!-- removed broken link: 2024-11-15-macbook-air-m3-review -->. And for a broader Apple-ecosystem perspective, see <!-- removed: 2023-10-08-macbook-ecosystem-review -->.
 
 ## Overview
 The 2025 MacBook Air 13\" with the M4 chip is Apple’s answer to the eternal question: can a featherweight laptop truly be a workhorse? The answer, in practical terms, is a yes with a caveat. The M4 chip is built on a newer microarchitecture that emphasizes efficiency and AI-friendliness without screaming “I’m a gaming laptop.” If you’re a content creator who lives in Final Cut Pro or Logic Pro, you’ll notice some gains in raw throughput, but the real magic is how long you can go between charges while editing 4K footage on the go.
@@ -127,7 +127,7 @@ The 2025 MacBook Air 13\" M4 Sky Blue MC6T4LL-A is a fabulous example of Apple�
 
 If you’re in the market for a device that can haul you through a full workday and still look good doing it, the Sky Blue MacBook Air M4 is worth your attention. It’s not chasing the “max-spec ultrabook” crown; it’s earning the crown of “best all-around ultraportable for most people” with a smile and a magnetic charger in the package. The 256GB SSD is adequate for many users, but if you want to minimize external storage, go for a higher capacity variant—your future self will thank you when you’re away from a desk for a week.
 
-In the broader Geeknite catalog, you might enjoy reading more about related Apple silicon adventures in our post on the evolution from M1 to M4 in the Air series, or the comparison guide between Macs and Windows ultraportables. For a deeper dive into how Apple silicon scaling impacts everyday tasks, check out our technical breakdown here: {% post_url 2024-06-12-m1-to-m2-to-m4-silicon-evolution %} and here: {% post_url 2024-12-03-creative-workflow-on-hardware %}.
+In the broader Geeknite catalog, you might enjoy reading more about related Apple silicon adventures in our post on the evolution from M1 to M4 in the Air series, or the comparison guide between Macs and Windows ultraportables. For a deeper dive into how Apple silicon scaling impacts everyday tasks, check out our technical breakdown here: <!-- removed broken link: 2024-06-12-m1-to-m2-to-m4-silicon-evolution --> and here: <!-- removed: 2024-12-03-creative-workflow-on-hardware -->.
 
 ## Pro Tips for Getting the Most from Your Air
 - Invest in a fast external SSD if you’re editing media locally; it speeds up file transfers and project load times dramatically.
@@ -141,7 +141,7 @@ In the broader Geeknite catalog, you might enjoy reading more about related Appl
 - The Verge review of similar designs and how the M-series tunes into everyday workflows: https://www.theverge.com/
 - AnandTech deep-dive into Apple Silicon optimizations and performance trends: https://www.anandtech.com/
 
-If you’re curious about how this model stacks up against past Air configurations, you may want to revisit our M3 review for a direct before/after perspective: {% post_url 2024-11-15-macbook-air-m3-review %}.
+If you’re curious about how this model stacks up against past Air configurations, you may want to revisit our M3 review for a direct before/after perspective: <!-- removed broken link: 2024-11-15-macbook-air-m3-review -->.
 
 In short: if you’re after a stylish, capable, all-day laptop that travels well and doesn’t scream “look at me, I’m a gaming rig,” the MacBook Air 13\" M4 Sky Blue is a strong contender that earns its place in the modern work-from-anywhere toolkit.
 

@@ -73,8 +73,8 @@ En comparación con ediciones anteriores de UNO con elementos brillantes (por ej
 - Página oficial de Mattel para referencia de producto y especificaciones: https://www.mattelgames.com/games/uno-gold-edition-2025
 - Tiendas de coleccionables y plataformas de venta en línea suelen listar la GOLD Edition con variaciones de precio dependiendo de la disponibilidad. Si encuentras una buena oferta, ten en cuenta el estado de la baraja: una unidad nueva en blister suele ser la mejor opción para conservarla en condiciones óptimas.
 - En el blog de Geeknite, hemos revisado otras ediciones especiales de UNO; puedes ampliar contexto y comparar estilos de foil en publicaciones relacionadas:
-  - {% post_url 2024-05-12-uno-foil-edition-review %}
-  - {% post_url 2023-12-10-coleccionables-uno-arte-y-foil %}
+  - <!-- removed broken link: 2024-05-12-uno-foil-edition-review -->
+  - <!-- removed broken link: 2023-12-10-coleccionables-uno-arte-y-foil -->
 
 ### Consejos para sacar el máximo provecho a la GOLD Edition
 - Haz una sesión de fotos antes de empezar a jugar: el dorado se ve increíble en iluminación cenital o con luces suaves de ventana.

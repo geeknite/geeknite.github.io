@@ -89,7 +89,7 @@ The 2025 UNO Elite Core Green edition with Yaya Diaby branding is available at m
 
 If you are shopping with the family budget in mind, consider looking for bundles that include a couple of UNO accessories (like a card organizer or a portable play mat). These bundles can be a better value than buying the deck alone, especially if you are building out a recurring game night setup.
 
-For fans who enjoy a little cross-pollination with other geeky content, we have a post that explores similar crossover aesthetics in our older deck reviews. See our classic UNO deck review for comparison and context: {% post_url 2024-05-20-uno-classic-review %}. You may also enjoy some crossovers with our football-theme game night features and other sports-meets-board-game items: {% post_url 2023-11-07-sports-board-games-hype %}.
+For fans who enjoy a little cross-pollination with other geeky content, we have a post that explores similar crossover aesthetics in our older deck reviews. See our classic UNO deck review for comparison and context: <!-- removed broken link: 2024-05-20-uno-classic-review -->. You may also enjoy some crossovers with our football-theme game night features and other sports-meets-board-game items: <!-- removed: 2023-11-07-sports-board-games-hype -->.
 
 ### External Resources
 
@@ -131,7 +131,7 @@ This review sits alongside our broad spectrum of crossovers and game-night gear 
 - A round-up of premium card sleeves and organizers
 - A deep dive into the mechanics of classic UNO and why it endures
 
-For more cross-pollination between sports and games, visit the post discussing how to host a tide-turning game night with guests who live for both the gridiron and the game board: {% post_url 2024-09-11-sports-board-night-ideas %}.
+For more cross-pollination between sports and games, visit the post discussing how to host a tide-turning game night with guests who live for both the gridiron and the game board: <!-- removed broken link: 2024-09-11-sports-board-night-ideas -->.
 
 ## Recommendation and CTA
 

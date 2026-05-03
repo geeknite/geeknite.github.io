@@ -100,8 +100,8 @@ Para la gente curiosa que quiere explorar, hemos dejado enlaces útiles para com
   - Revisión de la versión base en Geeknite: https://example.com/base-exploding-kittens-reseña
   - Especificaciones del Pack Fiesta en la tienda oficial: https://example.com/pack-fiesta-10-jugadores
   - Reseña en BoardGameGeek: https://boardgamegeek.com/boardgame/299384/exploding-kittens-pack-fiesta-10
-  - Enlace a otro post de Geeknite sobre juegos para grupos grandes: {% post_url 2023-11-01-juegos-de-mesa-para-grupos %}
-  - Artículo relacionado sobre humor en juegos de mesa: {% post_url 2024-02-20-humor-y-juegos-de-mesa %}
+  - Enlace a otro post de Geeknite sobre juegos para grupos grandes: <!-- removed broken link: 2023-11-01-juegos-de-mesa-para-grupos -->
+  - Artículo relacionado sobre humor en juegos de mesa: <!-- removed broken link: 2024-02-20-humor-y-juegos-de-mesa -->
 
 ## Conclusión: mi veredicto Geeknite
 Exploding Kittens: Pack Fiesta para 10 jugadores es, en mi opinión, una elección acertada para grupos grandes que buscan risas rápidas, momentos ridículos y una experiencia que puede hacerse tan épica como quieras. No es una joya de estrategia profunda, pero sí una máquina de convertir una noche de domingo en una memoria compartida que se repetirá cada vez que alguien mencione “¡explode!” alrededor de la mesa. Si tu objetivo es llenar una sala de risas y contar historias imposibles, este pack te da la bienvenida con los brazos llenos de cartas que explotan en la cara de la diversión.

@@ -73,8 +73,8 @@ If you love bands that chew popcorn and spit out glittering riffs, this is a rel
 ## Links and Cross‑References
 - Official Volbeat site: https://volbeat.dk
 - Volbeat on Wikipedia: https://en.wikipedia.org/wiki/Volbeat
-- A live, fan‑oriented write‑up you might enjoy: [post_url 2023-12-31-best-albums-2023]( {% post_url 2023-12-31-best-albums-2023 %} )
-- A retrospective on heavy storytelling in metal: [post_url 2022-08-14-storytelling-in-metal]( {% post_url 2022-08-14-storytelling-in-metal %} )
+- A live, fan‑oriented write‑up you might enjoy: [post_url 2023-12-31-best-albums-2023]( <!-- removed: 2023-12-31-best-albums-2023 --> )
+- A retrospective on heavy storytelling in metal: [post_url 2022-08-14-storytelling-in-metal]( <!-- removed: 2022-08-14-storytelling-in-metal --> )
 
 ## Visuals and Sound Bytes
 

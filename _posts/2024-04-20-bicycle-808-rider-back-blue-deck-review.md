@@ -44,9 +44,9 @@ For cardists, the 808 Blue deck is a reliable workhorse. The balance of the stoc
 ### Related reads and cross-links
 If you’re building a little series of posts around this niche, you might appreciate a few related reads that we’ve published recently:
 
-- Deck Maintenance 101 — a practical guide to keeping your decks in prime shape. [Read more here]({% post_url 2023-08-15-deck-maintenance %})
+- Deck Maintenance 101 — a practical guide to keeping your decks in prime shape. Read more here
 
-- Top Blue Rider Back Decks — a quick round-up of the best blue Rider Back decks we've tested. [See the list]({% post_url 2024-01-10-top-blue-rider-decks %})
+- Top Blue Rider Back Decks — a quick round-up of the best blue Rider Back decks we've tested. See the list
 
 While these aren’t exhaustive, they’re meant to complement the Bicycle 808 rider back Blue deck by giving you additional context about care, usage, and alternatives.
 

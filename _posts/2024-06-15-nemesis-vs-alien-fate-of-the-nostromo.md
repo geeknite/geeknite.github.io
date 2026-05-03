@@ -94,9 +94,9 @@ For reference, you can explore more about these games on their broader contexts:
 
 ## Links to related Geeknite posts
 If you liked this head-to-head, you might enjoy these related Geeknite pieces:
-- A deeper dive into betrayal mechanics in co-op games: {% post_url 2024-04-18-betrayal-mechanics-coop %}
-- Our round-up of the best co-op games for table nights: {% post_url 2024-01-12-top-coop-games %}
-- A practical guide to setting up a long board game session without burning out: {% post_url 2024-02-22-board-game-night-tips %}
+- A deeper dive into betrayal mechanics in co-op games: <!-- removed broken link: 2024-04-18-betrayal-mechanics-coop -->
+- Our round-up of the best co-op games for table nights: <!-- removed broken link: 2024-01-12-top-coop-games -->
+- A practical guide to setting up a long board game session without burning out: <!-- removed broken link: 2024-02-22-board-game-night-tips -->
 
 ## Final thoughts: how to choose for your group
 

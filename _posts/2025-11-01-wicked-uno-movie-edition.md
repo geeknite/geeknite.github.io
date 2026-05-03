@@ -10,7 +10,7 @@ If you told me a year ago that I would be writing a love letter to a card game e
 
 As usual, we approach with the rigor of a board game librarian and the enthusiasm of a kid who found a new flavor of snack at the local arcade. If you are here for straight specs and the dry texture of numbers, you will get them. If you want a vibe check, a few jokes, and a strategy soup that could feed a party of four for two nights, you are in the right place.
 
-For quick navigational anchors, you can skim to the sections below or jump via internal vibes using our favorite geek backlinks: {% post_url 2024-05-20-uno-recap %} and {% post_url 2023-12-11-collectibles-arcade-journal %}. If you want a broader context on crossovers and cross-brand card games, there is a nice comparative thread in {% post_url 2022-08-03-nerdtable-crossovers %}.
+For quick navigational anchors, you can skim to the sections below or jump via internal vibes using our favorite geek backlinks: <!-- removed broken link: 2024-05-20-uno-recap --> and <!-- removed: 2023-12-11-collectibles-arcade-journal -->. If you want a broader context on crossovers and cross-brand card games, there is a nice comparative thread in <!-- removed: 2022-08-03-nerdtable-crossovers -->.
 
 And if you want to see the box art first, skip to the image section after the intro. The visual kit is as much a star as the cards themselves.
 
@@ -56,7 +56,7 @@ If you are a Wicked fan who enjoys hot takes and dramatic reveals, you will savo
 
 One benefit of a cross-brand edition is the breathing room to create house rules without feeling like you are breaking a published rulebook. We tested the deck with a few simple adjustments: granting a wild draw four that doubles as a stealth draw if you are wearing a certain color, or letting Spell cards chain if you can meet a string of conditions. These tweaks are optional and flexible, allowing families to calibrate the intensity level. The movie tie-in mood can push a bit too far into theme park land, but the flexible rules relieve the pressure and restore UNO’s classic rhythm.
 
-For those who crave a deeper dive into how crossovers are built and reinterpreted for board games, check our archival post on cross-brand designs: {% post_url 2023-09-18-crossbrand-board-games %}. And if you want a taste of what a movie tie-in edition can do to a long-running staple, there is a thoughtful piece on the collecting hobby here: {% post_url 2024-11-13-collectibles-arcade-journal %}.
+For those who crave a deeper dive into how crossovers are built and reinterpreted for board games, check our archival post on cross-brand designs: <!-- removed broken link: 2023-09-18-crossbrand-board-games -->. And if you want a taste of what a movie tie-in edition can do to a long-running staple, there is a thoughtful piece on the collecting hobby here: <!-- removed: 2024-11-13-collectibles-arcade-journal -->.
 
 ---
 
@@ -98,7 +98,7 @@ The card backs feature a signature motif that echoes the musical’s stage light
 
 Like many tie-in editions, collectibility exists on two tracks: box art and limited prints of the card art. The standard edition is accessible; the premium variant with a special sleeve and enhanced card stock can emerge as a sought-after piece for fans who want to own a memento rather than just a game. If you are a completist who enjoys chasing variants, there is likely to be at least one edition or promotional run to chase in the early years following the film’s release.
 
-For those who want to stay informed about edition releases and variant drops, our ongoing collectors thread is a good beacon: {% post_url 2023-11-02-collectors-notes-variant-chase %}.
+For those who want to stay informed about edition releases and variant drops, our ongoing collectors thread is a good beacon: <!-- removed broken link: 2023-11-02-collectors-notes-variant-chase -->.
 
 ---
 
@@ -132,7 +132,7 @@ Character cards reward attentive play. If you notice that someone is trying to o
 
 Spells exist to inject fun and chaos, but they should not derail your winning strategy. A disciplined approach to Spell cards—knowing when to play them and when to hold—will help you finish with a confident hand rather than a panic discard. The brand-new rules can become messy in chaotic group settings; the best trick is to treat Spell cards as strategic tempo dumps rather than cheap stuns.
 
-For a deeper dive into UNO strategy in cross-brand editions, you can browse our post on UNO tactical play: {% post_url 2024-03-22-uno-tacticals %}.
+For a deeper dive into UNO strategy in cross-brand editions, you can browse our post on UNO tactical play: <!-- removed broken link: 2024-03-22-uno-tacticals -->.
 
 ---
 
@@ -171,7 +171,7 @@ If you are here for a genuine UNO expansion that respects the base game while of
 
 Fans of Wicked will likely adore the token nods and the silhouetted art. Families will enjoy a cohesive, approachable experience that doesn’t demand a long skim of rules. Casual players get a cool, quick entry into a themed world without sacrificing UNO’s core tempo. The price point lands in a fair zone for what you get: a robust deck with a few memorable tweaks that can keep a group talking long after the last card hits the table.
 
-If you want to see more cross-brand experiments with similar hearts and clever design choices, we recommend exploring a few companion reviews in our archive: {% post_url 2022-01-15-crossovers-and-ctrl-alt-fun %} and {% post_url 2023-08-07-collectibles-arcade-stories %}.
+If you want to see more cross-brand experiments with similar hearts and clever design choices, we recommend exploring a few companion reviews in our archive: <!-- removed broken link: 2022-01-15-crossovers-and-ctrl-alt-fun --> and <!-- removed: 2023-08-07-collectibles-arcade-stories -->.
 
 ---
 

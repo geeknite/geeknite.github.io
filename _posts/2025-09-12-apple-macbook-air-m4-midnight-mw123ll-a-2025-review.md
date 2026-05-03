@@ -16,7 +16,7 @@ Welcome, fellow keyboard whisperers and screen-sniffers, to the Geeknite verdict
 
 For those who want the quick TL;DR: yes, the Air M4 is a gem for everyday productivity, light content creation, and occasional code sprints, but it’s not a gaming monster, it won’t melt your face with 4K video rendering, and you can probably find similar performance in a much larger brick if you squint hard enough. Now, grab your favorite mug of something warm, put your feet up, and let us embark on a tour of Midnight beauty and silicon bravado.
 
-> If you want a quick peek at related Mac coverage, see {% post_url 2024-11-21-macbook-family-review %} and {% post_url 2023-07-01-laptop-roundup-ultimate-guide %}.
+> If you want a quick peek at related Mac coverage, see <!-- removed broken link: 2024-11-21-macbook-family-review --> and <!-- removed: 2023-07-01-laptop-roundup-ultimate-guide -->.
 
 ![MacBook Air M4 Midnight](assets/images/macbook-air-m4-midnight.jpg)
 
@@ -76,8 +76,8 @@ For developers and creators, the M4 Air offers a sweet spot between portability 
 
 External links for readers who want to peek at related content:
 - Official macOS ecosystem overview: https://www.apple.com/macos/
-- A related field guide on ultraportables: {% post_url 2024-11-21-macbook-family-review %}
-- An older but relevant comparison: {% post_url 2023-07-01-laptop-roundup-ultimate-guide %}
+- A related field guide on ultraportables: <!-- removed broken link: 2024-11-21-macbook-family-review -->
+- An older but relevant comparison: <!-- removed broken link: 2023-07-01-laptop-roundup-ultimate-guide -->
 
 ## Real-World Use Cases: What It Feels Like Day-to-Day
 

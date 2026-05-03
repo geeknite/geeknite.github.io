@@ -13,6 +13,6 @@ This is an always updated list of the articles and reviews we are currently work
 - [GeForce RTX 4090]({{ site.constants.wsib }}GeForce%20RTX%204080) vs [GeForce RTX 3090]({{ site.constants.wsib }}GeForce%20RTX%203080) vs [GeForce RTX 3060]({{ site.constants.wsib }}GeForce%20RTX%203060) comparison
 - [Adaptador red wifi TP-LINK TL-WN822N v3 doble antena]({{ site.constants.wsib }}TL-WN822N) long term review
 - [Xbox One S]({{ site.constants.wsib }}xbox%20one%20s) vs [PS4 Neo]({{ site.constants.wsib }}PS4%20Neo)
-- [SJCAM SJ5000X Elite]({{ site.constants.wsib }}sjcam%20sj5000x%20elite) vs [GoPro Session]({%- post_url 2015-12-16-GoPro-HERO4-Session-comparativa-camaras-gopro -%}) vs [Xiaomi Yi]({{ site.constants.wsib }}xiaomi%20yi) vs [Garmin Virb Ultra 30]({{ site.constants.wsib }}garmin%20virb%20ultra%2030) vs [GoPro Hero5 Session]({{ site.constants.wsib }}GoPro%20Hero5%20Session) vs [Eken H9]({%- post_url 2017-01-02-h9-action-cam-review-primeras-impresiones -%})
+- [SJCAM SJ5000X Elite]({{ site.constants.wsib }}sjcam%20sj5000x%20elite) vs [GoPro Session]({{ site.constants.wsib }}gopro%20session) vs [Xiaomi Yi]({{ site.constants.wsib }}xiaomi%20yi) vs [Garmin Virb Ultra 30]({{ site.constants.wsib }}garmin%20virb%20ultra%2030) vs [GoPro Hero5 Session]({{ site.constants.wsib }}GoPro%20Hero5%20Session) vs [Eken H9]({{ site.constants.wsib }}eken%20h9)
 
 [![](https://1.bp.blogspot.com/-_1MA4pLpm88/WJ9_r7-tBwI/AAAAAAAAA8M/OXzzEXo54Vkvq7GaESfNSgs780EGG3KHgCLcB/s1600/working.jpg)](/p/contact.html)

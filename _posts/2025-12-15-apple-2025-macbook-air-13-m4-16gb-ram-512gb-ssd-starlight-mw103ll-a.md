@@ -12,7 +12,7 @@ In this review, we’ll peel back the aluminum all over again, crank the brightn
 
 External links: Apple’s official MacBook Air page: https://www.apple.com/macbook-air/
 
-For internal readers who want to compare to older generations, check our earlier takes here: {% post_url 2024-08-12-geeknite-macbook-air-m3-review %} and here: {% post_url 2023-11-02-geeknite-macbook-air-m2-review %}.
+For internal readers who want to compare to older generations, check our earlier takes here: <!-- removed broken link: 2024-08-12-geeknite-macbook-air-m3-review --> and here: <!-- removed: 2023-11-02-geeknite-macbook-air-m2-review -->.
 
 ## Design and Build: minimalism that slays}
 
@@ -100,7 +100,7 @@ If you already own a modern Apple device, you’ll likely appreciate the ecosyst
 - vs. M3 Air: The M4 brings faster CPU cores and improved efficiency; you’ll notice snappier app launches and smoother multitasking with the same 16GB RAM. While the chassis remains slim, the thermal profile is a little more controlled, letting you push longer before hitting thermal throttling in heavy tasks.
 - vs. M2/M1 Air: The step-up here isn’t just a processor bump; it’s a more polished overall experience. The M4 offers better battery life under similar tasks and improved integrated graphics performance for light creative work. If you’re upgrading from older models, you’ll feel the difference in day-to-day responsiveness.
 
-For a deeper dive, see our comparison post here: {% post_url 2024-07-21-geeknite-macbook-air-m4-vs-m3-comparison %}.
+For a deeper dive, see our comparison post here: <!-- removed broken link: 2024-07-21-geeknite-macbook-air-m4-vs-m3-comparison -->.
 
 ## Final thoughts and recommendation
 
@@ -118,7 +118,7 @@ Bottom line: if you want a compact, capable macOS machine that won’t weigh you
 ## Where to buy and final links
 
 - Official Apple product page: https://www.apple.com/macbook-air/
-- Our older review for context: {% post_url 2024-08-12-geeknite-macbook-air-m3-review %}
+- Our older review for context: <!-- removed broken link: 2024-08-12-geeknite-macbook-air-m3-review -->
 - External reviews (not cited here): but we recommend you visit the official page for the most current configuration options and pricing.
 
 ## Final recommendation: should you pick this up?

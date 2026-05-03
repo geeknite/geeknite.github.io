@@ -77,10 +77,10 @@ To maintain the aesthetic over years of use, wipe the metal surface with a soft 
 If you have a shelf dedicated to nostalgia and you enjoy showcasing the evolution of your hobby gear, this edition is a strong candidate for a centerpiece display. It combines practical play value with a conversation starter, something that rare editions often struggle to achieve. If your display space is modest, consider placing the case on a decorative stand or a lighted shelf that helps highlight the etched logo without requiring you to tilt your head awkwardly to admire the detail.
 
 ## Related Reads and Community Links
-- For a broader look at the Phase 10 ecosystem, check out the editorial on how classic games age gracefully in a modern hobby space: {{ post_url 'geeknite-board-game-night-essentials' }}
-- If you want to explore other long running card games with collectible editions, you might enjoy the retrospective on retro hobby gear: {{ post_url 'nostalgia-gaming-collectibles-roundup' }}
-- Curious about how collectors rate premium components in long running franchises? Our community opinions are summarized in the forum thread linked here: {{ post_url 'board-games-collectors-opinions' }}
-- For a practical guide on upgrading your game night setup, see the companion post on organizing your shelf space for maximum gameplay efficiency: {{ post_url 'game-night-organization-101' }}
+- For a broader look at the Phase 10 ecosystem, check out the editorial on how classic games age gracefully in a modern hobby space: <!-- removed: geeknite-board-game-night-essentials -->
+- If you want to explore other long running card games with collectible editions, you might enjoy the retrospective on retro hobby gear: <!-- removed: nostalgia-gaming-collectibles-roundup -->
+- Curious about how collectors rate premium components in long running franchises? Our community opinions are summarized in the forum thread linked here: <!-- removed: board-games-collectors-opinions -->
+- For a practical guide on upgrading your game night setup, see the companion post on organizing your shelf space for maximum gameplay efficiency: <!-- removed: game-night-organization-101 -->
 
 ## Final Verdict: Who Should Buy This Edition
 If you are a Phase 10 devotee who has run through the standard edition multiple times and still finds joy in the familiar rhythm, this 40th Anniversary edition offers a meaningful upgrade that is not merely cosmetic. It preserves the heart of Phase 10 while delivering a premium experience that justifies a premium look and feel. Casual players may still have a great time with the standard edition, and that is perfectly fine. This edition is for the collector who wants a durable, display worthy box that also plays nicely and stays resilient under regular use. It is for the player who values the tactile pleasure of a heftier case and the sense of occasion that a milestone anniversary deserves.

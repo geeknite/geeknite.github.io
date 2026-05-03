@@ -71,7 +71,7 @@ For those who want to confirm the product details, you can check Wizards of the 
 
 Internal Reads: Where Geeknite Has Been Before
 
-If you’re new to our corner of the internet, you can explore related posts on our site to get a sense of how we approach set reviews, budgeting, and drafting discussions. For more on building a budget-friendly MTG deck, see our post here: <a href="{% post_url 2024-07-01-budget-drafting-mtg %}">Budget Drafting Tips for MTG</a>. To understand how to evaluate value across a multi-box purchase, check our case strategy guide here: <a href="{% post_url 2023-11-12-case-value-analysis-%}">Case Value Analysis</a>. And if you want a taste of how we balance humor with mechanics in our reviews, you can read our lighter take on a previous set here: <a href="{% post_url 2022-03-14-geeknite-sets-and-smiles %}">Sets and Smiles: A Lighthearted Look</a>.
+If you’re new to our corner of the internet, you can explore related posts on our site to get a sense of how we approach set reviews, budgeting, and drafting discussions. For more on building a budget-friendly MTG deck, see our post here: <a href="<!-- removed broken link: 2024-07-01-budget-drafting-mtg -->">Budget Drafting Tips for MTG</a>. To understand how to evaluate value across a multi-box purchase, check our case strategy guide here: <a href="<!-- removed: 2023-11-12-case-value-analysis- -->">Case Value Analysis</a>. And if you want a taste of how we balance humor with mechanics in our reviews, you can read our lighter take on a previous set here: <a href="<!-- removed: 2022-03-14-geeknite-sets-and-smiles -->">Sets and Smiles: A Lighthearted Look</a>.
 
 Draft Night Etiquette and Social Dynamics
 

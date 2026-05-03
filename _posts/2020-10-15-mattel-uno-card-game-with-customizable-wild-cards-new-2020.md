@@ -103,9 +103,9 @@ Remember: UNO is a living, evolving party game. The 2020 edition invites you to 
 - UNO on BoardGameGeek: https://boardgamegeek.com/boardgame/131440/uno
 
 ## Cross-Posts You Might Enjoy
-- {% post_url 2021-04-20-creative-types-night %}
-- {% post_url 2020-11-02-best-family-board-games-2020 %}
-- {% post_url 2022-03-14-quick-party-games-for-small-spaces %}
+- <!-- removed broken link: 2021-04-20-creative-types-night -->
+- <!-- removed broken link: 2020-11-02-best-family-board-games-2020 -->
+- <!-- removed broken link: 2022-03-14-quick-party-games-for-small-spaces -->
 
 ## Final Recommendation and Wrap-Up
 If you’re in the mood for a quick-hitting, color-splashed party game that rewards imagination as much as it rewards quick reflexes, the Mattel UNO Card Game with Customizable Wild Cards is a solid pick. It can sit on the shelf as a goofy cooler of chaos for casual game nights or be the spark that turns a sleepy gathering into a memorable, story-rich event. It’s not a premium strategy game, nor does it pretend to be. It is, at its core, a social tool—an invitation to improvise, to banter, to celebrate small wins, and to laugh together when someone writes an effect that backfires in glorious fashion.

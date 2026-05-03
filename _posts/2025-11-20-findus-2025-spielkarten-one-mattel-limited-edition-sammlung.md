@@ -82,8 +82,8 @@ External media and references:
 - Product imagery and unboxing galleries: https://example.com/findus-2025-spielkarten-gallery
 
 ## Internal links to related Geeknite posts
-- Unboxing archives and Mattel collaboration breakdown: {% post_url 2024-09-15-geeknite-mattel-crossover-review %}
-- Collector’s guide to limited edition playing cards: {% post_url 2023-12-01-limited-edition-card-guide %}
+- Unboxing archives and Mattel collaboration breakdown: <!-- removed broken link: 2024-09-15-geeknite-mattel-crossover-review -->
+- Collector’s guide to limited edition playing cards: <!-- removed broken link: 2023-12-01-limited-edition-card-guide -->
 
 ## Final thoughts and recommendation
 

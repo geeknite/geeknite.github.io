@@ -64,9 +64,10 @@ Se hai una versione classica di UNO e stai pensando di passare a questa edizione
 ## Prezzi, disponibilità e dove comprarlo
 
 La disponibilità di edizioni limitate varia spesso in base alle scorte e alle strategie di marketing del produttore. Se vuoi aumentare le possibilità di avere l edizione Carletto Findus 2025, qui ci sono alcuni consigli pratici:
+
 - Controlla i canali ufficiali di Mattel per eventuali preordini o rifornimenti. Spesso le edizioni limitate hanno finestre temporali strette. Pur non citando fonti, puoi usare la pagina ufficiale del prodotto per rimanere aggiornato. [pagina ufficiale UNO su Mattel](https://www.mattelgames.com/en-us/game/uno)
 - Verifica i rivenditori autorizzati e le boutique di giochi da tavolo locali. Alcuni negozi fanno tirature anticipate, permettendoti di assicurarti una copia prima che vada esaurita.
-- Se ti piace uno sguardo comparativo, dai un occhiata anche a post dedicati alle edizioni di UNO passate. Ad esempio, per un confronto tra edizioni classiche e alternative, dai un occhio a un nostro post dedicato agli IQ di giochi di carte: {% post_url 2024-uno-review %}.
+- Se ti piace uno sguardo comparativo, dai un occhiata anche a post dedicati alle edizioni di UNO passate. Ad esempio, per un confronto tra edizioni classiche e alternative, dai un occhio a un nostro post dedicato agli IQ di giochi di carte: <!-- removed broken link: 2024-uno-review -->.
 
 ## Confronti con altre edizioni UNO: dove si posiziona questa novita
 
@@ -75,18 +76,19 @@ Nel panorama delle edizioni UNO, questa versione findus carlottiana si muove tra
 ## Immagini e componenti: un piccolo showroom personale
 
 Per darti un idea concreta di cosa ti trovi nel pacco, ecco come appare la confezione e le componenti principali. [Immagine di apertura: Copertina UNO Findus 2025](assets/images/uno-findus-2025.jpg) mostra una grafica accattivante, con un character design moderato e una palette cromatica che non stanco l occhio. All interno trovi:
-- un set di carte UNO standard con nuove illustrazioni dedicate a Carletto Findus; 
-- una carta speciale poliedrica legata ai temi della collezione; 
-- una guida rapida alle regole rinnovate; 
+
+- un set di carte UNO standard con nuove illustrazioni dedicate a Carletto Findus;
+- una carta speciale poliedrica legata ai temi della collezione;
+- una guida rapida alle regole rinnovate;
 - una piccola nota sul background della mascotte che rende la confezione un po di piu interessante per i collezionisti.
 
 Un piccolo dettaglio pratico: la texture delle carte offre una sensazione piacevole al tatto e resiste bene all uso prolungato. Non è il tipo di materiale che si ammacca facilmente, rendendo l esperienza di gioco abbastanza fluida anche durante una serata animata. Se vuoi dare un tocco di stile in più al tavolo, magari aggiungi una seconda immagine su una pagina social, usando una seconda foto statica: una versione in close-up delle illustrazioni, per mostrare i dettagli.
 
 ## Collegamenti interni: come inserire questa edizione all interno del portfolio Geeknite
 
-- Se vuoi leggere un pezzo che parla di altre edizioni di UNO, dai un occhiata al nostro post su UNO classico e le sue evoluzioni: {% post_url 2023-uno-classic-review %}.
-- Per un confronto tra edizioni a tema e edizioni standard, leggi l articolo sul bilanciamento tra novita e semplicità: {% post_url 2022-edizioni-uno-balance %}.
-- Se ti va di esplorare altre idee di giochi di carte e colonne sonore nerd, troverai contenuti correlati nel nostro archivio: [Giochi di carte e anime: una guida pratica](https://www.geeknite.it/giochi-carte-anim e-guide). 
+- Se vuoi leggere un pezzo che parla di altre edizioni di UNO, dai un occhiata al nostro post su UNO classico e le sue evoluzioni: <!-- removed broken link: 2023-uno-classic-review -->.
+- Per un confronto tra edizioni a tema e edizioni standard, leggi l articolo sul bilanciamento tra novita e semplicità: <!-- removed broken link: 2022-edizioni-uno-balance -->.
+- Se ti va di esplorare altre idee di giochi di carte e colonne sonore nerd, troverai contenuti correlati nel nostro archivio: [Giochi di carte e anime: una guida pratica](https://www.geeknite.it/giochi-carte-anim e-guide).
 
 ## Conclusione e valutazione finale
 
