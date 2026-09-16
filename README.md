@@ -1,30 +1,31 @@
-# geeknite.github.io -- moved
+# geeknite.github.io -- migrated
 
-**The blog now lives at <https://blog.geeknite.com/>.**
-**Its source now lives in [`FerranSalguero/geek-blog`](https://github.com/FerranSalguero/geek-blog).**
+**This blog moved to <https://blog.geeknite.com/>.**
+**Its source moved to [`FerranSalguero/geek-blog`](https://github.com/FerranSalguero/geek-blog).**
 
-This repository is the blog's ancestor. It is frozen: nothing here is published
-any more, and the files under `_posts/`, `_pages/`, `_data/` and the rest are
-kept only as history. **Do not edit a post here** -- it will never reach the
-site. Write it in `geek-blog`, which deploys to `blog.geeknite.com` through
-Cloudflare Pages.
+This repository was the blog's ancestor. Its content -- posts, layouts, data,
+scripts -- was **removed from `main` on 2026-09-16** and now lives only in the git
+history, where `git log` still reaches it. Nothing here is published any more.
+**Do not write a post here**; write it in `geek-blog`, which deploys to
+`blog.geeknite.com` through Cloudflare Pages.
 
-The repository stays alive for one reason: to send old links to the new address.
-
-## How the redirect works
-
-GitHub Pages still serves this repository at `https://geeknite.github.io/`, and
-two files do the whole job:
+What is left is the redirect, and that is the only reason the repository exists:
 
 | file | what it covers |
 |---|---|
 | `index.html` | the home page -- `canonical` + `meta refresh` to `https://blog.geeknite.com/` |
 | `404.html` | **every other path** -- rewrites the location to the *same path* on `blog.geeknite.com` |
+| `robots.txt` | lets crawlers read the two files above |
+| `.nojekyll` | no build; the four files are served as they are |
 
-Path preservation is what makes the old permalinks land. This blog used
-`/:year/:month/:title.html`; `geek-blog` uses `/:year/:month/:title`, and its
-`_redirects` file turns the `.html` form into a 301. So an old link resolves in
-two hops, verified end to end:
+Deleting `index.html` or `404.html` does not tidy this repository up, it kills the
+redirect.
+
+## Old links still land
+
+This blog used the permalink `/:year/:month/:title.html`; `geek-blog` uses
+`/:year/:month/:title`, and its `_redirects` turns the `.html` form into a 301. The
+path is preserved across the hop, so an old link resolves in two, verified end to end:
 
 ```
 https://geeknite.github.io/2016/03/nintendo-ds-lite-ultimate-retro-handheld-review.html
@@ -32,26 +33,20 @@ https://geeknite.github.io/2016/03/nintendo-ds-lite-ultimate-retro-handheld-revi
   -> 301 -> https://blog.geeknite.com/2016/03/nintendo-ds-lite-ultimate-retro-handheld-review  (200)
 ```
 
-## Why it is not an HTTP 301
+## Why this is not an HTTP 301
 
-**GitHub Pages cannot return a 301.** It has no server-side redirect rules: a
-static host answers `200` for a file that exists and `404` for one that does
-not, and nothing in a repository changes that. A `CNAME` file produces real
-redirects, but only towards the custom domain it names -- and
-`blog.geeknite.com` is served by Cloudflare Pages now, so this repository
-cannot claim that hostname.
+**GitHub Pages cannot return a 301 from anything in a repository.** It is a static
+host: 200 for a file that exists, 404 for one that does not. The only real redirect it
+emits is `<owner>.github.io/*` towards the custom domain named in a `CNAME` file -- and
+`blog.geeknite.com` is served by Cloudflare Pages now, so this repository cannot claim
+that hostname back.
 
-What is left is the documented equivalent that search engines follow: a
-`<link rel="canonical">` plus a `<meta http-equiv="refresh" content="0; ...">`.
-It is treated as a permanent move. Two consequences worth knowing before
-someone files this as a bug:
+HTML cannot supply one either. A 301 is a response status line plus a `Location`
+header, both sent before the browser parses a single tag; `<meta http-equiv>` does not
+set an HTTP header despite its name, and no server reads it. What is left is the
+documented equivalent that search engines follow as a permanent move: a canonical link
+plus a zero-delay meta refresh.
 
-- Requests for any path other than `/` are answered with **HTTP 404** plus the
-  redirect markup. Browsers follow it; crawlers see the status first. This is
-  the ceiling of the platform, not an oversight.
-- `robots.txt` deliberately keeps crawlers out of the frozen source
-  (`_posts/`, `_data/`, `*.md`, ...). `.nojekyll` means this site serves the
-  repository files verbatim, so without those rules the 926 old posts would be
-  fetchable as a second copy of a corpus that is published at
-  `blog.geeknite.com`. The root stays crawlable on purpose -- that is how the
-  redirect gets seen.
+One consequence to state rather than re-diagnose: every path other than `/` is answered
+with **HTTP 404** plus the redirect markup. Browsers follow it; crawlers see the status
+first. That is the ceiling of the platform, which is why `404.html` carries a `noindex`.
