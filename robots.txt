@@ -1,7 +1,34 @@
----
-layout: none
----
-User-agent: *
-Allow: /
+# This site only redirects to https://blog.geeknite.com/ -- see README.md.
+#
+# Served verbatim: .nojekyll is set, so nothing renders Liquid here. The
+# previous version of this file still carried Jekyll front matter and a
+# "Sitemap: {{ site.url }}/sitemap.xml" line, both of which reached crawlers
+# as literal text. There is no sitemap on this host; the blog publishes its
+# own at https://blog.geeknite.com/sitemap.xml.
+#
+# The root must stay crawlable -- that is how the redirect in index.html and
+# 404.html gets read. What is closed off below is the frozen source, which
+# .nojekyll would otherwise serve as a second copy of a corpus that is
+# published at blog.geeknite.com.
 
-Sitemap: {{ site.url }}/sitemap.xml
+User-agent: *
+Allow: /$
+Disallow: /_posts/
+Disallow: /_pages/
+Disallow: /_data/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /assets/
+Disallow: /bck/
+Disallow: /scripts/
+Disallow: /tmp_
+Disallow: /*.md$
+Disallow: /*.yml$
+Disallow: /*.csv$
+Disallow: /*.json$
+Disallow: /*.txt$
+Disallow: /*.sh$
+Disallow: /*.py$
+Disallow: /*.ps1$
+Disallow: /*.bat$
+Disallow: /*.log$

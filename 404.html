@@ -1,8 +1,25 @@
 <!DOCTYPE html>
+<!--
+  This blog moved to https://blog.geeknite.com/ (source: FerranSalguero/geek-blog).
+  This repository only redirects old links. See README.md.
+
+  GitHub Pages serves this file for every path that does not exist here, which
+  since the move is every path. It cannot return an HTTP 301 -- a static host
+  has no redirect rules -- so the permanent move is expressed the documented
+  way: rewrite the location to the same path on the new host.
+
+  The status line stays 404 and there is no way around it, so this page must
+  not be indexed on its own: hence the noindex. A canonical would be pointless
+  here, a 404 body is not a candidate for consolidation.
+
+  The meta refresh is the no-JavaScript fallback. It can only reach the home
+  page, because the path is not known without reading the location.
+-->
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Redirecting to blog.geeknite.com</title>
+  <meta name="robots" content="noindex">
   <script>
     var path = window.location.pathname + window.location.search + window.location.hash;
     window.location.replace("https://blog.geeknite.com" + path);
@@ -10,6 +27,8 @@
   <meta http-equiv="refresh" content="0; url=https://blog.geeknite.com/">
 </head>
 <body>
-  <p>This page has moved to <a href="https://blog.geeknite.com/">blog.geeknite.com</a></p>
+  <p>This blog has moved to <a href="https://blog.geeknite.com/">blog.geeknite.com</a>.</p>
+  <p>You are being sent to the same page at its new address. If nothing happens,
+     <a href="https://blog.geeknite.com/">open the blog</a>.</p>
 </body>
 </html>
